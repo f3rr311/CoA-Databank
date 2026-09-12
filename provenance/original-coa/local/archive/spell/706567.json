@@ -1,0 +1,8 @@
+{
+  "name_enus": "Legionwake",
+  "icon": "inv_shield_draenorraid_d_03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Legionwake</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Allows <span style=\"color: #ffffff;\">Shieldgore</span> to strike up to 5 enemies.</span></td></tr></table><!--?706567:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

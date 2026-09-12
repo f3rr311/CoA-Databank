@@ -1,0 +1,8 @@
+{
+  "name_enus": "Galaxy",
+  "icon": "spell_holy_elunesgrace",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Galaxy</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #66ccff;\">Scattered Stars</span> can now stack 2 additional times.</span></td></tr></table><!--?800508:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

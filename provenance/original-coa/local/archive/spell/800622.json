@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chosen of the Light",
+  "icon": "misc_legionfall_paladin",
+  "tooltip_enus": "<table><tr><td><b>Chosen of the Light</b><br />25% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Become An'she's chosen one, reducing your damage taken by 50% for 8&nbsp;sec.<br /><br />Taking damage while below 50% health will instantly heal you for 10% of your maximum health. Can only occur once.</span></td></tr></table><!--?800622:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,3474 @@
+{
+ "class": {
+  "id": 26,
+  "name": "Starcaller",
+  "slug": "starcaller",
+  "color": "#FFFFFF"
+ },
+ "specs": [
+  {
+   "id": 67,
+   "name": "Moon Guard",
+   "tabId": 67
+  },
+  {
+   "id": 68,
+   "name": "Moon Priest",
+   "tabId": 68
+  },
+  {
+   "id": 69,
+   "name": "Sentinel",
+   "tabId": 69
+  },
+  {
+   "id": 89,
+   "name": "Warden",
+   "tabId": 89
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 192,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Starcaller (class tree)",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "26-87-1-0",
+     "name": "Touch of Moonlight",
+     "x": 1,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_moonglow",
+     "spellId": 574328,
+     "description": "Drains 10% Maximum ManaQuickly heal an ally with Elune's touch, scaling with maximum mana.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-87-3-0",
+     "name": "Shooting Star",
+     "x": 3,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "artifactability_balancedruid_moonandstars",
+     "spellId": 800505,
+     "description": "Sprint forward with astral magic at your feet, increasing your movement speed by 60% for 4 seconds. While active, you cannot be slowed and cannot stop moving.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-87-5-0",
+     "name": "Warden's Blade",
+     "x": 5,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_maievblade_arcane",
+     "spellId": 805508,
+     "description": "Attack with celestial fervor, dealing 150% Weapon Damage and triggering a unique effect based on your active Aspect.Cosmic Renewal (Aspect of the Moonwell)Regenerates 30% of your maximum mana.Warden&#39;s Strike (Aspect of the Warden)Reduces healing done to the enemy by -40% for 8 seconds.Star Sear (Aspect of the Stars)Increases the damage of your Lunar Lance by 25%.Cosmic Trap (Aspect of the Cosmos)Throw a magic net trap at an enemy, rooting them for 40 seconds (8 sec vs players). Damage dealt may end the effect.Siphoning Arrow (Aspect of the Huntress)Drains 10% maximum mana from the target.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-87-7-0",
+     "name": "Infused Aegis",
+     "x": 7,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_nightfae_soulshape",
+     "spellId": 704777,
+     "description": "Drains 30% Maximum ManaInstantly counterattack any enemy that strikes you from the front in melee for Arcane damage, lasting 10 seconds. Can only occur once per sec per enemy.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-87-2-1",
+     "name": "Astral Projection",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_astralrecalgroup",
+     "spellId": 300994,
+     "description": "Reduces the Energy cost of Celestial Strike and Moon Arrow by -10.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-3-0",
+      "26-87-1-0"
+     ]
+    },
+    {
+     "id": "26-87-4-1",
+     "name": "Star Citizen",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_arcane_arcanetactics",
+     "spellId": 704776,
+     "description": "Increases effectiveness of Celestial Mind by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-3-0",
+      "26-87-5-0"
+     ]
+    },
+    {
+     "id": "26-87-6-1",
+     "name": "Flow of Mana",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_manafeed",
+     "spellId": 704604,
+     "description": "Increases your Intellect and Strength by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-7-0",
+      "26-87-5-0"
+     ]
+    },
+    {
+     "id": "26-87-1-2",
+     "name": "Bright Moon",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_teleport",
+     "spellId": 801226,
+     "description": "Allows Lunar Phase to stack 4 additional times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-2-1",
+      "26-87-1-0"
+     ]
+    },
+    {
+     "id": "26-87-4-2",
+     "name": "Galaxy",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_elunesgrace",
+     "spellId": 800508,
+     "description": "Your Scattered Stars can now stack 2 additional times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-4-1",
+      "26-87-6-1",
+      "26-87-2-1"
+     ]
+    },
+    {
+     "id": "26-87-7-2",
+     "name": "Protected by the Stars",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_shield_1h_artifactstormfist_d_04",
+     "spellId": 300258,
+     "description": "Increases your Armor by 300% of your Intellect and reduces the duration of stuns and disarms against you by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-6-1",
+      "26-87-7-0"
+     ]
+    },
+    {
+     "id": "26-87-0-3",
+     "name": "Enchanted Well",
+     "x": 0,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_brilliance",
+     "spellId": 680820,
+     "description": "Reduces the cast time of Moonwell Splash by -0.3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-1-2"
+     ]
+    },
+    {
+     "id": "26-87-2-3",
+     "name": "Aspect of the Cosmos",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_ardenweald_priest",
+     "spellId": 801123,
+     "description": "Melee and ranged damage dealt has a 40% chance to slow enemy movement speed by -20% for 10 seconds, stacking 2 times and apply Scattered Stars.Scattered StarsCan be consumed by spells to deal additional Arcane Damage. Lasts 30 seconds, stacking 4 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-87-4-2",
+      "26-87-1-2"
+     ]
+    },
+    {
+     "id": "26-87-4-3",
+     "name": "Starbarian",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_axe_1h_pandaraid_d_01",
+     "spellId": 704778,
+     "description": "Increases your haste by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-4-2"
+     ]
+    },
+    {
+     "id": "26-87-6-3",
+     "name": "Astral Aegis",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_bastion_monk",
+     "spellId": 806155,
+     "description": "Drains 30% Maximum ManaFor 10 seconds, direct Magic damage taken will silence the attacker for 1 seconds and deal 57 + 18% arcane SP Arcane damage to them.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-87-7-2",
+      "26-87-4-2"
+     ]
+    },
+    {
+     "id": "26-87-8-3",
+     "name": "Moonlight Ripple",
+     "x": 8,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_socererking_arcanemines",
+     "spellId": 503583,
+     "description": "Reduces the mana cost of your Aegis spells by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-7-2"
+     ]
+    },
+    {
+     "id": "26-87-2-4",
+     "name": "Universal Power",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_manacup_border",
+     "spellId": 300262,
+     "description": "Your Aspect of the Cosmos now stacks 1 additional time.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-2-3"
+     ]
+    },
+    {
+     "id": "26-87-4-4a",
+     "name": "Lunar Anomaly",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_fire_blueflamestrike",
+     "spellId": 300989,
+     "description": "Increases the damage of Lunar Lance by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-4-3"
+     ]
+    },
+    {
+     "id": "26-87-4-4b",
+     "name": "Moonlit Lancer",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_hunter_resourcefulness",
+     "spellId": 560662,
+     "description": "Your Lunar Lance now deals additional Arcane damage over 20 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-87-6-4",
+     "name": "Mu'sha's Resilience",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_fabric_moonrag_01",
+     "spellId": 704774,
+     "description": "Reduces Arcane damage taken by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-6-3"
+     ]
+    },
+    {
+     "id": "26-87-0-5",
+     "name": "The Stars Align",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_void_stars_border",
+     "spellId": 300251,
+     "description": "Increases your maximum mana by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-0-3",
+      "26-87-2-4"
+     ]
+    },
+    {
+     "id": "26-87-2-5",
+     "name": "Vial of Moonwell Water",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_potionc_3",
+     "spellId": 804652,
+     "description": "Drink from your enchanted moonwell vial, instantly removing all crowd control effects and making you immune to them for 3 seconds.Usable while stunned, feared, or polymorphed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-87-4-4a",
+      "26-87-2-4",
+      "26-87-4-4b"
+     ]
+    },
+    {
+     "id": "26-87-4-5",
+     "name": "Starshatter",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "sha_ability_mage_firestarter_nightborne",
+     "spellId": 801135,
+     "description": "Call down the power of the stars, sending forth Elune’s astral light in a line outward from you, stunning enemies struck for 5 seconds and applying a Scattered Star.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-87-4-4a",
+      "26-87-4-4b"
+     ]
+    },
+    {
+     "id": "26-87-6-5",
+     "name": "Reverse Magic",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_10_dungeonjewelry_dragon_trinket_1arcanemagical_blue",
+     "spellId": 570231,
+     "description": "Reverse the next spell cast on you within 3 seconds, reflecting it back to its caster.Reversing a spell in this way drains 600 + 20% SP of the attacker's mana.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-87-6-4",
+      "26-87-4-4a",
+      "26-87-4-4b"
+     ]
+    },
+    {
+     "id": "26-87-8-5",
+     "name": "Star-Charged",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_arcane_arcane04",
+     "spellId": 500608,
+     "description": "Reduces the cooldown of your Aspects by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-6-4",
+      "26-87-8-3"
+     ]
+    },
+    {
+     "id": "26-87-2-6",
+     "name": "Moonwell Tides",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_elemental_mote_water01",
+     "spellId": 560951,
+     "description": "Casting Vial of Moonwell Water now additionally heals you equal to 25% of your current mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-2-5"
+     ]
+    },
+    {
+     "id": "26-87-4-6a",
+     "name": "Moonwalk",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_manafeet_border",
+     "spellId": 300256,
+     "description": "Increases your movement speed by 20% at night.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-4-5"
+     ]
+    },
+    {
+     "id": "26-87-4-6b",
+     "name": "Twinkle Toes",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "rogue_burstofspeed",
+     "spellId": 704775,
+     "description": "Increases the movement speed granted by Shooting Star by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-87-6-6",
+     "name": "Constellation Barrier",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_t_nhance_rpg_icons_arcaneweapons_border",
+     "spellId": 300259,
+     "description": "Reduces all Magic damage taken by -5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-6-5"
+     ]
+    },
+    {
+     "id": "26-87-1-7",
+     "name": "Moonblessed Aspects",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_shoulder_leather_raiddruid_q_01",
+     "spellId": 706232,
+     "description": "Increases the effectiveness of Aspects by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-0-5",
+      "26-87-2-6"
+     ]
+    },
+    {
+     "id": "26-87-4-7",
+     "name": "Way of the Goddess",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_diablo3_arrowrain_mage",
+     "spellId": 801976,
+     "description": "Reduces the duration of harmful magic effects on you by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-2-6",
+      "26-87-4-6a",
+      "26-87-6-6",
+      "26-87-4-6b"
+     ]
+    },
+    {
+     "id": "26-87-7-7a",
+     "name": "Guided Blades",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_warrior_sharpenblade",
+     "spellId": 680738,
+     "description": "Reduces the cooldown of Warden's Blade by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-8-5",
+      "26-87-6-6"
+     ]
+    },
+    {
+     "id": "26-87-7-7b",
+     "name": "Glaive Tossing",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_glove_armor_nightborne_d_01",
+     "spellId": 680737,
+     "description": "Increases the range of Warden's Blade by 20 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-87-1-8",
+     "name": "Cosmic Duality",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "talentspec_druid_balance",
+     "spellId": 504628,
+     "description": "Dealing damage grants you Cosmic Harmony, increasing the healing of your next ability within 6 seconds by 5%.Effective healing grants you Cosmic Wrath, increasing the damage of your next ability within 6 seconds by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-1-7"
+     ]
+    },
+    {
+     "id": "26-87-3-8",
+     "name": "Pouch of Stardust",
+     "x": 3,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_inscription_trinket_mage",
+     "spellId": 504694,
+     "description": "Increases the critical strike chance and critical damage of consumed Scattered Stars by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-4-7"
+     ]
+    },
+    {
+     "id": "26-87-5-8",
+     "name": "Continual Starfall",
+     "x": 5,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_druid_starfall",
+     "spellId": 503584,
+     "description": "Astral Flares called down by Aspect of the Stars now increase your haste by 3% for 5 seconds, stacking 3 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-4-7"
+     ]
+    },
+    {
+     "id": "26-87-7-8",
+     "name": "Nightborne Armaments",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_helm_armor_nightborne_d_01",
+     "spellId": 680789,
+     "description": "While below 35% health, your damage taken is reduced by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-7-7a",
+      "26-87-7-7b"
+     ]
+    },
+    {
+     "id": "26-87-1-9",
+     "name": "Moonwell",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_shawaterelemental_swirl",
+     "spellId": 804739,
+     "description": "Creates a zone blessed by moonwell waters for 15 seconds at the target location. All allied players standing within the well receive 25% more healing, and their mana regeneration is increased by 100%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-87-1-8",
+      "26-87-3-8"
+     ]
+    },
+    {
+     "id": "26-87-4-9",
+     "name": "Second Moon",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_magicmoonbuff_border",
+     "spellId": 300252,
+     "description": "Every 10th Scattered Star consumed now launches a comet at an enemy dealing 304 + 30% arcane SP Arcane damage to 5 enemies within 5 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-87-5-8",
+      "26-87-3-8"
+     ]
+    },
+    {
+     "id": "26-87-7-9",
+     "name": "Elune's Presence",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_ardenweald_paladin_summer",
+     "spellId": 680774,
+     "description": "Gain the blessing of a goddess, granting all party or raid members within 40 yds 20% temporary maximum health for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-87-5-8",
+      "26-87-7-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 67,
+   "name": "Moon Guard",
+   "nodeCount": 36,
+   "nodes": [
+    {
+     "id": "26-67-4-0",
+     "name": "Starburst",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "ability_argus_soulburst",
+     "spellId": 801996,
+     "description": "Applies 1 Scattered Star Per HitSmash up to 8 enemies, dealing 2 + 30% arcane SP + 15% AP Arcane damage, scaling with block value and maximum mana and reducing their attack speed by -20% for 10 seconds.Consuming a Scattered Star reduces the remaining cooldown of Starburst by -2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-67-10-0",
+     "name": "Moon Guard",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "artifactability_balancedruid_newmoon",
+     "spellId": 92132,
+     "description": "Level 10 PassiveYou now gain Intellect equal to your Strength.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-67-3-1",
+     "name": "Blanket of Stars",
+     "x": 3,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_cosmicvoid_orb",
+     "spellId": 804381,
+     "description": "Cover your shield in a blanket of stars for 8 seconds, increasing your block chance and block value by 100%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-67-4-0"
+     ]
+    },
+    {
+     "id": "26-67-5-1",
+     "name": "Starsweep",
+     "x": 5,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_sword_1h_warfrontsnightelf_d_01",
+     "spellId": 805550,
+     "description": "Consumes Scattered StarsSweep an enemy and all nearby enemies with your astral blade, dealing 30 + 30% AP + 35% SP Arcane damage.Every Scattered Star consumed reduces the cooldown of this spell by -3 sec.Consume Scattered StarsDeals 7 + 18.22% SP Arcane Damage and restores 8% maximum mana for each Scattered Star.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-67-4-0"
+     ]
+    },
+    {
+     "id": "26-67-2-2",
+     "name": "Improved Eclipse of Fury",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "spell_arcane_arcane01",
+     "spellId": 704793,
+     "description": "Increases the effectiveness of Eclipse of Fury by 40%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-3-1"
+     ]
+    },
+    {
+     "id": "26-67-4-2",
+     "name": "Moonstone Hilt",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_jewelcrafting_starofelune_02",
+     "spellId": 300250,
+     "description": "Increases your parry chance by 2% and block value by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-3-1",
+      "26-67-5-1"
+     ]
+    },
+    {
+     "id": "26-67-6-2",
+     "name": "Nebula",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "nhi_manashield_border",
+     "spellId": 300992,
+     "description": "Blocking enemy attacks now applies Scattered Stars to the attacker.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-5-1"
+     ]
+    },
+    {
+     "id": "26-67-10-2",
+     "name": "Asteroid Belt",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "_d3arcaneorb",
+     "spellId": 574349,
+     "description": "Level 20 PassiveEvery 15 sec, you now gain Asteroid Belt.In addition, your hit rating is increased by 5% of your Intellect and your expertise is increased by 8.Asteroid BeltBlock rating, parry rating, and block value increased based on how much mana you had when this was applied for 15 seconds.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "26-67-10-0"
+     ]
+    },
+    {
+     "id": "26-67-0-3",
+     "name": "Dance In The Starlight",
+     "x": 0,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_helm_mask_fittedalpha_b_01_nightborne_02",
+     "spellId": 503637,
+     "description": "Reduces the cooldown of Blanket of Stars by -10 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-2-2"
+     ]
+    },
+    {
+     "id": "26-67-4-3",
+     "name": "Starlit Finesse",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_staff_2h_artifactelune_d_06",
+     "spellId": 574350,
+     "description": "Increases your hit and critical strike chance by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-4-2"
+     ]
+    },
+    {
+     "id": "26-67-8-3",
+     "name": "Celestial Divination",
+     "x": 8,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "achievement_faction_celestials",
+     "spellId": 560319,
+     "description": "Increases your chance to dodge by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-6-2"
+     ]
+    },
+    {
+     "id": "26-67-2-4",
+     "name": "Tyrande's Guidance",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_weapon_shortblade_79",
+     "spellId": 704788,
+     "description": "Increases the critical strike chance of your Starburst by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-4-3",
+      "26-67-2-2"
+     ]
+    },
+    {
+     "id": "26-67-4-4",
+     "name": "Astral Reconstitution",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_cosmicvoid_buff",
+     "spellId": 801155,
+     "description": "Surround yourself with lunar light, causing 30% of damage taken to be converted into mana for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-67-4-3"
+     ]
+    },
+    {
+     "id": "26-67-6-4",
+     "name": "Moonflares",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "5_moon_border",
+     "spellId": 560501,
+     "description": "Avoiding melee attacks will call down a Moonflare at the attacker, dealing 66 Arcane damage.Can occur only once per second.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-4-3",
+      "26-67-6-2"
+     ]
+    },
+    {
+     "id": "26-67-10-4",
+     "name": "Crystal Shield",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_staff_2h_artifactheartofkure_d_01",
+     "spellId": 680748,
+     "description": "Level 30 PassiveIncreases your Stamina by 10% and increases your spell damage by 25% of your attack power.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "26-67-10-2"
+     ]
+    },
+    {
+     "id": "26-67-0-5",
+     "name": "Starcovered Night",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_staff_2h_warfrontsnightelf_d_01",
+     "spellId": 503639,
+     "description": "Increases the duration of Blanket of Stars by 4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-0-3",
+      "26-67-2-4"
+     ]
+    },
+    {
+     "id": "26-67-2-5",
+     "name": "Pulsar Explosion",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_sword_121",
+     "spellId": 704794,
+     "description": "Increases the damage of Celestial Cleave by 10% and allows it to affect 1 additional enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-2-4"
+     ]
+    },
+    {
+     "id": "26-67-4-5",
+     "name": "Shrouded Stars",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "spell_holy_elunesgrace",
+     "spellId": 704785,
+     "description": "Reduces damage taken by all party and raid members by -3%.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-4-4"
+     ]
+    },
+    {
+     "id": "26-67-6-5",
+     "name": "Moonveil Screen",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "spell_nature_moonglow",
+     "spellId": 680779,
+     "description": "Increases the damage of Starsunder and Moonflare by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-6-4"
+     ]
+    },
+    {
+     "id": "26-67-8-5",
+     "name": "Blade of the Moon",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_staff_2h_artifactelune_d_01",
+     "spellId": 802680,
+     "description": "Consuming Scattered Stars now has a 15% chance to transform Celestial Strike into Moonblade for 8 seconds.MoonbladeDevastate an enemy, dealing 130% Weapon Damage plus 100% Intellect Arcane damage and regenerating 15% missing mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-8-3",
+      "26-67-6-4"
+     ]
+    },
+    {
+     "id": "26-67-1-6",
+     "name": "Starburst Invigoration",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "spell_shadow_manaburn",
+     "spellId": 704792,
+     "description": "Increases your Energy regeneration by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-0-5",
+      "26-67-2-5"
+     ]
+    },
+    {
+     "id": "26-67-3-6",
+     "name": "Cosmic Crown",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_jewelcrafting_70_cutgem03_blue",
+     "spellId": 804385,
+     "description": "Increases the duration of Aegis spells by 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-4-5",
+      "26-67-2-5"
+     ]
+    },
+    {
+     "id": "26-67-5-6",
+     "name": "Enduring Moon",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "ability_racial_magicalresistance",
+     "spellId": 560440,
+     "description": "Critical strikes now increase the target's spell damage taken by 10% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-4-5",
+      "26-67-6-5"
+     ]
+    },
+    {
+     "id": "26-67-7-6",
+     "name": "Vengeful Inspiration",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "achievement_thenighthold_highbotanisttelam",
+     "spellId": 680784,
+     "description": "Increases your attack speed by 10% and causes critical strikes with melee attacks to apply a Scattered Star.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-8-5",
+      "26-67-6-5"
+     ]
+    },
+    {
+     "id": "26-67-10-6",
+     "name": "Celestial Guard",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_nightborneracialmount",
+     "spellId": 574351,
+     "description": "Level 40 PassiveIncreases the effectiveness of consuming Scattered Stars by 50%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "26-67-10-4"
+     ]
+    },
+    {
+     "id": "26-67-1-7",
+     "name": "Will of Elune",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_helm_cloth_warfrontsnightelfmythic_d_01",
+     "spellId": 680788,
+     "description": "Damage dealt by Aspect of the Stars now strikes 2 additional nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-1-6"
+     ]
+    },
+    {
+     "id": "26-67-3-7",
+     "name": "Starbound",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "ability_socererking_arcanereplication",
+     "spellId": 704787,
+     "description": "Increases your healing done and received by 10%, doubled while below 20% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-3-6"
+     ]
+    },
+    {
+     "id": "26-67-5-7",
+     "name": "Enchanted Aegis",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "spell_arcane_arcaneresilience",
+     "spellId": 704795,
+     "description": "Your successful blocks now have a 50% chance to critically block for twice the normal amount.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-5-6"
+     ]
+    },
+    {
+     "id": "26-67-7-7",
+     "name": "Starlight Duelist",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_sword_1h_artifactfelomelorn_d_06",
+     "spellId": 805505,
+     "description": "Blocking or parrying an attack now increases your damage dealt by 10% for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-7-6"
+     ]
+    },
+    {
+     "id": "26-67-2-8",
+     "name": "Coalesced Resilience",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_belt_armor_nightborne_d_01",
+     "spellId": 680786,
+     "description": "Reduces your damage taken by an amount equal to 1% of your maximum mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-1-7",
+      "26-67-3-7"
+     ]
+    },
+    {
+     "id": "26-67-4-8",
+     "name": "Font of Magic",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_gizmo_manasyphon",
+     "spellId": 680742,
+     "description": "Each time you spend a cumulative 100% of your maximum mana, you heal for 4% of your maximum health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-3-7",
+      "26-67-5-7"
+     ]
+    },
+    {
+     "id": "26-67-6-8",
+     "name": "Lunar Knight",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_helm_plate_raiddeathknight_s_01",
+     "spellId": 680791,
+     "description": "Increases the damage of your Moonblade and Starsweep by 50% and their chance to critically strike by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-7-7",
+      "26-67-5-7"
+     ]
+    },
+    {
+     "id": "26-67-10-8",
+     "name": "Dancing in the Moonlight",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "spell_arcane_starfire",
+     "spellId": 807659,
+     "description": "Level 50 PassiveParrying an attack now regenerates 15 of your Energy and deals 65% Weapon Damage to the attacker.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "26-67-10-6"
+     ]
+    },
+    {
+     "id": "26-67-2-9",
+     "name": "Chosen of the Moon",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_helm_plate_kthirrelic_d_01",
+     "spellId": 680755,
+     "description": "Become the chosen of the moon, reducing all Physical damage taken by -60% and taunting all enemies within 8 yds for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-67-2-8"
+     ]
+    },
+    {
+     "id": "26-67-4-9",
+     "name": "Moonlit Bulwark",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "ability_argus_blightorb",
+     "spellId": 805433,
+     "description": "Grants you a shield for an amount equal to your maximum mana for 10 seconds. Usable while stunned.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-67-2-8",
+      "26-67-4-8",
+      "26-67-6-8"
+     ]
+    },
+    {
+     "id": "26-67-6-9",
+     "name": "Mooncharged Blades",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 67,
+     "icon": "inv_sword_2h_warfrontsnightelf_d_01",
+     "spellId": 536216,
+     "description": "Blocking an attack allows your next Starsunder to hit an additional nearby enemy and cost -30% less mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-67-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 68,
+   "name": "Moon Priest",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "26-68-4-0",
+     "name": "Aspect of the Goddess",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "achievement_leader_tyrande_whisperwind",
+     "spellId": 802203,
+     "description": "While active, your healing done is increased by 10% and your spells and abilities will not be able to miss.In addition, consuming Scattered Stars now heals up to 5 allies around the target for 73 + 14.97% healing.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-68-10-0",
+     "name": "Moon Priest",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "custom_t_nhance_rpg_icons_magicmoonbuff_border",
+     "spellId": 92134,
+     "description": "Level 10 PassiveYour Huntress Shot now has a Lunar Eclipse effect.Huntress Shot: Applies 2 additional Scattered Stars.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-68-2-1",
+     "name": "Moonflow",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "spell_animaardenweald_missile",
+     "spellId": 575030,
+     "description": "Send forth moonwell waters to all nearby party and raid members, healing them for 49 + 22.86% healing.Lunar Eclipse: Triggers with no cooldown and consumes Scattered Stars from enemies you are in combat with within 40 yds.Consume Scattered StarsDeals 7 + 18.22% SP Arcane Damage and restores 8% maximum mana for each Scattered Star.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-68-4-0"
+     ]
+    },
+    {
+     "id": "26-68-4-1",
+     "name": "Lunar Blessing",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "inv_staff_2h_warfrontsnightelf_d_01",
+     "spellId": 704756,
+     "description": "Increases your healing done by 3%, plus an additional 3% on Poisoned or Diseased targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-4-0"
+     ]
+    },
+    {
+     "id": "26-68-6-1",
+     "name": "Prayer of Elune",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "spell_animaardenweald_orb",
+     "spellId": 801987,
+     "description": "Say a prayer to Elune, healing up to 12 allies within 40 yds for 77 + 27.57% healing, and dispel 1 harmful magic effect from them.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-68-4-0"
+     ]
+    },
+    {
+     "id": "26-68-4-2",
+     "name": "Lunar Resplendence",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "ability_ardenweald_hunter",
+     "spellId": 801989,
+     "description": "Increases your healing done to allies below 20% health by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-4-1"
+     ]
+    },
+    {
+     "id": "26-68-10-2",
+     "name": "Celestial Mind",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "5_archerskill42_border",
+     "spellId": 707638,
+     "description": "Level 20 PassiveYou now passively gain 1 stack of Lunar Phase 1 sec faster.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "26-68-10-0"
+     ]
+    },
+    {
+     "id": "26-68-1-3",
+     "name": "Lunar Swiftness",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "inv_weapon_bow_44",
+     "spellId": 503779,
+     "description": "Moon Arrow now reduces the cast time of the next Hand of Elune within 8 seconds by -20%, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-2-1"
+     ]
+    },
+    {
+     "id": "26-68-4-3",
+     "name": "Eclipsing Arrows",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "artifactability_balancedruid_newmoon",
+     "spellId": 800504,
+     "description": "Healing done by Hand of Elune or Touch of Moonlight now marks allies for 20 seconds.Casting Huntress Shot now heals marked allies for 235 + 30% SP.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-4-2"
+     ]
+    },
+    {
+     "id": "26-68-7-3",
+     "name": "Enchanted Water",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "inv_scroll_02",
+     "spellId": 704755,
+     "description": "Increases the healing of Touch of Moonlight by 10% and reduces spell pushback suffered from damaging attacks by 35%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-6-1"
+     ]
+    },
+    {
+     "id": "26-68-0-4",
+     "name": "Moonlit Slumber",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "spell_nature_sleep",
+     "spellId": 805546,
+     "description": "Put an enemy to sleep for 30 seconds (6 sec vs players). Damage dealt will end the effect.While sleeping, you drain 98 mana from them every 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-68-1-3"
+     ]
+    },
+    {
+     "id": "26-68-2-4",
+     "name": "Lunar Revelation",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "spell_nature_purge",
+     "spellId": 681521,
+     "description": "Increases the critical strike chance of Moonflow by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-1-3"
+     ]
+    },
+    {
+     "id": "26-68-4-4",
+     "name": "Stellar Convergence",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "ability_ardenweald_druid",
+     "spellId": 572784,
+     "description": "Applies Eclipsing Arrows to all party and raid members within 40 yds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-68-4-3"
+     ]
+    },
+    {
+     "id": "26-68-6-4",
+     "name": "Goddess Watch Over",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "inv_ability_eluneschosendruid_boundlessmoonlight",
+     "spellId": 500582,
+     "description": "Increases the effectiveness of Aspect of the Goddess by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-7-3"
+     ]
+    },
+    {
+     "id": "26-68-8-4",
+     "name": "Cycle of the Moon",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "artifactability_balancedruid_halfmoon",
+     "spellId": 500206,
+     "description": "Every 10 seconds, you cycle between Full Moon and New Moon.Full MoonIncreases your critical strike chance by 5%.New MoonDamage dealt has a 25% chance to apply Scattered Stars.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-7-3"
+     ]
+    },
+    {
+     "id": "26-68-10-4",
+     "name": "Moonwell Acuity",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "world_marker_moon",
+     "spellId": 680809,
+     "description": "Level 30 PassiveThe Lunar Eclipse effect of Moonwell Splash now causes it to affect 3 targets.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "26-68-10-2"
+     ]
+    },
+    {
+     "id": "26-68-1-5",
+     "name": "Tear Drops",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "spell_animaardenweald_nova",
+     "spellId": 560896,
+     "description": "Healing through Aspect of the Goddess now increases the target's healing taken from you by 1% for 10 sec, stacking up to 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-0-4",
+      "26-68-2-4"
+     ]
+    },
+    {
+     "id": "26-68-2-5",
+     "name": "Rapid Cycle",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "custom_t_nhance_rpg_icons_icewave_border",
+     "spellId": 300249,
+     "description": "Lunar Phase now increases your ranged haste by 4% per stack.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-4-4",
+      "26-68-2-4"
+     ]
+    },
+    {
+     "id": "26-68-4-5a",
+     "name": "Last Prayer",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "spell_holy_prayerofspirit",
+     "spellId": 707637,
+     "description": "Casting Stellar Convergence now resets the cooldown of Prayer of Elune.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-4-4"
+     ]
+    },
+    {
+     "id": "26-68-4-5b",
+     "name": "Mending Surge",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "achievement_dungeon_throne_of_the_tides",
+     "spellId": 704732,
+     "description": "Reduces the cooldown of Stellar Convergence by -30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-68-6-5",
+     "name": "Lunar Prophecy",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "ability_druid_lunarguidance",
+     "spellId": 704764,
+     "description": "Casting Moon Arrow now reduces the cooldown of Prayer of Elune by -3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-6-4",
+      "26-68-4-4"
+     ]
+    },
+    {
+     "id": "26-68-7-5",
+     "name": "Teachings of Elune",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "inv_fabric_moonrag_02",
+     "spellId": 704759,
+     "description": "Increases the healing of Hand of Elune and Moonflow by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-6-4",
+      "26-68-8-4"
+     ]
+    },
+    {
+     "id": "26-68-0-6",
+     "name": "Blessed By The Stars",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "inv_staff_2h_humanpriest_c_01",
+     "spellId": 704741,
+     "description": "Your ranged damage dealt now has a 15% chance to unleash a Scattered Star.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-0-4"
+     ]
+    },
+    {
+     "id": "26-68-2-6",
+     "name": "Elune's Grace",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "trade_archaeology_tyrandesfavoritedoll",
+     "spellId": 504001,
+     "description": "Critical heals with Hand of Elune now increase the target's armor by 10% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-2-5",
+      "26-68-1-5"
+     ]
+    },
+    {
+     "id": "26-68-4-6",
+     "name": "Healing Prayers",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "inv_fabric_moonrag_01",
+     "spellId": 680805,
+     "description": "Prayer of Elune gains an additional 20% of your bonus healing effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-4-5a",
+      "26-68-4-5b"
+     ]
+    },
+    {
+     "id": "26-68-6-6",
+     "name": "Phase Guider",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "spell_arcane_arcane02",
+     "spellId": 300995,
+     "description": "Increases the bonus healing scaling of Moonwell Splash and the healing done through Aspect of the Goddess by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-7-5",
+      "26-68-6-5"
+     ]
+    },
+    {
+     "id": "26-68-8-6",
+     "name": "Full Cycle",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "ability_shaman_ancestralguidance",
+     "spellId": 704343,
+     "description": "Hand of Elune gains the following Full Moon and New Moon effects.Full Moon: Healing increased by 10%.New Moon: Cost reduced by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-8-4"
+     ]
+    },
+    {
+     "id": "26-68-10-6",
+     "name": "Moon Gazing",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "5_druideskill11_border",
+     "spellId": 504786,
+     "description": "Level 40 PassiveYour critical strikes now generate a stack of Lunar Phase. Can only occur once per sec.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "26-68-10-4"
+     ]
+    },
+    {
+     "id": "26-68-1-7",
+     "name": "Elune's Favor",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "custom_t_waterbomb_border",
+     "spellId": 300237,
+     "description": "Hand of Elune and Touch of Moonlight now heal for an additional 50% of their value over 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-0-6",
+      "26-68-2-6"
+     ]
+    },
+    {
+     "id": "26-68-3-7",
+     "name": "Enchanted Stream",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "spell_frost_chillingblast",
+     "spellId": 504003,
+     "description": "Increases the critical healing of Hand of Elune and Moonflow by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-4-6",
+      "26-68-2-6"
+     ]
+    },
+    {
+     "id": "26-68-5-7",
+     "name": "Flow of Waters",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "inv_elemental_mote_water01",
+     "spellId": 560539,
+     "description": "Increases critical strike chance of all party and raid members by 3%. Does not stack with similar effects.In addition, increases your critical strike chance by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-6-6",
+      "26-68-4-6"
+     ]
+    },
+    {
+     "id": "26-68-7-7",
+     "name": "Final Prayer",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "spell_nature_moonglow",
+     "spellId": 704745,
+     "description": "Your Prayer of Elune now dispels 1 additional effect.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-6-6",
+      "26-68-8-6"
+     ]
+    },
+    {
+     "id": "26-68-2-8",
+     "name": "Cosmic Shift",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "ability_hunter_displacement",
+     "spellId": 801134,
+     "description": "Shift the target ally out of the physical plane, granting improved stealth for 10 seconds.Does not break on damage taken.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-68-1-7",
+      "26-68-3-7"
+     ]
+    },
+    {
+     "id": "26-68-4-8",
+     "name": "Rampaging Waters",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "nhi_icewaterblast_border",
+     "spellId": 560956,
+     "description": "Damage dealt by Scattered Stars now increases your healing by 1% and critical strike chance by 1% for 10 seconds, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-3-7",
+      "26-68-5-7"
+     ]
+    },
+    {
+     "id": "26-68-6-8",
+     "name": "Lunar Cascade",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "inv_weapon_hand_18",
+     "spellId": 704725,
+     "description": "Critical strikes with Moonflow and Prayer of Elune now apply Eclipsing Arrows to the target for 20 seconds.Casting Huntress Shot heals marked allies for 235 + 30% SP.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-7-7",
+      "26-68-5-7"
+     ]
+    },
+    {
+     "id": "26-68-10-8",
+     "name": "Elune's Blessing",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "nhi_frozenmoon_border",
+     "spellId": 681407,
+     "description": "Level 50 PassiveYour Hand of Elune now gains an additional 30% of your bonus healing.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "26-68-10-6"
+     ]
+    },
+    {
+     "id": "26-68-2-9",
+     "name": "Lunar Phasing",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "spell_nature_wispsplode",
+     "spellId": 680812,
+     "description": "Cosmic Shift now dispels all harmful effects from the target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-2-8"
+     ]
+    },
+    {
+     "id": "26-68-4-9",
+     "name": "Celestial Form",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "achievement_boss_algalon_01",
+     "spellId": 801231,
+     "description": "Ascend into a celestial form for 15 seconds, increasing your critical strike chance by 10%.While active, critical strikes now reduce the remaining cooldown of all healing spells by 10% and apply a Scattered Star to your target and up to 4 enemies within 5 yds of them.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-68-2-8",
+      "26-68-6-8",
+      "26-68-4-8"
+     ]
+    },
+    {
+     "id": "26-68-6-9",
+     "name": "Rippling Moonwater",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 68,
+     "icon": "spell_nature_riptide",
+     "spellId": 804733,
+     "description": "Your healing effects now apply Moonwater to the target, stacking 5 times.MoonwaterDealing damage will consume a stack to heal you.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-68-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 69,
+   "name": "Sentinel",
+   "nodeCount": 38,
+   "nodes": [
+    {
+     "id": "26-69-4-0",
+     "name": "Starfire Shot",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "_arcaneshot_lightblue",
+     "spellId": 801978,
+     "description": "Consumes Scattered StarsFire an enchanted arrow, dealing 100% Ranged Weapon Damage plus 62+66+POWER1*0.01 Arcane damage, scaling further based on your maximum mana.Consume Scattered StarsDeals 7 + 18.22% SP Arcane Damage and restores 8% maximum mana for each Scattered Star.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-69-10-0",
+     "name": "Huntress Training",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "_diablo3_arrowrain_mage",
+     "spellId": 92133,
+     "description": "Level 10 PassiveIncreases your haste rating by 8% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-3-1",
+     "name": "Huntress of Elune",
+     "x": 3,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "ability_hunter_piercingshots",
+     "spellId": 704769,
+     "description": "Increases your damage dealt by 5% on enemies further than 30 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-5-1",
+     "name": "Starcrash",
+     "x": 5,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "spell_mage_supernova",
+     "spellId": 560721,
+     "description": "Increases the damage dealt by consuming Scattered Stars by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-2-2",
+     "name": "Drawstring of Elune",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "inv_bow_1h_auchindoun_d_01",
+     "spellId": 801975,
+     "description": "Huntress Shot and Starcall apply an additional stack of Scattered Stars and your ranged ability attack range is increased to 50 yds for 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-69-6-2",
+     "name": "Starcall",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "inv_archaeology_70_starlightbeacon",
+     "spellId": 800497,
+     "description": "Blast the target enemy and all enemies near them with lunar fire that deals 70 + 33% arcane SP Arcane damage, applying Scattered Stars.Consuming a Scattered Star reduces the remaining cooldown by -1.5 sec.Scattered StarsCan be consumed by spells to deal additional Arcane Damage. Lasts 30 seconds, stacking 4 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-69-10-2",
+     "name": "Astral Lancer",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "spell_frost_iceclaw",
+     "spellId": 681330,
+     "description": "Level 20 PassiveIncreases the critical damage of Lunar Lance by 50%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20
+    },
+    {
+     "id": "26-69-2-3",
+     "name": "Tyrande's Training",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "ability_searingarrow",
+     "spellId": 707751,
+     "description": "Increases the critical strike chance and critical damage of Starfire Shot by 10% against Burning targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-4-3",
+     "name": "Exemplary Draw",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "inv_shoulder_cloth_warfrontsnightelfmythic_d_01",
+     "spellId": 504004,
+     "description": "Moon Arrow deals 20% more damage and increases the target's spell damage taken by 10% for 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-6-3",
+     "name": "Cascade",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "spell_druid_lunarinspiration",
+     "spellId": 704765,
+     "description": "Every 8th Scattered Star you consume increases the damage of your next Starcall by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-1-4",
+     "name": "Sentinel's Focus",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "inv_bow_1h_artifactwindrunner_d_03",
+     "spellId": 704740,
+     "description": "Starfire Shot now has a 20% chance to fire a free Huntress Shot at the target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-3-4",
+     "name": "Tyrande's Vigilance",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "achievement_leader_tyrande_whisperwind",
+     "spellId": 680801,
+     "description": "Reduces the cast time of Starfire Shot by -0.5 sec.Reduces the pushback suffered from damaging attacks while casting ranged abilities by 75%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-69-3-3"
+     ]
+    },
+    {
+     "id": "26-69-4-4",
+     "name": "Elune's Blessing",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "artifactability_balancedruid_fullmoon",
+     "spellId": 300876,
+     "description": "Increases party and raid member's melee and ranged haste by 10%.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-69-3-3",
+      "26-69-5-3"
+     ]
+    },
+    {
+     "id": "26-69-5-4",
+     "name": "Eye of Elune",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "ability_druid_fortifiedbark",
+     "spellId": 704783,
+     "description": "Increases your critical strike chance by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-7-4",
+     "name": "Ishnu-alah",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "_nightelf_08",
+     "spellId": 524638,
+     "description": "Moon Arrow restores an additional 4% of your maximum mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-10-4",
+     "name": "Explosive Moonlight",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "custom_18_moon_nobg_border",
+     "spellId": 800474,
+     "description": "Level 30 PassiveIncreases your ranged attack power by 30% of your Intellect and your hit rating by 3% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30
+    },
+    {
+     "id": "26-69-1-5",
+     "name": "Hunter's Sight",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "inv_ammo_arrow_02",
+     "spellId": 561022,
+     "description": "Aspect of the Huntress now increases your chance to hit by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-3-5",
+     "name": "Tyrande's Guidance",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "trade_archaeology_tyrandesfavoritedoll",
+     "spellId": 706572,
+     "description": "Increases the critical damage dealt by Starfire Shot by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-69-3-4",
+      "26-69-2-4",
+      "26-69-4-4"
+     ]
+    },
+    {
+     "id": "26-69-4-5",
+     "name": "Trueshot",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "trueshot",
+     "spellId": 520590,
+     "description": "Drains 20% Maximum Mana2 Charges, 18 sec rechargeConsumes Scattered StarsFire at your target and enemies near them, dealing Ranged Weapon Damage plus POWER1*0.03+SPA*0.185+40 Arcane damage, scaling with maximum mana.Consume Scattered StarsDeals 7 + 18.22% SP Arcane Damage and restores 8% maximum mana for each Scattered Star.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-69-4-4"
+     ]
+    },
+    {
+     "id": "26-69-5-5",
+     "name": "Omnipresent Moon",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "spell_arcane_teleportmoonglade",
+     "spellId": 520482,
+     "description": "Your Lunar Lances now strikes an additional nearby enemy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-7-5a",
+     "name": "Moon Runner",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "inv_bow_2h_crossbow_panstart_a_01",
+     "spellId": 301236,
+     "description": "Increases the movement slowing effect of Aspect of the Cosmos by -5% per stack.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-7-5b",
+     "name": "Cosmic Strides",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "spell_shaman_spiritwalkersgrace",
+     "spellId": 300772,
+     "description": "Aspect of the Cosmos no longer slows enemy movement speed. Instead, your melee and ranged attacks now grant you 5% increased movement speed for 4 seconds, stacking 3 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-2-6",
+     "name": "Enduring Hunt",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "ability_hunter_aimedshot",
+     "spellId": 680223,
+     "description": "Reduces the mana cost of Huntress Shot and Trueshot by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-4-6",
+     "name": "Star-Guided Arrows",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "spell_nature_starfall",
+     "spellId": 524642,
+     "description": "Damage dealt by Scattered Stars now has a 25% chance to refresh a charge of Trueshot.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-6-6",
+     "name": "Celestial Prowess",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "spell_holy_magicalsentry",
+     "spellId": 561206,
+     "description": "Increases the critical strike chance of Lunar Lance and Starfire Shot by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-10-6",
+     "name": "Celestial Shot",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "inv_enchant_dustvision",
+     "spellId": 574348,
+     "description": "Level 40 PassiveIncreases the effectiveness of consuming Scattered Stars by 40%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40
+    },
+    {
+     "id": "26-69-1-7",
+     "name": "Shattered Stars",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "5_archerskill34_border",
+     "spellId": 704771,
+     "description": "Increases the range of Starshatter by 10 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-69-1-6"
+     ]
+    },
+    {
+     "id": "26-69-2-7",
+     "name": "On The Hunt",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "inv_misc_herb_arrowbloom",
+     "spellId": 504006,
+     "description": "Starfire Shot now increases the damage the enemy takes from your Huntress Shot by 10% for 8 seconds, stacking 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-4-7",
+     "name": "Arrows In The Night",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "arrowsinthenight",
+     "spellId": 520481,
+     "description": "Your Huntress Shots now strike 3 additional enemies and explode with astral energy for 10 seconds, dealing 30 + 8.14% arcane SP + 3% ranged AP Arcane damage.Damage dealt by Starcall reduces the cooldown of this ability by -2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-69-6-7",
+     "name": "Lunar Splinters",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "custom_t_nhance_rpg_icons_magicmoonbuff_border",
+     "spellId": 561062,
+     "description": "Increases the damage of consuming Scattered Stars by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-69-5-6"
+     ]
+    },
+    {
+     "id": "26-69-7-7",
+     "name": "Moonmancer",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "_book2motif_moon",
+     "spellId": 680810,
+     "description": "Reduces the cooldown of Starcall by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-2-8",
+     "name": "Starfire Power",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "inv_weapon_crossbow_18",
+     "spellId": 707639,
+     "description": "Casting Starfire Shot now has a 20% chance to grant you Drawstring of Elune for 5 sec.Drawstring of Elune (SLS)Huntress Shot and Starcall apply an additional stack of Scattered Stars and your ranged ability attack range is increased to 50 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-4-8",
+     "name": "Night Hunter",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "custom_t_foreshadowing_border",
+     "spellId": 801146,
+     "description": "Reduces the cooldown of Huntress Saber by -60 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-6-8",
+     "name": "Lunar Amplification",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "custom_t_arcaneeclipse_border",
+     "spellId": 680813,
+     "description": "Increases the damage of Trueshot by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-10-8",
+     "name": "Lo'sho Amplification",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "inv_weapon_bow_39",
+     "spellId": 500205,
+     "description": "Level 50 PassiveScattered Stars now burn enemy mana equal to 10% of the damage dealt.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50
+    },
+    {
+     "id": "26-69-1-9",
+     "name": "Starfire Barrage",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "skill_icon_skill3_border",
+     "spellId": 704739,
+     "description": "Every 3rd Starfire Shot transforms Starfire Shot into Starfire Barrage.Starfire BarrageFire an enchanted arrow, dealing 100% Ranged Weapon Damage plus 50 + 40% arcane SP Arcane damage on impact, and an additional 50 + 7.5% arcane SP Arcane damage that applies a Scattered Star every 1 sec for 3 seconds. Scales with modifiers to Starfire Shot.Usable while moving.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-69-4-9",
+     "name": "Arrow of the Goddess",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "nhi_spiritualarrow_border",
+     "spellId": 563725,
+     "description": "Fire a star-infused arrow hitting enemies in a line, dealing 400% Ranged Weapon Damage plus POWER1*0.25 Arcane damage, scaling with maximum mana and applying Scattered Stars to them.Scattered StarsCan be consumed by spells to deal additional Arcane Damage. Lasts 30 seconds, stacking 4 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-69-7-9",
+     "name": "Unleashed Wisps",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 69,
+     "icon": "spell_frost_wisp",
+     "spellId": 706230,
+     "description": "Dealing damage with Scattered Stars has a 30% chance to launch a Wisp at your target, dealing 80 + 13.5% arcane SP Arcane damage to nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    }
+   ]
+  },
+  {
+   "tabId": 89,
+   "name": "Warden",
+   "nodeCount": 40,
+   "nodes": [
+    {
+     "id": "26-89-4-0",
+     "name": "Fan of Knives",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "_fanofknives_lightblue",
+     "spellId": 680703,
+     "description": "Applies 1 Scattered Star Per HitUnleash hidden blades upon nearby enemies, dealing 10 + 30% SP Arcane damage scaling with maximum mana.Consuming a Scattered Star reduces the remaining cooldown of Fan of Knives by -2 sec.Scattered StarsCan be consumed by spells to deal additional Arcane Damage. Lasts 30 seconds, stacking 4 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "26-89-10-0",
+     "name": "Warden Training",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_pet_wardenowl",
+     "spellId": 680725,
+     "description": "Level 10 PassiveCritically striking with Starsunder now applies an additional stack of Scattered Stars.Scattered StarsCan be consumed by spells to deal additional Arcane Damage. Lasts 30 seconds, stacking 4 times.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-89-4-1",
+     "name": "Astral Blade",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "ability_demonhunter_manabreak",
+     "spellId": 805563,
+     "description": "Drains 25% Maximum ManaStrike an enemy with precision, dealing 106 + 100% SP + 100% AP Arcane damage, increased further based on your maximum mana.Increases your dealt to the enemy by 15% for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-89-4-0"
+     ]
+    },
+    {
+     "id": "26-89-2-2",
+     "name": "Fury of the Stars",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_sword_156",
+     "spellId": 704603,
+     "description": "Increases the damage of Astral Blade by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-4-1"
+     ]
+    },
+    {
+     "id": "26-89-4-2",
+     "name": "Lethal Pursuit",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_glaive_1h_warfrontsnightelf_d_01",
+     "spellId": 680770,
+     "description": "Reduces the cooldown of Fan of Knives by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-4-1"
+     ]
+    },
+    {
+     "id": "26-89-6-2",
+     "name": "Moonlit Impaler",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "5_druideskill12_border",
+     "spellId": 561222,
+     "description": "Increases your Arcane damage by 5% and your hit chance by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-4-1"
+     ]
+    },
+    {
+     "id": "26-89-10-2",
+     "name": "Maiev's Discipline",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_polearm_2h_odynspear_d_01",
+     "spellId": 680233,
+     "description": "Level 20 PassiveIncreases your critical strike rating by 12% of your Intellect and your expertise by 10% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "26-89-10-0"
+     ]
+    },
+    {
+     "id": "26-89-1-3a",
+     "name": "Astral Finesse",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "ability_warrior_challange_blue",
+     "spellId": 707636,
+     "description": "Reduces the cooldown of Astral Blade by -4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-2-2"
+     ]
+    },
+    {
+     "id": "26-89-1-3b",
+     "name": "Astral Onslaught",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "_d3spectralblade",
+     "spellId": 704789,
+     "description": "Increases the duration of Astral Blade by 7 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-89-4-3",
+     "name": "Umbral Blade",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_staff_2h_artifactelune_d_01",
+     "spellId": 680704,
+     "description": "Consumes Scattered StarsSlash an enemy, dealing 97 + 63.5% arcane SP + 20% AP Arcane damage to them and nearby enemies. Each additional enemy beyond the first takes 20% less damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-89-2-2",
+      "26-89-4-2",
+      "26-89-6-2"
+     ]
+    },
+    {
+     "id": "26-89-7-3",
+     "name": "Sentinel Glaive",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_glaive_1h_tyrande_d_01",
+     "spellId": 800506,
+     "description": "Throw a sentinel glaive at an enemy, dealing Weapon Damage plus 53 as Arcane damage, increased further based on your maximum mana, and increasing their resource costs by 15% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-89-6-2"
+     ]
+    },
+    {
+     "id": "26-89-0-4",
+     "name": "Halt",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "blink",
+     "spellId": 807741,
+     "description": "Teleport to a target location, silencing all enemies around you for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-89-1-3a",
+      "26-89-1-3b"
+     ]
+    },
+    {
+     "id": "26-89-2-4",
+     "name": "Moonstone",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_holiday_hearthstonelunarfestival",
+     "spellId": 805503,
+     "description": "Increases the damage of Lunar Lance by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-4-3",
+      "26-89-1-3a",
+      "26-89-1-3b"
+     ]
+    },
+    {
+     "id": "26-89-4-4",
+     "name": "Celestial Surge",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "5_moon_border",
+     "spellId": 680773,
+     "description": "Increases the damage dealt by consuming Scattered Stars by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-4-3"
+     ]
+    },
+    {
+     "id": "26-89-6-4",
+     "name": "Warden Training",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_pet_wardenowl",
+     "spellId": 704790,
+     "description": "Reduces the cooldown of Warden's Blade by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-4-3",
+      "26-89-7-3"
+     ]
+    },
+    {
+     "id": "26-89-8-4",
+     "name": "Rally The Sentinels",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_staff_2h_warfrontsnightelf_d_01",
+     "spellId": 704784,
+     "description": "Sentinel Glaive now restores 20% of your maximum mana and applies a Scattered Star to the enemy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-7-3"
+     ]
+    },
+    {
+     "id": "26-89-10-4",
+     "name": "Celestial Glaives",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "ability_racial_chillofnight",
+     "spellId": 805524,
+     "description": "Level 30 PassiveYour Scattered Stars can now stack 2 additional times.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "26-89-10-2"
+     ]
+    },
+    {
+     "id": "26-89-0-5",
+     "name": "Star Pupil",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "spell_arcane_starfire",
+     "spellId": 706575,
+     "description": "Your damaging critical strikes now grant you a stack of Star Pupil.Star PupilReduces the cast time of Moonwell Splash by -25% for 8 seconds, stacking 4 times.While this is active, Moonwell Splash is castable while moving.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-0-4"
+     ]
+    },
+    {
+     "id": "26-89-2-5a",
+     "name": "Maiev's Guard",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "_maievblade_water",
+     "spellId": 707635,
+     "description": "Critical strikes with Astral Blade now strike 2 additional times, one for 40% of the damage dealt and the other for 20% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-2-4"
+     ]
+    },
+    {
+     "id": "26-89-2-5b",
+     "name": "Astral Combatant",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "achievement_thenighthold_spellbladealuriel",
+     "spellId": 706574,
+     "description": "Lunar Lance and Umbral Blade increase the enemy damage taken from Scattered Stars by 10% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "26-89-4-5",
+     "name": "Bonds of Justice",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "bondsofjustice",
+     "spellId": 680705,
+     "description": "Send forth bonds of justice to an enemy, tethering them to you for 8 seconds.If the tether is broken through expiration or the target runs at least 10 yds from you, they are gripped back towards you, taking 441 + 120% arcane SP Arcane damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-89-4-4"
+     ]
+    },
+    {
+     "id": "26-89-6-5",
+     "name": "Aspect Mastery",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "_silence_nightelf_2",
+     "spellId": 704389,
+     "description": "Increases the effectiveness of your Aspects by 10% and their chance to trigger by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-6-4"
+     ]
+    },
+    {
+     "id": "26-89-8-5",
+     "name": "Wrath of Elune",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "spell_fire_frostresistancetotem",
+     "spellId": 704786,
+     "description": "Reduces the cooldown of Sentinel Glaive by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-8-4"
+     ]
+    },
+    {
+     "id": "26-89-1-6",
+     "name": "Vigil of the Watchers",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_tabard_a_86warden",
+     "spellId": 680709,
+     "description": "Increases critical strike chance of all party and raid members by 3%.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-2-5a",
+      "26-89-2-5b"
+     ]
+    },
+    {
+     "id": "26-89-3-6",
+     "name": "Stellar Amplification",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "ability_demonhunter_soulcleave4",
+     "spellId": 801143,
+     "description": "Dealing damage with Scattered Stars now has a 15% chance to make your next Astral Blade free of cost.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-2-5a",
+      "26-89-2-5b"
+     ]
+    },
+    {
+     "id": "26-89-5-6",
+     "name": "Scattering Blades",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "_maievblade_ice",
+     "spellId": 806738,
+     "description": "Your Warden's Blade now increases the chance to trigger Aspect of the Warden by 10% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-6-5"
+     ]
+    },
+    {
+     "id": "26-89-7-6",
+     "name": "Warrior of Elune",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_polearm_2h_kultirasquest_b_01",
+     "spellId": 704798,
+     "description": "Increases your melee haste by 5% and movement speed by 10%.Movement speed granted by this talent stacks with Moonwalk.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-6-5",
+      "26-89-8-5"
+     ]
+    },
+    {
+     "id": "26-89-10-6",
+     "name": "Lunar Combatant",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_elemental_primal_mana",
+     "spellId": 805828,
+     "description": "Level 40 PassiveIncreases the effectiveness of consuming Scattered Stars by 50%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "26-89-10-4"
+     ]
+    },
+    {
+     "id": "26-89-0-7",
+     "name": "Lunar Charge",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "ability_monk_forcesphere_arcane",
+     "spellId": 680215,
+     "description": "After using Shooting Star, your next Celestial Strike, Starsunder or auto attack ends the effect to deal 87 + 28.75% arcane SP + 4.65% AP Arcane damage, increased based on distance travelled.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-1-6",
+      "26-89-0-5"
+     ]
+    },
+    {
+     "id": "26-89-2-7",
+     "name": "Wrath of the Moon",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "ability_druid_twilightswrath",
+     "spellId": 680775,
+     "description": "Increases your Arcane critical damage dealt by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-3-6",
+      "26-89-1-6"
+     ]
+    },
+    {
+     "id": "26-89-4-7",
+     "name": "Infused Blades",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_glaive_ardenweald_d_01_temp",
+     "spellId": 807160,
+     "description": "Your Astral Blade now has a 30% chance to reset its own cooldown and refund its maximum mana cost.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-5-6",
+      "26-89-3-6",
+      "26-89-4-5"
+     ]
+    },
+    {
+     "id": "26-89-6-7",
+     "name": "Warden's Precision",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_weapon_halberd18",
+     "spellId": 680212,
+     "description": "Your Warden's Blade now launches an additional 2 blades at the target, dealing 49 + 24.5% SP Spellstrike Damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-5-6",
+      "26-89-7-6"
+     ]
+    },
+    {
+     "id": "26-89-8-7",
+     "name": "Pierce The Night",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_shield_1h_warfrontsnightelf_d_01",
+     "spellId": 680708,
+     "description": "Your Fan of Knives now applies an additional stack of Scattered Stars to each enemy struck.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-7-6",
+      "26-89-8-5"
+     ]
+    },
+    {
+     "id": "26-89-1-8",
+     "name": "Moontouched Weapons",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_weapon_shortblade_45",
+     "spellId": 680777,
+     "description": "Increases the damage of Aspect of the Warden by POWER1*0.01, scaling with maximum mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-2-7",
+      "26-89-0-7"
+     ]
+    },
+    {
+     "id": "26-89-4-8",
+     "name": "Spirit of Vengeance",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "nhi_spirittranquility_border",
+     "spellId": 680711,
+     "description": "Fan of Knives now marks enemies with Vengeance for 10 seconds. Successfully marking an enemy increases the range of your next Astral Blade by 25 yards.Casting Astral Blade on a marked enemy causes it to deal 30% more damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-2-7",
+      "26-89-6-7",
+      "26-89-4-7"
+     ]
+    },
+    {
+     "id": "26-89-7-8",
+     "name": "Shadowsong's Mandate",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "inv_helmet_leather_raiddruid_q_01",
+     "spellId": 805439,
+     "description": "Increases your critical strike chance by 15% for 10 seconds.While active, your damaging critical strikes have a 40% chance to trigger Warden's Blade.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-89-6-7",
+      "26-89-8-7"
+     ]
+    },
+    {
+     "id": "26-89-10-8",
+     "name": "Astral Blessing",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "custom_t_nhance_rpg_icons_magicstrike_border",
+     "spellId": 801145,
+     "description": "Level 50 PassiveDamaging critical strikes now reduce the cooldown of Warden's Blade by -1 sec.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "26-89-10-6"
+     ]
+    },
+    {
+     "id": "26-89-1-9",
+     "name": "Pulverizing Blade",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "_execution_lightblue",
+     "spellId": 805437,
+     "description": "Casting Warden's Blade now grants you Pulverizing Blade.Pulverizing BladeNext 5 Starsunders within 20 seconds deal increasing damage, scaling with 10% of Intellect, with each subsequent use, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-1-8"
+     ]
+    },
+    {
+     "id": "26-89-4-9",
+     "name": "Avatar of Vengeance",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "achievement_boss_councilsentinel",
+     "spellId": 680822,
+     "description": "Transform into an Avatar of Vengeance, teleporting to your target and increasing your Intellect by 25% for 30 seconds. For the duration, the range of Astral Blade is increased by 30 yards and will teleport you to your target.If your target is an enemy, you strike them dealing 50 + 22% Intellect + 6.5% arcane SP Arcane damage per 1 sec for 8 seconds, scaling with Intellect.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "26-89-4-8"
+     ]
+    },
+    {
+     "id": "26-89-7-9",
+     "name": "Highest Order",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 89,
+     "icon": "achievement_thenighthold",
+     "spellId": 680771,
+     "description": "Reduces the cooldown of Shadowsong's Mandate by -25% and increases the chance to trigger Warden's Blade by 60%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "26-89-7-8"
+     ]
+    }
+   ]
+  }
+ ]
+}

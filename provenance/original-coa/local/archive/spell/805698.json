@@ -1,0 +1,8 @@
+{
+  "name_enus": "Inferno Blade",
+  "icon": "inv_offhand_1h_artifactdoomhammer_d_01",
+  "tooltip_enus": "<table><tr><td><b>Inferno Blade</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the effectiveness of <span style=\"color: #FFFFFF;\">Firemaw</span> by 15% and damage dealt by <span style=\"color: #FFFFFF;\">Firemaw</span> now reduces the cooldown of <span style=\"color: #ffffff;\">Burning Scripture</span> by 2 sec.</span></td></tr></table><!--?805698:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

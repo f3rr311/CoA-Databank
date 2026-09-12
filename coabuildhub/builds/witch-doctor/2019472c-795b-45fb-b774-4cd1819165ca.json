@@ -1,0 +1,763 @@
+{
+ "build": {
+  "id": "2019472c-795b-45fb-b774-4cd1819165ca",
+  "title": "DOCTOR HEALER",
+  "description": "[overview]\nBrewing es una especialización de **curación sostenida** centrada en preparar brebajes con el Caldero Vudú. No busca curaciones explosivas: gana anticipándose al daño, manteniendo efectos de curación constantes y administrando bien sus recursos.\n\nIdeal para quienes prefieren un healer seguro, con buena regeneración de maná y varias herramientas defensivas, en lugar de picos de curación reactivos.\n\n**Destaca en:**\n- Dungeons largas (M+/farm), donde el sustain constante brilla más que el burst.\n- Grupos que necesitan soporte continuo + dispels (Hexbreak) + debuffs (Touch of the Spirits).\n\n**Requiere:**\n- Preparación previa del Caldero antes de cada pull.\n- Buen posicionamiento (el Caldero debe quedarse donde permanecerá el tanque).\n\n[talents]\n## Kit de Clase (26/26)\n\n- **Spirit Healer** — pasiva base: todo tu poder de curación escala con Spirit, así que es innegociable.\n- **Healing Ward** — sustain extra de área sin gastar GCD en combate.\n- **Vol'jin's Vigil** — mitigación pasiva + autocuración, útil para sobrevivir pulls grandes.\n- **Wizened** — más maná máximo y hechizos más baratos: alarga tu sustain entre descansos.\n- **Spiritual Traditions** — mantiene regeneración de maná mientras casteas, clave para no sentarte a beber.\n- **Potent Mixes** — +curación y -amenaza, ideal si vas algo forzado en pulls grandes.\n- **Cleansing Idol** / **Swift Idol** — utilidad situacional: dispel pasivo o movilidad de grupo.\n- **Mirage** — tu \"oh sh*t\" button de amenaza/supervivencia personal.\n\n## Brewing (27/27)\n\n- **Cauldron Brewer** — habilita todo el sistema de Ingredientes; es la base del árbol.\n- **Ingredient: Jungle Shrooms** — tu curación pasiva de área más constante.\n- **Master Mixologist** — potencia todos los efectos del Caldero y te deja mover mientras curas: prioridad alta.\n- **Master Brewer** — sinergiza con tu spam de Spirit in a Bottle / Loa's Brew para curación extra gratis.\n- **Mojo Wave** + **It's Da Mojo** — convierten Mojo Beam en curación de grupo con chance de crítico.\n- **Lukou's Guidance** / **Snake Oil** — encadenan crítico y curación extra en Loa's Brew, tu heal principal.\n- **Splash On 'Em** — reduce cooldowns de Potion Toss/Splash Potion mientras curas: más uptime de instantáneos.\n\n*Esta es la asignación recomendada — puede cambiar según tu estilo de juego. Elige lo que más te guste.*\n\n[rotation]\n## Solo\n\n1. Preparar Caldero\n2. Jungle Shrooms\n3. Añadir Spice\n4. Voodoo Cauldron\n5. Spirit in a Bottle\n6. Loa's Brew\n7. Potion Toss\n(Repetir)\n\nSi el combate es fuerte: cambia Base por Beast Blood o Crystal Water, y prepara Frog Bones. Usa Master Mixologist solo si es realmente necesario. Entre combates, cúrate con Potion Toss y Loa's Brew para no sentarte a recuperar maná.\n\n## Dungeon\n\n**Antes del pull:** Preparar Caldero → Jungle Shrooms → Spice → colocar Voodoo Cauldron donde permanecerá el tanque.\n\n1. Preparar Caldero\n2. Jungle Shrooms\n3. Spice\n4. Voodoo Cauldron\n5. Mojo Beam\n6. Spirit in a Bottle\n7. Loa's Brew\n8. Potion Toss\n9. Splash Potion\n(Repetir)\n\n- Curación principal: Loa's Brew\n- Curación instantánea: Potion Toss\n- Curación en grupo: Splash Potion\n- Curación del tanque: Spirit in a Bottle\n- Debuff: Touch of the Spirits\n- Dispel: Hexbreak\n- Pulls grandes: Beast Blood / Crystal Water / Frog Bones\n- Emergencias: Master Mixologist\n\n[stats]\n## Prioridad de Stats\n1. Spirit — escala la mayoría de curaciones y la regeneración de maná.\n2. Spell Power — potencia casi todas las curaciones.\n3. Critical Strike — utilidad, pero rinde menos que Spirit/Spell Power.\n4. Haste — rotación más fluida, no prioritaria.\n5. Intellect — maná máximo, última prioridad.\n\n## Tipo de equipo\n- Arma: Maza de una mano o Daga (evita bastón si tienes buena combinación arma + off-hand).\n- Off-Hand: siempre equipar — Fetiche, Ídolo o Tomo.\n- Armadura: Tela, Cuero o Correo según tus proficiencies.\n\n## Ítems recomendados\n*(pendiente — completar con piezas específicas por fase/nivel)*\n\n[enchants]\nPrioridad de encantamiento (igual que stats): Spirit > Spell Power > Crit > Haste > Intellect.\n\n- Arma: encantamiento de poder de curación / spell power, si está disponible.\n- Pecho: stats generales (Spirit/Intellect) o vida, según lo que ofrezca el set.\n- Capa: Spirit o reducción de amenaza.\n- Botas: velocidad de movimiento o regeneración de maná, según el slot disponible.\n- Guantes: spell power o haste, si el server lo permite en ese slot.\n\n*(pendiente — completar con los encantamientos exactos disponibles; revisa db.ascension.gg para la lista actual de encantamientos por slot)*\n\n[leveling]\n## Hitos clave por nivel\n\n- **Nivel 10** — Cauldron Brewer (pasiva): desbloquea el sistema de Ingredientes en el Caldero. Aquí empieza de verdad el kit de Brewing.\n- **Nivel 20** — Spirit Healer (pasiva): tu curación y crítico empiezan a escalar con Spirit — prioriza esta stat desde ahora.\n- **Nivel 40** — Mojo Wave (pasiva): Mojo Beam pasa a curar también a los 3 aliados con menos vida cerca del objetivo — mejora mucho tu curación en grupo.\n- **Nivel 50** — It's Da Mojo (pasiva): Mojo Beam puede curar de forma crítica — sinergiza con tu prioridad de Crit.\n- **Nivel 60 (Endgame)** — build completa: 26/26 Clase + 27/27 Brewing.\n\n## Progresión sugerida\n1–10: aprende la rotación básica (Potion Toss, Loa's Brew) sin Caldero todavía.\n10–20: incorpora el Caldero y los Ingredientes en cuanto los desbloquees.\n20–40: prioriza Spirit en cada pieza de gear que consigas.\n40–60: añade Mojo Beam a la rotación de grupo y prepárate para el kit completo de talentos endgame.\n\n[macros]\nCuración básica (mouseover + target + focus)\n\n#showtooltip Loa's Brew\n/cast [target=mouseover,help][target=focus,help][help][target=player] Loa's Brew\n\n#showtooltip Potion Toss\n/cast [target=mouseover,help][target=focus,help][help][target=player] Potion Toss\n\n#showtooltip Spirit in a Bottle\n/cast [target=mouseover,help][target=focus,help][help][target=player] Spirit in a Bottle\n\n(Estas tres cubren tu curación principal, instantánea y de tanque sin tener que cambiar de objetivo manualmente.)\n🎯 Foco en el tanque\n/tar [nombre del tanque o macro de grupo]\n/focus\n\n#showtooltip Spirit in a Bottle\n/cast [target=focus] Spirit in a Bottle\n\n 🧪 Splash Potion en área (AoE de grupo)\n#showtooltip Splash Potion\n/cast [@cursor] Splash Potion\n\n🧹 Dispel rápido\n#showtooltip Hexbreak\n/cast [target=mouseover,help][target=focus,help][help] Hexbreak\n\n🚨 Emergencia (Master Mixologist + aviso al grupo)\n#showtooltip Master Mixologist\n/cast Master Mixologist\n/p Master Mixologist activo — curación reforzada\n\n🍄 Preparar Caldero (secuencia rápida antes del pull)\n/cast Cauldron: Jungle Shrooms\n/cast Voodoo Cauldron",
+  "class_id": 13,
+  "spec_id": 35,
+  "author_id": "4be73960-aa4a-450b-ab0c-12f3ebba7d3c",
+  "talent_string": "W1siMTMtODctNC0wIiwxXSxbIjEzLTg3LTctMCIsMV0sWyIxMy04Ny02LTEiLDFdLFsiMTMtODctNC0xIiwxXSxbIjEzLTg3LTItMSIsMl0sWyIxMy04Ny0zLTIiLDFdLFsiMTMtODctMi0zIiwxXSxbIjEzLTg3LTUtMiIsMl0sWyIxMy04Ny02LTMiLDFdLFsiMTMtODctNy00IiwxXSxbIjEzLTg3LTYtNSIsMV0sWyIxMy04Ny03LTYiLDJdLFsiMTMtODctOC01IiwxXSxbIjEzLTg3LTctNyIsMV0sWyIxMy04Ny01LTYiLDFdLFsiMTMtODctNC00IiwxXSxbIjEzLTg3LTItNSIsMV0sWyIxMy04Ny0zLTYiLDFdLFsiMTMtODctMS02IiwxXSxbIjEzLTg3LTEtN2EiLDFdLFsiMTMtODctOC0yIiwxXSxbIjEzLTg3LTYtOCIsMV0sWyIxMy04Ny03LTkiLDFdLFsiMTMtMzUtMy0wIiwxXSxbIjEzLTM1LTUtMCIsMV0sWyIxMy0zNS00LTEiLDFdLFsiMTMtMzUtMi0yIiwyXSxbIjEzLTM1LTQtMiIsMl0sWyIxMy0zNS02LTIiLDJdLFsiMTMtMzUtNC0zIiwxXSxbIjEzLTM1LTEtMyIsMV0sWyIxMy0zNS03LTMiLDFdLFsiMTMtMzUtMy00IiwxXSxbIjEzLTM1LTUtNCIsMV0sWyIxMy0zNS00LTUiLDFdLFsiMTMtMzUtNS02YiIsMV0sWyIxMy0zNS0xLTQiLDFdLFsiMTMtMzUtMC01IiwyXSxbIjEzLTM1LTMtNiIsMV0sWyIxMy0zNS0zLTciLDFdLFsiMTMtMzUtNS03IiwxXSxbIjEzLTM1LTctNCIsMV0sWyIxMy0zNS04LTVhIiwxXSxbIjEzLTM1LTEtNiIsMV0sWyIxMy0zNS0yLTgiLDFdLFsiMTMtMzUtNC04IiwxXSxbIjEzLTM1LTEwLTAiLDFdLFsiMTMtMzUtMTAtMiIsMV0sWyIxMy0zNS0xMC00IiwxXSxbIjEzLTM1LTEwLTYiLDFdLFsiMTMtMzUtMTAtOCIsMV1d",
+  "tags": [],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 1,
+  "comment_count": 1,
+  "created_at": "2026-07-22T17:25:45.037003+00:00",
+  "updated_at": "2026-07-22T17:26:57.043+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 897,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 7,
+  "author": {
+   "id": "4be73960-aa4a-450b-ab0c-12f3ebba7d3c",
+   "username": "Jose Alejandro",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKyzN8fIu8FVeOvXpyCiZo2mZXEjrgANo2QQCWaElWoUrQmD5Om=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "01b49f23-de85-496c-b89e-f995025d7f58",
+   "build_id": "2019472c-795b-45fb-b774-4cd1819165ca",
+   "author_id": "7955028b-1af4-41df-a0a2-8497d50a66c9",
+   "parent_id": null,
+   "body": "q grande jose, una build en español, la probaré pero tiene buena pinta",
+   "upvotes": 0,
+   "created_at": "2026-07-30T16:07:36.945009+00:00",
+   "updated_at": "2026-07-30T16:07:36.945009+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "7955028b-1af4-41df-a0a2-8497d50a66c9",
+    "username": "Albaro Rojas",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIPAnZJa5B9ZVFhJAzp4jDVkM5InGQQIhllHS4djSd0li3GZJNz=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "a254757b-8afd-45a9-b6bd-93dd4bf49d9d",
+   "title": "WD Shadowhunter PvE",
+   "class_id": 13,
+   "spec_id": 36,
+   "author_id": "428f5bf2-8db9-42db-a655-0215916cb624",
+   "tags": [
+    "AoE",
+    "Dungeon",
+    "Single Target"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 430,
+   "featured": false,
+   "created_at": "2026-07-29T19:22:39.59715+00:00",
+   "updated_at": "2026-07-29T19:30:52.961+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "428f5bf2-8db9-42db-a655-0215916cb624",
+    "username": "Martin T. L. (Malleren)",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJOVHmFSEN6QzZdqvH_Lu6ce3wr7zGxdIaw5-n9kVyIElnHLGVW=s96-c"
+   }
+  },
+  {
+   "id": "05e9cd81-6697-4220-91c5-d1872fc44a29",
+   "title": "Who do your voodoo",
+   "class_id": 13,
+   "spec_id": 34,
+   "author_id": "8617fe92-c43b-44c7-9a4e-9e371d18f0fa",
+   "tags": [
+    "Aoe"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 2,
+   "downvotes": 0,
+   "comment_count": 1,
+   "view_count": 2507,
+   "featured": false,
+   "created_at": "2026-07-23T07:38:39.28031+00:00",
+   "updated_at": "2026-07-23T07:40:37.987+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "8617fe92-c43b-44c7-9a4e-9e371d18f0fa",
+    "username": "skadi2552",
+    "avatar_url": "https://cdn.discordapp.com/avatars/169451519345819649/6890df9855fd7a4d11b292d1c61e0810.png"
+   }
+  },
+  {
+   "id": "00b41ac2-7b7f-4a28-87ad-1d5f78204ab9",
+   "title": "WD - Cocktail Cauldron Shenaningans",
+   "class_id": 13,
+   "spec_id": 35,
+   "author_id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+   "tags": [
+    "AOE",
+    "Raid",
+    "Mythic"
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 580,
+   "featured": false,
+   "created_at": "2026-07-23T16:26:12.939071+00:00",
+   "updated_at": "2026-07-28T16:01:48.181+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+    "username": "bruttus_",
+    "avatar_url": "https://cdn.discordapp.com/avatars/716955228729245781/98ec4037a0a68fd624f2a4ad6069555b.png"
+   }
+  }
+ ],
+ "class": "Witch Doctor",
+ "spec": "Brewing",
+ "allocations": [
+  [
+   "13-87-4-0",
+   1
+  ],
+  [
+   "13-87-7-0",
+   1
+  ],
+  [
+   "13-87-6-1",
+   1
+  ],
+  [
+   "13-87-4-1",
+   1
+  ],
+  [
+   "13-87-2-1",
+   2
+  ],
+  [
+   "13-87-3-2",
+   1
+  ],
+  [
+   "13-87-2-3",
+   1
+  ],
+  [
+   "13-87-5-2",
+   2
+  ],
+  [
+   "13-87-6-3",
+   1
+  ],
+  [
+   "13-87-7-4",
+   1
+  ],
+  [
+   "13-87-6-5",
+   1
+  ],
+  [
+   "13-87-7-6",
+   2
+  ],
+  [
+   "13-87-8-5",
+   1
+  ],
+  [
+   "13-87-7-7",
+   1
+  ],
+  [
+   "13-87-5-6",
+   1
+  ],
+  [
+   "13-87-4-4",
+   1
+  ],
+  [
+   "13-87-2-5",
+   1
+  ],
+  [
+   "13-87-3-6",
+   1
+  ],
+  [
+   "13-87-1-6",
+   1
+  ],
+  [
+   "13-87-1-7a",
+   1
+  ],
+  [
+   "13-87-8-2",
+   1
+  ],
+  [
+   "13-87-6-8",
+   1
+  ],
+  [
+   "13-87-7-9",
+   1
+  ],
+  [
+   "13-35-3-0",
+   1
+  ],
+  [
+   "13-35-5-0",
+   1
+  ],
+  [
+   "13-35-4-1",
+   1
+  ],
+  [
+   "13-35-2-2",
+   2
+  ],
+  [
+   "13-35-4-2",
+   2
+  ],
+  [
+   "13-35-6-2",
+   2
+  ],
+  [
+   "13-35-4-3",
+   1
+  ],
+  [
+   "13-35-1-3",
+   1
+  ],
+  [
+   "13-35-7-3",
+   1
+  ],
+  [
+   "13-35-3-4",
+   1
+  ],
+  [
+   "13-35-5-4",
+   1
+  ],
+  [
+   "13-35-4-5",
+   1
+  ],
+  [
+   "13-35-5-6b",
+   1
+  ],
+  [
+   "13-35-1-4",
+   1
+  ],
+  [
+   "13-35-0-5",
+   2
+  ],
+  [
+   "13-35-3-6",
+   1
+  ],
+  [
+   "13-35-3-7",
+   1
+  ],
+  [
+   "13-35-5-7",
+   1
+  ],
+  [
+   "13-35-7-4",
+   1
+  ],
+  [
+   "13-35-8-5a",
+   1
+  ],
+  [
+   "13-35-1-6",
+   1
+  ],
+  [
+   "13-35-2-8",
+   1
+  ],
+  [
+   "13-35-4-8",
+   1
+  ],
+  [
+   "13-35-10-0",
+   1
+  ],
+  [
+   "13-35-10-2",
+   1
+  ],
+  [
+   "13-35-10-4",
+   1
+  ],
+  [
+   "13-35-10-6",
+   1
+  ],
+  [
+   "13-35-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "13-87-4-0",
+   "points": 1,
+   "name": "Mimic Ward",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 707162
+  },
+  {
+   "id": "13-87-7-0",
+   "points": 1,
+   "name": "Healing Ward",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 500957
+  },
+  {
+   "id": "13-87-6-1",
+   "points": 1,
+   "name": "Spiritual Traditions",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705911
+  },
+  {
+   "id": "13-87-4-1",
+   "points": 1,
+   "name": "Chosen One",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503742
+  },
+  {
+   "id": "13-87-2-1",
+   "points": 2,
+   "name": "Juju Injection",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503608
+  },
+  {
+   "id": "13-87-3-2",
+   "points": 1,
+   "name": "Mojo Madness",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705871
+  },
+  {
+   "id": "13-87-2-3",
+   "points": 1,
+   "name": "Death Draught",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 602220
+  },
+  {
+   "id": "13-87-5-2",
+   "points": 2,
+   "name": "Wizened",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705903
+  },
+  {
+   "id": "13-87-6-3",
+   "points": 1,
+   "name": "Cleansing Idol",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504840
+  },
+  {
+   "id": "13-87-7-4",
+   "points": 1,
+   "name": "Spirit Warden",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503774
+  },
+  {
+   "id": "13-87-6-5",
+   "points": 1,
+   "name": "Vol'jin's Vigil",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504465
+  },
+  {
+   "id": "13-87-7-6",
+   "points": 2,
+   "name": "Spirit Walker",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504459
+  },
+  {
+   "id": "13-87-8-5",
+   "points": 1,
+   "name": "Swift Idol",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 804226
+  },
+  {
+   "id": "13-87-7-7",
+   "points": 1,
+   "name": "Hastened",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705899
+  },
+  {
+   "id": "13-87-5-6",
+   "points": 1,
+   "name": "Potent Mixes",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503748
+  },
+  {
+   "id": "13-87-4-4",
+   "points": 1,
+   "name": "Amphibimorph",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 500952
+  },
+  {
+   "id": "13-87-2-5",
+   "points": 1,
+   "name": "Alchemical Enhancement",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705921
+  },
+  {
+   "id": "13-87-3-6",
+   "points": 1,
+   "name": "Touch of Mueh'zala",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 706538
+  },
+  {
+   "id": "13-87-1-6",
+   "points": 1,
+   "name": "Slither",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 500947
+  },
+  {
+   "id": "13-87-1-7a",
+   "points": 1,
+   "name": "Blessing of Hir'eek",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 572870
+  },
+  {
+   "id": "13-87-8-2",
+   "points": 1,
+   "name": "Seeker",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705880
+  },
+  {
+   "id": "13-87-6-8",
+   "points": 1,
+   "name": "One Armed Waltz",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705909
+  },
+  {
+   "id": "13-87-7-9",
+   "points": 1,
+   "name": "For Da Loa!",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705906
+  },
+  {
+   "id": "13-35-3-0",
+   "points": 1,
+   "name": "Ingredient: Jungle Shrooms",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 801660
+  },
+  {
+   "id": "13-35-5-0",
+   "points": 1,
+   "name": "Potion Toss",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 801661
+  },
+  {
+   "id": "13-35-4-1",
+   "points": 1,
+   "name": "Mixologist",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 561069
+  },
+  {
+   "id": "13-35-2-2",
+   "points": 2,
+   "name": "Potent Mixes",
+   "maxPoints": 2,
+   "tree": "Brewing",
+   "spellId": 503748
+  },
+  {
+   "id": "13-35-4-2",
+   "points": 2,
+   "name": "Mojo Addiction",
+   "maxPoints": 2,
+   "tree": "Brewing",
+   "spellId": 503696
+  },
+  {
+   "id": "13-35-6-2",
+   "points": 2,
+   "name": "Brewmaster",
+   "maxPoints": 2,
+   "tree": "Brewing",
+   "spellId": 704512
+  },
+  {
+   "id": "13-35-4-3",
+   "points": 1,
+   "name": "Splash Potion",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 802710
+  },
+  {
+   "id": "13-35-1-3",
+   "points": 1,
+   "name": "Presence of the Loa",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 572871
+  },
+  {
+   "id": "13-35-7-3",
+   "points": 1,
+   "name": "Plentiful Potions",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 803463
+  },
+  {
+   "id": "13-35-3-4",
+   "points": 1,
+   "name": "Potion Boss",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 561072
+  },
+  {
+   "id": "13-35-5-4",
+   "points": 1,
+   "name": "Splash On 'Em",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 802219
+  },
+  {
+   "id": "13-35-4-5",
+   "points": 1,
+   "name": "Mojo Beam",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 500950
+  },
+  {
+   "id": "13-35-5-6b",
+   "points": 1,
+   "name": "Arcane Brew",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 801689
+  },
+  {
+   "id": "13-35-1-4",
+   "points": 1,
+   "name": "Ingredient: Frog Bones",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 801663
+  },
+  {
+   "id": "13-35-0-5",
+   "points": 2,
+   "name": "Fresh Ingredients",
+   "maxPoints": 2,
+   "tree": "Brewing",
+   "spellId": 705856
+  },
+  {
+   "id": "13-35-3-6",
+   "points": 1,
+   "name": "Jungle Secrets",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 707212
+  },
+  {
+   "id": "13-35-3-7",
+   "points": 1,
+   "name": "Sen'jin's Presence",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 560544
+  },
+  {
+   "id": "13-35-5-7",
+   "points": 1,
+   "name": "Disciple of Sseratus",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 300660
+  },
+  {
+   "id": "13-35-7-4",
+   "points": 1,
+   "name": "Ingredient: Bloodthistle",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 801664
+  },
+  {
+   "id": "13-35-8-5a",
+   "points": 1,
+   "name": "Spice: Earthroot",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 504424
+  },
+  {
+   "id": "13-35-1-6",
+   "points": 1,
+   "name": "Mojo: Frog Shrooms",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 705851
+  },
+  {
+   "id": "13-35-2-8",
+   "points": 1,
+   "name": "Voodoo Cauldron",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 804684
+  },
+  {
+   "id": "13-35-4-8",
+   "points": 1,
+   "name": "Master of Concoctions",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 801690
+  },
+  {
+   "id": "13-35-10-0",
+   "points": 1,
+   "name": "Cauldron Brewer",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 92085
+  },
+  {
+   "id": "13-35-10-2",
+   "points": 1,
+   "name": "Spirit Healer",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 560280
+  },
+  {
+   "id": "13-35-10-4",
+   "points": 1,
+   "name": "Loa's Blessing",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 705848
+  },
+  {
+   "id": "13-35-10-6",
+   "points": 1,
+   "name": "Mojo Wave",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 707617
+  },
+  {
+   "id": "13-35-10-8",
+   "points": 1,
+   "name": "It's Da Mojo",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 706369
+  }
+ ]
+}

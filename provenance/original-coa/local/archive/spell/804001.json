@@ -1,0 +1,8 @@
+{
+  "name_enus": "Reaper's Pact",
+  "icon": "_warlock_agonie1",
+  "tooltip_enus": "<table><tr><td><b>Reaper's Pact</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">You link yourself with an ally, reducing all damage they take by 5% and redirecting 20% of all damage they take to you.<br /><br />Lasts 10&nbsp;min. This effect will fall off if you are more than 30 yds from the ally.</span></td></tr></table><!--?804001:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

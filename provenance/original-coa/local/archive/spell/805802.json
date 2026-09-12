@@ -1,0 +1,8 @@
+{
+  "name_enus": "Carnage",
+  "icon": "ability_warrior_bloodfrenzy",
+  "tooltip_enus": "<table><tr><td><b>Carnage</b><br /><table width=\"100%\"><tr><td>Instant</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Your next instance of direct damage dealt to a target inflicts them with <span style=\"color: #fffffF;\">Carnage</span> for 10&nbsp;sec.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_warrior_bloodfrenzy.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=806950'> Carnage </a> <br />\n                            <span> Dealing damage to the target affected by <span style=\"color: #ffffff;\">Carnage</span> deals an additional 85% Weapon Damage.</span><br /></span></td></tr></table><!--?805802:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

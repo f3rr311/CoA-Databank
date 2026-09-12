@@ -1,0 +1,8 @@
+{
+  "name_enus": "Carbon Dating",
+  "icon": "trade_archaeology",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Carbon Dating</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Each stack of <span style=\"color: #ffffff;\">Sands of Time</span> now also increases the healing of your <span style=\"color: #ffffff;\">Epoch</span> by 10%.</span></td></tr></table><!--?706102:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Skittering Rush",
+  "icon": "ability_monk_rushingjadewind",
+  "tooltip_enus": "<table><tr><td><b>Skittering Rush</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Enrages you for 8&nbsp;sec whenever <span style=\"color: #ffffff;\">Tunnel Below</span> ends, increasing movement speed by 40% and damage dealt by 10% and reduces the cooldown of <span style=\"color: #ffffff;\">Spider Form Jump</span> by 90%.<!--sp500230:0--><!--sp500230--></span></td></tr></table><!--?804965:1:1:80-->",
+  "spells_enus": {
+    "500230": [
+      [
+        "",
+        "<br /><br />Your next <span style=\"color: #ffffff\">Gripping Webs</span> consumes the effect to trigger with a 90% reduced cooldown."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

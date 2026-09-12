@@ -1,0 +1,722 @@
+{
+ "build": {
+  "id": "b667b709-17ca-4de9-b5e8-0618c8b21396",
+  "title": "Animation Necromancer Leveling Guide",
+  "description": "[overview]\nStill working through this build, open to suggestions. Please comment with any suggestions or questions about the build.\n\n[talents]\n10-19: Rush Living Dead and Ghouls taking Bone King over Graverobber to help with early mana issues. \n20-?: From here you have a few options. Rush March of the Dead if you want a MASSIVE AOE ability for big pulls (~5+ targets).... hold off on Lich's Prodigy until you have Overwhelming Force and Lich Commander. Rush OF and LC ASAP to help with mana and RP efficiency. Frozen Reliquary will be a massive help too but may be expensive as corpse dust costs can stack up if you're leaning on it too heavily in the early game. \nAny defensive options shown are lowest priority and strictly taken to fill out the tree and open access to the last 2 talents. \n\nDecaying Colossus can be swapped for Foul Invocation as both are defensive options. Haven't tested DC against abom but considering he uses a frontal (that we can't aim for him), abom is likely to out perform. \n\nUnstoppable Frenzy is interchangeable for AotD. UF lines up our Unholy Frenzy with our other 2m CDs for consistent burst phases. AotD would mainly be taken for slightly more mana regen (more minion hits= more mana regen thanks to Overwhelming Force)\n\n[rotation]\nMinions\nPre-Ghouls- Abom + 2x warriors\nPre 30- Abom + 2x ghouls\n2x crypt fiends works too for 3 targets or less but not a huge difference in damage\n\nLvl 30+\nAbom + 3 Ghouls in virtually all content\n2x crypt fiends + 1 ghoul is good for ST but falls behind on mana regen since 3x ghouls + all their talents\n\nWard - Glacial Ward (Bone Ward until you unlock it)\n\nMandate - Grim Mandate (Foul Mandate until you unlock it)\n\nOpener\nRune tap right before pull>Call of the Dead> Archers> Tomb King> Plaguefather> Unholy Frenzy> Blood Fury/Berserking (if applicable) begin rotation\n\nRotation\nBlight>Harvest Plague> spam Command Undead if enough RP/Crypt Swarm if not\nArchers on CD, Blight on procs ONLY (no hardcast after pull) Lichfrost ONLY IF blight is active on target. DO NOT overwrite blights, the final tick is 25% of the full duration's damage. Rune tap as needed to spam command undead\n\n5+ targets Rotation\nOnly differences here are to replace command undead with March of the Dead and spam command undead during MotD CD AND spread blight to as many targets as possible with our procs.  10s is a pretty tight window and you typically want to rune tap>MotD every time. This uses a TON of mana, even without Lich's Prodigy. You WILL be drinking/hitting Frozen Reliquary nearly every pull so spam MotD at the risk of your own bank account. \n\nAs of writing this, the wall becomes active roughly 2-3s after casting and marches forward about 20-25 yds. Keep this in mind as these WILL AGGRO mobs so aim carefully. \n\nTl;dr- maintain blight/harvest plague on at least one target, crypt swarm- mana efficient RP generator, Runetap- high mana RP generator. Spam Command Undead for free blight/lichfrost procs OR spam MotD to do massive AOE at the cost of corpse dust for Frozen Reliquaries and mana consumables\n\n[stats]\nSpell power> Intellect> Stamina.........BUT\nwe really want a healthy balance of Intellect/Spell power and stamina\nSpell power- raw damage\nIntellect- mana + crit rating\nStamina- survivability but more importantly, spell damage (15% of your minions' total stamina) yes, your stamina translates to your minions' stamina!\n50+, we need to focus on hit rating as well\n\n[macros]\nBurst\n#showtooltip Unholy Frenzy\n/cast Unholy Frenzy\n/cast Blood Fury(Racial)\n/cast Animate: Plaguefather",
+  "class_id": 23,
+  "spec_id": 61,
+  "author_id": "22a6fb33-9da9-4a50-bda0-c2eda22b9043",
+  "talent_string": "W1siMjMtODctMi0wIiwxXSxbIjIzLTg3LTMtMSIsMV0sWyIyMy04Ny02LTAiLDFdLFsiMjMtODctNy0xIiwyXSxbIjIzLTg3LTYtMiIsMV0sWyIyMy04Ny00LTIiLDJdLFsiMjMtODctNi0zIiwxXSxbIjIzLTg3LTQtNGIiLDFdLFsiMjMtODctNC01IiwxXSxbIjIzLTg3LTMtNmIiLDFdLFsiMjMtODctMi03IiwxXSxbIjIzLTg3LTYtNSIsMl0sWyIyMy04Ny03LTZiIiwxXSxbIjIzLTYxLTQtMCIsMV0sWyIyMy02MS02LTEiLDFdLFsiMjMtNjEtNi0yIiwxXSxbIjIzLTYxLTItMSIsMV0sWyIyMy02MS0yLTIiLDFdLFsiMjMtNjEtNC0yIiwyXSxbIjIzLTYxLTQtMyIsMV0sWyIyMy02MS00LTQiLDFdLFsiMjMtNjEtNC01IiwxXSxbIjIzLTYxLTMtNmIiLDFdLFsiMjMtNjEtNS02YSIsMV0sWyIyMy02MS00LTciLDFdLFsiMjMtNjEtMS0zIiwxXSxbIjIzLTYxLTItNGEiLDFdLFsiMjMtNjEtMS01IiwyXSxbIjIzLTYxLTEtNmIiLDFdLFsiMjMtNjEtNy0zIiwxXSxbIjIzLTYxLTYtNCIsMl0sWyIyMy02MS03LTUiLDFdLFsiMjMtNjEtNy02IiwxXSxbIjIzLTYxLTQtOCIsMV0sWyIyMy02MS0yLTkiLDFdLFsiMjMtNjEtMTAtMCIsMV0sWyIyMy02MS0xMC0yIiwxXSxbIjIzLTYxLTEwLTQiLDFdLFsiMjMtNjEtMTAtNiIsMV0sWyIyMy02MS0xMC04IiwxXSxbIjIzLTg3LTctNCIsMV0sWyIyMy04Ny0yLTIiLDFdLFsiMjMtODctMi0zIiwxXSxbIjIzLTg3LTItNSIsMV0sWyIyMy04Ny00LTciLDFdLFsiMjMtODctOC01IiwxXSxbIjIzLTg3LTEtNiIsMV0sWyIyMy04Ny00LTMiLDFdXQ",
+  "tags": [
+   "Leveling"
+  ],
+  "role": "dps",
+  "content_type": "leveling",
+  "patch_version": "1.0",
+  "upvotes": 3,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-20T17:21:46.043384+00:00",
+  "updated_at": "2026-07-20T17:24:07.574+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 2750,
+  "net_score": 3,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "22a6fb33-9da9-4a50-bda0-c2eda22b9043",
+   "username": "RoachFM",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK_xEeGYATHuZ4-7jWqe9-_ljTpFLxsug2SLwhSb6kteNT0utpC=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "863b65de-958d-4395-b494-b9aa1351fb0f",
+   "title": "The Frozen soul by \" Exagelado\" The troll Litch",
+   "class_id": 23,
+   "spec_id": 60,
+   "author_id": "4bf49e05-9ce3-4749-b996-00b550215909",
+   "tags": [
+    "Beginer",
+    "Leveling and some Tips"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 6,
+   "view_count": 898,
+   "featured": false,
+   "created_at": "2026-07-23T17:54:54.266782+00:00",
+   "updated_at": "2026-07-28T06:18:19.303+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "4bf49e05-9ce3-4749-b996-00b550215909",
+    "username": "Gabriel Furtado",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIZ0L6nJm3FNaxshkZGznqVfIzN6pn6ZHsEsvJ84ZyAcRFjQda-=s96-c"
+   }
+  },
+  {
+   "id": "8d9620a1-137b-41dc-8147-6e1a800b2682",
+   "title": "5 Ghoul Animation AoE Guide",
+   "class_id": 23,
+   "spec_id": 61,
+   "author_id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+   "tags": [
+    "AoE",
+    "Dungeons",
+    "Mythic+",
+    "Open World",
+    "Questing",
+    "Leveling"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 1,
+   "comment_count": 1,
+   "view_count": 2252,
+   "featured": false,
+   "created_at": "2026-07-22T13:02:06.678323+00:00",
+   "updated_at": "2026-07-23T05:20:38.57+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+    "username": "Miseral",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "f268b2a3-20e4-49df-bf9e-9c85ff7ae167",
+   "title": "3 Crypt Fiend Animation Single Target Guide",
+   "class_id": 23,
+   "spec_id": 61,
+   "author_id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+   "tags": [
+    "Single Target",
+    "Raid",
+    "2 Target Cleave",
+    "World Bosses",
+    "General Purpose",
+    "Guide",
+    "PvE",
+    "Dungeons",
+    "Bosses",
+    "Mythic+"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1340,
+   "featured": false,
+   "created_at": "2026-07-22T13:15:03.350058+00:00",
+   "updated_at": "2026-07-23T05:19:29.939+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+    "username": "Miseral",
+    "avatar_url": null
+   }
+  }
+ ],
+ "class": "Necromancer",
+ "spec": "Animation",
+ "allocations": [
+  [
+   "23-87-2-0",
+   1
+  ],
+  [
+   "23-87-3-1",
+   1
+  ],
+  [
+   "23-87-6-0",
+   1
+  ],
+  [
+   "23-87-7-1",
+   2
+  ],
+  [
+   "23-87-6-2",
+   1
+  ],
+  [
+   "23-87-4-2",
+   2
+  ],
+  [
+   "23-87-6-3",
+   1
+  ],
+  [
+   "23-87-4-4b",
+   1
+  ],
+  [
+   "23-87-4-5",
+   1
+  ],
+  [
+   "23-87-3-6b",
+   1
+  ],
+  [
+   "23-87-2-7",
+   1
+  ],
+  [
+   "23-87-6-5",
+   2
+  ],
+  [
+   "23-87-7-6b",
+   1
+  ],
+  [
+   "23-61-4-0",
+   1
+  ],
+  [
+   "23-61-6-1",
+   1
+  ],
+  [
+   "23-61-6-2",
+   1
+  ],
+  [
+   "23-61-2-1",
+   1
+  ],
+  [
+   "23-61-2-2",
+   1
+  ],
+  [
+   "23-61-4-2",
+   2
+  ],
+  [
+   "23-61-4-3",
+   1
+  ],
+  [
+   "23-61-4-4",
+   1
+  ],
+  [
+   "23-61-4-5",
+   1
+  ],
+  [
+   "23-61-3-6b",
+   1
+  ],
+  [
+   "23-61-5-6a",
+   1
+  ],
+  [
+   "23-61-4-7",
+   1
+  ],
+  [
+   "23-61-1-3",
+   1
+  ],
+  [
+   "23-61-2-4a",
+   1
+  ],
+  [
+   "23-61-1-5",
+   2
+  ],
+  [
+   "23-61-1-6b",
+   1
+  ],
+  [
+   "23-61-7-3",
+   1
+  ],
+  [
+   "23-61-6-4",
+   2
+  ],
+  [
+   "23-61-7-5",
+   1
+  ],
+  [
+   "23-61-7-6",
+   1
+  ],
+  [
+   "23-61-4-8",
+   1
+  ],
+  [
+   "23-61-2-9",
+   1
+  ],
+  [
+   "23-61-10-0",
+   1
+  ],
+  [
+   "23-61-10-2",
+   1
+  ],
+  [
+   "23-61-10-4",
+   1
+  ],
+  [
+   "23-61-10-6",
+   1
+  ],
+  [
+   "23-61-10-8",
+   1
+  ],
+  [
+   "23-87-7-4",
+   1
+  ],
+  [
+   "23-87-2-2",
+   1
+  ],
+  [
+   "23-87-2-3",
+   1
+  ],
+  [
+   "23-87-2-5",
+   1
+  ],
+  [
+   "23-87-4-7",
+   1
+  ],
+  [
+   "23-87-8-5",
+   1
+  ],
+  [
+   "23-87-1-6",
+   1
+  ],
+  [
+   "23-87-4-3",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "23-87-2-0",
+   "points": 1,
+   "name": "Raise: Abomination",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 500335
+  },
+  {
+   "id": "23-87-3-1",
+   "points": 1,
+   "name": "Hulking Hordes",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300748
+  },
+  {
+   "id": "23-87-6-0",
+   "points": 1,
+   "name": "Glacial Tap",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 805369
+  },
+  {
+   "id": "23-87-7-1",
+   "points": 2,
+   "name": "Icecrown Scriptures",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300234
+  },
+  {
+   "id": "23-87-6-2",
+   "points": 1,
+   "name": "Create Frozen Reliquary",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 803772
+  },
+  {
+   "id": "23-87-4-2",
+   "points": 2,
+   "name": "Living Dead",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 302888
+  },
+  {
+   "id": "23-87-6-3",
+   "points": 1,
+   "name": "Ner'zhul's Blessing",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 704729
+  },
+  {
+   "id": "23-87-4-4b",
+   "points": 1,
+   "name": "Overwhelming Force",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 531128
+  },
+  {
+   "id": "23-87-4-5",
+   "points": 1,
+   "name": "Mass Grave",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 803741
+  },
+  {
+   "id": "23-87-3-6b",
+   "points": 1,
+   "name": "Lich Commander",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 704713
+  },
+  {
+   "id": "23-87-2-7",
+   "points": 1,
+   "name": "Putrid Summoner",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 560595
+  },
+  {
+   "id": "23-87-6-5",
+   "points": 2,
+   "name": "Disciple of Kel'thuzad",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 560615
+  },
+  {
+   "id": "23-87-7-6b",
+   "points": 1,
+   "name": "Cobalt-Plated Armor",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300945
+  },
+  {
+   "id": "23-61-4-0",
+   "points": 1,
+   "name": "Animate: Skeletal Archer",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 805040
+  },
+  {
+   "id": "23-61-6-1",
+   "points": 1,
+   "name": "Graverobber",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 503757
+  },
+  {
+   "id": "23-61-6-2",
+   "points": 1,
+   "name": "Forbidden Technique",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 561215
+  },
+  {
+   "id": "23-61-2-1",
+   "points": 1,
+   "name": "Bone King",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 707175
+  },
+  {
+   "id": "23-61-2-2",
+   "points": 1,
+   "name": "Summoning Prodigy",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 704682
+  },
+  {
+   "id": "23-61-4-2",
+   "points": 2,
+   "name": "Sepulchral Might",
+   "maxPoints": 2,
+   "tree": "Animation",
+   "spellId": 706472
+  },
+  {
+   "id": "23-61-4-3",
+   "points": 1,
+   "name": "Raise: Ghoul",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 500971
+  },
+  {
+   "id": "23-61-4-4",
+   "points": 1,
+   "name": "Ghoul Mastery",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 503740
+  },
+  {
+   "id": "23-61-4-5",
+   "points": 1,
+   "name": "Animate: Plaguefather",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 805048
+  },
+  {
+   "id": "23-61-3-6b",
+   "points": 1,
+   "name": "Unrelenting",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 704718
+  },
+  {
+   "id": "23-61-5-6a",
+   "points": 1,
+   "name": "Unstoppable Frenzy",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 573426
+  },
+  {
+   "id": "23-61-4-7",
+   "points": 1,
+   "name": "Corpse Wagon",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 503738
+  },
+  {
+   "id": "23-61-1-3",
+   "points": 1,
+   "name": "Scourge Disciple",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 531126
+  },
+  {
+   "id": "23-61-2-4a",
+   "points": 1,
+   "name": "Animate: Tomb King",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 805044
+  },
+  {
+   "id": "23-61-1-5",
+   "points": 2,
+   "name": "Unrelenting Army",
+   "maxPoints": 2,
+   "tree": "Animation",
+   "spellId": 705747
+  },
+  {
+   "id": "23-61-1-6b",
+   "points": 1,
+   "name": "Depravity",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 638403
+  },
+  {
+   "id": "23-61-7-3",
+   "points": 1,
+   "name": "Runic Animation",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 707445
+  },
+  {
+   "id": "23-61-6-4",
+   "points": 2,
+   "name": "Skeletal Artillery",
+   "maxPoints": 2,
+   "tree": "Animation",
+   "spellId": 302518
+  },
+  {
+   "id": "23-61-7-5",
+   "points": 1,
+   "name": "March of the Dead",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 707007
+  },
+  {
+   "id": "23-61-7-6",
+   "points": 1,
+   "name": "Lich's Prodigy",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 302519
+  },
+  {
+   "id": "23-61-4-8",
+   "points": 1,
+   "name": "Plague Horde",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 802986
+  },
+  {
+   "id": "23-61-2-9",
+   "points": 1,
+   "name": "Master Animator",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 504431
+  },
+  {
+   "id": "23-61-10-0",
+   "points": 1,
+   "name": "Summoning Adept",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 92123
+  },
+  {
+   "id": "23-61-10-2",
+   "points": 1,
+   "name": "Deadly Bond",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 704724
+  },
+  {
+   "id": "23-61-10-4",
+   "points": 1,
+   "name": "Summoning Expert",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 807494
+  },
+  {
+   "id": "23-61-10-6",
+   "points": 1,
+   "name": "Diabolical",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 704723
+  },
+  {
+   "id": "23-61-10-8",
+   "points": 1,
+   "name": "Grave Mastery",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 504439
+  },
+  {
+   "id": "23-87-7-4",
+   "points": 1,
+   "name": "Death's Due",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 807796
+  },
+  {
+   "id": "23-87-2-2",
+   "points": 1,
+   "name": "Vampiric Aura",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300241
+  },
+  {
+   "id": "23-87-2-3",
+   "points": 1,
+   "name": "Life For Power",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 705746
+  },
+  {
+   "id": "23-87-2-5",
+   "points": 1,
+   "name": "Reclaimed Life",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 707670
+  },
+  {
+   "id": "23-87-4-7",
+   "points": 1,
+   "name": "Deadly Defense",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300580
+  },
+  {
+   "id": "23-87-8-5",
+   "points": 1,
+   "name": "Improved Mandates",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 560613
+  },
+  {
+   "id": "23-87-1-6",
+   "points": 1,
+   "name": "Game of Bones",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 301198
+  },
+  {
+   "id": "23-87-4-3",
+   "points": 1,
+   "name": "Bone Tithe",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 802121
+  }
+ ]
+}

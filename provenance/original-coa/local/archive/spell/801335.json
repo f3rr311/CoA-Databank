@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hungering Scythe",
+  "icon": "inv_artifact_thalkielsdiscord",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hungering Scythe</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the duration of <span style=\"color: #ffffff;\">Deathwind</span> by 4 sec and <span style=\"color: #ffffff;\">Crow's Harvest</span> now deals 15% additional damage to enemies inside.</span></td></tr></table><!--?801335:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

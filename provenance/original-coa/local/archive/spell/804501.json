@@ -1,0 +1,15 @@
+{
+  "name_enus": "Remake",
+  "icon": "inv_trinket_80_titan02d",
+  "tooltip_enus": "<table><tr><td><b>Remake</b><br />10% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\"><!--sp806305:0--><span style=\"color: #ffffff;\"><!--sp806305-->Requires Balance or Order Majority</span><br />Remakes an ally, Healing them for 4 to 5 every 0.5 for 1.5&nbsp;sec.<br /><br />Grants 1 <span style=\"color: #ffffff;\">Order</span>.</span></td></tr></table><!--?804501:1:1:80-->",
+  "spells_enus": {
+    "806305": [
+      [
+        "|cffffffff",
+        "|cffff3232"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

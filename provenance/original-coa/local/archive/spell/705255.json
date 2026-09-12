@@ -1,0 +1,8 @@
+{
+  "name_enus": "Divine Strikes",
+  "icon": "inv_sword_2h_nazmirraid_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Divine Strikes</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Scourgebane</span> now increases the damage of <span style=\"color: #ffffff;\">Argent Blade</span> by 5% for 6&nbsp;sec, stacking 10 times.</span></td></tr></table><!--?705255:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

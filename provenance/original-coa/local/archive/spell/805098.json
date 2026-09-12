@@ -1,0 +1,8 @@
+{
+  "name_enus": "Venomancer (Fortitude)",
+  "icon": "inv_shield_23",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Venomancer (Fortitude)</b></td><th><b class=\"q0\">Exposed Flesh Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Hostile attacks against you have 50% chance to apply a stack of <span style=\"color: #ffffff;\">Exposed Flesh</span>, increasing Physical Damage taken by 3%, stacks up to 10 times, and generating 10 Rage.</span></td></tr></table><!--?805098:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

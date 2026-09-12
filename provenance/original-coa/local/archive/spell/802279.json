@@ -1,0 +1,8 @@
+{
+  "name_enus": "Surging Tonic",
+  "icon": "trade_alchemy_potione3",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Surging Tonic</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Drink a bitter tonic, reducing the cost of all abilities by 20% for 15&nbsp;sec.<br /><br />Only 1 <span style=\"color: #ffffff;\">Tonic</span> can be active at a time.</span></td></tr></table><!--?802279:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

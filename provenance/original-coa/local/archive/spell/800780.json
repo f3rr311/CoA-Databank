@@ -1,0 +1,15 @@
+{
+  "name_enus": "Blood Craving",
+  "icon": "spell_shadow_lifedrain",
+  "tooltip_enus": "<table><tr><td><b>Blood Craving</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><!--sp524861:0--><span style=\"color: #ffffff;\"><!--sp524861-->Requires Mortal Form</span><br />You crave blood for 12&nbsp;sec, for the duration you cannot be interrupted or silenced, and you regain 5% of your maximum health and 15% of your missing Rage every 2 sec.</span></td></tr></table><!--?800780:1:1:80-->",
+  "spells_enus": {
+    "524861": [
+      [
+        "|cffffffff",
+        "|cffff3232"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

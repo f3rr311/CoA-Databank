@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Mend Ward",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Improved Mend Ward</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Mend Ward</span> by 30 sec.</span></td></tr></table><!--?705310:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

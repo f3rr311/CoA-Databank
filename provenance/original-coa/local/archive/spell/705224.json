@@ -1,0 +1,8 @@
+{
+  "name_enus": "Axe Dance",
+  "icon": "inv_misc_cat_trinket07",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Axe Dance</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Ancestral Strike</span> now costs 20 less Energy and knocks the target and you away from each other, but now has a 20 sec cooldown.</span></td></tr></table><!--?705224:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Razorquills",
+  "icon": "5_archerskill43_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Razorquills</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the tick rate of <span style=\"color: #ffffff;\">Toxic Dart</span> and <span style=\"color: #ffffff;\">Emerald Arrows</span> by 20%.</span></td></tr></table><!--?705072:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

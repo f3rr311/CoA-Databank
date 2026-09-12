@@ -1,0 +1,8 @@
+{
+  "name_enus": "Quickpalm",
+  "icon": "ability_monk_deadlyreach",
+  "tooltip_enus": "<table><tr><td><b>Quickpalm</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">A swift <span style=\"color: #ffffff;\">Follow Up</span> that deals 11 to 13 Physical Damage to an enemy and increases your Armor by 30% for 20&nbsp;sec.<br /><br /><span style=\"color: #ffffff;\">Oath:</span> You take 2% reduced damage.</span></td></tr></table><!--?804919:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

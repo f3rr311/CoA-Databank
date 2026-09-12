@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rapture",
+  "icon": "ability_racial_orbitalstrike",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Rapture</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>20% of base mana<br /><table width=\"100%\"><tr><td>3 sec cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Call down a streak of sun light to smite your target, dealing 111+0+FireP*2 Fire damage to them and nearby enemies, piercing all immunities, but dealing less damage with each enemy struck.</span></td></tr></table><!--?806477:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

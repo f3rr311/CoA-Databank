@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dragon's Blood",
+  "icon": "inv_misc_stormdragonred",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dragon's Blood</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the critical damage of <span style=\"color: #ffffff;\">Flare Bolt</span> by 10%.</span></td></tr></table><!--?802162:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

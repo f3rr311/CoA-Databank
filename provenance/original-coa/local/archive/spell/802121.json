@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bone Tithe",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Bone Tithe</b><br />25% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Siphon life from your undead minions, sacrificing 40% of their health to grant yourself an absorb shield equal to half of the health stolen for 20&nbsp;sec.<br /><br />Usable while stunned.</span></td></tr></table><!--?802121:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

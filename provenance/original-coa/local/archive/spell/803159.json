@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chakra of Light",
+  "icon": "priest_icon_chakra",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Chakra of Light</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Testaments</span> by 30 sec and <span style=\"color: #ffffff;\">Oath Breakers</span> now heal allies around the target for 20+SP*0.35.</span></td></tr></table><!--?803159:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

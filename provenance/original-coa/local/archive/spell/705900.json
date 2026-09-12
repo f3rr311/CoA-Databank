@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hastened Wards",
+  "icon": "inv_relics_totemofrebirth",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hastened Wards</b></td><th><b class=\"q0\">deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of all <span style=\"color: #ffffff;\">Wards</span> by 0%.</span></td></tr></table><!--?705900:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

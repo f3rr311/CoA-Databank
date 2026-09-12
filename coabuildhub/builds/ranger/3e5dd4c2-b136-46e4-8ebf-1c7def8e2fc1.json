@@ -1,0 +1,760 @@
+{
+ "build": {
+  "id": "3e5dd4c2-b136-46e4-8ebf-1c7def8e2fc1",
+  "title": "aoe",
+  "description": "[overview]\nRanger Archery is first and foremost NOT a replacement of Hunter. So if you are looking for the hunter playstyle you wont find it here.\n\nThis usually gets me to 4-7k dps on ST and much more in AoE.. It does however, vary. Theres a lot of positioning to be aware of at all times.\n\n[talents]\nThe most impactful talents is by *FAR* [Incendiary Shot](coa-skill:ranger:524870) It not only adds damage in AoE but also ST rotations so it stays no matter what. I have yet to try out 'Headshots only' for increased precision shot damage however.\n\n[rotation]\nKeep [Skirmish](coa-skill:ranger:802039) and [Serrated Shot](coa-skill:ranger:500073) Up at ALL Times.\n\nSpend only on 5 Advantage points.\n\nCast [Incendiary Shot](coa-skill:ranger:524870) on CD\nCast [Precision Shot](coa-skill:ranger:500075)\nCast [Deadshot](coa-skill:ranger:520227) \nCast [Skullpiercer](coa-skill:ranger:802036) ONLY if Skirmish is about to run out, or you cannot get in minimum range for a Precision Shot\n\nST: [Quick Shot](coa-skill:ranger:500074)\n\nAoE: [Hunting Shot](coa-skill:ranger:801191)\n\n\nQuiver: [Skirmisher's Quiver](coa-skill:ranger:801069)\n\n[stats]\nPrio:\n\nHit (cap)\nAttack Power\nAgility\nCrit\nHaste\n\n[gear]\nFor pre-raid PvE Best in slot, I generated one on BiSBeard.com\n\n\n**Dungeon Grind BiS Link**\nhttps://coa.bisbeard.com/b/ZKoGwqKumjnXx2\n\n**BiS with Reptutations and Crafted items included**\nhttps://coa.bisbeard.com/b/JeYTzDI23JBGdH\n\n[enchants]\nNinja Focus\n+15 Agil on off hand\nCrit / AP enchant on Ranged\n\n[leveling]\nPersonally, I recommend Dungeon spam. Dont bother trying to level with this in the open world.\n\nBut if you are dead-set on leveling, Either you take Farstrider as it seems to do a lot better than this spec in low levels. Or you can always drop a point in [Resourceful] to lower the CD of Snapseed & Crippling shot to keep distance. You will not be able to zoom-tank major groups as easily but with some range management, not impossible. I also recommend Toxic / Searing Quiver for leveling. The same rule of thumb applies to rotation to keep Skirmish up and try to refresh it with full advantage spenders. Another great talent pick is Forest Dweller in higher levels to keep yourself in action longer.",
+  "class_id": 21,
+  "spec_id": 54,
+  "author_id": "9e8371ac-f9b7-4ae6-9297-0c7a37369d2c",
+  "talent_string": "W1siMjEtODctNC0wIiwxXSxbIjIxLTg3LTItMCIsMV0sWyIyMS04Ny00LTEiLDFdLFsiMjEtODctMi0xIiwxXSxbIjIxLTg3LTItMiIsMV0sWyIyMS04Ny00LTIiLDNdLFsiMjEtODctNi0xIiwxXSxbIjIxLTg3LTYtMiIsMV0sWyIyMS04Ny03LTMiLDFdLFsiMjEtODctOC00IiwxXSxbIjIxLTg3LTQtMyIsMV0sWyIyMS04Ny00LTQiLDFdLFsiMjEtODctMy01YSIsMV0sWyIyMS04Ny01LTUiLDFdLFsiMjEtODctNi02YSIsMV0sWyIyMS04Ny00LTYiLDFdLFsiMjEtODctNC03YiIsMV0sWyIyMS04Ny0yLTQiLDFdLFsiMjEtODctMS01IiwxXSxbIjIxLTg3LTItNiIsMV0sWyIyMS04Ny0yLTciLDFdLFsiMjEtODctNi03IiwxXSxbIjIxLTg3LTQtOCIsMV0sWyIyMS04Ny0yLTkiLDFdLFsiMjEtNTQtNC0wIiwxXSxbIjIxLTU0LTItMSIsMl0sWyIyMS01NC00LTIiLDFdLFsiMjEtNTQtNi0xIiwxXSxbIjIxLTU0LTctMiIsMV0sWyIyMS01NC02LTQiLDFdLFsiMjEtNTQtNi01IiwxXSxbIjIxLTU0LTctNiIsMV0sWyIyMS01NC03LTciLDFdLFsiMjEtNTQtNC00IiwxXSxbIjIxLTU0LTQtNSIsMV0sWyIyMS01NC01LTYiLDFdLFsiMjEtNTQtNC03IiwxXSxbIjIxLTU0LTMtMyIsMV0sWyIyMS01NC0xLTIiLDFdLFsiMjEtNTQtMC00IiwxXSxbIjIxLTU0LTAtNSIsMV0sWyIyMS01NC0xLTYiLDFdLFsiMjEtNTQtMi03IiwxXSxbIjIxLTU0LTItNCIsMV0sWyIyMS01NC00LTliIiwxXSxbIjIxLTU0LTEwLTAiLDFdLFsiMjEtNTQtMTAtMiIsMV0sWyIyMS01NC0xMC00IiwxXSxbIjIxLTU0LTEwLTYiLDFdLFsiMjEtNTQtMTAtOCIsMV0sWyIyMS01NC0yLTgiLDFdLFsiMjEtNTQtMi01IiwyXV0",
+  "tags": [
+   "PvE",
+   "Open World Content",
+   "AoE",
+   "Single-Target"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-25T18:00:42.059917+00:00",
+  "updated_at": "2026-07-25T18:00:42.059917+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 611,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 7,
+  "author": {
+   "id": "9e8371ac-f9b7-4ae6-9297-0c7a37369d2c",
+   "username": "Sendi Prahasa",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKleh4LuasRERVbBopEiJLDzyqfSsLbfw7d4Iqt9QvqcVc8wA=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "e9668f22-03ba-411f-a932-cb7f30d508b4",
+   "title": "Bigrand Ranger 1# Try PVE M+",
+   "class_id": 21,
+   "spec_id": 55,
+   "author_id": "7a1dceee-0f2d-4925-afcf-285d86aa5400",
+   "tags": [
+    "PVE",
+    "Dungeon"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 1,
+   "comment_count": 5,
+   "view_count": 897,
+   "featured": false,
+   "created_at": "2026-07-26T11:29:13.336549+00:00",
+   "updated_at": "2026-07-27T08:34:52.225+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "7a1dceee-0f2d-4925-afcf-285d86aa5400",
+    "username": "Spidde The Survival Hunter",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJazWoQy4hFFu6Bt-GzTeQ5IAnT8tO5_ktVgCuu1BoP653QcJ-5=s96-c"
+   }
+  },
+  {
+   "id": "96a565c5-151e-49af-a289-6872aaf0bedb",
+   "title": "asd",
+   "class_id": 21,
+   "spec_id": 55,
+   "author_id": "460e3ba6-310a-472d-9046-7cca6f001639",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 121,
+   "featured": false,
+   "created_at": "2026-07-28T21:52:48.699854+00:00",
+   "updated_at": "2026-07-28T21:54:05.401+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "460e3ba6-310a-472d-9046-7cca6f001639",
+    "username": "fede zalazar",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL7qtROMyzeyE7ClzP7r5Rz1ABhYAKlxk4E1mjM8eNtzhiKXg=s96-c"
+   }
+  },
+  {
+   "id": "1a626108-5840-4b3b-aaf7-33777a358433",
+   "title": "Archery - PvE",
+   "class_id": 21,
+   "spec_id": 54,
+   "author_id": "73f89275-5b06-44ec-803b-ff5783a8230c",
+   "tags": [
+    "PvE",
+    "Open World Content",
+    "AoE",
+    "Single-Target"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 3,
+   "view_count": 4162,
+   "featured": false,
+   "created_at": "2026-07-20T08:30:30.828208+00:00",
+   "updated_at": "2026-07-23T10:43:36.717+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "73f89275-5b06-44ec-803b-ff5783a8230c",
+    "username": "lakrosa_swe",
+    "avatar_url": "https://cdn.discordapp.com/avatars/339661186821914625/0cd8647076acd402c14da7b4108f41fc.png"
+   }
+  }
+ ],
+ "class": "Ranger",
+ "spec": "Archery",
+ "allocations": [
+  [
+   "21-87-4-0",
+   1
+  ],
+  [
+   "21-87-2-0",
+   1
+  ],
+  [
+   "21-87-4-1",
+   1
+  ],
+  [
+   "21-87-2-1",
+   1
+  ],
+  [
+   "21-87-2-2",
+   1
+  ],
+  [
+   "21-87-4-2",
+   3
+  ],
+  [
+   "21-87-6-1",
+   1
+  ],
+  [
+   "21-87-6-2",
+   1
+  ],
+  [
+   "21-87-7-3",
+   1
+  ],
+  [
+   "21-87-8-4",
+   1
+  ],
+  [
+   "21-87-4-3",
+   1
+  ],
+  [
+   "21-87-4-4",
+   1
+  ],
+  [
+   "21-87-3-5a",
+   1
+  ],
+  [
+   "21-87-5-5",
+   1
+  ],
+  [
+   "21-87-6-6a",
+   1
+  ],
+  [
+   "21-87-4-6",
+   1
+  ],
+  [
+   "21-87-4-7b",
+   1
+  ],
+  [
+   "21-87-2-4",
+   1
+  ],
+  [
+   "21-87-1-5",
+   1
+  ],
+  [
+   "21-87-2-6",
+   1
+  ],
+  [
+   "21-87-2-7",
+   1
+  ],
+  [
+   "21-87-6-7",
+   1
+  ],
+  [
+   "21-87-4-8",
+   1
+  ],
+  [
+   "21-87-2-9",
+   1
+  ],
+  [
+   "21-54-4-0",
+   1
+  ],
+  [
+   "21-54-2-1",
+   2
+  ],
+  [
+   "21-54-4-2",
+   1
+  ],
+  [
+   "21-54-6-1",
+   1
+  ],
+  [
+   "21-54-7-2",
+   1
+  ],
+  [
+   "21-54-6-4",
+   1
+  ],
+  [
+   "21-54-6-5",
+   1
+  ],
+  [
+   "21-54-7-6",
+   1
+  ],
+  [
+   "21-54-7-7",
+   1
+  ],
+  [
+   "21-54-4-4",
+   1
+  ],
+  [
+   "21-54-4-5",
+   1
+  ],
+  [
+   "21-54-5-6",
+   1
+  ],
+  [
+   "21-54-4-7",
+   1
+  ],
+  [
+   "21-54-3-3",
+   1
+  ],
+  [
+   "21-54-1-2",
+   1
+  ],
+  [
+   "21-54-0-4",
+   1
+  ],
+  [
+   "21-54-0-5",
+   1
+  ],
+  [
+   "21-54-1-6",
+   1
+  ],
+  [
+   "21-54-2-7",
+   1
+  ],
+  [
+   "21-54-2-4",
+   1
+  ],
+  [
+   "21-54-4-9b",
+   1
+  ],
+  [
+   "21-54-10-0",
+   1
+  ],
+  [
+   "21-54-10-2",
+   1
+  ],
+  [
+   "21-54-10-4",
+   1
+  ],
+  [
+   "21-54-10-6",
+   1
+  ],
+  [
+   "21-54-10-8",
+   1
+  ],
+  [
+   "21-54-2-8",
+   1
+  ],
+  [
+   "21-54-2-5",
+   2
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "21-87-4-0",
+   "points": 1,
+   "name": "Survival Potion",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 802839
+  },
+  {
+   "id": "21-87-2-0",
+   "points": 1,
+   "name": "Crippling Shot",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 804725
+  },
+  {
+   "id": "21-87-4-1",
+   "points": 1,
+   "name": "Survival Kit",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 504329
+  },
+  {
+   "id": "21-87-2-1",
+   "points": 1,
+   "name": "Improved Waterskins",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 573057
+  },
+  {
+   "id": "21-87-2-2",
+   "points": 1,
+   "name": "Snapseed",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 804027
+  },
+  {
+   "id": "21-87-4-2",
+   "points": 3,
+   "name": "Grace",
+   "maxPoints": 3,
+   "tree": "Ranger (class tree)",
+   "spellId": 705092
+  },
+  {
+   "id": "21-87-6-1",
+   "points": 1,
+   "name": "Elusive Character",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 560340
+  },
+  {
+   "id": "21-87-6-2",
+   "points": 1,
+   "name": "Cutthroat",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 800359
+  },
+  {
+   "id": "21-87-7-3",
+   "points": 1,
+   "name": "Deft Hands",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 707417
+  },
+  {
+   "id": "21-87-8-4",
+   "points": 1,
+   "name": "Outlaw",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 706277
+  },
+  {
+   "id": "21-87-4-3",
+   "points": 1,
+   "name": "Briar Veil",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 800084
+  },
+  {
+   "id": "21-87-4-4",
+   "points": 1,
+   "name": "Survival Expert",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 560959
+  },
+  {
+   "id": "21-87-3-5a",
+   "points": 1,
+   "name": "Bloody Focus",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 520804
+  },
+  {
+   "id": "21-87-5-5",
+   "points": 1,
+   "name": "Blur",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 520369
+  },
+  {
+   "id": "21-87-6-6a",
+   "points": 1,
+   "name": "Lethal Cunning",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 704320
+  },
+  {
+   "id": "21-87-4-6",
+   "points": 1,
+   "name": "Adrenaline Rush",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 520578
+  },
+  {
+   "id": "21-87-4-7b",
+   "points": 1,
+   "name": "Heightened Senses",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 561320
+  },
+  {
+   "id": "21-87-2-4",
+   "points": 1,
+   "name": "Pinpoint Accuracy",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 801468
+  },
+  {
+   "id": "21-87-1-5",
+   "points": 1,
+   "name": "Woodland Adept",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 570015
+  },
+  {
+   "id": "21-87-2-6",
+   "points": 1,
+   "name": "Endurance Training",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 705039
+  },
+  {
+   "id": "21-87-2-7",
+   "points": 1,
+   "name": "Double The Pace",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 705031
+  },
+  {
+   "id": "21-87-6-7",
+   "points": 1,
+   "name": "Woodland Stalker",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 705034
+  },
+  {
+   "id": "21-87-4-8",
+   "points": 1,
+   "name": "Guile of the Ranger",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 520353
+  },
+  {
+   "id": "21-87-2-9",
+   "points": 1,
+   "name": "Elven Tactics",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 560701
+  },
+  {
+   "id": "21-54-4-0",
+   "points": 1,
+   "name": "Precision Shot",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 500075
+  },
+  {
+   "id": "21-54-2-1",
+   "points": 2,
+   "name": "Devastating Shots",
+   "maxPoints": 2,
+   "tree": "Archery",
+   "spellId": 705032
+  },
+  {
+   "id": "21-54-4-2",
+   "points": 1,
+   "name": "Swiftshot",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 705028
+  },
+  {
+   "id": "21-54-6-1",
+   "points": 1,
+   "name": "Deadeye",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 300700
+  },
+  {
+   "id": "21-54-7-2",
+   "points": 1,
+   "name": "Superb Shot",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 301249
+  },
+  {
+   "id": "21-54-6-4",
+   "points": 1,
+   "name": "Deadshot",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 520227
+  },
+  {
+   "id": "21-54-6-5",
+   "points": 1,
+   "name": "Corrosive Poison",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 572372
+  },
+  {
+   "id": "21-54-7-6",
+   "points": 1,
+   "name": "New-Age Archery",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 704312
+  },
+  {
+   "id": "21-54-7-7",
+   "points": 1,
+   "name": "Pierced",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 705033
+  },
+  {
+   "id": "21-54-4-4",
+   "points": 1,
+   "name": "Skirmish",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 802039
+  },
+  {
+   "id": "21-54-4-5",
+   "points": 1,
+   "name": "Maximum Power",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 560688
+  },
+  {
+   "id": "21-54-5-6",
+   "points": 1,
+   "name": "An Arrow for Everything",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 560812
+  },
+  {
+   "id": "21-54-4-7",
+   "points": 1,
+   "name": "Archery Master",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 706281
+  },
+  {
+   "id": "21-54-3-3",
+   "points": 1,
+   "name": "Boots of Elvenkind",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 704317
+  },
+  {
+   "id": "21-54-1-2",
+   "points": 1,
+   "name": "Improved Serrated Shot",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 707888
+  },
+  {
+   "id": "21-54-0-4",
+   "points": 1,
+   "name": "Hunting Shot",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 801191
+  },
+  {
+   "id": "21-54-0-5",
+   "points": 1,
+   "name": "Hunting with Precision",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 524867
+  },
+  {
+   "id": "21-54-1-6",
+   "points": 1,
+   "name": "Lethal Wounds",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 705055
+  },
+  {
+   "id": "21-54-2-7",
+   "points": 1,
+   "name": "Strike Where It Hurts",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 804178
+  },
+  {
+   "id": "21-54-2-4",
+   "points": 1,
+   "name": "A Quick Demise",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 560810
+  },
+  {
+   "id": "21-54-4-9b",
+   "points": 1,
+   "name": "Silent, But Deadly",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 524873
+  },
+  {
+   "id": "21-54-10-0",
+   "points": 1,
+   "name": "Skirmisher",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 92115
+  },
+  {
+   "id": "21-54-10-2",
+   "points": 1,
+   "name": "Sniper's Focus",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 680470
+  },
+  {
+   "id": "21-54-10-4",
+   "points": 1,
+   "name": "Nimble",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 301066
+  },
+  {
+   "id": "21-54-10-6",
+   "points": 1,
+   "name": "Bleeding Edge",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 300460
+  },
+  {
+   "id": "21-54-10-8",
+   "points": 1,
+   "name": "Sharpshooter",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 582855
+  },
+  {
+   "id": "21-54-2-8",
+   "points": 1,
+   "name": "Incendiary Shot",
+   "maxPoints": 1,
+   "tree": "Archery",
+   "spellId": 524870
+  },
+  {
+   "id": "21-54-2-5",
+   "points": 2,
+   "name": "Serrations",
+   "maxPoints": 2,
+   "tree": "Archery",
+   "spellId": 705050
+  }
+ ]
+}

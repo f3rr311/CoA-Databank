@@ -1,0 +1,8 @@
+{
+  "name_enus": "Storm of Steel",
+  "icon": "custom_warriorskill_21_border",
+  "tooltip_enus": "<table><tr><td><b>Storm of Steel</b><br />25 Energy, plus 25 per sec<br /><table width=\"100%\"><tr><td>Instant</td><th>25&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Begin striking your target every 0.5 sec for 80% Weapon Damage for 3&nbsp;sec.</span></td></tr></table><!--?800637:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

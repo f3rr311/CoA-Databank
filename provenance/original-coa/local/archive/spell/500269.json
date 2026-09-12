@@ -1,0 +1,8 @@
+{
+  "name_enus": "Unyielding Stand",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Unyielding Stand</b><br />10 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Stand your ground, taunting enemies around you for 5&nbsp;sec and increasing the damage they take from your <span style=\"color: #ffffff;\">Spiked Reinforcement</span> by 100%.</span></td></tr></table><!--?500269:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

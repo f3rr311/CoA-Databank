@@ -1,0 +1,8 @@
+{
+  "name_enus": "Celestial Knight (Healing)",
+  "icon": "spell_druid_swarm",
+  "tooltip_enus": "<table><tr><td><b>Celestial Knight (Healing)</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Whenever you are <span style=\"color: #b0f67a;\"><span style=\"color: #b0f67a;\">Healed</span></span>, you have a 10% chance to enable the use of your Vengeance of Elune ability for 10 seconds.<br /><br />This effect can only trigger when a Healing effect actually restores missing health.</span></td></tr></table><!--?801970:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

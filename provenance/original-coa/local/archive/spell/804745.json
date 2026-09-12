@@ -1,0 +1,8 @@
+{
+  "name_enus": "Horde Breaker",
+  "icon": "warrior_skullbanner",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Horde Breaker</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #FFFFFF;\">Crush</span> now applies <span style=\"color: #FFFFFF;\">Wounded</span> to enemies for 1&nbsp;min and is now guaranteed to critically strike enemies affected by <span style=\"color: #ffffff;\">Headbutt</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/warrior_wild_strike.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=570739'> Wounded </a> <br />\n                            <span> Increases Physical Damage taken by 4% for 1&nbsp;min.</span><br /></span></td></tr></table><!--?804745:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Skirmish",
+  "icon": "ability_hunter_runningshot",
+  "tooltip_enus": "<table><tr><td><b>Skirmish</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases your critical strike chance by 15% and reduces your Focus costs by 25%.<br /><br />Lasts 4 sec for each stack of <span style=\"color: #8fff7a;\">Advantage</span>.</span></td></tr></table><!--?802039:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Liberation",
+  "icon": "ability_pvp_gladiatormedallion",
+  "tooltip_enus": "<table><tr><td><b>Liberation</b><br />30 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Instantly breaks an ally free of any stun, fear, or polymorph effects and grants immunity to such effects for 5&nbsp;sec. <br /><br />Dispels 2 harmful magic effects from the ally.<br /><br />Usable while stunned, feared, or polymorphed.</span></td></tr></table><!--?803963:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

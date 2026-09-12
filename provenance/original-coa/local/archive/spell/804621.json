@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bethekk's Fury",
+  "icon": "ability_mount_onyxpanther_green",
+  "tooltip_enus": "<table><tr><td><b>Bethekk's Fury</b><br />9% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Invokes Bethekk</span><br />Transform into a panther for 5&nbsp;sec. For the duration, you will pounce upon a random nearby enemy every 0.5 sec, raking them with your claws for Weapon Damage plus 105.</span></td></tr></table><!--?804621:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

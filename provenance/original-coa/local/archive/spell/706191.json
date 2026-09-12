@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wrathful",
+  "icon": "inv_mace_1h_stratholme_d_02",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Wrathful</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Entropic Slam</span> and <span style=\"color: #FFFFFF;\">Twilight Shieldtoss</span> by 10%.</span></td></tr></table><!--?706191:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

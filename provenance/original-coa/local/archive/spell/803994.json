@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ghost Claw",
+  "icon": "warlock_spelldrain",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ghost Claw</b></td><th><b class=\"q0\">UNUSED</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Chill an enemy with a ghostly claw, slowing and stealing 50% of their movement speed for 8&nbsp;sec.<br /><br />Whenever you kill an enemy, the cooldown of this ability is reset.</span></td></tr></table><!--?803994:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

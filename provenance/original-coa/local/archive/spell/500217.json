@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blight",
+  "icon": "spell_necro_deathsdoor",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blight</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>28% of base mana<br />2 sec cast</td></tr></table><table><tr><td><span class=\"q\">The target becomes blighted, causing nearby enemies to suffer (20*1000/4)*(22+0+SP*0.169175) Shadow damage over 20&nbsp;sec.<br /><br />After 20&nbsp;sec, the blight expunges from the target dealing 93 Nature damage.</span></td></tr></table><!--?500217:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

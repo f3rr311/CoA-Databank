@@ -1,0 +1,1031 @@
+{
+ "build": {
+  "id": "ae283725-5e17-4da9-b724-6729e0729a54",
+  "title": "IMMORTAL TYRANT - Walking Fortress",
+  "description": "[overview]\n## Ever wanted to feel like a raid boss?\n\nThat's exactly what this build is about.\n\nYou're trading flashy burst damage for ridiculous survivability, allowing you to tank almost anything the game throws at you while still putting out enough DPS to stay relevant.\n\nThe build shines in every PvE scenario and can easily be adapted for PvP by replacing a couple of optional picks with Mana Burn.\n\nEverything else is essentially mandatory. Every talent has a purpose and contributes to making the build as durable and consistent as possible.\n\nIf dying isn't part of your game plan, you've found the right build.\n\n[talents]\nThis build focuses on consistency rather than burst damage. \nEvery talent has been selected with one of four objectives:\n- Increase survivability.\n- Improve Felfury generation.\n- Maximize Inner Demon uptime.\n- Maintain strong threat while dealing competitive damage.\n\nMany offensive talents were intentionally skipped in favor of defensive consistency. A dead tank deals no damage.\nThe Tyrant tree naturally provides excellent damage, allowing us to invest more heavily into mitigation without sacrificing clear speed.\n\n**If you prefer a simpler rotation with one less button to manage, you can replace Tyrant's Gaze with Betrayer. While you'll lose some execute damage, Betrayer remains a solid alternative and is perfectly viable for players who value a smoother playstyle.**\n\n[rotation]\n### Multi-Target Rotation\n\n**Hateforged Barrier** → **Burning Hatred or Blood of Mannoroth** → **Inner Demon** → **Felrend** → **Felrend** → **Sunder**  → **Sargeron Smite**\n\nUse **Carve** whenever possible. Thanks to **Annuhilan Rituals**, a fully channeled **Carve** effectively costs only **1 Felfury**, making it extremely efficient. Follow it with **Fireball** to benefit from the empowered cast. The **Carve → Fireball** combo deals excellent AoE damage and should be used whenever you have the opportunity.\n\n ⚠️⚠️ **Warning:** The **Carve → Fireball** combo is a DPS gain, but it also comes with a survivability trade-off.⚠️⚠️\n\nBecause you're spending less Felfury with the combo**Felrend** and **Sargeron Smite**, you reduce your **Hateforged Barrier** uptime, gain fewer **Abyssal Conditioning** stacks, and spend more time channeling. If you're playing without a dedicated healer, I generally recommend sticking to the **Felrend + Sunder + Sargeron** rotation for much better consistency and survivability. See the discussion in the comments for a more detailed explanation.\n\nOnce an enemy drops below **35% Health**, prioritize **Tyrant's Gaze** to execute the target and quickly move on to the next enemy.\n\n### Single-Target Rotation\n\nThe single-target rotation follows the exact same priority, with only two changes:\n\n* Replace **Felrend** with **Twin Slice**.\n* Replace **Sunder** with **Sargeron Smite**.\n\n**Rotation:**\n\n**Hateforged Barrier** → **Burning Hatred** → **Inner Demon** → **Twin Slice** → **Twin Slice** → **Sargeron Smite**\n\n⚠️ **Never cast Sargeron Smite without Inner Demon active.**\n Doing so results in a massive DPS loss and significantly reduces the effectiveness of the build. Always make sure **Inner Demon** is active before using **Sargeron Smite**.\n\n## 💥 Cooldowns\n\n### Hateforged Barrier\nYour most important defensive cooldown.\nKeep it active as often as possible. Thanks to cooldown reduction, maintaining nearly permanent uptime is entirely achievable.\n\n### Inner Demon\nThis build revolves around **Inner Demon**.\nNever let it expire unless absolutely unavoidable.\nEvery aspect of your rotation is designed around maximizing its uptime.\n\n### Burning Hatred\nPrimarily used to instantly generate Felfury and quickly reactivate **Inner Demon**.\nAvoid using it immediately on every pull.\n\nInstead, save it for:\n* Long encounters.\n* Large pulls.\n* Recovering after losing Felfury.\n\n### Blur\nReserved for boss mechanics or emergency situations.\nSince **Blur** reduces your threat generation, always follow it with **Betray** to immediately recover aggro.\n\n### Fel Bargain\nEmergency button.\nOnly use it if your healer cannot keep you alive.\nWithout a Tinker in your group, this cooldown becomes significantly more dangerous.\n\n[stats]\n**Priority**\n\n1. Hit Rating (until cap)\n2. Agility\n3. Stamina\n4. Critical Strike\n5. Haste\n\nAgility is by far the strongest primary stat for this build, increasing both your offensive and defensive capabilities.\n\nBecause several abilities scale from weapon damage, using **two slow two-handed weapons** provides the highest overall performance.\n\nLeather gear with Agility remains the best option.\n\n[leveling]\nLeveling as a Tyrant is extremely smooth and beginner-friendly. The spec has excellent survivability, allowing you to comfortably solo most quests and elite enemies without much difficulty.\n\nYour main priority while leveling is to spam Felrend as your primary damage and threat ability while keeping Hateforged Barrier active whenever possible.\n\nAlthough the build is capable of handling large pulls, don't get too greedy early on. Your gear won't be optimized yet, and overpulling can quickly overwhelm both you and your healer in dungeons.\n\nPlay it safe during the early levels, focus on maintaining your defensive abilities, and gradually increase your pull size as your gear and survivability improve.\n\nBy the time you reach higher levels and unlock the full build, you'll be able to comfortably chain large packs and fully take advantage of Tyrant's incredible durability.\n\n[pvp]\nThe PvP version keeps almost the entire build unchanged.\n\nThe only recommended adjustment is replacing a few PvE-oriented talents with **Mana Burn**.\n\nThis allows you to heavily pressure healers and casters while maintaining the incredible survivability that makes Tyrant so powerful.\n\n\n>_>\n\nTyrant truly shines as an objective-focused flag carrier. Your incredible survivability makes you extremely difficult to kill, allowing you to secure and transport flags with confidence.\n\nWhile this build is perfectly capable of winning most 1v1 encounters, don't get baited into unnecessary fights. Your real value comes from playing the objective.\n\nCapture bases, carry flags, waste the enemy team's time, and force them to commit multiple players just to bring you down. Winning the battleground is far more satisfying than chasing kills.\n\n[tips]\n# ❌ Common Mistakes\n* Letting **Inner Demon** expire.\n* Casting **Sargeron Smite** without **Inner Demon**.\n* Forgetting to refresh **Hateforged Barrier**.\n* Wasting **Burning Hatred** at the beginning of every fight.\n* Using **Fel Bargain** too early.\n* Using **Blur** without immediately following it with **Betray**.\n* Ignoring **Tyrant's Gaze** below 35% Health.\n* Focusing too much on DPS instead of maintaining defensive uptime.\n\n# 💡 Advanced Tips\n* Always start difficult pulls with **Hateforged Barrier** already active.\n* Plan your **Burning Hatred** usage instead of treating it like a regular cooldown.\n* Prioritize maintaining **Inner Demon** over squeezing in one extra offensive ability.\n* Use **Felrend** and **Sunder** aggressively on large pulls to stabilize threat before your DPS unloads.\n* Save **Blur** for predictable boss mechanics rather than random damage.\n* A good Tyrant anticipates incoming damage instead of reacting once health starts dropping.\n* **Tyrant's Gaze** is more than an execute—it helps reduce incoming damage by removing dangerous enemies from the fight faster.\n* Don't be afraid to chain large pulls. This build truly shines when fighting multiple enemies at once, where its survivability and threat generation outperform most other tanks.\n\n## WA (TYSM Lyktstolpen): \n!WA:2!T33E0TX1z(PriYocMXReL1l6xWYwYK6viH4thROaacqajqckaisjTYHyaWaoJ4WzgnZaccfN1jk(4QKSDZUSP7FSB7wxU9XMUojUmXjBS3M1L11TnBA3B4P7gu39pA0z30E62Unh1KMtBs20VV7mdWm4fbFPyzBCoMAECF(9977397(DVZ1mt0U2s9DsV9CsVE8ZPZ2(STNT9S38XuApJSKUQSOix2a8cIzv5KoRYEcXjQvqwvYZj8mjRQKG00AkpGThgNttoVAgonhj1xEvwp(zvVTTNnkRG0TslRMLt1pBMzYQkROSl)Icx)6SQz9KuwwuxqrD(y5YPXPZOw04IWV(v(T)d)uFJVzULyLYWlRoUSGKE6abhlzW4k7sJNvLlBiv2z5IYnhNyQLmQGaYIYQNLHHXLkBgDbzjT(JRPZQQ72VGKGU705G)rJ39n0vfMEAovTooIQ5LVWIz5sNpxUKfv4udhm64HUqu)6WnXzHoL3BOPWjkgjRM7BPLpnuNs6jGulm)stfWxIKtLiPV4j9NhQK0kISf5ulNSXv5GKfpX4bJgno9jPdZXkQZhxcA(AUxiVKztW9TH(iNQeR4eqtdA9FXf04eZr76K2wekW4CtJDk3(fLzZ2VFOnLzFXNnpibDhpJiRM2(iD52VMW15WlwjTP82qS4YLRXD19j7lUwgwrUWN5)1ph)93K2q0XVOX)gm70Ck7oX1YdsypHYlk6zsEbDUfvPvnkDIpTQCEfZKNaQRDSSX1gAUDUOUCM5m6aV)5UYHeYE7ekcz4k6XcuSuouXLqxLvN9EJZkQWZ662gQzQkfRK0jcepyWXwGvsywwut2pzxHi73VKSe3YCSAy25KMwN)ExjlOFWumfQTu14a8CwTBGPbliYt7Fwabc5L80KtFVKpm5mKpcCz7v)K0q(YjmT7fODViWDkhpcQpYXMH7k49AxHnTGOGEXPkWQkkNzMPYYnRSKqgf5cCQMqWisGmWL38czxQNlgA4jY2x3Nl0KlInkbkI09scs5Kvn6vUxHnVo0VJPy8U2Z8I9EZE9dnHc(ho2KJr2EhkDmQGMgya6X30qLDD8katPXjLHJCVK3FAfqtbaK(jUFJ2j3hPnYhif5(PgbX1uG2(oi)sGWZnz3UjT7MSNooc5bEbYEj7d6)hGCq3Koipi5Hipm5ripkXd5XihYn5XDVugzX8ZkLalaxPvzZkKx75BJ8HmudofL(wDHlOLfMwI02nuL1PDCgYrCd3uWOcipz)Koril5O0)Em8V3yAvHSOk8qXhMC8YWxvWGgTwyunWgC8Kd7nzSXjNW1Iz4qfgnprJtojp5ds6EbnDofFstlY9OKtTJ4IcZkOFFlMdq2beuZiYLYVMSQo0Ad66g514IIVN)wO6wNvspeWJiRMoUVHJCHelWQMjkf1987J07oxaBGtkKvN)(i9za1jUid4ImOlYqKNICw3Kql19Po11hAWHcpWvdsEIViPNLZweS7fYqrzKDYqc7MeXnXV7B(KWt0ffKadPlKmAKXcsgJ4s5yzf0qgLKCZRpLbUzkLP0fMLBkZsAkDEaoWllMT4kaXyw5cxYWs8H2gchu804sW4ogLDLjVMU8SykUGswqMs8ClaykJG0m0EOFFWTobs3paK(AiiAbKHKsM1Hs71csxbkLm8CAj4LletcAI4)yIPTaCh0Tki7hdkJuLXIiUeHPpUBLDJS5ZXL0GNCu5SCV02uEW62VmUio29YIc86JyNGS)0ky7tNEp(88lszIgpVOghM2AWW(ZbduQSRqQcx3Z5ZZMfPV8Kmj5iDaMsRaSZiDlQwLYwF8mMFKVSlt10fnutUi94xh6dayq5inwxjYnnBMItLtuwwLx5XBCcH(vgbK91v8mwe)UwegdIZaS(8TTKTmRS)JE0rJKirKXgXtYWXd6lPh)xiuOJEu1RcycHCf9hnyOKLX3JEdGbp7KQSk3ysZlqepc3dTurwLjIWps4bcvea0e3mGjWsg91kJmBc4pCA)XsMm2O38XiB)PuA3Mddby10tZQQSBBpliyvmDrhjdUmxE1IifiAPbvMdUptSA7u4AJj9aShcbr82J7gXlhgkKJ4UUkqBKqazJj9cPhIxGxbOdklJEFibGPqbmWdTuHjp3fN33vdh48dyIhbu1(nXDMmOv9K2R5jJbm8Gq1q6f01nhyrGDxDgQkDVltV2apDrgiTVVLyZIkqUSJYo)2RCJG02jUd)6X66FbBBQ)fOiBfAwJBXlRSBh3J2A(9DHKXUDf0DzDPHOOmrWdHs1Bb2XtXMg4utJ5nfXJFuHAyKVKbpdDK60a)QEEnlZDK7Dk0)PuMg9e1xABlka8WtvbfdkOBPOkpny5QLG6)5rFOTTDuNTeTvhwiBwoP4JfCIGXVbGHmAPHpZBDz6pxHpZN)bO)CbE7PbvVko(HDH3LGbMolIskAAud2wCgD7BUFLhdTtNsVz2Cluojh6WGJU07Q2e4wgpTSVDFEL9qFItkxI4TnQPYwUFYvm8sYKFNzz67nTtbC7(vHgm(mLNOrnuhSilstqfX7cMzaAsZR0vJkIAh2rPDBDZYd(y06MdelPHrzxHENf5b5fwPCDHdx7FmWVoLhPrvP14uhSojW4cI(YgYMPuqr6IrgBSGXNcPUQuri37bnfHMCVmoA6weY3CpKxZf5F0HoSe5FSbzY)eYNN8pLis(9(KKVad5FgkRj)(KVObO8lrMN8YWGTlrEbY)8u1Prkz1iFAYxFjJww8iJeoj5BCqYRYq(kKVAAEoHP51FyAJnVkNb42B0eJsEYqlGMgu37tzrkDK04ONIClnCWrJnw4lGtlQmp1TO4z)ICszrtqV(gEyLDbLHptsakNapqAUGLjI3Z6Ij8zE1oWFpOR1TxE3ItIf01JGUlcEIXRSNPnVmMk(xkJYIHJfpYLJnwsFrRUvjiXt6rf9MaAyaV5vNBIHgz(rc39fXXtwGsgOjKLlov65)6YYZYGSSMg)ur4PvnfH(djcs8bDzyDN04HkDwXLEKwceIW0vVYfICIk3DIeucqA24ltQ)z8JvppWRhVaAl(g7LSZWVU3lD))T29Z8hAqfxEAwUufKWzaXXtjWmuMp02wsUIuG8TmzYT5s1nhI8RTxYNJHwWFcx98SN85i)6BN8BqzStCMF8VZF0P)9OdYTad5Vdai)M7K83TkA430IgM4j(44Ssi)wPwgHpOxxbK10tTaDYkib89IJdA5S1HCVcMSYV0olm532I8L83ZIVL8S8K)baZ6F9Vc9hWSUC70FUiVip5FiWI(uwSOKfV5(nTNuQJ90lXx2E631vztQfdop6FMwb2IOjcAEbMjMMyKxHH81i6KV(YggtgHfaTM(Yfr7Z)DG09pI86GPd5FzftgYYK)vKU2x84Xg5cbtzoK(Bq(xtEtEY)zO8bLX6EWzWbK)TPUL2SYY68JBoavkYFmaNjFBhEIeAPbMusFwHZfOx(5j)hi)jK)JK)usjan9DonzLLhMtNvquZdf7cUqqyi)zvWGFwYFFYVJ1Sl(pziPaxcElECaFYFUbM6FZzbLbzC6VWN5Bzzt)D5rpToQYER1fkp(hr5G15XWa0zMrJ6Gf4gJBxBooyTULXBqVY(vPcPktnliv2fAPjk0118p4mcPp3auGTHz5aUUPhAwVTjDcoQfYMQ8abI6B0XtgZFuFbohqTgjzKjcwb8S2znXgd0MspRGQkmOmASh)m)4aFN36ph6fRqEouAh(m)Ll)5sTTTTTfsBrRhhCmFSHP6eKVyBUM8V6p91H(4VQJzPTIYtvHXZx2SXK0UYKCSZGrQt7kJYLvG9kMCJAxXiQptHr9Hg0hdoLvpybusIN4lMMo5EC(4K2qj()vsPV6ErjoWiKa9doGYOjvetE(bMzcYa7WyItKIipgi0RNXQLkgMDCVKZbglB)Q3YgqnxUECERxN3EkN32RZB7Z5T9tb6O8RSc4)svi(ymRNqPqgNsD(r5jXHslbg5dsY6hYdekydoFyYZtMKNC(NVnezFPkX0aagzr49ZaONlGHh5x((q886gbofjfHLgtds6kXY4)MTyzCLuG(t6CEt4N17iJumiA7C5hfrE8E22XUNp9jnTBMGX0UH8FN8x1uDkuWphmaYFWbO)cFM)IFi(7hzZnea28)G3AIDad0)tYFn1IaesJbnoNW8(xZWCBq8Vp5A83YGUlMchmPaz1d9HpnQoVnmQyW5zZONWi(VPO6vtDCAJS0EpGUFz0TfAqIfYQ1r6b7U7U7BqaaGoVLGMSuuuITHvbqXpGFDR0qn0TPmwMt1KAInWS9pYmJ0v6UyVoQICAIb6Ns5TRFW5HdfaiqllRrbSPSgf7RIkQIEWCCalPj5)NPaK8tQiYaZHFA7ErdLFwhK)gQvYpVgPYkK)VOKj86F0yuY8)2g2fem(XEUDPbi4Bg4m0s(hIDGiJm9OZ2T8AarVtQ)O2GTGO1c22YIsBXxRIOKkXOo2zWRGYZFA7NcfMGeUPIYFqzg5F46NIyGk048Zwi4mXU6GxmWLBnm2gXTQnjGjkkQsIcInQq1uGIIWFA79ANg)Nxpt2WUTKM)OnkglqYrMFyFxAKjJnWVyWy1rQyZKTmkRVvXKDJtK9)XIiZcJfo8qDpK0zfede7Tb8yvB8zGv6304R(qLnhESF8gfJf7SXgP7E8ntc1bV5aGpuFlY2FX9O8GHbh1YjRonxwC9AH5LQ6PtF0GS3LYE9ZkX5roNNqcQCvE8(SEmDILvE(bkNCvyUl6fR8MdA9g)C6QSfzfR8QhmIuo6sDIlVOsgvyasBVmzrvwjjHmWRXfAwCoBnJ2JZLzgzCfPT1eIGd7Yk9KAEgjVGOTu)W(sxutdkNawlaNJmIlEDbSYb5G1dxmaRkuHW04YOS3HnwHpptkiAR1FWeZGRmk0ZgjV4tcvCLxTF)5PlxUhqcRARuvEq)IYYzX8mk03KbFL5TjY9bDxEbrASbSvyubHo2TyVoNhFZbcymclk71tejjqjqBELtVPhS9tChD7wUUELugrzXyv05uVGKGo)gWnw0od9JDDpqcaMNG6dm6wBSD2k(btDXfCeo0srZi6nW4D29i(gUAxIVmU8EGJWMb4ZSRMoWfsKm2Ok7Y26lt)JYJu2)WNQE7Rb0r4NXPRXGt7wUgVd0se97APebJgmqYqX9nAqQx5GB478HyqV9VF7l3rcMBEeAugaojZy6qjVxoJSSyw5cs46UZt(UPmOE(ZixdhDk9aDpqFE7vfEFmjXIPkpv6z7qP9AnHncYov1rPX5RdrTreCw3ApGF1m(45mxW7PWTBGlY(xaxbm6tm3oaMbwMgWBZNyfmyRSYbDAs3RyENSr0x)(RmTOCHqQCxlpNuMIJ)(6(KE7Zi224lwg)ZWMR5VRBG3HrqEL0511LLInhNQiBXfXhBSuT7Dj8ARqMVaEtLa1HXgBeRNWttPvKH9J3WttFcCdt4I2SsYlKzgjonnx03evaUE30AZVX2O4MhK8k1lq1AvIbCdceMzGLFjEASW(Y3BLWl)9iVgd5LzWiFHba7RqYHHkJgbmidFJhM8QwXX2X6d8T3g5B2xthE4n5nIr13fgFKwxJr2XnSqKozjiOP4PqmVPnqjM7bncCSw3sZ5VO0a92hm)W3INuk4TNHJtXhUnv0JJ6Ruwl(hPntZbOcDypuIXJDRae)(Z6OeZJvI5qvq)u(P06Sa2xhb8aShW6Z2XY2h4cTG2RF)XsgUbO)1H)O2q)K9xI5WLy6YvjMJqvLLyEYuLy6K0DjMNW13VeZrTaULyowjgV8LyorjMtwI5dU3smDZuIPhQeVeZXH)7uW99d)BFW)1lKYb2DjMbnGsLygQXqgZyNcOdeY8Qm2HmVmK1N6BVnkAXmSPiIbaoMGgaHbqUwgHaexi3Fe3LyoDkl4WG2Gd3lgmT8fuhSlf2ryhYAAPN1Tzmklf0HlwHHc6dXBc8Qp5yvGbkLy1yHz7yfh(LyXbwI5d7GeSeZhPgCa2FSPsn0MprTAuQUUgvkQ4QVkfv2OkfvLOkfvTRrv6xGz9WcyOXBzvkA89CMT5peFJ0RVFZX6a9h1kFIblMiBxxEIRpEpOAf1X2jkmSWxVdWycemPJwFmdOQ3gRWTRY)ukXqlbhEcxMw51yH31DklCZbfw3w4aCATyHVUzglVswgg31z0IDcqNoNJF2IDnrMEdEreIzGOmyhayefaAslaqZncNGYUQEQhRfEHndVJwJJpS1qMSHCPynsMuXdcQcCv8DWD1(oeZV6GsdhPqIb60yWct0WML7cGpX24euAV25Fs5fAOVYVN3cBUElCFymwLp1fdD(eJEUzg9oM3ckTxBWfA95n9EEm0kEm0wvEmOjfQ414VwYPfI(2tpgCsoKEWU9IlEtd4dEp3e2kDt4da4f9XUgFXEVwm5mtV16MWTRkUH3zdGY75IqtDr4(R2fHolmZP46zW5hPyY7eUi8a1l0XBjojC53r5Kauh)UUkxhAnSoGYAh1ujZxlOdRIxHbQIlsRIIBU(H8lH(EoK3jZFvvUtPnWDm)qwSYkpS2D)4YVJY9dOoEnMwaWuUokAhVGynaizdtAT7anamVkTnSj7HZUQYdNUUCI(hvkM(exyYTmpC2Si2ItxFRTWz7uFMkvFbsWliX1c0vPSqFRcL4Dzt5z3aqPhXZF1(JCHHcDE(1dvttXaVjfdmBhhOT((oLbbOYhu1g6FlebGdU7EMUVwlP2FL6O2n05VmZDo1E7GApFMl7lyHX7E6Z5DZEegdT(pHVoACJrAa4W3JQ1baWQpFMnLrnwLrMAzfyDhu5vmTBBYWkBbm(7PkgF1jMuntxxTNHVG8wgJ)QR2PtwTpVNAO1M9oTtULX0VgnNVRIK3Ckmgw81BUSiAQmO5baGs8qsNnU6K(hOR8vWpLNmlIXmT4PwJBog8N(bBMb)MWCx3SyjAwOtE71CxPtA90PA0exnXfL1871CYRw0fZh6Y(leuz0rh(CwA(bCvZCx3qQ9LTVhIEp9FRR)Zb6F6NTkD7BpJeDVpubjqrglw5DhOTH)iBu4X(QcEC1jcm9O8DPCkPKncESJgIo(OM()t)WVwrHtfpge4PNXiDCOt1N9nT4VffV8BMIUoyk7M(jFzp9Pu2NJ7Ns2C7W3r7pTjwcQSFtY(JtLhgLW0CsCQczm(((bSPYbdyUfs8y9Tq5Pt6(NVle0Uszrn979FHYxEG2Im)kokSfXpBnFIfylQr)ii1XjmBnVf8Ry)Q5LOB9nVSII3DcY7Oci37P67WnfL)LXXH)9DSvFm3Ts7OEJ51mhKEnMYq)smptnW9smFuuBSrH57VkyE3rIoISq2WJh9A2H5DCK4z45Ymt)Khyh3yowvbCpoUOSKfmk(CSI55CPMHNvAAoTJEKsmAPUHIkco1lsEXQyrxTLcOY8Kco)6AEsRIhZRlNGwvUWxRL4cx3t5XCfaAkGi483HxmGdaygVEVupNnBKZXgzIgUyaDaicLqKhW1HKvA)Pb0r79vI5A3IBEfbJ9jysHz5kXOJPt7SHpZ3)RH)(6HpZlUl6VWN5LEi83dds98KNR8slmiDRFU9xeurpUYUPlCO91n8gJYkXMoVQujMWlBFNcRSRQ3GWlfIte3MMtZkiLorEPSCQ3Y5ofUeZvwXX29vP9A3XWPn2odLygtzptYlOHh4ryca6Apkc6lgGNvwZt88A8l5NvxxKZtyzvPk7l4WV(fpZp6l9HEUd78lBReZb5xxFpNL)02w3GaCVeJ2txjL5NghUTGPB43wyJbh0fzs(fnoujgrvUW8U)H5OJiil1PexHXL1moZLoUhJdqgZZpRUC7b(DItesqvt3dKppwKoA03ikJk5C4BJJ7XZzf09CApdb5Wd94dcL44h2TMhbjJKHfITSwiuCidNQFmh0VwCmhLtOrETLCEAY9oiMCJdcGMN(CA0mCOOXM8qyEONNwE0OhOwnkNMD5e0JhRg2Nno9Sw9oTw5IXEVobTx3RJEDLuwB3MMEV97SB3KmKtJMJd53xGZns8yxySHRB3VULGz)xKTjAC8L267dw)(UvryVNhTo98Yvvn97O1RF3WKNtlAR0RRt(TRyvyZGCnqReZS1TP50lWXjvtDMrwvLJAhDPk58e9ykeR3VQRW5diNxcLIDxZBmCzP8RmEAX6(uDzD4VN2ZJ7W(TsjMtw1JWX9yC40nmkjafKGclya0PttEpzLP5OszBKjOWRK7tACz5ew7fMzvUqsZwwpnkn0)sp2wCKkBV04aROoVntEv8iDdGILfhoQaban65PpDvmuWyavA5LlmRwaqjv7ll3c4R3Bdv5y6dscs64inoUbAsg6QvVzH)SjaPzZrc4e14AwoCu(oZPu263eXI0sQvfh3XwBIXenvmMOfeJvLghk7Ewps4JvDxQLe54h9EJfKRIkWzf2qDqnfJtzz0MklJ2cYYOnrw619AP7d33GoL9ou5lmikEQeC6gem0(uNv6ED1WuA0b70wNTEP1whTZQ75D1e(jBKRqpQtJc8KgJjDmlA)U88b941ZrHxBkuorpDbVTtto7J2W81vD5ISl1biCTWVIoAuO3ovgb6e1zSMQnBDwbEBwfy0TXQ4yO1yx2QPJc5S51w9u0LhhZ8IJvpgFOnA(6p8PRG0QPzw1yInSoT766VSWZaz4JzQxpUvx9J72k3W)z7tHReZdxI5rSF(qeAPrZ1ZiJDXUhCWlXHFLCdcU7)GLyEi6N2wsx4x2wL5CrUh8SKi99rgQeZJs)U6GPADom1784mKy7OYX8WQhXYBUN40a24hpxZG5BdtIIixIrOed0mfGzsSK1jt00zYAevhycWzWzD7PedhoDJsmzHPJMRCuoHzOdtePeZvHNo9bC)h)gBLBmRNW1Ayl9fFCH55eRDk)9Y7Ck)hVYwRy)yuywtNksK5nxClBH2P8UDOnBBpMHwR7iR7bMZBQvBhz94vVJSskmU(ytMqQRGDtERuKsJAmD8NcNoE)W0XHjHxIrfMZnCLUryBWjy)IwxP0Uw(0NS3tA)KIZwEx24qxwkog2hilmwLcEeh9V)HXFps4Z8N8O4ppgtD3rDGLZX3guqE9n2WPPHys7OMLTYEfK0WtW5m4zYv5p7tST6OLJ1zh1SfZUNMH6lXCZsmFAdaVbaMI3PW5pJbohWXMOCeh32iFxtdddKooxBQLaa5rSUJtzNnX1Q3aI31QU)HmqXMH16Zwng30kab5h3vn7FO9J43vhK)fCShWauSZWv5eKBg)YH2SwH(5bOmBm1H7SybLjJjx1k0J4ANRqFlJVlX832rs)12iG4smFUsm)6hTCH9B0aSk1sUL3(aoHR25NTJxDWlFi3nNwUTiFIwzJZ3OOD24DjYNDnsV2yKNTdXXxJzTrVIbkDOwErdVNkBTGunc(v0ARfmQbRAF5cKmRVa9psMPr0xnBTG3Ed)2u2PBRh(vewwF61iFSMtVIX1CvaSTQlbBmQYg7pGnalaaxtuLGvWAHQClmC(HXZ8MX5oF)9FUaYx34taC0k0Siq30HK7cOyrR5wCbNwxCSgOZki2RLYaRBYX233Pv(WuALr3VlNJDNmwUVANF1oHzz831TwostI2HgoeRFFPhiNY4w4VbC9Ua(1gHxR5eqQ1aUvX2233JsftrUiK1ayB6FG1chTvTVt3IjO)fUVS4qJ16mlydugK)XW9C2OIXIoYaP5JD2kowuHKDW7kiyb6ZwcVA74YRX4vBohuDmgwfI2K3ZwsmgUZ4b8VWdWqf2zC0qd4kf5wgV(SwhLswbv4Q9m4Krhly6llpK5KVg8Ucs5wBB8Tf4lG7LzRAR9UoDE9UCpbqeutIKv1BoPpEvEdC15gPFXlEQcEZLfXDaK0WA)DV(dS6y21pTAKc1D7OVrjvVt4Y7BNivRdo3a1wgM)RufmF2Zk2LVixURbh5A3D50BRVb)Aj8AvETo8hXGaEn4267odra6b6MCmcS7(6vaik3WrhuRV0dp)KfV7191nL4d0KyAn)7HxF7aE95WVUVSXU0CD6ZRpfL3rGxVd7)k(5k1u)xFxYQfSg9F9tu1a7xk4LZmtG4z9Np875)6gMFn4ZUr5xVZS6QVtNF9tci7H7SqOy9D9IsAdzB7huETzh4Un(11W6B1seSg)pWRMqWg9h8EXWAJUjzm)UNQl1S9vZDSQJN15hUWys5gnE2c9BcyX)V(77eMV1Ay9cOoa0apz1AktR99(YM13T(7(wTGkrF1by9ga(S3bsgHFw2iZmEO6596B)bRuRYw9RNFD4lW9U4B26(c4W)1lV24j3iOTd0IFGGRp3bUzhR2z6LTVs1IyLuIrYbWM(rPELTv365tB()iuxRq7nz3oQ2b7pf9ObRlHUJ2pRax(7ED9WHXXMZMvWPfYh4RUVwEnF304WVtyvT1YHB(X2wdyh)yBrrAtOZxfVMFEa6My2C90BKZnHsSc3fViWuOB7Z9((4)))",
+  "class_id": 14,
+  "spec_id": 18,
+  "author_id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+  "talent_string": "W1siMTQtODctNi0wIiwxXSxbIjE0LTg3LTYtMSIsMV0sWyIxNC04Ny03LTIiLDFdLFsiMTQtODctNi0zIiwxXSxbIjE0LTg3LTQtMSIsMl0sWyIxNC04Ny0yLTAiLDFdLFsiMTQtODctMi0xIiwyXSxbIjE0LTg3LTEtMiIsMV0sWyIxNC04Ny01LTQiLDFdLFsiMTQtODctNS01IiwxXSxbIjE0LTg3LTctNCIsMV0sWyIxNC04Ny02LTYiLDFdLFsiMTQtODctNi03YiIsMV0sWyIxNC04Ny00LTIiLDFdLFsiMTQtODctNC03IiwxXSxbIjE0LTg3LTItMyIsMV0sWyIxNC04Ny0xLTQiLDFdLFsiMTQtODctMS01IiwxXSxbIjE0LTg3LTctOCIsMV0sWyIxNC04Ny02LTkiLDFdLFsiMTQtODctNy01IiwxXSxbIjE0LTg3LTgtNmIiLDFdLFsiMTQtMTgtMTAtMCIsMV0sWyIxNC0xOC0xMC0yIiwxXSxbIjE0LTE4LTQtMCIsMV0sWyIxNC0xOC00LTEiLDFdLFsiMTQtMTgtNC0yIiwxXSxbIjE0LTE4LTQtMyIsMV0sWyIxNC0xOC02LTIiLDJdLFsiMTQtMTgtMi0yYSIsMV0sWyIxNC0xOC0xLTMiLDFdLFsiMTQtMTgtMC00IiwyXSxbIjE0LTE4LTQtNCIsMV0sWyIxNC0xOC00LTUiLDFdLFsiMTQtMTgtNC02IiwxXSxbIjE0LTE4LTQtN2IiLDFdLFsiMTQtMTgtNi00IiwxXSxbIjE0LTE4LTctNSIsMV0sWyIxNC0xOC0yLTUiLDFdLFsiMTQtMTgtNi02YiIsMV0sWyIxNC0xOC03LTciLDFdLFsiMTQtMTgtMTAtNCIsMV0sWyIxNC0xOC0xMC02IiwxXSxbIjE0LTE4LTctMyIsMV0sWyIxNC0xOC04LTRhIiwxXSxbIjE0LTE4LTEtNSIsMV0sWyIxNC0xOC0wLTYiLDFdLFsiMTQtMTgtNi04IiwxXSxbIjE0LTE4LTQtOSIsMV0sWyIxNC0xOC0xMC04IiwxXSxbIjE0LTg3LTgtNyIsMl1d",
+  "tags": [
+   "Fortress"
+  ],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 7,
+  "downvotes": 1,
+  "comment_count": 17,
+  "created_at": "2026-07-20T20:28:56.106063+00:00",
+  "updated_at": "2026-07-24T10:39:20.69+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 5870,
+  "net_score": 6,
+  "has_talents": true,
+  "guide_section_count": 7,
+  "author": {
+   "id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+   "username": "hesediel",
+   "avatar_url": "https://cdn.discordapp.com/avatars/476774265908363295/57fa9331edae235acb7ca74b9fde686e.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "3170ca06-8f9d-43dd-832f-61cbca07c313",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "825f80c3-20a5-4db0-ba3c-bfc18996ef31",
+   "parent_id": null,
+   "body": "Hello Hesediel, I'm going to use your build for my games, and I wanna know it is actually update and if it's possible to have a level up path?",
+   "upvotes": 0,
+   "created_at": "2026-07-21T18:17:50.025993+00:00",
+   "updated_at": "2026-07-21T18:17:50.025993+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "825f80c3-20a5-4db0-ba3c-bfc18996ef31",
+    "username": "William BELLET",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIDhicb_hvrp2In4C4C37EmJrMi2ZIHSGGayT32iGxoXoVbFSo=s96-c"
+   }
+  },
+  {
+   "id": "f7956413-f196-4b6a-bbb5-6ffa9fcafc6a",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+   "parent_id": "3170ca06-8f9d-43dd-832f-61cbca07c313",
+   "body": "Hey! Thanks! 😊\nYes, the build is fully up to date.\n\nAs for leveling, there isn't really a strict path to follow. The main goal is simply to reach Tyrant's Gaze as early as possible. \n\nFor the Tyrant tree, I'd recommend taking ASAP :\n- Pure Hatred\n- Felrend\n- Infernal Constitution\n- Burning Hatred\n- Bulwark of Azzinoth\n\nFor the Felsworn class tree, just follow the level 60 build and work your way down from Hateforged Barrier to Fel Communion, prioritizing the entire right side of the tree.\n\nIn general, if a talent gives you damage reduction, survivability, or helps maintain your defenses, it's probably the right choice while leveling.\n\nFor gear, don't overthink it. Just equip the best upgrades you find. Early on, I like stacking a bit more Stamina for extra comfort, then gradually switch toward Agility once better gear starts dropping.\n\nFinally, spam dungeons whenever you can, and everything should go just fine. 😄",
+   "upvotes": 1,
+   "created_at": "2026-07-21T20:10:27.380295+00:00",
+   "updated_at": "2026-07-22T07:55:38.002476+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+    "username": "hesediel",
+    "avatar_url": "https://cdn.discordapp.com/avatars/476774265908363295/57fa9331edae235acb7ca74b9fde686e.png"
+   }
+  },
+  {
+   "id": "1d98c8df-2fc9-4073-902e-7c4012ff1b2b",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "7b7b6cc1-a336-4da7-8db9-37aa4cf5a6c7",
+   "parent_id": null,
+   "body": "hey bro, i'am 36 atm, did u try hard risk lvling? did u try do macroses for someting?",
+   "upvotes": 0,
+   "created_at": "2026-07-21T20:51:55.670492+00:00",
+   "updated_at": "2026-07-21T20:51:55.670492+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "7b7b6cc1-a336-4da7-8db9-37aa4cf5a6c7",
+    "username": "Solar Noise",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3EaqETBBv8lh6gMINa0R27lNmuDxv9od2SRao8rO4ECQfO4c=s96-c"
+   }
+  },
+  {
+   "id": "15418f7f-1403-441a-a6e6-570fa450b826",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "a8c8dbd4-49cd-41d8-b98c-bf7140ca01f2",
+   "parent_id": null,
+   "body": "Hi, came across your guide other day.. trying out the Felsworn and looks pretty slick. Thanks for making this! Only lvl 12 atm, so i asume it gets better the higher you go?",
+   "upvotes": 0,
+   "created_at": "2026-07-22T03:35:57.268083+00:00",
+   "updated_at": "2026-07-22T03:35:57.268083+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "a8c8dbd4-49cd-41d8-b98c-bf7140ca01f2",
+    "username": "scalinas",
+    "avatar_url": "https://cdn.discordapp.com/avatars/385520035910909952/c337c0811a2bd4edaea7d76fdf2cc0db.png"
+   }
+  },
+  {
+   "id": "3ec3acf1-a3cf-428d-bad1-3d4cbd6d6a7f",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "a8c8dbd4-49cd-41d8-b98c-bf7140ca01f2",
+   "parent_id": null,
+   "body": "Whoops, pressed post comment to soon.. another question sorry. When looking for weaps, i'm alittle confused in-game what to get. Do I want an actuall 2her weap, or a 2her weap in each hand?",
+   "upvotes": 0,
+   "created_at": "2026-07-22T03:38:16.692111+00:00",
+   "updated_at": "2026-07-22T03:38:16.692111+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "a8c8dbd4-49cd-41d8-b98c-bf7140ca01f2",
+    "username": "scalinas",
+    "avatar_url": "https://cdn.discordapp.com/avatars/385520035910909952/c337c0811a2bd4edaea7d76fdf2cc0db.png"
+   }
+  },
+  {
+   "id": "d9b93668-4917-47e0-ad8e-cecc37bf45a5",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+   "parent_id": "1d98c8df-2fc9-4073-902e-7c4012ff1b2b",
+   "body": "Hey ! \nI haven't really pushed Hard Risk leveling with this build yet, so I don't want to give bad advice. For normal leveling and dungeons, though, it's been extremely smooth so far.\n\nAs for macros, I only use a couple of QOL . I don't recommend automating too many cooldowns since timing them correctly is one of the biggest strengths of the build.\n\n#showtooltip\n/startattack\n/cast Twin Slice\n\n#showtooltip\n/startattack\n/cast Felrend\n\n#showtooltip\n/cast Burning Hatred\n/cast Inner Demon\n\n#showtooltip\n/cast Blur\n/cast Betray",
+   "upvotes": 0,
+   "created_at": "2026-07-22T19:36:18.207242+00:00",
+   "updated_at": "2026-07-22T19:36:18.207242+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+    "username": "hesediel",
+    "avatar_url": "https://cdn.discordapp.com/avatars/476774265908363295/57fa9331edae235acb7ca74b9fde686e.png"
+   }
+  },
+  {
+   "id": "9ff0e9bd-87dc-4eeb-b81a-8bdf1f2cd332",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+   "parent_id": "15418f7f-1403-441a-a6e6-570fa450b826",
+   "body": "Thanks, I'm glad you're enjoying it! ^^\n\nYes, absolutely. The build really starts to shine once you unlock more of the Tyrant tree, especially Burning Hatred, Bulwark of Azzinoth, and eventually Tyrant's Gaze.\n\nEarly levels can feel a bit slow, but once your core abilities come online, the build becomes incredibly durable and starts pulling much larger packs with ease.",
+   "upvotes": 0,
+   "created_at": "2026-07-22T19:38:42.66187+00:00",
+   "updated_at": "2026-07-22T19:38:42.66187+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+    "username": "hesediel",
+    "avatar_url": "https://cdn.discordapp.com/avatars/476774265908363295/57fa9331edae235acb7ca74b9fde686e.png"
+   }
+  },
+  {
+   "id": "757c3cad-59a6-4165-8eff-02a5d02cf2d0",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+   "parent_id": "3ec3acf1-a3cf-428d-bad1-3d4cbd6d6a7f",
+   "body": "Yep, you want a 2H weapon in each hand. Tyrant is designed around dual-wielding two-handers, as they provide the most stats and higher weapon damage, which benefits the build the most.",
+   "upvotes": 1,
+   "created_at": "2026-07-22T19:41:22.835721+00:00",
+   "updated_at": "2026-07-23T02:32:02.561487+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+    "username": "hesediel",
+    "avatar_url": "https://cdn.discordapp.com/avatars/476774265908363295/57fa9331edae235acb7ca74b9fde686e.png"
+   }
+  },
+  {
+   "id": "95f6d7e0-8788-4f97-9732-06f8ab5aa055",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "4683c28d-f2a5-4d59-8cbf-de1b6982efa3",
+   "parent_id": null,
+   "body": "are you not wanting to carve and fireball with this build?",
+   "upvotes": 1,
+   "created_at": "2026-07-23T10:20:20.977361+00:00",
+   "updated_at": "2026-07-23T11:25:03.233371+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "4683c28d-f2a5-4d59-8cbf-de1b6982efa3",
+    "username": "BlasiaNation",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "4041e0e1-8fc8-42ed-945f-e5ff3df896fe",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+   "parent_id": "95f6d7e0-8788-4f97-9732-06f8ab5aa055",
+   "body": "Good catch, thanks for reminding me! I completely forgot to mention Carve in the guide.\n\nCarve is definitely worth using. Its damage is decent, but the main reason we take it is its synergy with Fireball. Thanks to Annuhilan Rituals, a fully channeled Carve only costs 1 Felfury, making the Carve → Fireball combo very efficient, especially in AoE. Grommash's Folly also adds even more value whenever Carve crits.\n\nOutside of that combo, I don't recommend using Fireball on its own. The cast time is simply too long for a tank, and I'd rather stay mobile and able to react instantly to mechanics. For pulling enemies at range, I still prefer Sargeron Smite. It feels much smoother and fits the build better.",
+   "upvotes": 0,
+   "created_at": "2026-07-23T11:33:48.16009+00:00",
+   "updated_at": "2026-07-23T11:33:48.16009+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+    "username": "hesediel",
+    "avatar_url": "https://cdn.discordapp.com/avatars/476774265908363295/57fa9331edae235acb7ca74b9fde686e.png"
+   }
+  },
+  {
+   "id": "4812767d-ce2c-4d5a-b7dc-2bafbdc6a9b1",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "4227b373-364f-4a0b-b75b-3b2ec1d03fb0",
+   "parent_id": "95f6d7e0-8788-4f97-9732-06f8ab5aa055",
+   "body": "Replying to op: Problem with the refund fury talent instead of channeling faster is you are self healing way less often, and that you're more prone to getting knocked or stunned in that 2.5s period",
+   "upvotes": 0,
+   "created_at": "2026-07-23T21:05:00.174119+00:00",
+   "updated_at": "2026-07-23T21:05:00.174119+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "4227b373-364f-4a0b-b75b-3b2ec1d03fb0",
+    "username": "campin_81758",
+    "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+   }
+  },
+  {
+   "id": "6983ac1c-8600-4fd1-84f8-313322ab8f42",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+   "parent_id": "95f6d7e0-8788-4f97-9732-06f8ab5aa055",
+   "body": "One thing worth mentioning is that while the Carve → Fireball combo does increase your DPS, it comes at the cost of survivability.\n\nBecause you're spending less Felfury on your regular spenders, you generate fewer Hateforged Barrier cooldown reductions, which means lower barrier uptime and you're much more likely to take heavy damage during large pulls.\n\nIt also adds two extra buttons to the rotation, whereas the Felrend + Sargeron Smite core already provides excellent damage while spending Felfury efficiently and restoring Energy.\n\nDon't forget Abyssal Conditioning either. Every time you cast a Felfury spender, you gain 5% increased Energy regeneration for 10 seconds, stacking up to 4 times. By continuously cycling Felrend and Sargeron Smite, you maintain those stacks much more consistently, which makes the rotation smoother and further improves both survivability and sustained damage.",
+   "upvotes": 0,
+   "created_at": "2026-07-24T10:33:21.558979+00:00",
+   "updated_at": "2026-07-24T10:33:21.558979+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+    "username": "hesediel",
+    "avatar_url": "https://cdn.discordapp.com/avatars/476774265908363295/57fa9331edae235acb7ca74b9fde686e.png"
+   }
+  },
+  {
+   "id": "e414e3bb-a2b3-46ed-a961-ec2a687bd3d8",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "e40cf679-8a61-4754-af73-75b8df9e6636",
+   "parent_id": null,
+   "body": "Why is it that sometimes it lets me use two-handed weapons and other times it doesn't?",
+   "upvotes": 0,
+   "created_at": "2026-07-24T14:16:07.493731+00:00",
+   "updated_at": "2026-07-24T14:16:07.493731+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "e40cf679-8a61-4754-af73-75b8df9e6636",
+    "username": "Parcox x",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK6LLfmayGIQJ3eDiDpzK1yC2e0vELdCAmJDt366QuXTszRqw=s96-c"
+   }
+  },
+  {
+   "id": "28533601-5fe8-4ab3-be38-1fd9b2e12a56",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "16ff8170-3ac3-489c-b5fb-5bf01fc62ee3",
+   "parent_id": null,
+   "body": "One thing that matters to me is the professions and general gear that one should look for.\n\nAre there any worldforged items or dungeon/quest/boss gear you would recommend to use on tyrant? For now i have a mix of all of those things and it feels like i should have better gear all the time especially when looking at other classes.",
+   "upvotes": 0,
+   "created_at": "2026-07-24T14:19:29.425534+00:00",
+   "updated_at": "2026-07-24T14:19:29.425534+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "16ff8170-3ac3-489c-b5fb-5bf01fc62ee3",
+    "username": "KaiserVonNRW",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJepmKIFDOThtcsDQVgYZIXLLTj_vbFPho5Jnzg7rM6WT9kxQ=s96-c"
+   }
+  },
+  {
+   "id": "fb3f48e8-2b40-46b8-8df6-b564aa89da54",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "89d9dda7-e3d4-486d-acb0-0161a3de3635",
+   "parent_id": null,
+   "body": "i see that betrayer is far more usefull than tyrants gaze",
+   "upvotes": 0,
+   "created_at": "2026-07-28T13:07:15.491938+00:00",
+   "updated_at": "2026-07-28T13:07:15.491938+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "89d9dda7-e3d4-486d-acb0-0161a3de3635",
+    "username": "mahdi rachdi",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIcsJbrdszpecDTXluOsawNF8XJHUj_fAzldtI2idUDBNIQpw=s96-c"
+   }
+  },
+  {
+   "id": "df19d79e-e7b9-4ae7-9396-465043c2f9ff",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "89d9dda7-e3d4-486d-acb0-0161a3de3635",
+   "parent_id": null,
+   "body": "and  you can combo fel bargain and blood of mannaroth to make it less dangerous",
+   "upvotes": 0,
+   "created_at": "2026-07-28T13:11:19.452687+00:00",
+   "updated_at": "2026-07-28T13:11:19.452687+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "89d9dda7-e3d4-486d-acb0-0161a3de3635",
+    "username": "mahdi rachdi",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIcsJbrdszpecDTXluOsawNF8XJHUj_fAzldtI2idUDBNIQpw=s96-c"
+   }
+  },
+  {
+   "id": "6cf8c8f6-0a8c-458f-bbe0-ffa8a50e5aa1",
+   "build_id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "author_id": "fbdec5e4-c3e7-4ed3-9817-b3cf5a0bf0de",
+   "parent_id": null,
+   "body": "Can u share if being expertise capped is important or not?",
+   "upvotes": 0,
+   "created_at": "2026-07-29T14:25:31.65264+00:00",
+   "updated_at": "2026-07-29T14:25:31.65264+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "fbdec5e4-c3e7-4ed3-9817-b3cf5a0bf0de",
+    "username": "Chris",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKBMvupoOAHH-HD1hhQ4CradoXRHB6GKkcES-kb6HSvNiJ4fw=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "1a6322fc-c55a-421f-9b21-4a814f5cba58",
+   "title": "JURAPENAS / FELSWORN PVP MELE BROKEN",
+   "class_id": 14,
+   "spec_id": 37,
+   "author_id": "77f2221d-a187-444d-92c3-5e484d96c77c",
+   "tags": [
+    "EL MEJOR FELSWORN"
+   ],
+   "role": "tank",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 438,
+   "featured": false,
+   "created_at": "2026-07-29T04:25:51.130418+00:00",
+   "updated_at": "2026-07-29T04:25:51.130418+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "77f2221d-a187-444d-92c3-5e484d96c77c",
+    "username": "Elmija",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIF6bDKyC9UrIMNKUkEGDez91FUeyj_R8zO1d1qItSwfOda7Q=s96-c"
+   }
+  },
+  {
+   "id": "31ac5eb2-4521-44ba-931a-f6512b3d9e55",
+   "title": "Felsworn Slayer all round build",
+   "class_id": 14,
+   "spec_id": 37,
+   "author_id": "26ae3a35-911d-4a3c-b2eb-3c3027ed8d5d",
+   "tags": [
+    "AoE and single target pvp"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 1,
+   "comment_count": 1,
+   "view_count": 361,
+   "featured": false,
+   "created_at": "2026-07-27T00:51:07.335458+00:00",
+   "updated_at": "2026-07-27T00:51:07.335458+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "26ae3a35-911d-4a3c-b2eb-3c3027ed8d5d",
+    "username": "ahda lubis",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIusCQMPupff3RMEV3UQzsonVh7oRrIDKPZeD2ljhPrPJYXHA=s96-c"
+   }
+  },
+  {
+   "id": "674eb288-1d80-42a5-842c-e8ea4c643177",
+   "title": "felboy",
+   "class_id": 14,
+   "spec_id": 38,
+   "author_id": "0f8e4512-d078-4bd6-bf1b-78c3849e5433",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1707,
+   "featured": false,
+   "created_at": "2026-07-21T20:25:32.795774+00:00",
+   "updated_at": "2026-07-22T10:06:29.14+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "0f8e4512-d078-4bd6-bf1b-78c3849e5433",
+    "username": "michael montgomery",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLmZ2nHjGhxpAGpuX_ne5P_t-xeqdcFAkQOmMtH1iEYtblngg=s96-c"
+   }
+  }
+ ],
+ "class": "Felsworn",
+ "spec": "Tyrant",
+ "allocations": [
+  [
+   "14-87-6-0",
+   1
+  ],
+  [
+   "14-87-6-1",
+   1
+  ],
+  [
+   "14-87-7-2",
+   1
+  ],
+  [
+   "14-87-6-3",
+   1
+  ],
+  [
+   "14-87-4-1",
+   2
+  ],
+  [
+   "14-87-2-0",
+   1
+  ],
+  [
+   "14-87-2-1",
+   2
+  ],
+  [
+   "14-87-1-2",
+   1
+  ],
+  [
+   "14-87-5-4",
+   1
+  ],
+  [
+   "14-87-5-5",
+   1
+  ],
+  [
+   "14-87-7-4",
+   1
+  ],
+  [
+   "14-87-6-6",
+   1
+  ],
+  [
+   "14-87-6-7b",
+   1
+  ],
+  [
+   "14-87-4-2",
+   1
+  ],
+  [
+   "14-87-4-7",
+   1
+  ],
+  [
+   "14-87-2-3",
+   1
+  ],
+  [
+   "14-87-1-4",
+   1
+  ],
+  [
+   "14-87-1-5",
+   1
+  ],
+  [
+   "14-87-7-8",
+   1
+  ],
+  [
+   "14-87-6-9",
+   1
+  ],
+  [
+   "14-87-7-5",
+   1
+  ],
+  [
+   "14-87-8-6b",
+   1
+  ],
+  [
+   "14-18-10-0",
+   1
+  ],
+  [
+   "14-18-10-2",
+   1
+  ],
+  [
+   "14-18-4-0",
+   1
+  ],
+  [
+   "14-18-4-1",
+   1
+  ],
+  [
+   "14-18-4-2",
+   1
+  ],
+  [
+   "14-18-4-3",
+   1
+  ],
+  [
+   "14-18-6-2",
+   2
+  ],
+  [
+   "14-18-2-2a",
+   1
+  ],
+  [
+   "14-18-1-3",
+   1
+  ],
+  [
+   "14-18-0-4",
+   2
+  ],
+  [
+   "14-18-4-4",
+   1
+  ],
+  [
+   "14-18-4-5",
+   1
+  ],
+  [
+   "14-18-4-6",
+   1
+  ],
+  [
+   "14-18-4-7b",
+   1
+  ],
+  [
+   "14-18-6-4",
+   1
+  ],
+  [
+   "14-18-7-5",
+   1
+  ],
+  [
+   "14-18-2-5",
+   1
+  ],
+  [
+   "14-18-6-6b",
+   1
+  ],
+  [
+   "14-18-7-7",
+   1
+  ],
+  [
+   "14-18-10-4",
+   1
+  ],
+  [
+   "14-18-10-6",
+   1
+  ],
+  [
+   "14-18-7-3",
+   1
+  ],
+  [
+   "14-18-8-4a",
+   1
+  ],
+  [
+   "14-18-1-5",
+   1
+  ],
+  [
+   "14-18-0-6",
+   1
+  ],
+  [
+   "14-18-6-8",
+   1
+  ],
+  [
+   "14-18-4-9",
+   1
+  ],
+  [
+   "14-18-10-8",
+   1
+  ],
+  [
+   "14-87-8-7",
+   2
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "14-87-6-0",
+   "points": 1,
+   "name": "Hateforged Barrier",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 705129
+  },
+  {
+   "id": "14-87-6-1",
+   "points": 1,
+   "name": "Demonic Evasion",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 705108
+  },
+  {
+   "id": "14-87-7-2",
+   "points": 1,
+   "name": "Infernal Armor",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 300467
+  },
+  {
+   "id": "14-87-6-3",
+   "points": 1,
+   "name": "Skull of Gul'dan",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 800225
+  },
+  {
+   "id": "14-87-4-1",
+   "points": 2,
+   "name": "Demonborn",
+   "maxPoints": 2,
+   "tree": "Felsworn (class tree)",
+   "spellId": 705102
+  },
+  {
+   "id": "14-87-2-0",
+   "points": 1,
+   "name": "Annihilation",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 803904
+  },
+  {
+   "id": "14-87-2-1",
+   "points": 2,
+   "name": "Cruelty",
+   "maxPoints": 2,
+   "tree": "Felsworn (class tree)",
+   "spellId": 705109
+  },
+  {
+   "id": "14-87-1-2",
+   "points": 1,
+   "name": "Focused Hatred",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 704606
+  },
+  {
+   "id": "14-87-5-4",
+   "points": 1,
+   "name": "Doomstride",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 804613
+  },
+  {
+   "id": "14-87-5-5",
+   "points": 1,
+   "name": "Legion March",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 805244
+  },
+  {
+   "id": "14-87-7-4",
+   "points": 1,
+   "name": "Demonic Embrace",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 520257
+  },
+  {
+   "id": "14-87-6-6",
+   "points": 1,
+   "name": "Pact Hunter",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 704612
+  },
+  {
+   "id": "14-87-6-7b",
+   "points": 1,
+   "name": "Felstrider",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 707513
+  },
+  {
+   "id": "14-87-4-2",
+   "points": 1,
+   "name": "Felwracked",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 704374
+  },
+  {
+   "id": "14-87-4-7",
+   "points": 1,
+   "name": "Fel Communion",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 705105
+  },
+  {
+   "id": "14-87-2-3",
+   "points": 1,
+   "name": "Whispers of the Pit",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 805235
+  },
+  {
+   "id": "14-87-1-4",
+   "points": 1,
+   "name": "Felgorged",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 560573
+  },
+  {
+   "id": "14-87-1-5",
+   "points": 1,
+   "name": "Illidan's Guile",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 806109
+  },
+  {
+   "id": "14-87-7-8",
+   "points": 1,
+   "name": "Anti-Magic",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 560822
+  },
+  {
+   "id": "14-87-6-9",
+   "points": 1,
+   "name": "Illidari Barrier",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 300468
+  },
+  {
+   "id": "14-87-7-5",
+   "points": 1,
+   "name": "Felbane",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 525001
+  },
+  {
+   "id": "14-87-8-6b",
+   "points": 1,
+   "name": "Gul'dan's Gift",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 804609
+  },
+  {
+   "id": "14-18-10-0",
+   "points": 1,
+   "name": "Burning Commander",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 92089
+  },
+  {
+   "id": "14-18-10-2",
+   "points": 1,
+   "name": "Hulking Demon",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 805246
+  },
+  {
+   "id": "14-18-4-0",
+   "points": 1,
+   "name": "Carve",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 800206
+  },
+  {
+   "id": "14-18-4-1",
+   "points": 1,
+   "name": "Demonic Will",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 800209
+  },
+  {
+   "id": "14-18-4-2",
+   "points": 1,
+   "name": "Nether Disciple",
+   "maxPoints": 2,
+   "tree": "Tyrant",
+   "spellId": 560576
+  },
+  {
+   "id": "14-18-4-3",
+   "points": 1,
+   "name": "Pure Hatred",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 803478
+  },
+  {
+   "id": "14-18-6-2",
+   "points": 2,
+   "name": "Demon Hide",
+   "maxPoints": 2,
+   "tree": "Tyrant",
+   "spellId": 520252
+  },
+  {
+   "id": "14-18-2-2a",
+   "points": 1,
+   "name": "Annihilan Rituals",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 520831
+  },
+  {
+   "id": "14-18-1-3",
+   "points": 1,
+   "name": "Felrend",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 800210
+  },
+  {
+   "id": "14-18-0-4",
+   "points": 2,
+   "name": "Outland Slaver",
+   "maxPoints": 2,
+   "tree": "Tyrant",
+   "spellId": 705123
+  },
+  {
+   "id": "14-18-4-4",
+   "points": 1,
+   "name": "Felspill",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 706267
+  },
+  {
+   "id": "14-18-4-5",
+   "points": 1,
+   "name": "Burning Hatred",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 805239
+  },
+  {
+   "id": "14-18-4-6",
+   "points": 1,
+   "name": "Nether Strength",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 520240
+  },
+  {
+   "id": "14-18-4-7b",
+   "points": 1,
+   "name": "Dark Lord",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 300470
+  },
+  {
+   "id": "14-18-6-4",
+   "points": 1,
+   "name": "Infernal Constitution",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 805256
+  },
+  {
+   "id": "14-18-7-5",
+   "points": 1,
+   "name": "Tyrant's Gaze",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 805240
+  },
+  {
+   "id": "14-18-2-5",
+   "points": 1,
+   "name": "Bulwark of Azzinoth",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 705122
+  },
+  {
+   "id": "14-18-6-6b",
+   "points": 1,
+   "name": "Demonic Fortitude",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 805245
+  },
+  {
+   "id": "14-18-7-7",
+   "points": 1,
+   "name": "Eye of the Tyrant",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 560549
+  },
+  {
+   "id": "14-18-10-4",
+   "points": 1,
+   "name": "Hellfire Carver",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 707444
+  },
+  {
+   "id": "14-18-10-6",
+   "points": 1,
+   "name": "Felblade",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 574146
+  },
+  {
+   "id": "14-18-7-3",
+   "points": 1,
+   "name": "Burning Legionnaire",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 520885
+  },
+  {
+   "id": "14-18-8-4a",
+   "points": 1,
+   "name": "Abyssal Conditioning",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 807431
+  },
+  {
+   "id": "14-18-1-5",
+   "points": 1,
+   "name": "Vengeance",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 520817
+  },
+  {
+   "id": "14-18-0-6",
+   "points": 1,
+   "name": "Straight to the Nether",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 560503
+  },
+  {
+   "id": "14-18-6-8",
+   "points": 1,
+   "name": "Infernal Whipcrack",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 805243
+  },
+  {
+   "id": "14-18-4-9",
+   "points": 1,
+   "name": "Grommash's Folly",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 805236
+  },
+  {
+   "id": "14-18-10-8",
+   "points": 1,
+   "name": "Fel Monstrosity",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 500067
+  },
+  {
+   "id": "14-87-8-7",
+   "points": 2,
+   "name": "Armaments of the Legion",
+   "maxPoints": 2,
+   "tree": "Felsworn (class tree)",
+   "spellId": 706266
+  }
+ ]
+}

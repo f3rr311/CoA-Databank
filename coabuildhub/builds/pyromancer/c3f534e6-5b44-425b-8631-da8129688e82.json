@@ -1,0 +1,712 @@
+{
+ "build": {
+  "id": "c3f534e6-5b44-425b-8631-da8129688e82",
+  "title": "Incineration Pyromancer Raid Build",
+  "description": "[overview]\nmy current pyro dps raid profile which doesn't use any of the last three talent nodes because i think they are not that good\n\n[talents]\nyou can swap 1 explosive point for Rapid Incineration to get more Lava Shards which results in getting more ember stacks but idk its lowkey not good\n\n[rotation]\nGet 5 ember stacks before pull\n\nOn pull cast Ignite -> Blaze -> Lava Shard \n\nNow if your tank is not good at keeping threat at the start just keep spamming Flare Bolt or a Meteor untill he builds up some threat . if he is good on threat start Blasting\n\nPop Fired Up! and Eruption and your trinkets . Start spamming Explode\nkeep an eye out for your ember stacks . if its getting lower than 3 stacks cast a lava Shard between Explodes to get embers . refresh Blaze if it ran out .\nif you ever run out of embers while Fired Up! unlucky i guess blame rng and cast a few flare bolts to get 1 ember and back to spamming explode\n\nAfter Fired Up! expire reapply all your dots and spam Flare Bolt untill you reach 5 ember stacks then spam explode until you reach 0 ember stacks . keep an eye out for Fired Up! because you need to have 5 ember stacks when it comes off cooldown.\n\n\nif there are more than 1 target use Flames Of Neltharion instead of explode\n\n[stats]\ncrit and haste can make your Fired Up! last longer which means more dps . so i guess\n\n\nHit Rating until cap-> Spell Power -> Crit -> Haste -> Int -> Spirit\n\n[tips]\nbasically 95% of your damage comes when you have Fired Up! active so use your trinkets and Eruption Only while its active .",
+  "class_id": 24,
+  "spec_id": 62,
+  "author_id": "5e20cea1-9633-4db1-aa3b-3092396789bf",
+  "talent_string": "W1siMjQtODctNy0wIiwxXSxbIjI0LTg3LTQtMCIsMV0sWyIyNC04Ny02LTEiLDFdLFsiMjQtODctMi0xIiwxXSxbIjI0LTg3LTItMiIsMl0sWyIyNC04Ny00LTIiLDFdLFsiMjQtODctNi0yIiwxXSxbIjI0LTg3LTMtMyIsMV0sWyIyNC04Ny01LTMiLDFdLFsiMjQtODctMi00IiwxXSxbIjI0LTg3LTItNSIsMV0sWyIyNC04Ny02LTQiLDFdLFsiMjQtODctNi01IiwxXSxbIjI0LTg3LTctNiIsMV0sWyIyNC04Ny03LTdhIiwxXSxbIjI0LTg3LTYtNyIsMV0sWyIyNC04Ny00LTYiLDFdLFsiMjQtODctNS03IiwyXSxbIjI0LTg3LTMtNyIsMV0sWyIyNC04Ny0xLTYiLDFdLFsiMjQtODctMi03IiwxXSxbIjI0LTg3LTEtN2EiLDFdLFsiMjQtODctNC04IiwxXSxbIjI0LTg3LTUtOSIsMV0sWyIyNC02Mi00LTAiLDFdLFsiMjQtNjItNC0xIiwxXSxbIjI0LTYyLTMtMmIiLDFdLFsiMjQtNjItNS0yIiwyXSxbIjI0LTYyLTYtMyIsMV0sWyIyNC02Mi00LTMiLDFdLFsiMjQtNjItMi0zIiwyXSxbIjI0LTYyLTAtNCIsMV0sWyIyNC02Mi0xLTYiLDFdLFsiMjQtNjItNC00IiwxXSxbIjI0LTYyLTMtNSIsMV0sWyIyNC02Mi0zLTYiLDJdLFsiMjQtNjItMi03IiwxXSxbIjI0LTYyLTUtNSIsMV0sWyIyNC02Mi02LTQiLDFdLFsiMjQtNjItOC00IiwxXSxbIjI0LTYyLTctNiIsMV0sWyIyNC02Mi02LTUiLDFdLFsiMjQtNjItNi03IiwxXSxbIjI0LTYyLTQtNyIsMV0sWyIyNC02Mi0yLTgiLDFdLFsiMjQtNjItNC04IiwxXSxbIjI0LTYyLTEwLTAiLDFdLFsiMjQtNjItMTAtMiIsMV0sWyIyNC02Mi0xMC00IiwxXSxbIjI0LTYyLTEwLTYiLDFdLFsiMjQtNjItMTAtOCIsMV1d",
+  "tags": [
+   "raid"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-19T16:06:13.978589+00:00",
+  "updated_at": "2026-07-19T21:21:36.787+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1869,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "5e20cea1-9633-4db1-aa3b-3092396789bf",
+   "username": "mehdij",
+   "avatar_url": null
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "95a75263-aeef-43f3-8203-91182b522da6",
+   "title": "Flameweaving: The Phoenix Healer",
+   "class_id": 24,
+   "spec_id": 19,
+   "author_id": "19e1fa2f-5739-4da0-85b7-976cb4b374b3",
+   "tags": [],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2099,
+   "featured": false,
+   "created_at": "2026-07-25T17:35:53.682234+00:00",
+   "updated_at": "2026-07-26T01:33:11.904+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "19e1fa2f-5739-4da0-85b7-976cb4b374b3",
+    "username": "Ytraz",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJGpPmtSjNoQb4xTyGDi0BM2ZMFA3uHg9vMcGYH7KXQGU_kzAvpSw=s96-c"
+   }
+  },
+  {
+   "id": "ccf0c5cd-363d-4f24-9812-3d23f23fbc65",
+   "title": "Incineration - Explode ST build",
+   "class_id": 24,
+   "spec_id": 62,
+   "author_id": "e21ff528-065e-436d-a4a0-5a28810fba2c",
+   "tags": [
+    "Raid - Single target"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 1,
+   "view_count": 3304,
+   "featured": false,
+   "created_at": "2026-07-15T19:32:35.809132+00:00",
+   "updated_at": "2026-07-27T18:32:04.243+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "e21ff528-065e-436d-a4a0-5a28810fba2c",
+    "username": "snackhrot",
+    "avatar_url": "https://cdn.discordapp.com/avatars/162274425570459648/ee95600cefe935851f3860ed5d303e38.png"
+   }
+  }
+ ],
+ "class": "Pyromancer",
+ "spec": "Incineration",
+ "allocations": [
+  [
+   "24-87-7-0",
+   1
+  ],
+  [
+   "24-87-4-0",
+   1
+  ],
+  [
+   "24-87-6-1",
+   1
+  ],
+  [
+   "24-87-2-1",
+   1
+  ],
+  [
+   "24-87-2-2",
+   2
+  ],
+  [
+   "24-87-4-2",
+   1
+  ],
+  [
+   "24-87-6-2",
+   1
+  ],
+  [
+   "24-87-3-3",
+   1
+  ],
+  [
+   "24-87-5-3",
+   1
+  ],
+  [
+   "24-87-2-4",
+   1
+  ],
+  [
+   "24-87-2-5",
+   1
+  ],
+  [
+   "24-87-6-4",
+   1
+  ],
+  [
+   "24-87-6-5",
+   1
+  ],
+  [
+   "24-87-7-6",
+   1
+  ],
+  [
+   "24-87-7-7a",
+   1
+  ],
+  [
+   "24-87-6-7",
+   1
+  ],
+  [
+   "24-87-4-6",
+   1
+  ],
+  [
+   "24-87-5-7",
+   2
+  ],
+  [
+   "24-87-3-7",
+   1
+  ],
+  [
+   "24-87-1-6",
+   1
+  ],
+  [
+   "24-87-2-7",
+   1
+  ],
+  [
+   "24-87-1-7a",
+   1
+  ],
+  [
+   "24-87-4-8",
+   1
+  ],
+  [
+   "24-87-5-9",
+   1
+  ],
+  [
+   "24-62-4-0",
+   1
+  ],
+  [
+   "24-62-4-1",
+   1
+  ],
+  [
+   "24-62-3-2b",
+   1
+  ],
+  [
+   "24-62-5-2",
+   2
+  ],
+  [
+   "24-62-6-3",
+   1
+  ],
+  [
+   "24-62-4-3",
+   1
+  ],
+  [
+   "24-62-2-3",
+   2
+  ],
+  [
+   "24-62-0-4",
+   1
+  ],
+  [
+   "24-62-1-6",
+   1
+  ],
+  [
+   "24-62-4-4",
+   1
+  ],
+  [
+   "24-62-3-5",
+   1
+  ],
+  [
+   "24-62-3-6",
+   2
+  ],
+  [
+   "24-62-2-7",
+   1
+  ],
+  [
+   "24-62-5-5",
+   1
+  ],
+  [
+   "24-62-6-4",
+   1
+  ],
+  [
+   "24-62-8-4",
+   1
+  ],
+  [
+   "24-62-7-6",
+   1
+  ],
+  [
+   "24-62-6-5",
+   1
+  ],
+  [
+   "24-62-6-7",
+   1
+  ],
+  [
+   "24-62-4-7",
+   1
+  ],
+  [
+   "24-62-2-8",
+   1
+  ],
+  [
+   "24-62-4-8",
+   1
+  ],
+  [
+   "24-62-10-0",
+   1
+  ],
+  [
+   "24-62-10-2",
+   1
+  ],
+  [
+   "24-62-10-4",
+   1
+  ],
+  [
+   "24-62-10-6",
+   1
+  ],
+  [
+   "24-62-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "24-87-7-0",
+   "points": 1,
+   "name": "Dragon Leap",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 806611
+  },
+  {
+   "id": "24-87-4-0",
+   "points": 1,
+   "name": "Meteor",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 500135
+  },
+  {
+   "id": "24-87-6-1",
+   "points": 1,
+   "name": "Hellscape",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 706886
+  },
+  {
+   "id": "24-87-2-1",
+   "points": 1,
+   "name": "Shazzrah's Boon",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 807126
+  },
+  {
+   "id": "24-87-2-2",
+   "points": 2,
+   "name": "Fire Safety",
+   "maxPoints": 2,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 300970
+  },
+  {
+   "id": "24-87-4-2",
+   "points": 1,
+   "name": "Flamecasting",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 804300
+  },
+  {
+   "id": "24-87-6-2",
+   "points": 1,
+   "name": "Hasty Incantation",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 802169
+  },
+  {
+   "id": "24-87-3-3",
+   "points": 1,
+   "name": "Searing Speed",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 704800
+  },
+  {
+   "id": "24-87-5-3",
+   "points": 1,
+   "name": "Pyromancy",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 704831
+  },
+  {
+   "id": "24-87-2-4",
+   "points": 1,
+   "name": "Volcanic Shell",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 805477
+  },
+  {
+   "id": "24-87-2-5",
+   "points": 1,
+   "name": "Magma Guardian",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 706872
+  },
+  {
+   "id": "24-87-6-4",
+   "points": 1,
+   "name": "Cataclysm",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 520218
+  },
+  {
+   "id": "24-87-6-5",
+   "points": 1,
+   "name": "Fiery Intent",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 525018
+  },
+  {
+   "id": "24-87-7-6",
+   "points": 1,
+   "name": "Gaze of Ysera",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 806148
+  },
+  {
+   "id": "24-87-7-7a",
+   "points": 1,
+   "name": "Ysera's Blessing",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 704820
+  },
+  {
+   "id": "24-87-6-7",
+   "points": 1,
+   "name": "Constant Burning",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 707126
+  },
+  {
+   "id": "24-87-4-6",
+   "points": 1,
+   "name": "Grace of Alexstrasza",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 802167
+  },
+  {
+   "id": "24-87-5-7",
+   "points": 2,
+   "name": "Flamer",
+   "maxPoints": 2,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 680836
+  },
+  {
+   "id": "24-87-3-7",
+   "points": 1,
+   "name": "Dragon's Bane",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 706877
+  },
+  {
+   "id": "24-87-1-6",
+   "points": 1,
+   "name": "Essence of Malygos",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 802120
+  },
+  {
+   "id": "24-87-2-7",
+   "points": 1,
+   "name": "Flaming Finesse",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 706878
+  },
+  {
+   "id": "24-87-1-7a",
+   "points": 1,
+   "name": "Purifying Flames",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 807159
+  },
+  {
+   "id": "24-87-4-8",
+   "points": 1,
+   "name": "Obliteration",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 706894
+  },
+  {
+   "id": "24-87-5-9",
+   "points": 1,
+   "name": "Superheated",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 681196
+  },
+  {
+   "id": "24-62-4-0",
+   "points": 1,
+   "name": "Ignite",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 800791
+  },
+  {
+   "id": "24-62-4-1",
+   "points": 1,
+   "name": "Combustion",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 520884
+  },
+  {
+   "id": "24-62-3-2b",
+   "points": 1,
+   "name": "Arsonist",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 301286
+  },
+  {
+   "id": "24-62-5-2",
+   "points": 2,
+   "name": "Magnitude 10",
+   "maxPoints": 2,
+   "tree": "Incineration",
+   "spellId": 520485
+  },
+  {
+   "id": "24-62-6-3",
+   "points": 1,
+   "name": "Fired Up!",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 704823
+  },
+  {
+   "id": "24-62-4-3",
+   "points": 1,
+   "name": "Embrace the Fire",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 503636
+  },
+  {
+   "id": "24-62-2-3",
+   "points": 2,
+   "name": "Cataclysmic Power",
+   "maxPoints": 3,
+   "tree": "Incineration",
+   "spellId": 804617
+  },
+  {
+   "id": "24-62-0-4",
+   "points": 1,
+   "name": "Searing Power",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 680959
+  },
+  {
+   "id": "24-62-1-6",
+   "points": 1,
+   "name": "Pyromantic Accelerants",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 706889
+  },
+  {
+   "id": "24-62-4-4",
+   "points": 1,
+   "name": "Wreath of Flames",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 802068
+  },
+  {
+   "id": "24-62-3-5",
+   "points": 1,
+   "name": "Molten Storm",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 805483
+  },
+  {
+   "id": "24-62-3-6",
+   "points": 2,
+   "name": "Explosive",
+   "maxPoints": 2,
+   "tree": "Incineration",
+   "spellId": 704845
+  },
+  {
+   "id": "24-62-2-7",
+   "points": 1,
+   "name": "Pyromaniac",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 500166
+  },
+  {
+   "id": "24-62-5-5",
+   "points": 1,
+   "name": "To Ashes",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 300975
+  },
+  {
+   "id": "24-62-6-4",
+   "points": 1,
+   "name": "Flamespiller",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 805468
+  },
+  {
+   "id": "24-62-8-4",
+   "points": 1,
+   "name": "Melting Point",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 300757
+  },
+  {
+   "id": "24-62-7-6",
+   "points": 1,
+   "name": "Fiery Passion",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 560525
+  },
+  {
+   "id": "24-62-6-5",
+   "points": 1,
+   "name": "Roasted Alive",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 707482
+  },
+  {
+   "id": "24-62-6-7",
+   "points": 1,
+   "name": "Stoke",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 704856
+  },
+  {
+   "id": "24-62-4-7",
+   "points": 1,
+   "name": "Flames of Focus",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 680977
+  },
+  {
+   "id": "24-62-2-8",
+   "points": 1,
+   "name": "Pyroclastic Flow",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 524875
+  },
+  {
+   "id": "24-62-4-8",
+   "points": 1,
+   "name": "Heat Wave",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 503804
+  },
+  {
+   "id": "24-62-10-0",
+   "points": 1,
+   "name": "Infernus",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 92124
+  },
+  {
+   "id": "24-62-10-2",
+   "points": 1,
+   "name": "Scorched",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 704801
+  },
+  {
+   "id": "24-62-10-4",
+   "points": 1,
+   "name": "Lighting the Fuse",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 807509
+  },
+  {
+   "id": "24-62-10-6",
+   "points": 1,
+   "name": "Incinerator",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 807510
+  },
+  {
+   "id": "24-62-10-8",
+   "points": 1,
+   "name": "Burned",
+   "maxPoints": 1,
+   "tree": "Incineration",
+   "spellId": 572582
+  }
+ ]
+}

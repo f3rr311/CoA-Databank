@@ -1,0 +1,8 @@
+{
+  "name_enus": "Unyielding Form",
+  "icon": "spell_nature_stoneskintotem",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Unyielding Form</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your parry and dodge chance by 3% and your Armor contribution from mail and plate by 25%.</span></td></tr></table><!--?706161:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

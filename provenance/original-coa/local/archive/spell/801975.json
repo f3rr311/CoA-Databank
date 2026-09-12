@@ -1,0 +1,8 @@
+{
+  "name_enus": "Drawstring of Elune",
+  "icon": "inv_bow_1h_auchindoun_d_01",
+  "tooltip_enus": "<table><tr><td><b>Drawstring of Elune</b><br />15% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #FFFFFF;\">Huntress Shot</span> and <span style=\"color: #FFFFFF;\">Starcall</span> now apply an additional stack of <span style=\"color: #66ccff;\">Scattered Stars</span> and your ranged ability attack range is increased to 50 yds for 20&nbsp;sec.</span></td></tr></table><!--?801975:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

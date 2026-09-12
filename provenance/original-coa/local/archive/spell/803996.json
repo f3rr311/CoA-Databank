@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dark Deal",
+  "icon": "ability_warlock_howlofterror",
+  "tooltip_enus": "<table><tr><td><b>Dark Deal</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">For until cancelled, all critical strikes increase your parry and dodge chance by 1%, stacking up to 15 times.<br /><br />Failure to reach at least 10 stacks will cause you to take damage equal to 20% of your maximum health.</span></td></tr></table><!--?803996:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

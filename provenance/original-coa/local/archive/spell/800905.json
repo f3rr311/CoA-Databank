@@ -1,0 +1,8 @@
+{
+  "name_enus": "Antivenom",
+  "icon": "inv_potion_162",
+  "tooltip_enus": "<table><tr><td><b>Antivenom</b><br />25% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Cure 1 poison effect on the target, repeating every 4 seconds for 12&nbsp;sec.</span></td></tr></table><!--?800905:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Berserker Axe",
+  "icon": "inv_axe_1h_draenorcrafted_d_02_a_horde",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Berserker Axe</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Energy<br />Instant</td></tr></table><table><tr><td>Requires Thrown<br /><span class=\"q\"><span style=\"color: #ffffff;\">Requires Enraged</span><br /><span style=\"color: #ffffff;\">3 Charges, 8 sec recharge</span><br />Hurl two axes at an enemy, each dealing 16+0+RAP*.4 Physical damage and reducing their armor by 4% for 20&nbsp;sec, stacking up to 5 times.</span></td></tr></table><!--?804138:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

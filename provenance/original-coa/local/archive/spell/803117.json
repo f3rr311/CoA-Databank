@@ -1,0 +1,8 @@
+{
+  "name_enus": "Beastslayer",
+  "icon": "ability_hunter_mongoosebite",
+  "tooltip_enus": "<table><tr><td><b>Beastslayer</b><br />100 Focus<br />Instant</td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\">Deals Weapon Damage plus 50 to an enemy target, increasing based on how full your Focus bar is.<br /><br />After using this ability, your melee attack power is increased by 15%, and the cost of this ability is reduced by 15% for 30&nbsp;sec, stacks up to 3 times.</span></td></tr></table><!--?803117:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

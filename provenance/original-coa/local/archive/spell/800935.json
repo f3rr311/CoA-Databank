@@ -1,0 +1,8 @@
+{
+  "name_enus": "Soul Bane",
+  "icon": "spell_shadow_detectlesserinvisibility",
+  "tooltip_enus": "<table><tr><td><b>Soul Bane</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your critical strike chance against the target by 5% for 5&nbsp;sec.</span></td></tr></table><!--?800935:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

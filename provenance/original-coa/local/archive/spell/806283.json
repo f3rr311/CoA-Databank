@@ -1,0 +1,8 @@
+{
+  "name_enus": "Latent Curse",
+  "icon": "ability_warlock_jinx",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Latent Curse</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">When your <span style=\"color: #ffffff;\">Shrinking Jinx</span> is dispelled it now applies <span style=\"color: #FFFFFF;\">Misery</span> to the dispeller.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_shadow_shadowpact.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=806346'> Misery </a> <br />\n                            <span> Silences the target for 5&nbsp;sec and deals 9+0+ShaP*0.6 Shadow Damage every 1 sec for the duration.</span><br /></span></td></tr></table><!--?806283:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

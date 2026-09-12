@@ -1,0 +1,8 @@
+{
+  "name_enus": "To The End",
+  "icon": "warrior_talent_icon_singlemindedfury",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>To The End</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Taking damage while at or below 35% of your maximum health now regenerates 3% of your maximum health, repeating every 3 sec, reduces your Energy costs by 40%, and increases your damage dealt by for 9&nbsp;sec.<br /><br />Can only occur once every 2 min.</span></td></tr></table><!--?801770:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

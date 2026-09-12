@@ -1,0 +1,8 @@
+{
+  "name_enus": "Judgement Day",
+  "icon": "inv_helm_cloth_raidpriest_p_01",
+  "tooltip_enus": "<table><tr><td><b>Judgement Day</b><br />24% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Bring judgement upon all nearby enemies, disorienting them for 30&nbsp;sec (8 sec vs players). Damage dealt will end this effect.<br /><br />Affected enemies take 50% increased damage from your next instance of damage.</span></td></tr></table><!--?806121:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

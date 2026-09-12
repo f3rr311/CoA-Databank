@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Fist of Ragnaros",
+  "icon": "spell_fire_elemental_totem",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Improved Fist of Ragnaros</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Fist of Ragnaros</span> by 5 sec and reduces its cost by 10.</span></td></tr></table><!--?560149:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

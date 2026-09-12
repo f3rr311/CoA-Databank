@@ -1,0 +1,8 @@
+{
+  "name_enus": "Visceral Vitality",
+  "icon": "inv_misc_boilingblood",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Visceral Vitality</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases all healing done by <span style=\"color: #ffffff;\">Lifedrinker</span> by 10% and its tick rate by 5%.</span></td></tr></table><!--?704687:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

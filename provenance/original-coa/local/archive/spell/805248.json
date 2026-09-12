@@ -1,0 +1,8 @@
+{
+  "name_enus": "Manaburn",
+  "icon": "_manaburn_fel",
+  "tooltip_enus": "<table><tr><td><b>Manaburn</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Burn an enemy's mana equal to 200% of your Stamina.<br /><br />Deals damage equal to the mana drained.</span></td></tr></table><!--?805248:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

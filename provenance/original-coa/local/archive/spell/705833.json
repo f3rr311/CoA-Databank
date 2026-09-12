@@ -1,0 +1,8 @@
+{
+  "name_enus": "Deft Hands",
+  "icon": "inv_glove_plate_raiddeathknightmythic_q_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Deft Hands</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Using <span style=\"color: #ffffff;\">Reload</span> or swapping <span style=\"color: #ffffff;\">Rounds</span> now increases haste by 10% for 8&nbsp;sec.</span></td></tr></table><!--?705833:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

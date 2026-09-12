@@ -1,0 +1,8 @@
+{
+  "name_enus": "Skulltaker",
+  "icon": "inv_axe_1h_pvp400_c_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Skulltaker</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Slash an enemy viciously, dealing 70% Weapon Damage plus 5.<br /><br />Deals increased damage per <span style=\"color: #ff9933;\">Demonfire</span> consumed.</span></td></tr></table><!--?800168:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

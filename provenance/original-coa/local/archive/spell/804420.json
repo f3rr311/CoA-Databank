@@ -1,0 +1,8 @@
+{
+  "name_enus": "Artificer's Toughness",
+  "icon": "inv_chest_mail_nazmirraid_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Artificer's Toughness</b></td><th><b class=\"q0\">Chronobuff</b></th></tr></table>6% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Gain Armor based on your Spirit for until cancelled.</span></td></tr></table><!--?804420:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

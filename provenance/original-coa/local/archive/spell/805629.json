@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sunslam",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Sunslam</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>8% of base mana<br /><table width=\"100%\"><tr><td>Channeled</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Slam an enemy every 1 sec with the might of the sun, dealing 28+0+AP*0.159426 Holy damage and stunning them for 1&nbsp;sec. Lasts 4&nbsp;sec.<br /><br />Only usable while <span style=\"color: #FF9800;\">Dawn</span> is active. Usable while moving.</span></td></tr></table><!--?805629:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

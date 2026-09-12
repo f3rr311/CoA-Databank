@@ -1,0 +1,8 @@
+{
+  "name_enus": "Enslave",
+  "icon": "inv_eyeballjellyfishmount",
+  "tooltip_enus": "<table><tr><td><b>Enslave</b><br />12% of base mana<br />1.7 sec cast</td></tr></table><table><tr><td><span class=\"q\">Enslave an enemy with a mindbender for up to , effectively polymorphing them and removing harmful magic effects.<br /><br />Damage dealt may break the effect.</span></td></tr></table><!--?800354:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Thunderous",
+  "icon": "inv_leather_raidmonkmythic_r_01_bracer",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Thunderous</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 20 Passive</span><br />Increases the critical damage of your spells by 150%.</span></td></tr></table><!--?804827:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

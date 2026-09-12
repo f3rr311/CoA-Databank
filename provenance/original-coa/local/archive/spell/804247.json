@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bless",
+  "icon": "ability_priest_ascendance",
+  "tooltip_enus": "<table><tr><td><b>Bless</b><br />20% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Bless an ally, restoring 5% of their maximum health every 10 sec for 5&nbsp;min.<br /><br />Can only affect 1 ally at a time.</span></td></tr></table><!--?804247:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

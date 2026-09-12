@@ -1,0 +1,8 @@
+{
+  "name_enus": "Suncharged",
+  "icon": "ability_skyreach_energize",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Suncharged</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Judgement Day</span> now applies <span style=\"color: #ffffff;\">Suncharged</span> to the target every 0.5 sec, stacking 10 times.<br /><br />At the end of the duration, or when <span style=\"color: #ffffff;\">Judgement Day</span> ends, the enemy takes 477*$<scalingbp>+AP*.3+HolP*.5 Holy damage, increased for each stack on the target.</span></td></tr></table><!--?804628:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

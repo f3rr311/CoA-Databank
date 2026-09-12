@@ -1,0 +1,3042 @@
+{
+ "class": {
+  "id": 21,
+  "name": "Ranger",
+  "slug": "ranger",
+  "color": "#AAD372"
+ },
+ "specs": [
+  {
+   "id": 2,
+   "name": "Farstrider",
+   "tabId": 2
+  },
+  {
+   "id": 54,
+   "name": "Archery",
+   "tabId": 54
+  },
+  {
+   "id": 55,
+   "name": "Brigand",
+   "tabId": 55
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 164,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Ranger (class tree)",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "21-87-2-0",
+     "name": "Crippling Shot",
+     "x": 2,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_dismounting_shot",
+     "spellId": 804725,
+     "description": "Fire a crippling shot at an enemy slowing movement speed by -50% and knocking them off their mounts, making them unable to mount again for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "21-87-4-0",
+     "name": "Survival Potion",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_naturecocktail_border",
+     "spellId": 802839,
+     "description": "Drink a survival potion, dispelling all poison and disease effects and removing 1 poison and disease effect every 3 sec for 9 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "21-87-6-0",
+     "name": "Knockout",
+     "x": 6,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_monk_blackoutkick",
+     "spellId": 801435,
+     "description": "Knock an enemy out, incapacitating them for 4 seconds and removing bleed and poison effects from them. Damage caused will interrupt this effect.Usable while in Elude.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "21-87-2-1",
+     "name": "Improved Waterskins",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_drink_waterskin_03",
+     "spellId": 573057,
+     "description": "Increases the effectiveness of your Waterskins by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-2-0",
+      "21-87-4-0"
+     ]
+    },
+    {
+     "id": "21-87-4-1",
+     "name": "Survival Kit",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_ascend_bag_06_b",
+     "spellId": 504329,
+     "description": "Your Survival Potion now also heals you for 10% of your maximum health with each tick.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-4-0"
+     ]
+    },
+    {
+     "id": "21-87-6-1",
+     "name": "Elusive Character",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_16_shadow_swords_border",
+     "spellId": 560340,
+     "description": "Increases your damage dealt by 10% for 12 seconds after leaving Elude.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-6-0",
+      "21-87-4-0"
+     ]
+    },
+    {
+     "id": "21-87-2-2",
+     "name": "Snapseed",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "twisted_seed",
+     "spellId": 804027,
+     "description": "Toss a snapseed at an enemy, dealing 27 + 30% ranged AP Physical damage and knocking them back.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-87-2-1"
+     ]
+    },
+    {
+     "id": "21-87-4-2",
+     "name": "Grace",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 3,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_archerskill10_border",
+     "spellId": 705092,
+     "description": "Increases your Agility and movement speed by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-6-1",
+      "21-87-4-1",
+      "21-87-2-1"
+     ]
+    },
+    {
+     "id": "21-87-6-2",
+     "name": "Cutthroat",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_archerskill_04_nobg_border",
+     "spellId": 800359,
+     "description": "Shoot a powerful arrow that deals Weapon Damage plus 40 and stuns the target for 1 seconds. Duration increased by 1 sec per stack of Advantage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-87-6-1"
+     ]
+    },
+    {
+     "id": "21-87-1-3",
+     "name": "Resourceful",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_healingtouch",
+     "spellId": 504008,
+     "description": "Reduces the cooldown of Crippling Shot and Snapseed by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-2-2"
+     ]
+    },
+    {
+     "id": "21-87-4-3",
+     "name": "Briar Veil",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_natureempower_border",
+     "spellId": 800084,
+     "description": "Thorns and leaves swirl around you, masking your movements for 10 seconds, increasing your dodge chance by 50% and causing dodging attacks to restore 2% maximum health and 5 Focus.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-87-4-2",
+      "21-87-2-2",
+      "21-87-6-2"
+     ]
+    },
+    {
+     "id": "21-87-7-3",
+     "name": "Deft Hands",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_paladin_handoflight",
+     "spellId": 707417,
+     "description": "Increases your melee and ranged haste by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-6-2"
+     ]
+    },
+    {
+     "id": "21-87-0-4",
+     "name": "Camper",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_racial_makecamp",
+     "spellId": 705026,
+     "description": "Reduces the cast time of your Bushcraft abilities by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-1-3"
+     ]
+    },
+    {
+     "id": "21-87-2-4",
+     "name": "Pinpoint Accuracy",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_weapon_bow_01",
+     "spellId": 801468,
+     "description": "Critical strikes with direct damaging abilities now generate 4 Focus.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-2-2"
+     ]
+    },
+    {
+     "id": "21-87-4-4",
+     "name": "Survival Expert",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_druid_naturalperfection",
+     "spellId": 560959,
+     "description": "Increases the dodge chance provided by Briar Veil by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-4-3"
+     ]
+    },
+    {
+     "id": "21-87-6-4",
+     "name": "Dirty Fighter",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_rogue_plunderarmor",
+     "spellId": 705044,
+     "description": "Increases the chance for Flank to critically strike by 50% and increases your chance to resist root effects by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-6-2"
+     ]
+    },
+    {
+     "id": "21-87-8-4",
+     "name": "Outlaw",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_human_04",
+     "spellId": 706277,
+     "description": "Increases the effectiveness of your Adaptations by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-7-3"
+     ]
+    },
+    {
+     "id": "21-87-1-5",
+     "name": "Woodland Adept",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_naturepoisonedstep_border",
+     "spellId": 570015,
+     "description": "Slip into the shadows, entering an improved stealth mode, increases your movement speed by 25% for 10 seconds, and applies Elude.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-87-2-4",
+      "21-87-0-4",
+      "21-87-1-3"
+     ]
+    },
+    {
+     "id": "21-87-3-5a",
+     "name": "Bloody Focus",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_gouge",
+     "spellId": 520804,
+     "description": "Reduces the Focus cost of Toxic Dart by -15.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-4-4",
+      "21-87-2-4"
+     ]
+    },
+    {
+     "id": "21-87-3-5b",
+     "name": "No Mercy",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_rogue_bloodyeye",
+     "spellId": 520581,
+     "description": "Increases the critical damage of Flank by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-87-5-5",
+     "name": "Blur",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_invisibilty",
+     "spellId": 520369,
+     "description": "Increases your chance to dodge and parry by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-4-4",
+      "21-87-6-4"
+     ]
+    },
+    {
+     "id": "21-87-7-5",
+     "name": "Snatch",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "rogue_subterfuge",
+     "spellId": 803115,
+     "description": "Snatch an enemy's melee weapons, disarming them for 4 seconds.If you are disarmed, you also return your weapon to yourself.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-87-8-4",
+      "21-87-6-4",
+      "21-87-7-3"
+     ]
+    },
+    {
+     "id": "21-87-0-6",
+     "name": "Sly",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_disgustingpizza",
+     "spellId": 560339,
+     "description": "Your Woodland Adept now triggers a -10% reduced cooldown for each stack of Advantage active when cast.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-1-5"
+     ]
+    },
+    {
+     "id": "21-87-2-6",
+     "name": "Endurance Training",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_rogue_recuperate",
+     "spellId": 705039,
+     "description": "Increases your maximum Focus by 20.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-3-5a",
+      "21-87-1-5",
+      "21-87-3-5b"
+     ]
+    },
+    {
+     "id": "21-87-4-6",
+     "name": "Adrenaline Rush",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_archerskill19_border",
+     "spellId": 520578,
+     "description": "Surge with vitality, dispeling all harmful effects from yourself and increasing your movement speed by 40% for 10 seconds.Usable while stealthed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-87-3-5a",
+      "21-87-5-5",
+      "21-87-3-5b"
+     ]
+    },
+    {
+     "id": "21-87-6-6a",
+     "name": "Lethal Cunning",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_aimedshot_red",
+     "spellId": 704320,
+     "description": "Entering Elude generates 1 stack of Advantage and 10 Focus every 5 sec for 30 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-5-5",
+      "21-87-7-5"
+     ]
+    },
+    {
+     "id": "21-87-6-6b",
+     "name": "Guise",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_rogue_stayofexecution",
+     "spellId": 520753,
+     "description": "Instantly generates 5 stacks of Advantage and allows you see nearby stealthed enemies for 5 seconds.Usable while stealthed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "21-87-8-6a",
+     "name": "Whats Yours Is Mine",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_boss_edwinvancleef",
+     "spellId": 560495,
+     "description": "Removes the Focus cost of Snatch.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-7-5"
+     ]
+    },
+    {
+     "id": "21-87-8-6b",
+     "name": "Grappling Arrows",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_21_light_arrow_border",
+     "spellId": 561106,
+     "description": "Increases the range of Snatch by 15 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-87-2-7",
+     "name": "Double The Pace",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_diablo3_arrowrain_hunter",
+     "spellId": 705031,
+     "description": "Increases all party and raid member's melee and ranged haste by 10%. Does not stack with similar effects.In addition, increases your critical strike chance by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-2-6",
+      "21-87-0-6"
+     ]
+    },
+    {
+     "id": "21-87-4-7a",
+     "name": "Surefooted",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_zone_hillsbradfoothills",
+     "spellId": 560814,
+     "description": "Reduces the cooldown of Adrenaline Rush by -30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-4-6"
+     ]
+    },
+    {
+     "id": "21-87-4-7b",
+     "name": "Heightened Senses",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_racial_bearform",
+     "spellId": 561320,
+     "description": "Reduces the Focus cost Adrenaline Rush by -50% and increases the movement speed granted by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-87-6-7",
+     "name": "Woodland Stalker",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_stranglevines",
+     "spellId": 705034,
+     "description": "While in Elude, your critical strike chance is now increased by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-6-6a",
+      "21-87-8-6a",
+      "21-87-6-6b",
+      "21-87-8-6b"
+     ]
+    },
+    {
+     "id": "21-87-1-8",
+     "name": "Natural Disguise",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_natureambush_border",
+     "spellId": 520585,
+     "description": "Instantly dispels all movement slowing effects from allies within 30 yds and transforms them into a bush, stealthing them for 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-87-2-7",
+      "21-87-0-6"
+     ]
+    },
+    {
+     "id": "21-87-4-8",
+     "name": "Guile of the Ranger",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_archerskill27_border",
+     "spellId": 520353,
+     "description": "Your Instinct now additionally increases your critical strike rating by 20% of your Agility.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-2-7",
+      "21-87-4-7a",
+      "21-87-6-7",
+      "21-87-4-7b"
+     ]
+    },
+    {
+     "id": "21-87-7-8",
+     "name": "Forest Dweller",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_druid_manatree",
+     "spellId": 524864,
+     "description": "While in Elude, gain 20% increased movement speed and regenerate 3% maximum health every 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-8-6a",
+      "21-87-6-7",
+      "21-87-8-6b"
+     ]
+    },
+    {
+     "id": "21-87-2-9",
+     "name": "Elven Tactics",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ui_darkshore_warfront_alliance_archer",
+     "spellId": 560701,
+     "description": "You now have a -20% chance to not consume Advantage on cast.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-1-8",
+      "21-87-4-8"
+     ]
+    },
+    {
+     "id": "21-87-4-9",
+     "name": "Rapid Strikes",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_crossingswords_colorsgreen",
+     "spellId": 560341,
+     "description": "Melee and ranged auto attacks now have a 25% chance to strike an additional time for 50% of the damage dealt.Can only occur once per sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-87-4-8"
+     ]
+    },
+    {
+     "id": "21-87-6-9",
+     "name": "Onslaught",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_focusedmind",
+     "spellId": 801951,
+     "description": "Your senses heighten, causing you to instantly generate 5 Advantage and allowing the use of abilities that require Elude for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-87-7-8",
+      "21-87-4-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 2,
+   "name": "Farstrider",
+   "nodeCount": 45,
+   "nodes": [
+    {
+     "id": "21-2-4-0",
+     "name": "Falconstrike",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_felarakkoa_focusedblast",
+     "spellId": 573060,
+     "description": "Every 5th Quick Shot within 15 seconds transforms into Falconstrike.Using a Horn instantly transforms Quick Shot into Falconstrike.Falconstrike (Transform)Generates 2 AdvantageCall a cast of falcons to strike an enemy, dealing 121% Ranged Weapon Damage plus 10 Nature damage and calling 1 War Falcon to your aid for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 10
+    },
+    {
+     "id": "21-2-10-0",
+     "name": "Dream Flowers",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "inv_legion_faction_dreamweavers",
+     "spellId": 92117,
+     "description": "Level 10 PassiveYour damaging critical strikes now spawn a green Dream Flower at a random location within 15 yds of you. Dream Flower (Spawner)When an ally runs over the flower, they consume it to heal for 3% maximum health and gain 40% increased movement speed for 5 seconds.Can only occur once per sec.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-2-2-1",
+     "name": "Cunning",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "misc_legionfall_hunter",
+     "spellId": 520615,
+     "description": "Increases your Focus regeneration by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-4-0"
+     ]
+    },
+    {
+     "id": "21-2-6-1",
+     "name": "Blow the Horns!",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "inv_ascend_horn_b_01",
+     "spellId": 573042,
+     "description": "Reduces the cooldown of Horn spells by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-4-0"
+     ]
+    },
+    {
+     "id": "21-2-1-2",
+     "name": "Falcon's Call",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_skyreach_castdown",
+     "spellId": 804715,
+     "description": "Call down war falcons upon a targeted area, slowing up to 8 enemies within the area by -60% for 5 seconds.A Falcon is summoned for each enemy affected for 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-2-2-1"
+     ]
+    },
+    {
+     "id": "21-2-4-2",
+     "name": "Backstep",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_karoz_leap",
+     "spellId": 800685,
+     "description": "Leap backwards up to 10 yds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-2-6-1",
+      "21-2-2-1"
+     ]
+    },
+    {
+     "id": "21-2-7-2",
+     "name": "Woodland Arrow",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "nhi_naturegoldenarrow_border",
+     "spellId": 806368,
+     "description": "Shoot a magical arrow, dealing 38 + 35% ranged AP Physical damage and reducing the cooldown of active Horn spells by -15 sec.Damage increased for each stack of Advantage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-2-6-1"
+     ]
+    },
+    {
+     "id": "21-2-10-2a",
+     "name": "Horn of War",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "inv_misc_horn_03",
+     "spellId": 800086,
+     "description": "Generates 1 AdvantageEmanate an aura for 30 seconds that grants 5% increased critical strike chance to party and raid members. Does not stack with similar effects.While active, you generate 3 Focus every 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 20,
+     "dependencies": [
+      "21-2-10-0"
+     ]
+    },
+    {
+     "id": "21-2-10-2b",
+     "name": "Battle Prowess",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "skill_icon_skill105_border",
+     "spellId": 805888,
+     "description": "Increases chance to hit with all spells and attacks by 1% for you and party and raid members.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20
+    },
+    {
+     "id": "21-2-1-3",
+     "name": "Falcon Charmer",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "trade_archaeology_carved_wildhammer_gryphon_figurine",
+     "spellId": 705076,
+     "description": "Increases the duration of War Falcons by 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-1-2"
+     ]
+    },
+    {
+     "id": "21-2-4-3",
+     "name": "Survivalist",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "spell_nature_naturetouchgrow",
+     "spellId": 707418,
+     "description": "Reduces the cooldown of Survival Potion by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-4-2"
+     ]
+    },
+    {
+     "id": "21-2-7-3",
+     "name": "Quel'dorei Poison",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "custom_t_spiritualarrow_border",
+     "spellId": 560802,
+     "description": "Damage dealt by Woodland Arrow and Emerald Arrow now poison enemies for 3 seconds, dealing 91 + 10% ranged AP Nature damage every 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-7-2"
+     ]
+    },
+    {
+     "id": "21-2-0-4a",
+     "name": "War Falconer",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_hunter_eagleeye",
+     "spellId": 705067,
+     "description": "Reduces the cooldowns of Falcon's Call by -30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-1-3"
+     ]
+    },
+    {
+     "id": "21-2-0-4b",
+     "name": "Aerial Assault",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "icon_orangebird_toy",
+     "spellId": 705068,
+     "description": "Removes the Focus cost of Falcon's Call, allows it to strike 2 additional targets, and increases its range by 10 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-2-3-4a",
+     "name": "Falcon Guide",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "inv_redbird",
+     "spellId": 520586,
+     "description": "Falconstrike and Battle Screech now increase your movement speed by 30% for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-4-3",
+      "21-2-1-3"
+     ]
+    },
+    {
+     "id": "21-2-3-4b",
+     "name": "Scavenger",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "spell_nature_dryaddispelmagic",
+     "spellId": 520834,
+     "description": "Increases the duration of Battle Screech and reduces the cooldown of Snapseed by 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-2-5-4a",
+     "name": "Falcon Diving",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "nhi_unholybird_border",
+     "spellId": 520783,
+     "description": "Killing an enemy that yields experience or honor now summons a War Falcon to aid you in combat for 12 seconds. Can only occur once every 4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-4-3",
+      "21-2-7-3"
+     ]
+    },
+    {
+     "id": "21-2-5-4b",
+     "name": "Emerald Arrow",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "custom_emerald_staff_b_border",
+     "spellId": 804712,
+     "description": "Set up a powerful magical arrow and then shoot it, dealing 10 + 20% ranged AP Nature damage to the target, increased for each stack of Advantage.Creates an enchanted flare on the ground, causing nearby enemies to take 224 + 20% ranged AP Nature damage every 2 sec, lasting 2 sec for each stack of Advantage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "21-2-8-4",
+     "name": "Forest Fighter",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "custom_accurate_bow_b_border",
+     "spellId": 706282,
+     "description": "Your Skullpiercers or Emerald Arrows used with 5 stacks of Advantage now reduce the cooldown of Woodland Arrow by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-7-3"
+     ]
+    },
+    {
+     "id": "21-2-10-4a",
+     "name": "Gutpiercer",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_rogue_bloodsplatter",
+     "spellId": 573059,
+     "description": "Damage dealt by War Falcons and Dragonhawks now has a 15% chance to reduce the enemy's resistances by 75 and increase their Magic damage taken by -2% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "21-2-10-2a",
+      "21-2-10-2b"
+     ]
+    },
+    {
+     "id": "21-2-10-4b",
+     "name": "Battle Screech",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "inv_druidflightzandalaritroll",
+     "spellId": 705070,
+     "description": "Empower party and raid members within 40 yds, increasing their attack or spell power by 65 for 15 seconds.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 30
+    },
+    {
+     "id": "21-2-1-5",
+     "name": "Dragonhawk Tamer",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_hunter_pet_dragonhawk",
+     "spellId": 573056,
+     "description": "Using a Horn now summons a Dragonhawk to assist you in combat for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-0-4a",
+      "21-2-3-4a",
+      "21-2-0-4b",
+      "21-2-3-4b"
+     ]
+    },
+    {
+     "id": "21-2-4-5",
+     "name": "Windrunner's Reach",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "_highelf_01",
+     "spellId": 573043,
+     "description": "Increases the range of your ranged abilities by 5 yds.In addition, your critical strike chance against Undead, Beasts, and Dragonkin is increased by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-3-4a",
+      "21-2-5-4a",
+      "21-2-3-4b",
+      "21-2-5-4b"
+     ]
+    },
+    {
+     "id": "21-2-7-5",
+     "name": "Forest Herald",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_druid_treeoflife_red",
+     "spellId": 800150,
+     "description": "Casting Toxic Dart and abilities that spend stacks of Advantage now have a 20% chance to spawn a green Dreamflower at a random location nearby within 15 yds of you.Dream Flower (Spawner)When an ally runs over the flower, they consume it to heal for 3% maximum health and gain 40% increased movement speed for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-5-4a",
+      "21-2-8-4",
+      "21-2-5-4b"
+     ]
+    },
+    {
+     "id": "21-2-1-6a",
+     "name": "Wingman",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "inv_icon_wing04d",
+     "spellId": 705098,
+     "description": "Reduces all damage taken by -2% for each War Falcon or Dragonhawk you have active.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-1-5"
+     ]
+    },
+    {
+     "id": "21-2-1-6b",
+     "name": "Guidance",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_garrison_orangebird",
+     "spellId": 532261,
+     "description": "Increases your Physical and Nature damage dealt by 1% for each War Falcon or Dragonhawk you have active.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-2-3-6",
+     "name": "Venom-Coated Seeds",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "custom_druideskill_01_border",
+     "spellId": 807459,
+     "description": "Damage dealt by Snapseed now reduces the enemy's chance to hit by -15% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-3-4a",
+      "21-2-3-4b"
+     ]
+    },
+    {
+     "id": "21-2-4-6",
+     "name": "Freedom",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "inv_misc_tournaments_symbol_bloodelf",
+     "spellId": 520628,
+     "description": "Free up to 10 nearby allies within 15 yds of you for 8 seconds, causing them to become immune to roots and snares, and allowing their critical strikes to increase their movement speed by 30% for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-2-4-5"
+     ]
+    },
+    {
+     "id": "21-2-5-6",
+     "name": "Falcon's Aid",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_hunter_aspectoftheironhawk",
+     "spellId": 705075,
+     "description": "Periodic damage dealt now has a 10% chance to summon a War Falcon to aid you in battle for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-5-4a",
+      "21-2-5-4b"
+     ]
+    },
+    {
+     "id": "21-2-7-6",
+     "name": "Highlander",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "achievement_zone_jadeforest",
+     "spellId": 707534,
+     "description": "Each time you spawn a green Dreamflower you are granted 1 stack of Highlander.Highlander (Stacks)At 3 stacks, your next Falconstrike within 10 seconds deals 25% increased damage and reduces the enemy's healing received by -40% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-7-5"
+     ]
+    },
+    {
+     "id": "21-2-10-6a",
+     "name": "Horn of Alacrity",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "farstriderhorn",
+     "spellId": 806360,
+     "description": "Generates 1 AdvantageEmanate an aura for 30 seconds that grants 5% increased haste to party and raid members. Does not stack with similar effects.While active, you generate 3 Focus every 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 40,
+     "dependencies": [
+      "21-2-10-4a",
+      "21-2-10-4b"
+     ]
+    },
+    {
+     "id": "21-2-10-6b",
+     "name": "Defense of the Ancients",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "skill_icon_skill118_border",
+     "spellId": 705094,
+     "description": "You now emanate an aura around you, increasing the Armor of party and raid members by 390.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40
+    },
+    {
+     "id": "21-2-0-7",
+     "name": "Phoenix Plumes",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "inv_icon_feather06a",
+     "spellId": 705074,
+     "description": "Your Skullpiercers and Woodland Arrows used with 5 stacks of Advantage now restore 3% Focus and summon a War Falcon for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-1-6a",
+      "21-2-1-6b"
+     ]
+    },
+    {
+     "id": "21-2-2-7",
+     "name": "Razorquills",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "5_archerskill43_border",
+     "spellId": 705072,
+     "description": "Increases the tick rate of Toxic Dart and Emerald Arrows by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-3-6",
+      "21-2-1-6a",
+      "21-2-1-6b"
+     ]
+    },
+    {
+     "id": "21-2-4-7",
+     "name": "Thread The Needle",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "nhi_spiritualarrow_border",
+     "spellId": 524831,
+     "description": "Critical strikes with Quick Shot or Falconstrike now reduce the cast time and cost of your next ability that consumes Advantage by -34% for 15 seconds, stacking 3 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-4-6",
+      "21-2-3-6",
+      "21-2-5-6"
+     ]
+    },
+    {
+     "id": "21-2-6-7",
+     "name": "To The Skies!",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "inv_pet_butterfly_green",
+     "spellId": 301365,
+     "description": "Reduces the cooldown of Bushcraft Glider by -30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-7-6",
+      "21-2-5-6"
+     ]
+    },
+    {
+     "id": "21-2-8-7",
+     "name": "Hunting Tactics",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "5_druideskill08_border",
+     "spellId": 300897,
+     "description": "Damage dealt by Skullpiercer is increased by 30% against Poisoned targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-7-6"
+     ]
+    },
+    {
+     "id": "21-2-2-8",
+     "name": "Pecking",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "artifactability_survivalhunter_eaglesbite",
+     "spellId": 570737,
+     "description": "Your War Falcons and Dragonhawks now have a 25% chance to deal additional Physical damage to 3 nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-0-7",
+      "21-2-2-7"
+     ]
+    },
+    {
+     "id": "21-2-4-8",
+     "name": "Plumes of War",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_hunter_animalhandler",
+     "spellId": 705071,
+     "description": "Increases the critical strike chance of Falconstrike and Emerald Arrow by 15%.In addition, critical strikes with Falconstrike now increase the damage of subsequent Falconstrikes by 5% for 15 seconds, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-6-7",
+      "21-2-4-7",
+      "21-2-2-7"
+     ]
+    },
+    {
+     "id": "21-2-6-8",
+     "name": "Whipvine Arrow",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "inv_misc_herb_nightmarevine",
+     "spellId": 806342,
+     "description": "Launch an arrow with magical vines attached to it at your target, dealing 78 + 33% ranged AP Nature damage and rooting them for 40 seconds (8 sec vs players). Damage caused may interrupt the effect.Hits 1 additional nearby target per stack of Advantage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-2-6-7",
+      "21-2-8-7"
+     ]
+    },
+    {
+     "id": "21-2-10-8a",
+     "name": "Command Aura",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_trueshot",
+     "spellId": 524600,
+     "description": "Emanate an aura for 15 seconds, causing allied players to deal 35% ranged AP additional damage as Stormstrike Damage when they deal direct damage.Applies Exhaustion, preventing you from benefiting from similar effects for 1 minute.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 50,
+     "dependencies": [
+      "21-2-10-6a",
+      "21-2-10-6b"
+     ]
+    },
+    {
+     "id": "21-2-10-8b",
+     "name": "Frenzy",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_druid_treeoflife_red",
+     "spellId": 520492,
+     "description": "Enrage all nearby allies, increasing their haste by 30% for 20 seconds.After being affected by this spell, allies cannot benefit from similar effects for 5 minutes.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 50
+    },
+    {
+     "id": "21-2-2-9",
+     "name": "Coordination",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "ability_hunter_beastwithin",
+     "spellId": 520621,
+     "description": "Your War Falcons and Dragonhawks now grant you a stack of Coordination when they deal damage.Coordination (Proc)Increases your critical strike chance and critical damage by 1% for 15 seconds, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-4-8",
+      "21-2-2-8"
+     ]
+    },
+    {
+     "id": "21-2-4-9",
+     "name": "Thalassian Brand",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "nhi_naturetarget_border",
+     "spellId": 560805,
+     "description": "Mark an enemy for total destruction, increasing your allies ranged attack power against the target by 300 and dealing 1120 Nature damage every 3 sec for 15 seconds.The marked target can always be seen by the Ranger whether it stealths or turns invisible",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-2-4-8"
+     ]
+    },
+    {
+     "id": "21-2-6-9",
+     "name": "Petalkeeper",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 2,
+     "icon": "nhi_magicflower_border",
+     "spellId": 520925,
+     "description": "Woodland Arrow now spawns a rare red Dream Flower at a random location near you for 30 seconds.Critical strikes will apply a stack of Petals to red Dream Flowers. PetalsAt 10 stacks, your next Ranger Horn will cause the flower to burst, granting a buff to allies within 20 yards that causes damage dealt to heal them for 10% of the damage dealt and preventing their movement speed from being reduced below 100% of normal speed, for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-2-4-8",
+      "21-2-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 54,
+   "name": "Archery",
+   "nodeCount": 40,
+   "nodes": [
+    {
+     "id": "21-54-4-0",
+     "name": "Precision Shot",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "5_archerskill07_border",
+     "spellId": 500075,
+     "description": "Precisely shoot an enemy from a great distance, inflicting 38 + 48.5% ranged AP Physical damage.Damage increased for each stack of Advantage.Usable while in Elude.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "21-54-10-0",
+     "name": "Skirmisher",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "inv_archaeology_70_tauren_stonewoodbow",
+     "spellId": 92115,
+     "description": "Level 10 PassiveIncreases the damage and tick rate of Toxic Dart by -30%, but reduces the duration of its damaging effect by -30%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-54-2-1",
+     "name": "Devastating Shots",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "inv_trickshot",
+     "spellId": 705032,
+     "description": "Increases your critical strike chance by 2% and your hit chance by 1%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-4-0"
+     ]
+    },
+    {
+     "id": "21-54-6-1",
+     "name": "Deadeye",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_rogue_bloodyeye",
+     "spellId": 300700,
+     "description": "Increases the range of your ranged abilities and Auto Shot by 5 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-4-0"
+     ]
+    },
+    {
+     "id": "21-54-1-2",
+     "name": "Improved Serrated Shot",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_hunter_assassinate2",
+     "spellId": 707888,
+     "description": "Increases the damage of Serrated Shot by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-2-1"
+     ]
+    },
+    {
+     "id": "21-54-4-2",
+     "name": "Swiftshot",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_rogue_combatexpertise",
+     "spellId": 705028,
+     "description": "Damage dealt by Precision Shot now increases enemy Physical damage taken by 11% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-6-1",
+      "21-54-2-1"
+     ]
+    },
+    {
+     "id": "21-54-7-2",
+     "name": "Superb Shot",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "inv_misc_ammo_arrow_04",
+     "spellId": 301249,
+     "description": "Damage dealt by Auto Shot now restores 4 Focus.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-6-1"
+     ]
+    },
+    {
+     "id": "21-54-10-2",
+     "name": "Sniper's Focus",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "inv_crossbow_2h_kultirasquest_b_01",
+     "spellId": 680470,
+     "description": "Consuming Advantage now has a 20% chance per Archery Point spent to refund 20 Focus.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "21-54-10-0"
+     ]
+    },
+    {
+     "id": "21-54-3-3",
+     "name": "Boots of Elvenkind",
+     "x": 3,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ivn_boot_cloth_warfrontshorde_b_01",
+     "spellId": 704317,
+     "description": "Increases your Agility by 5% and reduces the duration of movement slowing effects on you by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-4-2",
+      "21-54-1-2"
+     ]
+    },
+    {
+     "id": "21-54-5-3",
+     "name": "Studded Arrows",
+     "x": 5,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "_d3hungeringarrow",
+     "spellId": 300706,
+     "description": "Increases the ranged weapon damage dealt by Quick Shot by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-4-2",
+      "21-54-7-2"
+     ]
+    },
+    {
+     "id": "21-54-0-4",
+     "name": "Hunting Shot",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "uico_arrow_spell_01_border",
+     "spellId": 801191,
+     "description": "Fire a shot that ricochets between 3 enemies, dealing Ranged Weapon Damage plus 6 to each enemy.Generates 1 stack of Advantage for each enemy hit.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-54-1-2"
+     ]
+    },
+    {
+     "id": "21-54-2-4",
+     "name": "A Quick Demise",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_hunter_mongoosebite",
+     "spellId": 560810,
+     "description": "Auto shots now have a 20% chance to extend the duration of your Serrated Shot by 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-1-2"
+     ]
+    },
+    {
+     "id": "21-54-4-4",
+     "name": "Skirmish",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_hunter_runningshot",
+     "spellId": 802039,
+     "description": "Increases your critical strike chance by 15% and reduces your Focus costs by -25%.Lasts 4 sec for each stack of Advantage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-54-3-3",
+      "21-54-5-3"
+     ]
+    },
+    {
+     "id": "21-54-6-4",
+     "name": "Deadshot",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "nhi_bloodarrow_border",
+     "spellId": 520227,
+     "description": "Generates 2 AdvantageShoot a powerful arrow at the target dealing 250% Ranged Weapon Damage plus 20.1.Only usable on enemies below 20% health.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-54-7-2"
+     ]
+    },
+    {
+     "id": "21-54-8-4",
+     "name": "Neurotoxin Arrow",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "nhi_naturearrow_border",
+     "spellId": 500071,
+     "description": "Shoot at an enemy's throat with a toxin-laced arrow, dealing 25 + 36.07% ranged AP Nature damage and silencing them for 1 seconds.Duration increased by 1 sec per stack of Advantage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-54-7-2"
+     ]
+    },
+    {
+     "id": "21-54-10-4",
+     "name": "Nimble",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "inv_weapon_bow_02",
+     "spellId": 301066,
+     "description": "Level 30 PassiveIncreases your ranged haste by 20% of your Agility.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "21-54-10-2"
+     ]
+    },
+    {
+     "id": "21-54-0-5",
+     "name": "Hunting with Precision",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "5_archerskill28_border",
+     "spellId": 524867,
+     "description": "Your Hunting Shot now deals 25% increased damage for each subsequent target it ricochets to.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-0-4"
+     ]
+    },
+    {
+     "id": "21-54-2-5",
+     "name": "Serrations",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "inv_knife_1h_thunderisleraid_d_02",
+     "spellId": 705050,
+     "description": "Increases your damage against bleeding or Poisoned targets by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-2-4"
+     ]
+    },
+    {
+     "id": "21-54-4-5",
+     "name": "Maximum Power",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_hunter_snipertraining",
+     "spellId": 560688,
+     "description": "Abilities used with 5 stacks of Advantage now refresh the duration of your active Skirmish by 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-4-4"
+     ]
+    },
+    {
+     "id": "21-54-6-5",
+     "name": "Corrosive Poison",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_hunter_piercingshots",
+     "spellId": 572372,
+     "description": "Your ranged abilities against Poisoned targets now ignores 25% of enemy armor.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-6-4"
+     ]
+    },
+    {
+     "id": "21-54-8-5",
+     "name": "Opportunist",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "5_archerskill03_border",
+     "spellId": 807493,
+     "description": "Increases the critical strike chance of Precision Shot by 50% on enemies above 80% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-8-4"
+     ]
+    },
+    {
+     "id": "21-54-1-6",
+     "name": "Lethal Wounds",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "uico_blood_spell_02_border",
+     "spellId": 705055,
+     "description": "Increases the tick rate of your periodic damage effects by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-0-5",
+      "21-54-2-5"
+     ]
+    },
+    {
+     "id": "21-54-3-6",
+     "name": "Mortal Shots",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "uico_arrow_spell_02_border",
+     "spellId": 707380,
+     "description": "Reduces the cooldown of Crippling Shot by -4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-4-5",
+      "21-54-2-5"
+     ]
+    },
+    {
+     "id": "21-54-5-6",
+     "name": "An Arrow for Everything",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "_diablo3_arrowrain_hunter",
+     "spellId": 560812,
+     "description": "Increases the effectiveness of Quivers by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-4-5",
+      "21-54-6-5"
+     ]
+    },
+    {
+     "id": "21-54-7-6",
+     "name": "New-Age Archery",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "nhi_goldenarrow_border",
+     "spellId": 704312,
+     "description": "Increases the damage of Skullpiercer and Precision Shot by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-6-5",
+      "21-54-8-5"
+     ]
+    },
+    {
+     "id": "21-54-10-6",
+     "name": "Bleeding Edge",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "inv_misc_thornnecklace",
+     "spellId": 300460,
+     "description": "Level 40 PassiveAllows the periodic damage dealt by Serrated Shot to critically strike.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "21-54-10-2"
+     ]
+    },
+    {
+     "id": "21-54-1-7",
+     "name": "Hawkeye",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_hunter_silenthunter",
+     "spellId": 800358,
+     "description": "You now fire an arrow every 3 sec at enemies within 30 yds affected by your Hunting Shot, dealing 75% Ranged Weapon Damage.Scales with Hunting Shot modifiers.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-1-6"
+     ]
+    },
+    {
+     "id": "21-54-2-7",
+     "name": "Strike Where It Hurts",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_hunter_killcommand",
+     "spellId": 804178,
+     "description": "Your ability critical strikes now increase the damage the target takes from bleeds by 30% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-3-6",
+      "21-54-1-6"
+     ]
+    },
+    {
+     "id": "21-54-4-7",
+     "name": "Archery Master",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "artifactability_marksmanhunter_legacyofthewindrunners",
+     "spellId": 706281,
+     "description": "Critical strikes with Quick Shot now generate an additional stack of Advantage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-4-5"
+     ]
+    },
+    {
+     "id": "21-54-6-7a",
+     "name": "Masterful Archery",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_hunter_mastermarksman",
+     "spellId": 680469,
+     "description": "While in Elude, gain a stack of Masterful Archery every 2 sec.Masterful Archery (Aura)Your next Precision Shot now deals 10% increased damage for 10 seconds, stacking up to 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-5-6",
+      "21-54-7-6"
+     ]
+    },
+    {
+     "id": "21-54-6-7b",
+     "name": "Light Arrows",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "_d3elementalarrow",
+     "spellId": 681292,
+     "description": "Increases the damage of Precision Shot by 20% when used from 40 yds or further away from your target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-54-7-7",
+     "name": "Pierced",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "nhi_blood_shot_border",
+     "spellId": 705033,
+     "description": "Critical strikes with Skullpiercer and Precision Shot cause the enemy to bleed for an additional 50% damage of the damage dealt over 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-7-6"
+     ]
+    },
+    {
+     "id": "21-54-2-8",
+     "name": "Incendiary Shot",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "nhi_fire_shot_border",
+     "spellId": 524870,
+     "description": "Shoot a burning arrow dealing 791 + 35% ranged AP + 45% fire SP Fire damage to an enemy and up to 5 enemies within 6 yds, and causing your next 3 direct damage Advantage spenders to deal 50% of their damage to nearby enemies.Direct damage increased by 20% for each stack of Advantage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-54-2-7",
+      "21-54-1-7"
+     ]
+    },
+    {
+     "id": "21-54-4-8",
+     "name": "Pathfinder",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "achievement_zone_jadeforest",
+     "spellId": 706284,
+     "description": "Your Adrenaline Rush now incurs a -90% reduced cooldown when used while Elude is active.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-6-7a",
+      "21-54-4-7",
+      "21-54-2-7",
+      "21-54-6-7b"
+     ]
+    },
+    {
+     "id": "21-54-6-8",
+     "name": "Headshots Only",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "5_headshot_border",
+     "spellId": 680931,
+     "description": "Periodic damage dealt with Serrated Shot and Toxic Dart now increases the damage of your next Precision Shot within 8 seconds by 10%, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-6-7a",
+      "21-54-7-7",
+      "21-54-6-7b"
+     ]
+    },
+    {
+     "id": "21-54-10-8",
+     "name": "Sharpshooter",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_trueshot",
+     "spellId": 582855,
+     "description": "Level 50 PassiveAdds 25% to the bonuses that your stacks of Advantage provide.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "21-54-10-6"
+     ]
+    },
+    {
+     "id": "21-54-2-9",
+     "name": "Elven Enchantments",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "achievement_character_nightelf_female",
+     "spellId": 705054,
+     "description": "Increases the damage dealt by your Searing and Poison Quivers by 25%.In addition, dealing damage with Searing or Poison Quiver now grants a stack of Elven Enchantments.Elven EnchantmentsCast time of the next Incendiary Shot within 10 seconds is reduced by -10% and critical strike chance increased by 10%, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-2-8"
+     ]
+    },
+    {
+     "id": "21-54-4-9a",
+     "name": "One Shot, One Kill",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "ability_revendreth_demonhunter",
+     "spellId": 525048,
+     "description": "Increases the damage of Deadshot by 75%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-54-6-8",
+      "21-54-2-8",
+      "21-54-4-8"
+     ]
+    },
+    {
+     "id": "21-54-4-9b",
+     "name": "Silent, But Deadly",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "5_archerskill13_border",
+     "spellId": 524873,
+     "description": "Direct Physical damage dealt now has an 8% chance to allow you to use Deadshot regardless of the targets health for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-54-6-9",
+     "name": "Brutal Shot",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 54,
+     "icon": "5_archerskill31_border",
+     "spellId": 570014,
+     "description": "Fire a volley of powerful shots that pierce through Armor, dealing 450% Ranged Weapon Damage plus 300 to all targets in a 40 yd line.While Skirmish is active this ability is guaranteed to critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-54-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 55,
+   "name": "Brigand",
+   "nodeCount": 40,
+   "nodes": [
+    {
+     "id": "21-55-4-0",
+     "name": "Ravage",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_hunter_mongoosebite",
+     "spellId": 803851,
+     "description": "Generates 1 AdvantageRavage an enemy, causing them to bleed out dealing 112 + 23.72% AP Physical damage over 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "21-55-10-0",
+     "name": "Ravager",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_energeticrecovery",
+     "spellId": 92116,
+     "description": "Level 10 PassiveYour Wild Strike now generates 1 additional Advantage.Removes the minimum range of your ranged abilities.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-55-2-1",
+     "name": "Banditry",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_cheatdeath",
+     "spellId": 520574,
+     "description": "Increases your critical strike chance by 2% and Focus regeneration by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-4-0"
+     ]
+    },
+    {
+     "id": "21-55-6-1",
+     "name": "Knuckleduster",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "inv_leather_a_03defias",
+     "spellId": 806957,
+     "description": "Periodic damage dealt now generates 5 Focus.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-4-0"
+     ]
+    },
+    {
+     "id": "21-55-1-2",
+     "name": "Jagged Cuts",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_hunter_swiftstrike",
+     "spellId": 807668,
+     "description": "Increases the damage and duration of Toxic Dart and Ravage by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-2-1"
+     ]
+    },
+    {
+     "id": "21-55-4-2a",
+     "name": "Assassin",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_deadliness",
+     "spellId": 807626,
+     "description": "Increases the duration of Knockout and Crippling Shot by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-2-1",
+      "21-55-6-1"
+     ]
+    },
+    {
+     "id": "21-55-4-2b",
+     "name": "Excessive But Necessary",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "spell_shadow_mindsteal",
+     "spellId": 804939,
+     "description": "Reduces the cooldown of Elude and Knockout by -4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-55-7-2",
+     "name": "Close Quarters",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_warrior_cleave",
+     "spellId": 301146,
+     "description": "Increases your attack power and Agility by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-6-1"
+     ]
+    },
+    {
+     "id": "21-55-10-2",
+     "name": "Beatdown",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_kidneyshot",
+     "spellId": 705047,
+     "description": "Level 20 PassiveAuto attacks now have a 5% chance to reveal a fault in the enemy's defenses, causing your next instance of Physical ability damage to ignore Armor.Chance increased by 15% while wielding a polearm.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "21-55-10-0"
+     ]
+    },
+    {
+     "id": "21-55-1-3",
+     "name": "Assault",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_ruthlessness",
+     "spellId": 803108,
+     "description": "Assault a low health enemy, dealing 100% Weapon Damage (175% with a dagger equipped) plus an additional 8 + 100% AP Physical damage. If the target is bleeding, this deals 50% increased damage.Damage increased for each stack of Advantage.Only usable on enemies below 20% health.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-55-1-2"
+     ]
+    },
+    {
+     "id": "21-55-7-3",
+     "name": "Dirty Blades",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_rollthebones02",
+     "spellId": 680276,
+     "description": "For 4 seconds, your melee auto attacks deal an additional 30% (doubled with a dagger equipped) of the damage dealt as Nature damage and reduces your target's healing received by -20% for 8 seconds, stacking 2 times.Duration increased by 4 sec for each stack of Advantage.Usable while in Elude.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-55-7-2"
+     ]
+    },
+    {
+     "id": "21-55-0-4",
+     "name": "Bounty Hunter",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "inv_polearm_2h_pandariaquest_b_01",
+     "spellId": 803114,
+     "description": "Damage dealt by Flank and Rusty Shiv now increases the target's damage taken from your Advantage spenders by 25% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-1-3"
+     ]
+    },
+    {
+     "id": "21-55-2-4",
+     "name": "Dice Games",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_rollthebones",
+     "spellId": 801438,
+     "description": "Increases the critical strike chance of Wild Strike and Assault by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-1-3"
+     ]
+    },
+    {
+     "id": "21-55-4-4",
+     "name": "Hookshot",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_versatility",
+     "spellId": 800360,
+     "description": "Launch a hook at a target attempting to lodge it into an open wound, dealing 66 + 100% AP Physical damage. If the target is bleeding, you can reactivate this to pull yourself to them, dealing 150% Weapon Damage and generating 2 Advantage",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-55-4-2a",
+      "21-55-4-2b"
+     ]
+    },
+    {
+     "id": "21-55-6-4",
+     "name": "Highwayman",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "5_druideskill44_border",
+     "spellId": 707744,
+     "description": "Direct critical strikes while behind your target increase your haste by 15% for 5 seconds, or for your next 2 attacks.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-7-3"
+     ]
+    },
+    {
+     "id": "21-55-8-4",
+     "name": "Ambuscade",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_warrior_throwdown_2",
+     "spellId": 705053,
+     "description": "Increases the damage of Skullpiercer and Flank by 20%, plus an additional 35% if you have a polearm equipped.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-7-3"
+     ]
+    },
+    {
+     "id": "21-55-10-4",
+     "name": "Rub It In",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "custom_warriorskill_02_border",
+     "spellId": 705085,
+     "description": "Level 30 PassiveEach stack of Advantage spent now gives you a 20% chance to refund 1 stack of Advantage.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "21-55-10-2"
+     ]
+    },
+    {
+     "id": "21-55-1-5",
+     "name": "Throatpunch",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "custom_warriorskill_05_border",
+     "spellId": 500617,
+     "description": "Punch an enemy in the throat, interrupting the enemy's spellcast, preventing any spell from that school of magic from being cast for 2 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-55-0-4",
+      "21-55-2-4"
+     ]
+    },
+    {
+     "id": "21-55-3-5",
+     "name": "Trueshot Lodge Training",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_druid_improvedmoonkinform",
+     "spellId": 803113,
+     "description": "Increases your off-hand weapon damage by 25%.While wielding a polearm, your Physical damage dealt is increased by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-4-4",
+      "21-55-2-4"
+     ]
+    },
+    {
+     "id": "21-55-5-5a",
+     "name": "Wild Man",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_druid_supriseattack",
+     "spellId": 560344,
+     "description": "Your Wild Strike now strikes 2 additional nearby enemies, but deals reduced damage with each enemy struck.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-6-4",
+      "21-55-4-4"
+     ]
+    },
+    {
+     "id": "21-55-5-5b",
+     "name": "Focused Fighter",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_cheapshot",
+     "spellId": 807206,
+     "description": "Reduces the Focus cost of Flank, Blackjack, and Wild Strike by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-55-7-5",
+     "name": "Assassin",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_hunter_assassinate",
+     "spellId": 803871,
+     "description": "Increases the effectiveness of Instinct by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-6-4",
+      "21-55-8-4"
+     ]
+    },
+    {
+     "id": "21-55-0-6",
+     "name": "Stalker",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "_diablo3_execute_hunter",
+     "spellId": 561110,
+     "description": "Reduces the cooldown of Cutthroat by -15 sec, but reduces the range of Cutthroat by -10 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-1-5"
+     ]
+    },
+    {
+     "id": "21-55-2-6",
+     "name": "'Tactical' Advantage",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "novart_passivemastery_(10)_border",
+     "spellId": 706748,
+     "description": "Knockout and Bushwhack now increases your damage dealt against the target by 10% for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-1-5",
+      "21-55-2-4"
+     ]
+    },
+    {
+     "id": "21-55-4-6",
+     "name": "Quills",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "_fanofknives_yellow",
+     "spellId": 560966,
+     "description": "Launch darts at up to 5 nearby enemies, dealing 15 + 30% AP Ranged Physical damage.Damage increased and strikes 1 additional target for each stack of Advantage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-55-5-5a",
+      "21-55-3-5",
+      "21-55-5-5b"
+     ]
+    },
+    {
+     "id": "21-55-6-6",
+     "name": "Underhanded",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_hunter_cobrashot",
+     "spellId": 705061,
+     "description": "Increases the attack power scaling of Skullpiercer by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-6-4",
+      "21-55-7-5"
+     ]
+    },
+    {
+     "id": "21-55-8-6a",
+     "name": "Pilfering",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "achievement_boss_edwinvancleef",
+     "spellId": 705087,
+     "description": "Adds 10% to the damage dealt by Dirty Blades and causes its damage dealt to heal you equal to 50% of the value.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-7-5"
+     ]
+    },
+    {
+     "id": "21-55-8-6b",
+     "name": "Polearm Craft",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "inv_spear_02",
+     "spellId": 707885,
+     "description": "While a polearm is equipped, your chance to trigger your Weapon Crafts and their damage dealt is increased by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-55-10-6",
+     "name": "Lacerations",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_criticalstrike",
+     "spellId": 573044,
+     "description": "Level 40 PassiveAllows the periodic damage dealt by Ravage to critically strike.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "21-55-10-4"
+     ]
+    },
+    {
+     "id": "21-55-1-7",
+     "name": "Quick-Witted",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "inv_misc_quiver_05",
+     "spellId": 704311,
+     "description": "Avoiding an attack now causes you to quickly stab an enemy with one of the arrows from your quiver, dealing 1 + 100% AP Physical damage and reducing their attack speed by -20% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-0-6",
+      "21-55-2-6"
+     ]
+    },
+    {
+     "id": "21-55-4-7a",
+     "name": "Marked for Death",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_thiefsbargain",
+     "spellId": 806973,
+     "description": "While you have daggers equipped, direct critical strikes on enemies below 35% health now have a chance to allow the use of abilities as if you were in Elude for 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-2-6",
+      "21-55-4-6",
+      "21-55-6-6"
+     ]
+    },
+    {
+     "id": "21-55-4-7b",
+     "name": "Tip of the Spear",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "inv_spear_01",
+     "spellId": 807023,
+     "description": "While you have a polearm equipped, your Wild Strike now has a 15% chance to strike 3 additional times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "21-55-7-7",
+     "name": "Guile of the Cutthroat",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "inv_shoulder_mail_raidhunter_l_01",
+     "spellId": 560531,
+     "description": "Increases party and raid member's melee and ranged attack power by 5%. Does not stack with similar effects.In addition, increases your damage dealt by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-8-6a",
+      "21-55-6-6",
+      "21-55-8-6b"
+     ]
+    },
+    {
+     "id": "21-55-2-8",
+     "name": "Dirty Fighter",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_monk_quipunch",
+     "spellId": 806978,
+     "description": "Every 2nd critical strike with Skullpiercer or Assault within 30 seconds now transforms your next Assault within 15 seconds into Sucker Punch. Sucker PunchSucker punch an enemy, dealing 291 + 35% AP Physical damage and generating 5 stacks of Advantage. Scales with modifiers to Assault.For 8 seconds, the critical strike chance of Assault is increased by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-1-7",
+      "21-55-4-7a",
+      "21-55-4-7b"
+     ]
+    },
+    {
+     "id": "21-55-4-8",
+     "name": "Outmaneuver",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_findweakness",
+     "spellId": 557325,
+     "description": "Teleport to an enemy, summon a decoy beneath them, and mark them for 8 seconds. Dealing melee damage to them adds a stack to this effect, up to 20 stacks.Reactivating this ability within 8 seconds deals 1 + 55% AP Physical damage to your target, increased by 20% for each stack on the target, and then teleports you back to your decoy.Usable while in Elude.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-55-4-7a",
+      "21-55-4-7b"
+     ]
+    },
+    {
+     "id": "21-55-6-8",
+     "name": "Stonemason's Secret",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "inv_inscription_runescrolloffortitude_green",
+     "spellId": 524654,
+     "description": "Your Skullpiercer used with 5 stacks of Advantage now extends the duration of Dirty Blades by 6 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-7-7",
+      "21-55-4-7a",
+      "21-55-4-7b"
+     ]
+    },
+    {
+     "id": "21-55-10-8",
+     "name": "Dastardly",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_hungerforblood",
+     "spellId": 706483,
+     "description": "Level 50 PassiveIncreases your critical damage dealt by 15% on enemies above 80% health or below 20% health.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "21-55-10-6"
+     ]
+    },
+    {
+     "id": "21-55-1-9",
+     "name": "Viper's Bite",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_rogue_poisonedknife",
+     "spellId": 803104,
+     "description": "Generates 2 AdvantageUnleash 4 quick strikes over 1 seconds to an enemy, each dealing 85% Weapon Damage.If the target is bleeding, each strike deals an additional 400 + 25% AP Physical damage.If the target is poisoned, each strike deals Nature damage instead of Physical damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "21-55-2-8"
+     ]
+    },
+    {
+     "id": "21-55-4-9",
+     "name": "Instinctual Combatant",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "spell_nature_mirrorimage",
+     "spellId": 707319,
+     "description": "Casting Instinct now also restores 40 extra Focus and guarantees your next 3 Skullpiercers or Assaults within 20 seconds to critically strike.In addition, Instinct now grants you an additional 10% of your Agility as melee attack power.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-2-8",
+      "21-55-4-8",
+      "21-55-6-8"
+     ]
+    },
+    {
+     "id": "21-55-7-9",
+     "name": "Barbed Quills",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 55,
+     "icon": "ability_gouge",
+     "spellId": 800077,
+     "description": "Damage dealt by Wild Strike and Quills will now tear into enemies, causing them to bleed for 78 Physical damage over 9 seconds, stacking 4 times.Damage dealt by Quills now spreads your periodic effects to 5 enemies within 10 yds and extends their duration by 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "21-55-6-8"
+     ]
+    }
+   ]
+  }
+ ]
+}

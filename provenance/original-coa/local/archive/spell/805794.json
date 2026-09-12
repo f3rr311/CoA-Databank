@@ -1,0 +1,8 @@
+{
+  "name_enus": "Runic Obliteration",
+  "icon": "novart_magicspell_%2858%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Runic Obliteration</b></td><th><b class=\"q0\">Spell</b></th></tr></table>19% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Hurl powerful elemental missiles at an enemy, dealing 250+1.5 Points Per Level+SP*0.44 Elemental Damage every 0.3 sec for 1&nbsp;sec. Each missile grants you a <span style=\"color: #FFFFFF;\">Glyph</span>.<br /><br />Scales with modifiers to <span style=\"color: #ffffff;\">Primordial Blast</span>.</span></td></tr></table><!--?805794:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

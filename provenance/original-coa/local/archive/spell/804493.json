@@ -1,0 +1,8 @@
+{
+  "name_enus": "Incarnation",
+  "icon": "achievement_bg_overcome500disadvantage",
+  "tooltip_enus": "<table><tr><td><b>Incarnation</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Whenever you reach 20 stacks of either <span style=\"color: #ffffff;\">Order</span> or <span style=\"color: #ffffff;\">Chromatic</span>, you will now gain an <span style=\"color: #ffffff;\">Incarnate</span> effect for 10&nbsp;sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_animamaw_orb.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804484'> Chaos Incarnate </a> <br />\n                            <span> Reduces the cast time of <span style=\"color: #ffffff;\">Chromatic</span> spells by 60%, cooldowns by 50%, and increases damage by 20%.</span><br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_animabastion_orb.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804483'> Order Incarnate </a> <br />\n                            <span> Reduces the cast time of <span style=\"color: #ffffff;\">Order</span> spells by 70% and their cooldowns by 50%. Also boosts healing done by 100%.</span><br /></span></td></tr></table><!--?804493:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

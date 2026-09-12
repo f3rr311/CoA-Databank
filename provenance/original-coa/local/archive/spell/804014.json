@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hellwrath",
+  "icon": "inv_trinket_firelands_03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hellwrath</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Demon's Blood</span> can now stack 5 additional times and each stack now increases the absorption amount of <span style=\"color: #ffffff;\">Black Shield</span> by 1%.</span></td></tr></table><!--?804014:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

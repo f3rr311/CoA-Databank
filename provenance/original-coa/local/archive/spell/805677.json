@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sacrificial Circle",
+  "icon": "nhi_firerune_%282%29_border",
+  "tooltip_enus": "<table><tr><td><b>Sacrificial Circle</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Sacrifice your <span style=\"color: #ffffff;\">Hellfire Imps</span> within 15 yds, healing you 15% of your maximum health, plus an additional amount equal to 25% of each of your <span style=\"color: #ffffff;\">Hellfire Imp's</span> maximum health.<br /><br /><span style=\"color: #ffffff;\">Hellfire Imps</span> sacrificed in this way leave behind corpses.</span></td></tr></table><!--?805677:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

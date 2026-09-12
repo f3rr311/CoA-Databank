@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ring of Life",
+  "icon": "nhi_naturestone_border",
+  "tooltip_enus": "<table><tr><td><b>Ring of Life</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Allies within 40 yds receive 6% increased healing. Does not stack with similar effects.<br /><br />In addition, your Magic damage taken is reduced by 10%.</span></td></tr></table><!--?804705:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

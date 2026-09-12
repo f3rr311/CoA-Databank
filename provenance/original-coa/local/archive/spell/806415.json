@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bramblepatch",
+  "icon": "inv_eng_bombroot",
+  "tooltip_enus": "<table><tr><td><b>Bramblepatch</b><br />18% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Grow a patch of brambles at your location for 12&nbsp;sec.<br /><br />Allies in the area are immune to grip and knockback effects.<br /><br />Enemies in the area are unable to leap, dash, or charge.</span></td></tr></table><!--?806415:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

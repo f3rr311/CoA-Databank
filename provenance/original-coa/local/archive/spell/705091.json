@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Grapplebomb",
+  "icon": "ability_ironmaidens_grapeshotblast",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Improved Grapplebomb</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Grapplebomb</span> by 10 sec and increases its damage by 20%.</span></td></tr></table><!--?705091:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

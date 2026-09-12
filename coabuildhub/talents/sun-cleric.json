@@ -1,0 +1,3752 @@
+{
+ "class": {
+  "id": 27,
+  "name": "Sun Cleric",
+  "slug": "sun-cleric",
+  "color": "#FFD700"
+ },
+ "specs": [
+  {
+   "id": 70,
+   "name": "Piety",
+   "tabId": 70
+  },
+  {
+   "id": 71,
+   "name": "Blessings",
+   "tabId": 71
+  },
+  {
+   "id": 72,
+   "name": "Seraphim",
+   "tabId": 72
+  },
+  {
+   "id": 90,
+   "name": "Valkyrie",
+   "tabId": 90
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 202,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Sun Cleric (class tree)",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "27-87-2-0",
+     "name": "Horusath Blast",
+     "x": 2,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "paladin_holy",
+     "spellId": 500154,
+     "description": "Blast an enemy with the power of the sun, dealing 73 + 100% holy SP Holy damage and reducing their attack power by 235 for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "27-87-4-0",
+     "name": "Solar Prayer",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_devineaegis",
+     "spellId": 806479,
+     "description": "Recite a solar prayer, instantly healing you for 25% of your maximum health plus an additional 100 + 100% SP, scaling with spell power.Usable while stunned.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "27-87-6-0",
+     "name": "Solar Invocation: Resplendence",
+     "x": 6,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_priest_rayofhope",
+     "spellId": 806159,
+     "description": "Invoke the grace of An'she for 8 seconds, causing your llluminations to be instant cast and guaranteed to critically strike, but cost 100% more mana.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "27-87-2-1",
+     "name": "Swift Justice",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_hammerofjustice_border",
+     "spellId": 300322,
+     "description": "Increases your haste by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-2-0",
+      "27-87-4-0"
+     ]
+    },
+    {
+     "id": "27-87-6-1",
+     "name": "Solar Might",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_paladin_holyavenger",
+     "spellId": 704916,
+     "description": "Increases your Strength and Intellect by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-6-0",
+      "27-87-4-0"
+     ]
+    },
+    {
+     "id": "27-87-1-2",
+     "name": "Sintorcher",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_fire_lavaspawn",
+     "spellId": 704909,
+     "description": "Increases your damage and healing done by 3% and your critical strike chance against Undead by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-2-1"
+     ]
+    },
+    {
+     "id": "27-87-4-2",
+     "name": "Sun Stride",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_priest_archangel",
+     "spellId": 680700,
+     "description": "Rush forward at a high speed for 2 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-87-6-1",
+      "27-87-4-0",
+      "27-87-2-1"
+     ]
+    },
+    {
+     "id": "27-87-7-2",
+     "name": "Devotee",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_priest_ascension",
+     "spellId": 707767,
+     "description": "Increases the effectiveness of your Devotions by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-6-1"
+     ]
+    },
+    {
+     "id": "27-87-2-3",
+     "name": "Solar Invocation: Conquest",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_holy_toglory_border",
+     "spellId": 800764,
+     "description": "Invoke the spirit of An'she to instantly generate 10 Solar Power and refunds 10% of your maximum mana.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-87-4-2",
+      "27-87-1-2"
+     ]
+    },
+    {
+     "id": "27-87-4-3",
+     "name": "Blessed Armor",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_holybolt",
+     "spellId": 300334,
+     "description": "Increases your spell power by 1 for every 125 Armor you have.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-4-2"
+     ]
+    },
+    {
+     "id": "27-87-6-3",
+     "name": "Solar Invocation: Revelation",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_priestskill07_border",
+     "spellId": 503651,
+     "description": "Invoke An'she to root an enemy for 4 seconds with holy shackles or heal an ally for 10% maximum health and increase their movement speed by 50% for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-87-7-2",
+      "27-87-4-2"
+     ]
+    },
+    {
+     "id": "27-87-1-4",
+     "name": "Suncharged",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_skyreach_energize",
+     "spellId": 804628,
+     "description": "Your Judgement Day now applies Suncharged to the target every 1 sec, stacking 10 times.At the end of the duration, or when Judgement Day ends, the enemy takes 477 + 30% AP + 50% holy SP Holy damage, increased for each stack on the target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-2-3"
+     ]
+    },
+    {
+     "id": "27-87-3-4",
+     "name": "Enveloped in Light",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_holynova",
+     "spellId": 680652,
+     "description": "Increases your armor contribution from mail and plate items by 10% and reduces Shadow damage taken by -3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-4-3"
+     ]
+    },
+    {
+     "id": "27-87-5-4",
+     "name": "Solar Guardian",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "buff_forcesoforder",
+     "spellId": 704581,
+     "description": "Reduces the duration of stun effects on you by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-4-3"
+     ]
+    },
+    {
+     "id": "27-87-7-4a",
+     "name": "Devoted to the Light",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_lightsgrace",
+     "spellId": 681436,
+     "description": "Removes the cost of your Solar Invocation spells and they now generate 5% of your missing mana when cast.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-6-3"
+     ]
+    },
+    {
+     "id": "27-87-7-4b",
+     "name": "Devoted to the Sun",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_sun_border",
+     "spellId": 681066,
+     "description": "Reduces the cooldown of your Solar Invocation spells by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-87-0-5",
+     "name": "Holy Conquest",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_holypower_border",
+     "spellId": 504248,
+     "description": "Reduces the mana cost of Paragon, Chosen of the Light, and Judgement Day by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-1-4"
+     ]
+    },
+    {
+     "id": "27-87-2-5",
+     "name": "Glare",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_priest_halo",
+     "spellId": 805583,
+     "description": "Flash powerful light that deals 20 + 27.41% SP Holy damage and stuns enemies within 8 yds for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-87-3-4",
+      "27-87-2-3"
+     ]
+    },
+    {
+     "id": "27-87-4-5",
+     "name": "Pure Light",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_holyshock_border",
+     "spellId": 300314,
+     "description": "While above 80% health you now deal 10% increased damage and healing.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-3-4",
+      "27-87-5-4"
+     ]
+    },
+    {
+     "id": "27-87-6-5",
+     "name": "Radiance",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_ability_holyfire_nova",
+     "spellId": 800054,
+     "description": "Every 2 sec you burst with light, healing nearby allies for 36 + 20% SP + 10% AP and damaging nearby enemies for 37 + 40% SP + 15% AP. Lasts 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-87-7-4a",
+      "27-87-6-3",
+      "27-87-5-4",
+      "27-87-7-4b"
+     ]
+    },
+    {
+     "id": "27-87-8-5",
+     "name": "Gleaming Vigil",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_artifact_bulwarkoforder",
+     "spellId": 704585,
+     "description": "Reduces your Physical damage taken by -5%, plus an additional 5% while above 80% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-7-4a",
+      "27-87-7-4b"
+     ]
+    },
+    {
+     "id": "27-87-1-6",
+     "name": "Censure",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_holysmite",
+     "spellId": 300371,
+     "description": "Dealing direct damage to an enemy affected by Chains of Light will now cause it to chain to a nearby enemy. Can only occur once per sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-0-5",
+      "27-87-2-5"
+     ]
+    },
+    {
+     "id": "27-87-2-6a",
+     "name": "Fortuitous",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_innerfire",
+     "spellId": 561328,
+     "description": "Removes the cast time of Glare while above 80% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-2-5"
+     ]
+    },
+    {
+     "id": "27-87-2-6b",
+     "name": "Angelic Light",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_holyprotection",
+     "spellId": 560094,
+     "description": "Reduces the cooldown of Glare by -30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-87-4-6",
+     "name": "Guiding Glow",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_flashheal",
+     "spellId": 300324,
+     "description": "Allows Dawn to affect 3 additional casts.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-2-5",
+      "27-87-6-5",
+      "27-87-4-5"
+     ]
+    },
+    {
+     "id": "27-87-6-6a",
+     "name": "Zealous ",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_rune",
+     "spellId": 560113,
+     "description": "Reduces the cooldown of Radiance by -30 sec, but reduces its duration by -4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-6-5"
+     ]
+    },
+    {
+     "id": "27-87-6-6b",
+     "name": "Hegemony",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_paladinskill_11_border",
+     "spellId": 561204,
+     "description": "Increases the duration of Radiance by 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-87-7-6",
+     "name": "Exorcism",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_surgeoflight",
+     "spellId": 300341,
+     "description": "Sanctify now dispels 1 additional effect.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-8-5",
+      "27-87-6-5",
+      "27-87-7-4a",
+      "27-87-7-4b"
+     ]
+    },
+    {
+     "id": "27-87-1-7",
+     "name": "Unbreakable Focus",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_auramastery",
+     "spellId": 704945,
+     "description": "Reduces the cooldown of Gavels and Horusath Blast by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-2-6a",
+      "27-87-1-6",
+      "27-87-2-6b"
+     ]
+    },
+    {
+     "id": "27-87-3-7a",
+     "name": "Final Vows",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_avenginewrath",
+     "spellId": 707528,
+     "description": "Fulfilling your Vow of Grace now also reduces the cooldown of the triggered ability by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-4-6"
+     ]
+    },
+    {
+     "id": "27-87-3-7b",
+     "name": "Taking Vows",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_restoration",
+     "spellId": 300331,
+     "description": "Your Vow of Light now heals for an additional 5% of damage taken or direct healing done by you.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-87-5-7",
+     "name": "Light The Way",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_torch_thrown",
+     "spellId": 300336,
+     "description": "Healing done by Shine or Illumination now increases the targets movement speed by 20% for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-4-6"
+     ]
+    },
+    {
+     "id": "27-87-7-7",
+     "name": "Sun Shield",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_holyinfusion_border",
+     "spellId": 300348,
+     "description": "Reduces your chance to be hit by spells by -3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-6-6a",
+      "27-87-7-6",
+      "27-87-6-6b"
+     ]
+    },
+    {
+     "id": "27-87-2-8",
+     "name": "Nysoni's Blessing",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_blessedrecovery",
+     "spellId": 520639,
+     "description": "Dawn will now provide an additional effect based on your specialization.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-3-7a",
+      "27-87-1-7",
+      "27-87-3-7b"
+     ]
+    },
+    {
+     "id": "27-87-4-8",
+     "name": "Valkyrie's Watch",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_valkiergoldpet",
+     "spellId": 805816,
+     "description": "Damage that would take you below 35% health and damage taken while below 35% health is reduced by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-5-7",
+      "27-87-3-7a",
+      "27-87-3-7b"
+     ]
+    },
+    {
+     "id": "27-87-6-8",
+     "name": "Warmth",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_artifact_xp03",
+     "spellId": 704563,
+     "description": "Direct healing now increases the target's health by 300 for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-5-7",
+      "27-87-7-7"
+     ]
+    },
+    {
+     "id": "27-87-2-9",
+     "name": "New Day",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_d3waveoflight",
+     "spellId": 800600,
+     "description": "Start anew, reseting the cooldown of Paragon, Chosen of the Light, and Judgement Day.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-87-4-8",
+      "27-87-2-8"
+     ]
+    },
+    {
+     "id": "27-87-4-9",
+     "name": "Twilight",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_sundarkening_border",
+     "spellId": 704579,
+     "description": "Applying Vow of the Eclipse now blinds enemies struck, increasing their chance to miss their next attack by -10% for 6 seconds, stacking 5 times. Does not work on bosses.In addition, increases the effectiveness of the Fulfillment effect of Vow of the Eclipse by 100%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-87-4-8"
+     ]
+    },
+    {
+     "id": "27-87-6-9",
+     "name": "Circle of Valor",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_circlet_firelands_d_01",
+     "spellId": 520647,
+     "description": "Place a 10 yd holy circle at target location for 15 seconds. Allies that stand inside of it will divert 30% of all damage taken to the caster, and will be healed for 50 + 42.5% SP + 12.5% AP every 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-87-4-8",
+      "27-87-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 70,
+   "name": "Piety",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "27-70-4-0",
+     "name": "Dawnsear",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_fire_solar_border",
+     "spellId": 500146,
+     "description": "Blast an enemy with burning light, dealing 88 + 100% fire SP Fire damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "27-70-10-0",
+     "name": "Sunrise and Sunset",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "custom_t_nhance_rpg_icons_holymeditation_border",
+     "spellId": 92135,
+     "description": "Level 10 PassiveAfter activating Dawn, casting a Holy spell grants Sunrise or casting a Fire spell grants Sunset.Entering Sunrise or Sunset prevents you from entering the other until you enter the next.SunriseIncreases all Holy Damage dealt by 20% for 2 minutes.SunsetIncreases your critical strike chance with Fire spells by 20% and Fire Damage by 10% for 2 minutes.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-70-4-1",
+     "name": "Radiant Flame",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_holysparks_border",
+     "spellId": 806060,
+     "description": "Launch radiant spheres at an enemy each dealing 31 + 20.69% SP Holyflame Damage, repeating every 1 sec for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-70-4-0"
+     ]
+    },
+    {
+     "id": "27-70-2-2",
+     "name": "Scorch Marks",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "inv_shield_1h_artifactstormfist_d_03",
+     "spellId": 806021,
+     "description": "Casting Dawnsear and Sunflare now have a 40% chance to grant Scorch Marks for 10 seconds.Scorch MarksYour next Radiant Flame has no mana cost, ticks -50% faster, and its duration is reduced by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-4-1"
+     ]
+    },
+    {
+     "id": "27-70-6-2",
+     "name": "Solar Conduit",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "custom_t_fireinourhands_border",
+     "spellId": 300321,
+     "description": "Reduces the cast time of Dawnsear by -20% while Dawn is active.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-4-1"
+     ]
+    },
+    {
+     "id": "27-70-10-2",
+     "name": "Fire from the Heavens",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "inv_circlet_firelands_d_01",
+     "spellId": 300369,
+     "description": "Level 20 PassiveDamage dealt by Radiant Flame now has a 10% chance to launch a Solar Flare at your target.Solar Flare (Damage)Deals 137 + 26% SP Holyflame Damage and reduces the target's chance to hit by -3% for 10 seconds.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "27-70-10-0"
+     ]
+    },
+    {
+     "id": "27-70-1-3",
+     "name": "Burning Cascade",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_firehands_border",
+     "spellId": 560859,
+     "description": "Reduces the cast time and mana cost of Dawnsear and Sunflare by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-2-2"
+     ]
+    },
+    {
+     "id": "27-70-4-3",
+     "name": "Rapture",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "ability_racial_orbitalstrike",
+     "spellId": 806477,
+     "description": "Call down a streak of sun light to smite your target, dealing 111 + 200% fire SP Fire damage to them and nearby enemies, piercing all immunities, but dealing less damage with each enemy struck.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-70-6-2",
+      "27-70-2-2"
+     ]
+    },
+    {
+     "id": "27-70-7-3",
+     "name": "Photosynthetic",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "70_inscription_vantus_rune_light",
+     "spellId": 300363,
+     "description": "Increases your spell haste by 3%, plus an additional 1% during the day.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-6-2"
+     ]
+    },
+    {
+     "id": "27-70-0-4",
+     "name": "Purgation",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "inv_misc_firedancer_01",
+     "spellId": 806024,
+     "description": "Dealing damage with Radiant Flame now increases the target's Holy and Fire damage taken from you by 1% for 8 seconds, stacking 8 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-1-3"
+     ]
+    },
+    {
+     "id": "27-70-2-4",
+     "name": "Solar Champion",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "epic_rpg_icon_pack_fire_0004s_0000_armor_border",
+     "spellId": 504734,
+     "description": "Increases the range of your Piety spells by 20% and reduces the threat generated by them by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-4-3",
+      "27-70-1-3"
+     ]
+    },
+    {
+     "id": "27-70-4-4",
+     "name": "Solar Concord",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "5_priestskill01_border",
+     "spellId": 301266,
+     "description": "Resets the cooldown of Horusath Blast while in Sunrise and Rapture while in Sunset and causes their damage dealt to launch a Solar Flare. Lasts 15 seconds.Solar Flare (Damage)Deals 137 + 26% SP Holyflame Damage and reduces the target's chance to hit by -3% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-70-4-3"
+     ]
+    },
+    {
+     "id": "27-70-6-4",
+     "name": "Wrath of God",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_fireinyourhand_border",
+     "spellId": 301267,
+     "description": "Increases the critical strike chance of Sunflare and Dawnsear by 3% and reduces spell pushback suffered from damaging attacks by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-7-3",
+      "27-70-4-3"
+     ]
+    },
+    {
+     "id": "27-70-8-4",
+     "name": "Sun's Hope",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "spell_holy_searinglight",
+     "spellId": 560276,
+     "description": "Damage dealt by Solar Flares now grants you 1 Solar Power and increase the targets chance to be critically struck by spells by 3% for 8 seconds.Solar Flare (Damage)Deals 137 + 26% SP Holyflame Damage and reduces the target's chance to hit by -3% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-7-3"
+     ]
+    },
+    {
+     "id": "27-70-10-4",
+     "name": "Struck by the Sun",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "spell_paladin_lightofdawn",
+     "spellId": 300723,
+     "description": "Level 30 PassiveIncreases your Holy and Fire spell damage by 30% and your spell hit rating by 6% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "27-70-10-2"
+     ]
+    },
+    {
+     "id": "27-70-1-5",
+     "name": "Sun Gate",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "ability_paladin_blindinglight2",
+     "spellId": 802161,
+     "description": "Shift 25 yds forward at light speed, removing all root effects.This leaves behind a Sun Gate for 15 seconds that allies can interact with to blink themselves the same distance forward. Allies can only use Sun Gate every 90 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-70-0-4",
+      "27-70-2-4"
+     ]
+    },
+    {
+     "id": "27-70-3-5a",
+     "name": "City of Light",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "ability_paladin_righteousvengeance",
+     "spellId": 301239,
+     "description": "Damage dealt by Radiant Flame now restores 3% of your missing health and mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-4-4"
+     ]
+    },
+    {
+     "id": "27-70-3-5b",
+     "name": "Radiant Fury",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "spell_holy_searinglightpriest",
+     "spellId": 300325,
+     "description": "Damage dealt by Radiant Flame is now increased by 10% on enemies below 35% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-70-5-5a",
+     "name": "Lights of Absolution",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_holywhirlpool_border",
+     "spellId": 807343,
+     "description": "Damage dealt by Horusath Blast now grants you Light of Absolution for 10 seconds.Lights of AbsolutionDamage dealt by Solar Flares now restores 2% missing health, Energy, Focus, Runic Power, and Rage to allies within 40 yds. Can only occur once every 0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-4-4"
+     ]
+    },
+    {
+     "id": "27-70-5-5b",
+     "name": "Flames of Absolution",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_holyrod_border",
+     "spellId": 804632,
+     "description": "Damage dealt by Horusath Blast now launches a Solar Flare at up to 5 enemies within 5 yds of your target.Solar Flare (Damage)Deals 137 + 26% SP Holyflame Damage and reduces the target's chance to hit by -3% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-70-7-5",
+     "name": "Sunwell",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_holy_tornado_border",
+     "spellId": 560123,
+     "description": "Become an embodiment of the sun for 30 seconds that periodically dispels fear, sleep, and charm effects every 3 sec from allies within 40 yds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-70-6-4",
+      "27-70-8-4"
+     ]
+    },
+    {
+     "id": "27-70-1-6",
+     "name": "Holy Fervor",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_holy_beam_border",
+     "spellId": 300323,
+     "description": "Increases the effectiveness of Sunrise and Sunset by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-3-5a",
+      "27-70-1-5",
+      "27-70-3-5b"
+     ]
+    },
+    {
+     "id": "27-70-4-6",
+     "name": "Flames of the Father",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "ability_mage_flamecannon",
+     "spellId": 806458,
+     "description": "Your Fire damage dealt is increased by 10% against Burning targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-3-5a",
+      "27-70-5-5a",
+      "27-70-3-5b",
+      "27-70-5-5b"
+     ]
+    },
+    {
+     "id": "27-70-7-6",
+     "name": "Grace",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "5_paladinskill18_border",
+     "spellId": 504070,
+     "description": "Increases the spell damage bonus of Dawnsear by 20% and Sunflare by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-5-5a",
+      "27-70-7-5",
+      "27-70-5-5b"
+     ]
+    },
+    {
+     "id": "27-70-10-6",
+     "name": "Pious",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_holywhirlpool_border",
+     "spellId": 300943,
+     "description": "Level 40 PassiveIncreases your critical damage dealt by 150% and your critical strikes grant allies Replenishment.ReplenishmentRestores 1% maximum mana every 5 sec to allies within 100 yds for 15 seconds.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "27-70-10-2"
+     ]
+    },
+    {
+     "id": "27-70-0-7",
+     "name": "A Pious Life",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "5_priestskill26_border",
+     "spellId": 570027,
+     "description": "Increases the damage of Horusath Blast and Rapture by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-1-6"
+     ]
+    },
+    {
+     "id": "27-70-1-7",
+     "name": "Harsh Lessons",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "_maievblade_light",
+     "spellId": 804625,
+     "description": "Casting Dawn now grants Scorch Marks.Scorch MarksYour next Radiant Flame has no mana cost, ticks -50% faster, and its duration is reduced by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-1-6"
+     ]
+    },
+    {
+     "id": "27-70-3-7",
+     "name": "Sunburn",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "spell_burningsoul",
+     "spellId": 300365,
+     "description": "Reduces the cast time of Rapture by -0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-4-6"
+     ]
+    },
+    {
+     "id": "27-70-4-7",
+     "name": "The Coming Dawn",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "custom_t_nhance_rpg_icons_holystrike_border",
+     "spellId": 560861,
+     "description": "While Dawn is active, damage dealt by Radiant Flame now reduces the cooldown of Dawnfall and Solar Concord by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-4-6"
+     ]
+    },
+    {
+     "id": "27-70-5-7",
+     "name": "Adjudication",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "_soulfire_light",
+     "spellId": 804630,
+     "description": "Casting Rapture now causes your next Dawnsear within 10 seconds to strike your target twice and launch a Solar Flare at the target.Solar Flare (Damage)Deals 137 + 26% SP Holyflame Damage and reduces the target's chance to hit by -3% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-4-6"
+     ]
+    },
+    {
+     "id": "27-70-7-7",
+     "name": "Learning Light",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_bookthrow_border",
+     "spellId": 300360,
+     "description": "Entering Sunset or Sunrise increases your spell haste by 20%. Lasts for 10 seconds or 3 casts.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-7-6"
+     ]
+    },
+    {
+     "id": "27-70-8-7",
+     "name": "Soul of Light",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "spell_holy_blessingofprotection",
+     "spellId": 807964,
+     "description": "Reduces the cooldown of An'she's Blessing by -60 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-7-6"
+     ]
+    },
+    {
+     "id": "27-70-2-8",
+     "name": "Spears of Glory",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_fireball_border",
+     "spellId": 804629,
+     "description": "Damage dealt by Radiant Flame now has an 15% chance to grant you Spears of Glory.Spears of GloryYour next Dawnsear within 10 seconds is instant cast and deals 25% increased damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-3-7",
+      "27-70-1-7"
+     ]
+    },
+    {
+     "id": "27-70-4-8",
+     "name": "Burn The Heretics",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "spell_holy_excorcism_02",
+     "spellId": 560857,
+     "description": "Increases your damage and healing by 10% against targets below 35% health.Additionally, when Scorch Marks are consumed you now gain 10% increased Magic damage for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-4-7",
+      "27-70-3-7",
+      "27-70-5-7"
+     ]
+    },
+    {
+     "id": "27-70-6-8",
+     "name": "Moment of Triumph",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "spell_holy_divinepurpose",
+     "spellId": 300367,
+     "description": "Horusath Blast or Rapture now have a 20% chance to not incur a cooldown on cast.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-5-7",
+      "27-70-7-7"
+     ]
+    },
+    {
+     "id": "27-70-10-8",
+     "name": "Day Cycles",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_holywatch_border",
+     "spellId": 300361,
+     "description": "Level 50 PassiveWhile in Sunrise, the remaining cooldown of Horusath Blast is reduced by 10% every 1 sec.While in Sunset, the remaining cooldown of Rapture is reduced by 10% every 1 sec.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "27-70-10-6"
+     ]
+    },
+    {
+     "id": "27-70-1-9",
+     "name": "Burning Heat",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "spell_holy_devineaegis",
+     "spellId": 704908,
+     "description": "Casting Sunflare now has a 30% chance to transform your next Sunflare into Sun Ray.Casting Horusath Blast is now guaranteed to transform your next Sunflare into Sun Ray.Sun RayShine the light of the sun on an enemy, dealing 773 + 100% holy SP Holy Damage and granting you Scorch Marks.Scorch MarksYour next Radiant Flame has no mana cost, ticks -50% faster, and its duration is reduced by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-0-7",
+      "27-70-2-8"
+     ]
+    },
+    {
+     "id": "27-70-4-9",
+     "name": "Sun Down",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "uico_fire_spell_07_border",
+     "spellId": 572752,
+     "description": "Bring the wrath of the sun down upon an enemy after 2 seconds, dealing 1180 + 130% SP Holyflame Damage and scorching the earth beneath them for 9 seconds. While inside, enemies are struck by a Solar Flare every 3 sec and take 15% increased damage from Rapture and Horusath Blast.Solar Flare (Damage)Deals 137 + 26% SP Holyflame Damage and reduces the target's chance to hit by -3% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-70-4-8",
+      "27-70-2-8",
+      "27-70-6-8"
+     ]
+    },
+    {
+     "id": "27-70-7-9",
+     "name": "Duality of Light",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 70,
+     "icon": "nhi_holy_hand_border",
+     "spellId": 806116,
+     "description": "While in Sunset, your Holy damage dealt grants Twin Flame.Twin Flames (Fire)Your next Rapture within 15 seconds strikes again for 8% of the damage dealt, stacking 10 times.While in Sunrise, your Fire damage dealt grants Sun PowerSun Power (Holy)Your next Horusath Blast within 15 seconds strikes again for 8% of the damage dealt, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-70-6-8",
+      "27-70-8-7"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 71,
+   "name": "Blessings",
+   "nodeCount": 41,
+   "nodes": [
+    {
+     "id": "27-71-4-0",
+     "name": "Bless",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_priest_ascendance",
+     "spellId": 804247,
+     "description": "Bless an ally, restoring 5% of their maximum health every 10 sec for 5 minutes.Can only affect 1 ally at a time.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "27-71-10-0",
+     "name": "Sunlight",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "item_holyspark",
+     "spellId": 92136,
+     "description": "Level 10 PassiveFulfilling your Vow now unleashes Sunlight restoring 25 + 15% healing health to up to 5 allies within 40 yds, prioritizing the lowest health allies.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-71-2-1",
+     "name": "An'she's Guidance",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_summonlightwell",
+     "spellId": 681064,
+     "description": "Increases your Holy critical strike chance by 2% and reduces spell pushback suffered from damaging attacks by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-4-0"
+     ]
+    },
+    {
+     "id": "27-71-6-1",
+     "name": "Angelic",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell-ap-orange",
+     "spellId": 704582,
+     "description": "Reduces the cast time of Illumination by 0.25 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-4-0"
+     ]
+    },
+    {
+     "id": "27-71-1-2",
+     "name": "Sanctified",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_divineintervention",
+     "spellId": 300344,
+     "description": "Healing a target affected by Bless refunds 25% of the mana cost of the spell.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-2-1"
+     ]
+    },
+    {
+     "id": "27-71-4-2",
+     "name": "Blessing of Absolution",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_paladin_lightofdawn",
+     "spellId": 804249,
+     "description": "Empower a Blessed ally to unleash a burst of holy energy in front of them, dealing 32 + 150% healing Holy damage enemies in a 10 yd frontal cone and generating additional threat.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-71-6-1",
+      "27-71-2-1"
+     ]
+    },
+    {
+     "id": "27-71-7-2",
+     "name": "Faith",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "inv_helm_plate_raidpaladinmythic_q_01",
+     "spellId": 707077,
+     "description": "Direct healing done now increases the target's Armor by 10% for 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-6-1"
+     ]
+    },
+    {
+     "id": "27-71-10-2",
+     "name": "Sun Worship",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_paladin_gaurdedbythelight",
+     "spellId": 704910,
+     "description": "Level 20 PassiveIncreases your healing power by 15% of your Intellect and your spell haste rating by 25% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "27-71-10-0"
+     ]
+    },
+    {
+     "id": "27-71-2-3",
+     "name": "Daybreak",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_paladin_lightoftheprotector",
+     "spellId": 500147,
+     "description": "Make a prayer, healing an ally for 155 + 59.5% healing.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-71-1-2",
+      "27-71-4-2"
+     ]
+    },
+    {
+     "id": "27-71-6-3",
+     "name": "Divine Vision",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_powerinfusion",
+     "spellId": 706735,
+     "description": "Increases your Holy damage and healing done by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-4-2",
+      "27-71-7-2"
+     ]
+    },
+    {
+     "id": "27-71-1-4",
+     "name": "Hot Spot",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "nhi_holy_hand_border",
+     "spellId": 301256,
+     "description": "Casting Daybreak now causes your next 2 Shines within 10 seconds to have a -25% reduced cast time.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-2-3"
+     ]
+    },
+    {
+     "id": "27-71-2-4",
+     "name": "Gleaming Light",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "inv_jewelry_necklace_75",
+     "spellId": 704568,
+     "description": "Increases healing of Illumination and Daybreak by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-2-3"
+     ]
+    },
+    {
+     "id": "27-71-4-4",
+     "name": "Blessing of Purity",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_priest_angelicbulwark",
+     "spellId": 804253,
+     "description": "Protect a Blessed ally, making them immune to all damage for 4 seconds but reducing their damage and healing done by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-71-6-3",
+      "27-71-2-3"
+     ]
+    },
+    {
+     "id": "27-71-6-4",
+     "name": "Savior",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_fanaticism",
+     "spellId": 300343,
+     "description": "Increases your healing on targets below 20% health by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-6-3"
+     ]
+    },
+    {
+     "id": "27-71-7-4",
+     "name": "Hope",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_prayerofmendingtga",
+     "spellId": 300349,
+     "description": "Your critical heals now reduce the cooldown of Solar Invocation spells by -1 sec.Can occur only once per sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-6-3"
+     ]
+    },
+    {
+     "id": "27-71-10-4",
+     "name": "Holy Form",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_auramastery",
+     "spellId": 805301,
+     "description": "Ascend into a holy form, increasing your healing done by 10%, increasing your Holy critical strike chance by 5%, and reducing your threat generated by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 30,
+     "dependencies": [
+      "27-71-10-2"
+     ]
+    },
+    {
+     "id": "27-71-2-5",
+     "name": "Ancient Rites",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_essence_reapingflames",
+     "spellId": 300351,
+     "description": "Increases your Intellect by 2% and causes you to regenerate mana equal to 1% of your maximum mana every 20 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-4-4",
+      "27-71-1-4",
+      "27-71-2-4"
+     ]
+    },
+    {
+     "id": "27-71-4-5a",
+     "name": "Lightward",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_priest_soulwarding",
+     "spellId": 800233,
+     "description": "Increases the duration of Blessing of Purity by 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-4-4"
+     ]
+    },
+    {
+     "id": "27-71-4-5b",
+     "name": "Pure Heart",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_renew",
+     "spellId": 582832,
+     "description": "Removes the damage penalty provided by Blessing of Purity.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-71-6-5",
+     "name": "Stalwart",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "inv_qirajidol_sun",
+     "spellId": 300355,
+     "description": "Melee critical strikes against you prevent you from being critically struck again for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-4-4",
+      "27-71-7-4",
+      "27-71-6-4"
+     ]
+    },
+    {
+     "id": "27-71-0-6a",
+     "name": "Everglow",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "inv_artifact_xp04",
+     "spellId": 704565,
+     "description": "Your Radiant Cascade now bounces to 2 additional allies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-1-4"
+     ]
+    },
+    {
+     "id": "27-71-0-6b",
+     "name": "Sun Strength",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_holyprotection",
+     "spellId": 707517,
+     "description": "Radiant Cascade is now guaranteed to critically strike on allies affected by Bless.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-71-2-6",
+     "name": "Heat Wave",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_holybolt",
+     "spellId": 534267,
+     "description": "Healing with Illumination and Shine now additionally heals the target's nearby allies for 10% of the value.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-2-5"
+     ]
+    },
+    {
+     "id": "27-71-4-6",
+     "name": "Blessing of Retribution",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_priest_reflectiveshield",
+     "spellId": 804254,
+     "description": "Guard a Blessed ally, deflecting the next harmful spell cast on them within 1 minute.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-71-6-5",
+      "27-71-4-5a",
+      "27-71-2-5",
+      "27-71-4-5b"
+     ]
+    },
+    {
+     "id": "27-71-6-6",
+     "name": "Mercy",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_paladin_selflesshealer",
+     "spellId": 504848,
+     "description": "Grant mercy to an ally, abolishing 2 disease effects, repeating every 3 sec for 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-71-6-5"
+     ]
+    },
+    {
+     "id": "27-71-8-6",
+     "name": "Glaring Rays",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_power",
+     "spellId": 804257,
+     "description": "Increases the spell haste of all party and raid members by 3% and your spell haste by an additional 3%.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-7-4"
+     ]
+    },
+    {
+     "id": "27-71-10-6",
+     "name": "Heaven’s Appraisal",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_priest_wordsofmeaning",
+     "spellId": 300353,
+     "description": "Level 40 PassiveIncreases the effectiveness of your Fulfillment effects by 25%.In addition, the Fulfillment effect granted by Vow of Dawn now triples the amount of targets struck.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "27-71-10-4"
+     ]
+    },
+    {
+     "id": "27-71-1-7",
+     "name": "Sunbeams",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_restoration",
+     "spellId": 807874,
+     "description": "Reduces the cast time of Radiant Cascade by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-0-6a",
+      "27-71-2-6",
+      "27-71-0-6b"
+     ]
+    },
+    {
+     "id": "27-71-2-7",
+     "name": "Improved Radiant Cascade",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_nature_slowingtotem",
+     "spellId": 807963,
+     "description": "Increases the healing done and reduces the mana cost of Radiant Cascade by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-2-6"
+     ]
+    },
+    {
+     "id": "27-71-4-7a",
+     "name": "Blazing Chariot",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "5_priestskill09_border",
+     "spellId": 300350,
+     "description": "Increases the healing and damage of Radiance by 125%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-4-6",
+      "27-71-2-6",
+      "27-71-6-6"
+     ]
+    },
+    {
+     "id": "27-71-4-7b",
+     "name": "Gateway to Heaven",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_greaterblessingoflight",
+     "spellId": 301301,
+     "description": "Whenever you use Dawn you now apply Radiance to yourself for 6 sec.RadianceEvery 2 sec you burst with light, healing nearby allies for 36 + 20% SP + 10% AP and damaging nearby enemies for 37 + 40% SP + 15% AP. Lasts 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-71-6-7a",
+     "name": "Harmonious Bells",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "inv_qirajidol_rebirth_holy",
+     "spellId": 704917,
+     "description": "Your Mercy now affects 4 additional allies near the primary target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-6-6"
+     ]
+    },
+    {
+     "id": "27-71-6-7b",
+     "name": "Blightbreaker",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_harmundeadaura",
+     "spellId": 707433,
+     "description": "Increases the tick rate of Mercy by -50%, but increases its mana cost by 100%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-71-7-7",
+     "name": "Touch of Light",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_holyguidance",
+     "spellId": 572885,
+     "description": "Enemies struck by Blessing of Absolution now deal -20% reduced damage for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-8-6",
+      "27-71-6-6"
+     ]
+    },
+    {
+     "id": "27-71-2-8",
+     "name": "Solar Invigoration",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "custom_element(fire)_b_01_border",
+     "spellId": 806123,
+     "description": "For 15 seconds, your allies take 20% increased healing and their direct damage dealt now causes them to cast Shine. Can only occur once every 2 sec.Shine (Rank 8)Shine holy light upon an ally, healing for 511 + 29.47% SP.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-71-2-7",
+      "27-71-1-7"
+     ]
+    },
+    {
+     "id": "27-71-4-8",
+     "name": "Lead Me Not Astray",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_holy_divineprotection",
+     "spellId": 300357,
+     "description": "Doubles the healing done by Bless.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-4-7a",
+      "27-71-4-7b"
+     ]
+    },
+    {
+     "id": "27-71-6-8",
+     "name": "Cultivate Divinity",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_priest_bindingprayers",
+     "spellId": 704920,
+     "description": "Effectively healing with Radiant Cascade has a 20% chance to increase the healing of your next Illumination by 20%. Effectively healing with Illumination has a 40% chance to increase the healing of your next Radiant Cascade by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-6-7a",
+      "27-71-7-7",
+      "27-71-6-7b"
+     ]
+    },
+    {
+     "id": "27-71-10-8",
+     "name": "The Redeemer",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "5_priestskill01_border",
+     "spellId": 300339,
+     "description": "Level 50 PassiveWhen you critically heal your target, they will be healed for 30% of the amount originally healed the next time they take damage. Lasts 15 seconds.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "27-71-10-6"
+     ]
+    },
+    {
+     "id": "27-71-2-9",
+     "name": "Solar Priest",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_priest_ascension",
+     "spellId": 300347,
+     "description": "Reduces the cooldown of Solar Invigoration by -30 sec.In addition, whenever allies effectively heal with Shine they now cast Illumination. Can only occur once every 6 sec.Illumination (Rank 11)Illuminate an ally, healing them for 1373 + 68% healing.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-2-8"
+     ]
+    },
+    {
+     "id": "27-71-4-9",
+     "name": "Blessing of Triumph",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "ability_paladin_holyavenger",
+     "spellId": 804250,
+     "description": "Redeem a Blessed ally for 20 seconds, granting 25% increased haste and 10% increased damage.If the ally falls below 35% maximum health they are healed for 10% of their direct damage dealt for the remaining duration.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-71-6-8",
+      "27-71-2-8",
+      "27-71-4-8"
+     ]
+    },
+    {
+     "id": "27-71-6-9",
+     "name": "Empowered Holy Form",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 71,
+     "icon": "spell_priest_divinestar_holy",
+     "spellId": 800602,
+     "description": "Doubles the effectiveness of your Holy Form.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-71-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 72,
+   "name": "Seraphim",
+   "nodeCount": 41,
+   "nodes": [
+    {
+     "id": "27-72-4-0",
+     "name": "Dawnbreak",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "nhi_energyshield_border",
+     "spellId": 800654,
+     "description": "Radiate holy light from your shield on enemies in front of you, dealing 23 + 25% SP + 10% AP Holyfire Damage, scaling with your block value.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "27-72-10-0",
+     "name": "Angelic Presence",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "ability_paladin_conviction",
+     "spellId": 92137,
+     "description": "Level 10 PassiveAvoiding an attack now has a 20% chance to grant you Angelic Presence.Angelic PresenceYour next Illumination within 15 seconds is instant cast and free of cost.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-72-3-1",
+     "name": "The Chosen",
+     "x": 3,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "ability_paladin_empoweredsealsrighteous",
+     "spellId": 704936,
+     "description": "Your Illumination now shields you for 30% of the amount healed.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-4-0"
+     ]
+    },
+    {
+     "id": "27-72-5-1",
+     "name": "Shining Shield",
+     "x": 5,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "5_paladinskill11_border",
+     "spellId": 704586,
+     "description": "Activating Dawn now grants Shining Shield for 8 seconds.Shining ShieldIncreases your Armor contribution from your shield by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-4-0"
+     ]
+    },
+    {
+     "id": "27-72-2-2",
+     "name": "Hammer of Kings",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "custom_t_nhance_rpg_icons_holyhammer_border",
+     "spellId": 804751,
+     "description": "Become anointed by the light, summoning a blessed hammer that encircles you dealing 43 + 12% AP + 22% holy SP Holyfire Damage to nearby enemies every 3 sec for 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-72-3-1"
+     ]
+    },
+    {
+     "id": "27-72-4-2",
+     "name": "Blessed Bulwark",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "inv_shield_57",
+     "spellId": 680663,
+     "description": "Avoiding an attack now has a 25% chance to regenerate 5% of your base mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-3-1",
+      "27-72-5-1"
+     ]
+    },
+    {
+     "id": "27-72-6-2",
+     "name": "Seraphic Bulwark",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "inv_shield_1h_raidnazmir_d_01",
+     "spellId": 560095,
+     "description": "2 Charges, 25 sec rechargeRaise your blessed shield, increasing your block value by 100%. Lasts for 5 blocks or 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-72-5-1"
+     ]
+    },
+    {
+     "id": "27-72-10-2",
+     "name": "Sun-Touched Armor",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_fire_firearmor",
+     "spellId": 561023,
+     "description": "Level 20 PassiveIncreases your Armor by 150% of your Strength and Intellect and increases your total Stamina by 15%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "27-72-10-0"
+     ]
+    },
+    {
+     "id": "27-72-1-3",
+     "name": "Hope",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "nhi_holyinfusion_border",
+     "spellId": 680637,
+     "description": "When the absorption shield from The Chosen is depleted, it explodes for 80 + 25% AP + 45% holy SP Holy damage, split between enemies within 8 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-2-2"
+     ]
+    },
+    {
+     "id": "27-72-4-3",
+     "name": "Divine Right",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "nhi_holy_punch_border",
+     "spellId": 680631,
+     "description": "Increases your chance to critically strike and to parry attacks by 2% and your spell hit chance by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-4-2",
+      "27-72-2-2",
+      "27-72-6-2"
+     ]
+    },
+    {
+     "id": "27-72-7-3",
+     "name": "Blessed One",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "ability_priest_reflectiveshield",
+     "spellId": 680670,
+     "description": "Increases your chance to block by 5% and reduces the duration of movement slowing effects by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-6-2"
+     ]
+    },
+    {
+     "id": "27-72-2-4",
+     "name": "Protector of the Flame",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "nhi_soulburn_border",
+     "spellId": 560492,
+     "description": "Avoiding an attack now also deals 648% fire SP + 3% AP Fire damage to the attacker.Can only occur once per sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-1-3"
+     ]
+    },
+    {
+     "id": "27-72-4-4",
+     "name": "Dawnguard",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "inv_artifact_xp05",
+     "spellId": 704562,
+     "description": "Fulfilling a Vow now increases your block chance by 2% for 15 seconds, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-4-3"
+     ]
+    },
+    {
+     "id": "27-72-6-4",
+     "name": "Solar Eclipse",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "inv_artifact_xp03",
+     "spellId": 704929,
+     "description": "Dawnbreak now unleashes a burst of holy energy after a 1 seconds delay, dealing 22 + 12.5% holy SP + 10% AP Holy damage to nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-7-3"
+     ]
+    },
+    {
+     "id": "27-72-10-4",
+     "name": "Holy Strength",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_blessingofprotection",
+     "spellId": 561159,
+     "description": "Level 30 PassiveIncreases your spell power by 100% of your Strength.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "27-72-10-2"
+     ]
+    },
+    {
+     "id": "27-72-0-5",
+     "name": "Grace",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_impholyconcentration",
+     "spellId": 680650,
+     "description": "Increases your chance to dodge by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-2-4"
+     ]
+    },
+    {
+     "id": "27-72-2-5a",
+     "name": "The Chosen King",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_auramastery",
+     "spellId": 707079,
+     "description": "Casting Hammer of Kings now also increases your critical strike chance by 10% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-2-4"
+     ]
+    },
+    {
+     "id": "27-72-2-5b",
+     "name": "Sun Warrior's Guidance",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "inv_helm_plate_raidpaladin_r_01mythic",
+     "spellId": 800039,
+     "description": "Increases the critical strike chance of Gavels and Dawnbreak by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-72-4-5",
+     "name": "Solar Nova",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_holyguidance",
+     "spellId": 680621,
+     "description": "Emit a powerful holy light in an 8 yd radius, dealing 93 + 50% holy SP + 5.06% AP Holy damage to all nearby enemies. Reduces the cooldown of your Solar Invocation spells by -1 sec for each target struck.This ability is guaranteed to critically strike against Undead or Demons.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-72-2-4",
+      "27-72-6-4",
+      "27-72-4-4"
+     ]
+    },
+    {
+     "id": "27-72-6-5",
+     "name": "Heat Death",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "inv_artifact_xp01",
+     "spellId": 704932,
+     "description": "Your Solar Eclipse now reduces the enemies chance to hit by -3% for 15 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-6-4"
+     ]
+    },
+    {
+     "id": "27-72-8-5",
+     "name": "Paying The Tithe",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "custom_56_holy_border",
+     "spellId": 680647,
+     "description": "Increases the critical strike chance of Dawnbreak by 10% and your Seraphic Bulwark now lasts for 2 additional blocks.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-6-4"
+     ]
+    },
+    {
+     "id": "27-72-0-6a",
+     "name": "Blessing of Kings",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_magic_greaterblessingofkings",
+     "spellId": 561327,
+     "description": "Critical strikes now reduce the cooldown of Hammer of Kings and Solar Prayer by -1.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-0-5"
+     ]
+    },
+    {
+     "id": "27-72-0-6b",
+     "name": "Sunflare Aegis",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "inv_shield_1h_bastionquest_b_01",
+     "spellId": 707629,
+     "description": "Blocking attacks now has a 30% chance to grant you Hammer of Kings for 4 sec. If Hammer of Kings is already active, you increase the duration by 4 sec.Hammer of KingsBecome anointed by the light, summoning a blessed hammer that encircles you dealing 43 + 12% AP + 22% holy SP Holyfire Damage to nearby enemies every 3 sec for 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-72-2-6",
+     "name": "Bastion of Hope",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "inv_shield_1h_artifactnorgannon_d_06",
+     "spellId": 704928,
+     "description": "Critical strikes now bless you, regenerating 41 + 15% SP mana and increasing all of your primary stats by 10% for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-0-5",
+      "27-72-2-5a",
+      "27-72-2-5b"
+     ]
+    },
+    {
+     "id": "27-72-3-6",
+     "name": "Valiance",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_championsgrace",
+     "spellId": 680643,
+     "description": "Increases your melee attack speed by 15% and your first auto attack on a target hits twice.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-4-5"
+     ]
+    },
+    {
+     "id": "27-72-5-6",
+     "name": "Gleaming Armor",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "inv_legion_faction_valarjar",
+     "spellId": 805267,
+     "description": "Reduces your spell damage taken by -5%, plus an additional -5% while above 80% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-4-5"
+     ]
+    },
+    {
+     "id": "27-72-6-6",
+     "name": "Glorious Defender",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_avengersshield",
+     "spellId": 680634,
+     "description": "Increases the effectiveness of Gavels by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-6-5",
+      "27-72-8-5"
+     ]
+    },
+    {
+     "id": "27-72-8-6",
+     "name": "Luminary Mendicant",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_sealofwrath",
+     "spellId": 547214,
+     "description": "Increases the mana restored by Vow of Grace by 100%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-8-5"
+     ]
+    },
+    {
+     "id": "27-72-10-6",
+     "name": "Solar Discernment",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "5_paladinskill13_border",
+     "spellId": 807654,
+     "description": "Level 40 PassiveIncreases your critical strike rating and expertise rating by 12% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "27-72-10-4"
+     ]
+    },
+    {
+     "id": "27-72-0-7",
+     "name": "Dawn's Arrival",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_restoration",
+     "spellId": 503690,
+     "description": "Casting Dawnbreak now has a 40% chance to reset the cooldown of Gavels and causes the next one to not incur a cooldown.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-2-6",
+      "27-72-0-6a",
+      "27-72-0-6b"
+     ]
+    },
+    {
+     "id": "27-72-2-7",
+     "name": "Stand Against Darkness",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_devineaegis",
+     "spellId": 707078,
+     "description": "During the day you now deal -10% more Holy damage and take -10% reduced periodic damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-2-6"
+     ]
+    },
+    {
+     "id": "27-72-4-7",
+     "name": "Calm",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_priest_burningwill",
+     "spellId": 804057,
+     "description": "Calm an enemy, disarming their melee and ranged weapons for 6 seconds.If your target is an Undead or Demon, they are also unable to attack or move for 6 seconds. Enemies that are immune to silence effects cannot be affected by this.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-72-5-6",
+      "27-72-3-6"
+     ]
+    },
+    {
+     "id": "27-72-6-7",
+     "name": "Judgement",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_excorcism",
+     "spellId": 680645,
+     "description": "Increases the critical damage of Gavels by 15% and they are now guaranteed to critically strike against Undead enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-6-6"
+     ]
+    },
+    {
+     "id": "27-72-8-7",
+     "name": "Sun Disc",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "inv_shield_1h_hyrja_d_01",
+     "spellId": 560547,
+     "description": "You now emit an aura that causes all nearby allies to receive 6% increased healing. Does not stack with similar effects.In addition, the healing done by Illumination is increased by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-6-6",
+      "27-72-8-6"
+     ]
+    },
+    {
+     "id": "27-72-2-8",
+     "name": "Justicar's Wrath",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "novart_weapon_(28)_border",
+     "spellId": 806980,
+     "description": "Bring holy wrath down upon an enemy, dealing 508 + 55% SP + 25% AP High Threat Holy damage and increasing the target's spell damage taken by 10% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-72-2-7",
+      "27-72-0-7"
+     ]
+    },
+    {
+     "id": "27-72-4-8",
+     "name": "Together In Conquest",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_crusade",
+     "spellId": 681253,
+     "description": "Your Solar Invocation spells now causes your Illumination to heal an additional nearby ally at 70% effectiveness for 10 seconds.In addition, Illumination now reduces the cooldown of Solar Invocation spells by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-4-7",
+      "27-72-2-7",
+      "27-72-6-7"
+     ]
+    },
+    {
+     "id": "27-72-6-8",
+     "name": "Sacred Vessel",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "5_holywater_border",
+     "spellId": 680648,
+     "description": "Expending Angelic Presence increases your critical strike chance and healing by 1% for 20 seconds, stacking up to 10 times.Additional applications do not refresh the duration.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-6-7",
+      "27-72-8-7"
+     ]
+    },
+    {
+     "id": "27-72-10-8",
+     "name": "Clarity of the Heavens",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "spell_holy_ardentdefender",
+     "spellId": 704935,
+     "description": "Level 50 PassiveIncreases your block value by 50% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "27-72-10-6"
+     ]
+    },
+    {
+     "id": "27-72-2-9",
+     "name": "Adjudicator",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "inv_helm_plate_raidpaladindragon_d_01",
+     "spellId": 704903,
+     "description": "Your Justicar's Wrath now deals an additional 50% of its damage dealt to the target and enemies around them, healing you for 10% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-2-8"
+     ]
+    },
+    {
+     "id": "27-72-4-9",
+     "name": "Scroll of Hope",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "custom_t_nhance_rpg_icons_holyscroll_border",
+     "spellId": 680646,
+     "description": "Read from a scroll of hope, reducing Magic damage taken by party and raid members within 15 yds by -30% for 10 seconds.If any ally falls below 35% of their maximum health while this is active they are instantly healed once for 15% of their maximum health.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-72-4-8",
+      "27-72-6-8",
+      "27-72-2-8"
+     ]
+    },
+    {
+     "id": "27-72-6-9",
+     "name": "Sun Strider",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 72,
+     "icon": "nhi_holypeak_border",
+     "spellId": 680641,
+     "description": "Critical strikes with Gavels or Dawnbreak now increases the healing of your next Illumination within 20 seconds by 15%, stacking up to 3 times.Consuming the stacks increases your critical block chance and movement speed by 10% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-72-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 90,
+   "name": "Valkyrie",
+   "nodeCount": 42,
+   "nodes": [
+    {
+     "id": "27-90-4-0",
+     "name": "Glorious Execution",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "inv_sword_2h_armyoflight_c_01",
+     "spellId": 800626,
+     "description": "Strike with both weapons dealing Weapon Damage plus 8 Physical damage and regenerate mana equal to 5% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "27-90-10-0",
+     "name": "Valkyr's Grip",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "inv_valkiergoldpet",
+     "spellId": 707072,
+     "description": "Level 10 PassiveAllows you to dual wield and to wield a Two-Handed Mace, Sword, or Polearm in each hand and your chance to hit is increased by 6%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-90-4-1",
+     "name": "Odyn's Vanguard",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_power",
+     "spellId": 806699,
+     "description": "Melee attacks now have a 20% chance to reset the cooldown of Glorious Execution.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-4-0"
+     ]
+    },
+    {
+     "id": "27-90-2-2",
+     "name": "Sunslam",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "sunslam",
+     "spellId": 805629,
+     "description": "Slam an enemy every 1 sec with the might of the sun, dealing 28 + 15.94% AP Holy damage and stunning them for 1 seconds. Lasts 4 seconds.Only usable while Dawn is active. Usable while moving.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-90-4-1"
+     ]
+    },
+    {
+     "id": "27-90-6-2",
+     "name": "Sunsworn",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "5_paladinskill25_border",
+     "spellId": 802935,
+     "description": "Increases your Physical damage dealt by 6% and auto attacks now have a 10% chance to restore 3% of your maximum mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-4-1"
+     ]
+    },
+    {
+     "id": "27-90-10-2",
+     "name": "Valorous Champion",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_holynova",
+     "spellId": 804339,
+     "description": "Level 20 PassiveIncreases your attack power by 25% and your spell hit rating by 5% of your Strength.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "27-90-10-0"
+     ]
+    },
+    {
+     "id": "27-90-0-3",
+     "name": "Radiant Marks",
+     "x": 0,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "ability_skyreach_solar_burst",
+     "spellId": 704947,
+     "description": "Reduces the channel time of Sunslam by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-2-2"
+     ]
+    },
+    {
+     "id": "27-90-3-3",
+     "name": "Valkyr's Grip",
+     "x": 3,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_weaponmastery",
+     "spellId": 807507,
+     "description": "Increases your off-hand Weapon Damage dealt by 20% and reduces the duration of disarm effects by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-2-2"
+     ]
+    },
+    {
+     "id": "27-90-5-3",
+     "name": "Light of the Sun",
+     "x": 5,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "ability_paladin_artofwar",
+     "spellId": 704941,
+     "description": "Parrying an attack now restores 3% of your maximum health and increases your chance to parry the next attack by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-6-2"
+     ]
+    },
+    {
+     "id": "27-90-8-3",
+     "name": "Justice",
+     "x": 8,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "inv_glaive_1h_artifactaldrochi_d_02dual",
+     "spellId": 520359,
+     "description": "Spin and strike with both weapons dealing 40% Weapon Damage plus 6 + 20% fire SP to up to 5 enemies within 5 yds.Your main-hand strike will deal Fire damage and your off-hand strike will deal Physical damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-90-6-2"
+     ]
+    },
+    {
+     "id": "27-90-1-4",
+     "name": "Fervor of the Sun",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "nhi_holywhirlpool_border",
+     "spellId": 680622,
+     "description": "Fulfilling a Vow now increases the damage of your Sunslam by 10% for 1 minute, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-3-3",
+      "27-90-0-3"
+     ]
+    },
+    {
+     "id": "27-90-4-4",
+     "name": "Champion of the Sun",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "inv_ability_heraldofthesunpaladin_dawnlight",
+     "spellId": 800612,
+     "description": "Become a champion of An'she, causing your melee auto attacks to deal an additional 50% of the damage dealt as Holy damage. Lasts 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-90-3-3",
+      "27-90-5-3"
+     ]
+    },
+    {
+     "id": "27-90-7-4",
+     "name": "Fanaticism",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "ability_priest_atonement",
+     "spellId": 805628,
+     "description": "Increases the effectiveness of Gavels and Horusath Blast and reduces their mana cost by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-8-3",
+      "27-90-5-3"
+     ]
+    },
+    {
+     "id": "27-90-10-4",
+     "name": "Sun's Gift",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_greaterblessingofsalvation",
+     "spellId": 680656,
+     "description": "Level 30 PassiveYour Horusath Blast now deals additional damage scaling with your attack power and grants allies Replenishment.ReplenishmentRestores 1% maximum mana every 5 sec to allies within 100 yds for 15 seconds.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "27-90-10-2"
+     ]
+    },
+    {
+     "id": "27-90-0-5",
+     "name": "Gift of the Sun",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "ability_malkorok_blightofyshaarj_yellow",
+     "spellId": 680618,
+     "description": "Increases your critical strike chance with Holy spells and abilities by 50% on enemies above 80% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-0-3"
+     ]
+    },
+    {
+     "id": "27-90-1-5a",
+     "name": "Atone, Or Else",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_revivechampion",
+     "spellId": 680619,
+     "description": "Fervor of the Sun now stacks up to 3 additional times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-1-4"
+     ]
+    },
+    {
+     "id": "27-90-1-5b",
+     "name": "It's Always Sunny",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_healingaura",
+     "spellId": 707414,
+     "description": "Activating Dawn now reduces the cooldowns of Radiance, Valkyr's Calling, and Sunslam by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-90-3-5",
+     "name": "Impartial",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_paladin_executionsentence",
+     "spellId": 704942,
+     "description": "Increases your Strength and maximum mana by 5% and your expertise by 5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-4-4"
+     ]
+    },
+    {
+     "id": "27-90-4-5",
+     "name": "Champion's Arrival",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_innerfire",
+     "spellId": 704905,
+     "description": "Increases the duration of Champion of the Sun and Chains of Light by 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-4-4"
+     ]
+    },
+    {
+     "id": "27-90-5-5a",
+     "name": "Arbiter of Light",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "5_swordsoflight_border",
+     "spellId": 302914,
+     "description": "While Vow of Light is active, your Gavel of Light now restores an additional 100% health equal to the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-4-4"
+     ]
+    },
+    {
+     "id": "27-90-5-5b",
+     "name": "Arbiter of Grace",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_blessedresillience",
+     "spellId": 301313,
+     "description": "While Vow of Grace is active, your Glorious Execution now regenerates an additional 15% mana equal to the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-90-7-5a",
+     "name": "Judgement of the Valkyrie",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "ability_warrior_revenge",
+     "spellId": 300315,
+     "description": "Reduces the cooldown of Judgement Day by -15 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-7-4"
+     ]
+    },
+    {
+     "id": "27-90-7-5b",
+     "name": "Leap of the Valkyrie",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "priest_spell_leapoffaith_b",
+     "spellId": 301295,
+     "description": "Reduces the cooldown of Sun Stride by -4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-90-8-5",
+     "name": "Herald of Purity",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_purifyingpower",
+     "spellId": 806058,
+     "description": "Damage dealt by Justice now has an 8% chance to reset its own cooldown.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-8-3"
+     ]
+    },
+    {
+     "id": "27-90-1-6",
+     "name": "Trial of Valor",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "achievement_raid_trialofvalor",
+     "spellId": 805581,
+     "description": "Fulfilling a Vow now reduces the cooldown of Horusath Blast by -2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-0-5",
+      "27-90-1-5a",
+      "27-90-1-5b"
+     ]
+    },
+    {
+     "id": "27-90-2-6",
+     "name": "Blessed Hammer",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "nhi_hammeroflight_border",
+     "spellId": 804032,
+     "description": "Reduces the cooldown of Solar Invocation spells by -10 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-3-5",
+      "27-90-1-5a",
+      "27-90-1-5b"
+     ]
+    },
+    {
+     "id": "27-90-4-6",
+     "name": "Valkyr's Calling",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_priest_angelicbulwark",
+     "spellId": 520024,
+     "description": "Target an enemy and leap into the air, becoming immune to all physical attacks and spells for 2 seconds. At the end of the duration, you charge back down, dealing 428 + 100% AP + 22.5% SP Holy damage to all enemies within 8 yds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-90-3-5",
+      "27-90-4-5",
+      "27-90-5-5a",
+      "27-90-5-5b"
+     ]
+    },
+    {
+     "id": "27-90-6-6",
+     "name": "March of the Valkyr",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_crusade",
+     "spellId": 560534,
+     "description": "Increases the all damage dealt by party and raid members by 3%. Does not stack with similar effects.In addition, your chance to parry is increased by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-7-5a",
+      "27-90-5-5a",
+      "27-90-7-5b",
+      "27-90-5-5b"
+     ]
+    },
+    {
+     "id": "27-90-7-6",
+     "name": "Sunwalker",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "nhi_holy_blessing_border",
+     "spellId": 704934,
+     "description": "Dealing melee damage now generates a stack of Sunwalker.SunwalkerReduces the cast time and mana cost of your next Shine by -20% for 30 seconds, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-7-5a",
+      "27-90-8-5",
+      "27-90-7-5b"
+     ]
+    },
+    {
+     "id": "27-90-10-6",
+     "name": "Vow of the Valkyr",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "vow_of_valkyr",
+     "spellId": 807749,
+     "description": "Auto attacks generate 1 Solar Power and deal 10% increased damage.Fulfillment: Melee ability damage triggers an auto attack with each weapon.Only 1 Vow can be active at a time.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 40,
+     "dependencies": [
+      "27-90-10-4"
+     ]
+    },
+    {
+     "id": "27-90-2-7",
+     "name": "Blessed Magic",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "novart_weapon_(28)_border",
+     "spellId": 560111,
+     "description": "Casting Horusath Blast now resets the cooldown of Glorious Execution.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-2-6",
+      "27-90-1-6",
+      "27-90-4-6"
+     ]
+    },
+    {
+     "id": "27-90-4-7a",
+     "name": "Last Call",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_retribution",
+     "spellId": 681448,
+     "description": "Increases the duration of Valkyr's Calling by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-4-6"
+     ]
+    },
+    {
+     "id": "27-90-4-7b",
+     "name": "By The Light",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_restoration",
+     "spellId": 680620,
+     "description": "Increases the critical strike chance of Valkyr's Calling by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "27-90-6-7",
+     "name": "Vindicator",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "inv_sword_1h_artifactfelomelorn_d_01dual",
+     "spellId": 704938,
+     "description": "Your Glorious Execution now ignores -10% of the target's armor while Vow of the Valkyr is active.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-6-6",
+      "27-90-7-6",
+      "27-90-4-6"
+     ]
+    },
+    {
+     "id": "27-90-7-7",
+     "name": "Radiant Power",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_powerwordshield",
+     "spellId": 707613,
+     "description": "Each stack of Sunwalker now increases the critical strike chance of Shine by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-7-6"
+     ]
+    },
+    {
+     "id": "27-90-2-8",
+     "name": "Pendant of the Sun",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "nhi_holy_amulet_border",
+     "spellId": 680630,
+     "description": "Activate your pendant of the sun, refreshing the duration and all charges of Dawn.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-90-2-7"
+     ]
+    },
+    {
+     "id": "27-90-4-8",
+     "name": "Radiant Halberd",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "inv_weapon_halberd15",
+     "spellId": 681252,
+     "description": "Direct Physical damage dealt now reduces the cooldown of Champion of the Sun by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-4-7a",
+      "27-90-4-7b"
+     ]
+    },
+    {
+     "id": "27-90-6-8",
+     "name": "Solar Empowerment",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "inv_helm_suncrown_d_01",
+     "spellId": 707081,
+     "description": "Fulfilling your Vow now unleashes a chain of light at your target, dealing 91 + 23% holy SP + 10% AP Holy damage and then bouncing to up to 5 additional enemies, dealing reduced damage with each strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-7-7",
+      "27-90-6-7"
+     ]
+    },
+    {
+     "id": "27-90-10-8",
+     "name": "Holy Giant",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_paladin_lightshammer",
+     "spellId": 681337,
+     "description": "Level 50 PassiveDoubles the effectiveness of Vow of the Valkyr.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "27-90-10-6"
+     ]
+    },
+    {
+     "id": "27-90-2-9",
+     "name": "Light's Blessing",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "5_paladinskill06_border",
+     "spellId": 300318,
+     "description": "Casting Sunslam now reduces the cooldown of Pendant of the Sun by -10 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-2-8"
+     ]
+    },
+    {
+     "id": "27-90-4-9",
+     "name": "Knight of Dawn",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "_d3fanofknives",
+     "spellId": 805647,
+     "description": "Your Glorious Execution now has a 20% chance to strike 1 additional time.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "27-90-4-8",
+      "27-90-6-8",
+      "27-90-2-8"
+     ]
+    },
+    {
+     "id": "27-90-6-9",
+     "name": "Divine Retribution",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 90,
+     "icon": "spell_holy_vindication",
+     "spellId": 680624,
+     "description": "Accumulates 25% of your damage dealt to on the target and unleashes it after 8 seconds, damaging enemies within 10 yds as Holy damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "27-90-6-8"
+     ]
+    }
+   ]
+  }
+ ]
+}

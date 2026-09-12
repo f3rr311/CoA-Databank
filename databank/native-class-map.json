@@ -1,0 +1,96 @@
+{
+  "classes": [
+    {
+      "key": "barbarian",
+      "native_id": 1
+    },
+    {
+      "key": "witch-doctor",
+      "native_id": 2
+    },
+    {
+      "key": "felsworn",
+      "native_id": 3
+    },
+    {
+      "key": "witch-hunter",
+      "native_id": 4
+    },
+    {
+      "key": "stormbringer",
+      "native_id": 5
+    },
+    {
+      "key": "knight-of-xoroth",
+      "native_id": 6
+    },
+    {
+      "key": "guardian",
+      "native_id": 7
+    },
+    {
+      "key": "templar",
+      "native_id": 8
+    },
+    {
+      "key": "bloodmage",
+      "native_id": 9
+    },
+    {
+      "key": "ranger",
+      "native_id": 10
+    },
+    {
+      "key": "chronomancer",
+      "native_id": 11
+    },
+    {
+      "key": "necromancer",
+      "native_id": 12
+    },
+    {
+      "key": "pyromancer",
+      "native_id": 13
+    },
+    {
+      "key": "cultist",
+      "native_id": 14
+    },
+    {
+      "key": "starcaller",
+      "native_id": 15
+    },
+    {
+      "key": "sun-cleric",
+      "native_id": 16
+    },
+    {
+      "key": "tinker",
+      "native_id": 17
+    },
+    {
+      "key": "venomancer",
+      "native_id": 18
+    },
+    {
+      "key": "reaper",
+      "native_id": 19
+    },
+    {
+      "key": "primalist",
+      "native_id": 20
+    },
+    {
+      "key": "runemaster",
+      "native_id": 21
+    }
+  ],
+  "final": {
+    "max_classes": 22,
+    "necromancer": 12
+  },
+  "provisional": {
+    "necromancer": 15
+  },
+  "schema": "bytecoa-native-class-map/1"
+}

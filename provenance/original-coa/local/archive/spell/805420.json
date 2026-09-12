@@ -1,0 +1,8 @@
+{
+  "name_enus": "Way of the Monk",
+  "icon": "ability_monk_boughstrike",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Way of the Monk</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Sacred Swing</span> and <span style=\"color: #ffffff;\">Reckoning</span> now reduces casting speed by 10% for 10&nbsp;sec, stacking 2 times.</span></td></tr></table><!--?805420:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

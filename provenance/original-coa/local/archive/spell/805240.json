@@ -1,0 +1,8 @@
+{
+  "name_enus": "Tyrant's Gaze",
+  "icon": "inv_summondemonictyrant",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Tyrant's Gaze</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Energy<br /><table width=\"100%\"><tr><td>Instant cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Set your fiery gaze upon an enemy and all enemies nearby, intimidating them and causing them to combust, dealing 220+0+AP*0.35 Shadowflame Damage to them.<br /><br />Damaging an enemy in this way heals you for 146+AP*.5 and generates 1 <span style=\"color: #32cd32;\">Felfury</span>.<br /><br />Only usable on enemies below 35% health.</span></td></tr></table><!--?805240:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

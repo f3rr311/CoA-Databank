@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bloodied Blade",
+  "icon": "inv_staff_2h_artifactelune_d_05",
+  "tooltip_enus": "<table><tr><td><b>Bloodied Blade</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Melee Physical damage dealt now generates a stack of <span style=\"color: #ffffff;\">Demon's Blood</span>.</span></td></tr></table><!--?800997:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

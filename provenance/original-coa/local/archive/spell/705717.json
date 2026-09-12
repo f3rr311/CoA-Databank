@@ -1,0 +1,15 @@
+{
+  "name_enus": "Evergale",
+  "icon": "spell_frost_stun",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Evergale</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Casting <!--sp707615:0--><span style=\"color: #ffffff;\">Call Lightning</span><!--sp707615--> now refreshes a charge of <span style=\"color: #ffffff;\">Gale</span>.</span></td></tr></table><!--?705717:1:1:80-->",
+  "spells_enus": {
+    "707615": [
+      [
+        "<span style=\"color: #ffffff\">Call Lightning</span>",
+        "<span style=\"color: #FFFFFF\">Aeroblast</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Smolder",
+  "icon": "inv_misc_embers",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Smolder</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Dealing direct Fire Damage now ignites targets, <span style=\"color: #ff4500;\">Burning</span> them for an additional 14 to 16 Fire Damage over 4&nbsp;sec.</span></td></tr></table><!--?805700:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

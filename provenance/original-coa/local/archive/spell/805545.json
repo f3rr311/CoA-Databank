@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cosmic Vengeance",
+  "icon": "inv_pet_celestialdragon",
+  "tooltip_enus": "<table><tr><td><b>Cosmic Vengeance</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Enables the use of <span style=\"color: #ffffff;\">Vengeance of Elune</span> after blocking and dodging as well as parrying. Cannot occur more than once every 3 sec.</span></td></tr></table><!--?805545:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Orderly Protector",
+  "icon": "icon_dragonflygold",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Orderly Protector</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Healing done by your <span style=\"color: #FFFFFF;\">Epoch</span> now increases the healing of <span style=\"color: #ffffff;\">Fabric of Time</span> by 10% for 10&nbsp;sec, stacking 10 times.<br /><br />Each stack gives you a 2% chance when you cast <span style=\"color: #ffffff;\">Fabric of Time</span> to reset its own cooldown.</span></td></tr></table><!--?806162:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

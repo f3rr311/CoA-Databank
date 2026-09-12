@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bring Me Their Bones",
+  "icon": "inv_misc_necklace_bone04",
+  "tooltip_enus": "<table><tr><td><b>Bring Me Their Bones</b><br />8% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Mark an enemy for 15&nbsp;sec, causing damage dealt by your pet's abilities to the target to add a stack of <span style=\"color: #ffffff;\">Bring Me Their Bones</span>.<br /><br />At 5 stacks, your pet consumes this buff to deal 310+AP*0.5 damage to the target, ignoring Armor.</span></td></tr></table><!--?806552:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

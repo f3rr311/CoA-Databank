@@ -1,0 +1,8 @@
+{
+  "name_enus": "Call: Hellfire Abyssal",
+  "icon": "spell_warlock_summonabyssal",
+  "tooltip_enus": "<table><tr><td><b>Call: Hellfire Abyssal</b><br />100 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Call down a <span style=\"color: #ffffff;\">Hellfire Abyssal</span> from the sky to crash down upon the targeted 8 yd area, dealing 1500+0+SP*1+AP*1 Fire damage.<br /><br />The abyssal remains to aid you in battle for 15&nbsp;sec and emits an aura that reduces the damage taken by party and raid members within 40 yds by 5%.<br /><br />Costs 15 less Rage for each active <span style=\"color: #ffffff;\">Hellfire Imp</span>.</span></td></tr></table><!--?805074:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wildmend",
+  "icon": "nhi_nature_heal_border",
+  "tooltip_enus": "<table><tr><td><b>Wildmend</b><br />30 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Heals an ally for 34 to 41, scaling with your attack power and healing spell power.<br /><br />Any effects that impact your <span style=\"color: #ffffff;\">Ruptured Earth</span> ability also affect this spell.</span></td></tr></table><!--?805108:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Moonlit Bulwark",
+  "icon": "ability_argus_blightorb",
+  "tooltip_enus": "<table><tr><td><b>Moonlit Bulwark</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Grants you a shield for an amount equal to your maximum mana for 10&nbsp;sec. <br /><br />Usable while stunned.</span></td></tr></table><!--?805433:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

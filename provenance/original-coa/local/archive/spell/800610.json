@@ -1,0 +1,8 @@
+{
+  "name_enus": "Warrior's Light",
+  "icon": "ability_priest_flashoflight",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Warrior's Light</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage dealt by <span style=\"color: #FFFFFF;\">Sunflare</span> and <span style=\"color: #FFFFFF;\">Justice</span> by 10%.</span></td></tr></table><!--?800610:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

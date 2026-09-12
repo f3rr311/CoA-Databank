@@ -1,0 +1,287 @@
+[
+ {
+  "branch": "barbarian",
+  "by_tier": {
+   "1-quest": 1583,
+   "2-dungeon": 2032,
+   "3-heroic": 2482,
+   "4-entryraid": 3074,
+   "5-midraid": 3367,
+   "6-highraid": 4026,
+   "7-bis": 4797
+  },
+  "rel_quest": 16.0,
+  "rel_bis": 65.1,
+  "drift": 49.1
+ },
+ {
+  "branch": "reaper",
+  "by_tier": {
+   "1-quest": 1500,
+   "2-dungeon": 1926,
+   "3-heroic": 2352,
+   "4-entryraid": 2913,
+   "5-midraid": 3191,
+   "6-highraid": 3816,
+   "7-bis": 4546
+  },
+  "rel_quest": 9.9,
+  "rel_bis": 56.5,
+  "drift": 46.5
+ },
+ {
+  "branch": "knight-of-xoroth",
+  "by_tier": {
+   "1-quest": 1462,
+   "2-dungeon": 1877,
+   "3-heroic": 2293,
+   "4-entryraid": 2840,
+   "5-midraid": 3111,
+   "6-highraid": 3720,
+   "7-bis": 4432
+  },
+  "rel_quest": 7.2,
+  "rel_bis": 52.5,
+  "drift": 45.4
+ },
+ {
+  "branch": "templar",
+  "by_tier": {
+   "1-quest": 1252,
+   "2-dungeon": 1591,
+   "3-heroic": 1935,
+   "4-entryraid": 2388,
+   "5-midraid": 2613,
+   "6-highraid": 3116,
+   "7-bis": 3704
+  },
+  "rel_quest": -8.2,
+  "rel_bis": 27.5,
+  "drift": 35.7
+ },
+ {
+  "branch": "ranger",
+  "by_tier": {
+   "1-quest": 1434,
+   "2-dungeon": 1740,
+   "3-heroic": 2054,
+   "4-entryraid": 2463,
+   "5-midraid": 2675,
+   "6-highraid": 3135,
+   "7-bis": 3683
+  },
+  "rel_quest": 5.1,
+  "rel_bis": 26.7,
+  "drift": 21.6
+ },
+ {
+  "branch": "witch-hunter",
+  "by_tier": {
+   "1-quest": 1546,
+   "2-dungeon": 1792,
+   "3-heroic": 2043,
+   "4-entryraid": 2380,
+   "5-midraid": 2570,
+   "6-highraid": 2980,
+   "7-bis": 3460
+  },
+  "rel_quest": 13.3,
+  "rel_bis": 19.1,
+  "drift": 5.8
+ },
+ {
+  "branch": "primalist",
+  "by_tier": {
+   "1-quest": 1195,
+   "2-dungeon": 1483,
+   "3-heroic": 1771,
+   "4-entryraid": 2112,
+   "5-midraid": 2317,
+   "6-highraid": 2697,
+   "7-bis": 3153
+  },
+  "rel_quest": -12.4,
+  "rel_bis": 8.5,
+  "drift": 20.9
+ },
+ {
+  "branch": "runemaster",
+  "by_tier": {
+   "1-quest": 1408,
+   "2-dungeon": 1645,
+   "3-heroic": 1909,
+   "4-entryraid": 2147,
+   "5-midraid": 2365,
+   "6-highraid": 2633,
+   "7-bis": 2978
+  },
+  "rel_quest": 3.2,
+  "rel_bis": 2.5,
+  "drift": -0.7
+ },
+ {
+  "branch": "guardian",
+  "by_tier": {
+   "1-quest": 1138,
+   "2-dungeon": 1369,
+   "3-heroic": 1609,
+   "4-entryraid": 1931,
+   "5-midraid": 2110,
+   "6-highraid": 2481,
+   "7-bis": 2920
+  },
+  "rel_quest": -16.6,
+  "rel_bis": 0.5,
+  "drift": 17.1
+ },
+ {
+  "branch": "bloodmage",
+  "by_tier": {
+   "1-quest": 1364,
+   "2-dungeon": 1614,
+   "3-heroic": 1877,
+   "4-entryraid": 2107,
+   "5-midraid": 2336,
+   "6-highraid": 2584,
+   "7-bis": 2906
+  },
+  "rel_quest": 0.0,
+  "rel_bis": 0.0,
+  "drift": 0.0
+ },
+ {
+  "branch": "tinker",
+  "by_tier": {
+   "1-quest": 1178,
+   "2-dungeon": 1406,
+   "3-heroic": 1639,
+   "4-entryraid": 1942,
+   "5-midraid": 2096,
+   "6-highraid": 2432,
+   "7-bis": 2825
+  },
+  "rel_quest": -13.7,
+  "rel_bis": -2.8,
+  "drift": 10.9
+ },
+ {
+  "branch": "cultist",
+  "by_tier": {
+   "1-quest": 1302,
+   "2-dungeon": 1572,
+   "3-heroic": 1841,
+   "4-entryraid": 2044,
+   "5-midraid": 2284,
+   "6-highraid": 2512,
+   "7-bis": 2825
+  },
+  "rel_quest": -4.6,
+  "rel_bis": -2.8,
+  "drift": 1.8
+ },
+ {
+  "branch": "stormbringer",
+  "by_tier": {
+   "1-quest": 1374,
+   "2-dungeon": 1589,
+   "3-heroic": 1806,
+   "4-entryraid": 2010,
+   "5-midraid": 2253,
+   "6-highraid": 2483,
+   "7-bis": 2799
+  },
+  "rel_quest": 0.7,
+  "rel_bis": -3.7,
+  "drift": -4.4
+ },
+ {
+  "branch": "pyromancer",
+  "by_tier": {
+   "1-quest": 1353,
+   "2-dungeon": 1598,
+   "3-heroic": 1843,
+   "4-entryraid": 2022,
+   "5-midraid": 2235,
+   "6-highraid": 2437,
+   "7-bis": 2713
+  },
+  "rel_quest": -0.8,
+  "rel_bis": -6.6,
+  "drift": -5.8
+ },
+ {
+  "branch": "chronomancer",
+  "by_tier": {
+   "1-quest": 1216,
+   "2-dungeon": 1462,
+   "3-heroic": 1772,
+   "4-entryraid": 1958,
+   "5-midraid": 2179,
+   "6-highraid": 2389,
+   "7-bis": 2675
+  },
+  "rel_quest": -10.8,
+  "rel_bis": -7.9,
+  "drift": 2.9
+ },
+ {
+  "branch": "venomancer",
+  "by_tier": {
+   "1-quest": 1372,
+   "2-dungeon": 1589,
+   "3-heroic": 1805,
+   "4-entryraid": 1968,
+   "5-midraid": 2161,
+   "6-highraid": 2345,
+   "7-bis": 2595
+  },
+  "rel_quest": 0.6,
+  "rel_bis": -10.7,
+  "drift": -11.2
+ },
+ {
+  "branch": "starcaller",
+  "by_tier": {
+   "1-quest": 1495,
+   "2-dungeon": 1651,
+   "3-heroic": 1807,
+   "4-entryraid": 1934,
+   "5-midraid": 2084,
+   "6-highraid": 2227,
+   "7-bis": 2422
+  },
+  "rel_quest": 9.6,
+  "rel_bis": -16.6,
+  "drift": -26.2
+ },
+ {
+  "branch": "felsworn",
+  "by_tier": {
+   "1-quest": 1262,
+   "2-dungeon": 1421,
+   "3-heroic": 1584,
+   "4-entryraid": 1738,
+   "5-midraid": 1871,
+   "6-highraid": 2071,
+   "7-bis": 2404
+  },
+  "rel_quest": -7.5,
+  "rel_bis": -17.3,
+  "drift": -9.8
+ },
+ {
+  "branch": "necromancer",
+  "by_tier": {
+   "1-quest": 987,
+   "2-dungeon": 1162,
+   "3-heroic": 1338,
+   "4-entryraid": 1491,
+   "5-midraid": 1674,
+   "6-highraid": 1847,
+   "7-bis": 2084
+  },
+  "rel_quest": -27.6,
+  "rel_bis": -28.3,
+  "drift": -0.6
+ }
+]

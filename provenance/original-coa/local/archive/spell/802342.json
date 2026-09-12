@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hellstorm",
+  "icon": "ability_xavius_darkruination",
+  "tooltip_enus": "<table><tr><td><b>Hellstorm</b><br />40 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Create a hellstorm, dealing 75+3.2 Points Per Level+FireP*0.320357+AP*0.08 Fire damage to up to 8 nearby enemies.<br /><br />Embers then flare every 1 sec for 2&nbsp;sec, dealing 3+2.4 Points Per Level+FireP*0.025+AP*0.025 Fire damage.<br /><br />Duration is increased by 100% for each stack of <span style=\"color: #ff9933;\">Demonfire</span> consumed.</span></td></tr></table><!--?802342:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

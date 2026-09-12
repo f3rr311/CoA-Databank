@@ -1,0 +1,8 @@
+{
+  "name_enus": "Savage Frenzy",
+  "icon": "ability_hunter_bestialdiscipline",
+  "tooltip_enus": "<table><tr><td><b>Savage Frenzy</b><br />15% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Enrage you and your pet for 18&nbsp;sec, increasing damage dealt by 20%, and attack speed and movement speed by 30%.</span></td></tr></table><!--?806549:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

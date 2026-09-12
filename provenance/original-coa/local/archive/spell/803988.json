@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spectral Waltz",
+  "icon": "sha_spell_warlock_demonsoul_nightborne",
+  "tooltip_enus": "<table><tr><td><b>Spectral Waltz</b><br /><table width=\"100%\"><tr><td>Instant</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">You slip into the realm of the dead for 3&nbsp;sec, reducing damage taken by 50% but making you unable to attack or cast spells.</span></td></tr></table><!--?803988:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

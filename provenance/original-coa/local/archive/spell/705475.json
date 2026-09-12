@@ -1,0 +1,8 @@
+{
+  "name_enus": "Potion Belt",
+  "icon": "inv_belt_cloth_warfrontsforsakenmythic_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Potion Belt</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Tonics</span> by 30 sec.</span></td></tr></table><!--?705475:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

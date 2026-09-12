@@ -1,0 +1,8 @@
+{
+  "name_enus": "Raise: Gargoyle",
+  "icon": "ability_deathknight_summongargoyle",
+  "tooltip_enus": "<table><tr><td><b>Raise: Gargoyle</b><br />68% of base mana<br />3 sec cast</td></tr></table><table><tr><td><span class=\"q\">Raise a fallen <span style=\"color: #ffffff;\">Gargoyle</span> to aid you in combat, occupying 3 <span style=\"color: #ffffff;\">Life Force</span>. <br /><br /><span style=\"color: #90ee90;\">Command</span>: Shoots necrotic bile at an enemy, dealing 73+22.0 Points Per Level+SP*0.65 Plague damage, dealing 50% increased damage for each of your diseases on the target.</span></td></tr></table><!--?500329:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Jungle Fever",
+  "icon": "achievement_zone_stranglethorn_01",
+  "tooltip_enus": "<table><tr><td><b>Jungle Fever</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Allows your periodic healing effects to critically strike and benefit from spell haste.</span></td></tr></table><!--?804767:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Aerial Assault",
+  "icon": "icon_orangebird_toy",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Aerial Assault</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Removes the Focus cost of <span style=\"color: #ffffff;\">Falcon's Call</span>, allows it to strike 2 additional targets, and increases its range by 10 yds.</span></td></tr></table><!--?705068:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Starburst",
+  "icon": "ability_argus_soulburst",
+  "tooltip_enus": "<table><tr><td><b>Starburst</b><br />10% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66ccff;\">Applies 1 Scattered Star Per Hit</span><br />Smash up to 8 enemies, dealing 2+ArcP*0.3+AP*0.15+0 Arcane damage, scaling with block value and maximum mana and reducing their attack speed by 20% for 10&nbsp;sec.<br /><br />Consuming a <span style=\"color: #66ccff;\">Scattered Star</span> reduces the remaining cooldown of <span style=\"color: #ffffff;\">Starburst</span> by 2 sec.</span></td></tr></table><!--?801996:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

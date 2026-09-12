@@ -1,0 +1,8 @@
+{
+  "name_enus": "Woodland Embrace",
+  "icon": "achievement_zone_elwynnforest",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Woodland Embrace</b></td><th><b class=\"q0\">SLS</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Hunting Shot</span> now causes your next <span style=\"color: #ffffff;\">Serrated Shot</span> to explode on impact, hitting up to 6 targets.<br /><br />In addition, when your Serrated Shot deals damage, you generate 5 Focus. This effect cannot occur more than once per second.</span></td></tr></table><!--?560692:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

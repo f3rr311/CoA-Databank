@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cloudburst",
+  "icon": "inv_misc_volatileair",
+  "tooltip_enus": "<table><tr><td><b>Cloudburst</b><br />27% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>35&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Create a mighty gust of wind that knocks away all nearby enemies.</span></td></tr></table><!--?801838:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

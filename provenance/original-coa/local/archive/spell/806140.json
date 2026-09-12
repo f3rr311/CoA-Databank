@@ -1,0 +1,8 @@
+{
+  "name_enus": "Battle Bard",
+  "icon": "inv_inscription_scrollofwisdom_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Battle Bard</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage of your <span style=\"color: #ffffff;\">Ballads</span> by 15%.</span></td></tr></table><!--?806140:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

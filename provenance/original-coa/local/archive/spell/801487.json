@@ -1,0 +1,8 @@
+{
+  "name_enus": "Burning Spheres",
+  "icon": "inv_elemental_mote_fire01",
+  "tooltip_enus": "<table><tr><td><b>Burning Spheres</b><br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Summon 3 <span style=\"color: #ffffff;\">Burning Spheres</span> around yourself for up to 20 seconds.<br /><br />Using <span style=\"color: #ffffff;\">Ignite</span> on an enemy causes your spheres to lock on to them, dealing Fire Damage over time and slowing their movement speed by 25%.</span></td></tr></table><!--?801487:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Pestilence of Death",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Pestilence of Death</b><br /><table width=\"100%\"><tr><td>Instant</td><th>4&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Emanate a pestilence, increasing your critical damage by 10%. <!--sp801002:0--><!--sp801002--></span></td></tr></table><!--?801054:1:1:80-->",
+  "spells_enus": {
+    "801002": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #ffffff\">Unleash</span>: Deals 57+11.0 Points Per Level+AP*0.75 Shadowflame Damage to enemies within 10 yds and absorbs 100+5.0 Points Per Level+Str*.25+AP*.4 healing done to them for 10&nbsp;sec."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

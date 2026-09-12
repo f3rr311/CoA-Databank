@@ -1,0 +1,8 @@
+{
+  "name_enus": "Inspiring Presence",
+  "icon": "_human_07",
+  "tooltip_enus": "<table><tr><td><b>Inspiring Presence</b><br />25 Energy<br />1&nbsp;min cooldown</td></tr></table><table><tr><td><span class=\"q\">Emanate an aura around you for 15&nbsp;sec, causing allied players within 100 yds to deal AP*0.3 additional damage as Holy damage when they deal direct damage.<br /><br />Applies <span style=\"color: #FFFFFF;\">Exhaustion</span>, preventing you from benefiting from similar effects for 1&nbsp;min.</span></td></tr></table><!--?705352:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

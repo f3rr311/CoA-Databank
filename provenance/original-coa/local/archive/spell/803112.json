@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blade Twisting",
+  "icon": "ability_rogue_versatility",
+  "tooltip_enus": "<table><tr><td><b>Blade Twisting</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Gives damage dealt an 8% chance to apply <span style=\"color: #ffffff;\">Counterstruck</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_priest_void_flay.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=803111'> Sane </a> <br />\n                            <span> You cannot go insane again for the duration.</span><br /></span></td></tr></table><!--?803112:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

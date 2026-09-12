@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hexing Strike",
+  "icon": "_d3hex",
+  "tooltip_enus": "<table><tr><td><b>Hexing Strike</b><br />7% of base mana<br />Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\"><span style=\"color: #ffffff;\">Invokes Hir'eek</span><br />Deals 0+RAP*0.035+SP*0.142885 Physical damage to an enemy and afflicts them with two random Witch Doctor <span style=\"color: #ffffff;\">Hexes</span>.</span></td></tr></table><!--?801668:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

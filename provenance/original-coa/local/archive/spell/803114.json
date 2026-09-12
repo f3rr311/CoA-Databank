@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bounty Hunter",
+  "icon": "inv_polearm_2h_pandariaquest_b_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bounty Hunter</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Flank</span> and <span style=\"color: #FFFFFF;\">Rusty Shiv</span> now increases the target's damage taken from your <span style=\"color: #8fff7a;\">Advantage</span> spenders by 25% for 8&nbsp;sec.</span></td></tr></table><!--?803114:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

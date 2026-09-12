@@ -1,0 +1,8 @@
+{
+  "name_enus": "Inferno Blast",
+  "icon": "inv_offhand_1h_artifactdoomhammer_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Inferno Blast</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases your critical damage against <span style=\"color: #ff4500;\">Burning</span> targets by 20%.</span></td></tr></table><!--?805697:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

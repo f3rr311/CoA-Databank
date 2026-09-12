@@ -1,0 +1,8 @@
+{
+  "name_enus": "Horn of Perseverance",
+  "icon": "inv_misc_horn_01",
+  "tooltip_enus": "<table><tr><td><b>Horn of Perseverance</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #8fff7a;\">Generates 1 Advantage</span><br />Emanate an aura for 30&nbsp;sec that reduces the resource costs of spells by 10% for party and raid members within 100 yds.<br /><br />While active, you generate 3 Focus every 1 sec.<br /><br />All <span style=\"color: #ffffff;\">Ranger's Horn</span> spells share a cooldown.</span></td></tr></table><!--?800088:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

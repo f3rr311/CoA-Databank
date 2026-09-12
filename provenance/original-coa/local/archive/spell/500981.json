@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lich Form",
+  "icon": "achievement_boss_amnennar_the_coldbringer",
+  "tooltip_enus": "<table><tr><td><b>Lich Form</b><br />10% of base mana<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Transform into a <span style=\"color: #FFFFFF;\">Lich</span>, becoming Undead increasing your Frost damage dealt by 10%.<br /><br />While active you generate 3 Runic Power every 5 sec.<br /><br />While Undead, you are immune to fear, sleep, and charm effects.</span></td></tr></table><!--?500981:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

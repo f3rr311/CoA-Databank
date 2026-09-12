@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spellbrand",
+  "icon": "spell_frost_wizardmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spellbrand</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage caused by <span style=\"color: #FFFFFF;\">Elemental Burst</span> by 10% and allows <span style=\"color: #ffffff;\">Runic Brand</span> to affect 4 additional enemies.</span></td></tr></table><!--?560052:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

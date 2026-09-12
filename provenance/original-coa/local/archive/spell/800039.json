@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sun Warrior's Guidance",
+  "icon": "inv_helm_plate_raidpaladin_r_01mythic",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Sun Warrior's Guidance</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of <span style=\"color: #ffffff;\">Gavels</span> and <span style=\"color: #ffffff;\">Dawnbreak</span> by 5%.</span></td></tr></table><!--?800039:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

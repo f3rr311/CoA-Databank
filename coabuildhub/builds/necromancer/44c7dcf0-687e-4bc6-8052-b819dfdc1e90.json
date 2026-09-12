@@ -1,0 +1,1123 @@
+{
+ "build": {
+  "id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+  "title": "Competitive 1v1 Arena / BG Necromancer PvP Guide",
+  "description": "[overview]\nCurrently, the Animation tree offers the only truly viable spec to compete at a high level in PvP on Conquest of Azeroth. Because of the inherent risk of Necromancer becoming completely overpowered if over-tuned, the class has historically seen heavy tuning. However, with the right setup, Animation offers top-tier minion pressure, control, and explosive burst.\n\n*Abomination and Winds of Northrend are currently dead talents in this build.*\n\n**This build uses 6 Ghouls.**\n\nCurrently testing a promising BG version that is outperforming this version in BG.\n\n\n\n**For more information on how to become the most imdominatable Necromancer, you can join IMMORTAL Necro-only Guild. \n\nLvl 40+\nhttps://discord.gg/rXeQ684Ft**\n\n[talents]\nTalent selection varies slightly based on your personal preference, the current meta, and whether you are queuing 1v1 duels or multi-target Battlegrounds.\n\n**Death’s Due:** Less valuable in BGs, but theoretically useful in 1v1s to purge invulnerabilities. However, extensive testing shows it currently fails to reliably purge effects like the Venomancer’s invulnerability. It is recommended to drop this talent until further bug fixes land.\n\n**Gravebound Champion CD Reduction:** Skip this for 1v1s, as rounds end far too fast to get a second cast. It holds much more value in drawn-out BGs.\n\n**Overwhelming Force:** The superior option for baseline Mana and Runic Power generation.\n\n**Phylactery:** Promising on paper, but currently untested in top-tier play and rarely utilized effectively. May be very strong in 2v2 and 3v3. \n\n**Frost Wyrm Pathing:** Frost Wyrm burst is simply too powerful to pass up. To reach it, you are forced to path through a dead talent: Winds of Northrend (Lichfrost Slow).\n\n**Fetid Ward:** A solid defensive option, though further testing is required to confirm if it outperforms alternative defensive talents.\n\n**Depravity vs. Mindless Fury:** Depravity is currently the stronger pick, though Mindless Fury can be considered if you are heavily stacking Haste.\n\n**Tomb King vs. Bone Wrath:** Tomb King provides significantly higher impact during your primary burst combo.\n\n**Unrelenting:** Turns your Crypt Swarm into a machine gun for Runic Power generation.\n\n[rotation]\n## Buffs & Pre-Fight Setup\n\nMinions = 6 Ghouls.\n\n\n### Baseline Buff Sequence\n\nKeep these active at all times. Use a /castsequence macro to cycle through them quickly before 1v1 rounds or upon spawning in BGs:\n\nFetid Ward\n\nGreater Grim Mandate\n\nGreater Razorice\n\nGreater Chill of the Tomb\n\n### Combat Stance & Auras\n\n**Assault Stance:** Keep this active continuously for the +5% Critical Strike Chance and increased movement speed for your Ghouls.\n\n**Frozen Reliquary: **Save this for when your Mana pool is completely depleted to maximize the missing-mana scaling benefit.\n\n\n### Core Opener & Rotation\n\nPre-Fight Prep: Drop your Summoning Ritual and channel Siphon Mana on your Ghouls to secure an early resources\n\n**Summon Archers:** Always open by summoning your Skeleton Archers. They boost your Haste, deal damage from range, and build early Mana and Runic Power.\n\n**Apply Harvest Plague:** Cast Harvest Plague immediately to begin siphoning health. The DoT tick actively prevents stealth classes from resetting the fight.\n\n**Summon Heavy Minions:** Call forth your Tomb King and Plaguefather.\n\n**Execute the Burst Combo:** Once your opponent commits to the fight and enters melee range of your army or you think you can kill them, pop your macro burst (Unholy Frenzy + Gravebound Champion + Frost Wyrm + Any racial trait) while commanding all ghouls to attack.\n\n[stats]\n## Gear & Stat Hierarchy\n\n**Stamina:** Priority #1 for PvP survivability to prevent getting burst down in stun locks.\n\n**Intellect: **Primary stat for raw Spell Power, minion scaling, and Mana pool size.\n\n**Spell Hit Rating:** Mandatory up to the PvP cap (4% / ~32–36 rating at level 60) so crucial CC and burst spells do not miss.\n\nHaste / Critical Strike: Secondary stats to stack based on personal preference (Crit for burst potential, Haste for faster cast cycles).\n\nI've moved away from Crit and have focused on Haste, we can get down to 0.5 sec on a Ghoul summon. Ghouls also go berserk with the extra Haste. Feels much better than crit.\n\n[gear]\nHorde/Alliance Insignia for CC cleanse (you can buy this tricket with Honor at the PvP vendor). *This is Goated.*\n\nMain thing is to stop the perma CC from some classes you will face in 1v1.\n\nAlways buy PvP gear with honor and start stacking PvP Power to stand a chance. \n\nOnce you are level 60, you can spam BGs and the Call Board Daily for Honor and that will help you get the base PvP needed.\n\n[macros]\nMacro I use since it has 3 instant casts that don't trigger global CD and one instant cast that does at the end. \n \n(Unholy Frenzy + Gravebound Champion + Frost Wyrm + Any instant cast racial trait).\n\nCopy and paste the macro below but you will need to remove or replace Arcane Torrent if you are not a Blood Elf:\n\n#showtooltip Animate: Frost Wyrm\n/cast Arcane Torrent\n/cast Animate: Frost Wyrm\n/cast Gravebound Champion\n/cast Unholy Frenzy\n\n[tips]\n## Utility & Advanced Tactics\n\n**Defensive Tithe Window:** Pop Bone Tithe at around 50% HP. This allows you to stack the shield while maximizing incoming heals from Fetid Ward and Command Attack from Ghouls.\n\n**Gravebound Defensive Offense:** Weave Gravebound Champion into your burst phase to reduce incoming damage while adding another body to your minion army.\n\n**Whenever your attack commands give you a free cast proc:**\nCast Blight if the target still has a large health pool.\nCast Frost Lich to snare fleeing enemies and/or generate a fast burst of Runic Power.\n\n**Runic Power Dumping:** When your Runic Power caps out, spam your Command abilities.\n\n**Minion Recovery:** If your army gets wiped, immediately cast Call of the Grave and resume spamming Ghouls.\n\n### Disruption Control:\n\n**Ghoulify:** Exceptional for catching targets in BGs and interrupting spell casts while your army attacks.\n\n**Mass Grave:** Instant cast at 50+ Runic Power. Serves as a clutch, instant-cast AoE fear to turn the tide when swarmed.\n\n**The \"Entomb\" Execute Combo:** Entomb an enemy at ~20% health, then instantly follow up with Death's Due. While niche, it provides a flashy execute option.",
+  "class_id": 23,
+  "spec_id": 61,
+  "author_id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+  "talent_string": "W1siMjMtODctNC0wIiwxXSxbIjIzLTg3LTItMCIsMV0sWyIyMy04Ny02LTAiLDFdLFsiMjMtODctNS0xIiwxXSxbIjIzLTg3LTMtMSIsMl0sWyIyMy04Ny0yLTIiLDFdLFsiMjMtODctNC0yIiwyXSxbIjIzLTg3LTQtMyIsMV0sWyIyMy04Ny00LTRiIiwxXSxbIjIzLTg3LTYtMiIsMV0sWyIyMy04Ny00LTUiLDFdLFsiMjMtODctMi01IiwxXSxbIjIzLTg3LTMtNmIiLDFdLFsiMjMtODctNS02IiwxXSxbIjIzLTg3LTYtNSIsMl0sWyIyMy04Ny03LTZiIiwxXSxbIjIzLTg3LTYtNyIsMV0sWyIyMy04Ny00LTciLDFdLFsiMjMtODctMi03IiwxXSxbIjIzLTg3LTctOCIsMV0sWyIyMy04Ny03LTkiLDFdLFsiMjMtODctMi0zIiwxXSxbIjIzLTYxLTQtMCIsMV0sWyIyMy02MS0yLTEiLDFdLFsiMjMtNjEtMi0yIiwxXSxbIjIzLTYxLTQtMiIsMl0sWyIyMy02MS02LTEiLDFdLFsiMjMtNjEtNi0yIiwxXSxbIjIzLTYxLTctMyIsMV0sWyIyMy02MS02LTQiLDJdLFsiMjMtNjEtNC0zIiwxXSxbIjIzLTYxLTQtNCIsMV0sWyIyMy02MS00LTUiLDFdLFsiMjMtNjEtMy02YiIsMV0sWyIyMy02MS0xLTMiLDFdLFsiMjMtNjEtMS01IiwyXSxbIjIzLTYxLTAtNCIsMV0sWyIyMy02MS0xMC0wIiwxXSxbIjIzLTYxLTEwLTIiLDFdLFsiMjMtNjEtMTAtNCIsMV0sWyIyMy02MS0xMC02IiwxXSxbIjIzLTYxLTQtNyIsMV0sWyIyMy02MS0xMC04IiwxXSxbIjIzLTYxLTItNGEiLDFdLFsiMjMtNjEtNS02YSIsMV0sWyIyMy04Ny0xLTQiLDFdLFsiMjMtNjEtMS02YSIsMV0sWyIyMy02MS0yLTciLDFdLFsiMjMtNjEtNC04IiwxXSxbIjIzLTYxLTItOSIsMV1d",
+  "tags": [
+   "PVP",
+   "1v1",
+   "BG"
+  ],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "Current - July 20th",
+  "upvotes": 4,
+  "downvotes": 0,
+  "comment_count": 22,
+  "created_at": "2026-07-20T04:19:46.346347+00:00",
+  "updated_at": "2026-07-28T02:58:23.395+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 2229,
+  "net_score": 4,
+  "has_talents": true,
+  "guide_section_count": 7,
+  "author": {
+   "id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+   "username": "Pav",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKMd6ErtQ1hjDwoMreY0PSYdtHhryOYTeYSWVGeTX-KdphiWO97=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "7449597b-b757-43cc-bc1d-d1f5fcecdec2",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "440f5850-8866-4851-af9e-23c6f7742f7b",
+   "parent_id": null,
+   "body": "what minions u use ?? abo and full ghouls ?",
+   "upvotes": 0,
+   "created_at": "2026-07-20T08:27:17.8531+00:00",
+   "updated_at": "2026-07-20T08:27:17.8531+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "440f5850-8866-4851-af9e-23c6f7742f7b",
+    "username": "CUBAsito",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJDDXPovGmB_L6fj0GM6qjQd20U4NblN5pPXdp7fOsrhcvhOc0=s96-c"
+   }
+  },
+  {
+   "id": "ac177fea-db94-44c3-a240-795da1c6f5b8",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+   "parent_id": "7449597b-b757-43cc-bc1d-d1f5fcecdec2",
+   "body": "6 Ghouls. I'll update the build so it is more clear.",
+   "upvotes": 0,
+   "created_at": "2026-07-20T11:06:13.494525+00:00",
+   "updated_at": "2026-07-20T11:06:13.494525+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+    "username": "Pav",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKMd6ErtQ1hjDwoMreY0PSYdtHhryOYTeYSWVGeTX-KdphiWO97=s96-c"
+   }
+  },
+  {
+   "id": "d48bc290-d59f-49b7-8935-533462ba4a44",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "4bd81fbc-1486-4a72-add9-a14548a88a46",
+   "parent_id": null,
+   "body": "Will you post macros? thanks",
+   "upvotes": 0,
+   "created_at": "2026-07-20T11:59:46.327501+00:00",
+   "updated_at": "2026-07-20T11:59:46.327501+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "4bd81fbc-1486-4a72-add9-a14548a88a46",
+    "username": "dr Mira Modelska Creech",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJZXjueYEZ8ixnL4tE4igtJQJTltmbdG_9Q8UXBM79GxqDd8w=s96-c"
+   }
+  },
+  {
+   "id": "a357b869-0665-4258-a4bf-c7217baa8667",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+   "parent_id": "d48bc290-d59f-49b7-8935-533462ba4a44",
+   "body": "Updated in the macro section.",
+   "upvotes": 0,
+   "created_at": "2026-07-20T12:26:37.121714+00:00",
+   "updated_at": "2026-07-20T12:26:37.121714+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+    "username": "Pav",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKMd6ErtQ1hjDwoMreY0PSYdtHhryOYTeYSWVGeTX-KdphiWO97=s96-c"
+   }
+  },
+  {
+   "id": "2a51daaf-1e73-4918-a589-14cc73cf8cce",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "bcad0354-ea46-4b7b-b75d-9ec1596de283",
+   "parent_id": null,
+   "body": "how do you feel about using crypt fiends? Im level 29 rn and I haven been using 2 ghouls + 1 crypt fiend or 2 crypt fiends for max dmg. Idk it the command skill to use the pets abilities just does too much damage with the fiends its crazy.",
+   "upvotes": 0,
+   "created_at": "2026-07-20T12:56:59.403701+00:00",
+   "updated_at": "2026-07-20T12:56:59.403701+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "bcad0354-ea46-4b7b-b75d-9ec1596de283",
+    "username": "batavo",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "a81697e5-59b8-47a7-a912-62fd6b68ac88",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+   "parent_id": "2a51daaf-1e73-4918-a589-14cc73cf8cce",
+   "body": "This build is for lvl 60 where there are a lot more synergies with Ghouls. Crypt Fiends, while they do decent damage early on, fall off later though I am always open to new build ideas.",
+   "upvotes": 0,
+   "created_at": "2026-07-20T14:09:45.514107+00:00",
+   "updated_at": "2026-07-20T14:09:45.514107+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+    "username": "Pav",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKMd6ErtQ1hjDwoMreY0PSYdtHhryOYTeYSWVGeTX-KdphiWO97=s96-c"
+   }
+  },
+  {
+   "id": "7cd2c42f-c746-447b-ab01-4c3c89b7b7dc",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "5b42d0bb-333b-4704-9c9e-a2f8b4e0a8b2",
+   "parent_id": null,
+   "body": "what is the recommendation for DG minions?",
+   "upvotes": 0,
+   "created_at": "2026-07-21T02:24:31.900291+00:00",
+   "updated_at": "2026-07-21T02:24:31.900291+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "5b42d0bb-333b-4704-9c9e-a2f8b4e0a8b2",
+    "username": "kumeno0963",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1427774330053591092/6d25f2e10937c2cea65b32aa55e72a46.png"
+   }
+  },
+  {
+   "id": "0cff24de-0ac3-4431-ab39-72fd256e70ce",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+   "parent_id": "7cd2c42f-c746-447b-ab01-4c3c89b7b7dc",
+   "body": "DG as in dungeon? That will be a different build entirely as this is for PvP. \n\nIf you meant BG, 6 ghouls for BG too.",
+   "upvotes": 0,
+   "created_at": "2026-07-21T02:56:04.105547+00:00",
+   "updated_at": "2026-07-21T02:56:04.105547+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+    "username": "Pav",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKMd6ErtQ1hjDwoMreY0PSYdtHhryOYTeYSWVGeTX-KdphiWO97=s96-c"
+   }
+  },
+  {
+   "id": "4ff8e3fb-ba9a-4348-bede-9d9c5b91184b",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "534b95fc-7a03-43df-b099-19bb2c3e24c1",
+   "parent_id": null,
+   "body": "Thank you. That was interesting!\nI'd like to add a few useful macros.\nThe first one is for casting a spell on the target under your mouse cursor. The macro's conditions are such that it will only work if the target is alive and hostile. If you accidentally point it at a healer friend, the spell will simply hit your current target. Fear and banishment are great for this.\n#showtooltip Entomb\n/cast [@mouseover,harm,nodead][harm,nodead]Entomb\n\nThe second is for sequentially applying our spells (you can use any).\n#showtooltip \n/castsequence reset=5 Fetid Ward, Razorice, Foul Mandate, Chill of the Tomb\nAnd the third is very similar to summoning archers and the king of magic; just press it twice. Unfortunately, both spells have a global cooldown.\n#showtooltip\n/startattack\n/castsequence reset=25 Animate: Skeletal Archer, Animate: Tomb King\n/script UIErrorsFrame:Clear();\n\nThis macro has two fundamentally different versions, for summoning different pets or for summoning all the same ones, but everything is simple there - I'm sure you'll figure it out\n#showtooltip Call of the Grave\n/cast Call of the Grave\n/script UIErrorsFrame:Clear();\n/castsequence reset=5 Raise: Abomination, Raise: Crypt Fiend\nor spam the button\n#showtooltip Raise: Ghoul\n/cast Call of the Grave\n/script UIErrorsFrame:Clear();\n/cast Raise: Ghoul      \n\nand the last macro for today is for attacking pets + dismounting if you are mounted.\n#showtooltip Command: Undead\n/dismount [mounted]\n/startattack\n/petattack\n/cast Grave March\n/script UIErrorsFrame:Clear();\n/cast Command: Undead\n/script UIErrorsFrame:Clear();",
+   "upvotes": 1,
+   "created_at": "2026-07-22T08:01:25.966126+00:00",
+   "updated_at": "2026-07-24T15:06:17.95912+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "534b95fc-7a03-43df-b099-19bb2c3e24c1",
+    "username": "Дмитрий Мокиенко",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK57aZ2JK_ouWPNOjcuK1e_0Ur85gds6HGMqr7_0IDm8T6rDL_y=s96-c"
+   }
+  },
+  {
+   "id": "ef3aaadb-b3ef-4978-a036-e1bba58eff61",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "e9de5c28-4138-41b2-a2dc-ca596c98375e",
+   "parent_id": null,
+   "body": "Hi! Thanks for the guide. Wondering what's the best minions for bg from level 30 onwards?",
+   "upvotes": 0,
+   "created_at": "2026-07-22T19:39:58.152461+00:00",
+   "updated_at": "2026-07-22T19:39:58.152461+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "e9de5c28-4138-41b2-a2dc-ca596c98375e",
+    "username": "immaculate_quail_95140",
+    "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+   }
+  },
+  {
+   "id": "d2d95a66-0f05-495b-9e3a-11a593819b21",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "266973f2-0d51-4e32-baed-7101aa615a6f",
+   "parent_id": "4ff8e3fb-ba9a-4348-bede-9d9c5b91184b",
+   "body": "do you recommend any youtube videos for learning macros  i only qnow how to maqe cast sequence macros, never seen someone write the  scriptui errors thing,  also by any chance do you have or qnow where i can find ranger brigand macros",
+   "upvotes": 0,
+   "created_at": "2026-07-23T00:39:20.906308+00:00",
+   "updated_at": "2026-07-23T00:39:20.906308+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "266973f2-0d51-4e32-baed-7101aa615a6f",
+    "username": "Ja L",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIHUL2hOLuP3oPiyFnlIEGZTBaH1BiCD6q5GsUD4Ljn-9MbTdQ=s96-c"
+   }
+  },
+  {
+   "id": "257981a4-05f6-414a-808d-9815a2a50dc9",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "534b95fc-7a03-43df-b099-19bb2c3e24c1",
+   "parent_id": null,
+   "body": "Ja L\nThese macros are from the original WOW, video I don't know, I studied them myself for a long time, you can find me on Discord nickname Klafilinoff, I will help you",
+   "upvotes": 0,
+   "created_at": "2026-07-23T06:20:44.440684+00:00",
+   "updated_at": "2026-07-23T06:20:44.440684+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "534b95fc-7a03-43df-b099-19bb2c3e24c1",
+    "username": "Дмитрий Мокиенко",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK57aZ2JK_ouWPNOjcuK1e_0Ur85gds6HGMqr7_0IDm8T6rDL_y=s96-c"
+   }
+  },
+  {
+   "id": "759ed296-0ec9-499b-93f8-d4c8aaa3c260",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "534b95fc-7a03-43df-b099-19bb2c3e24c1",
+   "parent_id": "ef3aaadb-b3ef-4978-a036-e1bba58eff61",
+   "body": "As the author wrote, Ghouls aren't a very good choice before level 60 (although the mana problem with them almost completely disappears).\nAmbo and Spider Mages - essentially, you don't need anything else while leveling. If you're on the battlefield, then two Spider Mages. While leveling, Spider Mages deal an insane amount of damage (check the DPS meter report).\nA full runic energy bar (100/25 = 4) is 4 shots from two Pawn Mages + at least one free proc. Just look at how much damage that does and you'll be smiling. But the closer you get to level 60, the less useful they become.",
+   "upvotes": 1,
+   "created_at": "2026-07-23T06:30:16.974668+00:00",
+   "updated_at": "2026-07-23T22:56:24.755469+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "534b95fc-7a03-43df-b099-19bb2c3e24c1",
+    "username": "Дмитрий Мокиенко",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK57aZ2JK_ouWPNOjcuK1e_0Ur85gds6HGMqr7_0IDm8T6rDL_y=s96-c"
+   }
+  },
+  {
+   "id": "97c6a4b9-6c71-4c7e-bc97-85a21b9c4e46",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "534b95fc-7a03-43df-b099-19bb2c3e24c1",
+   "parent_id": null,
+   "body": "I'm not a native English speaker, so I'm using a translator. Therefore, some inaccuracies or misunderstandings are possible. I apologize in advance :)\nIf anyone knows a Discord where necromancers communicate, please share.",
+   "upvotes": 0,
+   "created_at": "2026-07-23T06:32:48.522968+00:00",
+   "updated_at": "2026-07-23T06:32:48.522968+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "534b95fc-7a03-43df-b099-19bb2c3e24c1",
+    "username": "Дмитрий Мокиенко",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK57aZ2JK_ouWPNOjcuK1e_0Ur85gds6HGMqr7_0IDm8T6rDL_y=s96-c"
+   }
+  },
+  {
+   "id": "306e665a-74b4-428a-a0e3-47ed31bf7c8c",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+   "parent_id": "ef3aaadb-b3ef-4978-a036-e1bba58eff61",
+   "body": "I have no experience in BG at level 30 for necro. When I tried to PvP before 60 it felt very bad so I didn't bother.",
+   "upvotes": 1,
+   "created_at": "2026-07-23T11:00:00.473163+00:00",
+   "updated_at": "2026-07-23T22:56:26.369438+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+    "username": "Pav",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKMd6ErtQ1hjDwoMreY0PSYdtHhryOYTeYSWVGeTX-KdphiWO97=s96-c"
+   }
+  },
+  {
+   "id": "38ddccc3-ae85-48ee-bda0-b4b20da5dcb6",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "dd4134b1-5c98-47dc-8bf3-40f659c7334c",
+   "parent_id": null,
+   "body": "Hi, Im leveling, what are the talents I should prioritize first, how does that build  changes for BG.\n\nGreat guide thank you",
+   "upvotes": 0,
+   "created_at": "2026-07-23T14:31:27.759583+00:00",
+   "updated_at": "2026-07-23T14:31:27.759583+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "dd4134b1-5c98-47dc-8bf3-40f659c7334c",
+    "username": "Cipriano Samano",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2kq57VRMpTGZeR4R5UfLpYZgfh-8TEwDxhtm_o5ydJvEfzA=s96-c"
+   }
+  },
+  {
+   "id": "9fb0320e-348e-4c5a-944c-d629cd0b59fc",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "e9de5c28-4138-41b2-a2dc-ca596c98375e",
+   "parent_id": "ef3aaadb-b3ef-4978-a036-e1bba58eff61",
+   "body": "Thanks all who replied! I am using spider mage at the 30-39 bracket bg, it is doing quite well in terms of damage and kills. As for Ghouls, i have more survivability but the damage is only decent and i have lesser kills.  Hopefully the spider mages don't fall off too much in the 40s and 50s brackets. I will test Ghouls in these brackets as well and feedback here later.",
+   "upvotes": 0,
+   "created_at": "2026-07-23T22:59:46.066223+00:00",
+   "updated_at": "2026-07-23T22:59:46.066223+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "e9de5c28-4138-41b2-a2dc-ca596c98375e",
+    "username": "immaculate_quail_95140",
+    "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+   }
+  },
+  {
+   "id": "43cc77a1-db9c-4d84-982a-03c3c06e14ef",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "8d1a18f5-603b-49d6-affb-acc7cb33a147",
+   "parent_id": null,
+   "body": "How does this build feel against infernal and tyrant felsworns?\nAlso don't they range out Frost Wyrm, and wait from afar for it to expire within 30s?\n\nAdditionaly how does this build fare vs Primalists, Tinkers, Pyromancers, Chronos?",
+   "upvotes": 0,
+   "created_at": "2026-07-24T21:25:21.051925+00:00",
+   "updated_at": "2026-07-24T21:25:21.051925+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "8d1a18f5-603b-49d6-affb-acc7cb33a147",
+    "username": "naijaro",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1182765299112611960/47d0fd19012f018d592ef3ec862d941d.png"
+   }
+  },
+  {
+   "id": "a12a93d6-7284-472b-9e31-425f16bfef76",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+   "parent_id": "38ddccc3-ae85-48ee-bda0-b4b20da5dcb6",
+   "body": "If you are leveling then I recommend playing the class and learning it, there is no point min-maxing, but animation feels strongest",
+   "upvotes": 0,
+   "created_at": "2026-07-25T11:40:51.46482+00:00",
+   "updated_at": "2026-07-25T11:40:51.46482+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+    "username": "Pav",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKMd6ErtQ1hjDwoMreY0PSYdtHhryOYTeYSWVGeTX-KdphiWO97=s96-c"
+   }
+  },
+  {
+   "id": "103338de-20e8-40ee-9245-50234ae452be",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+   "parent_id": "43cc77a1-db9c-4d84-982a-03c3c06e14ef",
+   "body": "Felsworn are a bad matchup for us so not very good but that might be only their meta spec. You will lose to most Felsworn past 1500 they are too strong right now. \n\nPrimalists are also a bad match up for us, tinkers are God in 1v1. \n\nPyro and Chrono are fairly easy wins.",
+   "upvotes": 0,
+   "created_at": "2026-07-25T11:44:02.605277+00:00",
+   "updated_at": "2026-07-25T11:44:02.605277+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "5ca8ad2c-63e2-4d40-9809-09c296f43d14",
+    "username": "Pav",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKMd6ErtQ1hjDwoMreY0PSYdtHhryOYTeYSWVGeTX-KdphiWO97=s96-c"
+   }
+  },
+  {
+   "id": "6a0deba8-d818-441c-a845-6b833033315a",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "e9de5c28-4138-41b2-a2dc-ca596c98375e",
+   "parent_id": "ef3aaadb-b3ef-4978-a036-e1bba58eff61",
+   "body": "Just to update, I'm blasting in 40-49 using 2 x Crypt Fiends and 1 x Rogue. I am almost always top kills and damage. Go for the haste and runic generation talents, and you will generate runic power so fast that you can keep spamming \"Command\". It's nice to see your Crypt Fiends blasting like gatling gun!",
+   "upvotes": 0,
+   "created_at": "2026-07-25T16:36:17.811211+00:00",
+   "updated_at": "2026-07-25T16:36:17.811211+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "e9de5c28-4138-41b2-a2dc-ca596c98375e",
+    "username": "immaculate_quail_95140",
+    "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+   }
+  },
+  {
+   "id": "26f1a7da-ba0e-4dd6-96d9-857f55a21a45",
+   "build_id": "44c7dcf0-687e-4bc6-8052-b819dfdc1e90",
+   "author_id": "3881d4db-4877-4423-a202-9310423f25b8",
+   "parent_id": null,
+   "body": "hey can u pls tell us what the best gear we take from pvp vendor",
+   "upvotes": 0,
+   "created_at": "2026-07-27T14:30:45.036305+00:00",
+   "updated_at": "2026-07-27T14:30:45.036305+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "3881d4db-4877-4423-a202-9310423f25b8",
+    "username": "warfearq86",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1523065510894375077/c706713af07d65a44d64e8afe4f37d09.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "863b65de-958d-4395-b494-b9aa1351fb0f",
+   "title": "The Frozen soul by \" Exagelado\" The troll Litch",
+   "class_id": 23,
+   "spec_id": 60,
+   "author_id": "4bf49e05-9ce3-4749-b996-00b550215909",
+   "tags": [
+    "Beginer",
+    "Leveling and some Tips"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 6,
+   "view_count": 899,
+   "featured": false,
+   "created_at": "2026-07-23T17:54:54.266782+00:00",
+   "updated_at": "2026-07-28T06:18:19.303+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "4bf49e05-9ce3-4749-b996-00b550215909",
+    "username": "Gabriel Furtado",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIZ0L6nJm3FNaxshkZGznqVfIzN6pn6ZHsEsvJ84ZyAcRFjQda-=s96-c"
+   }
+  },
+  {
+   "id": "8d9620a1-137b-41dc-8147-6e1a800b2682",
+   "title": "5 Ghoul Animation AoE Guide",
+   "class_id": 23,
+   "spec_id": 61,
+   "author_id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+   "tags": [
+    "AoE",
+    "Dungeons",
+    "Mythic+",
+    "Open World",
+    "Questing",
+    "Leveling"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 1,
+   "comment_count": 1,
+   "view_count": 2256,
+   "featured": false,
+   "created_at": "2026-07-22T13:02:06.678323+00:00",
+   "updated_at": "2026-07-23T05:20:38.57+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+    "username": "Miseral",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "f268b2a3-20e4-49df-bf9e-9c85ff7ae167",
+   "title": "3 Crypt Fiend Animation Single Target Guide",
+   "class_id": 23,
+   "spec_id": 61,
+   "author_id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+   "tags": [
+    "Single Target",
+    "Raid",
+    "2 Target Cleave",
+    "World Bosses",
+    "General Purpose",
+    "Guide",
+    "PvE",
+    "Dungeons",
+    "Bosses",
+    "Mythic+"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1342,
+   "featured": false,
+   "created_at": "2026-07-22T13:15:03.350058+00:00",
+   "updated_at": "2026-07-23T05:19:29.939+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+    "username": "Miseral",
+    "avatar_url": null
+   }
+  }
+ ],
+ "class": "Necromancer",
+ "spec": "Animation",
+ "allocations": [
+  [
+   "23-87-4-0",
+   1
+  ],
+  [
+   "23-87-2-0",
+   1
+  ],
+  [
+   "23-87-6-0",
+   1
+  ],
+  [
+   "23-87-5-1",
+   1
+  ],
+  [
+   "23-87-3-1",
+   2
+  ],
+  [
+   "23-87-2-2",
+   1
+  ],
+  [
+   "23-87-4-2",
+   2
+  ],
+  [
+   "23-87-4-3",
+   1
+  ],
+  [
+   "23-87-4-4b",
+   1
+  ],
+  [
+   "23-87-6-2",
+   1
+  ],
+  [
+   "23-87-4-5",
+   1
+  ],
+  [
+   "23-87-2-5",
+   1
+  ],
+  [
+   "23-87-3-6b",
+   1
+  ],
+  [
+   "23-87-5-6",
+   1
+  ],
+  [
+   "23-87-6-5",
+   2
+  ],
+  [
+   "23-87-7-6b",
+   1
+  ],
+  [
+   "23-87-6-7",
+   1
+  ],
+  [
+   "23-87-4-7",
+   1
+  ],
+  [
+   "23-87-2-7",
+   1
+  ],
+  [
+   "23-87-7-8",
+   1
+  ],
+  [
+   "23-87-7-9",
+   1
+  ],
+  [
+   "23-87-2-3",
+   1
+  ],
+  [
+   "23-61-4-0",
+   1
+  ],
+  [
+   "23-61-2-1",
+   1
+  ],
+  [
+   "23-61-2-2",
+   1
+  ],
+  [
+   "23-61-4-2",
+   2
+  ],
+  [
+   "23-61-6-1",
+   1
+  ],
+  [
+   "23-61-6-2",
+   1
+  ],
+  [
+   "23-61-7-3",
+   1
+  ],
+  [
+   "23-61-6-4",
+   2
+  ],
+  [
+   "23-61-4-3",
+   1
+  ],
+  [
+   "23-61-4-4",
+   1
+  ],
+  [
+   "23-61-4-5",
+   1
+  ],
+  [
+   "23-61-3-6b",
+   1
+  ],
+  [
+   "23-61-1-3",
+   1
+  ],
+  [
+   "23-61-1-5",
+   2
+  ],
+  [
+   "23-61-0-4",
+   1
+  ],
+  [
+   "23-61-10-0",
+   1
+  ],
+  [
+   "23-61-10-2",
+   1
+  ],
+  [
+   "23-61-10-4",
+   1
+  ],
+  [
+   "23-61-10-6",
+   1
+  ],
+  [
+   "23-61-4-7",
+   1
+  ],
+  [
+   "23-61-10-8",
+   1
+  ],
+  [
+   "23-61-2-4a",
+   1
+  ],
+  [
+   "23-61-5-6a",
+   1
+  ],
+  [
+   "23-87-1-4",
+   1
+  ],
+  [
+   "23-61-1-6a",
+   1
+  ],
+  [
+   "23-61-2-7",
+   1
+  ],
+  [
+   "23-61-4-8",
+   1
+  ],
+  [
+   "23-61-2-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "23-87-4-0",
+   "points": 1,
+   "name": "Fetid Ward",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 680388
+  },
+  {
+   "id": "23-87-2-0",
+   "points": 1,
+   "name": "Raise: Abomination",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 500335
+  },
+  {
+   "id": "23-87-6-0",
+   "points": 1,
+   "name": "Glacial Tap",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 805369
+  },
+  {
+   "id": "23-87-5-1",
+   "points": 1,
+   "name": "Lich Essence",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 802988
+  },
+  {
+   "id": "23-87-3-1",
+   "points": 2,
+   "name": "Hulking Hordes",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300748
+  },
+  {
+   "id": "23-87-2-2",
+   "points": 1,
+   "name": "Vampiric Aura",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300241
+  },
+  {
+   "id": "23-87-4-2",
+   "points": 2,
+   "name": "Living Dead",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 302888
+  },
+  {
+   "id": "23-87-4-3",
+   "points": 1,
+   "name": "Bone Tithe",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 802121
+  },
+  {
+   "id": "23-87-4-4b",
+   "points": 1,
+   "name": "Overwhelming Force",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 531128
+  },
+  {
+   "id": "23-87-6-2",
+   "points": 1,
+   "name": "Create Frozen Reliquary",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 803772
+  },
+  {
+   "id": "23-87-4-5",
+   "points": 1,
+   "name": "Mass Grave",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 803741
+  },
+  {
+   "id": "23-87-2-5",
+   "points": 1,
+   "name": "Reclaimed Life",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 707670
+  },
+  {
+   "id": "23-87-3-6b",
+   "points": 1,
+   "name": "Lich Commander",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 704713
+  },
+  {
+   "id": "23-87-5-6",
+   "points": 1,
+   "name": "Dead Man Walking",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300233
+  },
+  {
+   "id": "23-87-6-5",
+   "points": 2,
+   "name": "Disciple of Kel'thuzad",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 560615
+  },
+  {
+   "id": "23-87-7-6b",
+   "points": 1,
+   "name": "Cobalt-Plated Armor",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300945
+  },
+  {
+   "id": "23-87-6-7",
+   "points": 1,
+   "name": "Winds of Northrend",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 301333
+  },
+  {
+   "id": "23-87-4-7",
+   "points": 1,
+   "name": "Deadly Defense",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300580
+  },
+  {
+   "id": "23-87-2-7",
+   "points": 1,
+   "name": "Putrid Summoner",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 560595
+  },
+  {
+   "id": "23-87-7-8",
+   "points": 1,
+   "name": "Frost Runes",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 705750
+  },
+  {
+   "id": "23-87-7-9",
+   "points": 1,
+   "name": "Animate: Frost Wyrm",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 805428
+  },
+  {
+   "id": "23-87-2-3",
+   "points": 1,
+   "name": "Life For Power",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 705746
+  },
+  {
+   "id": "23-61-4-0",
+   "points": 1,
+   "name": "Animate: Skeletal Archer",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 805040
+  },
+  {
+   "id": "23-61-2-1",
+   "points": 1,
+   "name": "Bone King",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 707175
+  },
+  {
+   "id": "23-61-2-2",
+   "points": 1,
+   "name": "Summoning Prodigy",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 704682
+  },
+  {
+   "id": "23-61-4-2",
+   "points": 2,
+   "name": "Sepulchral Might",
+   "maxPoints": 2,
+   "tree": "Animation",
+   "spellId": 706472
+  },
+  {
+   "id": "23-61-6-1",
+   "points": 1,
+   "name": "Graverobber",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 503757
+  },
+  {
+   "id": "23-61-6-2",
+   "points": 1,
+   "name": "Forbidden Technique",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 561215
+  },
+  {
+   "id": "23-61-7-3",
+   "points": 1,
+   "name": "Runic Animation",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 707445
+  },
+  {
+   "id": "23-61-6-4",
+   "points": 2,
+   "name": "Skeletal Artillery",
+   "maxPoints": 2,
+   "tree": "Animation",
+   "spellId": 302518
+  },
+  {
+   "id": "23-61-4-3",
+   "points": 1,
+   "name": "Raise: Ghoul",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 500971
+  },
+  {
+   "id": "23-61-4-4",
+   "points": 1,
+   "name": "Ghoul Mastery",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 503740
+  },
+  {
+   "id": "23-61-4-5",
+   "points": 1,
+   "name": "Animate: Plaguefather",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 805048
+  },
+  {
+   "id": "23-61-3-6b",
+   "points": 1,
+   "name": "Unrelenting",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 704718
+  },
+  {
+   "id": "23-61-1-3",
+   "points": 1,
+   "name": "Scourge Disciple",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 531126
+  },
+  {
+   "id": "23-61-1-5",
+   "points": 2,
+   "name": "Unrelenting Army",
+   "maxPoints": 2,
+   "tree": "Animation",
+   "spellId": 705747
+  },
+  {
+   "id": "23-61-0-4",
+   "points": 1,
+   "name": "Summoner",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 706953
+  },
+  {
+   "id": "23-61-10-0",
+   "points": 1,
+   "name": "Summoning Adept",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 92123
+  },
+  {
+   "id": "23-61-10-2",
+   "points": 1,
+   "name": "Deadly Bond",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 704724
+  },
+  {
+   "id": "23-61-10-4",
+   "points": 1,
+   "name": "Summoning Expert",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 807494
+  },
+  {
+   "id": "23-61-10-6",
+   "points": 1,
+   "name": "Diabolical",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 704723
+  },
+  {
+   "id": "23-61-4-7",
+   "points": 1,
+   "name": "Corpse Wagon",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 503738
+  },
+  {
+   "id": "23-61-10-8",
+   "points": 1,
+   "name": "Grave Mastery",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 504439
+  },
+  {
+   "id": "23-61-2-4a",
+   "points": 1,
+   "name": "Animate: Tomb King",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 805044
+  },
+  {
+   "id": "23-61-5-6a",
+   "points": 1,
+   "name": "Unstoppable Frenzy",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 573426
+  },
+  {
+   "id": "23-87-1-4",
+   "points": 1,
+   "name": "Phylactery",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 500933
+  },
+  {
+   "id": "23-61-1-6a",
+   "points": 1,
+   "name": "Mindless Fury",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 805674
+  },
+  {
+   "id": "23-61-2-7",
+   "points": 1,
+   "name": "Summoning Ritual",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 805038
+  },
+  {
+   "id": "23-61-4-8",
+   "points": 1,
+   "name": "Plague Horde",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 802986
+  },
+  {
+   "id": "23-61-2-9",
+   "points": 1,
+   "name": "Master Animator",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 504431
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mind Wrath",
+  "icon": "nhi_corruptionmind_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Mind Wrath</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Ley Lock</span> now interrupts 1 additional enemy near your primary target.</span></td></tr></table><!--?800757:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

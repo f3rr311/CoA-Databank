@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bomblord",
+  "icon": "inv_misc_bomb_02",
+  "tooltip_enus": "<table><tr><td><b>Bomblord</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Makes <span style=\"color: #ffffff;\">Deploy Bomb</span> instant and reduces the cooldown of <span style=\"color: #ffffff;\">Remote Detonation</span> by 10 sec.</span></td></tr></table><!--?805320:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

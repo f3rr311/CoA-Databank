@@ -1,0 +1,8 @@
+{
+  "name_enus": "Silverhand Incantation",
+  "icon": "5_paladinskill06_border",
+  "tooltip_enus": "<table><tr><td><b>Silverhand Incantation</b><br />30 Energy<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Chant a silverhand incantation and toss a holy hammer at your target, charging you to them and removing <span style=\"color: #ffffff;\">Sacred Restraint</span> from you and them if they are an ally.<br /><br />Upon reaching your target you deal 300+<UNK: $ppl1>+AP*2 Holy damage to all nearby enemies and heal nearby allies for the same amount.</span></td></tr></table><!--?801465:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

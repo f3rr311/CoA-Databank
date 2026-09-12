@@ -1,0 +1,8 @@
+{
+  "name_enus": "Xorothian Sigil",
+  "icon": "inv_misc_ahnqirajtrinket_04",
+  "tooltip_enus": "<table><tr><td><b>Xorothian Sigil</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Create a demonic sigil that protects party members within 20 yds of you, causing them to deflect the next harmful spell cast against them within 3&nbsp;sec.</span></td></tr></table><!--?801061:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

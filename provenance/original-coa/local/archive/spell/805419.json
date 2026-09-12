@@ -1,0 +1,8 @@
+{
+  "name_enus": "Righteous Duel",
+  "icon": "ability_priest_atonement",
+  "tooltip_enus": "<table><tr><td><b>Righteous Duel</b><br /><table width=\"100%\"><tr><td>Instant</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Challenge an enemy to a Righteous Duel for 8&nbsp;sec. For the duration of the effect, you deal 40% reduced damage to the target, but the target's next 5 attacks deal reduced damage based on your Stamina.</span></td></tr></table><!--?805419:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

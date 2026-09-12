@@ -1,0 +1,15 @@
+{
+  "name_enus": "Blaze",
+  "icon": "spell_fire_lavaspawn",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blaze</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>12% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><!--sp807533:0--><span style=\"color: #ff3232;\"><!--sp807533-->Consumes 1 Ember</span><br />Burn an enemy for 21+SP*0.235 Fire Damage every 3 sec and reduce their healing received by 40% for 15&nbsp;sec. </span></td></tr></table><!--?805500:1:1:80-->",
+  "spells_enus": {
+    "807533": [
+      [
+        "|cffff3232",
+        "|cffff7f7f"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

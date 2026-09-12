@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flames of Execution",
+  "icon": "spell_fire_firebolt",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flames of Execution</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Blaze</span> is increased by 25% on enemies below 35% of their maximum health.</span></td></tr></table><!--?706238:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

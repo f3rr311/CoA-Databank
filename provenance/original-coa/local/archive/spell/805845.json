@@ -1,0 +1,8 @@
+{
+  "name_enus": "Timeline Guardian",
+  "icon": "spell_holy_rebuke",
+  "tooltip_enus": "<table><tr><td><b>Timeline Guardian</b><br />10% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empowers Order spells for 16&nbsp;sec, increasing the magnitude of their effects by 40% and generating 1 <span style=\"color: #ffffff;\">Order</span> every 2 sec.</span></td></tr></table><!--?805845:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

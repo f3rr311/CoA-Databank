@@ -1,0 +1,8 @@
+{
+  "name_enus": "Warbringer's Manuscript",
+  "icon": "inv_misc_notescript1c",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Warbringer's Manuscript</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Critical strikes now reduce the cooldown of <span style=\"color: #ffffff;\">Hero's March</span> by 1 sec.</span></td></tr></table><!--?705351:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

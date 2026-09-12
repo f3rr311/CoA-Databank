@@ -1,0 +1,8 @@
+{
+  "name_enus": "Terraglyphs",
+  "icon": "custom_t_scrollofearth_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Terraglyphs</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the chance to trigger <span style=\"color: #ffffff;\">Weapon Engraving: Earth</span> by 4%.</span></td></tr></table><!--?705551:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

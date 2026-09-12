@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rocket Boots",
+  "icon": "inv_gizmo_rocketbootextreme",
+  "tooltip_enus": "<table><tr><td><b>Rocket Boots</b><br />14% of base mana<br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">3 Charges, 30 sec recharge</span><br />Activate your <span style=\"color: #ffffff;\">Rocket Boots</span>, dispelling root effects and launching you forward.</span></td></tr></table><!--?500241:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

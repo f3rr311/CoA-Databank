@@ -1,0 +1,791 @@
+{
+ "build": {
+  "id": "42369f7d-6a9b-45a2-a284-892ee8d5e70d",
+  "title": "Moon Guard Tank",
+  "description": "[overview]\nThis is meant to be a quick and simple guide, only highlighting the most important talents and skills\n\n[talents]\nClass Tree:\n-Touch of Moonlight: at first sight this may seem the same like Moonlight Splash but it scales a lot better\n-Infused Aegis: since all Aegis share CD you will never use this, only in tree becasue it comes with the spec.\n-Aspect of the Cosmos: We use this 99% of the time, there are a few talents that buff Aspect of the stars but its not worth ever using them so Cosmos is our only option.... Huntress can be used in niche situations tho.\n-Lunar Lance/ Moonlit Lancer: we only use Lunar Lance on St situations and in those situations we tendo to use it often so we never get value from the 20s DoT.\n-Vial of Moonwell Water: Stuns can be lethal so having a way to counter them is great (hope you can react quickly.\n-Starshatter: Nice Stun in a long-ish line, keep in mind theres a bit of a delay before the stun takes effect.\n-Moonblessed Aspets: you can get up to 78% slow semi permanently, helps a lot with kiting\n-Elune´s Presence: in my experience effects like this are trash\n\nSpec Tree:\n-Starburst: Use on CD on AoE for uncapped damage and to apply Scattered Stars on AoE wich will then synergice with other stuff\n-Blanket of Stars: Our bread, we constantly switch between this and Celestial Aegis, we only spend 1-2s without one or the other.\n-Astral Reconstitution: This is terrible, we dont really use it in normal combat, only maybe right after reviving, its here for pathing\n-Shrouded Stars: 3%DR aura, if someone else has it you should tell them they can switch, we dont have use for the talent 2 points\n-Pulsar Explosion: Sounds good the problem is Celestial Cleaves deals no damage and the Scattered start it could apply is RNG thus inconsistent thus bad\n-Blade of the Moon: Helps a lot on Single target and is nice to have something that adds variety to our gameplay.\n-Coalesced Resilience: Surpricingly good, we are the kind of tank that pulls defensiveness from every single source possible so even if flat DRs tend to not be that good the fact that we are supporting it with everything else makes it a nice addition. Honestly you can take whatever from the bottom 6 talents, they are all great except for Mooncharged Blades.\n-Moon Charged Blades: Mid AF in a tier where all other talens are amazing.\n-Chosen of the moon: Big defensive + AoE taunt, what else could a tank desire?\n\n[rotation]\nI usually dont say much about rotation but Moon Guard is a particularly tricky tank, Weakauras are kinda necesary or you will die.\nWe want to pop our Celestial Aegis when starting to collect mobs, ideally you want to track it with a weakaura. When Aegis ends all mobs should be already gathered and you need to pop Blanket of Stars, by the time Blanket ends Aegis will only have 1-2s CD left, this is when you need to be most aware about your HP. use Lunar Eclipse + Touch of Moonlight to heal and/or kite (that 78% slow from Aspect of the Cosmos comes real handy here). Also try to maintain Eclipse of Fury, that´s the defensive part of out gameplay...\n\nFor Single Target you want to use Moonblade on Proc and spam Starsunder until you have 5-6 Stacks of Starshatter, then use Celestial Lance and start spamming Starsunder again. Your \"consume scattered stars\" effect works in a \"train effect\" it consumes one stack then another and another until there are no more stacks so you can keep spamming starsunder, eventually the train effect will stop but by that time you used a single Star Lance to consume some 8-12 stars. Dont Forget to weave Moonblade procs when they occur.\n\nFor AoE what we wanna do is to use Starburst -> Celestial Cleve once if there are not many mobs (3-6) -> Starsweep. This should mass pop your Scattered Stars giving you all the CD from both Starsweep and Starbrust allawing you to repeat. \nIf somehow you hit 0 Mana then use Celestial Strike to recover.\nA Problem you may have is Snap threat... we dont have it, Celestial Cleave´s damage is pitiful and the skill itself is a cone so its hard to hit mbs that are just a bit separated. You should communicate with your team and let them know you need a bit of time to get your ball roling\n\n[gear]\nIdeally we want Tank Plate armor with both Strenght, Intelligence and Stamina\nOur second option are Tank Plate armor with Strenght and Stamina\nOur Third option are Tank Plate armor with Int and Sta.",
+  "class_id": 26,
+  "spec_id": 67,
+  "author_id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+  "talent_string": "W1siMjYtODctNy0wIiwxXSxbIjI2LTg3LTMtMCIsMV0sWyIyNi04Ny0xLTAiLDFdLFsiMjYtODctNi0xIiwyXSxbIjI2LTg3LTQtMSIsMV0sWyIyNi04Ny03LTIiLDFdLFsiMjYtODctNC0yIiwxXSxbIjI2LTg3LTEtMiIsMV0sWyIyNi04Ny0yLTMiLDFdLFsiMjYtODctMi00IiwxXSxbIjI2LTg3LTItNSIsMV0sWyIyNi04Ny0yLTYiLDFdLFsiMjYtODctMC01IiwxXSxbIjI2LTg3LTQtMyIsMl0sWyIyNi04Ny00LTRhIiwxXSxbIjI2LTg3LTQtNSIsMV0sWyIyNi04Ny02LTUiLDFdLFsiMjYtODctOC0zIiwxXSxbIjI2LTg3LTYtNiIsMV0sWyIyNi04Ny00LTZiIiwxXSxbIjI2LTg3LTQtNyIsMV0sWyIyNi04Ny0xLTciLDFdLFsiMjYtODctMy04IiwxXSxbIjI2LTg3LTQtOSIsMV0sWyIyNi02Ny00LTAiLDFdLFsiMjYtNjctMy0xIiwxXSxbIjI2LTY3LTUtMSIsMV0sWyIyNi02Ny0yLTIiLDFdLFsiMjYtNjctNC0yIiwyXSxbIjI2LTY3LTYtMiIsMV0sWyIyNi02Ny04LTMiLDFdLFsiMjYtNjctNC0zIiwxXSxbIjI2LTY3LTQtNCIsMV0sWyIyNi02Ny0wLTMiLDFdLFsiMjYtNjctMC01IiwxXSxbIjI2LTY3LTYtNCIsMV0sWyIyNi02Ny04LTUiLDFdLFsiMjYtNjctNi01IiwxXSxbIjI2LTY3LTQtNSIsMV0sWyIyNi02Ny03LTYiLDFdLFsiMjYtNjctNS02IiwxXSxbIjI2LTY3LTMtNiIsMl0sWyIyNi02Ny03LTciLDFdLFsiMjYtNjctNS03IiwxXSxbIjI2LTY3LTMtNyIsMV0sWyIyNi02Ny0yLTgiLDFdLFsiMjYtNjctMi05IiwxXSxbIjI2LTY3LTEwLTAiLDFdLFsiMjYtNjctMTAtMiIsMV0sWyIyNi02Ny0xMC00IiwxXSxbIjI2LTY3LTEwLTYiLDFdLFsiMjYtNjctMTAtOCIsMV1d",
+  "tags": [
+   "Moon Guard",
+   "aoe",
+   "tank",
+   "m+",
+   "Starcaller",
+   "goon guard"
+  ],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 2,
+  "created_at": "2026-07-26T05:11:14.943558+00:00",
+  "updated_at": "2026-07-26T05:11:14.943558+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 521,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 4,
+  "author": {
+   "id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+   "username": "Augusto R.A",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL-BwAqiaXC2HCf37ylOwfadsrOg1LOqGO1Ljzqd6AU0IBsMj_t=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "e18d474a-e745-4875-96e0-bbda74ff677d",
+   "build_id": "42369f7d-6a9b-45a2-a284-892ee8d5e70d",
+   "author_id": "d1cfb49c-81ec-4090-b56e-16fc4df92f17",
+   "parent_id": null,
+   "body": "First of all, excellent build.  Highly recommend it to anyone interested in learning tanking. My personal recommendation for pulling is to basically just spam bow and arrow everywhere.  Alongside Shooting Star/Huntress Saber to get out in front of the group, I typically didn't have many issues keeping aggro.  Snap threat is definitely Moon Guard's biggest issue though; I regularly would lose 1 or 2 mobs in the pile-up because I couldn't click on their tags.  Also, if you don't get back your Starburst between crowd pulls, Starshatter can be an excellent alternative.\n\n2nd, I REALLY underestimated how insane Coalesced Resilience is.  It is, without question, Moon Guard's best talent.  I typically have around 8-10k mana, which means it's a flat reduction of 80-100 damage on every swipe.  I went from pulling 2-3 packs to literally pulling everything and the boss after.  Even damage that was chunking before it turned into minor inconveniences.  I'm sure it'll scale less optimally into Heroic and Mythic dungeons compared to percentage reductions, but in standard dungeons it's an insane talent.",
+   "upvotes": 1,
+   "created_at": "2026-07-30T04:18:48.157275+00:00",
+   "updated_at": "2026-07-31T06:19:30.26432+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "d1cfb49c-81ec-4090-b56e-16fc4df92f17",
+    "username": "Tyler Wardle",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKAu486uLnwf2QAjWiWQtN6l-esxfANce4Dk0CGGXnp6_3AaRKr=s96-c"
+   }
+  },
+  {
+   "id": "dd5791d1-6d9f-4dd3-bb9b-a7469e3bfa1f",
+   "build_id": "42369f7d-6a9b-45a2-a284-892ee8d5e70d",
+   "author_id": "18d74053-f12f-4e61-a831-ff9c7ec92415",
+   "parent_id": null,
+   "body": "What trinkets have you been using?",
+   "upvotes": 0,
+   "created_at": "2026-07-31T06:24:52.985594+00:00",
+   "updated_at": "2026-07-31T06:24:52.985594+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "18d74053-f12f-4e61-a831-ff9c7ec92415",
+    "username": "sevsorenson",
+    "avatar_url": "https://cdn.discordapp.com/avatars/864288676111843388/f58300358418dce2a046ca0722cf5c4b.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "0186feb6-32f0-46d9-8914-26261bca5475",
+   "title": "Warden PvP Skirmisher GOD Build",
+   "class_id": 26,
+   "spec_id": 89,
+   "author_id": "d65c498f-7528-404d-9e6f-ceac1f8307d7",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1930,
+   "featured": false,
+   "created_at": "2026-07-20T06:23:30.006276+00:00",
+   "updated_at": "2026-07-21T05:12:05.586+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "d65c498f-7528-404d-9e6f-ceac1f8307d7",
+    "username": "B Hw",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKvaGXyQi4bWkOVw82KF7QS9CXSqUmjiuURDfqSnrRb4BvhEw=s96-c"
+   }
+  },
+  {
+   "id": "9bf37522-d3ec-40bb-9f59-fddc92bb15fd",
+   "title": "Warden test",
+   "class_id": 26,
+   "spec_id": 89,
+   "author_id": "236c0a03-2fc1-4acd-9277-2a59e98f0f9a",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 2577,
+   "featured": false,
+   "created_at": "2026-07-19T18:17:01.725041+00:00",
+   "updated_at": "2026-07-20T13:46:27.047+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "236c0a03-2fc1-4acd-9277-2a59e98f0f9a",
+    "username": "pikachu_no_acido",
+    "avatar_url": "https://cdn.discordapp.com/avatars/756154367698010173/ff89765c6225a6887caa210e3933cade.png"
+   }
+  },
+  {
+   "id": "d6a5c913-42a1-47e7-afc1-a1965666659d",
+   "title": "Starcaller PVP",
+   "class_id": 26,
+   "spec_id": 89,
+   "author_id": "4abdeb77-3710-4991-ac17-180365fb6628",
+   "tags": [
+    "Starlunar"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 767,
+   "featured": false,
+   "created_at": "2026-07-20T00:32:01.178296+00:00",
+   "updated_at": "2026-07-20T00:32:01.178296+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "4abdeb77-3710-4991-ac17-180365fb6628",
+    "username": "Joachim B.",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLmfhFPbK6txat0OWv1S0kJtOQZRC1-_oeSY37EAHzHMbSgDR5X=s96-c"
+   }
+  }
+ ],
+ "class": "Starcaller",
+ "spec": "Moon Guard",
+ "allocations": [
+  [
+   "26-87-7-0",
+   1
+  ],
+  [
+   "26-87-3-0",
+   1
+  ],
+  [
+   "26-87-1-0",
+   1
+  ],
+  [
+   "26-87-6-1",
+   2
+  ],
+  [
+   "26-87-4-1",
+   1
+  ],
+  [
+   "26-87-7-2",
+   1
+  ],
+  [
+   "26-87-4-2",
+   1
+  ],
+  [
+   "26-87-1-2",
+   1
+  ],
+  [
+   "26-87-2-3",
+   1
+  ],
+  [
+   "26-87-2-4",
+   1
+  ],
+  [
+   "26-87-2-5",
+   1
+  ],
+  [
+   "26-87-2-6",
+   1
+  ],
+  [
+   "26-87-0-5",
+   1
+  ],
+  [
+   "26-87-4-3",
+   2
+  ],
+  [
+   "26-87-4-4a",
+   1
+  ],
+  [
+   "26-87-4-5",
+   1
+  ],
+  [
+   "26-87-6-5",
+   1
+  ],
+  [
+   "26-87-8-3",
+   1
+  ],
+  [
+   "26-87-6-6",
+   1
+  ],
+  [
+   "26-87-4-6b",
+   1
+  ],
+  [
+   "26-87-4-7",
+   1
+  ],
+  [
+   "26-87-1-7",
+   1
+  ],
+  [
+   "26-87-3-8",
+   1
+  ],
+  [
+   "26-87-4-9",
+   1
+  ],
+  [
+   "26-67-4-0",
+   1
+  ],
+  [
+   "26-67-3-1",
+   1
+  ],
+  [
+   "26-67-5-1",
+   1
+  ],
+  [
+   "26-67-2-2",
+   1
+  ],
+  [
+   "26-67-4-2",
+   2
+  ],
+  [
+   "26-67-6-2",
+   1
+  ],
+  [
+   "26-67-8-3",
+   1
+  ],
+  [
+   "26-67-4-3",
+   1
+  ],
+  [
+   "26-67-4-4",
+   1
+  ],
+  [
+   "26-67-0-3",
+   1
+  ],
+  [
+   "26-67-0-5",
+   1
+  ],
+  [
+   "26-67-6-4",
+   1
+  ],
+  [
+   "26-67-8-5",
+   1
+  ],
+  [
+   "26-67-6-5",
+   1
+  ],
+  [
+   "26-67-4-5",
+   1
+  ],
+  [
+   "26-67-7-6",
+   1
+  ],
+  [
+   "26-67-5-6",
+   1
+  ],
+  [
+   "26-67-3-6",
+   2
+  ],
+  [
+   "26-67-7-7",
+   1
+  ],
+  [
+   "26-67-5-7",
+   1
+  ],
+  [
+   "26-67-3-7",
+   1
+  ],
+  [
+   "26-67-2-8",
+   1
+  ],
+  [
+   "26-67-2-9",
+   1
+  ],
+  [
+   "26-67-10-0",
+   1
+  ],
+  [
+   "26-67-10-2",
+   1
+  ],
+  [
+   "26-67-10-4",
+   1
+  ],
+  [
+   "26-67-10-6",
+   1
+  ],
+  [
+   "26-67-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "26-87-7-0",
+   "points": 1,
+   "name": "Infused Aegis",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704777
+  },
+  {
+   "id": "26-87-3-0",
+   "points": 1,
+   "name": "Shooting Star",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 800505
+  },
+  {
+   "id": "26-87-1-0",
+   "points": 1,
+   "name": "Touch of Moonlight",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 574328
+  },
+  {
+   "id": "26-87-6-1",
+   "points": 2,
+   "name": "Flow of Mana",
+   "maxPoints": 2,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704604
+  },
+  {
+   "id": "26-87-4-1",
+   "points": 1,
+   "name": "Star Citizen",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704776
+  },
+  {
+   "id": "26-87-7-2",
+   "points": 1,
+   "name": "Protected by the Stars",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300258
+  },
+  {
+   "id": "26-87-4-2",
+   "points": 1,
+   "name": "Galaxy",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 800508
+  },
+  {
+   "id": "26-87-1-2",
+   "points": 1,
+   "name": "Bright Moon",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801226
+  },
+  {
+   "id": "26-87-2-3",
+   "points": 1,
+   "name": "Aspect of the Cosmos",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801123
+  },
+  {
+   "id": "26-87-2-4",
+   "points": 1,
+   "name": "Universal Power",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300262
+  },
+  {
+   "id": "26-87-2-5",
+   "points": 1,
+   "name": "Vial of Moonwell Water",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 804652
+  },
+  {
+   "id": "26-87-2-6",
+   "points": 1,
+   "name": "Moonwell Tides",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 560951
+  },
+  {
+   "id": "26-87-0-5",
+   "points": 1,
+   "name": "The Stars Align",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300251
+  },
+  {
+   "id": "26-87-4-3",
+   "points": 2,
+   "name": "Starbarian",
+   "maxPoints": 2,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704778
+  },
+  {
+   "id": "26-87-4-4a",
+   "points": 1,
+   "name": "Lunar Anomaly",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300989
+  },
+  {
+   "id": "26-87-4-5",
+   "points": 1,
+   "name": "Starshatter",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801135
+  },
+  {
+   "id": "26-87-6-5",
+   "points": 1,
+   "name": "Reverse Magic",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 570231
+  },
+  {
+   "id": "26-87-8-3",
+   "points": 1,
+   "name": "Moonlight Ripple",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 503583
+  },
+  {
+   "id": "26-87-6-6",
+   "points": 1,
+   "name": "Constellation Barrier",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300259
+  },
+  {
+   "id": "26-87-4-6b",
+   "points": 1,
+   "name": "Twinkle Toes",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704775
+  },
+  {
+   "id": "26-87-4-7",
+   "points": 1,
+   "name": "Way of the Goddess",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801976
+  },
+  {
+   "id": "26-87-1-7",
+   "points": 1,
+   "name": "Moonblessed Aspects",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 706232
+  },
+  {
+   "id": "26-87-3-8",
+   "points": 1,
+   "name": "Pouch of Stardust",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 504694
+  },
+  {
+   "id": "26-87-4-9",
+   "points": 1,
+   "name": "Second Moon",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300252
+  },
+  {
+   "id": "26-67-4-0",
+   "points": 1,
+   "name": "Starburst",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 801996
+  },
+  {
+   "id": "26-67-3-1",
+   "points": 1,
+   "name": "Blanket of Stars",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 804381
+  },
+  {
+   "id": "26-67-5-1",
+   "points": 1,
+   "name": "Starsweep",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 805550
+  },
+  {
+   "id": "26-67-2-2",
+   "points": 1,
+   "name": "Improved Eclipse of Fury",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 704793
+  },
+  {
+   "id": "26-67-4-2",
+   "points": 2,
+   "name": "Moonstone Hilt",
+   "maxPoints": 2,
+   "tree": "Moon Guard",
+   "spellId": 300250
+  },
+  {
+   "id": "26-67-6-2",
+   "points": 1,
+   "name": "Nebula",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 300992
+  },
+  {
+   "id": "26-67-8-3",
+   "points": 1,
+   "name": "Celestial Divination",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 560319
+  },
+  {
+   "id": "26-67-4-3",
+   "points": 1,
+   "name": "Starlit Finesse",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 574350
+  },
+  {
+   "id": "26-67-4-4",
+   "points": 1,
+   "name": "Astral Reconstitution",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 801155
+  },
+  {
+   "id": "26-67-0-3",
+   "points": 1,
+   "name": "Dance In The Starlight",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 503637
+  },
+  {
+   "id": "26-67-0-5",
+   "points": 1,
+   "name": "Starcovered Night",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 503639
+  },
+  {
+   "id": "26-67-6-4",
+   "points": 1,
+   "name": "Moonflares",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 560501
+  },
+  {
+   "id": "26-67-8-5",
+   "points": 1,
+   "name": "Blade of the Moon",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 802680
+  },
+  {
+   "id": "26-67-6-5",
+   "points": 1,
+   "name": "Moonveil Screen",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 680779
+  },
+  {
+   "id": "26-67-4-5",
+   "points": 1,
+   "name": "Shrouded Stars",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 704785
+  },
+  {
+   "id": "26-67-7-6",
+   "points": 1,
+   "name": "Vengeful Inspiration",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 680784
+  },
+  {
+   "id": "26-67-5-6",
+   "points": 1,
+   "name": "Enduring Moon",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 560440
+  },
+  {
+   "id": "26-67-3-6",
+   "points": 2,
+   "name": "Cosmic Crown",
+   "maxPoints": 2,
+   "tree": "Moon Guard",
+   "spellId": 804385
+  },
+  {
+   "id": "26-67-7-7",
+   "points": 1,
+   "name": "Starlight Duelist",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 805505
+  },
+  {
+   "id": "26-67-5-7",
+   "points": 1,
+   "name": "Enchanted Aegis",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 704795
+  },
+  {
+   "id": "26-67-3-7",
+   "points": 1,
+   "name": "Starbound",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 704787
+  },
+  {
+   "id": "26-67-2-8",
+   "points": 1,
+   "name": "Coalesced Resilience",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 680786
+  },
+  {
+   "id": "26-67-2-9",
+   "points": 1,
+   "name": "Chosen of the Moon",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 680755
+  },
+  {
+   "id": "26-67-10-0",
+   "points": 1,
+   "name": "Moon Guard",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 92132
+  },
+  {
+   "id": "26-67-10-2",
+   "points": 1,
+   "name": "Asteroid Belt",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 574349
+  },
+  {
+   "id": "26-67-10-4",
+   "points": 1,
+   "name": "Crystal Shield",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 680748
+  },
+  {
+   "id": "26-67-10-6",
+   "points": 1,
+   "name": "Celestial Guard",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 574351
+  },
+  {
+   "id": "26-67-10-8",
+   "points": 1,
+   "name": "Dancing in the Moonlight",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 807659
+  }
+ ]
+}

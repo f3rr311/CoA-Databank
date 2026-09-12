@@ -1,0 +1,735 @@
+{
+ "build": {
+  "id": "eb1748d8-859e-4a72-8b91-f89d5aa258c5",
+  "title": "Chronomancer Inf - PVE leveling to M+",
+  "description": "",
+  "class_id": 22,
+  "spec_id": 56,
+  "author_id": "015595e9-9ff1-46d1-a172-746d0518a1d9",
+  "talent_string": "W1siMjItODctNC0wIiwxXSxbIjIyLTg3LTItMSIsMl0sWyIyMi04Ny00LTIiLDFdLFsiMjItODctNC0xIiwxXSxbIjIyLTg3LTQtMyIsMl0sWyIyMi04Ny02LTEiLDJdLFsiMjItODctNi0yIiwxXSxbIjIyLTg3LTctNCIsMV0sWyIyMi04Ny01LTQiLDFdLFsiMjItODctNC01IiwxXSxbIjIyLTg3LTQtNiIsMV0sWyIyMi04Ny04LTUiLDFdLFsiMjItODctNy02YiIsMV0sWyIyMi04Ny00LTdhIiwxXSxbIjIyLTg3LTYtNSIsMV0sWyIyMi04Ny0zLTQiLDFdLFsiMjItODctNy03IiwxXSxbIjIyLTg3LTItMiIsMV0sWyIyMi04Ny0xLTQiLDFdLFsiMjItODctMi01IiwxXSxbIjIyLTg3LTctMCIsMV0sWyIyMi04Ny02LTgiLDFdLFsiMjItODctNS05IiwxXSxbIjIyLTU2LTQtMCIsMV0sWyIyMi01Ni00LTEiLDFdLFsiMjItNTYtMi0yIiwyXSxbIjIyLTU2LTEtMyIsMV0sWyIyMi01Ni0zLTMiLDJdLFsiMjItNTYtMTAtMCIsMV0sWyIyMi01Ni0xMC0yIiwxXSxbIjIyLTU2LTYtMiIsMV0sWyIyMi01Ni01LTMiLDFdLFsiMjItNTYtMC00IiwxXSxbIjIyLTU2LTEtNSIsMV0sWyIyMi01Ni0yLTQiLDFdLFsiMjItNTYtNC00IiwxXSxbIjIyLTU2LTAtNiIsMV0sWyIyMi01Ni0yLTYiLDFdLFsiMjItNTYtMy03IiwxXSxbIjIyLTU2LTQtNSIsMV0sWyIyMi01Ni00LTYiLDFdLFsiMjItNTYtNS03IiwxXSxbIjIyLTU2LTEtNmIiLDFdLFsiMjItNTYtMS03IiwxXSxbIjIyLTU2LTctMyIsMV0sWyIyMi01Ni04LTQiLDFdLFsiMjItNTYtMTAtNCIsMV0sWyIyMi01Ni02LTQiLDFdLFsiMjItNTYtNS04IiwxXSxbIjIyLTU2LTYtOSIsMV0sWyIyMi01Ni0xMC02IiwxXSxbIjIyLTU2LTEwLTgiLDFdXQ",
+  "tags": [
+   "beginner",
+   "PVE",
+   "M+"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-21T17:19:53.686244+00:00",
+  "updated_at": "2026-07-21T17:19:53.686244+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1692,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 0,
+  "author": {
+   "id": "015595e9-9ff1-46d1-a172-746d0518a1d9",
+   "username": "hiddenmax",
+   "avatar_url": "https://cdn.discordapp.com/avatars/280348315068006420/7e7cb3307f0deaea376d9f5d45dc2147.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "d0ca993a-cdea-4318-8ca8-129dcb617a31",
+   "title": "[Advanced] Mythic+ Time guide",
+   "class_id": 22,
+   "spec_id": 58,
+   "author_id": "a7c66e78-9d14-421d-b513-429c49b909b4",
+   "tags": [
+    "advanced",
+    "m+",
+    "time",
+    "healer",
+    "chronomancer"
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 6,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1671,
+   "featured": false,
+   "created_at": "2026-07-22T11:55:30.373315+00:00",
+   "updated_at": "2026-07-23T01:41:54.105+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "a7c66e78-9d14-421d-b513-429c49b909b4",
+    "username": "MadK0rt",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5cYPaaflusvJtv4swouBlduoP1cHNRJmJqP08j-fhCocID1I-=s96-c"
+   }
+  },
+  {
+   "id": "70386b9b-16b9-48df-9346-1eeb3fbdc547",
+   "title": "Chronomancer Healer M+ Ready",
+   "class_id": 22,
+   "spec_id": 58,
+   "author_id": "7fa173cc-f7a2-410c-9808-d0fbd083265e",
+   "tags": [
+    "Dungeon",
+    "Mythics",
+    "Endgame",
+    "HL"
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 1,
+   "comment_count": 0,
+   "view_count": 2581,
+   "featured": false,
+   "created_at": "2026-07-16T15:45:22.467299+00:00",
+   "updated_at": "2026-07-20T14:40:33.81+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "7fa173cc-f7a2-410c-9808-d0fbd083265e",
+    "username": "zreula",
+    "avatar_url": "https://cdn.discordapp.com/avatars/88967979588411392/ead0e4a4a8e7889f7430bdf6e506539c.png"
+   }
+  }
+ ],
+ "class": "Chronomancer",
+ "spec": "Infinite",
+ "allocations": [
+  [
+   "22-87-4-0",
+   1
+  ],
+  [
+   "22-87-2-1",
+   2
+  ],
+  [
+   "22-87-4-2",
+   1
+  ],
+  [
+   "22-87-4-1",
+   1
+  ],
+  [
+   "22-87-4-3",
+   2
+  ],
+  [
+   "22-87-6-1",
+   2
+  ],
+  [
+   "22-87-6-2",
+   1
+  ],
+  [
+   "22-87-7-4",
+   1
+  ],
+  [
+   "22-87-5-4",
+   1
+  ],
+  [
+   "22-87-4-5",
+   1
+  ],
+  [
+   "22-87-4-6",
+   1
+  ],
+  [
+   "22-87-8-5",
+   1
+  ],
+  [
+   "22-87-7-6b",
+   1
+  ],
+  [
+   "22-87-4-7a",
+   1
+  ],
+  [
+   "22-87-6-5",
+   1
+  ],
+  [
+   "22-87-3-4",
+   1
+  ],
+  [
+   "22-87-7-7",
+   1
+  ],
+  [
+   "22-87-2-2",
+   1
+  ],
+  [
+   "22-87-1-4",
+   1
+  ],
+  [
+   "22-87-2-5",
+   1
+  ],
+  [
+   "22-87-7-0",
+   1
+  ],
+  [
+   "22-87-6-8",
+   1
+  ],
+  [
+   "22-87-5-9",
+   1
+  ],
+  [
+   "22-56-4-0",
+   1
+  ],
+  [
+   "22-56-4-1",
+   1
+  ],
+  [
+   "22-56-2-2",
+   2
+  ],
+  [
+   "22-56-1-3",
+   1
+  ],
+  [
+   "22-56-3-3",
+   2
+  ],
+  [
+   "22-56-10-0",
+   1
+  ],
+  [
+   "22-56-10-2",
+   1
+  ],
+  [
+   "22-56-6-2",
+   1
+  ],
+  [
+   "22-56-5-3",
+   1
+  ],
+  [
+   "22-56-0-4",
+   1
+  ],
+  [
+   "22-56-1-5",
+   1
+  ],
+  [
+   "22-56-2-4",
+   1
+  ],
+  [
+   "22-56-4-4",
+   1
+  ],
+  [
+   "22-56-0-6",
+   1
+  ],
+  [
+   "22-56-2-6",
+   1
+  ],
+  [
+   "22-56-3-7",
+   1
+  ],
+  [
+   "22-56-4-5",
+   1
+  ],
+  [
+   "22-56-4-6",
+   1
+  ],
+  [
+   "22-56-5-7",
+   1
+  ],
+  [
+   "22-56-1-6b",
+   1
+  ],
+  [
+   "22-56-1-7",
+   1
+  ],
+  [
+   "22-56-7-3",
+   1
+  ],
+  [
+   "22-56-8-4",
+   1
+  ],
+  [
+   "22-56-10-4",
+   1
+  ],
+  [
+   "22-56-6-4",
+   1
+  ],
+  [
+   "22-56-5-8",
+   1
+  ],
+  [
+   "22-56-6-9",
+   1
+  ],
+  [
+   "22-56-10-6",
+   1
+  ],
+  [
+   "22-56-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "22-87-4-0",
+   "points": 1,
+   "name": "Clasp of Infinity",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 805847
+  },
+  {
+   "id": "22-87-2-1",
+   "points": 2,
+   "name": "Luck",
+   "maxPoints": 2,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 706085
+  },
+  {
+   "id": "22-87-4-2",
+   "points": 1,
+   "name": "Impeccable Timing",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 560949
+  },
+  {
+   "id": "22-87-4-1",
+   "points": 1,
+   "name": "Unearthed Pools",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 574309
+  },
+  {
+   "id": "22-87-4-3",
+   "points": 2,
+   "name": "Rippling Power",
+   "maxPoints": 2,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 806300
+  },
+  {
+   "id": "22-87-6-1",
+   "points": 2,
+   "name": "Perfect Timing",
+   "maxPoints": 2,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 520164
+  },
+  {
+   "id": "22-87-6-2",
+   "points": 1,
+   "name": "Timeguard",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 804441
+  },
+  {
+   "id": "22-87-7-4",
+   "points": 1,
+   "name": "Desynchronization",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 561310
+  },
+  {
+   "id": "22-87-5-4",
+   "points": 1,
+   "name": "Infinite Sands",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 500115
+  },
+  {
+   "id": "22-87-4-5",
+   "points": 1,
+   "name": "Temporal Focus",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 806165
+  },
+  {
+   "id": "22-87-4-6",
+   "points": 1,
+   "name": "Ahead of the Game",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 560948
+  },
+  {
+   "id": "22-87-8-5",
+   "points": 1,
+   "name": "Expediting Time",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 706055
+  },
+  {
+   "id": "22-87-7-6b",
+   "points": 1,
+   "name": "Procrastination",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 520854
+  },
+  {
+   "id": "22-87-4-7a",
+   "points": 1,
+   "name": "Tripping the Rift",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 520173
+  },
+  {
+   "id": "22-87-6-5",
+   "points": 1,
+   "name": "Entropy Overload",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 706084
+  },
+  {
+   "id": "22-87-3-4",
+   "points": 1,
+   "name": "Eternal",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 706777
+  },
+  {
+   "id": "22-87-7-7",
+   "points": 1,
+   "name": "Life Cycles",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 680808
+  },
+  {
+   "id": "22-87-2-2",
+   "points": 1,
+   "name": "Fortify Timeline",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 804491
+  },
+  {
+   "id": "22-87-1-4",
+   "points": 1,
+   "name": "Temporal Anomaly",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 806315
+  },
+  {
+   "id": "22-87-2-5",
+   "points": 1,
+   "name": "Mind Over Matter",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 520923
+  },
+  {
+   "id": "22-87-7-0",
+   "points": 1,
+   "name": "Waves of Time",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 801277
+  },
+  {
+   "id": "22-87-6-8",
+   "points": 1,
+   "name": "Gravity Bomb",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 801281
+  },
+  {
+   "id": "22-87-5-9",
+   "points": 1,
+   "name": "Chaos Omen",
+   "maxPoints": 1,
+   "tree": "Chronomancer (class tree)",
+   "spellId": 706063
+  },
+  {
+   "id": "22-56-4-0",
+   "points": 1,
+   "name": "Timerend",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 707430
+  },
+  {
+   "id": "22-56-4-1",
+   "points": 1,
+   "name": "Melt Reality",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 806335
+  },
+  {
+   "id": "22-56-2-2",
+   "points": 2,
+   "name": "Anomaly Spikes",
+   "maxPoints": 2,
+   "tree": "Infinite",
+   "spellId": 503825
+  },
+  {
+   "id": "22-56-1-3",
+   "points": 1,
+   "name": "Chromatic Shard",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 801292
+  },
+  {
+   "id": "22-56-3-3",
+   "points": 2,
+   "name": "Deconstruction",
+   "maxPoints": 2,
+   "tree": "Infinite",
+   "spellId": 805851
+  },
+  {
+   "id": "22-56-10-0",
+   "points": 1,
+   "name": "Infinite Power",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 92118
+  },
+  {
+   "id": "22-56-10-2",
+   "points": 1,
+   "name": "Gift of the Infinite Dragonflight",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 706114
+  },
+  {
+   "id": "22-56-6-2",
+   "points": 1,
+   "name": "Mind Melt",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 572771
+  },
+  {
+   "id": "22-56-5-3",
+   "points": 1,
+   "name": "Warpstriker",
+   "maxPoints": 2,
+   "tree": "Infinite",
+   "spellId": 707556
+  },
+  {
+   "id": "22-56-0-4",
+   "points": 1,
+   "name": "Unearthed Power",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 503831
+  },
+  {
+   "id": "22-56-1-5",
+   "points": 1,
+   "name": "Incarnation of Chaos",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 570067
+  },
+  {
+   "id": "22-56-2-4",
+   "points": 1,
+   "name": "Time Means Nothing",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 572357
+  },
+  {
+   "id": "22-56-4-4",
+   "points": 1,
+   "name": "Hourglass of Eternity",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 806337
+  },
+  {
+   "id": "22-56-0-6",
+   "points": 1,
+   "name": "Black Hole",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 707557
+  },
+  {
+   "id": "22-56-2-6",
+   "points": 1,
+   "name": "Paradox",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 680946
+  },
+  {
+   "id": "22-56-3-7",
+   "points": 1,
+   "name": "Crown of Power",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 805854
+  },
+  {
+   "id": "22-56-4-5",
+   "points": 1,
+   "name": "Infinity Crash",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 706040
+  },
+  {
+   "id": "22-56-4-6",
+   "points": 1,
+   "name": "Slipstream",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 707555
+  },
+  {
+   "id": "22-56-5-7",
+   "points": 1,
+   "name": "Infinite Horizon",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 560528
+  },
+  {
+   "id": "22-56-1-6b",
+   "points": 1,
+   "name": "Pure Chaos",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 807569
+  },
+  {
+   "id": "22-56-1-7",
+   "points": 1,
+   "name": "Shifting Chaos",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 706059
+  },
+  {
+   "id": "22-56-7-3",
+   "points": 1,
+   "name": "Chronological",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 592008
+  },
+  {
+   "id": "22-56-8-4",
+   "points": 1,
+   "name": "Timelost Power",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 807754
+  },
+  {
+   "id": "22-56-10-4",
+   "points": 1,
+   "name": "Warping Reality",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 504602
+  },
+  {
+   "id": "22-56-6-4",
+   "points": 1,
+   "name": "Excruciating Discord",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 582356
+  },
+  {
+   "id": "22-56-5-8",
+   "points": 1,
+   "name": "Aeon Rend",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 583248
+  },
+  {
+   "id": "22-56-6-9",
+   "points": 1,
+   "name": "Infinite Keeper",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 806312
+  },
+  {
+   "id": "22-56-10-6",
+   "points": 1,
+   "name": "Infinite Guard",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 574312
+  },
+  {
+   "id": "22-56-10-8",
+   "points": 1,
+   "name": "End of Time",
+   "maxPoints": 1,
+   "tree": "Infinite",
+   "spellId": 704490
+  }
+ ]
+}

@@ -1,0 +1,805 @@
+{
+ "build": {
+  "id": "8c73e1e4-17b0-4a02-aae9-db2be4d5a4ea",
+  "title": "Guia Glyphic Runemaster (pt-br)",
+  "description": "[overview]\nGuia para a versão caster do runemaster\n**Não tem nada de pvp nesse guia.**\nSempre que tive opção entre defesa, utilidade ou ataque eu optei por **ataque**.\n\n[talents]\nTemos um talento que depende do gear\n\n### **HARNESSING LEYLINES VS BURNED ETCHING**\n\n**Arma de duas mãos: **\nHarnessing Leylines em DG\nBurned etching em RAID\n\n**Duas armas:**\nBurned Etchings sempre\n*Usando fogo na arma secundária*\n\nDe resto nossa arvore tem pouca variação de pontos, 4 para ser preciso:\n\n\n### DG - Leveling/AOE MAX/Curto tempo de combate\n**remova:** \nPrimordial power\n\n**Adicione:**\nTerraglyphs\n\n\n### DG -  Equilibrada \nÉ a que eu recomendo\n\n\n### RAID - Estátua\n**Remova:**\nManuscription\nBursting Pulses\n\n**Adicione:**\nGlyph Master\nGlyphic Destruction\n\n\n### RAID - CD\n**Remova:**\nManuscription\nBursting Pulses\n\n**Adicione:**\nEye of the Beholder\nGlyphic Destruction\n\n[rotation]\nO ápice de nosso dano ocorre antes de qualquer dano causado, ele começa na escolha das tatuagens e das runas nas armas.\n\n\n### Tatuagens\nFogo na sua grande maioria\nÁgua toda vez que cair de 35% de mana\n\n**USE O CD POWER ENGRAVING APENAS EM LUTAS LONGAS OU BOSS COMPLICADO**\n \n## **AOE**\n\nRuna da Terra na arma de duas mãos ou Terra e Fogo caso use duas armas\n\n### Pré-pull\nEntre em invisibilidade\nSe tiver tempo até o tank montar o pull use **Palm sigil: Fire**\nUse a **warpdagger + Primordial Pulse** (Macro na seção de macros)\n\n### Rotação base aoe\n**Zenith + Glyphic Overload + Manuscription** (Macro na seção de macros)\n**Glyphic Ruin** para consumir os três glifos\nDois cast de **Elemental blast** - Gera 2 glifos\n**Primordial Blast** - gera o terceiro glifo e reseta o **Primordial pulse**\n**Primordial pulse** + **Thaumaturgy**\n***Repita o processo até resetar a macro do burst + primordial pulse***\nUse **Phase out** + Macro warpdagger\n\n### Caso você esteja acima do nível 50 e proc **Runic Obliteration** \n**Elemental blast** (até completar os 3 glifos) + **Thaumaturgy** + **Primordial pulse**\n**Runic Obliteration** + **Glyphic Ruin** + **Primordial pulse**\n\nObjetivo da rotação:\nMacro de warpdagger aumenta nosso dps em 10% durante 8 secs e nosso crit durante 5 secs sem nos teletransportar\nPrimordial pulse não precisa de nenhum proc para causar dano, dessa forma usamos ele no cd\nMacro de burst agrupa todos os cds que tem 45secs e os manda de uma só vez\n\nSempre temos que gerar **3 glifos em AOE**  e consumi-los usando Glyphic Ruin ou Thaumaturgy (Glyphic Ruin tem prioridade durante Zenith)\n\n**Como Runic obliteration cria 3 glifos e reseta Primordial pulse, devemos zerar nossas cargas antes de usa-lo**\n\n## **SINGLE**\n\nRuna Arcana na arma de duas mãos ou Arcana e Fogo caso use duas armas\n\n### Pré-pull\nEntre em invisibilidade\nSe tiver tempo até o tank montar o pull use **Palm sigil: Fire**\nUse a **warpdagger + Frigid Blast** (Macro na seção de macros)\n\n### Rotação base single\n**Zenith + Glyphic Overload** (Macro na seção de macros)\n**Eye of the Beholder**\n**Glyphic Ruin** para consumir os três glifos\nUm cast de **Elemental blast** - Gera 1 glifos\n**Primordial Blast** - gera o segundo glifo\n**Thaumaturgy**\n***Repita o processo até resetar a macro do burst + Frigid Blast***\nUse **Phase out** + Macro warpdagger\n\n### Caso você esteja acima do nível 50 e proc **Runic Obliteration** \n**Elemental blast** (até completar os 2 glifos) + **Thaumaturgy**\n**Runic Obliteration** + **Glyphic Ruin**\n\n### Caso proc **Frigid Blast**\nEspere até Frigid Blast chegar próximo ao fim de sua duração para estender seu efeito e repita isso até chegar perto do fim da vida do alvo ou a macro de cd estiver prestes a retornar.\n**NÃO FAÇA HARD-CAST FORA DA MACRO DE WARPDAGGER. APENAS PROC**\n\nObjetivo da rotação:\nMacro de warpdagger aumenta nosso dps em 10% durante 8 secs e nosso crit durante 5 secs sem nos teletransportar\n**Frigid Blast** acumula o dano causado, logo iremos focar em expandir o dano total acumulado usando os procs\nMacro de burst agrupa todos os cds que tem 45secs e os manda de uma só vez\n\nSempre temos que gerar **2 glifos em Single**  e consumi-los usando Glyphic Ruin ou Thaumaturgy (Glyphic Ruin tem prioridade durante Zenith)\n\n**Como Runic obliteration cria 3 glifos, devemos zerar nossas cargas antes de usa-lo**\n\n[stats]\n1° Spell power aprox. 580\n2° int aprox. 170\n3° crit aprox. 131\n4° hit rating aprox. 88\n5° Spell penetration aprox. 60\n6° haste aprox. 51\n7° spirit aprox. 47 (Parece sacanagem mas juro que não é)\n\nIsso se deve a falta de acesso a itens de alto spirit que mantenham nossa prioridade neste momento. Conforme o servidor progrida isso vai sendo alterado até que haja uma inversão entre int e spirit.\n\n[gear]\nA melhor forma de saber o gear é usando o site BisBeard e simulando seu char.\nhttps://coa.bisbeard.com\n\n[enchants]\nHEAD- 15 Spell Power + 12 Resilience Rating\nShoulder - 10 Spell power + 8 Resilience Rating\nCloak - 5 Spell Power\nChest - Devilsaur Gambeson\nWrist - 15 Spell Power\nWeapon - Arcane Artillery\nGlove - Minor Haste\nBelt - 8 spirit\nLegs - 15 Spell power + 12 Resilience Rating\nBoots - 5 hit rating\nWand - 8 critical strike rating\n\n[leveling]\nDurante o leveling temos duas escolhas que convergem próximo ao nível 50.\n\nDG ou mundo aberto.\n\nPara DG foque no lado direito da arvore, que é o lado do AOE\nPara mundo aberto Centro e depois esquerdo que é o lado do burst\n\n[pvp]\nNÃO TEM!\n*Sou uma negação no pvp*\n\n[macros]\n**Macro para entrar em inv e redirecionar aggro**\n#showtooltip Runeshroud\n/cast [@focus] Leyline Adjustment\n/cast !Runeshroud\n\n**Macro de pré-pull aoe**\n#showtooltip Primordial Pulse\n/cast Warpdagger\n/cast [@cursor] Primordial Pulse\n\n**Macro de pré-pull single**\n#showtooltip Frigid Blast\n/cast Warpdagger\n/cast Frigid Blast\n\n**Macro de pulsar no mouse**\n#showtooltip Primordial Pulse\n/cast [@cursor] Primordial Pulse\n\n**Macro de dispell no mouse**\n#showtooltip\n/cast [@cursor] Resonance Rune\n\n**Macro de congelar no mouse**\n#showtooltip Glacial Rune\n/cast [@cursor] Glacial Rune\n\n[tips]\nvc tem uma skill de redirecionamento de aggro\nvai precisar usar no cd kkkkkkkkk\n\nWeak Aura para rastrear cds e gerar alertas importantes:\n\n!WA:2!LRvFWXX5z9S(IJtU8LK8h1wnnrX1XXofBUtFNuNyFN0D(o5tF49olj7XK7272xD7ATA317UNKoLPfIijOskbIcnJhMbivTtPWKaLdOmPHpckuGwkWd6py00otBqZqOddmeeLql0c888U79HoD2wwXmmtz)J7299E3BFF)973ZxVVRWOTyxQRJ3EWJ3EBHzosTmvlYTiVqBRKvk3KYwgM9zOzynGpF(gXxGJ3Lzl5m0DSm00yY9POQjBX0)6L6RGLTHvBIQ65fdPXSCehPGMntmSMKmB(HNMzPzijV(igZWSAlIEElPPXUgoQQTt2Oz1KSDeflORMl7fy6QokHdxyIjY2pll(18ImBJcw5yRL1WsMzf2Byz2uyn15MtYsUTuggAoQMl5yKdFs2Qg63(0xCfPcokgwdB6GxB7VK7Dhx3M54lR7fkwfhEIjWgekjPNd78igQ6oz7lYqPIiUKBFsQohBNMnzRizXKJAjnflbBAMwgV)pxWrqqWN1SE)xE3ye58mZMtE5c4n2w0cAATnMIQdZskhFa1TOTJKLJ)StOQRAR4pm(LJ)5DSuZNhNdTEylVtFULK54qQIMmRyrsms0ZLiSdEHOublP2N32KPPfx22)A2fYIdnDNKyVvNTu6(cLmv6KPcjMkmITozn1KkYSQ0TrSyy3etosKeje5TKngtsZrruhNL2(xSGU3qW)swS84GMgcI5TmkyUS7C0DgFhI25K0y(w0MPnbhcHdCqv5WiJYwhVIzPlPnQlX8ALMGWWKowsos7CDxyNdR0FE2K9jgjYqlkPRoLebtDdpy0Lzs20nW0Z7OSl4iH1n0zRiJtEQhPjOWYMHQsz75PUs)rqOWtjPQhfofEdqiim0h0p(9bRVL2lOkxQGzCP(SNt2y0CIsAMks(wcbjr(CgvoQ6tyy5oE8Ve9CuDLuHjnD3Hrci3(eNQakb9lMd1Y27dgYFyBu4qNKfVJjuZ7VLCVY(wOnyp(HpGaSF4aqB4KZpCq)Wh2pCO75WWd9CWHHhghChfEe)Whb(rGJbhh6WpeeAh(rHaqN(nBMuptZs5YldAiZE1Bb(OVgCscOQFYg56p9rTLTKdbLmL5TmC4tsbiER7doYkigq(aicxxoRctnVIt8S8EXuGerxSGnlnFcNbgKMQWWhoRnAxRXwk5iXfJNAWqNoc1(i0VUUdBw8rXgZsYKg5M7PVeHgCKudhorO(otO(7pEQ4Jgj7uQwwgwkqxwE9FXSAmDz6oedNiYq9dpPzpXjv1es5yxmKS8W62xCmM0KHW5H9fhKjRkDXuU3R9fjxsPBpG5Sh3jVe8OiUVB05akpHBfI5doHpXzuLDuIdrlf6mbpV9KXgcf6Wz9dFiHSMOTlQMFmXCCZ8yNeAIoU3yN8B)DPJVxSt(p9X4h(GZ4hgWp84Ido85sgzHhe89iMnNsYXWiDofj98S0rvTyMTSHMgdrslOzOLAKfFWmW9XDO4jq(WCnYHADljqQQfisg56A0c11Yb3ulX9dj6UmtUVk8gSJko)HE9b7tbUF4bGUGUHw3j0ZDubp3jcMeK(4WtGyhINwYs9khl(ahjWzj8KW(9wgNKHhBHhEjv02ij35(9Dl49uss(sfSDyYdkn7oQEHQ(o8aNLZHE6LnMrNCUQugG6EnzerX(AmvAYKuzXkxRy2u1FRGo)x5W5tIW5FdcahJWX1iHSuwmcwwsMLbckYJuz2e9dO7LCOkWKAjJ5ER9Y0g4viHA16bFIhFEQZKJ2me94rniTSCT3rRhS7aCwSt)4i4lsK5YKFCUxCvz7wZ2BGGbd09kO)MCkm7KkgZmS(k28Vgu1MmVC57DqpI1XNzKzrNcjDJcKbkKbUCg4JSdVhsjzv7lvqN71ODjnnqK7WyntlJ8O5HTl6)i33TSdo)KubI)iOTpCU3zL8AgZe1ID5cm9Cfh5wdC827coIf6uG(HLPp63ZhSV5PRi)URKTGJJHopGVuXLOMtW9BV3s05N3le5I0fvYRW3Y4S40LBrH3ZX96zy6cfE)tYdYWhwPuuZnPoo89X)LeQ45nZFAHDdSdJYGeJcJNH7JshJUzLb9obNhUaPOhSQ6MZXH8KACLNs9nPQJEJctAvsgJc95lldvi4LcRgh)rZdRwXRe1z7lI26KXoz4NoKJdgoCkuhS(KmMzikQHJibFkHNZWykbY6PSPuEUreAlLLbmoeHMt5ZxCUCP6FuePSu1PeDqtGTTX(lMXZsCp(x4HHlH2FEpOj3bOv2EdMsH64HU)ATwi9vqWcqV(oT2YjifNNEN8bHA(PB9GD2vvr(eCpwpvgElfH5GzirEh90Bh8BcDA5QjHpLsDAW3d(XlR7GFc4P9Tefrin3xSF4z2lmp8tcpRa8CUd8Fkfybb459b)0(GpHc8jBg(zQQdGxqPX8p8ZQa)Ci)cVicXAZD5ehD8qHgpYyB7qQeM(sMp8vrlW94xJyydzb8YcK6QIkqPghQOqa1ExrH8SIXkqQBrf4Jt2TESh2OhZf7nh72VspHsU)AzW7XLbf5(ziw0SzYYiptNzPMZ1ltMv2WLlroDcPnJurBIvr2Bf6w4)ddHjSXP9GMhOppJH2gXZNsBhH7n6OL1eCBqmHVCtMzXk39(V9R4RXCFRCU)gK5KhDGZMsoQtHEc7clU0WdunrH4CAW0sDk0fHkMMhvGcNLhLtF97rHNAxznXzbZPKn6qML1a5TP2sepsFE2qLzWBZJbr2Jirpgm2PsEB39H273(v2a5tuAg34ICcTMUTfiw4xKBA(lLb(LHxHd8F297)RMa(0USeSKxWi4ZKXZYSmY)XBGZ)f2V5dYT14F4M9BAZ0oQtHHdTy5uPu59TyLUS8df84yknw5z2pewygVDSIj5Yo5P0zwZT1YLieo05snS5U5nIvQzq5xNBmkvSWHWlx39jRoltM34tVIBPcLJGSm)3jx0QtueoG5HUAdxnwEPCftpHMbLujp(f1lZJE1Ub5Iy5pQ5s7OGQafuAxe(f4S6IEDg9GJE0LAlPKUDBybU5M0SLAMXLJCTHglpSxPY)bVCUHpxQeXhkIBRZG6sk345hZ7e3540iyJzaNX8(VAJy3Rempqd6G7jIu)Kx2fctB6wIw1XcvJ7r9a4kd)nlaQWXEnGsEYiDA0iDnkCgAuPohpHaU55lSPiUMT45aPMUQSjJz0kP2mFxKhOAZ2P)kWNNma3kX6E5neCDx1eCf9AgTKzenLXLg4Y9fZGSprtWY2XVK5rR3bcg5n9mmjtSYtuDy5KLwHJ0bdeGC48PuU(EJP5w3lJfyBlHvaWlKFeSe9ZVeMOQxRkwENS2GfBRV(Bt1UnlMeke9QfOH28KXnzzx1I3lfu0I)ZU)D9p)z2IEBZCD92s1g9QcEeJhsHqCSQq8Tty7jCJCrWz0steQ3Ut5C2bkCPIeg3i3UCgDlM6sd8SNxROjMwOH3Anr0rTXhPHX1KsG)C4Rb)fkWFj8xvBr5BaNjuLWzepxkMhstyFhU5)SjFRx7OALRzUmAV5OANp4zoAOGD29SDpuTr16U(5UuwvnvNIPLzsoktQtfQNwPawHjMOyElmvdUk9AAeTvIUHQ6Ym8DuJres0Ur280cUPwIYduL0WClVHdK9nF(AK1EzzEthS7(Ojuh8sMHmC6VwW(rIxxMC2tQQPLMopn)0GDfiTBzh3mby)nm1b0S7Qiw3u6dDSb0EYcVYF21fTDZYRopiEjnGs(xn6nXe2glF82J9OQhXjAQRP3GTs62NXF9PrxxEy3zJYKM8iSh)B0hFJz4oRqWieFns6UwqEdlEZ1uBBSfss79N2(SEUcPH)lzEO6NUDLEkmwJRwUZYZucD2Ot97QgN6O6kAjPaxO3eDf)0HZk3yF63aHORuoQlZvjh43u8D)cFLr7nqzCE8D(OTF8GDuVuEHM4WjHWeWvEnD4vB0NrbDhLs8fR0n)fLkbmrQWf87WpV4glgTSXOttfoDW19()Mp7nrD)eND2EdNYy8Ez9()(6(7(AQ7pr9cbV1jlv6HuWKbzPfh50P5byspOuE1CNHXWCw3KPWdc(gyr(ACqrAwkQLHTd)0sHSYjP72Cj3n2jnTtg8f8KgfxLv80l67vDfpjIJwcm0yP2v8CBuQ(7Zv88EOQX9GxEMKZei)i90XzehRqacS3RpUwXvyFIkIAHYI57Z)v1BXNJpPNP1SD1EGapAWklXR3kT8uzOzpbixRI5Em3I52n86nQ4GAsJ)x7GpKn8QUCWRb)6WVb8fGFZNgkja)w4F1rGFhVsGGFxZMIAPoxBNTGKmTdoTLkf8LeGFF4pa(dZaVLzZXhAOiIPdpCQudpOy8thlf8hFa4llaVb879o1TAo8LV5z27MwbNpHcTcopVVTXk4WxEU7X1nxN1NKupbsRQBNZsLVJGPNws3PGnxCMMNX0uswmY8EJvl8TA0sXze58XkeFKKdgO7YE(UjTiCFOX3zpDD8E6(gwIe49Teb(7UHucW7ulZd)9)Fgrh4gGOLMRqJi53UrKCO4N(CdelxXZm1fUztYJSnj52))TKC73aKSDblj0yEZ08FBJO5ZQgF8XZ1zmNu230O5oZIjtyLUOG73ZkuJt)yN6u6)1x6l)eVnX5M7P6gWgUYETQuYM2qC3TWmtT9jQHfZRp1Pp6jy7DGKrn6duB4TcaBuFmptxoeTjTpZ(Qkv22HqjSfs1)DgMwijuUujRON5UYMZYWmnFRJ6miYRMnxD7K9MC1wkBizzJnStU89GJFQ7E662k9zhlXF5j4ZcHRNGQ2Kk(XCfxRxE7V82IzI5sdzqQB(YRh2bw0wd1u0(bMn(qjJ3FeZMNOc6xE43Z2A43oL9S2zcDUI9Oh)8PU86v)J7ZBJM)hUa)i2jxDC(bkvZ(m3fkMNpNXu06tBRqk61wVkK6ER8SwQ7JY5OqwtU5aIEgkzyPY0D3X)LInSy8lm8qPcLWL0M1J0gWVztvFcUln4o5BUDwmpG8QYIHTK0L)HMm6U36ZOB4UmceyMlnXKy66niJUoH3va(xeQTqWtDW3I9n(A9MzvbFdie7K)JFF64hG836kW)AMn)wF8EwOpcAhruGJL1HQpXzrAhH5VeoTUIlm3w0c0sU7T7UbxQVkVfkCSJWXNYRogVTxR927YYyg9H11kMHd3h2kwiXbJEUeLdt8E1A)x(fJasja)71Agh7ux(DN)k)j3XZcF3kgYWp4aRkClW)XQc7eLQRYp(6Xo53IF82Xo5BZFljAYfUjq1ZSd((Ln02287)Pa8Fb)3xpt(Z6gqnBStv8jN9F7R8vxa50vfUvYKzvb)W3rPsDS07PqpD1NsC9Cj7TZWKTX3JMy328Jgrmv8(cLyvHBVIXWQc3XoVwCo)P6YZFhph0Vhh89Cc7rFRk0mN2qkRSN7o4r0xv4Ewv4EBDvHMwvy3Oc6UvGdVQWE2UmwIjiu6p1)1Cnc4C520pCWkIceiRqYvrmIQRnLMTDWvKZj7jFO2ka)i2j)53d)GcHhSJb77SJpWuJ19aBjjzJ1f3jjUQSO13RNNsx1WQc7Z1ONRaq)FTgEk0c9hA871u9(9Ii1RSAmLH0Mz0g53RNLSnLSMKV1C7Dtlfw6p)vw)sVWJtqYk8(jw(nlZS5nCnfDfZ)Ct(e)C1)Ug4LstHkP0unDg(lrK7lfapLU1y6sz1yN2ssMIVP8(mbhU0O15Zkzvo08YTWpIDYVXhKFGU2tQSmFE5gG88cq8b4gJEVfDvdVVWhaEDFu(3Mni)7FBLk5F)R6R2uWXmU)sie)gHhYqNvoB83ua(JGLH3Aj3sUtejkVw7Vyrmp(f2DdQ3xFd17RV1laaF0EpZ3yvHdbVvj3NyTL3)6(m3DEpeF4Q5vSQWUwXlfl3x0O2tKCWRJZ714iz4YVZFThQ)(j3uO(Ca33HSp6Rrg54y3vwt(CSOaMifbKsoAPjpZurg90dE5ibfx0DvCvLzI8XRRUT6REeLvvjEBX4VFJpo8KLIOn95It7SR(KK)GxwqK3bfU1IxNvLLz6IdfbJsaJ(aEMoUIGY5gEKQUu7tY2HEFNLSU45IFSQxDSK0n46PPwf04cCFo7cn4wSSYR9gl9ErLwM(w)y)p)",
+  "class_id": 32,
+  "spec_id": 11,
+  "author_id": "717a468a-bcce-41c7-a390-348295709b31",
+  "talent_string": "W1siMzItODctNC0wIiwxXSxbIjMyLTg3LTItMCIsMV0sWyIzMi04Ny0xLTEiLDFdLFsiMzItODctMC0zIiwxXSxbIjMyLTg3LTMtMSIsMl0sWyIzMi04Ny01LTEiLDFdLFsiMzItODctNi0wIiwxXSxbIjMyLTg3LTctMSIsMV0sWyIzMi04Ny04LTMiLDFdLFsiMzItODctOC00IiwxXSxbIjMyLTg3LTctNSIsMV0sWyIzMi04Ny02LTIiLDFdLFsiMzItODctNC0zIiwxXSxbIjMyLTg3LTQtNCIsMV0sWyIzMi04Ny01LTUiLDFdLFsiMzItODctNC02YiIsMV0sWyIzMi04Ny02LTQiLDFdLFsiMzItODctMi0yIiwxXSxbIjMyLTg3LTItNGIiLDFdLFsiMzItODctMS01IiwyXSxbIjMyLTg3LTItNiIsMV0sWyIzMi04Ny01LTciLDFdLFsiMzItODctMi04IiwxXSxbIjMyLTg3LTItOSIsMV0sWyIzMi0xMS00LTAiLDFdLFsiMzItMTEtNC0xIiwxXSxbIjMyLTExLTQtMiIsMV0sWyIzMi0xMS02LTIiLDFdLFsiMzItMTEtNy0zIiwyXSxbIjMyLTExLTItMiIsMl0sWyIzMi0xMS0xLTMiLDFdLFsiMzItMTEtMC00YiIsMV0sWyIzMi0xMS0wLTUiLDFdLFsiMzItMTEtMi00IiwxXSxbIjMyLTExLTQtMyIsMV0sWyIzMi0xMS0zLTQiLDFdLFsiMzItMTEtNS00IiwxXSxbIjMyLTExLTQtNSIsMV0sWyIzMi0xMS02LTQiLDFdLFsiMzItMTEtOC00IiwxXSxbIjMyLTExLTgtNSIsMV0sWyIzMi0xMS04LTYiLDFdLFsiMzItMTEtNi02IiwxXSxbIjMyLTExLTctN2EiLDFdLFsiMzItMTEtMi02IiwxXSxbIjMyLTExLTEtNyIsMV0sWyIzMi0xMS02LTgiLDFdLFsiMzItMTEtNC05IiwxXSxbIjMyLTExLTEwLTAiLDFdLFsiMzItMTEtMTAtMiIsMV0sWyIzMi0xMS0xMC00IiwxXSxbIjMyLTExLTEwLTYiLDFdLFsiMzItMTEtMTAtOCIsMV1d",
+  "tags": [
+   "raid",
+   "aoe",
+   "guide",
+   "leveling"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 1,
+  "created_at": "2026-07-25T00:49:31.78586+00:00",
+  "updated_at": "2026-07-25T01:46:06.08+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 483,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 10,
+  "author": {
+   "id": "717a468a-bcce-41c7-a390-348295709b31",
+   "username": "Caio Bruno Costa Loureiro",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLgihMFWtmef0VRGjvguZK5cZs-GXknb5FzvfaiU3aPyNk3bD8=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "941d4a89-7a60-496e-8285-a8b283567d64",
+   "build_id": "8c73e1e4-17b0-4a02-aae9-db2be4d5a4ea",
+   "author_id": "96087566-ec2b-4ab9-95f6-bb5112af4b33",
+   "parent_id": null,
+   "body": "Faz um guia pra pvp",
+   "upvotes": 0,
+   "created_at": "2026-07-31T21:41:59.134527+00:00",
+   "updated_at": "2026-07-31T21:41:59.134527+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "96087566-ec2b-4ab9-95f6-bb5112af4b33",
+    "username": "Will",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIMPj5Vpk4b82SETcvetTcHosTeXWfp2FJC-utnSucJ2wR7Bqd6=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "dca788b3-5300-440f-92e9-f0f6d118956a",
+   "title": "Runemaster PvE Engravement - AoE + Single Target",
+   "class_id": 32,
+   "spec_id": 85,
+   "author_id": "1cd4413c-2d8a-430a-89ad-db77910934f4",
+   "tags": [
+    "aoe",
+    "single target",
+    "mythic",
+    "engravement",
+    "raid"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2104,
+   "featured": false,
+   "created_at": "2026-07-22T00:24:36.606922+00:00",
+   "updated_at": "2026-07-22T00:28:13.848+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "1cd4413c-2d8a-430a-89ad-db77910934f4",
+    "username": "Feels",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLJsjQZO-JSFXz2RBWlvwL6_cx6NU_l9K4f-AXDyRsFT3CePw=s96-c"
+   }
+  },
+  {
+   "id": "00510d7a-feaa-4afd-82da-72816ae85ecd",
+   "title": "Runemaster Riftblade PvP build",
+   "class_id": 32,
+   "spec_id": 86,
+   "author_id": "9614dba2-698f-41f8-9cfe-50164820f285",
+   "tags": [
+    "PvP",
+    "High Risk",
+    "War Mode",
+    "Open World",
+    "Battleground",
+    "Battlegrounds",
+    "BG",
+    "Arena",
+    "Riftblade",
+    "Runemaster"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 3350,
+   "featured": false,
+   "created_at": "2026-07-19T01:21:56.435678+00:00",
+   "updated_at": "2026-07-29T01:00:15.242+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "9614dba2-698f-41f8-9cfe-50164820f285",
+    "username": "hrup",
+    "avatar_url": "https://cdn.discordapp.com/avatars/92835265051136000/1edee95b14b29f70aa420a43dc716fa0.png"
+   }
+  },
+  {
+   "id": "9c593168-2745-4972-aa1f-23266e0999f9",
+   "title": "THE runeGOD",
+   "class_id": 32,
+   "spec_id": 86,
+   "author_id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+   "tags": [
+    "raid",
+    "dps",
+    "pve",
+    "aoe",
+    "single-target"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 7,
+   "view_count": 7713,
+   "featured": false,
+   "created_at": "2026-07-17T19:31:10.08268+00:00",
+   "updated_at": "2026-07-24T00:10:45.702+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+    "username": "zyzx",
+    "avatar_url": "https://cdn.discordapp.com/avatars/160919726955036672/a701ead2d96f549ded297650a1b01624.png"
+   }
+  }
+ ],
+ "class": "Runemaster",
+ "spec": "Arcane",
+ "allocations": [
+  [
+   "32-87-4-0",
+   1
+  ],
+  [
+   "32-87-2-0",
+   1
+  ],
+  [
+   "32-87-1-1",
+   1
+  ],
+  [
+   "32-87-0-3",
+   1
+  ],
+  [
+   "32-87-3-1",
+   2
+  ],
+  [
+   "32-87-5-1",
+   1
+  ],
+  [
+   "32-87-6-0",
+   1
+  ],
+  [
+   "32-87-7-1",
+   1
+  ],
+  [
+   "32-87-8-3",
+   1
+  ],
+  [
+   "32-87-8-4",
+   1
+  ],
+  [
+   "32-87-7-5",
+   1
+  ],
+  [
+   "32-87-6-2",
+   1
+  ],
+  [
+   "32-87-4-3",
+   1
+  ],
+  [
+   "32-87-4-4",
+   1
+  ],
+  [
+   "32-87-5-5",
+   1
+  ],
+  [
+   "32-87-4-6b",
+   1
+  ],
+  [
+   "32-87-6-4",
+   1
+  ],
+  [
+   "32-87-2-2",
+   1
+  ],
+  [
+   "32-87-2-4b",
+   1
+  ],
+  [
+   "32-87-1-5",
+   2
+  ],
+  [
+   "32-87-2-6",
+   1
+  ],
+  [
+   "32-87-5-7",
+   1
+  ],
+  [
+   "32-87-2-8",
+   1
+  ],
+  [
+   "32-87-2-9",
+   1
+  ],
+  [
+   "32-11-4-0",
+   1
+  ],
+  [
+   "32-11-4-1",
+   1
+  ],
+  [
+   "32-11-4-2",
+   1
+  ],
+  [
+   "32-11-6-2",
+   1
+  ],
+  [
+   "32-11-7-3",
+   2
+  ],
+  [
+   "32-11-2-2",
+   2
+  ],
+  [
+   "32-11-1-3",
+   1
+  ],
+  [
+   "32-11-0-4b",
+   1
+  ],
+  [
+   "32-11-0-5",
+   1
+  ],
+  [
+   "32-11-2-4",
+   1
+  ],
+  [
+   "32-11-4-3",
+   1
+  ],
+  [
+   "32-11-3-4",
+   1
+  ],
+  [
+   "32-11-5-4",
+   1
+  ],
+  [
+   "32-11-4-5",
+   1
+  ],
+  [
+   "32-11-6-4",
+   1
+  ],
+  [
+   "32-11-8-4",
+   1
+  ],
+  [
+   "32-11-8-5",
+   1
+  ],
+  [
+   "32-11-8-6",
+   1
+  ],
+  [
+   "32-11-6-6",
+   1
+  ],
+  [
+   "32-11-7-7a",
+   1
+  ],
+  [
+   "32-11-2-6",
+   1
+  ],
+  [
+   "32-11-1-7",
+   1
+  ],
+  [
+   "32-11-6-8",
+   1
+  ],
+  [
+   "32-11-4-9",
+   1
+  ],
+  [
+   "32-11-10-0",
+   1
+  ],
+  [
+   "32-11-10-2",
+   1
+  ],
+  [
+   "32-11-10-4",
+   1
+  ],
+  [
+   "32-11-10-6",
+   1
+  ],
+  [
+   "32-11-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "32-87-4-0",
+   "points": 1,
+   "name": "Glacial Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 807842
+  },
+  {
+   "id": "32-87-2-0",
+   "points": 1,
+   "name": "Zenith",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 712325
+  },
+  {
+   "id": "32-87-1-1",
+   "points": 1,
+   "name": "Ley Constitution",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705562
+  },
+  {
+   "id": "32-87-0-3",
+   "points": 1,
+   "name": "Runic Affinity",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705621
+  },
+  {
+   "id": "32-87-3-1",
+   "points": 2,
+   "name": "Mystical Etchings",
+   "maxPoints": 2,
+   "tree": "Runemaster (class tree)",
+   "spellId": 806795
+  },
+  {
+   "id": "32-87-5-1",
+   "points": 1,
+   "name": "Runic Tattoos",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 800736
+  },
+  {
+   "id": "32-87-6-0",
+   "points": 1,
+   "name": "Warpdagger",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500287
+  },
+  {
+   "id": "32-87-7-1",
+   "points": 1,
+   "name": "Warpmaster",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 560992
+  },
+  {
+   "id": "32-87-8-3",
+   "points": 1,
+   "name": "Blade Rift",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520237
+  },
+  {
+   "id": "32-87-8-4",
+   "points": 1,
+   "name": "Shroudwalker",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705563
+  },
+  {
+   "id": "32-87-7-5",
+   "points": 1,
+   "name": "Primordialism",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520054
+  },
+  {
+   "id": "32-87-6-2",
+   "points": 1,
+   "name": "Phase Out",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500671
+  },
+  {
+   "id": "32-87-4-3",
+   "points": 1,
+   "name": "Granite Resolve",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520229
+  },
+  {
+   "id": "32-87-4-4",
+   "points": 1,
+   "name": "Primal Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705636
+  },
+  {
+   "id": "32-87-5-5",
+   "points": 1,
+   "name": "Warding Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804232
+  },
+  {
+   "id": "32-87-4-6b",
+   "points": 1,
+   "name": "Master of Runes",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804531
+  },
+  {
+   "id": "32-87-6-4",
+   "points": 1,
+   "name": "Prismatic Flow",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705581
+  },
+  {
+   "id": "32-87-2-2",
+   "points": 1,
+   "name": "Speed Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 801103
+  },
+  {
+   "id": "32-87-2-4b",
+   "points": 1,
+   "name": "Nomad's Scroll",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 707653
+  },
+  {
+   "id": "32-87-1-5",
+   "points": 2,
+   "name": "Speedy Attuner",
+   "maxPoints": 2,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705554
+  },
+  {
+   "id": "32-87-2-6",
+   "points": 1,
+   "name": "Master Engraver",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705605
+  },
+  {
+   "id": "32-87-5-7",
+   "points": 1,
+   "name": "Glyphs of Power",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520145
+  },
+  {
+   "id": "32-87-2-8",
+   "points": 1,
+   "name": "Decoder",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 706523
+  },
+  {
+   "id": "32-87-2-9",
+   "points": 1,
+   "name": "Power Engraving",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500296
+  },
+  {
+   "id": "32-11-4-0",
+   "points": 1,
+   "name": "Glyphic Ruin",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 801179
+  },
+  {
+   "id": "32-11-4-1",
+   "points": 1,
+   "name": "Flame Glyph",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 705625
+  },
+  {
+   "id": "32-11-4-2",
+   "points": 1,
+   "name": "Arcane Glyph",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 805727
+  },
+  {
+   "id": "32-11-6-2",
+   "points": 1,
+   "name": "Expert Elementalist",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 807505
+  },
+  {
+   "id": "32-11-7-3",
+   "points": 2,
+   "name": "Concentrated Magic",
+   "maxPoints": 2,
+   "tree": "Arcane",
+   "spellId": 560995
+  },
+  {
+   "id": "32-11-2-2",
+   "points": 2,
+   "name": "Focusing Crystals",
+   "maxPoints": 2,
+   "tree": "Arcane",
+   "spellId": 705564
+  },
+  {
+   "id": "32-11-1-3",
+   "points": 1,
+   "name": "Frigid Blast",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 500118
+  },
+  {
+   "id": "32-11-0-4b",
+   "points": 1,
+   "name": "Cold Elements",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 520138
+  },
+  {
+   "id": "32-11-0-5",
+   "points": 1,
+   "name": "Advanced Magi",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 804557
+  },
+  {
+   "id": "32-11-2-4",
+   "points": 1,
+   "name": "Primordial Power",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 705556
+  },
+  {
+   "id": "32-11-4-3",
+   "points": 1,
+   "name": "Glyphic Overload",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 520099
+  },
+  {
+   "id": "32-11-3-4",
+   "points": 1,
+   "name": "Wizardry",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 705632
+  },
+  {
+   "id": "32-11-5-4",
+   "points": 1,
+   "name": "Runeslinger",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 705550
+  },
+  {
+   "id": "32-11-4-5",
+   "points": 1,
+   "name": "Thaumaturgy",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 804550
+  },
+  {
+   "id": "32-11-6-4",
+   "points": 1,
+   "name": "Primordial Salvos",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 800752
+  },
+  {
+   "id": "32-11-8-4",
+   "points": 1,
+   "name": "Primordial Pulse",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 300578
+  },
+  {
+   "id": "32-11-8-5",
+   "points": 1,
+   "name": "Leyline Magician",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 706823
+  },
+  {
+   "id": "32-11-8-6",
+   "points": 1,
+   "name": "Bursting Pulses",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 300584
+  },
+  {
+   "id": "32-11-6-6",
+   "points": 1,
+   "name": "Runes of Quickness",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 560527
+  },
+  {
+   "id": "32-11-7-7a",
+   "points": 1,
+   "name": "Harnessing Leylines",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 704139
+  },
+  {
+   "id": "32-11-2-6",
+   "points": 1,
+   "name": "Arcane Student",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 300576
+  },
+  {
+   "id": "32-11-1-7",
+   "points": 1,
+   "name": "Glyph Seeker",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 705627
+  },
+  {
+   "id": "32-11-6-8",
+   "points": 1,
+   "name": "Scroll of Magic",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 802204
+  },
+  {
+   "id": "32-11-4-9",
+   "points": 1,
+   "name": "Manuscription",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 524952
+  },
+  {
+   "id": "32-11-10-0",
+   "points": 1,
+   "name": "Frost Glyph",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 92152
+  },
+  {
+   "id": "32-11-10-2",
+   "points": 1,
+   "name": "Ley Magician",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 804580
+  },
+  {
+   "id": "32-11-10-4",
+   "points": 1,
+   "name": "Unleashed Tattoos",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 804561
+  },
+  {
+   "id": "32-11-10-6",
+   "points": 1,
+   "name": "Unleashed Power",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 807504
+  },
+  {
+   "id": "32-11-10-8",
+   "points": 1,
+   "name": "Runic Obliteration",
+   "maxPoints": 1,
+   "tree": "Arcane",
+   "spellId": 705560
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Dark Liturgy",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dark Liturgy</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>15% of base <br />2 sec cast</td></tr></table><table><tr><td><span class=\"q\"><!--sp524861:0--><span style=\"color: #ffffff;\"><!--sp524861-->Requires Mortal Form</span><br />Form a blood bond, healing a friendly target for 77+0+SP*0.35+Spi*0.25 and applying <span style=\"color: #ffffff;\">Blood Rituals</span> to them, bouncing to up to 10 nearby allies, healing for less for each target struck.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/uico_blood_spell_04_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=706624'> Blood Rituals </a> <br />\n                            <span> Causes <span style=\"color: #ffffff;\">Bloodmoon Blast</span> to heal marked allies for 4+4.7 Points Per Level+Heal*0.07+Sta*0.085.</span><br /></span></td></tr></table><!--?800781:1:1:80-->",
+  "spells_enus": {
+    "524861": [
+      [
+        "|cffffffff",
+        "|cffff3232"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mark of Order",
+  "icon": "inv_inscription_80_vantusrune_uldir",
+  "tooltip_enus": "<table><tr><td><b>Mark of Order</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the healing of your next <span style=\"color: #FFFFFF;\">Reverse Wound</span> on the target by 10% for 20&nbsp;sec. <br /><br />Every 1 sec for the duration, they gain an additional stack of this effect, up to 5.</span></td></tr></table><!--?806269:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

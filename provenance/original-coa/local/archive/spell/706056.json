@@ -1,0 +1,8 @@
+{
+  "name_enus": "Slipstream",
+  "icon": "spell_priest_void_blast",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Slipstream</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Transforms <span style=\"color: #ffffff;\">Displacement</span> into <span style=\"color: #ffffff;\">Slipstream</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_priest_void_blast.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=707555'> Slipstream </a> <br />\n                            <span> Target an enemy and slip them into a pocket dimension for 5&nbsp;sec, banishing them and making them immune to damage.<br /><br />Activate this ability again before the duration expires to choose a new location to place that enemy within 20 yds.</span><br /></span></td></tr></table><!--?706056:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

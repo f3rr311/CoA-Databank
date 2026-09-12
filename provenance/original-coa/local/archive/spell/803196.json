@@ -1,0 +1,8 @@
+{
+  "name_enus": "Barbed Stinger",
+  "icon": "inv_knife_1h_artifactfangs_d_02",
+  "tooltip_enus": "<table><tr><td><b>Barbed Stinger</b><br /><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Clears <span style=\"color: #66ff66;\">Exposed Flesh</span> stacks and flings a <span style=\"color: #ffffff;\">Barbed Stinger</span> into an enemy for 10&nbsp;sec, plus an additional 1 sec per cleared stack.<br /><br />Recasting this ability on the same target will rip the stinger out, pulling them to you and dealing Nature damage, scaling based on how long the stinger was left in them.</span></td></tr></table><!--?803196:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

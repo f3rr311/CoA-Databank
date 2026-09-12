@@ -1,0 +1,8 @@
+{
+  "name_enus": "Realm of Fire",
+  "icon": "achievement_dungeon_firelandsraid",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Realm of Fire</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Meteor</span> by 30 sec.</span></td></tr></table><!--?704837:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

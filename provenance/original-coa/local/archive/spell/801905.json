@@ -1,0 +1,8 @@
+{
+  "name_enus": "Firefall",
+  "icon": "ability_ironmaidens_grapeshotblast",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Firefall</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>12% of base mana<br /><table width=\"100%\"><tr><td>1.5 sec cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ff7f7f;\">Generates 10 Heat Per Target</span><br />Call down streaks of fire upon an enemy and up to 8 enemies within 15 yds of them, dealing 79+0+FireP*0.3124 Fire damage.</span></td></tr></table><!--?801905:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

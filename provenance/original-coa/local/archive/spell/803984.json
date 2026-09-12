@@ -1,0 +1,8 @@
+{
+  "name_enus": "Soulspear",
+  "icon": "ability_bastion_warlock",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Soulspear</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>1.5 sec cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Deals 31 to 35 Shadow Damage to an enemy.<br /><br />If you have <span style=\"color: #5ee2ff;\">Soul Infusion</span> this spell is instant cast, but does not consume <span style=\"color: #5ee2ff;\">Soul Infusion</span>.</span></td></tr></table><!--?803984:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

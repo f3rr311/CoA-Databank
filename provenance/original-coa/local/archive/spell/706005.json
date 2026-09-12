@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vile Fury",
+  "icon": "spell_nature_removedisease",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Vile Fury</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Vile Stinger</span> generates 5 Rage and the cost of <span style=\"color: #ffffff;\">Hivebreak</span> is reduced by 5.</span></td></tr></table><!--?706005:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

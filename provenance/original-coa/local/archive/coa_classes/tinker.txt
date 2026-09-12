@@ -1,0 +1,52 @@
+Tinker Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Tinker Overview
+ Tinkers bring mechanical ingenuity to CoA with round-swapping gunplay and deployable gadgets. Demolition transforms battlefields with explosives, Mechanics builds turrets and mechs, and Invention heals through beacons and nanobots. The Rounds mechanic rewards preparation and tactical ammunition choices.
+ Eccentric inventor deploying bombs, turrets, mechs, and an arsenal of bullet types on the battlefield.
+ Class Mechanic — Rounds
+ Tinkers carry an arsenal of unique round types for their gun, swapping ammunition for different effects.
+ Tinker uses Rounds as its primary resource and wears Leather / Mail armor.
+ Specializations
+ At level 10, Tinker players choose one of three specializations, each offering a distinct playstyle:
+ Demolition: Explosive specialist wielding blackpowder — rocket launchers, handcannons, cannonballs, and sapper charges.
+ Mechanics: Master builder of turrets, land mines, and Shredder mechsuits with sawblades and flamethrowers.
+ Invention: Support healer placing effect beacons, deploying nanobots, and using a healing gun to purge and patch allies.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Unique gadget gameplay
+ Strength: Invention provides group healing
+ Strength: Demolition strong area denial
+ Weakness: Gadget and round management
+ Weakness: Complex rotation
+ Weakness: Lower sustained DPS than pure casters
+ Leveling Tips
+ Demolition offers the fastest leveling with strong AoE bombs. Invention shines in dungeons where beacons support the group. Manage gadget charges during extended fights.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Mechanics turrets control battleground chokepoints. Demolition burst catches healers off guard in arena.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Tinker in Conquest of Azeroth? Tinker is a Ranged DPS / Healer class wearing Leather / Mail armor with Rounds as its resource.
+ What is the Rounds mechanic? Tinkers carry an arsenal of unique round types for their gun, swapping ammunition for different effects.
+ When do Tinker specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Tinker good for beginners? Tinker has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Tinker have? Tinker has three specializations: Demolition, Mechanics, Invention.

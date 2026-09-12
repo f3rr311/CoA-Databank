@@ -1,0 +1,8 @@
+{
+  "name_enus": "Burning Armor",
+  "icon": "creatureportrait_fomorhand",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Burning Armor</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Direct damage taken now has a 20% chance to ignite you, dealing 11+1.1 Points Per Level+FireP*0.15 Fire damage every 2 sec for 10&nbsp;sec to 5 nearby enemies.</span></td></tr></table><!--?805479:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

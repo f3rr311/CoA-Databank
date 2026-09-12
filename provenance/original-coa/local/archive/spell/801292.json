@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chromatic Shard",
+  "icon": "inv_enchanting_wod_crystalshard2",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Chromatic Shard</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>23% of base mana<br /><table width=\"100%\"><tr><td>3.5 sec cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Fling a shard of chaos at an enemy, dealing 209+0+SP*1.5 Chromatic Damage, piercing immunities and resistances.<br /><br />Dealing damage with <span style=\"color: #ffffff;\">Anomaly Spikes</span> reduces the cast time of this ability by 10% for 30&nbsp;sec, stacking 10 times.</span></td></tr></table><!--?801292:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

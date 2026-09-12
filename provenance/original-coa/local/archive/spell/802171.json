@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dragon's Wrath",
+  "icon": "achievement_dungeon_bastion_of_twilight_ladysinestra",
+  "tooltip_enus": "<table><tr><td><b>Dragon's Wrath</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Dealing direct Fire Damage to an enemy from behind unleashes an additional 9+(PL*0.7) Fire Damage.</span></td></tr></table><!--?802171:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,264 @@
+{
+ "profiles": {
+  "patchwerk": {
+   "move": 0.0,
+   "switch": 0.0,
+   "execute": 0.0,
+   "note": "stand still, one target \u2014 what the model already scores"
+  },
+  "movement": {
+   "move": 0.3,
+   "switch": 0.0,
+   "execute": 0.0,
+   "note": "heavy movement, e.g. Heigan / Thaddius / Malygos"
+  },
+  "switching": {
+   "move": 0.1,
+   "switch": 4.0,
+   "execute": 0.0,
+   "note": "adds every ~15s, e.g. Gluth / Anub / Blood Council"
+  },
+  "execute": {
+   "move": 0.05,
+   "switch": 0.0,
+   "execute": 0.25,
+   "note": "long sub-20% phase, e.g. Saurfang / Lich King"
+  },
+  "realistic": {
+   "move": 0.15,
+   "switch": 1.5,
+   "execute": 0.15,
+   "note": "a blend \u2014 the closest thing to an average raid fight"
+  }
+ },
+ "branches": [
+  {
+   "branch": "barbarian",
+   "by_profile": {
+    "patchwerk": 2055,
+    "movement": 2055,
+    "switching": 2055,
+    "execute": 2055,
+    "realistic": 2055
+   },
+   "worst_vs_patchwerk": 0.0,
+   "rel_realistic": 20.6
+  },
+  {
+   "branch": "reaper",
+   "by_profile": {
+    "patchwerk": 1947,
+    "movement": 1947,
+    "switching": 1947,
+    "execute": 1947,
+    "realistic": 1947
+   },
+   "worst_vs_patchwerk": 0.0,
+   "rel_realistic": 14.3
+  },
+  {
+   "branch": "knight-of-xoroth",
+   "by_profile": {
+    "patchwerk": 1898,
+    "movement": 1898,
+    "switching": 1898,
+    "execute": 1898,
+    "realistic": 1898
+   },
+   "worst_vs_patchwerk": 0.0,
+   "rel_realistic": 11.4
+  },
+  {
+   "branch": "runemaster",
+   "by_profile": {
+    "patchwerk": 1842,
+    "movement": 1842,
+    "switching": 1842,
+    "execute": 1842,
+    "realistic": 1842
+   },
+   "worst_vs_patchwerk": -0.0,
+   "rel_realistic": 8.1
+  },
+  {
+   "branch": "stormbringer",
+   "by_profile": {
+    "patchwerk": 1806,
+    "movement": 1750,
+    "switching": 1730,
+    "execute": 1796,
+    "realistic": 1757
+   },
+   "worst_vs_patchwerk": -4.2,
+   "rel_realistic": 3.1
+  },
+  {
+   "branch": "pyromancer",
+   "by_profile": {
+    "patchwerk": 1843,
+    "movement": 1753,
+    "switching": 1692,
+    "execute": 1828,
+    "realistic": 1753
+   },
+   "worst_vs_patchwerk": -8.2,
+   "rel_realistic": 2.9
+  },
+  {
+   "branch": "cultist",
+   "by_profile": {
+    "patchwerk": 1841,
+    "movement": 1796,
+    "switching": 1634,
+    "execute": 1834,
+    "realistic": 1747
+   },
+   "worst_vs_patchwerk": -11.2,
+   "rel_realistic": 2.6
+  },
+  {
+   "branch": "starcaller",
+   "by_profile": {
+    "patchwerk": 1807,
+    "movement": 1738,
+    "switching": 1709,
+    "execute": 1796,
+    "realistic": 1744
+   },
+   "worst_vs_patchwerk": -5.4,
+   "rel_realistic": 2.4
+  },
+  {
+   "branch": "witch-hunter",
+   "by_profile": {
+    "patchwerk": 1741,
+    "movement": 1700,
+    "switching": 1727,
+    "execute": 1752,
+    "realistic": 1733
+   },
+   "worst_vs_patchwerk": -2.4,
+   "rel_realistic": 1.8
+  },
+  {
+   "branch": "bloodmage",
+   "by_profile": {
+    "patchwerk": 1806,
+    "movement": 1764,
+    "switching": 1634,
+    "execute": 1799,
+    "realistic": 1703
+   },
+   "worst_vs_patchwerk": -9.5,
+   "rel_realistic": 0.0
+  },
+  {
+   "branch": "chronomancer",
+   "by_profile": {
+    "patchwerk": 1772,
+    "movement": 1664,
+    "switching": 1627,
+    "execute": 1754,
+    "realistic": 1673
+   },
+   "worst_vs_patchwerk": -8.2,
+   "rel_realistic": -1.8
+  },
+  {
+   "branch": "venomancer",
+   "by_profile": {
+    "patchwerk": 1805,
+    "movement": 1624,
+    "switching": 1604,
+    "execute": 1775,
+    "realistic": 1663
+   },
+   "worst_vs_patchwerk": -11.1,
+   "rel_realistic": -2.4
+  },
+  {
+   "branch": "ranger",
+   "by_profile": {
+    "patchwerk": 1753,
+    "movement": 1594,
+    "switching": 1658,
+    "execute": 1727,
+    "realistic": 1655
+   },
+   "worst_vs_patchwerk": -9.1,
+   "rel_realistic": -2.8
+  },
+  {
+   "branch": "templar",
+   "by_profile": {
+    "patchwerk": 1608,
+    "movement": 1608,
+    "switching": 1608,
+    "execute": 1608,
+    "realistic": 1608
+   },
+   "worst_vs_patchwerk": -0.0,
+   "rel_realistic": -5.6
+  },
+  {
+   "branch": "primalist",
+   "by_profile": {
+    "patchwerk": 1563,
+    "movement": 1563,
+    "switching": 1563,
+    "execute": 1563,
+    "realistic": 1563
+   },
+   "worst_vs_patchwerk": -0.0,
+   "rel_realistic": -8.3
+  },
+  {
+   "branch": "felsworn",
+   "by_profile": {
+    "patchwerk": 1527,
+    "movement": 1494,
+    "switching": 1441,
+    "execute": 1521,
+    "realistic": 1483
+   },
+   "worst_vs_patchwerk": -5.6,
+   "rel_realistic": -12.9
+  },
+  {
+   "branch": "tinker",
+   "by_profile": {
+    "patchwerk": 1417,
+    "movement": 1312,
+    "switching": 1382,
+    "execute": 1400,
+    "realistic": 1365
+   },
+   "worst_vs_patchwerk": -7.4,
+   "rel_realistic": -19.9
+  },
+  {
+   "branch": "guardian",
+   "by_profile": {
+    "patchwerk": 1353,
+    "movement": 1353,
+    "switching": 1344,
+    "execute": 1362,
+    "realistic": 1356
+   },
+   "worst_vs_patchwerk": -0.6,
+   "rel_realistic": -20.4
+  },
+  {
+   "branch": "necromancer",
+   "by_profile": {
+    "patchwerk": 1338,
+    "movement": 1299,
+    "switching": 1294,
+    "execute": 1331,
+    "realistic": 1307
+   },
+   "worst_vs_patchwerk": -3.3,
+   "rel_realistic": -23.3
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Remote Detonation",
+  "icon": "inv_wildfirebomb_blood",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Improved Remote Detonation</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Remote Detonation</span> by 5 sec and increases its damage by 25%.</span></td></tr></table><!--?705784:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

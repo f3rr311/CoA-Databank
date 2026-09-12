@@ -1,0 +1,8 @@
+{
+  "name_enus": "Brimstone Splinters",
+  "icon": "inv_flaming_splinter",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Brimstone Splinters</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Grants <span style=\"color: #ffffff;\">Seeking Flame</span> a 30% chance to generate 1 additional <span style=\"color: #ff9933;\">Demonfire</span> when it deals damage.<br /><br />Chance to trigger is increased by 5% for each <span style=\"color: #ff9933;\">Demonfire</span> you have active.</span></td></tr></table><!--?805703:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

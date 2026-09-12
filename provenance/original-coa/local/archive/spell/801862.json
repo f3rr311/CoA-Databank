@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hydraxxian Apprentice",
+  "icon": "ability_shaman_fortifyingwaters",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hydraxxian Apprentice</b></td><th><b class=\"q0\">Passive</b></th></tr></table><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage dealt by your <span style=\"color: #FFFFFF;\">Conduction</span> by 15%.</span></td></tr></table><!--?801862:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sanguine Circle",
+  "icon": "custom_t_nhance_rpg_icons_bloodcell_border",
+  "tooltip_enus": "<table><tr><td><b>Sanguine Circle</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Causes <span style=\"color: #ffffff;\">Sanguine Shield</span> to mark affected allies with <span style=\"color: #ffffff;\">Blood Rituals</span> if learned.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/uico_blood_spell_04_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=706623'> Blood Rituals </a> <br />\n                            <span> Healed whenever the Bloodmage uses Bloodmoon Blast. Lasts 20&nbsp;sec.</span><br /></span></td></tr></table><!--?805913:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

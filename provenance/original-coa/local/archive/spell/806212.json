@@ -1,0 +1,15 @@
+{
+  "name_enus": "Aortic Assault",
+  "icon": "achievement_moguraid_06",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Aortic Assault</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>25% of base <br /><table width=\"100%\"><tr><td>Channeled</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Extend the duration of your active <span style=\"color: #a966f0;\">Cursed Form</span> by 3 sec and strike nearby enemies every 0.5 sec for 3&nbsp;sec, each strike causing 20+0+AP*0.12 Physical damage.<!--sp704115:0--><!--sp704115--></span></td></tr></table><!--?806212:1:1:80-->",
+  "spells_enus": {
+    "704115": [
+      [
+        "",
+        "<br /><br />When this ends, enemies in front of you suffer 600+1.0 Points Per Level+AP*0.6 Physical damage."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

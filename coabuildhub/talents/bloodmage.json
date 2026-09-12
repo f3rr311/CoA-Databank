@@ -1,0 +1,3855 @@
+{
+ "class": {
+  "id": 20,
+  "name": "Bloodmage",
+  "slug": "bloodmage",
+  "color": "#8788EE"
+ },
+ "specs": [
+  {
+   "id": 26,
+   "name": "Sanguine",
+   "tabId": 26
+  },
+  {
+   "id": 52,
+   "name": "Accursed",
+   "tabId": 52
+  },
+  {
+   "id": 53,
+   "name": "Eternal",
+   "tabId": 53
+  },
+  {
+   "id": 93,
+   "name": "Fleshweaver",
+   "tabId": 93
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 208,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Bloodmage (class tree)",
+   "nodeCount": 40,
+   "nodes": [
+    {
+     "id": "20-87-2-0",
+     "name": "Scarlet Delirium",
+     "x": 2,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_blooddrop_(2)_border",
+     "spellId": 801074,
+     "description": "Requires Mortal FormFlood the minds of up to 5 nearby enemies with visions of unraveling flesh, fearing them for 40 seconds (8 sec versus players) while draining their life essence, siphoning 8 + 15% SP health every 3 sec.Damage caused may interrupt the effect.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "20-87-4-0",
+     "name": "Fleshcraft",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_bloodtear_border",
+     "spellId": 801952,
+     "description": "Mend blood and bone, healing an ally for 50% of their maximum health and applies Sated.SatedCannot be affected by Fleshcraft for 3 minutes.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "20-87-6-0",
+     "name": "Blood Pact",
+     "x": 6,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_xavius_darkeningsoul",
+     "spellId": 801955,
+     "description": "Invoke a blood pact, exchanging health for enhanced reflexes, increasing your chance to dodge and reducing the chance for ranged attacks to hit you by 50% for 12 seconds.While active you can dodge or parry while casting.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "20-87-1-1",
+     "name": "Night Stalker",
+     "x": 1,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_eye_04",
+     "spellId": 807774,
+     "description": "All damage and healing done is increased by 5% at night.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-2-0"
+     ]
+    },
+    {
+     "id": "20-87-4-1",
+     "name": "Alacrity",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_run_border",
+     "spellId": 504285,
+     "description": "Increases all primary stats by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-2-0",
+      "20-87-4-0",
+      "20-87-6-0"
+     ]
+    },
+    {
+     "id": "20-87-7-1",
+     "name": "Blood Runs Cold",
+     "x": 7,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "sha_ability_warrior_bloodnova",
+     "spellId": 560257,
+     "description": "Your Blood Pact now also increases your healing received by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-6-0"
+     ]
+    },
+    {
+     "id": "20-87-2-2",
+     "name": "Bloody Sacrifice",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_sacrificialdagger_blood",
+     "spellId": 705742,
+     "description": "Increases your healing received by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-1-1"
+     ]
+    },
+    {
+     "id": "20-87-6-2",
+     "name": "Dark Curse",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_racial_cannibalize",
+     "spellId": 704649,
+     "description": "Increases critical strike chance by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-7-1"
+     ]
+    },
+    {
+     "id": "20-87-1-3",
+     "name": "Liquify",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_ironmaidens_corruptedblood",
+     "spellId": 806310,
+     "description": "Requires Mortal FormDissipate into a pool of blood, making you immune to damage from spells and attacks, but preventing you from attacking or casting spells and slowing your movement speed by -30% for 6 seconds.Usable while stunned, feared or confused.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-87-2-2"
+     ]
+    },
+    {
+     "id": "20-87-4-3",
+     "name": "Blood Rush",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_rogue_bloodyeye",
+     "spellId": 560254,
+     "description": "Periodic damage dealt now has a 20% chance to grant you Blood Rush. Can only occur once every 5 sec.Blood RushIncreases your haste by 20% for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-6-2",
+      "20-87-4-1",
+      "20-87-2-2"
+     ]
+    },
+    {
+     "id": "20-87-7-3",
+     "name": "Shadow Howl",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warlock_howlofterror",
+     "spellId": 806177,
+     "description": "Let loose a dark howl that inspires your allies, granting immunity to movement impairing effects to all allies for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-87-6-2"
+     ]
+    },
+    {
+     "id": "20-87-0-4a",
+     "name": "Mucking Around",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_abominationexplosion",
+     "spellId": 681444,
+     "description": "Reduces the cast time of Scarlet Delirium by -1 sec, but increases the health cost by 100%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-1-3"
+     ]
+    },
+    {
+     "id": "20-87-0-4b",
+     "name": "Blood Clot",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_enslavespell_blood",
+     "spellId": 680657,
+     "description": "Your Scarlet Delirium now deals 100% increased damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-87-2-4",
+     "name": "Bloodbender",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_handsofblood_border",
+     "spellId": 704635,
+     "description": "Increases the effectiveness of Offerings by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-1-3",
+      "20-87-2-2"
+     ]
+    },
+    {
+     "id": "20-87-4-4",
+     "name": "Hemostasis",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_bloodvision_border",
+     "spellId": 681304,
+     "description": "Trap an enemy in a blood orb, horrifying them in place for 4 seconds.Reactivating this ability within 4 seconds, instantly pops the Hemostasis, dealing 137 + 43% AP + 103% shadow SP Shadow damage and reducing their healing received by -60% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-87-4-3"
+     ]
+    },
+    {
+     "id": "20-87-6-4",
+     "name": "Mortal Wounds",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_deathwing_bloodcorruption_death",
+     "spellId": 504292,
+     "description": "Your direct harmful critical strikes with spells and abilities now cause the target to bleed for 306 + 6% AP + 30% SP over 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-6-2",
+      "20-87-7-3"
+     ]
+    },
+    {
+     "id": "20-87-8-4a",
+     "name": "Crimson Etchings",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_engineerskill03_border",
+     "spellId": 570735,
+     "description": "Removes the health cost of your Blood Shield and Vital Shield.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-7-3"
+     ]
+    },
+    {
+     "id": "20-87-8-4b",
+     "name": "Bloodbound Etchings",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_stonetablet_stainedblood",
+     "spellId": 570758,
+     "description": "Your Blood Shield now increases your health regeneration by 50% more.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-87-1-5",
+     "name": "Veins of Vengeance",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_rogue_sanguinaryvein",
+     "spellId": 560074,
+     "description": "Increases your chance to resist curse effects by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-2-4",
+      "20-87-0-4a",
+      "20-87-0-4b"
+     ]
+    },
+    {
+     "id": "20-87-3-5a",
+     "name": "Saturating Sutures",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "trade_archaeology_bloodysatyrscepter",
+     "spellId": 504098,
+     "description": "Your periodic damage and healing has a 15% chance to reduce the cost your next Sanguine Mend by -100% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-4-4",
+      "20-87-2-4"
+     ]
+    },
+    {
+     "id": "20-87-3-5b",
+     "name": "Dark Mending",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_shadowtouch_border",
+     "spellId": 561278,
+     "description": "Reduces the cast time of Sanguine Mend by -0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-87-5-5",
+     "name": "Blood Moon",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_deathwing_bloodcorruption_earth",
+     "spellId": 804199,
+     "description": "Your Animated Blood now spawns an additional amalgam.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-4-4",
+      "20-87-6-4"
+     ]
+    },
+    {
+     "id": "20-87-7-5",
+     "name": "Infected Blood",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_yorsahj_bloodboil_orangeoil",
+     "spellId": 805035,
+     "description": "Periodic damage dealt now reduces the enemy's movement speed by -30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-8-4a",
+      "20-87-6-4",
+      "20-87-8-4b"
+     ]
+    },
+    {
+     "id": "20-87-1-6",
+     "name": "Blood Veil",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_blood_drain_border",
+     "spellId": 504263,
+     "description": "Create a magical veil around an ally, absorbing 50% of incoming damage, up to a maximum of 511 + 150% Spirit + 75% AP for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-87-3-5a",
+      "20-87-1-5",
+      "20-87-3-5b"
+     ]
+    },
+    {
+     "id": "20-87-4-6",
+     "name": "Easy Prey",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_mount_epicbatmount",
+     "spellId": 704621,
+     "description": "Increases the duration of Hemostasis by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-4-4"
+     ]
+    },
+    {
+     "id": "20-87-7-6",
+     "name": "Wicked Howl",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_t_bloodmaw_border",
+     "spellId": 804207,
+     "description": "Let loose a wicked howl, increasing your maximum health by 30% for 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-87-7-5",
+      "20-87-5-5"
+     ]
+    },
+    {
+     "id": "20-87-0-7a",
+     "name": "Bloodmoon Power",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "sha_ability_rogue_bloodyeye_nightmare",
+     "spellId": 801961,
+     "description": "Your Liquify now cleanses all negative effects when used.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-1-6"
+     ]
+    },
+    {
+     "id": "20-87-0-7b",
+     "name": "Vampiric Pools",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "warlock_bloodstone",
+     "spellId": 504088,
+     "description": "When Liquify ends, you now leech 474 + 100% SP health from nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-87-2-7",
+     "name": "Adrenaline",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_reincarnation",
+     "spellId": 300986,
+     "description": "Reduces the duration of bleed, root, and movement slowing effects against you by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-1-6"
+     ]
+    },
+    {
+     "id": "20-87-3-7",
+     "name": "Life Scent",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_rogue_garrote",
+     "spellId": 706617,
+     "description": "Increases your stealth detection significantly.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-4-6",
+      "20-87-3-5a",
+      "20-87-3-5b"
+     ]
+    },
+    {
+     "id": "20-87-5-7a",
+     "name": "Coagulation",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_maldraxxusslime_red",
+     "spellId": 706258,
+     "description": "Your Blood Shield now also dispels 1 bleed effect from you every 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-4-6",
+      "20-87-5-5"
+     ]
+    },
+    {
+     "id": "20-87-5-7b",
+     "name": "Visceral Magic",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_deathknight_bloodpresence",
+     "spellId": 707371,
+     "description": "Adds 40% to the Armor contribution from items by Blood Shield.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-87-6-7",
+     "name": "Crimson Curse",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "novart_physical_ability_(14)_border",
+     "spellId": 706656,
+     "description": "Your direct damage critical strikes increase the damage the target takes from bleed effects by 30% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-7-6"
+     ]
+    },
+    {
+     "id": "20-87-8-7",
+     "name": "Bloodleaper",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_boot_cloth_raidwarlock_r_01",
+     "spellId": 806423,
+     "description": "Reduces the cooldown of your Lunge by -10 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-7-6"
+     ]
+    },
+    {
+     "id": "20-87-2-8",
+     "name": "Everhungry",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_food_legion_heartyfeast",
+     "spellId": 804599,
+     "description": "Direct critical strikes now increase your haste by 10% for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-0-7a",
+      "20-87-2-7",
+      "20-87-0-7b"
+     ]
+    },
+    {
+     "id": "20-87-4-8",
+     "name": "Predator",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_summonfelhunter",
+     "spellId": 300590,
+     "description": "Your Sanguine Mend now heals 9 additional nearby target.Increases the critical damage of Claw Sweep and Sanguine Rupture by 1%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-5-7a",
+      "20-87-3-7",
+      "20-87-5-7b"
+     ]
+    },
+    {
+     "id": "20-87-6-8",
+     "name": "Blood Trails",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "uico_blood_spell_07_border",
+     "spellId": 804858,
+     "description": "Periodic damage and healing now causes targets to spill a pool of blood beneath them.Allies in a Cursed Form who move through the pools of blood gain Trail of Blood for 6 seconds.Trail of BloodMovement speed cannot be reduced below 80%. Movement speed increased by 20%. Damage dealt increased by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-8-7",
+      "20-87-6-7"
+     ]
+    },
+    {
+     "id": "20-87-1-9",
+     "name": "Transfusion",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_bloodboil_border",
+     "spellId": 705734,
+     "description": "Swap health percentages with an ally.Increases the lower health percentage of the two to 40%, if below that amount.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-87-0-7a",
+      "20-87-2-8",
+      "20-87-0-7b"
+     ]
+    },
+    {
+     "id": "20-87-4-9",
+     "name": "Nightmare",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_deathcoilv2_blood",
+     "spellId": 300226,
+     "description": "While above 50% maximum health, abilities that cost Rage now consume 2% of your maximum health to damage or heal your target for an additional 10% of the value.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-87-2-8",
+      "20-87-6-8",
+      "20-87-4-8"
+     ]
+    },
+    {
+     "id": "20-87-7-9",
+     "name": "Blood Bond",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_bloodsacrifice_border",
+     "spellId": 504627,
+     "description": "Bond yourself to an ally for 30 minutes, causing direct damage taken by the ally to generate 1 Rage and 3% base health and redirect their threat generated to you.In addition, while out of combat, you and your bonded ally have 30% increased movement speed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-87-8-7",
+      "20-87-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 26,
+   "name": "Sanguine",
+   "nodeCount": 40,
+   "nodes": [
+    {
+     "id": "20-26-3-0",
+     "name": "Transgression",
+     "x": 3,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "epic_rpg_icon_pack_blood_0002s_0000_foreground_border",
+     "spellId": 504728,
+     "description": "Transforms your Blood Curse into Transgression.Transgression (Cursed Form)Enter a unique Cursed Form for 30 seconds that does not disable the use of Mortal Form abilities and casts a free Vampiric Fang on your target.While active, direct spell damage triggers a Vampiric Feast, dealing 20% additional Shadow damage to enemies, healing you equal to 50% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "20-26-5-0",
+     "name": "Vampiric Fang",
+     "x": 5,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "custom_t_bloodhaze_border",
+     "spellId": 804726,
+     "description": "Expends Thirst StacksSteal 36 + 34% SP health from an enemy.Damage increased by 10% for each Thirst stack. Clears Insatiable and Thirst stacks.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "20-26-10-0",
+     "name": "Thirst",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "epic_rpg_icon_pack_blood_0003s_0000_hand_border",
+     "spellId": 92112,
+     "description": "Level 10 PassiveSpells that cost health now grant Thirst.Reaching 10 stacks makes you Insatiable, reducing your damage dealt by -30% every 3 sec until Thirst ends.ThirstGenerates 5 Rage and then increases the health costs of your spells by 5% and increases their damage by 3%. Stacks 10 times.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-26-4-1",
+     "name": "Valanar's Vengeance",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "ability_deathknight_necroticaura",
+     "spellId": 560315,
+     "description": "Requires Mortal FormLaunch a powerful blood bolt at an enemy, dealing 188 + 127.75% SP Shadow damage.Each stack of Thirst reduces the cast time of this ability and increases its damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-26-5-0",
+      "20-26-3-0"
+     ]
+    },
+    {
+     "id": "20-26-2-2",
+     "name": "Atherann's Wickedness",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "spell_shadow_destructivesoul",
+     "spellId": 704642,
+     "description": "Increases your Shadow damage dealt by 4% and increases your hit chance by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-4-1"
+     ]
+    },
+    {
+     "id": "20-26-6-2",
+     "name": "Fearmonger",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "5_assassinskill02_border",
+     "spellId": 501132,
+     "description": "Increases the tick rate and cost of Taldaram's Torment by -30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-4-1"
+     ]
+    },
+    {
+     "id": "20-26-10-2",
+     "name": "Cunning of Atherann",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "atherann2",
+     "spellId": 706599,
+     "description": "Level 20 PassiveIncreases your spell damage by 25% of your Stamina and Spirit.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "20-26-10-0"
+     ]
+    },
+    {
+     "id": "20-26-1-3",
+     "name": "Blood Constructor",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "spell_shadow_corpseexplode",
+     "spellId": 561196,
+     "description": "Increases the duration of Animated Blood by 1 sec per stack of Thirst.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-2-2"
+     ]
+    },
+    {
+     "id": "20-26-3-3",
+     "name": "Aneurysm",
+     "x": 3,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "spell_argus_psychic_scarring",
+     "spellId": 806099,
+     "description": "Counter the enemy's spellcast, preventing any spell from that school of magic from being cast for 4 seconds. Successfully interrupting an enemy heals you for 5% of your maximum health.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-26-2-2"
+     ]
+    },
+    {
+     "id": "20-26-5-3",
+     "name": "Darkfallen's Embrace",
+     "x": 5,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "inv_staff_2h_artifactdeadwind_d_06",
+     "spellId": 560261,
+     "description": "Increases your spell haste by 3% and increases the range of your Sanguine spells and Bloodbolt by 5 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-6-2"
+     ]
+    },
+    {
+     "id": "20-26-7-3",
+     "name": "Blood Banquet",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "spell_shadow_bloodboil",
+     "spellId": 560250,
+     "description": "Increases the damage of Valanar's Vengeance and Taldaram's Torment by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-6-2"
+     ]
+    },
+    {
+     "id": "20-26-0-4",
+     "name": "The Cup Runneth Over",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "inv_misc_cauldron_fire",
+     "spellId": 807544,
+     "description": "Increases the spell power scaling of Bloodmoon Blast, Taldaram's Torment and Bloodbolt by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-1-3"
+     ]
+    },
+    {
+     "id": "20-26-2-4",
+     "name": "Lifedrinker",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "nhi_blood_slash_border",
+     "spellId": 802576,
+     "description": "Increases the damage of your Vampiric Fang by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-1-3",
+      "20-26-3-3"
+     ]
+    },
+    {
+     "id": "20-26-4-4",
+     "name": "Essence Harvester",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "spell_animarevendreth_debuff",
+     "spellId": 806421,
+     "description": "Being struck by an enemy while below 35% health instantly resets the cooldown of your Vampiric Fang and grants you Wretched.Can only occur once per minute.WretchedGenerates 10 Rage and 1 stack of Thirst every 1 sec for 10 seconds. Vampiric Fang removes this effect.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-3-3",
+      "20-26-5-3"
+     ]
+    },
+    {
+     "id": "20-26-6-4",
+     "name": "Night Feast",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "ability_ironmaidens_maraksbloodcalling",
+     "spellId": 563736,
+     "description": "Each point of Rage now increases the damage of Bloodbolt by 1%, but its Rage cost is increased by 10.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-7-3",
+      "20-26-5-3"
+     ]
+    },
+    {
+     "id": "20-26-8-4a",
+     "name": "Swarm of Flies",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "ability_warlock_burningembers",
+     "spellId": 704646,
+     "description": "Your Bloodbolt now refreshes the duration of Taldaram's Torment.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-7-3"
+     ]
+    },
+    {
+     "id": "20-26-8-4b",
+     "name": "Blood Prince's Command",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "nhi_foreshadowblood_border",
+     "spellId": 704641,
+     "description": "Your Bloodbolt is now guaranteed to critically strike on enemies affected by Taldaram's Torment.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-26-10-4",
+     "name": "Bloodsores",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "ability_deathknight_desolation",
+     "spellId": 805591,
+     "description": "Level 30 PassivePeriodic damage dealt now has a 20% chance to apply a Bloodsore to your target for 8 seconds, stacking 5 times.BloodsoreIncreases the damage of your next Sanguine Rupture and Bloodmoon Blast against the target by 10% for 8 seconds, stacking 5 times.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "20-26-10-2"
+     ]
+    },
+    {
+     "id": "20-26-1-5",
+     "name": "Malediction",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "_soulharvest2__red",
+     "spellId": 800776,
+     "description": "Condemn an enemy, dealing 248 + 77.33% shadow SP Shadow damage over 12 seconds and increasing the damage they take from your next 5 direct damage spells by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-26-2-4",
+      "20-26-0-4"
+     ]
+    },
+    {
+     "id": "20-26-4-5",
+     "name": "Atherann's Anguish",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "_bloodplague_red",
+     "spellId": 680680,
+     "description": "Unleash a hemoplague upon the target area, accumulating 30% of the damage you deal to affected enemies for 10 seconds, and then exploding for that amount of Shadow damage.Damage caused by this ability cannot critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-26-4-4",
+      "20-26-2-4",
+      "20-26-6-4"
+     ]
+    },
+    {
+     "id": "20-26-7-5",
+     "name": "Keleseth's Calamity",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "ability_revendreth_paladin",
+     "spellId": 560249,
+     "description": "Requires Mortal FormBend blood in an area, dealing 177 + 69% shadow SP Shadow damage to enemies.Each stack of Thirst reduces the cast time of this ability and increases its damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-26-8-4a",
+      "20-26-6-4",
+      "20-26-8-4b"
+     ]
+    },
+    {
+     "id": "20-26-0-6",
+     "name": "Hematoma",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "spell_shadow_possession",
+     "spellId": 504758,
+     "description": "Your Bloodbolt now heals for an additional 20% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-1-5"
+     ]
+    },
+    {
+     "id": "20-26-2-6",
+     "name": "Dominion of Blood",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "achievement_zone_bloodmystisle_01",
+     "spellId": 680716,
+     "description": "Your Vampiric Fang now heals you for an additional 50% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-1-5"
+     ]
+    },
+    {
+     "id": "20-26-3-6",
+     "name": "Dark Presence",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "sha_ability_rogue_envelopingshadows_nightmare",
+     "spellId": 300957,
+     "description": "Increases spell haste of all party and raid members by 3%. Does not stack with similar effects.In addition, increases your spell haste by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-4-5"
+     ]
+    },
+    {
+     "id": "20-26-5-6",
+     "name": "Twisted Magic",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "_deathcoilv2_blood",
+     "spellId": 704634,
+     "description": "Your direct harmful critical strikes increase the target's Shadow damage taken from you by 2%, stacking up to 5 times, for 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-4-5"
+     ]
+    },
+    {
+     "id": "20-26-6-6a",
+     "name": "Cursed Ground",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "spell_shadow_deathanddecay",
+     "spellId": 561195,
+     "description": "Increases the cast time of Sanguine Rupture by 2 sec, but now when you strike at least 5 enemies it causes them to bleed out, dealing an additional 352 Shadow damage over 2 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-7-5"
+     ]
+    },
+    {
+     "id": "20-26-6-6b",
+     "name": "Bloodwell Eruption",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "artifactability_blooddeathknight_umbilicuseternus",
+     "spellId": 560072,
+     "description": "Increases the radius of Sanguine Rupture by 5 yds and its critical strike chance by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-26-8-6",
+     "name": "Blood Parasites",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "ability_mount_bloodtick_red",
+     "spellId": 802315,
+     "description": "Your Taldaram's Torment now generates 3 additional Rage per tick and increases spell critical strike chance against the target by 3% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-8-4a",
+      "20-26-7-5",
+      "20-26-8-4b"
+     ]
+    },
+    {
+     "id": "20-26-10-6",
+     "name": "Reckless Abandon",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "nhi_bloodavatar_border",
+     "spellId": 504252,
+     "description": "Level 40 PassiveEach stack of Thirst now increases your critical strike chance by 1%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "20-26-10-4"
+     ]
+    },
+    {
+     "id": "20-26-1-7",
+     "name": "Blood Craving",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "spell_shadow_lifedrain",
+     "spellId": 800780,
+     "description": "Requires Mortal FormYou crave blood for 12 seconds, for the duration you cannot be interrupted or silenced, and you regain 5% of your maximum health and 15% of your missing Rage every 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-26-0-6",
+      "20-26-2-6"
+     ]
+    },
+    {
+     "id": "20-26-3-7",
+     "name": "Vampyr Lord",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "spell_shadow_improvedvampiricembrace",
+     "spellId": 560259,
+     "description": "Increases the damage dealt by your Animated Blood by 35%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-3-6",
+      "20-26-2-6"
+     ]
+    },
+    {
+     "id": "20-26-5-7",
+     "name": "Enthraller",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "ability_rogue_deadliness",
+     "spellId": 706619,
+     "description": "Increases the critical strike chance of Valanar's Vengeance and Keleseth's Calamity by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-5-6",
+      "20-26-6-6a",
+      "20-26-6-6b"
+     ]
+    },
+    {
+     "id": "20-26-7-7",
+     "name": "Blood Lord",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "achievement_boss_kael'thassunstrider_01",
+     "spellId": 704636,
+     "description": "Grants your Bloodsore a -15% chance to provide its benefits without being consumed.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-6-6a",
+      "20-26-8-6",
+      "20-26-6-6b"
+     ]
+    },
+    {
+     "id": "20-26-2-8",
+     "name": "Cardiac Arrest",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "nhi_bloodeye_border",
+     "spellId": 806944,
+     "description": "Your Valanar's Vengeance now deals an additional 50% of its initial damage dealt over 10 seconds, healing you for 50% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-3-7",
+      "20-26-1-7"
+     ]
+    },
+    {
+     "id": "20-26-4-8",
+     "name": "Agonizing Pain",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "warlock_bloodstone",
+     "spellId": 680745,
+     "description": "Damage dealt by your Atherann's Anguish now causes enemies hit to bleed, dealing 1405 + 100% shadow SP Shadow damage over 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-3-7",
+      "20-26-5-7"
+     ]
+    },
+    {
+     "id": "20-26-6-8",
+     "name": "Crimson Terror",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "nhi_bloodhand_border",
+     "spellId": 560073,
+     "description": "Your Transgression now grants spell damage equal to 50% of your Spirit for the duration.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-5-7",
+      "20-26-7-7"
+     ]
+    },
+    {
+     "id": "20-26-10-8",
+     "name": "Thirst for Blood",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "epic_rpg_icon_pack_blood_0002s_0000_foreground_border",
+     "spellId": 570023,
+     "description": "Level 50 PassiveReceive a bonus based on your Thirst level.Between 1-5 stacks of Thirst: You become Sated.Between 6-10 stacks of Thirst: You become Ravenous.SatedSpell haste increased by 10%.RavenousSpell critical damage increased by 100%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "20-26-10-6"
+     ]
+    },
+    {
+     "id": "20-26-2-9",
+     "name": "The Council Assembled",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "uico_blood_spell_06_border",
+     "spellId": 504103,
+     "description": "Atherann's Anguish now costs -25 less Rage.Taldaram's Torment now increases the damage of your next Valanar's Vengeance or Keleseth's Calamity by 3% per tick for 10 seconds, stacking 5 times.Valanar's Vengeance and Keleseth's Calamity now reduce the cooldown of Malediction by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-2-8"
+     ]
+    },
+    {
+     "id": "20-26-4-9",
+     "name": "Sacrificial Rite",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "nhi_shadowtentacle_border",
+     "spellId": 800785,
+     "description": "Requires Mortal FormInvoke a dark ritual, increasing your haste by 20% for 15 seconds.While active, attackers are afflicted with Cursed Blood. Can only occur once per sec.At the end of the duration, your healing done is increased by 15% and you are healed for 795 + 150% SP over 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-26-6-8",
+      "20-26-4-8",
+      "20-26-2-8"
+     ]
+    },
+    {
+     "id": "20-26-6-9",
+     "name": "Torture",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 26,
+     "icon": "inv_offhand_1h_artifactskulloferedar_d_05",
+     "spellId": 504071,
+     "description": "Increases the leech of Vampiric Feast by 50%.Consuming at least 9 stacks of Thirst with Vampiric Fang now extends the duration of Transgression by 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-26-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 52,
+   "name": "Accursed",
+   "nodeCount": 43,
+   "nodes": [
+    {
+     "id": "20-52-4-0",
+     "name": "Accursed Form",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "achievement_dungeon_hallsofattonement_echelon",
+     "spellId": 504710,
+     "description": "Transforms your Blood Curse into Accursed Form.Accursed Form (Cursed Form)Embrace your demonic curse for 30 seconds, entering an improved Cursed Form, increasing your attack power by 50% of your Agility and causing your melee attacks to reduce all healing done to the target by -20% for 10 seconds, stacking 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "20-52-10-0",
+     "name": "Unchained",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "nhi_foreshadowblood_border",
+     "spellId": 92113,
+     "description": "Level 10 PassiveYour damaging Mortal Form spells can now be cast while moving.",
+     "isPassive": true,
+     "nodeType": "SpendHex",
+     "requiredLevel": 10
+    },
+    {
+     "id": "20-52-4-1",
+     "name": "Reave",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "inv_weapon_shortblade_40",
+     "spellId": 800490,
+     "description": "Lacerate an enemy, dealing 125% Weapon Damage plus 26.If the enemy is bleeding, below 35% health, or if you are behind them, deal 100% additional Shadow damage for each condition met.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-52-4-0"
+     ]
+    },
+    {
+     "id": "20-52-2-2",
+     "name": "Puncturing Fangs",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "ability_deathwing_bloodcorruption_death",
+     "spellId": 804604,
+     "description": "Your Bloodmoon Blast now generates 3 additional Rage per hit.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-4-1"
+     ]
+    },
+    {
+     "id": "20-52-4-2",
+     "name": "Fang Over Fang",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "inv_misc_monsterfang_02",
+     "spellId": 504116,
+     "description": "Casting Bloodfang Bite now has a 20% chance to reset the cooldown of Reave.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-4-1"
+     ]
+    },
+    {
+     "id": "20-52-6-2",
+     "name": "Barely Human",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "spell_nzinsanity_bloodthirst",
+     "spellId": 504254,
+     "description": "Increases your armor penetration and the damage of spells that cost health by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-4-1"
+     ]
+    },
+    {
+     "id": "20-52-10-2",
+     "name": "Forbidden Power",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "5_bull_border",
+     "spellId": 500445,
+     "description": "Level 20 PassiveIncreases your spell critical strike rating by 30% of your Agility and spell hit rating by 5% of your Agility.",
+     "isPassive": true,
+     "nodeType": "SpendHex",
+     "requiredLevel": 20,
+     "dependencies": [
+      "20-52-10-0"
+     ]
+    },
+    {
+     "id": "20-52-1-3",
+     "name": "Veinburst",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "ability_ironmaidens_bloodritual",
+     "spellId": 504260,
+     "description": "Requires Mortal FormBlast an enemy, dealing 123 + 25% AP + 85% shadow SP Shadow damage.Deals 25% increased damage to bleeding targets.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-52-2-2"
+     ]
+    },
+    {
+     "id": "20-52-3-3a",
+     "name": "Shadow Pact",
+     "x": 3,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "spell_shadow_blackplague",
+     "spellId": 561227,
+     "description": "Increases the effectiveness of your Shields by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-4-2"
+     ]
+    },
+    {
+     "id": "20-52-3-3b",
+     "name": "Blood Pact",
+     "x": 3,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "ability_revendreth_deathknight",
+     "spellId": 560256,
+     "description": "Increases your maximum Rage by 20 and you now regenerate 4 Rage every 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-52-5-3",
+     "name": "Rage",
+     "x": 5,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "inv_artifact_corruptedbloodofzakajz",
+     "spellId": 504241,
+     "description": "Increases your spell damage by 15% of your attack power and the damage dealt by Reave by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-4-2"
+     ]
+    },
+    {
+     "id": "20-52-7-3",
+     "name": "Aortic Assault",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "achievement_moguraid_06",
+     "spellId": 806212,
+     "description": "Extend the duration of your active Cursed Form by 3 sec and strike nearby enemies every 1 sec for 3 seconds, each strike causing 20 + 12% AP Physical damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-52-6-2"
+     ]
+    },
+    {
+     "id": "20-52-0-4",
+     "name": "Terrorizer",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "ability_racial_bloodrage",
+     "spellId": 806210,
+     "description": "Increases the damage of Veinburst, Bloodfang Bite, and Claw Sweep on enemies below 35% health by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-1-3"
+     ]
+    },
+    {
+     "id": "20-52-1-4",
+     "name": "Sanguine Scripture",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "_book6_red",
+     "spellId": 804851,
+     "description": "Upon exiting Accursed Form, you gain 70% movement speed and spell haste for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-3-3a",
+      "20-52-1-3",
+      "20-52-3-3b"
+     ]
+    },
+    {
+     "id": "20-52-4-4",
+     "name": "Dark Hunt",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "spell_deathknight_bladedarmor",
+     "spellId": 705733,
+     "description": "Increases your Shadow damage dealt by 10% against bleeding targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-5-3",
+      "20-52-3-3a",
+      "20-52-3-3b"
+     ]
+    },
+    {
+     "id": "20-52-7-4a",
+     "name": "Gore Tome",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "_book2motif_kaelthas",
+     "spellId": 807788,
+     "description": "For the first 5 sec after activating a Cursed Form, your Bloodfang Bite is now guaranteed to critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-5-3",
+      "20-52-7-3"
+     ]
+    },
+    {
+     "id": "20-52-7-4b",
+     "name": "Leeching Tome",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "_book1_red",
+     "spellId": 807489,
+     "description": "Your Bloodbolt now leeches 50% more health, but it now costs 5 additional Rage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-52-8-4a",
+     "name": "Dark Intent",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "ability_deathknight_roilingblood",
+     "spellId": 707622,
+     "description": "When you Lunge at an enemy you now heal for 5% of your maximum health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-7-3"
+     ]
+    },
+    {
+     "id": "20-52-8-4b",
+     "name": "Cruel Intent",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "inv_amalgamofrage",
+     "spellId": 704653,
+     "description": "When you Lunge at an enemy you now strike them 3 times with auto attacks.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-52-10-4",
+     "name": "Blood Shards",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "uico_blood_spell_02_border",
+     "spellId": 804849,
+     "description": "Level 30 PassiveShadow Damage dealt now generates 1 Blood Shard, plus 1 additional if it critically strikes, for 10 minutes, up to 8.Dealing damage with Veinburst will now expend all stacks of Blood Shards, each dealing 18 + 9% AP + 15% SP Arcane damage to your target.",
+     "isPassive": true,
+     "nodeType": "SpendHex",
+     "requiredLevel": 30,
+     "dependencies": [
+      "20-52-10-2"
+     ]
+    },
+    {
+     "id": "20-52-0-5a",
+     "name": "Corrupted Blood",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "artifactability_blooddeathknight_umbilicuseternus",
+     "spellId": 704692,
+     "description": "When you use Taldaram's Torment on a Humanoid or Beast it now corrupts their blood, increasing your damage dealt against them by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-0-4",
+      "20-52-1-4"
+     ]
+    },
+    {
+     "id": "20-52-0-5b",
+     "name": "Cursed Blood",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "spell_shadow_curseoftounges",
+     "spellId": 707435,
+     "description": "Damage dealt by Taldaram's Torment now has a 20% chance to internally rupture, causing it to deal its damage an additional time to all enemies near the target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-52-2-5",
+     "name": "Bloodsurge",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "_skullcurse2_red",
+     "spellId": 553267,
+     "description": "Requires Mortal FormEnter a bloodsurge, enraging you and increasing your Shadow damage dealt and your spell critical strike chance by 20% for 20 seconds.At the end of the duration, or whenever you trigger Accursed Form, gain Bloodchaser instead.BloodchaserEnrage, increasing your Physical Damage dealt by 20% for 30 secondsWhile active, Bloodfang Bite now launches 1 Blood Shard, dealing 18 + 15% AP + 35% SP Shadow Damage to your target.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-52-1-4"
+     ]
+    },
+    {
+     "id": "20-52-4-5",
+     "name": "Dark Sigil",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "_hearthstonedark_deathknight",
+     "spellId": 560535,
+     "description": "Increases critical strike chance of all party and raid members by 3%. Does not stack with similar effects.In addition, you now heal for 15% of all critical damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-4-4"
+     ]
+    },
+    {
+     "id": "20-52-6-5",
+     "name": "Gore Barrage",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "custom_t_bloodspikes_border",
+     "spellId": 807345,
+     "description": "Reduces the cost of spells that cost health and Animated Blood by -30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-7-4a",
+      "20-52-7-4b"
+     ]
+    },
+    {
+     "id": "20-52-8-5",
+     "name": "Crimson Expedition",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "ability_criticalstrike",
+     "spellId": 523727,
+     "description": "Increases the critical strike chance of your Bloodbolt, Blood Shards, and Aortic Assault by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-7-4a",
+      "20-52-8-4a",
+      "20-52-7-4b",
+      "20-52-8-4b"
+     ]
+    },
+    {
+     "id": "20-52-0-6",
+     "name": "Killer Instinct",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "ability_deathknight_roilingblood",
+     "spellId": 704690,
+     "description": "Each point of Rage now increases the critical strike chance of Veinburst and Reave by 0.5%, up to a maximum of 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-2-5",
+      "20-52-0-5a",
+      "20-52-0-5b"
+     ]
+    },
+    {
+     "id": "20-52-2-6",
+     "name": "Crimson Feast",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "nhi_blood_grawl_border",
+     "spellId": 804602,
+     "description": "Every 5 second you remain in a Cursed Form now reduces the cooldown of your Bloodsurge by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-2-5"
+     ]
+    },
+    {
+     "id": "20-52-4-6",
+     "name": "Endure the Curse",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "inv_sulfurelemental_blood",
+     "spellId": 681190,
+     "description": "Reduce all damage taken by -30% for 10 seconds.While active, taking damage that would reduce your health below 10% will instantly heal you for 30% of your maximum health. Can only occur once.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-52-2-5",
+      "20-52-4-5",
+      "20-52-6-5"
+     ]
+    },
+    {
+     "id": "20-52-6-6",
+     "name": "Dark Frenzy",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "_warlock_plaiefuneste1",
+     "spellId": 704644,
+     "description": "Increases spell haste of all party and raid members by 3%. Does not stack with similar effects.In addition, while a Cursed Form is active, your global cooldowns are reduced by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-6-5"
+     ]
+    },
+    {
+     "id": "20-52-8-6",
+     "name": "Clotting",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "inv_hand_1h_pvpdraenors2_d_01",
+     "spellId": 704115,
+     "description": "At the end of Aortic Assault's duration, all enemies in a 10 yd frontal cone suffer 600 + 50% AP Physical damage.Damage dealt by this effect is increased by 25% against bleeding targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-8-5",
+      "20-52-6-5"
+     ]
+    },
+    {
+     "id": "20-52-10-6",
+     "name": "Relentless",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "inv_shoulder_mail_pvphunter_g_01",
+     "spellId": 704652,
+     "description": "Level 40 PassivePhysical critical strikes now reduce the cooldown of Aortic Assault by -1 sec and grant you Relentless.Relentless (Proc)Your Aortic Assault channels -10% faster for 10 seconds, stacking 5 times, and each strike now extends the duration of Taldaram's Torment by 2 sec.",
+     "isPassive": true,
+     "nodeType": "SpendHex",
+     "requiredLevel": 40,
+     "dependencies": [
+      "20-52-10-4"
+     ]
+    },
+    {
+     "id": "20-52-1-7",
+     "name": "Everlasting Hunt",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "ability_hunter_rapidkilling",
+     "spellId": 804686,
+     "description": "Damage dealt by Blood Shards now reduces the cooldown of Veinburst and Reave by -1.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-2-6",
+      "20-52-0-6"
+     ]
+    },
+    {
+     "id": "20-52-3-7",
+     "name": "One Man's Curse...",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "custom_t_nhance_rpg_icons_blooddrop_border",
+     "spellId": 680661,
+     "description": "Removes the health cost of Accursed Form and entering it now instantly restores 15% of your maximum health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-4-6",
+      "20-52-2-6"
+     ]
+    },
+    {
+     "id": "20-52-5-7",
+     "name": "Battleweaver",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "warlock_charredremains",
+     "spellId": 801963,
+     "description": "Casting Cursed Form abilities now has a 50% chance to generate 1 Blood Shard for 10 minutes, up to 8.Dealing damage with Bloodbolt will launch 1 Blood Shard, dealing 18 + 15% AP + 35% SP Arcane damage to your target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-6-6",
+      "20-52-4-6"
+     ]
+    },
+    {
+     "id": "20-52-7-7",
+     "name": "Inhumane",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "achievement_boss_breaker_darmac",
+     "spellId": 807488,
+     "description": "Dealing damage with Aortic Assault will now launch 1 Blood Shard, dealing 18 + 15% AP + 35% SP Arcane damage to your target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-6-6",
+      "20-52-8-6"
+     ]
+    },
+    {
+     "id": "20-52-2-8",
+     "name": "Night Hunter",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "spell_shadow_nethercloak",
+     "spellId": 704659,
+     "description": "Your Veinburst now has a 40% chance to not trigger a cooldown when cast.Your Bloodbolt now has a 40% chance to refund half of its Rage cost when cast.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-3-7",
+      "20-52-1-7"
+     ]
+    },
+    {
+     "id": "20-52-4-8",
+     "name": "Blood Scent",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "ability_physical_taunt",
+     "spellId": 804223,
+     "description": "While in Accursed Form, you now deal 15% increased damage to targets below 35% maximum health.Dealing direct damage to enemies below 35% maximum health now leeches health equal to 10% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-5-7",
+      "20-52-3-7"
+     ]
+    },
+    {
+     "id": "20-52-6-8",
+     "name": "Ultra Instinct",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "ability_druid_predatoryinstincts",
+     "spellId": 704654,
+     "description": "Direct ability critical strikes now increase your spell and ability critical strike chance and critical damage by 3% for 10 sec.Each additional critical strike increases this by an additional 3%, but reduces its duration by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-5-7",
+      "20-52-7-7"
+     ]
+    },
+    {
+     "id": "20-52-10-8",
+     "name": "The Hunter and the Hunted",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "nhi_blood_aura_border",
+     "spellId": 807487,
+     "description": "Level 50 PassiveWhen you activate a Cursed Form you now charge to your target if they are within 20 yds. If they're an enemy you root them for 2 seconds.Upon expiration, your Accursed Form can be reactivated to cause you to erupt in a burst of blood magic, leeching 364 + 33% shadow SP + 12.5% AP health from nearby enemies and teleporting you backwards.",
+     "isPassive": true,
+     "nodeType": "SpendHex",
+     "requiredLevel": 50,
+     "dependencies": [
+      "20-52-10-6"
+     ]
+    },
+    {
+     "id": "20-52-2-9",
+     "name": "Hemoburst",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "nhi_bloodbolt_border",
+     "spellId": 572855,
+     "description": "Requires Mortal FormUnleash a powerful burst of blood at an enemy, dealing 1480 + 65% AP + 50% SP Shadow damage. This ability is guaranteed to critically strike against bleeding targets.Extends the duration of your next Cursed Form by 5 sec for 30 seconds, stacking 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-52-2-8"
+     ]
+    },
+    {
+     "id": "20-52-4-9",
+     "name": "Final Embrace",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "nhi_bloodmaw_border",
+     "spellId": 524865,
+     "description": "Requires Mortal FormGorge on blood magic, entering a dramatically improved Cursed Form for 20 seconds, transforming your Bloodfang Bite into Crimson Maw, but draining your health over time.While active, every 1 sec you curse enemies within 8 yds, applying Hematoma for 6 seconds.Hematoma (Shadow Damage)Deals 55 + 15% shadow SP + 10% AP Shadow Damage and increases the damage the target takes from subsequent applications of Hematoma by 3%, stacking 10 times. Generates Rage based on damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-52-6-8",
+      "20-52-2-8",
+      "20-52-4-8"
+     ]
+    },
+    {
+     "id": "20-52-6-9",
+     "name": "Darkcasting",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 52,
+     "icon": "_devouringshadow_red",
+     "spellId": 706247,
+     "description": "Critical strikes with abilities now spawn a Blood Orb near you for 15 seconds.Blood Orb (Spawn)When you run over this, restore 3% of your missing health and 5 Rage and gain a stack of Darkcasting for 1 minute, stacking 10 times.Darkcasting (Buff)Gaining a stack reduces the cooldown of Animated Blood by 1 sec and causes your next Animated Blood to spawn 1 blood worm to attack your enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-52-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 53,
+   "name": "Eternal",
+   "nodeCount": 41,
+   "nodes": [
+    {
+     "id": "20-53-4-0",
+     "name": "Rotclaw",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "5_clawstrike_border",
+     "spellId": 804197,
+     "description": "2 Charges, 6 sec rechargeRavage all nearby enemies, dealing 28 + 10% AP Shadow damage, generating Rage and infecting their wounds, causing them to bleed for 24 + 46% AP Shadow damage over 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "20-53-10-0",
+     "name": "Eternal Curse",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "ability_racial_viciousness",
+     "spellId": 92114,
+     "description": "Level 10 PassiveTeaches you Eternal Curse.Eternal Curse (Cursed Form)Embrace your eternal curse, entering a Cursed Form, reducing your damage dealt by -10% and increasing your threat generated by 80%, plus an additional 50% from damage dealt by spells that cost health.While active your armor contribution from items is increased by 400% and your total Stamina is increased by 25%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-53-3-1",
+     "name": "Heightened Reflexes",
+     "x": 3,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "inv_skinning_80_coarsefur",
+     "spellId": 704627,
+     "description": "Increases your chance to dodge by 4% and your expertise by 5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-4-0"
+     ]
+    },
+    {
+     "id": "20-53-5-1",
+     "name": "Thick Pelt",
+     "x": 5,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "inv_misc_pelt_15",
+     "spellId": 704626,
+     "description": "Physical damage taken now reduces the Physical damage taken from the next attack within 10 seconds by -15 + 20% AP. Can only occur once every 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-4-0"
+     ]
+    },
+    {
+     "id": "20-53-2-2",
+     "name": "Eternal Hunt",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "inv_helm_cloth_raidpriest_l_01",
+     "spellId": 804201,
+     "description": "Increases your maximum health and reduces the cost of your spells and abilities by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-3-1"
+     ]
+    },
+    {
+     "id": "20-53-4-2",
+     "name": "Enduring",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "spell_shadow_painandsuffering",
+     "spellId": 300585,
+     "description": "Increases the damage of Bloodbolt by 25%, plus an additional 25% while below 35% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-3-1",
+      "20-53-5-1"
+     ]
+    },
+    {
+     "id": "20-53-6-2",
+     "name": "Eternal Resolve",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "skill_icon_skill73_border",
+     "spellId": 801962,
+     "description": "Activate your eternal resolve for 30 seconds, sending you into a feral frenzy, increasing your melee attack speed, maximum health, and healing received by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-53-5-1"
+     ]
+    },
+    {
+     "id": "20-53-10-2",
+     "name": "Uncanny Movement",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "spell_shadow_spectralsight",
+     "spellId": 301064,
+     "description": "Level 20 PassiveIncreases your Agility by 25% and your hit rating by 5% of your Agility.In addition, Claw Sweep now generates additional threat.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "20-53-10-0"
+     ]
+    },
+    {
+     "id": "20-53-1-3",
+     "name": "Blood Howl",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "nhi_nightmarehowl_border",
+     "spellId": 800782,
+     "description": "Taunts nearby enemies within 10 yds, forcing them to attack you for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-53-2-2"
+     ]
+    },
+    {
+     "id": "20-53-4-3a",
+     "name": "Coated In Darkness",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "ability_shaman_freedomwolf",
+     "spellId": 704625,
+     "description": "Casting Bloodbolt or Bloodfang Bite now reduces the cooldown of your Blood Pact by -0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-4-2"
+     ]
+    },
+    {
+     "id": "20-53-4-3b",
+     "name": "Coated In Blood",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "ability_racial_pureblood",
+     "spellId": 707626,
+     "description": "Increases the effectiveness of Blood Pact by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-53-7-3",
+     "name": "Bloodguard",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "_monkspecialattack_dodgebloodelf",
+     "spellId": 570746,
+     "description": "Increases the duration of Blood Pact by 4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-6-2"
+     ]
+    },
+    {
+     "id": "20-53-0-4",
+     "name": "Packleader",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "_worgenflayer_priest",
+     "spellId": 504290,
+     "description": "Casting Howl spell now enrages your summons, increasing their damage dealt by 10% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-1-3"
+     ]
+    },
+    {
+     "id": "20-53-2-4",
+     "name": "Vitality",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "inv_expulsom",
+     "spellId": 704166,
+     "description": "Increases your Stamina while in Eternal Curse by an additional 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-1-3"
+     ]
+    },
+    {
+     "id": "20-53-4-4",
+     "name": "Monstrous Hunger",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "achievement_dungeon_sanguinedepths_tarvold",
+     "spellId": 804811,
+     "description": "Enrage for 10 seconds, causing the next 6 Bloodfang Bites to have a -50% reduced global cooldown and cost and to trigger Call of the Darkwing.Call of the DarkwingCalls 1 to 2 Shadow Bats to appear from the shadows and strike the target for 28 + 40% SP + 20% AP Physical Damage, healing you equal to the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-53-4-3a",
+      "20-53-4-3b"
+     ]
+    },
+    {
+     "id": "20-53-6-4a",
+     "name": "Blood Moon",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "artifactability_balancedruid_halfmoon",
+     "spellId": 707623,
+     "description": "While below 75% health, you now heal for 3% of all damage you deal.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-7-3"
+     ]
+    },
+    {
+     "id": "20-53-6-4b",
+     "name": "Shadows In The Night",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "spell_nzinsanity_chasedbyshadows",
+     "spellId": 704662,
+     "description": "While above 75% health, your damage taken is reduced by -5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-53-8-4",
+     "name": "Uncanny Speed",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "spell_nature_spiritwolf",
+     "spellId": 807491,
+     "description": "Increases your melee haste by 5% and your movement speed and mounted movement speed by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-7-3"
+     ]
+    },
+    {
+     "id": "20-53-10-4",
+     "name": "Feral Strength",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "nhi_unholy_wounds_border",
+     "spellId": 704661,
+     "description": "Level 30 PassiveWhile in Eternal Curse, you now gain 50% more attack power from Agility and Strength.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "20-53-10-2"
+     ]
+    },
+    {
+     "id": "20-53-1-5",
+     "name": "Night Hunter's Howl",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "achievement_raid_revendrethraid_huntsmangargon",
+     "spellId": 500124,
+     "description": "Howl into the souls of nearby enemies, dealing 71 + 28.5% AP Shadow damage and slowing their movement speed by -60% for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-53-2-4",
+      "20-53-0-4"
+     ]
+    },
+    {
+     "id": "20-53-3-5",
+     "name": "Blood Plague",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "spell_shadow_creepingplague",
+     "spellId": 575335,
+     "description": "Increases the critical strike chance and critical damage of Ravenous Strike and Claw Sweep by 10% against Diseased targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-2-4",
+      "20-53-4-4"
+     ]
+    },
+    {
+     "id": "20-53-5-5",
+     "name": "Festering Maw",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "custom_fishbite_border",
+     "spellId": 706683,
+     "description": "Healing with Bite Wound now reduces the cooldown of Lunge by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-6-4a",
+      "20-53-4-4",
+      "20-53-6-4b"
+     ]
+    },
+    {
+     "id": "20-53-7-5",
+     "name": "No Mercy",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "inv_ascend_hunting_90",
+     "spellId": 704660,
+     "description": "Allows your Thick Pelt to affect an additional hit.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-6-4a",
+      "20-53-8-4",
+      "20-53-6-4b"
+     ]
+    },
+    {
+     "id": "20-53-0-6",
+     "name": "Petrified Legions",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "inv_misc_reforgedarchstone_01",
+     "spellId": 500012,
+     "description": "Physical damage you deal or take now has a 10% chance to trigger a Call of the Darkwing.Call of the DarkwingCalls 1 to 2 Shadow Bats to appear from the shadows and strike the target for 28 + 40% SP + 20% AP Physical Damage, healing you equal to the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-1-5",
+      "20-53-0-4"
+     ]
+    },
+    {
+     "id": "20-53-1-6",
+     "name": "Rabid",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "ability_hunter_pet_wolf",
+     "spellId": 705732,
+     "description": "Reduces the cooldown of Howl spells by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-1-5"
+     ]
+    },
+    {
+     "id": "20-53-4-6",
+     "name": "Appetite for Blood",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "ability_bullrush",
+     "spellId": 560479,
+     "description": "Increases the damage dealt by Bloodfang Bite and Claw Sweep by 20% against Humanoids and Beasts.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-5-5",
+      "20-53-3-5"
+     ]
+    },
+    {
+     "id": "20-53-7-6a",
+     "name": "Dark Mark",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "nathriasymbol",
+     "spellId": 705731,
+     "description": "Reduces the chance to hit for enemies within 5 yds of you by -3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-7-5"
+     ]
+    },
+    {
+     "id": "20-53-7-6b",
+     "name": "Blood Mark",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "spell_deathknight_bloodpresence",
+     "spellId": 707624,
+     "description": "Increases the Physical damage taken by enemies within 5 yds of you by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-53-8-6",
+     "name": "Cursed Strikes",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "custom_t_nhance_rpg_icons_bloodbite_border",
+     "spellId": 300982,
+     "description": "Increases the duration of Rotclaw and Hypovolemic Shock by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-7-5",
+      "20-53-8-4"
+     ]
+    },
+    {
+     "id": "20-53-10-6",
+     "name": "Enraging Wounds",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "5_wound_border",
+     "spellId": 300978,
+     "description": "Level 40 PassiveMelee critical strikes now leech 46 + 18.5% Stamina health from the target, scaling with your Stamina.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "20-53-10-4"
+     ]
+    },
+    {
+     "id": "20-53-1-7",
+     "name": "Grim Omen",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "spell_shadow_chilltouch",
+     "spellId": 800154,
+     "description": "Critical strikes with Ravenous Strike or Bloodfang Bite, or using Howl spells, now triggers Call of the Darkwing.Call of the DarkwingCalls 1 to 2 Shadow Bats to appear from the shadows and strike the target for 28 + 40% SP + 20% AP Physical Damage, healing you equal to the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-0-6",
+      "20-53-1-6"
+     ]
+    },
+    {
+     "id": "20-53-3-7",
+     "name": "Eternal Presence",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "inv_misc_trinket6oih_wolf1",
+     "spellId": 560001,
+     "description": "Increases the attack power of party and raid members by 5%. Does not stack with similar effects.In addition, you now gain attack power equal to 15% of the damage taken for 10 seconds. Can only occur once every 10 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-4-6",
+      "20-53-1-6"
+     ]
+    },
+    {
+     "id": "20-53-5-7",
+     "name": "Rejuvenating Shadows",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "spell_shadow_antishadow",
+     "spellId": 704623,
+     "description": "Nearby party and raid members receive 6% more healing. Does not stack with similar effects.In addition, increases the health leeched by Bloodbolt by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-7-6a",
+      "20-53-4-6",
+      "20-53-7-6b"
+     ]
+    },
+    {
+     "id": "20-53-7-7",
+     "name": "Infection",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "inv_misc_monsterclaw_06",
+     "spellId": 704624,
+     "description": "Auto attacking a bleeding target will now infect the wound, increasing their chance to be critically struck from you by 1% for 6 seconds, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-7-6a",
+      "20-53-8-6",
+      "20-53-7-6b"
+     ]
+    },
+    {
+     "id": "20-53-2-8",
+     "name": "Screech of the Darkwing",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "ability_priest_shadowyapparition",
+     "spellId": 300260,
+     "description": "Your effects that trigger Call of the Darkwing now trigger an additional Call of the Darkwing.Can only occur once per sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-3-7",
+      "20-53-1-7"
+     ]
+    },
+    {
+     "id": "20-53-4-8",
+     "name": "Enraging Howls",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "custom_08_death_border",
+     "spellId": 800766,
+     "description": "Casting Howl spells now increases the damage dealt and reduces damage taken by nearby party members by 5% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-5-7",
+      "20-53-3-7"
+     ]
+    },
+    {
+     "id": "20-53-6-8",
+     "name": "Iron Claws",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "spell_druid_malfurionstenacity",
+     "spellId": 572783,
+     "description": "Allows Rotclaw's periodic effect to stack up 2 additional times for 50% longer duration and cause you to ignore 3% of the target's armor per stack.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-5-7",
+      "20-53-7-7"
+     ]
+    },
+    {
+     "id": "20-53-10-8",
+     "name": "Bloodmoon Power",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "inv_crawlinghandpet_red",
+     "spellId": 578120,
+     "description": "Level 50 PassivePeriodic damage dealt by Rotclaw now hits -50% more often and your Bloodfang Bite, Claw Sweep, and Bloodbolt additionally scales with dodge rating.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "20-53-10-6"
+     ]
+    },
+    {
+     "id": "20-53-2-9",
+     "name": "Eyes In The Night",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "sha_spell_shadow_shadesofdarkness_nightmare",
+     "spellId": 801959,
+     "description": "Allies within 20 yds are protected by Shadow Colony, giving them a 40% chance to trigger a Call of the Darkwing when they take direct damage. Can only occur once every 5 sec.If allies have less health than you when this occurs, generate a large amount of threat against the enemy that triggered it.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-2-8"
+     ]
+    },
+    {
+     "id": "20-53-4-9",
+     "name": "Shadow Strength",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "inv_icon_shadowcouncilorb_purple",
+     "spellId": 801960,
+     "description": "Casting Howl spells now deal 65 + 25% Stamina + 25% Agility + 10% AP Shadow damage to all nearby enemies and triggering Call of the Darkwing now reduces the cooldown of all Howl spells by -1 sec.Can only occur once per sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-6-8",
+      "20-53-4-8",
+      "20-53-2-8"
+     ]
+    },
+    {
+     "id": "20-53-6-9",
+     "name": "Bloody Claws",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 53,
+     "icon": "spell_deathknight_bloodtap",
+     "spellId": 572800,
+     "description": "You now generate 20% increased Rage from damage dealt and critical strikes with auto attacks now reduces the cooldown of Animated Blood, Blood Veil, and Blood Pact by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-53-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 93,
+   "name": "Fleshweaver",
+   "nodeCount": 44,
+   "nodes": [
+    {
+     "id": "20-93-4-0",
+     "name": "Sanguine Essence",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_animarevendreth_orb",
+     "spellId": 505188,
+     "description": "Transforms your Blood Curse into Sanguine Essence.Sanguine Essence (Cursed Form)Enter a unique Cursed Form that does not disable Mortal Form abilties, coalescing a blood orb that will float beside you.While active, you replicate 20% of healing or damage done by Sanguine Mend and Bloodmoon Blast on the target every 1 sec for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "20-93-10-0",
+     "name": "Pooled Vitality",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "inv_misc_food_legion_gooamber_pool",
+     "spellId": 681078,
+     "description": "Level 10 PassiveSpells that cost health now grant a stack of Pooled Vitality, stacking 10 times.Mortal Form spells that cost Rage consume 10 stacks of Pooled Vitality to become empowered.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-93-2-1",
+     "name": "Consolidation",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_shadow_felmending",
+     "spellId": 706603,
+     "description": "Increases your haste by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-4-0"
+     ]
+    },
+    {
+     "id": "20-93-6-1",
+     "name": "Raging Hunger",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_holy_silence",
+     "spellId": 681336,
+     "description": "Triggering Pooled Vitality now also generates 3 Rage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-4-0"
+     ]
+    },
+    {
+     "id": "20-93-1-2",
+     "name": "Dark Liturgy",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "sanctum_features_animadiversion_revendreth",
+     "spellId": 800781,
+     "description": "Requires Mortal FormForm a blood bond, healing a friendly target for 77 + 35% SP + 25% Spirit and applying Blood Rituals to them, bouncing to up to 10 nearby allies, healing for less for each target struck.Blood RitualsCauses Bloodmoon Blast to heal marked allies for 178 + 7% healing + 8.5% Stamina.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-93-2-1"
+     ]
+    },
+    {
+     "id": "20-93-4-2",
+     "name": "Gift of Lana'thel",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "lanathel2",
+     "spellId": 706598,
+     "description": "Become blessed by Lana'thel, increasing your spell power by 25% of your Spirit and your hit rating by 4% of your Spirit.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-6-1",
+      "20-93-2-1"
+     ]
+    },
+    {
+     "id": "20-93-7-2",
+     "name": "Vampyr's Kiss",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "nhi_kiss_border",
+     "spellId": 504275,
+     "description": "Curse an enemy, causing them to bleed for 174 Shadow damage over 30 seconds.All periodic damage dealt to an enemy affected by Vampyr's Kiss is replicated on them equal to 25% of the value.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-93-6-1"
+     ]
+    },
+    {
+     "id": "20-93-10-2a",
+     "name": "Fleshbending",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "custom_t_nhance_rpg_icons_rottenflesh_border",
+     "spellId": 680684,
+     "description": "Your critical strikes now increase the critical strike chance of all party and raid members by 5% for 10 seconds.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "20-93-10-0"
+     ]
+    },
+    {
+     "id": "20-93-10-2b",
+     "name": "Invigorated Flesh",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "ability_butcher_exsanguination",
+     "spellId": 704632,
+     "description": "Increases chance to hit with all spells and attacks by 1% for you and party and raid members.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20
+    },
+    {
+     "id": "20-93-1-3",
+     "name": "Dark Blood",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_shadow_demonicfortitude",
+     "spellId": 804807,
+     "description": "Reduces the cost of your abilities that require Cursed Form and increases the healing done by Blood Rituals by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-1-2"
+     ]
+    },
+    {
+     "id": "20-93-4-3",
+     "name": "Organ Orbs",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_shadow_soulgem",
+     "spellId": 807490,
+     "description": "Each stack of Pooled Vitality now increases your Spirit by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-4-2"
+     ]
+    },
+    {
+     "id": "20-93-7-3",
+     "name": "Lingering Essence",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "inv_misc_greateressence",
+     "spellId": 680695,
+     "description": "Periodic damage and healing done now has a 50% chance to reduce the cooldown of Vampyr's Kiss by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-7-2"
+     ]
+    },
+    {
+     "id": "20-93-0-4",
+     "name": "Dark Essence",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "ability_deathwing_bloodcorruption_earth",
+     "spellId": 680732,
+     "description": "Casting Cursed Form abilities or Bloodbolt will now heal allies affected by Blood Rituals for 114 + 10% healing every 1 sec for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-1-3"
+     ]
+    },
+    {
+     "id": "20-93-2-4",
+     "name": "Infuse",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "nhi_shadowraise_border",
+     "spellId": 681403,
+     "description": "Accumulates 10% of all damage dealt to the target and unleashes it after 10 seconds, dealing Shadow damage and absorbing healing done to the target equal to the damage done for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-93-4-3",
+      "20-93-1-3"
+     ]
+    },
+    {
+     "id": "20-93-4-4",
+     "name": "Gruesome Rituals",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "custom_t_bloodfog_border",
+     "spellId": 680696,
+     "description": "Your damage dealt is now increased by 1% for each stack of Pooled Vitality.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-4-3"
+     ]
+    },
+    {
+     "id": "20-93-6-4",
+     "name": "Crimson Tide",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "nhi_blood_slash_border",
+     "spellId": 504282,
+     "description": "Requires Mortal FormCreate a pool of blood beneath up to 10 enemies within 10 yds of you, causing them to bleed for 165 + 140% SP Shadow damage over 15 seconds.Empowered: Radius increased by 5 yds and costs -100% less Rage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-93-4-3",
+      "20-93-7-3"
+     ]
+    },
+    {
+     "id": "20-93-8-4",
+     "name": "Black Heart",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_misc_hearty_04",
+     "spellId": 680731,
+     "description": "Your Vampyr's Kiss now regenerates 20% of your maximum Rage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-7-3"
+     ]
+    },
+    {
+     "id": "20-93-10-4a",
+     "name": "Blood-Cursed Weapons",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "5_assassinskill09_border",
+     "spellId": 684331,
+     "description": "Casting Crimson Tide now additionally increases the haste of all party and raid members by 5% for 15 seconds.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "20-93-10-2a",
+      "20-93-10-2b"
+     ]
+    },
+    {
+     "id": "20-93-10-4b",
+     "name": "Blood-Cursed Armor",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_shadow_curseoftounges",
+     "spellId": 685028,
+     "description": "You now emanate an aura around you, increasing the Armor of party and raid members by 390.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30
+    },
+    {
+     "id": "20-93-0-5",
+     "name": "Hemal Excision",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "nhi_blood_blade_border",
+     "spellId": 803681,
+     "description": "Cut into an ally's vital essence, siphoning all curse effects from them. You may reactivate this ability again within 10 seconds to place these curse effects on an enemy.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-93-2-4",
+      "20-93-0-4"
+     ]
+    },
+    {
+     "id": "20-93-2-5a",
+     "name": "Acquired Taste",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "_shamantotam_blood",
+     "spellId": 807566,
+     "description": "Casting Infuse or Vampyr's Kiss now generates 2 additional stacks of Pooled Vitality.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-2-4"
+     ]
+    },
+    {
+     "id": "20-93-2-5b",
+     "name": "Universal Donor",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "ability_animusdraw",
+     "spellId": 806428,
+     "description": "Casting Infuse or Vampyr's Kiss now increases the healing received by all allies by 6% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-93-4-5",
+     "name": "Aortic Aegis",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "ability_animusorbs",
+     "spellId": 806274,
+     "description": "Your Blood Veil now applies to the party members of the target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-4-4",
+      "20-93-2-4",
+      "20-93-6-4"
+     ]
+    },
+    {
+     "id": "20-93-6-5",
+     "name": "Sovereignty",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "_seed_grainedecorruption",
+     "spellId": 806049,
+     "description": "Damage dealt by Crimson Tide now grants you Sovereignty.SovereigntyReduces the cost of your next Bloodbolt within 12 seconds by -10% and causes it to strike 1 additional nearby enemy for each target damaged, stacking up to 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-6-4"
+     ]
+    },
+    {
+     "id": "20-93-8-5",
+     "name": "Arterial Bind",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "_enslavespell_blood",
+     "spellId": 681077,
+     "description": "Place a pool of blood on the ground, instantly silencing all enemies for 4 seconds and healing allies for 203 + 33% healing every 1 sec for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-93-8-4",
+      "20-93-6-4"
+     ]
+    },
+    {
+     "id": "20-93-1-6",
+     "name": "Dissipation",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "inv_artifact_corruptedbloodofzakajz",
+     "spellId": 680730,
+     "description": "Reduces the cooldown of Fleshcraft and the duration of the Sated debuff by -60 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-0-5"
+     ]
+    },
+    {
+     "id": "20-93-2-6",
+     "name": "Heart Rupturer",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_shadow_lifedrain",
+     "spellId": 680685,
+     "description": "Increases the damage of Claw Sweep, Sanguine Rupture, Ravenous Strike and Bloodmoon Blast by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-2-5a",
+      "20-93-2-5b"
+     ]
+    },
+    {
+     "id": "20-93-4-6",
+     "name": "Vitality For Later",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "nhi_bloodsacrifice_border",
+     "spellId": 681026,
+     "description": "Consuming Pooled Vitality now heals up to 10 allies within 30 yds for 176 + 25% SP + 50% Spirit, scaling with Spirit and healing power.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-4-5"
+     ]
+    },
+    {
+     "id": "20-93-6-6",
+     "name": "Waves of Blood",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "inv_misc_boilingblood",
+     "spellId": 681427,
+     "description": "Each tick of Crimson Tide now has a 10% chance to heal a nearby ally for 25% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-6-5"
+     ]
+    },
+    {
+     "id": "20-93-7-6",
+     "name": "Spice of Life",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "ability_rogue_bloodyeye",
+     "spellId": 680823,
+     "description": "Your periodic damage and healing now has a 10% chance to grant a stack of Pooled Vitality.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-6-5",
+      "20-93-8-5"
+     ]
+    },
+    {
+     "id": "20-93-10-6a",
+     "name": "Cursed Blood",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "5_assassinskill37_border",
+     "spellId": 681792,
+     "description": "Increases the damage dealt and spell power scaling of Bloodbolt, Bloodmoon Blast, and Crimson Tide by 20%.In addition, damage dealt by Bloodbolt now reduces all resistances by 75 and increases the target's Magic damage taken by 2% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "20-93-10-4a",
+      "20-93-10-4b"
+     ]
+    },
+    {
+     "id": "20-93-10-6b",
+     "name": "Heartbreak",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "nhi_blooddrop_border",
+     "spellId": 520314,
+     "description": "Unleash a powerful surge of blood, dealing 172 + 50% shadow SP + 100% Spirit Shadow damage to an enemy, and healing 12 allies within 20 yds of the target for 162 + 30% healing + 100% Spirit.Empowered: Increases your party and raid members attack or spell power by 95 for 20 seconds, plus an additional 95 for you, scaling with level.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 40
+    },
+    {
+     "id": "20-93-2-7",
+     "name": "Blood Redistribution",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_druid_massentanglement_nightmare",
+     "spellId": 706256,
+     "description": "Increases the maximum health restored by Fleshcraft by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-1-6",
+      "20-93-2-6",
+      "20-93-4-6"
+     ]
+    },
+    {
+     "id": "20-93-4-7a",
+     "name": "Sanguine Scion",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "5_assassinskill37_border",
+     "spellId": 807292,
+     "description": "Increases the critical strike chance of Sanguine Mend and Bloodbolt by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-4-6"
+     ]
+    },
+    {
+     "id": "20-93-4-7b",
+     "name": "Crimson Scion",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_animarevendreth_buff",
+     "spellId": 806424,
+     "description": "Direct damage dealt now has a 10% chance to make your next Sanguine Mend within 10 seconds instant cast.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "20-93-6-7",
+     "name": "Excess Blood",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "sha_inv_misc_slime_01_nightmare",
+     "spellId": 504100,
+     "description": "Your healing done now has a 10% chance to heal the target for an additional 240 + 3% healing over 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-7-6",
+      "20-93-4-6",
+      "20-93-6-6"
+     ]
+    },
+    {
+     "id": "20-93-2-8",
+     "name": "Flesh Foundry",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "achievement_raid_hall_of_flesh",
+     "spellId": 704633,
+     "description": "Your critical strikes now reduce the cooldown of Fleshcraft and the duration of Sated on the target by -4 sec.In addition, increases your critical strike rating by 15% of your Spirit.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-2-7"
+     ]
+    },
+    {
+     "id": "20-93-4-8",
+     "name": "Gorge",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "sha_ability_rogue_sturdyrecuperate_nightmare",
+     "spellId": 804805,
+     "description": "Instantly gain 10 stacks of Pooled Vitality every 5 sec for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-93-4-7a",
+      "20-93-2-7",
+      "20-93-6-7",
+      "20-93-4-7b"
+     ]
+    },
+    {
+     "id": "20-93-6-8",
+     "name": "Darkfallen Lament",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "ability_venthyr_doorofshadows",
+     "spellId": 680828,
+     "description": "Chant a sinister ritual, healing up to 12 allies affected by Blood Rituals for 648 + 80% healing over 8 seconds and leeching 684 + 800% healing health from enemies within 10 yds over 8 seconds.While active, you are immune to silence and interrupt effects, but cannot move.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-93-6-7"
+     ]
+    },
+    {
+     "id": "20-93-10-8a",
+     "name": "Red Thirst",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "ability_revendreth_priest",
+     "spellId": 520493,
+     "description": "Enrage allies within 40 yds, increasing haste by 30% for 20 seconds.After being affected by this spell, allies cannot benefit from similar effects for 5 minutes.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 50,
+     "dependencies": [
+      "20-93-10-6a",
+      "20-93-10-6b"
+     ]
+    },
+    {
+     "id": "20-93-10-8b",
+     "name": "Purify Blood",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_animarevendreth_nova",
+     "spellId": 680679,
+     "description": "Emanate an aura for 15 seconds, causing allied players to deal 70% shadow SP additional damage as Shadow damage when they deal direct damage.Applies Exhaustion, preventing you from benefiting from similar effects for 1 minute.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 50
+    },
+    {
+     "id": "20-93-2-9",
+     "name": "Hemoglobe",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "custom_t_bloodeye_border",
+     "spellId": 524907,
+     "description": "Coalesce a powerful sanguine orb above you, healing up to 12 allies within 20 yds for 4247 + 84.38% healing + 337.5% Spirit + 262.5% Stamina over 15 seconds.Generates 2 stacks of Pooled Vitality, and 150 Rage every 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "20-93-2-8"
+     ]
+    },
+    {
+     "id": "20-93-4-9",
+     "name": "Adrenaline Boost",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "spell_holy_sealofsacrifice",
+     "spellId": 680675,
+     "description": "Increases the critical strike chance of abilities that require Cursed Form on enemies above 75% or below 35% health by 20%.In addition, melee critical strikes now have a 50% chance to make your next Dark Liturgy or Bloodmoon Blast instant cast.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-2-8",
+      "20-93-4-8",
+      "20-93-6-8"
+     ]
+    },
+    {
+     "id": "20-93-6-9",
+     "name": "Bloodcraft",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 93,
+     "icon": "ability_skeer_bloodletting",
+     "spellId": 680733,
+     "description": "Your damage dealt by Darkfallen Lament now applies Bloodcraft to affected enemies, reducing damage dealt by -2% for 5 seconds, stacking 4 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "20-93-6-8"
+     ]
+    }
+   ]
+  }
+ ]
+}

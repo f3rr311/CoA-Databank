@@ -1,0 +1,8 @@
+{
+  "name_enus": "Painmail",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Painmail</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Dealing damage with <span style=\"color: #FFFFFF;\">Reap</span>, <span style=\"color: #FFFFFF;\">Dreadwake</span> and <span style=\"color: #FFFFFF;\">Soul Strike</span> now grants a stack of <span style=\"color: #ffffff;\">Painmail</span> for 15&nbsp;sec, stacking up to 8 times. Additional applications do not refresh the effect.<br /><br />When <span style=\"color: #ffffff;\">Painmail</span> stacks expire naturally, you are healed for 2% of your maximum health and reduce the cooldown of <span style=\"color: #ffffff;\">Bolstered Form</span> by 0.5 sec for each stack.</span></td></tr></table><!--?801325:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

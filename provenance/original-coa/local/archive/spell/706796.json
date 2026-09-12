@@ -1,0 +1,8 @@
+{
+  "name_enus": "Soultwister",
+  "icon": "sha_inv_elemental_primal_shadow",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Soultwister</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Soul Tap</span> and <span style=\"color: #ffffff;\">Soulwarden's Resolve</span> reduce the remaining cooldown of <span style=\"color: #ffffff;\">Requiem</span> by 3 sec on use.</span></td></tr></table><!--?706796:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

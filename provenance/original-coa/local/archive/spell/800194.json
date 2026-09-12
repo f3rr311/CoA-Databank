@@ -1,0 +1,8 @@
+{
+  "name_enus": "Void Blessing",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Void Blessing</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>5% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Empower an ally with a blessing from the void, restoring 10 mana every 5 seconds for 30&nbsp;min.</span></td></tr></table><!--?800194:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

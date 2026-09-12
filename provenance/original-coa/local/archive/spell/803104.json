@@ -1,0 +1,8 @@
+{
+  "name_enus": "Viper's Bite",
+  "icon": "ability_rogue_poisonedknife",
+  "tooltip_enus": "<table><tr><td><b>Viper's Bite</b><br />60 Focus<br /><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\"><span style=\"color: #8fff7a;\">Generates 2 Advantage</span><br />Unleash 4 quick strikes over 1&nbsp;sec to an enemy, each dealing 85% Weapon Damage.<br /><br />If the target is bleeding, each strike deals an additional 400+3.2 Points Per Level+AP*.25 Physical damage.<br /><br />If the target is poisoned, each strike deals Nature damage instead of Physical damage.</span></td></tr></table><!--?803104:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

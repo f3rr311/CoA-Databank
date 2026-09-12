@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fog",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Fog</b><br />15% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Concentrate elemental magic to create an 8 yd wide cloudy barrier at your feet for 8&nbsp;sec.<br /><br />Enemies are unable to target into or out of the <span style=\"color: #ffffff;\">Fog</span>.</span></td></tr></table><!--?806100:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Runestone: Pyrostrike",
+  "icon": "novart_magicspell_%2836%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Runestone: Pyrostrike</b></td><th><b class=\"q0\">Passive - Runestone</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">3 Fire Sigils</span><br />Allows <span style=\"color: #ffffff;\">Elemental Burst</span> to expend the above <span style=\"color: #ffffff;\">Sigil</span> combination to unleash a massive fiery attack for ++FireP*.75 Fire Damage to an enemy.</span></td></tr></table><!--?803009:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

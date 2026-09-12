@@ -1,0 +1,8 @@
+{
+  "name_enus": "Venomancy",
+  "icon": "_liquidstone_poison",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Venomancy</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the damage and healing of <span style=\"color: #FFFFFF;\">Serpent's Coil</span> by 20%.<br /><br />Critical heals with <span style=\"color: #FFFFFF;\">Alkahest</span> now reduce the cooldown of <span style=\"color: #FFFFFF;\">Serpent's Coil</span> by 2 sec.</span></td></tr></table><!--?803180:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Incredibly Strong",
+  "icon": "ability_warrior_devastate",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Incredibly Strong</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Removes the minimum range from <span style=\"color: #ffffff;\">Maiming Spear</span>, but reduces its maximum range by 5 yds.</span></td></tr></table><!--?804749:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

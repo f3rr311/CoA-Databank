@@ -1,0 +1,52 @@
+Felsworn Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Felsworn Overview
+ Felsworn repurpose demonic knowledge for a greater cause. Slaying combos melee attacks for burst damage, Infernal channels chaos magic as a mobile caster, and Tyrant permanently transforms into a demon tank. Felfury Charges cycle on a timer, and Demon Form at max rage grants additional damage.
+ Former Burning Legion agent wielding demonic knowledge — agile fighter cleaving foes or channeling chaos magic.
+ Class Mechanic — Demon Form
+ Felsworn gather rage to transform into Demon Form, using Felfury Charges and Felstrikes for fel-enhanced combat.
+ Felsworn uses Felfury as its primary resource and wears Leather armor.
+ Specializations
+ At level 10, Felsworn players choose one of three specializations, each offering a distinct playstyle:
+ Slaying: Highly mobile melee combo fighter unleashing brutal attacks in specific orders for bonus effects and burst.
+ Infernal: Chaos Mage conjuring felfire storms and instant-cast DoTs, dashing around the battlefield bathing foes in felfire.
+ Tyrant: Permanent Demon-form tank wielding felfire and flames while evading and deflecting damage.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Slaying mobile combo burst
+ Strength: Infernal agile chaos caster
+ Strength: Tyrant unique demon tank
+ Weakness: Demon Form uptime management
+ Weakness: Felstrike proc dependency
+ Weakness: Morally dark theme
+ Leveling Tips
+ Slaying levels quickly with mobile combo attacks. Tyrant provides safer leveling with demon tank durability. Track Felfury Charge cycles during extended fights.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Slaying combo burst at optimal ability order is lethal in arena. Tyrant demon tank durability surprises burst compositions.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Felsworn in Conquest of Azeroth? Felsworn is a Tank / DPS class wearing Leather armor with Felfury as its resource.
+ What is the Demon Form mechanic? Felsworn gather rage to transform into Demon Form, using Felfury Charges and Felstrikes for fel-enhanced combat.
+ When do Felsworn specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Felsworn good for beginners? Felsworn has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Felsworn have? Felsworn has three specializations: Slaying, Infernal, Tyrant.

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hawkeye",
+  "icon": "ability_hunter_silenthunter",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hawkeye</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">You now fire an arrow every 3 sec at enemies within 30 yds affected by your <span style=\"color: #ffffff;\">Hunting Shot</span>, dealing 75+1.0 Points Per Level% Ranged Weapon Damage.<br /><br />Scales with <span style=\"color: #ffffff;\">Hunting Shot</span> modifiers.</span></td></tr></table><!--?800358:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

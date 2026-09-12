@@ -1,0 +1,8 @@
+{
+  "name_enus": "Banner Lord",
+  "icon": "inv_banner_stormshield",
+  "tooltip_enus": "<table><tr><td><b>Banner Lord</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the cost of <span style=\"color: #ffffff;\">Banners</span> by 100%, but allows you to have multiple <span style=\"color: #ffffff;\">Banners</span> active at once.</span></td></tr></table><!--?800322:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

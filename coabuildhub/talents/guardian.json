@@ -1,0 +1,2992 @@
+{
+ "class": {
+  "id": 18,
+  "name": "Guardian",
+  "slug": "guardian",
+  "color": "#FF7C0A"
+ },
+ "specs": [
+  {
+   "id": 7,
+   "name": "Vanguard",
+   "tabId": 7
+  },
+  {
+   "id": 48,
+   "name": "Inspiration",
+   "tabId": 48
+  },
+  {
+   "id": 49,
+   "name": "Gladiator",
+   "tabId": 49
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 161,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Guardian (class tree)",
+   "nodeCount": 40,
+   "nodes": [
+    {
+     "id": "18-87-1-0",
+     "name": "Net Throw",
+     "x": 1,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_ensnare",
+     "spellId": 802304,
+     "description": "Toss a weighted net at an enemy that roots them for 4 seconds. While active, the target cannot dodge attacks.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "18-87-4-0",
+     "name": "Standard of Rallying",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "standard_valiance",
+     "spellId": 500263,
+     "description": "Throw down a Standard of Rallying for 5 minutes, reducing damage taken by -3% and the duration of stun effects on them by -30% on all allies within 30 yds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "18-87-7-0",
+     "name": "Brace",
+     "x": 7,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_safeguard",
+     "spellId": 800313,
+     "description": "Fortify your defenses, reducing all damage taken by -50% and gaining immunity to stun effects for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "18-87-1-1",
+     "name": "Knightly Demeanor",
+     "x": 1,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_sharp_blade_b_border",
+     "spellId": 504148,
+     "description": "Your attack power is increased by 1 for every 50 Armor you have.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-1-0"
+     ]
+    },
+    {
+     "id": "18-87-4-1",
+     "name": "Gallant",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_chest_plate04",
+     "spellId": 705368,
+     "description": "Increases your Strength by 4% and expertise by 2.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-4-0"
+     ]
+    },
+    {
+     "id": "18-87-7-1",
+     "name": "Sturdy",
+     "x": 7,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "novart_shield_(3)_border",
+     "spellId": 706639,
+     "description": "Increases your maximum health by 6%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-7-0"
+     ]
+    },
+    {
+     "id": "18-87-0-2",
+     "name": "Light Nets",
+     "x": 0,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "hunter_pvp_trackersnet",
+     "spellId": 704150,
+     "description": "Increases the range of your Net Throw by 15 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-1-1"
+     ]
+    },
+    {
+     "id": "18-87-2-2",
+     "name": "Guardbreaker",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_t_burningeyes_border",
+     "spellId": 504385,
+     "description": "Casting Pulverize now has a 20% chance to reset the cooldown of Ram.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-1-1",
+      "18-87-4-1"
+     ]
+    },
+    {
+     "id": "18-87-6-2",
+     "name": "Valiant Effort",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "novart_weapon_(2)_border",
+     "spellId": 706637,
+     "description": "Your auto attacks now have a 15% chance to allow the use of Reprisal as if you had recently blocked an attack.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-4-1",
+      "18-87-7-1"
+     ]
+    },
+    {
+     "id": "18-87-8-2a",
+     "name": "Deflector",
+     "x": 8,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_shieldreflection",
+     "spellId": 706336,
+     "description": "Reduces the cooldown of your Raise Shield by -5 sec and reduces its Energy cost by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-7-1"
+     ]
+    },
+    {
+     "id": "18-87-8-2b",
+     "name": "Resolve",
+     "x": 8,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "warrior_talent_icon_gladiatorsresolve",
+     "spellId": 706806,
+     "description": "Increases the duration of your Raise Shield by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-87-1-3",
+     "name": "Glorious Arena",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_zone_bladesedgemtns_01",
+     "spellId": 300983,
+     "description": "Create a 10 yd ring beneath you for 15 seconds. Enemies who stand inside will gain Peril every 1 sec. PerilEach stack can be consumed by Pulverize to deal an additional 10% AP Physical Damage and reduce the cooldown of Glorious Arena by 10%.Upon reaching 5 stacks, the stacks are instantly consumed to stun the enemy for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-87-2-2",
+      "18-87-0-2"
+     ]
+    },
+    {
+     "id": "18-87-4-3a",
+     "name": "Shrug It Off",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_warriorskill18_border",
+     "spellId": 802198,
+     "description": "Instantly escape the effects of any root or slow and become immune to movement slowing effects for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-87-2-2",
+      "18-87-6-2"
+     ]
+    },
+    {
+     "id": "18-87-4-3b",
+     "name": "Press the Line!",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_archerskill20_border",
+     "spellId": 300542,
+     "description": "While Line Formation is active, your movement speed cannot be reduced below 115%, but its cost is increased by 30 Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-87-7-3",
+     "name": "Shield Wall",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_defend",
+     "spellId": 705370,
+     "description": "Increases your Armor contribution from your shield by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-6-2",
+      "18-87-8-2a",
+      "18-87-8-2b"
+     ]
+    },
+    {
+     "id": "18-87-1-4",
+     "name": "Lord of the Arena",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_axe_2h_war_b_02_hd",
+     "spellId": 802290,
+     "description": "Reduces the Energy cost of Pulverize and Broad Sweep by -5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-1-3"
+     ]
+    },
+    {
+     "id": "18-87-3-4",
+     "name": "Unstoppable",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_d3furiouscharge",
+     "spellId": 704513,
+     "description": "Reduces the cooldown of Battle Rush by -5 sec and Advance by -30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-4-3a",
+      "18-87-1-3",
+      "18-87-4-3b"
+     ]
+    },
+    {
+     "id": "18-87-5-4",
+     "name": "Heroic Deeds",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_paladin_touchedbylight",
+     "spellId": 804661,
+     "description": "Increases the reputation gains of your allies within 30 yds by 5% and reduces damage you take by -3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-4-3a",
+      "18-87-7-3",
+      "18-87-4-3b"
+     ]
+    },
+    {
+     "id": "18-87-7-4",
+     "name": "Reflective Shield",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "epic_rpg_icon_pack_brutal_icon_0003s_0000_fire_border",
+     "spellId": 300927,
+     "description": "Raise your shield and reflect the next harmful spell cast on you within 3 seconds. While active, being hit by a spell restores 20 Energy.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-87-7-3"
+     ]
+    },
+    {
+     "id": "18-87-0-5a",
+     "name": "Myrmidon",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_challange",
+     "spellId": 503532,
+     "description": "Removes the Energy cost of Glorious Arena and increases its damage dealt by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-1-4"
+     ]
+    },
+    {
+     "id": "18-87-0-5b",
+     "name": "Bloodletter",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_sword_1h_artifactmagnar_d_02",
+     "spellId": 560093,
+     "description": "Avoiding an attack now reduces the remaining cooldown of Glorious Arena by 10%. Can only occur once per sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-87-2-5",
+     "name": "Valiance",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_shockwave",
+     "spellId": 705324,
+     "description": "Reprisal now regenerates an additional 20 Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-1-4",
+      "18-87-3-4"
+     ]
+    },
+    {
+     "id": "18-87-4-5",
+     "name": "Counter Stance",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "counterstanceguardian",
+     "spellId": 802188,
+     "description": "You automatically parry the next attack against you. Lasts for 5 attacks or 15 seconds.When you expend a charge you deal 275 damage to attackers and heal for 366 + 100% AP health.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-87-3-4",
+      "18-87-5-4"
+     ]
+    },
+    {
+     "id": "18-87-6-5",
+     "name": "Standard Bearer",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_banner_02",
+     "spellId": 806134,
+     "description": "Increases the range of Standards by 10 yds and increases the effectiveness of your Honor by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-7-4",
+      "18-87-5-4"
+     ]
+    },
+    {
+     "id": "18-87-8-5",
+     "name": "Recuperation",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_skyreach_shielded",
+     "spellId": 801121,
+     "description": "Taking Physical damage or blocking a physical attack now restores 2 Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-7-4"
+     ]
+    },
+    {
+     "id": "18-87-2-6",
+     "name": "Energetic",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "novart_passivemastery_(8)_border",
+     "spellId": 705316,
+     "description": "Restores 5 of your Energy every 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-0-5a",
+      "18-87-4-5",
+      "18-87-2-5",
+      "18-87-0-5b"
+     ]
+    },
+    {
+     "id": "18-87-4-6",
+     "name": "Knight's Advantage",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_legionpvp2tier1",
+     "spellId": 705378,
+     "description": "Increases your damage dealt against Humanoids by 6%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-4-5"
+     ]
+    },
+    {
+     "id": "18-87-6-6",
+     "name": "Steel Riposte",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_meleedamage",
+     "spellId": 300534,
+     "description": "Reduces the cooldown of Counter Stance and Turn the Blade by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-6-5",
+      "18-87-4-5",
+      "18-87-8-5"
+     ]
+    },
+    {
+     "id": "18-87-1-7a",
+     "name": "Pit Fighter",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_warrior_gladiatorstance",
+     "spellId": 802296,
+     "description": "Increases the movement speed slow of your Standard of Valiance by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-2-6"
+     ]
+    },
+    {
+     "id": "18-87-1-7b",
+     "name": "Warstopper",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "warrior_talent_icon_thunderstruck",
+     "spellId": 705330,
+     "description": "Reduces the Energy cost of Standard of Valiance by -20.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-87-2-7",
+     "name": "Thick Shields",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_shield_1h_newplayer_a_01",
+     "spellId": 807346,
+     "description": "Increases your block value by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-2-6"
+     ]
+    },
+    {
+     "id": "18-87-4-7",
+     "name": "Knight's Calling",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_paladinskill_32_border",
+     "spellId": 504151,
+     "description": "Embrace your calling, restoring 15% of your maximum health and Energy, repeating every 5 sec for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-87-6-6",
+      "18-87-4-6",
+      "18-87-2-6"
+     ]
+    },
+    {
+     "id": "18-87-6-7",
+     "name": "Make Room! I'm Here.",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_featsofstrength_gladiator_08",
+     "spellId": 300543,
+     "description": "Increases the duration of Standard of Valiance and Broad Sweep by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-6-6"
+     ]
+    },
+    {
+     "id": "18-87-7-7",
+     "name": "Master of Arms",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "novart_passivemastery_(35)_border",
+     "spellId": 705315,
+     "description": "Your Turn the Blade now guarantees you to parry 1 additional attack and the duration of its parry window is increased by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-6-6"
+     ]
+    },
+    {
+     "id": "18-87-2-8",
+     "name": "Relentless",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "garrison_building_salvageyard",
+     "spellId": 705343,
+     "description": "Your Pulverizes or Rams now ignores -15% of the target's Armor.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-1-7a",
+      "18-87-2-7",
+      "18-87-1-7b"
+     ]
+    },
+    {
+     "id": "18-87-4-8",
+     "name": "Honorable Demeanor",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_toughness",
+     "spellId": 705377,
+     "description": "Whenever you block an attack your Strength and Stamina are increased by 2% for 10 seconds, stacking 3 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-2-7",
+      "18-87-4-7",
+      "18-87-6-7"
+     ]
+    },
+    {
+     "id": "18-87-6-8",
+     "name": "Refuse To Die",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "sha_ability_rogue_sturdyrecuperate",
+     "spellId": 804892,
+     "description": "Casting Advance now resets the cooldown of Raise Shield.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-6-7",
+      "18-87-7-7"
+     ]
+    },
+    {
+     "id": "18-87-2-9",
+     "name": "Grand Entrance",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_stalwartprotector",
+     "spellId": 802870,
+     "description": "Leap into the air, becoming immune to crowd control effects, and then crash back down with incredible speed at your location.Upon landing, deal 400% Weapon Damage to enemies in the impact area, plus an additional 611 + 77.25% AP over 6 seconds, ignoring Armor and knocking them into the air.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-87-2-8"
+     ]
+    },
+    {
+     "id": "18-87-4-9",
+     "name": "Valiant Warrior",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_skyreach_shielded",
+     "spellId": 524694,
+     "description": "Critical strikes with Ram now have a 50% chance to strike again for 100% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-87-6-8",
+      "18-87-2-8",
+      "18-87-4-8"
+     ]
+    },
+    {
+     "id": "18-87-6-9",
+     "name": "Press the Attack",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "novart_physical_ability_(50)_border",
+     "spellId": 801219,
+     "description": "Raise your shield and press the attack, dealing 75% Weapon Damage plus 83 to enemies in front of you and draining 10 Energy every 1 sec. Lasts 5 seconds.While active you gain 100% increased block chance and you may block, dodge, and parry while channeling.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-87-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 7,
+   "name": "Vanguard",
+   "nodeCount": 38,
+   "nodes": [
+    {
+     "id": "18-7-4-0",
+     "name": "Heavy Blow",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "spell_paladin_hammerofwrath",
+     "spellId": 803129,
+     "description": "Smash an enemy and enemies behind them in a line, dealing 23 + 45% AP High Threat Physical damage, scaling with defense rating.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "18-7-10-0",
+     "name": "Footman's Calling",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "_human_06",
+     "spellId": 92105,
+     "description": "Level 10 PassiveYour damage taken is reduced by -10% while Tower Formation or Line Formation is active.In addition, your threat generated from Physical Damage dealt is increased significantly while Tower Formation or Line Formation is active.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 10
+    },
+    {
+     "id": "18-7-4-1",
+     "name": "Iron Guardian",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "garrison_building_armory",
+     "spellId": 705364,
+     "description": "Increases your Stamina by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-4-0"
+     ]
+    },
+    {
+     "id": "18-7-2-2",
+     "name": "Heavy Expert",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "ability_warrior_vigilance",
+     "spellId": 803128,
+     "description": "Increases your chance to parry and dodge by 4% and increase your Armor contribution from mail and plate items by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-4-1"
+     ]
+    },
+    {
+     "id": "18-7-6-2",
+     "name": "With Honor",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_shoulder_plate_raidpaladin_s_01",
+     "spellId": 504383,
+     "description": "Reduces the cooldown of Ram by -4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-4-1"
+     ]
+    },
+    {
+     "id": "18-7-10-2",
+     "name": "Bulwark",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_shield_06",
+     "spellId": 804046,
+     "description": "Level 20 PassiveIncreases your block value by 25% and your hit rating by 5% of your Stamina.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "18-7-10-0"
+     ]
+    },
+    {
+     "id": "18-7-1-3a",
+     "name": "Honorbound",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "5_assassinskill32_border",
+     "spellId": 803571,
+     "description": "Removes the Energy cost of Shield Challenge.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-2-2"
+     ]
+    },
+    {
+     "id": "18-7-1-3b",
+     "name": "Shieldbound",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_shield_draenorguard_b_01_a_alliance",
+     "spellId": 706515,
+     "description": "Your Shield Challenge no longer has a cooldown, but now costs 10 additional Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-7-4-3",
+     "name": "Knight's Conviction",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_horsekultiran",
+     "spellId": 705369,
+     "description": "Increases the block value provided by Raise Shield by 25% and your block chance by 1%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-2-2",
+      "18-7-6-2"
+     ]
+    },
+    {
+     "id": "18-7-7-3",
+     "name": "Footman's Call",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "warrior_talent_icon_blitz",
+     "spellId": 705376,
+     "description": "Damage dealt by Pulverize is increased by 15, plus an additional amount scaling with your block value.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-6-2"
+     ]
+    },
+    {
+     "id": "18-7-2-4",
+     "name": "Seasoned Fighter",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "ability_steelmelee",
+     "spellId": 704421,
+     "description": "Reduces the Energy cost of Pulverize, Ram, and Broad Sweep by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-1-3a",
+      "18-7-1-3b"
+     ]
+    },
+    {
+     "id": "18-7-4-4",
+     "name": "Vanguard's Might",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_plate_raidwarrior_s_01helm",
+     "spellId": 705345,
+     "description": "Your Heavy Blow now causes you to emanate an aura for 5 seconds that reduces all damage taken by -5% for party members.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-4-3"
+     ]
+    },
+    {
+     "id": "18-7-6-4",
+     "name": "Bring Down The Hammer!",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_hammer_1h_jiro_b_01",
+     "spellId": 705379,
+     "description": "Damage dealt by Heavy Blow now deals an additional 20% of the damage dealt every 1 sec for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-7-3"
+     ]
+    },
+    {
+     "id": "18-7-10-4",
+     "name": "Iron Barrier",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_shoulder_plate_pvpwarrior_c_01",
+     "spellId": 705331,
+     "description": "Level 30 PassiveYour successful blocks now have a 50% chance to critically block for twice the normal amount.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "18-7-10-2"
+     ]
+    },
+    {
+     "id": "18-7-0-5",
+     "name": "Vanguard's Shield",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_shield_32",
+     "spellId": 804383,
+     "description": "Blocking an attack or landing an auto attack now grants a stack of Vanguard for 1 minute, stacking 10 times.Vanguard&#39;s ShieldMagic Damage taken reduced by -2%. Whenever you are hit by a spell, you lose 1 stack of this effect.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-1-3a",
+      "18-7-1-3b"
+     ]
+    },
+    {
+     "id": "18-7-2-5",
+     "name": "Hold the Line",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "ability_warrior_shieldguard",
+     "spellId": 803830,
+     "description": "Command nearby allies to hold the line, making them immune to incapacitate, disorient, knockback, and grip effects for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-7-2-4",
+      "18-7-4-4"
+     ]
+    },
+    {
+     "id": "18-7-6-5",
+     "name": "Hammer of the Law",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_mace_1h_draenorguard_b_02_a",
+     "spellId": 704418,
+     "description": "Smash an enemy and enemies behind them in a line, dealing 90 + 100% AP High Threat Physical damage and silencing them for 3.5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-7-6-4",
+      "18-7-4-4"
+     ]
+    },
+    {
+     "id": "18-7-8-5",
+     "name": "Battle Wary",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "custom_warriorskill_22_border",
+     "spellId": 705332,
+     "description": "Reduces the cooldown of your Advance and Battle Rush by -30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-7-3"
+     ]
+    },
+    {
+     "id": "18-7-1-6",
+     "name": "Retaliation",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "ability_warrior_shieldreflection",
+     "spellId": 582901,
+     "description": "Successful blocks now deal 51 + 5% AP Physical damage to the attacker, scaling with defense rating. Can only occur once per sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-0-5",
+      "18-7-2-5"
+     ]
+    },
+    {
+     "id": "18-7-2-6",
+     "name": "Plate Buster",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_plate_raidwarrior_s_01helm",
+     "spellId": 705333,
+     "description": "Critical strikes with Ram now reduces the remaining cooldown of your Challenging Cry and Hold the Line by -4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-2-5"
+     ]
+    },
+    {
+     "id": "18-7-4-6",
+     "name": "Stalwart",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "_d3revenge",
+     "spellId": 704413,
+     "description": "Increases your block value by 10% and your expertise by 4.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-2-5",
+      "18-7-6-5"
+     ]
+    },
+    {
+     "id": "18-7-6-6a",
+     "name": "Unscuffable",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "creatureportrait_blackrockv2_shieldgong",
+     "spellId": 503837,
+     "description": "Allies within 30 yds now take -10% less Magic damage from area of effect attacks.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-6-5"
+     ]
+    },
+    {
+     "id": "18-7-6-6b",
+     "name": "Order In The Court",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "_silence_bloodelf",
+     "spellId": 707716,
+     "description": "Damage dealt by Hammer of the Law now reduces the damage dealt by affected enemies by -10% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-7-7-6",
+     "name": "The Green Tower",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "5_warriorskill25_border",
+     "spellId": 560410,
+     "description": "Reduces the Energy cost of your Formations and increases their effectiveness by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-8-5",
+      "18-7-6-5"
+     ]
+    },
+    {
+     "id": "18-7-10-6",
+     "name": "Experienced Soldier",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "ability_golemthunderclap",
+     "spellId": 570713,
+     "description": "Level 40 PassiveMelee attacks now reduce the cooldown of Brace by -1 sec.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "18-7-10-4"
+     ]
+    },
+    {
+     "id": "18-7-0-7",
+     "name": "Valorous Strikes",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_shoulder_mail_bastion_d_01",
+     "spellId": 524932,
+     "description": "Auto attacks now have a 10% chance to strike an additional time and reduce your target's chance to hit by -3% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-1-6",
+      "18-7-0-5"
+     ]
+    },
+    {
+     "id": "18-7-2-7",
+     "name": "Resilient",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "5_warriorskill47_border",
+     "spellId": 707137,
+     "description": "Blocking an attack while Raise Shield is active now increases your maximum health by 308 + 10% Stamina + 11% AP for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-1-6",
+      "18-7-2-6"
+     ]
+    },
+    {
+     "id": "18-7-4-7",
+     "name": "Forceful Impact",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "novart_passivemastery_(11)_border",
+     "spellId": 705346,
+     "description": "Casting Raise Shield and Heavy Blow now extends the duration of your Brace by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-4-6"
+     ]
+    },
+    {
+     "id": "18-7-6-7",
+     "name": "Lionheart",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv__faction_alliancewareffort",
+     "spellId": 531515,
+     "description": "Your Shield of Denial now strikes 1 additional enemy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-6-6a",
+      "18-7-7-6",
+      "18-7-6-6b"
+     ]
+    },
+    {
+     "id": "18-7-8-7a",
+     "name": "Valiant Knight",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "5_archerskill48_border",
+     "spellId": 582937,
+     "description": "Melee ability critical strikes now cause your next Pulverize within 6 seconds to be free of cost and deal 25% increased damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-7-6",
+      "18-7-8-5"
+     ]
+    },
+    {
+     "id": "18-7-8-7b",
+     "name": "Valiant Defender",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "spell_holy_divineintervention",
+     "spellId": 582933,
+     "description": "Increases your maximum Energy by 15 and increases the damage of Pulverize and Broad Sweep by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-7-2-8",
+     "name": "King's Guard",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_helmet_plate_raidpaladin_l_01",
+     "spellId": 803134,
+     "description": "Your Pulverize and Ram now have a 10% chance to reset the cooldown of Raise Shield.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-2-7",
+      "18-7-0-7"
+     ]
+    },
+    {
+     "id": "18-7-4-8",
+     "name": "Shield Unit",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "spell_tailor_defenceup01",
+     "spellId": 804891,
+     "description": "Each time you take damage, you gain 5% of the damage taken as attack power for 1 minute.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-6-7",
+      "18-7-4-7",
+      "18-7-2-7"
+     ]
+    },
+    {
+     "id": "18-7-6-8",
+     "name": "Wreck Formation",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "6bf_explosive_shard",
+     "spellId": 803126,
+     "description": "Melee critical strikes now have a 50% chance to reset the cooldown of Hammer of the Law.Casting Standard of Valiance now increases your attack power by 10% for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-6-7",
+      "18-7-8-7a",
+      "18-7-8-7b"
+     ]
+    },
+    {
+     "id": "18-7-10-8",
+     "name": "High Guard",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "custom_warriorskill_03_border",
+     "spellId": 707621,
+     "description": "Level 50 PassiveAfter using Raise Shield, Advance or Battle Rush, you are granted High Guard.High Guard (Buff)Your next Heavy Blow within 15 seconds triggers no cooldown.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "18-7-10-6"
+     ]
+    },
+    {
+     "id": "18-7-2-9",
+     "name": "Paragon",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "5_warriorskill16_border",
+     "spellId": 706514,
+     "description": "Blocking an attack grants you a stack of Paragon for 10 seconds. Can only occur once every 0.5 sec.At 10 stacks, your Heavy Blow transforms into Paragon Smash for 10 seconds.Paragon Smash (Damage)Deals 144 + 37% AP Physical damage to all nearby enemies.Increases your chance to block by 10% and each block reduces the cooldown of Brace by -2 sec. Lasts for 5 blocks or 10 seconds.Scales with modifiers to Heavy Blow.Casting Heavy Blow instantly grants 3 stacks of this effect.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-4-8",
+      "18-7-2-8"
+     ]
+    },
+    {
+     "id": "18-7-4-9",
+     "name": "Bastion",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "shield_draenorcrafted_d_02_a_alliance",
+     "spellId": 802283,
+     "description": "Raise your shield and lead your allies within 12 yds, reducing their damage taken by -40% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-7-4-8"
+     ]
+    },
+    {
+     "id": "18-7-6-9",
+     "name": "Shieldlord’s Strength",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 7,
+     "icon": "inv_hammer_10",
+     "spellId": 803738,
+     "description": "You may now use two-handed Maces and can now equip two-handed Maces with a shield.Your Heavy Blow and Hammer of the Law now deal additional damage scaling with your Stamina and your Stamina is increased by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-7-6-8",
+      "18-7-4-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 48,
+   "name": "Inspiration",
+   "nodeCount": 45,
+   "nodes": [
+    {
+     "id": "18-48-4-0",
+     "name": "Inspiring Leader",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "ability_maldraxxus_warriorplantbanner",
+     "spellId": 505344,
+     "description": "You pledge to inspire your allies in the midst of battle, transforming your Pulverize and your Broad Sweep into Ballads.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "18-48-10-0",
+     "name": "Tempo",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "achievement_guildperk_everyones_a_hero",
+     "spellId": 92107,
+     "description": "Level 10 PassiveCasting Ballads now grants Tempo, stacking 3 times. Upon reaching 3 stacks of Tempo, you consume them to perform a Sound of War, striking all enemies within 8 yds for 71 + 12.74% AP Magic damage.Tempo (Proc)Critical strike chance increased by 2%, stacking 3 times.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 1
+    },
+    {
+     "id": "18-48-2-1",
+     "name": "A Hero's Tale",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "achievement_pvp_legion08",
+     "spellId": 705361,
+     "description": "Increases your Energy regeneration by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-4-0"
+     ]
+    },
+    {
+     "id": "18-48-6-1",
+     "name": "Leading the March",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "ability_warrior_victoryrush",
+     "spellId": 704423,
+     "description": "Increases your attack power and total Armor by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-4-0"
+     ]
+    },
+    {
+     "id": "18-48-1-2",
+     "name": "Strength In Unison",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "inv_misc_drum_01",
+     "spellId": 300860,
+     "description": "Increases your melee haste by 1% for each ally within 20 yds, up to a maximum of 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-2-1"
+     ]
+    },
+    {
+     "id": "18-48-3-2",
+     "name": "Veteran of the Third War",
+     "x": 3,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "novart_passivemastery_(4)_border",
+     "spellId": 300540,
+     "description": "You now restore 3% of your base health whenever you block an attack.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-2-1"
+     ]
+    },
+    {
+     "id": "18-48-5-2",
+     "name": "Dragonslayer",
+     "x": 5,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "crest_warrior",
+     "spellId": 706333,
+     "description": "Increases your Agility by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-6-1"
+     ]
+    },
+    {
+     "id": "18-48-7-2",
+     "name": "Into The Fray",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "_d3wrathoftheberserker",
+     "spellId": 704525,
+     "description": "Triggering a Sound of War now grants you an additional auto attack on your next swing.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-6-1"
+     ]
+    },
+    {
+     "id": "18-48-10-2a",
+     "name": "Banner of Conquest",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "demoralizing_banner",
+     "spellId": 500261,
+     "description": "Attach a Banner of Conquest to your back, increasing the critical strike chance of party and raid members within 40 yds by 5%.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 20,
+     "dependencies": [
+      "18-48-10-0"
+     ]
+    },
+    {
+     "id": "18-48-10-2b",
+     "name": "Spirit of Battle",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "spell_holy_spellwarding",
+     "spellId": 504159,
+     "description": "Increases chance to hit with all spells and attacks by 1% for you and party and raid members.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20
+    },
+    {
+     "id": "18-48-2-3",
+     "name": "Battle Bard",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "inv_inscription_scrollofwisdom_01",
+     "spellId": 806140,
+     "description": "Increases the damage of your Ballads by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-1-2",
+      "18-48-3-2"
+     ]
+    },
+    {
+     "id": "18-48-6-3",
+     "name": "Soundwave",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "spell_animabastion_wave",
+     "spellId": 705318,
+     "description": "Increases the damage dealt by Sound of War by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-7-2",
+      "18-48-5-2"
+     ]
+    },
+    {
+     "id": "18-48-1-4",
+     "name": "Harrowing Melody",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "inv_axe_2h_undeadguitar_c_01",
+     "spellId": 572821,
+     "description": "Play a harrowing melody, dealing 191 + 42% AP Magic damage and reducing all healing received by enemies within 10 yds by -30% for 10 seconds.In addition, your next Ballad within 10 seconds is free of cost and deals 50% increased damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-48-1-2",
+      "18-48-2-3"
+     ]
+    },
+    {
+     "id": "18-48-4-4",
+     "name": "Hero's March",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "inv_misc_drum_03",
+     "spellId": 801774,
+     "description": "Beat the drums of war, causing your auto attacks to trigger a Sound of War and increasing your haste by 15% for 15 seconds.In addition, allies within 10 yds of you have a 5% chance to trigger a Sound of War on any damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-48-2-3",
+      "18-48-6-3"
+     ]
+    },
+    {
+     "id": "18-48-7-4",
+     "name": "Liberation",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "ability_pvp_gladiatormedallion",
+     "spellId": 803963,
+     "description": "Instantly breaks an ally free of any stun, fear, or polymorph effects and grants immunity to such effects for 5 seconds. Dispels 2 harmful magic effects from the ally.Usable while stunned, feared, or polymorphed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-48-7-2",
+      "18-48-6-3"
+     ]
+    },
+    {
+     "id": "18-48-10-4a",
+     "name": "Banner of Swiftness",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "inv_banner_03",
+     "spellId": 500259,
+     "description": "Attach a Banner of Swiftness to your back, increasing the haste of party and raid members within 40 yds by 5%.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 30,
+     "dependencies": [
+      "18-48-10-2a",
+      "18-48-10-2b"
+     ]
+    },
+    {
+     "id": "18-48-10-4b",
+     "name": "Knight's Song",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "inv_misc_flute_01",
+     "spellId": 505228,
+     "description": "Casting a Ballad now grants allies Knight's Song.Knight&#39;s SongEmanate an aura for 10 seconds that increases the Armor of party and raid members by 400.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30
+    },
+    {
+     "id": "18-48-0-5",
+     "name": "Minstrel",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "ability_racial_makecamp",
+     "spellId": 704533,
+     "description": "Casting a Ballad now increases your haste by 3%, stacking 3 times, for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-1-4"
+     ]
+    },
+    {
+     "id": "18-48-2-5a",
+     "name": "Pied Piper",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "inv_misc_flute_01",
+     "spellId": 705350,
+     "description": "Triggering a Sound of War now increases damage of your next Ram by 20% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-4-4",
+      "18-48-1-4"
+     ]
+    },
+    {
+     "id": "18-48-2-5b",
+     "name": "Frontliner",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "ability_warrior_intervene",
+     "spellId": 504782,
+     "description": "Triggering a Sound of War now increases your movement speed by 40% and allies' within 20 yds movement speed by 20% for 2 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-48-4-5a",
+     "name": "Bard's Manuscript",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "pvp_scroll_1",
+     "spellId": 704526,
+     "description": "Reduces the cooldown of Hero's March by -60 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-4-4"
+     ]
+    },
+    {
+     "id": "18-48-4-5b",
+     "name": "Warbringer's Manuscript",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "inv_misc_notescript1c",
+     "spellId": 705351,
+     "description": "Critical strikes now reduce the cooldown of Hero's March by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-48-6-5",
+     "name": "Reverberations",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "skill_icon_skill121_border",
+     "spellId": 520650,
+     "description": "Casting Ram now causes your next 3 melee attacks to deal an additional 30 + 10% AP Magic damage for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-4-4",
+      "18-48-7-4"
+     ]
+    },
+    {
+     "id": "18-48-8-5",
+     "name": "Show of Force",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "spell_fire_firearmor",
+     "spellId": 573047,
+     "description": "Dealing damage with Ram now dispels 1 magic effect from the target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-7-4"
+     ]
+    },
+    {
+     "id": "18-48-1-6",
+     "name": "Powerful Voice",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "ability_warrior_battleshout",
+     "spellId": 705356,
+     "description": "Increases the critical strike chance of your Ballads by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-2-5a",
+      "18-48-0-5",
+      "18-48-2-5b"
+     ]
+    },
+    {
+     "id": "18-48-3-6",
+     "name": "Little Drummer",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "novart_misc_(15)_border",
+     "spellId": 706636,
+     "description": "Allies within 20 yds of you now gain 20% chance to resist curses.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-2-5a",
+      "18-48-4-5a",
+      "18-48-2-5b",
+      "18-48-4-5b"
+     ]
+    },
+    {
+     "id": "18-48-5-6",
+     "name": "Elegant Combat",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "custom_warriorskill_35_border",
+     "spellId": 804047,
+     "description": "Casting a Ballad has a 20% chance to remove the cost of the next Ram and increase its critical chance by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-6-5",
+      "18-48-4-5a",
+      "18-48-4-5b"
+     ]
+    },
+    {
+     "id": "18-48-7-6",
+     "name": "Banner Boy",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "achievement_bg_captureflag_wsg",
+     "spellId": 705359,
+     "description": "Increases your haste by 5% and the movement speed granted by Line Formation by 8%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-6-5",
+      "18-48-8-5"
+     ]
+    },
+    {
+     "id": "18-48-10-6a",
+     "name": "Song of Steel",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "skill_icon_skill29_border",
+     "spellId": 704540,
+     "description": "Boost the morale of party and raid members, increasing their attack or spell power by 95 for 15 seconds.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 40,
+     "dependencies": [
+      "18-48-10-4a",
+      "18-48-10-4b"
+     ]
+    },
+    {
+     "id": "18-48-10-6b",
+     "name": "Dissonance",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "5_music_border",
+     "spellId": 505202,
+     "description": "Damage dealt by Sound of War now has a 25% chance to reduce enemies' resistances by 75 and increases their Magic damage taken by -2% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40
+    },
+    {
+     "id": "18-48-0-7",
+     "name": "War's Muse",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "spell_nature_reincarnation",
+     "spellId": 505201,
+     "description": "Increases your critical damage by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-1-6"
+     ]
+    },
+    {
+     "id": "18-48-2-7a",
+     "name": "Stand Your Ground!",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "spell_holy_heroism",
+     "spellId": 806142,
+     "description": "While standing in your Standard of Valiance, your allies' Physical damage taken is reduced by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-1-6",
+      "18-48-3-6"
+     ]
+    },
+    {
+     "id": "18-48-2-7b",
+     "name": "You Shall Not Fall!",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "achievement_bg_masterofallbgs",
+     "spellId": 505200,
+     "description": "While standing in your Standard of Valiance, allies have a -20% increased chance to resist stun and grip effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-48-4-7",
+     "name": "Battle Drums",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "inv_archaeology_70_tauren_drum",
+     "spellId": 803683,
+     "description": "Place down 3 Battle Drums around you for 1 minute. Allies may click on the drums to increase their critical strike chance, haste, damage, and healing done by 10% and causes their damage dealt to trigger a Sound of War for their next 5 instances of damage or 30 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-48-5-6",
+      "18-48-3-6"
+     ]
+    },
+    {
+     "id": "18-48-6-7",
+     "name": "Fearless",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "spell_nature_invisibilty",
+     "spellId": 505199,
+     "description": "Each nearby enemy within 10 yds now reduces your damage taken by 1%, up to a maximum of 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-7-6",
+      "18-48-5-6"
+     ]
+    },
+    {
+     "id": "18-48-8-7",
+     "name": "Cavalry Tactics",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "inv_blacksmith_leystonehoofplates_blue",
+     "spellId": 503631,
+     "description": "Reduces the cooldown of your Cavalry Charge by -30 sec and it now prevents root and slow effects on allies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-7-6"
+     ]
+    },
+    {
+     "id": "18-48-1-8",
+     "name": "Legion Commander",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "ability_warrior_rallyingcry",
+     "spellId": 704535,
+     "description": "The damage increase of Harrowing Melody now affects an additional 2 Ballad casts and guarantees them to critically strike and deal 100% more damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-0-7",
+      "18-48-2-7a",
+      "18-48-2-7b"
+     ]
+    },
+    {
+     "id": "18-48-3-8",
+     "name": "Echoes of War",
+     "x": 3,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "achievement_dungeon_lordstormsong",
+     "spellId": 704539,
+     "description": "Triggering a Sound of War now grants Echoes of War to nearby allies for 8 seconds.Echoes of WarNext direct ability or spell deals 15% of their damage as additional Magic Damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-2-7a",
+      "18-48-4-7",
+      "18-48-2-7b"
+     ]
+    },
+    {
+     "id": "18-48-5-8",
+     "name": "Song of Battle",
+     "x": 5,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "achievement_pvp_legion04",
+     "spellId": 803956,
+     "description": "Every 2 sec you emanate Sounds of War, dealing 71 + 12.74% AP Physical damage to all enemies within 8 yds. Lasts 15 seconds.Upon expiration, stun all enemies within 8 yds for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-48-4-7",
+      "18-48-6-7"
+     ]
+    },
+    {
+     "id": "18-48-7-8",
+     "name": "Bannerman",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "nhi_magicbanner_border",
+     "spellId": 504144,
+     "description": "While affected by your Banner of Swiftness or Banner of Conquest, the initial damage dealt by your Standard of Valiance now deals 150% more damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-6-7",
+      "18-48-8-7"
+     ]
+    },
+    {
+     "id": "18-48-10-8a",
+     "name": "Inspiring Presence",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "_human_07",
+     "spellId": 705352,
+     "description": "Emanate an aura around you for 15 seconds, causing allied players within 100 yds to deal 35% AP additional damage as Holy damage when they deal direct damage.Applies Exhaustion, preventing you from benefiting from similar effects for 1 minute.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 50,
+     "dependencies": [
+      "18-48-10-6a",
+      "18-48-10-6b"
+     ]
+    },
+    {
+     "id": "18-48-10-8b",
+     "name": "Champion's Presence",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "spell_paladin_clarityofpurpose",
+     "spellId": 520835,
+     "description": "Enrage all nearby allies, increasing their haste by 30% for 20 seconds.After being affected by this spell, allies cannot benefit from similar effects for 5 minutes.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 50
+    },
+    {
+     "id": "18-48-1-9",
+     "name": "Voice of an Angel",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "ability_priest_heavanlyvoice",
+     "spellId": 704420,
+     "description": "Sing a beautiful song, instantly resetting the cooldown of Liberation, Harrowing Melody, and Hero's March.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-48-1-8"
+     ]
+    },
+    {
+     "id": "18-48-4-9",
+     "name": "War Drums",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "inv_leatherworking_drums",
+     "spellId": 704524,
+     "description": "Adds 5% to the value of Echoes of War.In addition, performing a Sound of War now has a 40% chance to echo, striking an additional time after 0.5 sec. Can only occur once per sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-3-8",
+      "18-48-5-8"
+     ]
+    },
+    {
+     "id": "18-48-7-9",
+     "name": "Field Commander",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 48,
+     "icon": "achievement_pvp_a_06",
+     "spellId": 705320,
+     "description": "Placing a Standard causes your next Song of Steel to unleash an additional unique effect.SpellwardingIncreases the magic resistance of party and raid members within 100 yds by 20 for 10 seconds.MightReduces the Armor of enemies within 100 yds by -15% for 10 seconds.RallyingIncreases the movement speed of party and raid members within 100 yds by 15% for 10 seconds.RecoveryReduces the melee and ranged attack speed of enemies within 100 yds by -10% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-48-7-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 49,
+   "name": "Gladiator",
+   "nodeCount": 38,
+   "nodes": [
+    {
+     "id": "18-49-4-0",
+     "name": "Centurion Strike",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "custom_warriorskill_02_border",
+     "spellId": 802286,
+     "description": "Stab an enemy, dealing 110% Weapon Damage plus an additional effect based on your weapon.Sword: Triggers 3 additional auto attacks.Axe: Guaranteed to critically strike for 25% increased damage.Mace: Ignores -50% of your target's Armor.Polearm: Stabs the target and enemies behind them an additional time.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "18-49-10-0",
+     "name": "Glory",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "epic_rpg_icon_pack_brutal_icon_0001s_0000_warrior_border",
+     "spellId": 92106,
+     "description": "Level 10 PassiveYour Ram now grants you a stack of Glory for 30 seconds.At 3 stacks, your next Ram within 30 seconds deals 150% increased damage.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 10
+    },
+    {
+     "id": "18-49-2-1",
+     "name": "Might",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "inv_helm_crown_c_01_silver",
+     "spellId": 300538,
+     "description": "Increases your attack power by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-4-0"
+     ]
+    },
+    {
+     "id": "18-49-6-1",
+     "name": "Legionnaire",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "ability_warrior_shieldbreak",
+     "spellId": 504730,
+     "description": "Increases the critical damage of Centurion Strike and Reprisal by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-4-0"
+     ]
+    },
+    {
+     "id": "18-49-0-2",
+     "name": "Sword Training",
+     "x": 0,
+     "y": 2,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "inv_sword_40",
+     "spellId": 802297,
+     "description": "While a sword is equipped, your melee haste is increased by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-2-1"
+     ]
+    },
+    {
+     "id": "18-49-4-2",
+     "name": "Supremacy",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "custom_sword_b_07_border",
+     "spellId": 504140,
+     "description": "Casting Centurion Strike now refreshes a charge of Reprisal.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-2-1",
+      "18-49-6-1"
+     ]
+    },
+    {
+     "id": "18-49-8-2",
+     "name": "Axe Training",
+     "x": 8,
+     "y": 2,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "inv_axe_12",
+     "spellId": 704515,
+     "description": "While an axe is equipped, your critical strike chance is increased by 2% and critical damage increased by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-6-1"
+     ]
+    },
+    {
+     "id": "18-49-10-2",
+     "name": "Shield Training",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "inv_shield_20",
+     "spellId": 524885,
+     "description": "Level 20 PassiveIncreases your block rating by 10% of your Strength.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "18-49-10-0"
+     ]
+    },
+    {
+     "id": "18-49-1-3",
+     "name": "Polearm Training",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "gladiatorspearguy",
+     "spellId": 802299,
+     "description": "Allows you to wield polearms and to wield them with a shield equipped.While a polearm is equipped, your melee abilities have 2 yds increased range.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-2-1"
+     ]
+    },
+    {
+     "id": "18-49-3-3",
+     "name": "Upper Hand",
+     "x": 3,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "inv_relics_totemofrage",
+     "spellId": 802295,
+     "description": "Your melee auto attacks now have a 20% chance to strike 2 additional times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-4-2"
+     ]
+    },
+    {
+     "id": "18-49-5-3",
+     "name": "Built Different",
+     "x": 5,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "5_engineerskill39_border",
+     "spellId": 300545,
+     "description": "Increases your Strength and Stamina by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-4-2"
+     ]
+    },
+    {
+     "id": "18-49-7-3",
+     "name": "Mace Training",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "inv_mace_05",
+     "spellId": 705336,
+     "description": "While a mace is equipped, your armor penetration is increased by 8%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-6-1"
+     ]
+    },
+    {
+     "id": "18-49-2-4",
+     "name": "Double Duty",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "inv_sword_1h_artifactskywall_d_06dual",
+     "spellId": 504184,
+     "description": "Increases your hit chance by 5% and expertise by 4.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-3-3"
+     ]
+    },
+    {
+     "id": "18-49-4-4",
+     "name": "Champion",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "ability_warrior_improveddisciplines",
+     "spellId": 300972,
+     "description": "Your Centurion Strike now extends the duration of Raise Shield on you by 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-5-3",
+      "18-49-3-3"
+     ]
+    },
+    {
+     "id": "18-49-6-4",
+     "name": "Crashing Force",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "inv_mace_124",
+     "spellId": 705329,
+     "description": "Increases the damage of your Centurion Strike and Reprisal by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-5-3"
+     ]
+    },
+    {
+     "id": "18-49-10-4",
+     "name": "Experienced Combatant",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "5_assassinskill06_border",
+     "spellId": 707633,
+     "description": "Level 30 PassiveIncreases your attack power by 20% of your Strength.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "18-49-10-2"
+     ]
+    },
+    {
+     "id": "18-49-1-5",
+     "name": "Spear Throw",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "_d3ancientspear",
+     "spellId": 500463,
+     "description": "Throw a massive spear at an enemy, dealing 45 + 35% AP Physical damage, reducing the effectiveness of any healing by -50% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-49-2-4"
+     ]
+    },
+    {
+     "id": "18-49-3-5",
+     "name": "Tactical Combat",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "achievement_bg_killxenemies_generalsroom",
+     "spellId": 504503,
+     "description": "Increases your block value by 8% and chance to block by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-4-4",
+      "18-49-2-4"
+     ]
+    },
+    {
+     "id": "18-49-5-5",
+     "name": "Heroic Effort",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "achievement_guildperk_everyones_a_hero",
+     "spellId": 301057,
+     "description": "Casting Centurion Strike now grants 1 stack of Glory.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-6-4",
+      "18-49-4-4"
+     ]
+    },
+    {
+     "id": "18-49-7-5a",
+     "name": "No Escape",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "novart_physical_ability_(46)_border",
+     "spellId": 802300,
+     "description": "Ram now reduces the cooldown of your Battle Rush by -10 sec when used against a rooted enemy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-6-4"
+     ]
+    },
+    {
+     "id": "18-49-7-5b",
+     "name": "Bulwark Rush",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "ability_warrior_criticalblock",
+     "spellId": 300536,
+     "description": "Casting Battle Rush increases your block rating by 25% of Strength for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-49-0-6",
+     "name": "No Retreating!",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "custom_iron_hl_b_border",
+     "spellId": 504139,
+     "description": "While in combat, every 2 sec, increase the range and Energy cost of your next Spear Throw by 1 and its damage dealt by 3%, stacking up to 15 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-1-5"
+     ]
+    },
+    {
+     "id": "18-49-2-6",
+     "name": "Waste No Movement",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "inv_sword_35",
+     "spellId": 704516,
+     "description": "Reduces the Energy cost of Broad Sweep, Spear Throw, and Centurion Strike by -5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-3-5",
+      "18-49-1-5"
+     ]
+    },
+    {
+     "id": "18-49-4-6",
+     "name": "Overwhelming Presence",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "novart_shield_(8)_border",
+     "spellId": 712367,
+     "description": "Increases the attack power of all party and raid members 5%. Does not stack with similar effects.In addition, increases your Agility by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-3-5",
+      "18-49-5-5"
+     ]
+    },
+    {
+     "id": "18-49-6-6",
+     "name": "Momentum",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "ability_warrior_shieldbash",
+     "spellId": 504531,
+     "description": "Melee damage dealt now reduces the cooldown of your Chivlary by -2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-7-5a",
+      "18-49-5-5",
+      "18-49-7-5b"
+     ]
+    },
+    {
+     "id": "18-49-8-6",
+     "name": "Myrmidon",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "epic_rpg_icon_pack_brutal_icon_0007s_0000_warrior_border",
+     "spellId": 504530,
+     "description": "Increases the damage of Ram and Broad Sweep by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-7-5a",
+      "18-49-7-5b"
+     ]
+    },
+    {
+     "id": "18-49-10-6",
+     "name": "Shield Combat",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "ability_warrior_victoryrush",
+     "spellId": 807297,
+     "description": "Level 40 PassiveCasting Ram and Pulverize now increases your attack power based on your block rating for 6 seconds.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "18-49-10-4"
+     ]
+    },
+    {
+     "id": "18-49-1-7a",
+     "name": "Clinch Brawler",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "custom_net_border",
+     "spellId": 707310,
+     "description": "Centurion Strike is now guaranteed to critically strike against enemies affected by Net Throw.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-2-6",
+      "18-49-0-6"
+     ]
+    },
+    {
+     "id": "18-49-1-7b",
+     "name": "Pinned Down!",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "ability_warrior_challange",
+     "spellId": 301252,
+     "description": "Damage dealt by Spear Throw now refreshes the duration of Net Throw on your target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "18-49-4-7",
+     "name": "Deadly Blow",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "inv_mace_2h_draenorcrafted_d_01_b_alliance",
+     "spellId": 706807,
+     "description": "Your Centurion Strike and Broad Sweep now bleed an additional 15% of the damage dealt over 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-4-6",
+      "18-49-2-6",
+      "18-49-6-6"
+     ]
+    },
+    {
+     "id": "18-49-7-7",
+     "name": "Retiarius",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "ability_warrior_warbringer",
+     "spellId": 705338,
+     "description": "Increases your maximum Energy by 25.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-6-6",
+      "18-49-8-6"
+     ]
+    },
+    {
+     "id": "18-49-2-8",
+     "name": "Close Combat",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "_d3groundstomp",
+     "spellId": 704514,
+     "description": "Removes the shared cooldown of your Standards and reduces the cooldown of Guard by -10 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-1-7a",
+      "18-49-4-7",
+      "18-49-1-7b"
+     ]
+    },
+    {
+     "id": "18-49-4-8",
+     "name": "Heroism",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "ability_racial_avatar",
+     "spellId": 705323,
+     "description": "Whenever you reach 3 stacks of Glory or 20 stacks of Favor, your next 2 Pulverizes or Broad Sweeps within 10 seconds are free of cost.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-4-7"
+     ]
+    },
+    {
+     "id": "18-49-6-8",
+     "name": "One-Handed Mastery",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "ability_warrior_unrelentingassault",
+     "spellId": 300541,
+     "description": "Increases your damage dealt by 10% while a one-handed weapon is equipped.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-4-7",
+      "18-49-7-7"
+     ]
+    },
+    {
+     "id": "18-49-10-8",
+     "name": "Favor",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "warrior_talent_icon_angermanagement",
+     "spellId": 704322,
+     "description": "Level 50 PassiveCritical strikes and killing blows now grant you Favor for 1 minute, stacking 20 times.At 20 stacks, your next auto attack deals an additional 500% Weapon Damage, consuming the stacks.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "18-49-10-4"
+     ]
+    },
+    {
+     "id": "18-49-2-9",
+     "name": "Calculated Strike",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "achievement_raregarrisonquests_x",
+     "spellId": 705341,
+     "description": "Your Reprisal, Broad Sweep, and Spear Throw now deal an additional 2% Weapon Damage for each Energy point you have upon casting it.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-2-8",
+      "18-49-4-8"
+     ]
+    },
+    {
+     "id": "18-49-4-9",
+     "name": "Final Verdict",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "epic_rpg_icon_pack_brutal_icon_0001s_0000_warrior_border",
+     "spellId": 500258,
+     "description": "Give the final verdict to your target, dealing 1195 + 100% AP Physical damage and healing you for 15% of your maximum health.Only usable on enemies below 20% health. Killing blows reset the cooldown of this ability.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "18-49-4-8"
+     ]
+    },
+    {
+     "id": "18-49-6-9",
+     "name": "Earthsplitter",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 49,
+     "icon": "ability_kilruk_reave",
+     "spellId": 805155,
+     "description": "Casting Broad Sweep now increases the amount of enemies struck by your next Broad Sweep by 1 and reduces its Energy cost by -10% for 6 seconds, stacking 3 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "18-49-6-8",
+      "18-49-4-8"
+     ]
+    }
+   ]
+  }
+ ]
+}

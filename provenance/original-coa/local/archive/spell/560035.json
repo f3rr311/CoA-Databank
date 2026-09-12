@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spellbrand",
+  "icon": "spell_frost_wizardmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spellbrand</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #FFFFFF;\">Elemental Burst</span> and <span style=\"color: #ffffff;\">Runeblade</span> by 10%.</span></td></tr></table><!--?560035:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

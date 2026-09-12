@@ -1,0 +1,8 @@
+{
+  "name_enus": "Adaptation: Swashbuckler",
+  "icon": "inv_helm_cloth_b_01pirate_black",
+  "tooltip_enus": "<table><tr><td><b>Adaptation: Swashbuckler</b><br /><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires One-Handed Axes, One-Handed Maces, One-Handed Swords, Bows, Crossbows, Guns<br /><span class=\"q\">Increases Attack Power by 15%, Parry Chance by 10% and reduces Ranged Attack Power by 50%. Successful parries have a chance to apply <span style=\"color: #ffffff;\">Counterstruck</span>.<br /><br />Using <span style=\"color: #ffffff;\">Ravage</span> allows you to use abilities that require you to parry.<br /><br />Can only be used with a one-handed melee weapon, and no off-hand. <br /><br />Only 1 Adaptation can be active at a time.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_priest_void_flay.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=803111'> Sane </a> <br />\n                            <span> You cannot go insane again for the duration.</span><br /></span></td></tr></table><!--?804937:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

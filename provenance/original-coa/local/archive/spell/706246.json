@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dark Revelation",
+  "icon": "spell_shadow_summonvoidwalker",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dark Revelation</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Causes <span style=\"color: #ffffff;\">Herald of C'thun</span> to give <span style=\"color: #ffffff;\">Horrorbolt</span> and <span style=\"color: #ffffff;\">Eldritch Blast</span> a 15% chance to reset <span style=\"color: #ffffff;\">Gaze of C'thun</span>.</span></td></tr></table><!--?706246:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

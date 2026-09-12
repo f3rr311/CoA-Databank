@@ -1,0 +1,15 @@
+{
+  "name_enus": "Shadowsong's Mandate",
+  "icon": "inv_helmet_leather_raiddruid_q_01",
+  "tooltip_enus": "<table><tr><td><b>Shadowsong's Mandate</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your critical strike chance by 15%<!--sp680772:0--><!--sp680772--> for 10&nbsp;sec.<br /><br />While active, your damaging critical strikes have a 40% chance to trigger <span style=\"color: #ffffff;\">Warden's Blade</span>.</span></td></tr></table><!--?805439:1:1:80-->",
+  "spells_enus": {
+    "680772": [
+      [
+        "",
+        " and movement speed by 0%"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

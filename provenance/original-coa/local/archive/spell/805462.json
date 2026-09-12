@@ -1,0 +1,8 @@
+{
+  "name_enus": "Seismic Wave",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Seismic Wave</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>40 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Create a seismic wave of healing water around you, healing for 27+0+Heal*.3+AP*.28+Heal*.3 health to up to 8 allies and dealing 47+0+AP*0.28+Heal*.3 Nature damage to enemies in a 25 yd radius.<br /><br />Shares a cooldown with other <span style=\"color: #ffffff;\">Seismic</span> spells.</span></td></tr></table><!--?805462:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spirit Striker",
+  "icon": "_warlock_plaiefuneste2",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spirit Striker</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the proc chance of <span style=\"color: #ffffff;\">Voodoo Fire</span> by 10%.</span></td></tr></table><!--?806286:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

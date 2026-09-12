@@ -1,0 +1,8 @@
+{
+  "name_enus": "Light Quiver",
+  "icon": "inv_misc_quiver_04",
+  "tooltip_enus": "<table><tr><td><b>Light Quiver</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases melee and ranged haste by 10% and reduces the Focus costs of abilities by 15%.<br /><br />Only 1 <span style=\"color: #ffffff;\">Quiver</span> may be active at a time.<br /><br />Shares a cooldown with other <span style=\"color: #ffffff;\">Quivers</span>.</span></td></tr></table><!--?800261:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

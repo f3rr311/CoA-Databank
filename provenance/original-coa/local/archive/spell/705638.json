@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fusion",
+  "icon": "nhi_magicstorm_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Fusion</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Direct critical strikes now reduces the cooldown of your <span style=\"color: #ffffff;\">Thorim's Fury</span> by 3 sec and of <span style=\"color: #FFFFFF;\">Body of Lightning</span> by 1 sec.</span></td></tr></table><!--?705638:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

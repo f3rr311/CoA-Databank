@@ -1,0 +1,796 @@
+{
+ "build": {
+  "id": "102d9cf7-095d-4fb4-80e7-c0949104d65c",
+  "title": "Noobheal Invention Tinker Build",
+  "description": "[overview]\nHere is my current build I'm following for the invention tinker, currently focused on overcharging beacons and zap for providing constant healing to the group. It's a Work In Progress to 60, so will get updated continously. \n\nTo easily find a specific talent in the guide, **press CTRL + F for the search function**.\n\nHere's my mid-level review for the invention tinker: https://www.youtube.com/watch?v=ZWue4zNyXCE\nFor more CoA related guides, visit yt@noobhealhq for more content!\n\n[talents]\n## CLASS TREE - Ability and Multiple Choices:\n\n- For our main mobility, we pick [Rocket Boots](coa-skill:tinker:500241) from the Class Tree.\n- Macro-Gravity Zone is a strong AoE Stun for dungeon pulls.\n- [Kinetic Shield](coa-skill:tinker:806224) + [Mechanosoldier](coa-skill:tinker:705827) gives us  a 10 second 50% dmg reduction CD we can throw on the tank.\n- [Med Pack](coa-skill:tinker:800347) + Enhanced Procedures gives us a strong instant HoT for the tank, and we have enough AoE healing tools already.\n- Cutting Edge Technology over Rocket Bombardment, to increase the passive HoT effect of Nanobot Reconstruction on the tank.\n- [Build: Alarm Beacon](coa-skill:tinker:560754) + [Cybernetic Revivification](coa-skill:tinker:705811) gives us double fear, charm and sleep aoe dispel.\n- [Air Strike](coa-skill:tinker:801744) gives us a fire and forget on demand burst AoE ability, nice to couple with Macro-Gravity Zone.\n- Auto Resuscitation Device can be used to either save the tank, or planned to not heal the tank at all on bigger pulls until they have been saved and healed to 50%, giving you time to AoE DPS and crowdcontrol. Check rotation for more information!\n\n\n## INVENTION TREE - Ability and Multiple Choices:\n\n- Stim Augmentation gives us passive AoE healing on our singletarget heals, a nobrainer pick.\n- [Nanobot Swarm](coa-skill:tinker:801709) ensures the tank keeps aggro when he does bigger pulls, so you don't have to fear loose mobs due to your passive healing.\n- Stim Shots for Dungeons vs [Bandage Gun](coa-skill:tinker:705780) for Raid Healing.\n- Zap! + Trust the Science! + [Rejuvenating Gadget](coa-skill:tinker:805306) + Resourceful Tech + Emergency Enhancer gives you a single target instant cast low cooldown powerhouse that when cast on the tank gives splash AoE heals whenever your beacons are up - and that's always.\n- [Build: Battery Recharge Station](coa-skill:tinker:805308) is a strong sustain tool especially at lower levels, since [Build: Replenishment Beacon](coa-skill:tinker:560750) gives less mana per [Overcharge](coa-skill:tinker:524835) due to lower intellect.\n- Rapid Fire Healing + Manacapacitors gives us more beacons and overcharge\n- [Nanobot Cleanser](coa-skill:tinker:502537) is very situational pick.\n- Build: Noise Box is also situationally good in dungeons with caster-heavy mobs.\n\n[rotation]\n## General Gameplay of Invention Tinker:\n\n**Healing**\n\nThe Invention tinker keeps up the group with passive and active healing.\nThey have a flash heal called *Emergency Heal* and a long heal called [Repair Shot](coa-skill:tinker:801707)\nWith this build *Zap!* is a 10 second cooldown instant cast heal, that when cast on a player with your Nanobots, is guaranteed to crit and spread Rejuvenating Gas to allies. It also causes active build abilities (beacons, mana station, etc.) to smartheal nearby allies.\nThey have a 1 minute cooldown [Med Pack](coa-skill:tinker:800347) that works as a cleanse and greater HoT.\nKeep *Nanobot Replenishment* up on yourself and [Nanobot Swarm](coa-skill:tinker:801709) and [Nanobot Reconstruction](coa-skill:tinker:801809) on the tank at all times.\n\n\n**Damage**\n\nYou use *Scrap Shot* for single target ranged damage and can make it do Area of Effect damage when you’re in *Explosive Augmentation*.\nUse [Sticky Bomb](coa-skill:tinker:500232) on cooldown to contribute to the overall group damage.\nKeep up your [Build: Sentry Turret](coa-skill:tinker:500239) for passive damaging, and to spread healing with Zap!.\n[Spanner Smash](coa-skill:tinker:805351) in melee range just because.\n[Air Strike](coa-skill:tinker:801744) often and especially on big pulls.\n\n\n[Build: Battle Turret X-13](coa-skill:tinker:504519)\n## Battle Turret X-13\n\nI'm not allowed to post anything about Battle Turret, it doesn't save.\n\n[stats]\n**Intellect > SP > Healing Power > Spirit/Stamina**\n\n- Intellect gives us 20% healing power and 15% crit. It also scales great with our active mana regeneration abilities, like [Build: Replenishment Beacon](coa-skill:tinker:560750) and [Overcharge](coa-skill:tinker:524835).\n- Spell Power and Healing Power to give us throughput on our heals.\n- Spirit when lvling up, Stamina at max level when mana becomes less of an issue.\n\n[leveling]\nClockwork Assistant is your best pet until level 40 where you unlock your passive Graftbolts, at which point ZIGGI-6K really comes online.\n\n[tips]\n## Crowd Control\n\nFor crowd control, tinkers have a lot of different tools at their disposal. First their area of effect Macro-Gravity Zone that slows enemies and stuns them after it has stacked up is really strong in dungeons. \n\nTinkers have the unique ability to deploy blast mines, up to 6 at a time, that when detonated knocks everybody back, including your party, so it can be situationally strong and is a very effective trolling tool – so do be careful with it!\n\nControl mechanical makes you able to be a beast inside Gnomeregan, enslaving a mechanical enemy, forcing them to deal damage for you and slowly kills them by taking nature damage over time. \n\nDiscombobulate! An instant cast That disorients an enemy for 4 seconds. \n\nFreeze Ray, a frontal cone area of effect freeze that breaks on damage. Imagine Cone of Cold on a 40 sec cd.\n\n\n## Mana Sustainability (Especially during leveling)\n\n- Keep up *Mana Module* and *Nanobot Recharge* on yourself at all times to gain passive MP5.\n- If using Clockwork Assistant, you can give yourself 20% mana back every 1 minute.\n- Keep [Build: Replenishment Beacon](coa-skill:tinker:560750)up near the group to regenerate even more mana. Be mindful that [Overcharge](coa-skill:tinker:524835) grants you less mana at lower levels, due to overcharge being a significant percentage cost of your total mana in comparison to at max level.\n- Use your [Build: Battery Recharge Station](coa-skill:tinker:805308) often, also in fights, to regain mana and health.\n\n\n**At Max Level**\n\n- [Build: Replenishment Beacon](coa-skill:tinker:560750) x 3 with [Overcharge](coa-skill:tinker:524835) should be enough to sustain you together with *Nanobot Recharge*, making you able to buff yourself with [Power Module](coa-skill:tinker:706742) for greater damage contribution in group play. \n- Use [Build: ZIGGI-6K](coa-skill:tinker:524840) now instead of *Clockwork Assistant* for even greater passive healing and damage contribution, since mana is less of an issue now due to our beacons.",
+  "class_id": 28,
+  "spec_id": 74,
+  "author_id": "e6249b90-f2c9-442a-90f7-58d358aa8964",
+  "talent_string": "W1siMjgtODctNi0wIiwxXSxbIjI4LTg3LTUtMSIsMl0sWyIyOC04Ny03LTIiLDFdLFsiMjgtODctMi0wIiwxXSxbIjI4LTg3LTMtMSIsMl0sWyIyOC04Ny02LTMiLDFdLFsiMjgtODctNC0yIiwxXSxbIjI4LTg3LTItMyIsMV0sWyIyOC04Ny00LTMiLDJdLFsiMjgtODctNS00IiwxXSxbIjI4LTg3LTQtNSIsMV0sWyIyOC04Ny03LTRiIiwxXSxbIjI4LTg3LTgtNSIsMV0sWyIyOC04Ny03LTYiLDFdLFsiMjgtODctNS02YiIsMV0sWyIyOC04Ny0zLTYiLDFdLFsiMjgtODctNC03IiwxXSxbIjI4LTg3LTItNyIsMV0sWyIyOC04Ny0zLTQiLDFdLFsiMjgtODctNi01IiwxXSxbIjI4LTg3LTQtOCIsMV0sWyIyOC04Ny02LTkiLDFdLFsiMjgtNzQtNC0wIiwxXSxbIjI4LTc0LTYtMSIsMV0sWyIyOC03NC00LTIiLDFdLFsiMjgtNzQtMi0xIiwyXSxbIjI4LTc0LTEtMyIsMV0sWyIyOC03NC03LTMiLDFdLFsiMjgtNzQtNC0zIiwxXSxbIjI4LTc0LTUtNGEiLDFdLFsiMjgtNzQtMC00IiwxXSxbIjI4LTc0LTEtNSIsMV0sWyIyOC03NC03LTUiLDFdLFsiMjgtNzQtOC02IiwxXSxbIjI4LTc0LTYtNiIsMV0sWyIyOC03NC03LTciLDFdLFsiMjgtNzQtNC01IiwxXSxbIjI4LTc0LTMtNiIsMV0sWyIyOC03NC0zLTciLDFdLFsiMjgtNzQtMi02IiwxXSxbIjI4LTc0LTYtOCIsMV0sWyIyOC03NC03LTkiLDFdLFsiMjgtNzQtNS03IiwyXSxbIjI4LTc0LTgtNCIsMV0sWyIyOC03NC04LTIiLDFdLFsiMjgtNzQtMTAtMCIsMV0sWyIyOC03NC0xMC0yIiwxXSxbIjI4LTc0LTEwLTQiLDFdLFsiMjgtNzQtMTAtNiIsMV0sWyIyOC03NC0xMC04IiwxXSxbIjI4LTg3LTEtMiIsMV1d",
+  "tags": [
+   "raid",
+   "leveling",
+   "dungeon",
+   "beginner"
+  ],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 4,
+  "downvotes": 1,
+  "comment_count": 3,
+  "created_at": "2026-07-21T13:59:40.426257+00:00",
+  "updated_at": "2026-07-25T15:06:45.1+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1096,
+  "net_score": 3,
+  "has_talents": true,
+  "guide_section_count": 6,
+  "author": {
+   "id": "e6249b90-f2c9-442a-90f7-58d358aa8964",
+   "username": "Noobheal",
+   "avatar_url": "https://cdn.discordapp.com/avatars/181744520944156672/e33261577c5b67d3b3bc03fa6f055541.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "d19a3d53-4a3e-4911-bf7b-48397838700a",
+   "build_id": "102d9cf7-095d-4fb4-80e7-c0949104d65c",
+   "author_id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+   "parent_id": null,
+   "body": "I'm glad you finally understood how replenishment beacon + overcharge works, glad i could help, cheers mate!",
+   "upvotes": 0,
+   "created_at": "2026-07-27T10:03:28.028757+00:00",
+   "updated_at": "2026-07-27T10:03:28.028757+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+    "username": "barbastellus",
+    "avatar_url": "https://cdn.discordapp.com/avatars/303246343454064643/0aa82c673b4696bbcc0985a0e426cb37.png"
+   }
+  },
+  {
+   "id": "acb962f3-22e1-4d87-9dcc-1073a6adc0f4",
+   "build_id": "102d9cf7-095d-4fb4-80e7-c0949104d65c",
+   "author_id": "16b45717-baee-4a5b-8c48-1049d1146dc6",
+   "parent_id": null,
+   "body": "good build !",
+   "upvotes": 1,
+   "created_at": "2026-07-30T16:01:16.490012+00:00",
+   "updated_at": "2026-07-30T16:02:45.522121+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "16b45717-baee-4a5b-8c48-1049d1146dc6",
+    "username": "Ameer Madi",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKTYYWUJggCJdx51ZqSocs5OO0Uq-Lxh2I4OYug_d2wCRRcPwIhjQ=s96-c"
+   }
+  },
+  {
+   "id": "ad853615-c454-46e5-933d-c598e050c598",
+   "build_id": "102d9cf7-095d-4fb4-80e7-c0949104d65c",
+   "author_id": "0ed75a92-6f69-4faa-a2ef-3f63c45b6c59",
+   "parent_id": null,
+   "body": "Finally a good tink heal build , been wrapping my head around some talents , thanks !",
+   "upvotes": 1,
+   "created_at": "2026-07-30T16:02:46.371023+00:00",
+   "updated_at": "2026-07-30T16:02:48.315352+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "0ed75a92-6f69-4faa-a2ef-3f63c45b6c59",
+    "username": ".herwulf.93",
+    "avatar_url": "https://cdn.discordapp.com/avatars/403196738111930368/bba9a5a528690944c9ba60db8f8a93a6.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "367f91fe-9108-4d77-9994-054ff4dd090c",
+   "title": "Tinker Demolition PvE",
+   "class_id": 28,
+   "spec_id": 73,
+   "author_id": "574155cb-df15-424b-bb48-2eb7cbb56521",
+   "tags": [
+    "PvE Dungeon Raid AoE Guide"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 3,
+   "view_count": 4963,
+   "featured": false,
+   "created_at": "2026-07-19T14:50:23.181203+00:00",
+   "updated_at": "2026-07-22T07:58:40.686+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "574155cb-df15-424b-bb48-2eb7cbb56521",
+    "username": "disturbedmirror",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJgW2sw_uPjGbkjQ9RXY9o-ak16pMDimJir4JeYoQF6MuYKHA=s96-c"
+   }
+  },
+  {
+   "id": "b5c3caf9-df2b-4629-9a35-e65f940069ed",
+   "title": "Tinker Demo PVP",
+   "class_id": 28,
+   "spec_id": 73,
+   "author_id": "247b79e3-0f93-4a8f-842e-c55c19c7f2da",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 966,
+   "featured": false,
+   "created_at": "2026-07-20T18:33:05.991506+00:00",
+   "updated_at": "2026-07-20T18:36:05.397+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "247b79e3-0f93-4a8f-842e-c55c19c7f2da",
+    "username": "mang0782",
+    "avatar_url": "https://cdn.discordapp.com/avatars/233807059919962112/42ed0f48c6ae22ba1b51a3a08846af13.png"
+   }
+  },
+  {
+   "id": "93151d79-0f14-43d1-90ad-6a44033f0eff",
+   "title": "Tinker Heal PVE DUNGEONS BUILD",
+   "class_id": 28,
+   "spec_id": 74,
+   "author_id": "bb2ee0a0-0e34-451c-93ca-f2f8aa5edd1a",
+   "tags": [
+    "Dungeons."
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 1,
+   "comment_count": 2,
+   "view_count": 479,
+   "featured": false,
+   "created_at": "2026-07-21T11:03:43.200903+00:00",
+   "updated_at": "2026-07-21T20:36:47.595+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "bb2ee0a0-0e34-451c-93ca-f2f8aa5edd1a",
+    "username": "Magik Wolf",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIyVNOyA89VZJ8YMtXuCzLorqm3k3Ra_bR1BcVbW_V3OEMp0Rg8=s96-c"
+   }
+  }
+ ],
+ "class": "Tinker",
+ "spec": "Invention",
+ "allocations": [
+  [
+   "28-87-6-0",
+   1
+  ],
+  [
+   "28-87-5-1",
+   2
+  ],
+  [
+   "28-87-7-2",
+   1
+  ],
+  [
+   "28-87-2-0",
+   1
+  ],
+  [
+   "28-87-3-1",
+   2
+  ],
+  [
+   "28-87-6-3",
+   1
+  ],
+  [
+   "28-87-4-2",
+   1
+  ],
+  [
+   "28-87-2-3",
+   1
+  ],
+  [
+   "28-87-4-3",
+   2
+  ],
+  [
+   "28-87-5-4",
+   1
+  ],
+  [
+   "28-87-4-5",
+   1
+  ],
+  [
+   "28-87-7-4b",
+   1
+  ],
+  [
+   "28-87-8-5",
+   1
+  ],
+  [
+   "28-87-7-6",
+   1
+  ],
+  [
+   "28-87-5-6b",
+   1
+  ],
+  [
+   "28-87-3-6",
+   1
+  ],
+  [
+   "28-87-4-7",
+   1
+  ],
+  [
+   "28-87-2-7",
+   1
+  ],
+  [
+   "28-87-3-4",
+   1
+  ],
+  [
+   "28-87-6-5",
+   1
+  ],
+  [
+   "28-87-4-8",
+   1
+  ],
+  [
+   "28-87-6-9",
+   1
+  ],
+  [
+   "28-74-4-0",
+   1
+  ],
+  [
+   "28-74-6-1",
+   1
+  ],
+  [
+   "28-74-4-2",
+   1
+  ],
+  [
+   "28-74-2-1",
+   2
+  ],
+  [
+   "28-74-1-3",
+   1
+  ],
+  [
+   "28-74-7-3",
+   1
+  ],
+  [
+   "28-74-4-3",
+   1
+  ],
+  [
+   "28-74-5-4a",
+   1
+  ],
+  [
+   "28-74-0-4",
+   1
+  ],
+  [
+   "28-74-1-5",
+   1
+  ],
+  [
+   "28-74-7-5",
+   1
+  ],
+  [
+   "28-74-8-6",
+   1
+  ],
+  [
+   "28-74-6-6",
+   1
+  ],
+  [
+   "28-74-7-7",
+   1
+  ],
+  [
+   "28-74-4-5",
+   1
+  ],
+  [
+   "28-74-3-6",
+   1
+  ],
+  [
+   "28-74-3-7",
+   1
+  ],
+  [
+   "28-74-2-6",
+   1
+  ],
+  [
+   "28-74-6-8",
+   1
+  ],
+  [
+   "28-74-7-9",
+   1
+  ],
+  [
+   "28-74-5-7",
+   2
+  ],
+  [
+   "28-74-8-4",
+   1
+  ],
+  [
+   "28-74-8-2",
+   1
+  ],
+  [
+   "28-74-10-0",
+   1
+  ],
+  [
+   "28-74-10-2",
+   1
+  ],
+  [
+   "28-74-10-4",
+   1
+  ],
+  [
+   "28-74-10-6",
+   1
+  ],
+  [
+   "28-74-10-8",
+   1
+  ],
+  [
+   "28-87-1-2",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "28-87-6-0",
+   "points": 1,
+   "name": "Nanobot Reconstruction",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 801809
+  },
+  {
+   "id": "28-87-5-1",
+   "points": 2,
+   "name": "Refined Gunpowder",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 705781
+  },
+  {
+   "id": "28-87-7-2",
+   "points": 1,
+   "name": "Hasty Tech",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705805
+  },
+  {
+   "id": "28-87-2-0",
+   "points": 1,
+   "name": "Rocket Boots",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 500241
+  },
+  {
+   "id": "28-87-3-1",
+   "points": 2,
+   "name": "Explosive Personality",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 704111
+  },
+  {
+   "id": "28-87-6-3",
+   "points": 1,
+   "name": "Med Pack",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 800347
+  },
+  {
+   "id": "28-87-4-2",
+   "points": 1,
+   "name": "Clockwork Ingenuity",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 505336
+  },
+  {
+   "id": "28-87-2-3",
+   "points": 1,
+   "name": "Macro-Gravity Zone",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 707104
+  },
+  {
+   "id": "28-87-4-3",
+   "points": 2,
+   "name": "Flexible Thinking",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 705825
+  },
+  {
+   "id": "28-87-5-4",
+   "points": 1,
+   "name": "Efficiency",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705806
+  },
+  {
+   "id": "28-87-4-5",
+   "points": 1,
+   "name": "Kinetic Shield",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 806224
+  },
+  {
+   "id": "28-87-7-4b",
+   "points": 1,
+   "name": "Enhanced Procedures",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 506819
+  },
+  {
+   "id": "28-87-8-5",
+   "points": 1,
+   "name": "Modulator",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 707832
+  },
+  {
+   "id": "28-87-7-6",
+   "points": 1,
+   "name": "Build: Alarm Beacon",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 560754
+  },
+  {
+   "id": "28-87-5-6b",
+   "points": 1,
+   "name": "Cutting Edge Technology",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 707398
+  },
+  {
+   "id": "28-87-3-6",
+   "points": 1,
+   "name": "I'm The Creator Now",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 503534
+  },
+  {
+   "id": "28-87-4-7",
+   "points": 1,
+   "name": "Mechanosoldier",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705827
+  },
+  {
+   "id": "28-87-2-7",
+   "points": 1,
+   "name": "Ventilation",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 572367
+  },
+  {
+   "id": "28-87-3-4",
+   "points": 1,
+   "name": "Maniacal",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 706375
+  },
+  {
+   "id": "28-87-6-5",
+   "points": 1,
+   "name": "Mechaplating",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705831
+  },
+  {
+   "id": "28-87-4-8",
+   "points": 1,
+   "name": "Air Strike",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 801744
+  },
+  {
+   "id": "28-87-6-9",
+   "points": 1,
+   "name": "Auto Resuscitation Device",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 520445
+  },
+  {
+   "id": "28-74-4-0",
+   "points": 1,
+   "name": "Build: Restorative Beacon",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 801801
+  },
+  {
+   "id": "28-74-6-1",
+   "points": 1,
+   "name": "Field Medic",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560789
+  },
+  {
+   "id": "28-74-4-2",
+   "points": 1,
+   "name": "Stim Augmentation",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 653239
+  },
+  {
+   "id": "28-74-2-1",
+   "points": 2,
+   "name": "Over-Repaired",
+   "maxPoints": 2,
+   "tree": "Invention",
+   "spellId": 807498
+  },
+  {
+   "id": "28-74-1-3",
+   "points": 1,
+   "name": "Macro Designer",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 505230
+  },
+  {
+   "id": "28-74-7-3",
+   "points": 1,
+   "name": "Eureka!",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 503552
+  },
+  {
+   "id": "28-74-4-3",
+   "points": 1,
+   "name": "Inventor's Tool Belt",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560742
+  },
+  {
+   "id": "28-74-5-4a",
+   "points": 1,
+   "name": "Stim Shots",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 808009
+  },
+  {
+   "id": "28-74-0-4",
+   "points": 1,
+   "name": "Nanobot Swarm",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 801709
+  },
+  {
+   "id": "28-74-1-5",
+   "points": 1,
+   "name": "Healing Radiator",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705846
+  },
+  {
+   "id": "28-74-7-5",
+   "points": 1,
+   "name": "Zap!",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 680196
+  },
+  {
+   "id": "28-74-8-6",
+   "points": 1,
+   "name": "Trust the Science!",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 300653
+  },
+  {
+   "id": "28-74-6-6",
+   "points": 1,
+   "name": "Rejuvenating Gadget",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 805306
+  },
+  {
+   "id": "28-74-7-7",
+   "points": 1,
+   "name": "Resourceful Tech",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560791
+  },
+  {
+   "id": "28-74-4-5",
+   "points": 1,
+   "name": "Fine Tuning",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 300877
+  },
+  {
+   "id": "28-74-3-6",
+   "points": 1,
+   "name": "Build: Battery Recharge Station",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 805308
+  },
+  {
+   "id": "28-74-3-7",
+   "points": 1,
+   "name": "Rapid Fire Healing",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705803
+  },
+  {
+   "id": "28-74-2-6",
+   "points": 1,
+   "name": "Cybernetic Revivification",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705811
+  },
+  {
+   "id": "28-74-6-8",
+   "points": 1,
+   "name": "Emergency Circumvented",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 805303
+  },
+  {
+   "id": "28-74-7-9",
+   "points": 1,
+   "name": "Emergency Enhancer",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560787
+  },
+  {
+   "id": "28-74-5-7",
+   "points": 2,
+   "name": "Mana Capacitors",
+   "maxPoints": 2,
+   "tree": "Invention",
+   "spellId": 506818
+  },
+  {
+   "id": "28-74-8-4",
+   "points": 1,
+   "name": "Improved Emergency Heal",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 504918
+  },
+  {
+   "id": "28-74-8-2",
+   "points": 1,
+   "name": "Technician",
+   "maxPoints": 2,
+   "tree": "Invention",
+   "spellId": 560735
+  },
+  {
+   "id": "28-74-10-0",
+   "points": 1,
+   "name": "Build: ZIGGI-6K",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 92140
+  },
+  {
+   "id": "28-74-10-2",
+   "points": 1,
+   "name": "Scientific Nature",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705802
+  },
+  {
+   "id": "28-74-10-4",
+   "points": 1,
+   "name": "Beacon Charging",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 524834
+  },
+  {
+   "id": "28-74-10-6",
+   "points": 1,
+   "name": "Graftbolts",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560785
+  },
+  {
+   "id": "28-74-10-8",
+   "points": 1,
+   "name": "Improved Graftbolts",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 807748
+  },
+  {
+   "id": "28-87-1-2",
+   "points": 1,
+   "name": "Backup Fuel",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705810
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bonefreeze",
+  "icon": "spell_shadow_darkritual",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bonefreeze</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>6% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Chill the bones of an enemy and up to 2 nearby enemies, dealing COND(GT(FroP, ShaP), 63+0+FroP*0.95, 63+0+ShaP*0.825) Shadowfrost Damage, reduced by 25% per target.</span></td></tr></table><!--?500326:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

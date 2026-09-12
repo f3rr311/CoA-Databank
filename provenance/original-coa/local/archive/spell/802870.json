@@ -1,0 +1,8 @@
+{
+  "name_enus": "Grand Entrance",
+  "icon": "ability_warrior_stalwartprotector",
+  "tooltip_enus": "<table><tr><td><b>Grand Entrance</b><br />20 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Leap into the air, becoming immune to crowd control effects, and then crash back down with incredible speed at your enemy.<br /><br />Upon landing, deal 400% Weapon Damage to enemies in the impact area, plus an additional (6*1000/2)*(203+1.8 Points Per Level+AP*0.2575) over 6&nbsp;sec, ignoring Armor and knocking them into the air.</span></td></tr></table><!--?802870:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

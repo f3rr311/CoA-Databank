@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flourishing Growth",
+  "icon": "spell_druid_germination",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flourishing Growth</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>20% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empower party and raid members within 40 yds with verdant strength, increasing their attack or spell power by 95 for 20&nbsp;sec.<br /><br />Does not stack with similar effects.</span></td></tr></table><!--?805442:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

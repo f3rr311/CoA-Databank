@@ -1,0 +1,8 @@
+{
+  "name_enus": "Short Circuit",
+  "icon": "ability_siege_engineer_magnetic_lasso",
+  "tooltip_enus": "<table><tr><td><b>Short Circuit</b><br /><table width=\"100%\"><tr><td>Instant</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Distracto Shot</span> also silences the target for 3&nbsp;sec, but its cooldown is increased by 10 sec.</span></td></tr></table><!--?800568:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

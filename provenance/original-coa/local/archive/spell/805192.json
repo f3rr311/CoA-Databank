@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ghastly Advance",
+  "icon": "spell_shadow_auraofdarkness",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ghastly Advance</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the range of <span style=\"color: #ffffff;\">Spectre Stride</span> by 5 yds and causes it to generate 5 more Runic Power.</span></td></tr></table><!--?805192:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

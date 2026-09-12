@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rapid Fire Healing",
+  "icon": "_ingenieurbelt",
+  "tooltip_enus": "<table><tr><td><b>Rapid Fire Healing</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Modules</span> now affect 1 additional use of <span style=\"color: #ffffff;\">Repair Shot</span>.</span></td></tr></table><!--?805311:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

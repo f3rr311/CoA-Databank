@@ -1,0 +1,8 @@
+{
+  "name_enus": "Press the Attack",
+  "icon": "novart_physical_ability_%2850%29_border",
+  "tooltip_enus": "<table><tr><td><b>Press the Attack</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Shields<br /><span class=\"q\">Raise your shield and press the attack, dealing 75% Weapon Damage plus 18+2.8 Points Per Level to enemies in front of you and draining 10 Energy every 0.5 sec. Lasts 5&nbsp;sec.<br /><br />While active you gain 100% increased block chance and you may block, dodge, and parry while channeling.<br /><br />You cannot use other abilities while <span style=\"color: #ffffff;\">Press the Attack</span> is active.</span></td></tr></table><!--?801219:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Quickdraw",
+  "icon": "custom_gun_b_05_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Quickdraw</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>15 Rage<br /><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Ranged Weapon<br /><span class=\"q\">Unleash a quick shot, dealing 175% Ranged Weapon Damage plus 16+0+RAP*0.2 Physical damage.<br /><br />Only usable after critically striking with an ability.</span></td></tr></table><!--?804193:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cursewarding",
+  "icon": "_diablo3_cursedmonster_purple",
+  "tooltip_enus": "<table><tr><td><b>Cursewarding</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the duration of all Curse effects used on you by 25%.<br /><br />Dealing or taking Shadow Damage has a 10% chance to grant you <span style=\"color: #ffffff;\">Dark Embrace</span> for 8&nbsp;sec.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/warlock_curse_shadow_aura.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=805921'> Dark Embrace </a> <br />\n                            <span> Damage Taken reduced by 10%. Shadow Damage taken reduced by a further 10%.</span><br /></span></td></tr></table><!--?804688:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

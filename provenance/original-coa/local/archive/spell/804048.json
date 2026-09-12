@@ -1,0 +1,8 @@
+{
+  "name_enus": "Thorim's Rage",
+  "icon": "ability_druid_stellarflare",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Thorim's Rage</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases your critical damage with Nature spells by an additional 20%.</span></td></tr></table><!--?804048:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

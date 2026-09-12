@@ -1,0 +1,21 @@
+{
+  "name_enus": "Timemancy",
+  "icon": "inv_misc_dust",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Timemancy</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Sandblast</span><!--sp92118:0--><!--sp92118--> by 5%<!--sp500115:0--><!--sp500115-->.</span></td></tr></table><!--?706118:1:1:80-->",
+  "spells_enus": {
+    "92118": [
+      [
+        "",
+        " and <span style=\"color: #ffffff\">Unmake</span>"
+      ]
+    ],
+    "500115": [
+      [
+        "",
+        ", and the healing of <span style=\"color: #ffffff\">Epoch</span> by 5%"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

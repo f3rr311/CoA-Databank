@@ -1,0 +1,21 @@
+{
+  "name_enus": "Revitalize",
+  "icon": "inv_ember_green",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Revitalize</b></td><th><b class=\"q0\">Rank 1 DEPRECATED</b></th></tr></table>255% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Revitalize an ally, healing them for 1+0+SP*0.67 over 12&nbsp;sec, stacking 3 times.<!--sp705851:0--><!--sp705851--><!--sp705850:0--><!--sp705850--><br /><br />Can only be used while channeling a Witch Doctor spell upon the target.</span></td></tr></table><!--?801667:1:1:80-->",
+  "spells_enus": {
+    "705851": [
+      [
+        "",
+        "<br /><br />Affected allies healing received is increased by 6% for the duration."
+      ]
+    ],
+    "705850": [
+      [
+        "",
+        " Increases the healing allies receive from <span style=\"color: #ffffff\">Voodoo Serpent Beam</span>, <span style=\"color: #ffffff\">Loa's Brew</span>, and <span style=\"color: #ffffff\">Soothing Juju</span> by 0% per stack."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

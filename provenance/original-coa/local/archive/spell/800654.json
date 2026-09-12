@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dawnbreak",
+  "icon": "nhi_energyshield_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dawnbreak</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>5% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>6&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Shields<br /><span class=\"q\">Radiate holy light from your shield on enemies in front of you, dealing 23+0+SP*0.25+AP*0.1 Holyfire Damage, scaling with your block value.</span></td></tr></table><!--?800654:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

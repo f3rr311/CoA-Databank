@@ -1,0 +1,697 @@
+{
+ "build": {
+  "id": "b574355f-3597-4c59-974c-65ef2272bfe5",
+  "title": "Piety - PvP BLAST THEM",
+  "description": "[overview]\nThis is my first time making a guide, so be gentle kudasai.\n\nThat aside, this build aims to delete people in either one go or 2 goes, focusing on our abilities hitting multiple times (Adjudication) & (Duality of light) and hitting fast (we basically take all the haste talents) + vow of radiance damage which is +50% while in Dawn and judgement day which adds another 50%.\n\n[talents]\nI want to start off by saying that Enveloped in Light, might become obsolete down the road and replaced, it gives us extra armor from plate/mail armor which translates to more SP. However after the outrider's mail gear in combination with the defiler's mail gear, there is no arena equivalent mail/plate focused only on casters. So we might switch to cloth gear, yes there is no leather also... at that point we probably move the points into Suncharged and Holy Conquest for the reduced mana costs.\n\nNote:\n\ni am using the exact names, don't get confused while browsing them with chain/lamellar and what not - and you get this gear by asking them if they have anything better to sell you.\n\n\nOther than that, we take as much survivability as possible in combination with damage.\n\n[rotation]\nI am assuming you are playing optimally and using vow of grace when doing nothing for passive Solar Power, so i am gonna get straight into the dawn situation.\n\nOf course you switch to Vow of Radiance.\n\n1 shot wombo combo:\n\nNote: in between casts if you get a Scorched Marks procc, you use it, but don't break CC for it. Your Radiant flame is gonna count as holy damage to increase the damage of your next rapture by up to 80%\n\nSolar invocation Revelation(root) > get close with Sun Stride, Glare (they trinket) > Judgement day (if they didn't trinket, skip)> Dawn > Rupture > Dawnsear (hits twice due to Adjudication) > Horusath Blast [- if they didn't trinket -] >Judgement day to continue the cc chain<, keep blasting with dawnsear, unless you got the RNG to blast a Rapture and or Horusath Blast, which you will then follow with a you guessed it Dawnsear into a definitive Radiant flame.\n\nNow's the fun part, if they survived that, your next go in exactly 1 min will do double the damage, You do the exact same thing without the Glare, in the meanwhile try to use radiant flame as much as possible to keep up Duality stacks while in Dawn, preferably while scorch marks are up but sometimes you can do without it as it also offers mana and HP sustain. And just bomba.\n\n[stats]\nSpell power\nInt\nCrit\nHaste",
+  "class_id": 27,
+  "spec_id": 70,
+  "author_id": "24704385-a29f-4fe6-8cd8-9d503f996a8a",
+  "talent_string": "W1siMjctODctMi0wIiwxXSxbIjI3LTg3LTQtMCIsMV0sWyIyNy04Ny0yLTEiLDJdLFsiMjctODctNi0xIiwyXSxbIjI3LTg3LTQtMiIsMV0sWyIyNy04Ny00LTMiLDFdLFsiMjctODctMi0zIiwxXSxbIjI3LTg3LTYtMyIsMV0sWyIyNy04Ny00LTUiLDFdLFsiMjctODctMi01IiwxXSxbIjI3LTg3LTctNGEiLDFdLFsiMjctODctOC01IiwxXSxbIjI3LTg3LTUtNCIsMV0sWyIyNy04Ny03LTIiLDFdLFsiMjctNzAtNC0wIiwxXSxbIjI3LTcwLTQtMSIsMV0sWyIyNy03MC0yLTIiLDFdLFsiMjctNzAtMS0zIiwyXSxbIjI3LTcwLTYtMiIsMV0sWyIyNy03MC03LTMiLDNdLFsiMjctNzAtOC00IiwxXSxbIjI3LTcwLTQtMyIsMV0sWyIyNy03MC00LTQiLDFdLFsiMjctNzAtMy01YSIsMV0sWyIyNy03MC01LTViIiwxXSxbIjI3LTcwLTYtNCIsMl0sWyIyNy03MC0yLTQiLDFdLFsiMjctNzAtMS01IiwxXSxbIjI3LTcwLTQtNiIsMV0sWyIyNy03MC01LTciLDFdLFsiMjctNzAtMy03IiwxXSxbIjI3LTcwLTctNiIsMV0sWyIyNy03MC03LTciLDFdLFsiMjctNzAtOC03IiwxXSxbIjI3LTcwLTYtOCIsMV0sWyIyNy03MC03LTkiLDFdLFsiMjctODctNy03IiwxXSxbIjI3LTg3LTctNiIsMV0sWyIyNy04Ny00LTYiLDJdLFsiMjctODctMi02YSIsMV0sWyIyNy04Ny0xLTciLDFdLFsiMjctODctMi04IiwxXSxbIjI3LTg3LTItOSIsMV0sWyIyNy04Ny0zLTQiLDJdXQ",
+  "tags": [],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 2,
+  "created_at": "2026-07-20T14:37:48.158637+00:00",
+  "updated_at": "2026-07-21T09:24:56.292+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1001,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "24704385-a29f-4fe6-8cd8-9d503f996a8a",
+   "username": "hikarikage_",
+   "avatar_url": "https://cdn.discordapp.com/avatars/246383190757867520/24ab9d8dc274501975d51bd97db62ca1.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "cd591394-fb43-4ad8-95bb-b5e58cee1c0a",
+   "build_id": "b574355f-3597-4c59-974c-65ef2272bfe5",
+   "author_id": "87c8869a-bb33-4be6-869c-8d15eedc2010",
+   "parent_id": null,
+   "body": "What about spears of glory and burning heat over duality of light?\nI feel like it having more instant casts and getting a nuke that does dmg over time messing with reapers and riftblades in those matchup could come handy?",
+   "upvotes": 0,
+   "created_at": "2026-07-21T10:32:51.532773+00:00",
+   "updated_at": "2026-07-21T10:32:51.532773+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "87c8869a-bb33-4be6-869c-8d15eedc2010",
+    "username": "tiberazure",
+    "avatar_url": "https://cdn.discordapp.com/avatars/296976634659995649/c9503b119611e76d5f73f39ec6f285ee.png"
+   }
+  },
+  {
+   "id": "df19cf27-084c-426c-aab9-b5cb02bdd312",
+   "build_id": "b574355f-3597-4c59-974c-65ef2272bfe5",
+   "author_id": "24704385-a29f-4fe6-8cd8-9d503f996a8a",
+   "parent_id": "cd591394-fb43-4ad8-95bb-b5e58cee1c0a",
+   "body": "You can definitely go there if you feel like it, it's a more kitey/rng game style, you just don't have the standarndized bomba capability, you split the dmg between Sunrise and Sunset. The build that i posted is more Sunrise orriented. Basically i only use Sunset to stack the 2nd go.",
+   "upvotes": 0,
+   "created_at": "2026-07-22T17:14:32.566258+00:00",
+   "updated_at": "2026-07-22T17:14:32.566258+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "24704385-a29f-4fe6-8cd8-9d503f996a8a",
+    "username": "hikarikage_",
+    "avatar_url": "https://cdn.discordapp.com/avatars/246383190757867520/24ab9d8dc274501975d51bd97db62ca1.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "7e9d9222-bd9b-46f8-b6fa-2012abfb8654",
+   "title": "Valkyrie DPS PvE Detailed Guide (Dungeons, Mythics, Raid)",
+   "class_id": 27,
+   "spec_id": 90,
+   "author_id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+   "tags": [
+    "Dungeon",
+    "Heroic",
+    "Mythic",
+    "Raid",
+    "Single Target",
+    "AoE",
+    "PvE",
+    "General",
+    "Sun Cleric",
+    "Valkyrie"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 8,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 1851,
+   "featured": false,
+   "created_at": "2026-07-27T03:35:24.600234+00:00",
+   "updated_at": "2026-07-31T19:59:23.625+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+    "username": "DarkGuardian",
+    "avatar_url": "https://cdn.discordapp.com/avatars/237645502051647488/687c5535110cac02fdc5d918d23e5e98.png"
+   }
+  },
+  {
+   "id": "e8ee75b8-8e51-4d3a-af1b-a47d6c4d13b7",
+   "title": "Blessings Sun Cleric - Dungeons",
+   "class_id": 27,
+   "spec_id": 71,
+   "author_id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+   "tags": [],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 571,
+   "featured": false,
+   "created_at": "2026-07-28T00:34:16.331076+00:00",
+   "updated_at": "2026-07-30T22:27:37.597+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+    "username": "Iyob",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "70365f6d-e8d7-481e-9192-96bc94c2316e",
+   "title": "Sun Cleric - Seraphim - Dungeon",
+   "class_id": 27,
+   "spec_id": 72,
+   "author_id": "326a05bd-ae58-4722-ab9d-22a380d3fe22",
+   "tags": [],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 362,
+   "featured": false,
+   "created_at": "2026-07-25T18:41:27.856779+00:00",
+   "updated_at": "2026-07-25T18:41:27.856779+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "326a05bd-ae58-4722-ab9d-22a380d3fe22",
+    "username": "Sorri",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKZqD5dNL8hx9StOVXHsRYBHnTTEvAK9_JP3Qp2s1W-blgwzA=s96-c"
+   }
+  }
+ ],
+ "class": "Sun Cleric",
+ "spec": "Piety",
+ "allocations": [
+  [
+   "27-87-2-0",
+   1
+  ],
+  [
+   "27-87-4-0",
+   1
+  ],
+  [
+   "27-87-2-1",
+   2
+  ],
+  [
+   "27-87-6-1",
+   2
+  ],
+  [
+   "27-87-4-2",
+   1
+  ],
+  [
+   "27-87-4-3",
+   1
+  ],
+  [
+   "27-87-2-3",
+   1
+  ],
+  [
+   "27-87-6-3",
+   1
+  ],
+  [
+   "27-87-4-5",
+   1
+  ],
+  [
+   "27-87-2-5",
+   1
+  ],
+  [
+   "27-87-7-4a",
+   1
+  ],
+  [
+   "27-87-8-5",
+   1
+  ],
+  [
+   "27-87-5-4",
+   1
+  ],
+  [
+   "27-87-7-2",
+   1
+  ],
+  [
+   "27-70-4-0",
+   1
+  ],
+  [
+   "27-70-4-1",
+   1
+  ],
+  [
+   "27-70-2-2",
+   1
+  ],
+  [
+   "27-70-1-3",
+   2
+  ],
+  [
+   "27-70-6-2",
+   1
+  ],
+  [
+   "27-70-7-3",
+   3
+  ],
+  [
+   "27-70-8-4",
+   1
+  ],
+  [
+   "27-70-4-3",
+   1
+  ],
+  [
+   "27-70-4-4",
+   1
+  ],
+  [
+   "27-70-3-5a",
+   1
+  ],
+  [
+   "27-70-5-5b",
+   1
+  ],
+  [
+   "27-70-6-4",
+   2
+  ],
+  [
+   "27-70-2-4",
+   1
+  ],
+  [
+   "27-70-1-5",
+   1
+  ],
+  [
+   "27-70-4-6",
+   1
+  ],
+  [
+   "27-70-5-7",
+   1
+  ],
+  [
+   "27-70-3-7",
+   1
+  ],
+  [
+   "27-70-7-6",
+   1
+  ],
+  [
+   "27-70-7-7",
+   1
+  ],
+  [
+   "27-70-8-7",
+   1
+  ],
+  [
+   "27-70-6-8",
+   1
+  ],
+  [
+   "27-70-7-9",
+   1
+  ],
+  [
+   "27-87-7-7",
+   1
+  ],
+  [
+   "27-87-7-6",
+   1
+  ],
+  [
+   "27-87-4-6",
+   2
+  ],
+  [
+   "27-87-2-6a",
+   1
+  ],
+  [
+   "27-87-1-7",
+   1
+  ],
+  [
+   "27-87-2-8",
+   1
+  ],
+  [
+   "27-87-2-9",
+   1
+  ],
+  [
+   "27-87-3-4",
+   2
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "27-87-2-0",
+   "points": 1,
+   "name": "Horusath Blast",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 500154
+  },
+  {
+   "id": "27-87-4-0",
+   "points": 1,
+   "name": "Solar Prayer",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 806479
+  },
+  {
+   "id": "27-87-2-1",
+   "points": 2,
+   "name": "Swift Justice",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300322
+  },
+  {
+   "id": "27-87-6-1",
+   "points": 2,
+   "name": "Solar Might",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704916
+  },
+  {
+   "id": "27-87-4-2",
+   "points": 1,
+   "name": "Sun Stride",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 680700
+  },
+  {
+   "id": "27-87-4-3",
+   "points": 1,
+   "name": "Blessed Armor",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300334
+  },
+  {
+   "id": "27-87-2-3",
+   "points": 1,
+   "name": "Solar Invocation: Conquest",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 800764
+  },
+  {
+   "id": "27-87-6-3",
+   "points": 1,
+   "name": "Solar Invocation: Revelation",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 503651
+  },
+  {
+   "id": "27-87-4-5",
+   "points": 1,
+   "name": "Pure Light",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300314
+  },
+  {
+   "id": "27-87-2-5",
+   "points": 1,
+   "name": "Glare",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 805583
+  },
+  {
+   "id": "27-87-7-4a",
+   "points": 1,
+   "name": "Devoted to the Light",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 681436
+  },
+  {
+   "id": "27-87-8-5",
+   "points": 1,
+   "name": "Gleaming Vigil",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704585
+  },
+  {
+   "id": "27-87-5-4",
+   "points": 1,
+   "name": "Solar Guardian",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704581
+  },
+  {
+   "id": "27-87-7-2",
+   "points": 1,
+   "name": "Devotee",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 707767
+  },
+  {
+   "id": "27-70-4-0",
+   "points": 1,
+   "name": "Dawnsear",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 500146
+  },
+  {
+   "id": "27-70-4-1",
+   "points": 1,
+   "name": "Radiant Flame",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 806060
+  },
+  {
+   "id": "27-70-2-2",
+   "points": 1,
+   "name": "Scorch Marks",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 806021
+  },
+  {
+   "id": "27-70-1-3",
+   "points": 2,
+   "name": "Burning Cascade",
+   "maxPoints": 2,
+   "tree": "Piety",
+   "spellId": 560859
+  },
+  {
+   "id": "27-70-6-2",
+   "points": 1,
+   "name": "Solar Conduit",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 300321
+  },
+  {
+   "id": "27-70-7-3",
+   "points": 3,
+   "name": "Photosynthetic",
+   "maxPoints": 3,
+   "tree": "Piety",
+   "spellId": 300363
+  },
+  {
+   "id": "27-70-8-4",
+   "points": 1,
+   "name": "Sun's Hope",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 560276
+  },
+  {
+   "id": "27-70-4-3",
+   "points": 1,
+   "name": "Rapture",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 806477
+  },
+  {
+   "id": "27-70-4-4",
+   "points": 1,
+   "name": "Solar Concord",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 301266
+  },
+  {
+   "id": "27-70-3-5a",
+   "points": 1,
+   "name": "City of Light",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 301239
+  },
+  {
+   "id": "27-70-5-5b",
+   "points": 1,
+   "name": "Flames of Absolution",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 804632
+  },
+  {
+   "id": "27-70-6-4",
+   "points": 2,
+   "name": "Wrath of God",
+   "maxPoints": 2,
+   "tree": "Piety",
+   "spellId": 301267
+  },
+  {
+   "id": "27-70-2-4",
+   "points": 1,
+   "name": "Solar Champion",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 504734
+  },
+  {
+   "id": "27-70-1-5",
+   "points": 1,
+   "name": "Sun Gate",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 802161
+  },
+  {
+   "id": "27-70-4-6",
+   "points": 1,
+   "name": "Flames of the Father",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 806458
+  },
+  {
+   "id": "27-70-5-7",
+   "points": 1,
+   "name": "Adjudication",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 804630
+  },
+  {
+   "id": "27-70-3-7",
+   "points": 1,
+   "name": "Sunburn",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 300365
+  },
+  {
+   "id": "27-70-7-6",
+   "points": 1,
+   "name": "Grace",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 504070
+  },
+  {
+   "id": "27-70-7-7",
+   "points": 1,
+   "name": "Learning Light",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 300360
+  },
+  {
+   "id": "27-70-8-7",
+   "points": 1,
+   "name": "Soul of Light",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 807964
+  },
+  {
+   "id": "27-70-6-8",
+   "points": 1,
+   "name": "Moment of Triumph",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 300367
+  },
+  {
+   "id": "27-70-7-9",
+   "points": 1,
+   "name": "Duality of Light",
+   "maxPoints": 1,
+   "tree": "Piety",
+   "spellId": 806116
+  },
+  {
+   "id": "27-87-7-7",
+   "points": 1,
+   "name": "Sun Shield",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300348
+  },
+  {
+   "id": "27-87-7-6",
+   "points": 1,
+   "name": "Exorcism",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300341
+  },
+  {
+   "id": "27-87-4-6",
+   "points": 2,
+   "name": "Guiding Glow",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300324
+  },
+  {
+   "id": "27-87-2-6a",
+   "points": 1,
+   "name": "Fortuitous",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 561328
+  },
+  {
+   "id": "27-87-1-7",
+   "points": 1,
+   "name": "Unbreakable Focus",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704945
+  },
+  {
+   "id": "27-87-2-8",
+   "points": 1,
+   "name": "Nysoni's Blessing",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 520639
+  },
+  {
+   "id": "27-87-2-9",
+   "points": 1,
+   "name": "New Day",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 800600
+  },
+  {
+   "id": "27-87-3-4",
+   "points": 2,
+   "name": "Enveloped in Light",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 680652
+  }
+ ]
+}

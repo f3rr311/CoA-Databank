@@ -1,0 +1,8 @@
+{
+  "name_enus": "Magmatic",
+  "icon": "epic_rpg_icon_pack_fire_0003s_0000_phoenix_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Magmatic</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">After casting <span style=\"color: #ffffff;\">Pillar of Flame</span>, all periodic damage dealt now gives you a 10% chance to cast <span style=\"color: #ffffff;\">Pillar of Flame</span> on the target free of cost for 5&nbsp;sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/nhi_fireblow_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=805496'> Pillar of Flame </a> <br />\n                            <span> <span style=\"color: #ff7f7f;\">Generates 20 Heat Per Target</span><br />Create a pillar of lava beneath an enemy, dealing 36+0+FireP*0.3124 Fire damage.<br /><br />Deals an additional 92+0+FireP*0.34364 Fire damage to enemies near the primary target.</span><br /></span></td></tr></table><!--?704807:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

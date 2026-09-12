@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cascading Restoration",
+  "icon": "ability_druid_flourish",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Cascading Restoration</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cost of <span style=\"color: #ffffff;\">Primal Wave</span> by 10 and increases the radius by 4 yds.</span></td></tr></table><!--?706170:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

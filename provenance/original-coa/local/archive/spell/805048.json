@@ -1,0 +1,8 @@
+{
+  "name_enus": "Animate: Plaguefather",
+  "icon": "inv_helm_leather_maldraxxus_d_01",
+  "tooltip_enus": "<table><tr><td><b>Animate: Plaguefather</b><br />25% of base mana<br /><table width=\"100%\"><tr><td>2 sec cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Animate a <span style=\"color: #ffffff;\">Plaguefather</span> to aid you in combat for 15&nbsp;sec. <br /><br />Damage dealt by this minion will emit <span style=\"color: #ffffff;\">Zombie Plague</span>, dealing 79+1.0 Points Per Level+SP*0.1 Plague damage to nearby enemies, and reducing their attack power by -(-23+ -3.0 Points Per Level).</span></td></tr></table><!--?805048:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

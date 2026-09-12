@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hyperblast Barrage",
+  "icon": "inv_weapon_rifle_20",
+  "tooltip_enus": "<table><tr><td><b>Hyperblast Barrage</b><br />18% of base mana<br /><table width=\"100%\"><tr><td>2 sec cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Unleash a barrage of shrapnel, dealing 831+0+RAP*.36+FireP*.55 Fire damage to enemies in a line, applying a lesser <span style=\"color: #ffffff;\">Sticky Bomb</span> to each target struck that deals 271+125.9 Points Per Level+FireP*.1+AP*0.5 Fire damage after 3 sec.<br /><br />After 3&nbsp;sec, your active <span style=\"color: #ffffff;\">Sentry Turret</span> will also fire a <span style=\"color: #ffffff;\">Hyperblast Barrage</span>.</span></td></tr></table><!--?500249:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

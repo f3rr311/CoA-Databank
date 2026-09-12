@@ -1,0 +1,8 @@
+{
+  "name_enus": "Napalm",
+  "icon": "inv_eng_bombfire",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Napalm</b></td><th><b class=\"q0\">Spec Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Dealing direct Fire Damage now applies <span style=\"color: #FFFFFF;\">Napalm</span> to your target.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_eng_bombfire.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=805315'> Napalm </a> <br />\n                            <span> Fire Damage taken by you is increased and healing received reduced by 3% for 8&nbsp;sec. Stacks 10 times.</span><br /></span></td></tr></table><!--?805313:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

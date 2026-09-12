@@ -1,0 +1,8 @@
+{
+  "name_enus": "Firepower",
+  "icon": "item_sparkofragnoros",
+  "tooltip_enus": "<table><tr><td><b>Firepower</b><br />15% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empower party and raid members within 30 yds that are currently in a <span style=\"color: #ffffff;\">Path of Flames</span> for 10&nbsp;sec.<br /><br />While active, affected allies gain 20% increased movement speed, 3% increased critical strike chance, and take 100% increased healing from your <span style=\"color: #ffffff;\">Path of Flames</span>.</span></td></tr></table><!--?805487:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

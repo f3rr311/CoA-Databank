@@ -1,0 +1,8 @@
+{
+  "name_enus": "Masochistic Rage",
+  "icon": "ability_rogue_vendetta",
+  "tooltip_enus": "<table><tr><td><b>Masochistic Rage</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">After a 1 sec delay, you suffer 420+9.0 Points Per Level+AP*0.36 damage, enraging you and increasing your damage dealt by 20% for 15&nbsp;sec.</span></td></tr></table><!--?803030:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

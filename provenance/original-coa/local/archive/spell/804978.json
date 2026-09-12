@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shadra's Lair",
+  "icon": "inv_ascend_spiderweb_b_01",
+  "tooltip_enus": "<table><tr><td><b>Shadra's Lair</b><br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Designate the area around you as your <span style=\"color: #FFFFFF;\">Lair</span> for 8&nbsp;sec.  <br /><br />Enemies are unable to target into or out of the <span style=\"color: #ffffff;\">Lair</span> and their movement speed is slowed by 60%.</span></td></tr></table><!--?804978:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

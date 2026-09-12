@@ -1,0 +1,8 @@
+{
+  "name_enus": "Scrapshielding",
+  "icon": "uico_mecha_spell_02_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Scrapshielding</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your critical strikes now grant you a shield that absorbs 12+9.0 Points Per Level+AP*.15+SP*.6 damage.</span></td></tr></table><!--?806627:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

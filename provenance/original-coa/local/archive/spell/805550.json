@@ -1,0 +1,8 @@
+{
+  "name_enus": "Starsweep",
+  "icon": "inv_sword_1h_warfrontsnightelf_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Starsweep</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>5% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\"><span style=\"color: #66ccff;\">Consumes Scattered Stars</span><br />Sweep an enemy and all nearby enemies with your astral blade, dealing 30+0+AP*0.3+SP*0.35) Arcane damage.<br /><br />Every <span style=\"color: #66ccff;\">Scattered Star</span> consumed reduces the cooldown of this spell by 3 sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/custom_t_nhance_rpg_icons_arcaneshardsfall_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804716'> Consume Scattered Stars </a> <br />\n                            <span> Deals 7+SP*0.182183 Arcane Damage and restores 8% maximum mana for each <span style=\"color: #66ccff;\">Scattered Star</span>.</span><br /></span></td></tr></table><!--?805550:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

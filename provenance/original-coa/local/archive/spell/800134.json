@@ -1,0 +1,8 @@
+{
+  "name_enus": "Keeper of the Grove",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Keeper of the Grove</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the healing done by <span style=\"color: #FFFFFF;\">Earthmother's Binding</span> by 50%, plus an additional 50% on allies below 35% health.</span></td></tr></table><!--?800134:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

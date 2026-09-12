@@ -1,0 +1,8 @@
+{
+  "name_enus": "Serpent's Guile",
+  "icon": "inv_waepon_bow_zulgrub_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Serpent's Guile</b></td><th><b class=\"q0\">Damage</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases critical strike rating by 1% of Agility.</span></td></tr></table><!--?705929:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

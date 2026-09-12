@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sword Training",
+  "icon": "inv_sword_40",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Sword Training</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant cast</td></tr></table><table><tr><td>Requires One-Handed Swords<br /><span class=\"q\">While a sword is equipped, your melee haste is increased by 10%.</span></td></tr></table><!--?802297:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

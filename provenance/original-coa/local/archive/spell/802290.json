@@ -1,0 +1,19 @@
+{
+  "name_enus": "Lord of the Arena",
+  "icon": "inv_axe_2h_war_b_02_hd",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lord of the Arena</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the Energy cost of <!--sp92107:0--><span style=\"color: #ffffff;\">Pulverize</span><!--sp92107--> and <!--sp92107:0--><span style=\"color: #ffffff;\">Broad Sweep</span><!--sp92107--> by 5.</span></td></tr></table><!--?802290:1:1:80-->",
+  "spells_enus": {
+    "92107": [
+      [
+        "<span style=\"color: #ffffff\">Pulverize</span>",
+        "<span style=\"color: #FFFFFF\">Ballad of the Conqueror</span>"
+      ],
+      [
+        "<span style=\"color: #ffffff\">Broad Sweep</span>",
+        "<span style=\"color: #ffffff\">Ballad of the Dragonslayer</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

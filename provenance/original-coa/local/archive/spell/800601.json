@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sunwalker",
+  "icon": "nhi_holy_blessing_border",
+  "tooltip_enus": "<table><tr><td><b>Sunwalker</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cast time and mana cost of your next <span style=\"color: #ffffff;\">Shine</span> by 20% for 30&nbsp;sec, stacking 5 times.</span></td></tr></table><!--?800601:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

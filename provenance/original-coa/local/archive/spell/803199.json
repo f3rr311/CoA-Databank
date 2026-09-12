@@ -1,0 +1,8 @@
+{
+  "name_enus": "Carapace Crash",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Carapace Crash</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>25 Rage<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Slam your body against the ground dealing 32+0+AP*0.140625+NatP*.2 Nature damage to enemies within 8 yds.</span></td></tr></table><!--?803199:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

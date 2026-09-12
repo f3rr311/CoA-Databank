@@ -1,0 +1,8 @@
+{
+  "name_enus": "Void Strength",
+  "icon": "achievement_nzothraid_nzoth",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Void Strength</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 40 Passive</span><br />Increases your Shadow spell damage by 50% of your Strength and your spell hit chance by 5% of your Strength.</span></td></tr></table><!--?805121:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Melt Reality",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Melt Reality</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>23% of base mana<br /><table width=\"100%\"><tr><td>2.5 sec cast</td><th>40&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Melt the target's reality, dealing COND(GT(FroP, ShaP), 48+0+FroP*.23, 48+0+ShaP*.23) Chromatic Damage every 3 sec for 30&nbsp;sec.<br /><br />While active, periodic damage dealt to the target is replicated for 20% of the value to all enemies near them.</span></td></tr></table><!--?806335:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

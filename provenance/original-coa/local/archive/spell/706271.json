@@ -1,0 +1,8 @@
+{
+  "name_enus": "Death Spray",
+  "icon": "ability_creature_poison_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Death Spray</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Periodic damage dealt now has a 5% chance to remove the Energy cost from your next <span style=\"color: #FFFFFF;\">Venom Fang</span> or <span style=\"color: #FFFFFF;\">Widow's Kiss</span> within 8&nbsp;sec and increase its damage by 20%.<br /><br />Can occur only once every 2 sec.</span></td></tr></table><!--?706271:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

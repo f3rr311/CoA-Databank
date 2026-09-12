@@ -1,0 +1,15 @@
+{
+  "name_enus": "Finger of Death",
+  "icon": "_warlock_agonie2",
+  "tooltip_enus": "<table><tr><td><b>Finger of Death</b><br />8% of base <br /><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><!--sp524861:0--><span style=\"color: #ff3232;\"><!--sp524861-->Requires Cursed Form</span><br />Attempt to turn an enemy inside out, dealing 55+17.0 Points Per Level+SP*1+AP*.6 Shadowstrike Damage and reducing their Armor by 10% for 15 sec.<br /><br />Refreshes the duration of <span style=\"color: #ffffff;\">Taldaram's Torment</span> on the target.</span></td></tr></table><!--?806178:1:1:80-->",
+  "spells_enus": {
+    "524861": [
+      [
+        "|cffff3232",
+        "|cffa966f0"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

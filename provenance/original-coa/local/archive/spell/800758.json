@@ -1,0 +1,8 @@
+{
+  "name_enus": "Glyphic Destruction",
+  "icon": "achievement_zone_crystalsong_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Glyphic Destruction</b></td><th><b class=\"q0\">Passive</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Glyphic Ruin</span> by 100% against <span style=\"color: #3399ff;\">Frozen</span> targets.</span></td></tr></table><!--?800758:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ghastly Screech",
+  "icon": "_d3horrify",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ghastly Screech</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>20 Runic Power<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Screech with ghastly intent, silencing all nearby enemies for 4&nbsp;sec, and dealing 90+0+AP*.25 Shadowfrost Damage at the end of the duration.</span></td></tr></table><!--?806146:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Vampiric Tonic",
+  "icon": "trade_alchemy_potione5",
+  "tooltip_enus": "<table><tr><td><b>Vampiric Tonic</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Drink a vampiric tonic, allowing Physical damage dealt to heal you equal to 20% of the damage dealt <!--sp802022:0--><!--sp802022--> for 10&nbsp;sec.<br /><br />Only 1 <span style=\"color: #ffffff;\">Tonic</span> can be active at a time.</span></td></tr></table><!--?802276:1:1:80-->",
+  "spells_enus": {
+    "802022": [
+      [
+        "",
+        " and increases your dodge chance by 0%"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

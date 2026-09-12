@@ -1,0 +1,8 @@
+{
+  "name_enus": "Eternity's End",
+  "icon": "_d3slowtime",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Eternity's End</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Thread of Eternity</span> by 30 sec.</span></td></tr></table><!--?706072:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

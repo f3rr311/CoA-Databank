@@ -1,0 +1,8 @@
+{
+  "name_enus": "Doomrend",
+  "icon": "inv_knife_1h_revendrethquest_b_03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Doomrend</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\">Rend an enemy dealing 140% Weapon Damage plus 17+0+AP*.35, causing you to apply a dark shield to them that absorbs the next 75+Str*1 healing done to them for 5&nbsp;sec, and generates Runic Power.</span></td></tr></table><!--?800172:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

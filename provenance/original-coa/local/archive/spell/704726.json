@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rancid Air",
+  "icon": "spell_shadow_fingerofdeath",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Rancid Air</b></td><th><b class=\"q0\">UNUSED</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Putrefy</span> now generates an additional 5 Runic Power and the cast time is reduced by 10%.</span></td></tr></table><!--?704726:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

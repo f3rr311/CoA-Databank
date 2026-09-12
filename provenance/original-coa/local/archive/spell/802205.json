@@ -1,0 +1,8 @@
+{
+  "name_enus": "Stoneguard",
+  "icon": "inv_shield_430oldgod_c_01",
+  "tooltip_enus": "<table><tr><td><b>Stoneguard</b><br />25 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>35&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">You lift stone from the earth below to shield you, increasing block chance by 25% for 10&nbsp;sec.<br /><br />While active, blocking an attack removes a stack of <span style=\"color: #ffffff;\">Tectonic Shift</span>.</span></td></tr></table><!--?802205:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,781 @@
+{
+ "build": {
+  "id": "f1209da4-7416-49df-b18a-b6f14fb4de1c",
+  "title": "Godblade Big Bonk Build",
+  "description": "[overview]\nWorks well both if PvP and PvE. Few tweaks could be done to optimize for PVE.\n\n[talents]\nWe take damage reductions nodes to better survive incoming damage passively and gives us chance to offheal some of incoming damage. \n\nVoidborne is a pretty solid offensive cooldown, 20 seconds of stun immunity is crazy. Could opt into Nutcase and Book of N'Zoth for move passive damage, but having good CDs is important in PvP.\n\n[rotation]\nIn PvP, try to manage insanity so that we dont go into the 50% More damage taken state. You can purposly go over 100 insanity if you have End Times up vs other Melee classes.\n\nRifted Hammers of twilight will do most of our damage, so try to reduce it´s cd whenevers possible.\n\nIn PvE, try to go insane as often as possible, build up insanity as the pack gathers, Rift + HoT on cd, and otherwise spam Entropic slam or Hot in single target.\n\nUse Voidborne on CD\n\n[stats]\nStr/Crit>Int>Agi\n\n[gear]\nBig damage slow 2h weapon for big bonks\n\n[tips]\nEnjoy bonking, use your Cds often!",
+  "class_id": 25,
+  "spec_id": 64,
+  "author_id": "4ac93a60-caf7-4b1c-b52a-68894fb96ec4",
+  "talent_string": "W1siMjUtODctNy0wIiwxXSxbIjI1LTg3LTctMSIsM10sWyIyNS04Ny04LTIiLDFdLFsiMjUtODctMS0wIiwxXSxbIjI1LTg3LTEtMSIsMV0sWyIyNS04Ny0wLTIiLDFdLFsiMjUtODctMS0zIiwxXSxbIjI1LTg3LTQtMCIsMV0sWyIyNS04Ny01LTIiLDFdLFsiMjUtODctNS00YSIsMV0sWyIyNS04Ny03LTMiLDFdLFsiMjUtODctNy00IiwxXSxbIjI1LTg3LTYtNSIsMV0sWyIyNS04Ny0xLTQiLDFdLFsiMjUtODctMC02IiwxXSxbIjI1LTg3LTEtNyIsMl0sWyIyNS04Ny00LTNhIiwxXSxbIjI1LTg3LTQtMWEiLDFdLFsiMjUtODctNi02IiwxXSxbIjI1LTg3LTUtN2IiLDFdLFsiMjUtODctMy0yIiwxXSxbIjI1LTg3LTItOCIsMV0sWyIyNS04Ny0yLTkiLDFdLFsiMjUtNjQtNC0wIiwxXSxbIjI1LTY0LTQtMSIsMV0sWyIyNS02NC02LTIiLDJdLFsiMjUtNjQtMi0yIiwyXSxbIjI1LTY0LTQtMyIsMV0sWyIyNS02NC02LTMiLDFdLFsiMjUtNjQtMi0zIiwxXSxbIjI1LTY0LTUtNCIsMV0sWyIyNS02NC00LTQiLDFdLFsiMjUtNjQtNy00IiwxXSxbIjI1LTY0LTctNSIsMV0sWyIyNS02NC04LTYiLDFdLFsiMjUtNjQtNi02IiwxXSxbIjI1LTY0LTctN2IiLDFdLFsiMjUtNjQtNS03IiwxXSxbIjI1LTY0LTQtNSIsMV0sWyIyNS02NC0zLTQiLDFdLFsiMjUtNjQtNC02IiwxXSxbIjI1LTY0LTMtN2IiLDFdLFsiMjUtNjQtMS01IiwxXSxbIjI1LTY0LTAtNiIsMV0sWyIyNS02NC02LTgiLDFdLFsiMjUtNjQtNi05IiwxXSxbIjI1LTY0LTEwLTAiLDFdLFsiMjUtNjQtMTAtMiIsMV0sWyIyNS02NC0xMC00IiwxXSxbIjI1LTY0LTEwLTYiLDFdLFsiMjUtNjQtMTAtOCIsMV1d",
+  "tags": [
+   "Leveling",
+   "PvP",
+   "PvE"
+  ],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 4,
+  "downvotes": 1,
+  "comment_count": 2,
+  "created_at": "2026-07-14T17:29:58.017741+00:00",
+  "updated_at": "2026-07-14T17:29:58.017741+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 8045,
+  "net_score": 3,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "4ac93a60-caf7-4b1c-b52a-68894fb96ec4",
+   "username": "Federico Sol",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK6jy4z-CM4qAcVdM8V7aVQnLzaNcxPZVfz9eGDcsUpHji6SQ=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "b20e6549-37bc-4210-bcfd-92955720f3ee",
+   "build_id": "f1209da4-7416-49df-b18a-b6f14fb4de1c",
+   "author_id": "730485bf-1f29-4a15-aca3-e888f3cf9b15",
+   "parent_id": null,
+   "body": "Missing that Vision of Doom Talent is criminal, 1k hits under 1 global with ur rift is ur bread and butter to 2-3 shot ppl in 1v1's\nAlso Tentacle for perma Silence is must",
+   "upvotes": 0,
+   "created_at": "2026-07-19T20:02:44.615276+00:00",
+   "updated_at": "2026-07-19T20:02:44.615276+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "730485bf-1f29-4a15-aca3-e888f3cf9b15",
+    "username": "Norc",
+    "avatar_url": "https://cdn.discordapp.com/avatars/298119559825850369/734c0e321d096c4f51334325447e9e08.png"
+   }
+  },
+  {
+   "id": "3fdf65fc-bd94-4850-8d47-f16549b16401",
+   "build_id": "f1209da4-7416-49df-b18a-b6f14fb4de1c",
+   "author_id": "24865ab0-b5e1-4d7b-82e5-3dc3d4eaeac0",
+   "parent_id": null,
+   "body": "I'm looking for more information on stat weights as the information comes available. I'm new at this spec and game so I can't foresee how often IN BG's how often I use a skill that would benefit from Int vs Strength. Early on I see running out of mana and my casts don't hit hard. It would be great if Strength affected casts.",
+   "upvotes": 0,
+   "created_at": "2026-07-22T04:46:18.652689+00:00",
+   "updated_at": "2026-07-22T04:46:18.652689+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "24865ab0-b5e1-4d7b-82e5-3dc3d4eaeac0",
+    "username": "bradirl",
+    "avatar_url": "https://cdn.discordapp.com/avatars/151977917214097408/e44db481d2670240f6748cb5399d8a19.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "ec218df4-9104-4880-b0c9-0f598ab65898",
+   "title": "Corruption pvp theory craft",
+   "class_id": 25,
+   "spec_id": 65,
+   "author_id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 228,
+   "featured": false,
+   "created_at": "2026-07-28T21:21:51.039658+00:00",
+   "updated_at": "2026-07-28T21:21:51.039658+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+    "username": "nschof",
+    "avatar_url": "https://cdn.discordapp.com/avatars/213470960936812544/a231295977f4f589bff6fb6a41fc857d.png"
+   }
+  },
+  {
+   "id": "d96cb605-9752-43ba-b071-2b0e30ef8ddc",
+   "title": "Good Blade PVE DPS",
+   "class_id": 25,
+   "spec_id": 64,
+   "author_id": "6d3f96b7-62e9-44f9-9ea2-6627730e8c25",
+   "tags": [
+    "Good Blade",
+    "PVE",
+    "DPS",
+    "OpenWorld"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 890,
+   "featured": false,
+   "created_at": "2026-07-25T01:00:51.546512+00:00",
+   "updated_at": "2026-07-25T01:00:51.546512+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "6d3f96b7-62e9-44f9-9ea2-6627730e8c25",
+    "username": "friofrio Clima",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocI77wt-n4x-B_LxDjOWa9rXSRi6g5g5YG8ZX4cAemeogjJrOA=s96-c"
+   }
+  },
+  {
+   "id": "e2935c2d-8cfe-46a5-91d1-b9ed79adf658",
+   "title": "BIG DPS PVE GODBLAD BUILD",
+   "class_id": 25,
+   "spec_id": 64,
+   "author_id": "0428e975-e8fe-4a2b-9bc5-e5ecb8b1d85f",
+   "tags": [
+    "Mythic"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 668,
+   "featured": false,
+   "created_at": "2026-07-25T00:53:56.020227+00:00",
+   "updated_at": "2026-07-25T00:53:56.020227+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "0428e975-e8fe-4a2b-9bc5-e5ecb8b1d85f",
+    "username": "Oliver Delabaye",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ29SM0KEbbP6uRCEQSH-GIYIMQjG14fuAHrUXFvPUM176QeSw=s96-c"
+   }
+  }
+ ],
+ "class": "Cultist",
+ "spec": "Godblade",
+ "allocations": [
+  [
+   "25-87-7-0",
+   1
+  ],
+  [
+   "25-87-7-1",
+   3
+  ],
+  [
+   "25-87-8-2",
+   1
+  ],
+  [
+   "25-87-1-0",
+   1
+  ],
+  [
+   "25-87-1-1",
+   1
+  ],
+  [
+   "25-87-0-2",
+   1
+  ],
+  [
+   "25-87-1-3",
+   1
+  ],
+  [
+   "25-87-4-0",
+   1
+  ],
+  [
+   "25-87-5-2",
+   1
+  ],
+  [
+   "25-87-5-4a",
+   1
+  ],
+  [
+   "25-87-7-3",
+   1
+  ],
+  [
+   "25-87-7-4",
+   1
+  ],
+  [
+   "25-87-6-5",
+   1
+  ],
+  [
+   "25-87-1-4",
+   1
+  ],
+  [
+   "25-87-0-6",
+   1
+  ],
+  [
+   "25-87-1-7",
+   2
+  ],
+  [
+   "25-87-4-3a",
+   1
+  ],
+  [
+   "25-87-4-1a",
+   1
+  ],
+  [
+   "25-87-6-6",
+   1
+  ],
+  [
+   "25-87-5-7b",
+   1
+  ],
+  [
+   "25-87-3-2",
+   1
+  ],
+  [
+   "25-87-2-8",
+   1
+  ],
+  [
+   "25-87-2-9",
+   1
+  ],
+  [
+   "25-64-4-0",
+   1
+  ],
+  [
+   "25-64-4-1",
+   1
+  ],
+  [
+   "25-64-6-2",
+   2
+  ],
+  [
+   "25-64-2-2",
+   2
+  ],
+  [
+   "25-64-4-3",
+   1
+  ],
+  [
+   "25-64-6-3",
+   1
+  ],
+  [
+   "25-64-2-3",
+   1
+  ],
+  [
+   "25-64-5-4",
+   1
+  ],
+  [
+   "25-64-4-4",
+   1
+  ],
+  [
+   "25-64-7-4",
+   1
+  ],
+  [
+   "25-64-7-5",
+   1
+  ],
+  [
+   "25-64-8-6",
+   1
+  ],
+  [
+   "25-64-6-6",
+   1
+  ],
+  [
+   "25-64-7-7b",
+   1
+  ],
+  [
+   "25-64-5-7",
+   1
+  ],
+  [
+   "25-64-4-5",
+   1
+  ],
+  [
+   "25-64-3-4",
+   1
+  ],
+  [
+   "25-64-4-6",
+   1
+  ],
+  [
+   "25-64-3-7b",
+   1
+  ],
+  [
+   "25-64-1-5",
+   1
+  ],
+  [
+   "25-64-0-6",
+   1
+  ],
+  [
+   "25-64-6-8",
+   1
+  ],
+  [
+   "25-64-6-9",
+   1
+  ],
+  [
+   "25-64-10-0",
+   1
+  ],
+  [
+   "25-64-10-2",
+   1
+  ],
+  [
+   "25-64-10-4",
+   1
+  ],
+  [
+   "25-64-10-6",
+   1
+  ],
+  [
+   "25-64-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "25-87-7-0",
+   "points": 1,
+   "name": "Abyssal Ward",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 804670
+  },
+  {
+   "id": "25-87-7-1",
+   "points": 3,
+   "name": "Empire Commander",
+   "maxPoints": 3,
+   "tree": "Cultist (class tree)",
+   "spellId": 704887
+  },
+  {
+   "id": "25-87-8-2",
+   "points": 1,
+   "name": "Shroud of Pride",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805126
+  },
+  {
+   "id": "25-87-1-0",
+   "points": 1,
+   "name": "Void Shield",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 500715
+  },
+  {
+   "id": "25-87-1-1",
+   "points": 1,
+   "name": "Empire's Blessing",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 704895
+  },
+  {
+   "id": "25-87-0-2",
+   "points": 1,
+   "name": "Shadow Words",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706928
+  },
+  {
+   "id": "25-87-1-3",
+   "points": 1,
+   "name": "Gift of C'Thun",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706189
+  },
+  {
+   "id": "25-87-4-0",
+   "points": 1,
+   "name": "Corrupt Mind",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560109
+  },
+  {
+   "id": "25-87-5-2",
+   "points": 1,
+   "name": "Grasp of Zek'voz",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 573028
+  },
+  {
+   "id": "25-87-5-4a",
+   "points": 1,
+   "name": "Dismay",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 704885
+  },
+  {
+   "id": "25-87-7-3",
+   "points": 1,
+   "name": "Wicked Thoughts",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706190
+  },
+  {
+   "id": "25-87-7-4",
+   "points": 1,
+   "name": "Embrace the Void",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 582591
+  },
+  {
+   "id": "25-87-6-5",
+   "points": 1,
+   "name": "Dark Calling",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560715
+  },
+  {
+   "id": "25-87-1-4",
+   "points": 1,
+   "name": "Hallucination",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560301
+  },
+  {
+   "id": "25-87-0-6",
+   "points": 1,
+   "name": "Mind Games",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 582589
+  },
+  {
+   "id": "25-87-1-7",
+   "points": 2,
+   "name": "Darkward",
+   "maxPoints": 2,
+   "tree": "Cultist (class tree)",
+   "spellId": 706180
+  },
+  {
+   "id": "25-87-4-3a",
+   "points": 1,
+   "name": "Mind Leak",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 300270
+  },
+  {
+   "id": "25-87-4-1a",
+   "points": 1,
+   "name": "Stare Into The Abyss",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 525019
+  },
+  {
+   "id": "25-87-6-6",
+   "points": 1,
+   "name": "Eternal Grasp",
+   "maxPoints": 2,
+   "tree": "Cultist (class tree)",
+   "spellId": 704878
+  },
+  {
+   "id": "25-87-5-7b",
+   "points": 1,
+   "name": "Eyes of Eternity",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706188
+  },
+  {
+   "id": "25-87-3-2",
+   "points": 1,
+   "name": "Mass Nightmare",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805114
+  },
+  {
+   "id": "25-87-2-8",
+   "points": 1,
+   "name": "Crystalline Reflection",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 525060
+  },
+  {
+   "id": "25-87-2-9",
+   "points": 1,
+   "name": "Split Mind",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 572064
+  },
+  {
+   "id": "25-64-4-0",
+   "points": 1,
+   "name": "Rift",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 806250
+  },
+  {
+   "id": "25-64-4-1",
+   "points": 1,
+   "name": "Hand of N'Zoth",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 704869
+  },
+  {
+   "id": "25-64-6-2",
+   "points": 2,
+   "name": "Abyssal Edge",
+   "maxPoints": 2,
+   "tree": "Godblade",
+   "spellId": 582836
+  },
+  {
+   "id": "25-64-2-2",
+   "points": 2,
+   "name": "Voidforged Edge",
+   "maxPoints": 3,
+   "tree": "Godblade",
+   "spellId": 704871
+  },
+  {
+   "id": "25-64-4-3",
+   "points": 1,
+   "name": "Netherstrike",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 806222
+  },
+  {
+   "id": "25-64-6-3",
+   "points": 1,
+   "name": "Warrior of the Old Gods",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 802047
+  },
+  {
+   "id": "25-64-2-3",
+   "points": 1,
+   "name": "Shadow Strikes",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 707640
+  },
+  {
+   "id": "25-64-5-4",
+   "points": 1,
+   "name": "Touch of the Void",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 680508
+  },
+  {
+   "id": "25-64-4-4",
+   "points": 1,
+   "name": "Voidseeker",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 560320
+  },
+  {
+   "id": "25-64-7-4",
+   "points": 1,
+   "name": "Encroaching Presence",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 300280
+  },
+  {
+   "id": "25-64-7-5",
+   "points": 1,
+   "name": "God Blade",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 680377
+  },
+  {
+   "id": "25-64-8-6",
+   "points": 1,
+   "name": "Oblivion's Embrace",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 680500
+  },
+  {
+   "id": "25-64-6-6",
+   "points": 1,
+   "name": "End Times",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 805115
+  },
+  {
+   "id": "25-64-7-7b",
+   "points": 1,
+   "name": "Glory to N'Zoth",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 681326
+  },
+  {
+   "id": "25-64-5-7",
+   "points": 1,
+   "name": "Instilling Fear",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 527268
+  },
+  {
+   "id": "25-64-4-5",
+   "points": 1,
+   "name": "Empire's Grasp",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 500704
+  },
+  {
+   "id": "25-64-3-4",
+   "points": 1,
+   "name": "Hysterical Momentum",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 300275
+  },
+  {
+   "id": "25-64-4-6",
+   "points": 1,
+   "name": "Seething Void",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 524804
+  },
+  {
+   "id": "25-64-3-7b",
+   "points": 1,
+   "name": "Who Needs Sanity?",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 681106
+  },
+  {
+   "id": "25-64-1-5",
+   "points": 1,
+   "name": "Teachings of Mythrax",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 561035
+  },
+  {
+   "id": "25-64-0-6",
+   "points": 1,
+   "name": "Abyssal Cleave",
+   "maxPoints": 2,
+   "tree": "Godblade",
+   "spellId": 707604
+  },
+  {
+   "id": "25-64-6-8",
+   "points": 1,
+   "name": "Voidborne",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 681104
+  },
+  {
+   "id": "25-64-6-9",
+   "points": 1,
+   "name": "Shadow Fiend",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 680487
+  },
+  {
+   "id": "25-64-10-0",
+   "points": 1,
+   "name": "Obliteration",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 92129
+  },
+  {
+   "id": "25-64-10-2",
+   "points": 1,
+   "name": "Shadow of the Void",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 574318
+  },
+  {
+   "id": "25-64-10-4",
+   "points": 1,
+   "name": "Twilight's Call",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 301180
+  },
+  {
+   "id": "25-64-10-6",
+   "points": 1,
+   "name": "Void Strength",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 805121
+  },
+  {
+   "id": "25-64-10-8",
+   "points": 1,
+   "name": "Blessing of N'Zoth",
+   "maxPoints": 1,
+   "tree": "Godblade",
+   "spellId": 681107
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Voodoo Cauldron",
+  "icon": "inv_enchanting_70_pet_cauldron",
+  "tooltip_enus": "<table><tr><td><b>Voodoo Cauldron</b><br />11% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Place down a <span style=\"color: #ffffff;\">Voodoo Cauldron</span> for 15&nbsp;sec, increasing allies' healing received by 20% while near the cauldron.<br /><br />Allies within 15 yds are healed for 300+Heal*0.6 every 1.5 sec for 15&nbsp;sec.</span></td></tr></table><!--?804684:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

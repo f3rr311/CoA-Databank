@@ -1,0 +1,15 @@
+{
+  "name_enus": "Thrill of Battle",
+  "icon": "achievement_bg_most_damage_killingblow_dieleast",
+  "tooltip_enus": "<table><tr><td><b>Thrill of Battle</b><br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Generates 4 Energy every 0.5 sec, and increases movement speed by 60%<!--sp500051:0--><!--sp500051--> for 15&nbsp;sec.<br /><br />Can only be used in combat.</span></td></tr></table><!--?803966:1:1:80-->",
+  "spells_enus": {
+    "500051": [
+      [
+        "",
+        ", and increases the attack power bonus of <span style=\"color: #ffffff\">Song of Battle</span> by 20%"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

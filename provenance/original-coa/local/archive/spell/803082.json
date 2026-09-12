@@ -1,0 +1,8 @@
+{
+  "name_enus": "Presence of Yogg-Saron",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Presence of Yogg-Saron</b><br />30% of base mana<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Assume a crazed <span style=\"color: #FFFFFF;\">Presence</span>, giving damage dealt a 30% chance to deal 16+11.5 Points Per Level+SP*0.18 Shadow damage to your target and reduce their casting speed by 30% for 6&nbsp;sec.<br /><br />You may only have 1 <span style=\"color: #FFFFFF;\">Presence</span> active at a time. </span></td></tr></table><!--?803082:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

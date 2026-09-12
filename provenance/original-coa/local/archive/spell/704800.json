@@ -1,0 +1,8 @@
+{
+  "name_enus": "Searing Speed",
+  "icon": "nhi_holy_speed_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Searing Speed</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Dealing periodic damage or healing now has a 15% chance to grant you <span style=\"color: #ffffff;\">Searing Speed</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/nhi_holy_speed_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=503803'> Searing Speed </a> <br />\n                            <span> Increases your movement speed by 50% for 2&nbsp;sec.</span><br /></span></td></tr></table><!--?704800:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

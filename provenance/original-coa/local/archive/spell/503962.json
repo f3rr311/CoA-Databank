@@ -1,0 +1,8 @@
+{
+  "name_enus": "Nesting",
+  "icon": "inv_inscription_pigment_bug06",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Nesting</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Harden</span> now heals for 1% maximum health each time a stack is removed.</span></td></tr></table><!--?503962:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

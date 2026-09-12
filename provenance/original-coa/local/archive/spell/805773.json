@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bounty Hunter",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bounty Hunter</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #FFFFFF;\">Darkslayer</span> or <span style=\"color: #FFFFFF;\">Witchbane</span> now applies a stack of <span style=\"color: #FFFFFF;\">Bounty Hunter</span> to you for 8&nbsp;sec, which can be consumed by casting <span style=\"color: #FFFFFF;\">Heartseeking Bolt</span> to deal an additional 299+4.0 Points Per Level+SP*.45+RAP*.3 Physical damage, stacking 2 times.</span></td></tr></table><!--?805773:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

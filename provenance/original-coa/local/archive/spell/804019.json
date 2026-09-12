@@ -1,0 +1,8 @@
+{
+  "name_enus": "Summon: Air Elemental",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Summon: Air Elemental</b><br />75% of base mana<br />5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Call an <span style=\"color: #ffffff;\">Air Elemental</span> to aid you in combat that  gains a stack of <span style=\"color: #ffffff;\">Invigoration</span> whenever it deals damage.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/novart_magicspell_(82)_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=680918'> Invigoration </a> <br />\n                            <span> Increases the damage of your <span style=\"color: #ffffff;\">Air Elemental</span> by 3% for 15&nbsp;sec, stacking 10 times.<br /><br />Additional applications do not refresh duration.</span><br /></span></td></tr></table><!--?804019:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

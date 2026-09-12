@@ -1,0 +1,8 @@
+{
+  "name_enus": "Stellar Drift",
+  "icon": "inv_enchant_essencecosmicgreater",
+  "tooltip_enus": "<table><tr><td><b>Stellar Drift</b><br />14% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Seize the tide of the cosmos, slowing the movement speed of all nearby enemies by 50% for 3&nbsp;sec.<br /><br />After 3&nbsp;sec, you knock back all nearby enemies a great distance.</span></td></tr></table><!--?800501:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

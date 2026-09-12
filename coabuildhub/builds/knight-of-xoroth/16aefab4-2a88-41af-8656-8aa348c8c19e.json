@@ -1,0 +1,759 @@
+{
+ "build": {
+  "id": "16aefab4-2a88-41af-8656-8aa348c8c19e",
+  "title": "War KOX Single target Boss",
+  "description": "[overview]\nsingle target pve\n\n[talents]\nPotentially swap to dread talent on main tree for better combo point generation, will help aoe alot as well\n\n[rotation]\npre 6 point burning blade on pull. maintain haste buffs and gored debuff, use cds! prio infernal strike as point generation.\n\n[stats]\nWeapon DPS > Strength > Crit Rating >Attack Power > Agility > Haste > Expertise > Armor pen\n\n[macros]\nbug with annihilation requires it to be macroed\n#showtooltip\n/cast Annihilation\n/cast infernal strike\n/startattack",
+  "class_id": 17,
+  "spec_id": 45,
+  "author_id": "4b956e28-c9df-40c1-9a7d-0448041e634c",
+  "talent_string": "W1siMTctODctMi0wIiwxXSxbIjE3LTg3LTYtMCIsMV0sWyIxNy04Ny0yLTEiLDJdLFsiMTctODctNi0xIiwxXSxbIjE3LTg3LTEtMiIsMV0sWyIxNy04Ny03LTIiLDFdLFsiMTctODctNi0zIiwxXSxbIjE3LTg3LTItMyIsMV0sWyIxNy04Ny0zLTQiLDJdLFsiMTctODctNS00IiwxXSxbIjE3LTg3LTQtNSIsMV0sWyIxNy04Ny0wLTQiLDFdLFsiMTctODctMS01IiwxXSxbIjE3LTg3LTctNSIsMV0sWyIxNy04Ny03LTYiLDFdLFsiMTctODctNi03YSIsMV0sWyIxNy04Ny00LTYiLDFdLFsiMTctODctNC03IiwxXSxbIjE3LTg3LTEtNiIsMV0sWyIxNy04Ny04LTciLDFdLFsiMTctODctNS04IiwxXSxbIjE3LTg3LTgtOCIsMV0sWyIxNy00NS00LTAiLDFdLFsiMTctNDUtNC0xIiwxXSxbIjE3LTQ1LTItMiIsM10sWyIxNy00NS00LTIiLDFdLFsiMTctNDUtNi0yIiwyXSxbIjE3LTQ1LTItMyIsMV0sWyIxNy00NS00LTMiLDFdLFsiMTctNDUtNi0zIiwxXSxbIjE3LTQ1LTMtNCIsMV0sWyIxNy00NS0xLTQiLDFdLFsiMTctNDUtNy00IiwxXSxbIjE3LTQ1LTctNiIsMV0sWyIxNy00NS04LTciLDFdLFsiMTctNDUtNi03IiwxXSxbIjE3LTQ1LTQtNSIsMV0sWyIxNy00NS0zLTYiLDFdLFsiMTctNDUtNC02IiwxXSxbIjE3LTQ1LTQtNyIsMV0sWyIxNy00NS0yLTUiLDFdLFsiMTctNDUtMS02YSIsMV0sWyIxNy00NS0wLTciLDFdLFsiMTctNDUtNy04IiwxXSxbIjE3LTQ1LTctOSIsMV0sWyIxNy00NS0xMC0wIiwxXSxbIjE3LTQ1LTEwLTIiLDFdLFsiMTctNDUtMTAtNCIsMV0sWyIxNy00NS0xMC02IiwxXSxbIjE3LTQ1LTEwLTgiLDFdLFsiMTctODctMC03IiwxXSxbIjE3LTg3LTItN2EiLDFdXQ",
+  "tags": [
+   "raid"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 2,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-24T00:58:16.953226+00:00",
+  "updated_at": "2026-07-29T06:08:53.272+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1054,
+  "net_score": 2,
+  "has_talents": true,
+  "guide_section_count": 5,
+  "author": {
+   "id": "4b956e28-c9df-40c1-9a7d-0448041e634c",
+   "username": "thedarebear3",
+   "avatar_url": "https://cdn.discordapp.com/avatars/484849537723400193/92c58c1d3aac973112bc84cba2a64b75.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "1a1ccee3-bfe2-4210-a9dd-82ce71d839d0",
+   "title": "Knight of xoroth WAR- PVP",
+   "class_id": 17,
+   "spec_id": 45,
+   "author_id": "bb5cb7e9-5668-4c05-a3d5-71dd34ecf885",
+   "tags": [
+    "pvp"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 371,
+   "featured": false,
+   "created_at": "2026-07-28T18:01:01.986283+00:00",
+   "updated_at": "2026-07-28T18:01:01.986283+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "bb5cb7e9-5668-4c05-a3d5-71dd34ecf885",
+    "username": "Novaap",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKEkZDARiWbSdazIO8zA__2ut-0N3Bwal0QTxrmZSVo3AF_HuQ=s96-c"
+   }
+  },
+  {
+   "id": "45c0c353-08f3-487f-80c0-c47930763571",
+   "title": "KOX Hellfire balanced AOE+ST M+ build",
+   "class_id": 17,
+   "spec_id": 46,
+   "author_id": "8c4275fb-9f1d-4523-abe2-2a113cbf4a12",
+   "tags": [
+    "AOE",
+    "ST",
+    "Mythic",
+    "Levelling"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 9,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2912,
+   "featured": false,
+   "created_at": "2026-07-23T20:05:52.027402+00:00",
+   "updated_at": "2026-07-24T00:02:51.116+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "8c4275fb-9f1d-4523-abe2-2a113cbf4a12",
+    "username": "Nikitro",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIDY9KgRvpMydBaXuRnrNoQyBW1wEE95e8psUja6Uma-HoYxBk=s96-c"
+   }
+  },
+  {
+   "id": "ac11d4c7-9a36-481a-96aa-93b8a7dabb3c",
+   "title": "Kox Defiance Tank (based on top logs 22/7/2026)",
+   "class_id": 17,
+   "spec_id": 47,
+   "author_id": "6fac2152-76eb-4965-92c8-8be3293b012e",
+   "tags": [
+    "raid",
+    "dungeon"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 1,
+   "comment_count": 3,
+   "view_count": 1237,
+   "featured": false,
+   "created_at": "2026-07-22T14:58:57.976642+00:00",
+   "updated_at": "2026-07-23T12:29:10.753+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "6fac2152-76eb-4965-92c8-8be3293b012e",
+    "username": "0x86dd",
+    "avatar_url": "https://cdn.discordapp.com/avatars/772612777964863488/a_d78a73e17bcef759d2bb76e291d10078.gif"
+   }
+  }
+ ],
+ "class": "Knight of Xoroth",
+ "spec": "War",
+ "allocations": [
+  [
+   "17-87-2-0",
+   1
+  ],
+  [
+   "17-87-6-0",
+   1
+  ],
+  [
+   "17-87-2-1",
+   2
+  ],
+  [
+   "17-87-6-1",
+   1
+  ],
+  [
+   "17-87-1-2",
+   1
+  ],
+  [
+   "17-87-7-2",
+   1
+  ],
+  [
+   "17-87-6-3",
+   1
+  ],
+  [
+   "17-87-2-3",
+   1
+  ],
+  [
+   "17-87-3-4",
+   2
+  ],
+  [
+   "17-87-5-4",
+   1
+  ],
+  [
+   "17-87-4-5",
+   1
+  ],
+  [
+   "17-87-0-4",
+   1
+  ],
+  [
+   "17-87-1-5",
+   1
+  ],
+  [
+   "17-87-7-5",
+   1
+  ],
+  [
+   "17-87-7-6",
+   1
+  ],
+  [
+   "17-87-6-7a",
+   1
+  ],
+  [
+   "17-87-4-6",
+   1
+  ],
+  [
+   "17-87-4-7",
+   1
+  ],
+  [
+   "17-87-1-6",
+   1
+  ],
+  [
+   "17-87-8-7",
+   1
+  ],
+  [
+   "17-87-5-8",
+   1
+  ],
+  [
+   "17-87-8-8",
+   1
+  ],
+  [
+   "17-45-4-0",
+   1
+  ],
+  [
+   "17-45-4-1",
+   1
+  ],
+  [
+   "17-45-2-2",
+   3
+  ],
+  [
+   "17-45-4-2",
+   1
+  ],
+  [
+   "17-45-6-2",
+   2
+  ],
+  [
+   "17-45-2-3",
+   1
+  ],
+  [
+   "17-45-4-3",
+   1
+  ],
+  [
+   "17-45-6-3",
+   1
+  ],
+  [
+   "17-45-3-4",
+   1
+  ],
+  [
+   "17-45-1-4",
+   1
+  ],
+  [
+   "17-45-7-4",
+   1
+  ],
+  [
+   "17-45-7-6",
+   1
+  ],
+  [
+   "17-45-8-7",
+   1
+  ],
+  [
+   "17-45-6-7",
+   1
+  ],
+  [
+   "17-45-4-5",
+   1
+  ],
+  [
+   "17-45-3-6",
+   1
+  ],
+  [
+   "17-45-4-6",
+   1
+  ],
+  [
+   "17-45-4-7",
+   1
+  ],
+  [
+   "17-45-2-5",
+   1
+  ],
+  [
+   "17-45-1-6a",
+   1
+  ],
+  [
+   "17-45-0-7",
+   1
+  ],
+  [
+   "17-45-7-8",
+   1
+  ],
+  [
+   "17-45-7-9",
+   1
+  ],
+  [
+   "17-45-10-0",
+   1
+  ],
+  [
+   "17-45-10-2",
+   1
+  ],
+  [
+   "17-45-10-4",
+   1
+  ],
+  [
+   "17-45-10-6",
+   1
+  ],
+  [
+   "17-45-10-8",
+   1
+  ],
+  [
+   "17-87-0-7",
+   1
+  ],
+  [
+   "17-87-2-7a",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "17-87-2-0",
+   "points": 1,
+   "name": "Chainwhip",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 800081
+  },
+  {
+   "id": "17-87-6-0",
+   "points": 1,
+   "name": "Chains of Malice",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 803185
+  },
+  {
+   "id": "17-87-2-1",
+   "points": 2,
+   "name": "Xorothian Strength",
+   "maxPoints": 2,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 300382
+  },
+  {
+   "id": "17-87-6-1",
+   "points": 1,
+   "name": "War Pig",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 705020
+  },
+  {
+   "id": "17-87-1-2",
+   "points": 1,
+   "name": "Spiked Chains",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 704987
+  },
+  {
+   "id": "17-87-7-2",
+   "points": 1,
+   "name": "Bloodied Blade",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 800997
+  },
+  {
+   "id": "17-87-6-3",
+   "points": 1,
+   "name": "Demon Heart",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 805669
+  },
+  {
+   "id": "17-87-2-3",
+   "points": 1,
+   "name": "Black Shield",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 805679
+  },
+  {
+   "id": "17-87-3-4",
+   "points": 2,
+   "name": "Ragefist",
+   "maxPoints": 2,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 300384
+  },
+  {
+   "id": "17-87-5-4",
+   "points": 1,
+   "name": "Hell Blender",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 704975
+  },
+  {
+   "id": "17-87-4-5",
+   "points": 1,
+   "name": "Juggernaut",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 520294
+  },
+  {
+   "id": "17-87-0-4",
+   "points": 1,
+   "name": "Brimstone's Blood",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 300387
+  },
+  {
+   "id": "17-87-1-5",
+   "points": 1,
+   "name": "Demonic Rage",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 524922
+  },
+  {
+   "id": "17-87-7-5",
+   "points": 1,
+   "name": "Hellstriker",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 704991
+  },
+  {
+   "id": "17-87-7-6",
+   "points": 1,
+   "name": "Hellbound Charge",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 807247
+  },
+  {
+   "id": "17-87-6-7a",
+   "points": 1,
+   "name": "Mounted Champion",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 706295
+  },
+  {
+   "id": "17-87-4-6",
+   "points": 1,
+   "name": "Demonskin",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 302581
+  },
+  {
+   "id": "17-87-4-7",
+   "points": 1,
+   "name": "Xorothian Finesse",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 300385
+  },
+  {
+   "id": "17-87-1-6",
+   "points": 1,
+   "name": "Burning Rage",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 520295
+  },
+  {
+   "id": "17-87-8-7",
+   "points": 1,
+   "name": "Taskmaster",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 500003
+  },
+  {
+   "id": "17-87-5-8",
+   "points": 1,
+   "name": "Brute Strength",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 680723
+  },
+  {
+   "id": "17-87-8-8",
+   "points": 1,
+   "name": "Harbinger of Pestilence",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 704182
+  },
+  {
+   "id": "17-45-4-0",
+   "points": 1,
+   "name": "Warbringer",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 570727
+  },
+  {
+   "id": "17-45-4-1",
+   "points": 1,
+   "name": "Gore",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 805555
+  },
+  {
+   "id": "17-45-2-2",
+   "points": 3,
+   "name": "Mutilation",
+   "maxPoints": 3,
+   "tree": "War",
+   "spellId": 805695
+  },
+  {
+   "id": "17-45-4-2",
+   "points": 1,
+   "name": "Gored",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 705015
+  },
+  {
+   "id": "17-45-6-2",
+   "points": 2,
+   "name": "Consuming Blade",
+   "maxPoints": 2,
+   "tree": "War",
+   "spellId": 707388
+  },
+  {
+   "id": "17-45-2-3",
+   "points": 1,
+   "name": "Fiend",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 705005
+  },
+  {
+   "id": "17-45-4-3",
+   "points": 1,
+   "name": "Hellfire Striker",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 573036
+  },
+  {
+   "id": "17-45-6-3",
+   "points": 1,
+   "name": "Pestilence of Death",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 801054
+  },
+  {
+   "id": "17-45-3-4",
+   "points": 1,
+   "name": "Burning Blade",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 572370
+  },
+  {
+   "id": "17-45-1-4",
+   "points": 1,
+   "name": "Burning Blade",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 524920
+  },
+  {
+   "id": "17-45-7-4",
+   "points": 1,
+   "name": "Boundless Fury",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 704954
+  },
+  {
+   "id": "17-45-7-6",
+   "points": 1,
+   "name": "Chop Shop",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 704953
+  },
+  {
+   "id": "17-45-8-7",
+   "points": 1,
+   "name": "Knight of Pestilence",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 704981
+  },
+  {
+   "id": "17-45-6-7",
+   "points": 1,
+   "name": "Jagged Edge",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 707614
+  },
+  {
+   "id": "17-45-4-5",
+   "points": 1,
+   "name": "Decimation",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 524913
+  },
+  {
+   "id": "17-45-3-6",
+   "points": 1,
+   "name": "Hand of Doom",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 704186
+  },
+  {
+   "id": "17-45-4-6",
+   "points": 1,
+   "name": "Conqueror's Will",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 520372
+  },
+  {
+   "id": "17-45-4-7",
+   "points": 1,
+   "name": "Demonic Frenzy",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 705008
+  },
+  {
+   "id": "17-45-2-5",
+   "points": 1,
+   "name": "Murderous Might",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 520290
+  },
+  {
+   "id": "17-45-1-6a",
+   "points": 1,
+   "name": "Burning Swings",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 707632
+  },
+  {
+   "id": "17-45-0-7",
+   "points": 1,
+   "name": "Domination",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 704979
+  },
+  {
+   "id": "17-45-7-8",
+   "points": 1,
+   "name": "Pestilence Unbound",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 560633
+  },
+  {
+   "id": "17-45-7-9",
+   "points": 1,
+   "name": "Hellknight",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 800702
+  },
+  {
+   "id": "17-45-10-0",
+   "points": 1,
+   "name": "Crusher",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 92100
+  },
+  {
+   "id": "17-45-10-2",
+   "points": 1,
+   "name": "Ripper",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 706331
+  },
+  {
+   "id": "17-45-10-4",
+   "points": 1,
+   "name": "Carver",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 707390
+  },
+  {
+   "id": "17-45-10-6",
+   "points": 1,
+   "name": "Render",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 704951
+  },
+  {
+   "id": "17-45-10-8",
+   "points": 1,
+   "name": "Knight of the Apocalypse",
+   "maxPoints": 1,
+   "tree": "War",
+   "spellId": 520296
+  },
+  {
+   "id": "17-87-0-7",
+   "points": 1,
+   "name": "Dismemberment",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 705018
+  },
+  {
+   "id": "17-87-2-7a",
+   "points": 1,
+   "name": "Warpath",
+   "maxPoints": 1,
+   "tree": "Knight of Xoroth (class tree)",
+   "spellId": 805793
+  }
+ ]
+}

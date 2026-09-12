@@ -1,0 +1,8 @@
+{
+  "name_enus": "Legion's Presence",
+  "icon": "achievement_dungeon_blackrockcaverns",
+  "tooltip_enus": "<table><tr><td><b>Legion's Presence</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Emanate an aura to all party and raid members within 25 yds for 15&nbsp;sec, increasing their damage dealt by 10%.<br /><br />Fire damage dealt by <span style=\"color: #ffffff;\">Hellfire Imps</span> is increased by 150% and total health increased by 50% while this effect is active on them.</span></td></tr></table><!--?804879:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

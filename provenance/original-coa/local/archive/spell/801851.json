@@ -1,0 +1,8 @@
+{
+  "name_enus": "Forked Lightning",
+  "icon": "spell_nature_lightningoverload",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Forked Lightning</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>37% of base mana<br />2 sec cast</td></tr></table><table><tr><td><span class=\"q\">Shoot lightning at an enemy, dealing 69+SP*0.49 Nature damage, bouncing to up to 4 enemies.<br /><br />Generates 5 <span style=\"color: #cc99ff;\">Static</span> for each enemy struck.</span></td></tr></table><!--?801851:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

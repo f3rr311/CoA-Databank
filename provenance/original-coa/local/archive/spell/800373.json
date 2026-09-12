@@ -1,0 +1,8 @@
+{
+  "name_enus": "Pond",
+  "icon": "spell_shaman_tidalwaves",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Pond</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>9% of base mana<br /><table width=\"100%\"><tr><td>1.5 sec cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Creates a pool of healing water at the target location for 8&nbsp;sec that heals all allies within it for 11+(PL*0.2-11*0.2) every 2 sec.<br /><br /><span style=\"color: #ffffff;\">Focus</span>: Increases <span style=\"color: #ffffff;\">Pond</span>'s duration by 100% and tick rate by 25%.</span></td></tr></table><!--?800373:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

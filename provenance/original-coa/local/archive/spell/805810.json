@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cheers!",
+  "icon": "archaeology_5_0_twinsteinsetofbrewfatherquantoukuo",
+  "tooltip_enus": "<table><tr><td><b>Cheers!</b><br />20 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Designate an ally as your drinking partner for 30&nbsp;min, reducing all damage they take by 5%, and causing 10% of all damage they take to be redirected to you.<br /><br />You can only have 1 ally designated at a time.</span></td></tr></table><!--?805810:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

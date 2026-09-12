@@ -1,0 +1,8 @@
+{
+  "name_enus": "Assault",
+  "icon": "ability_rogue_ruthlessness",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Assault</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>55 Focus<br />Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Assault a low health enemy, dealing 100% Weapon Damage (175% with a dagger equipped) plus an additional 8+0+AP*1 Physical damage. If the target is bleeding, this deals 50% increased damage.<br /><br />Damage increased for each stack of <span style=\"color: #8fff7a;\">Advantage</span>.<br /><br />Only usable on enemies below 20% health.</span></td></tr></table><!--?803108:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

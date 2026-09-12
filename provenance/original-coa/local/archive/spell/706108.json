@@ -1,0 +1,8 @@
+{
+  "name_enus": "Balance of Power",
+  "icon": "achievement_zone_spiresofarak",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Balance of Power</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the effectiveness of <span style=\"color: #ffffff;\">Chromatic Empowerment</span> and <span style=\"color: #ffffff;\">Order Empowerment</span> stacks by 8%.</span></td></tr></table><!--?706108:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

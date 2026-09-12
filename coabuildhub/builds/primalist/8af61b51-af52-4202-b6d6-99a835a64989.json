@@ -1,0 +1,760 @@
+{
+ "build": {
+  "id": "8af61b51-af52-4202-b6d6-99a835a64989",
+  "title": "Versatile PVE-Tank - Primalist Mountain King",
+  "description": "[overview]\nNot fully tested yet, I'm still leveling. But this is the plan to build my tank.",
+  "class_id": 31,
+  "spec_id": 91,
+  "author_id": "9af36c1d-fcdf-4ebc-a07d-bff88290a211",
+  "talent_string": "W1siMzEtODctMS0wIiwxXSxbIjMxLTg3LTQtMCIsMV0sWyIzMS04Ny03LTAiLDFdLFsiMzEtODctMS0xIiwxXSxbIjMxLTg3LTMtMSIsMV0sWyIzMS04Ny01LTEiLDFdLFsiMzEtODctNy0yIiwyXSxbIjMxLTg3LTQtMiIsMV0sWyIzMS04Ny0xLTIiLDJdLFsiMzEtODctNC0zIiwxXSxbIjMxLTg3LTYtMyIsMV0sWyIzMS04Ny02LTRhIiwxXSxbIjMxLTg3LTQtNSIsMV0sWyIzMS04Ny03LTUiLDJdLFsiMzEtODctNy02IiwxXSxbIjMxLTg3LTUtNiIsMV0sWyIzMS04Ny02LTciLDFdLFsiMzEtOTEtNC0wIiwxXSxbIjMxLTkxLTQtMSIsMl0sWyIzMS05MS0yLTIiLDFdLFsiMzEtOTEtMS0zIiwxXSxbIjMxLTkxLTQtMyIsMV0sWyIzMS05MS02LTIiLDJdLFsiMzEtOTEtNy0zIiwxXSxbIjMxLTkxLTEtNCIsMV0sWyIzMS05MS0yLTUiLDFdLFsiMzEtOTEtMy00YiIsMV0sWyIzMS05MS00LTUiLDFdLFsiMzEtOTEtNy00IiwxXSxbIjMxLTkxLTYtNSIsMV0sWyIzMS05MS04LTUiLDJdLFsiMzEtOTEtNy02YSIsMV0sWyIzMS05MS02LTciLDFdLFsiMzEtOTEtOC03IiwxXSxbIjMxLTkxLTQtNiIsMV0sWyIzMS05MS01LTciLDFdLFsiMzEtOTEtNC04IiwxXSxbIjMxLTkxLTEwLTAiLDFdLFsiMzEtOTEtMTAtMiIsMV0sWyIzMS05MS0xMC00IiwxXSxbIjMxLTkxLTEwLTYiLDFdLFsiMzEtOTEtMTAtOCIsMV0sWyIzMS05MS03LTgiLDFdLFsiMzEtODctNC03IiwxXSxbIjMxLTkxLTEtNiIsMV0sWyIzMS04Ny0zLTYiLDFdLFsiMzEtODctMi03YSIsMV0sWyIzMS04Ny0yLTRhIiwxXSxbIjMxLTg3LTEtOCIsMV0sWyIzMS04Ny03LTgiLDFdXQ",
+  "tags": [
+   "dungeons",
+   "raid",
+   "leveling"
+  ],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 4,
+  "downvotes": 1,
+  "comment_count": 1,
+  "created_at": "2026-07-15T11:25:42.241538+00:00",
+  "updated_at": "2026-07-20T18:31:00.004+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1228,
+  "net_score": 3,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "9af36c1d-fcdf-4ebc-a07d-bff88290a211",
+   "username": "Battlehammer",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJAbh4zSD2FzPbu7jQxcWChmP3AYp4gbMxD4h4h_BF_VY3-sw=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "4b8e2fd9-f1ef-458e-90c7-15401914207a",
+   "build_id": "8af61b51-af52-4202-b6d6-99a835a64989",
+   "author_id": "f1edf26d-991e-418e-a773-a42a48e01b9e",
+   "parent_id": null,
+   "body": "Looks verry nice, gonna test this out! <3",
+   "upvotes": 1,
+   "created_at": "2026-07-20T18:15:14.69456+00:00",
+   "updated_at": "2026-07-20T18:17:22.350473+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "f1edf26d-991e-418e-a773-a42a48e01b9e",
+    "username": "Smetterling",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJPevPs8bV6_UoDmINsc8Tq8vtLIlokpfr_YOVGgDRWYHRBVA=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "a6b42d1d-6de0-4bda-bf92-486e548cda10",
+   "title": "Grovekeeper",
+   "class_id": 31,
+   "spec_id": 84,
+   "author_id": "88f7972c-4247-47d7-86f5-5a913bfbc334",
+   "tags": [],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 329,
+   "featured": false,
+   "created_at": "2026-07-27T19:11:52.96072+00:00",
+   "updated_at": "2026-07-27T19:11:52.96072+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "88f7972c-4247-47d7-86f5-5a913bfbc334",
+    "username": "syco.0",
+    "avatar_url": "https://cdn.discordapp.com/avatars/599713139919028226/5aebe09d72c1c090f2d3908143a74309.png"
+   }
+  },
+  {
+   "id": "604248d9-5113-4057-9363-af68741259e8",
+   "title": "Optimal Build for Raids/M0",
+   "class_id": 31,
+   "spec_id": 91,
+   "author_id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+   "tags": [
+    "Primalist",
+    "Mountain King",
+    "Tank",
+    "Guide",
+    "PvE",
+    "Raids",
+    "Dungeons",
+    "World Bosses",
+    "General Purpose"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 12,
+   "downvotes": 0,
+   "comment_count": 5,
+   "view_count": 3353,
+   "featured": false,
+   "created_at": "2026-07-20T21:15:32.714729+00:00",
+   "updated_at": "2026-07-26T12:03:15.901+00:00",
+   "has_talents": true,
+   "guide_section_count": 8,
+   "author": {
+    "id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+    "username": "leadfootjames",
+    "avatar_url": "https://cdn.discordapp.com/avatars/126074738341707778/3775742f0199adcc2184553650a5ad07.png"
+   }
+  },
+  {
+   "id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "title": "Wildwalker AoE Dungeon Build",
+   "class_id": 31,
+   "spec_id": 82,
+   "author_id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+   "tags": [
+    "leveling",
+    "aoe",
+    "dungeon",
+    "cleave"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 10,
+   "view_count": 5767,
+   "featured": false,
+   "created_at": "2026-07-17T20:29:37.198323+00:00",
+   "updated_at": "2026-07-21T07:44:46.649+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+    "username": "Sikotics",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIzTag4zIWh4cy9dGR2YVW0pLT3YLmp8Mo6X7E4S1QPNCObnak2=s96-c"
+   }
+  }
+ ],
+ "class": "Primalist",
+ "spec": "Mountain King",
+ "allocations": [
+  [
+   "31-87-1-0",
+   1
+  ],
+  [
+   "31-87-4-0",
+   1
+  ],
+  [
+   "31-87-7-0",
+   1
+  ],
+  [
+   "31-87-1-1",
+   1
+  ],
+  [
+   "31-87-3-1",
+   1
+  ],
+  [
+   "31-87-5-1",
+   1
+  ],
+  [
+   "31-87-7-2",
+   2
+  ],
+  [
+   "31-87-4-2",
+   1
+  ],
+  [
+   "31-87-1-2",
+   2
+  ],
+  [
+   "31-87-4-3",
+   1
+  ],
+  [
+   "31-87-6-3",
+   1
+  ],
+  [
+   "31-87-6-4a",
+   1
+  ],
+  [
+   "31-87-4-5",
+   1
+  ],
+  [
+   "31-87-7-5",
+   2
+  ],
+  [
+   "31-87-7-6",
+   1
+  ],
+  [
+   "31-87-5-6",
+   1
+  ],
+  [
+   "31-87-6-7",
+   1
+  ],
+  [
+   "31-91-4-0",
+   1
+  ],
+  [
+   "31-91-4-1",
+   2
+  ],
+  [
+   "31-91-2-2",
+   1
+  ],
+  [
+   "31-91-1-3",
+   1
+  ],
+  [
+   "31-91-4-3",
+   1
+  ],
+  [
+   "31-91-6-2",
+   2
+  ],
+  [
+   "31-91-7-3",
+   1
+  ],
+  [
+   "31-91-1-4",
+   1
+  ],
+  [
+   "31-91-2-5",
+   1
+  ],
+  [
+   "31-91-3-4b",
+   1
+  ],
+  [
+   "31-91-4-5",
+   1
+  ],
+  [
+   "31-91-7-4",
+   1
+  ],
+  [
+   "31-91-6-5",
+   1
+  ],
+  [
+   "31-91-8-5",
+   2
+  ],
+  [
+   "31-91-7-6a",
+   1
+  ],
+  [
+   "31-91-6-7",
+   1
+  ],
+  [
+   "31-91-8-7",
+   1
+  ],
+  [
+   "31-91-4-6",
+   1
+  ],
+  [
+   "31-91-5-7",
+   1
+  ],
+  [
+   "31-91-4-8",
+   1
+  ],
+  [
+   "31-91-10-0",
+   1
+  ],
+  [
+   "31-91-10-2",
+   1
+  ],
+  [
+   "31-91-10-4",
+   1
+  ],
+  [
+   "31-91-10-6",
+   1
+  ],
+  [
+   "31-91-10-8",
+   1
+  ],
+  [
+   "31-91-7-8",
+   1
+  ],
+  [
+   "31-87-4-7",
+   1
+  ],
+  [
+   "31-91-1-6",
+   1
+  ],
+  [
+   "31-87-3-6",
+   1
+  ],
+  [
+   "31-87-2-7a",
+   1
+  ],
+  [
+   "31-87-2-4a",
+   1
+  ],
+  [
+   "31-87-1-8",
+   1
+  ],
+  [
+   "31-87-7-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "31-87-1-0",
+   "points": 1,
+   "name": "Grip",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800145
+  },
+  {
+   "id": "31-87-4-0",
+   "points": 1,
+   "name": "Primal Rush",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 500696
+  },
+  {
+   "id": "31-87-7-0",
+   "points": 1,
+   "name": "Boulder Dash",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 500692
+  },
+  {
+   "id": "31-87-1-1",
+   "points": 1,
+   "name": "Heavy Handed",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706344
+  },
+  {
+   "id": "31-87-3-1",
+   "points": 1,
+   "name": "Environmentalist",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 300729
+  },
+  {
+   "id": "31-87-5-1",
+   "points": 1,
+   "name": "Tectonic Flow",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 802494
+  },
+  {
+   "id": "31-87-7-2",
+   "points": 2,
+   "name": "Focus",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 680936
+  },
+  {
+   "id": "31-87-4-2",
+   "points": 1,
+   "name": "Keen Senses",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 806533
+  },
+  {
+   "id": "31-87-1-2",
+   "points": 2,
+   "name": "Bountiful Boons",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 706203
+  },
+  {
+   "id": "31-87-4-3",
+   "points": 1,
+   "name": "Primal Convergence",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800181
+  },
+  {
+   "id": "31-87-6-3",
+   "points": 1,
+   "name": "Rock Barrier",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 503630
+  },
+  {
+   "id": "31-87-6-4a",
+   "points": 1,
+   "name": "Primal Fury",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504193
+  },
+  {
+   "id": "31-87-4-5",
+   "points": 1,
+   "name": "Protective Roar",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 802782
+  },
+  {
+   "id": "31-87-7-5",
+   "points": 2,
+   "name": "Stone Cold",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 560158
+  },
+  {
+   "id": "31-87-7-6",
+   "points": 1,
+   "name": "Bearskin",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800094
+  },
+  {
+   "id": "31-87-5-6",
+   "points": 1,
+   "name": "Stonefaced",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706201
+  },
+  {
+   "id": "31-87-6-7",
+   "points": 1,
+   "name": "Mineralization",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 520464
+  },
+  {
+   "id": "31-91-4-0",
+   "points": 1,
+   "name": "Quake",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 803974
+  },
+  {
+   "id": "31-91-4-1",
+   "points": 2,
+   "name": "Unyielding Form",
+   "maxPoints": 2,
+   "tree": "Mountain King",
+   "spellId": 706161
+  },
+  {
+   "id": "31-91-2-2",
+   "points": 1,
+   "name": "Seismically Efficient",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680413
+  },
+  {
+   "id": "31-91-1-3",
+   "points": 1,
+   "name": "Spiritbound",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 681364
+  },
+  {
+   "id": "31-91-4-3",
+   "points": 1,
+   "name": "Mountain Hammer",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 681130
+  },
+  {
+   "id": "31-91-6-2",
+   "points": 2,
+   "name": "Stone Soldier",
+   "maxPoints": 2,
+   "tree": "Mountain King",
+   "spellId": 570157
+  },
+  {
+   "id": "31-91-7-3",
+   "points": 1,
+   "name": "Blessed by the Earth",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 300695
+  },
+  {
+   "id": "31-91-1-4",
+   "points": 1,
+   "name": "Bash",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680964
+  },
+  {
+   "id": "31-91-2-5",
+   "points": 1,
+   "name": "Raging Earth",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 706622
+  },
+  {
+   "id": "31-91-3-4b",
+   "points": 1,
+   "name": "Hammer Time!",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 681435
+  },
+  {
+   "id": "31-91-4-5",
+   "points": 1,
+   "name": "Earthen Avatar",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680421
+  },
+  {
+   "id": "31-91-7-4",
+   "points": 1,
+   "name": "Stonebound",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680415
+  },
+  {
+   "id": "31-91-6-5",
+   "points": 1,
+   "name": "Terrasmash",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 706220
+  },
+  {
+   "id": "31-91-8-5",
+   "points": 2,
+   "name": "Mountain Thane",
+   "maxPoints": 2,
+   "tree": "Mountain King",
+   "spellId": 680404
+  },
+  {
+   "id": "31-91-7-6a",
+   "points": 1,
+   "name": "Earthenforged Barrier",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680408
+  },
+  {
+   "id": "31-91-6-7",
+   "points": 1,
+   "name": "Fury of the Earthmother",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680412
+  },
+  {
+   "id": "31-91-8-7",
+   "points": 1,
+   "name": "Earthmother's Protection",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 560298
+  },
+  {
+   "id": "31-91-4-6",
+   "points": 1,
+   "name": "Primal Guardian",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 300728
+  },
+  {
+   "id": "31-91-5-7",
+   "points": 1,
+   "name": "Improved Ursoc's Bellow",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 560505
+  },
+  {
+   "id": "31-91-4-8",
+   "points": 1,
+   "name": "Legacy of the Bronzebeards",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680424
+  },
+  {
+   "id": "31-91-10-0",
+   "points": 1,
+   "name": "Mountain Giant",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680395
+  },
+  {
+   "id": "31-91-10-2",
+   "points": 1,
+   "name": "King of the Mountain",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 570183
+  },
+  {
+   "id": "31-91-10-4",
+   "points": 1,
+   "name": "Stone Skin",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 806583
+  },
+  {
+   "id": "31-91-10-6",
+   "points": 1,
+   "name": "Call of the Mountain",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680406
+  },
+  {
+   "id": "31-91-10-8",
+   "points": 1,
+   "name": "Mountain Avatar",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 707616
+  },
+  {
+   "id": "31-91-7-8",
+   "points": 1,
+   "name": "Mountain Fury",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 806185
+  },
+  {
+   "id": "31-87-4-7",
+   "points": 1,
+   "name": "Therazane's Gift",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504219
+  },
+  {
+   "id": "31-91-1-6",
+   "points": 1,
+   "name": "Earthbreaker",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 560147
+  },
+  {
+   "id": "31-87-3-6",
+   "points": 1,
+   "name": "Earthmother's Precision",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 555723
+  },
+  {
+   "id": "31-87-2-7a",
+   "points": 1,
+   "name": "Emerald Will",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 500302
+  },
+  {
+   "id": "31-87-2-4a",
+   "points": 1,
+   "name": "Fury of the Elements",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706165
+  },
+  {
+   "id": "31-87-1-8",
+   "points": 1,
+   "name": "Grove Guardian",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 503721
+  },
+  {
+   "id": "31-87-7-8",
+   "points": 1,
+   "name": "Earthmother's Blessing",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 560157
+  }
+ ]
+}

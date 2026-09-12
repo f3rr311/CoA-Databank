@@ -1,0 +1,8 @@
+{
+  "name_enus": "Slag Barrage",
+  "icon": "custom_t_nhance_rpg_icons_firerain_border",
+  "tooltip_enus": "<table><tr><td><b>Slag Barrage</b><br />16% of base mana<br /><table width=\"100%\"><tr><td>4 sec cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Consumes Flames of Focus</span><br />Hurl spheres of molten slag at an enemy target for each stack consumed.<br /><br />Each sphere causes 20+(PL*2.2) Fire damage and slows their movement speed by 0% for 5&nbsp;sec. Stacks 3 times.</span></td></tr></table><!--?800794:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

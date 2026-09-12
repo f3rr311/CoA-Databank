@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ancestral Fury",
+  "icon": "achievement_boss_argus_aggramar",
+  "tooltip_enus": "<table><tr><td><b>Ancestral Fury</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Emanate a powerful aura, granting 10% increased melee and ranged haste to party and raid members within 100 yds.<br /><br />Does not stack with similar effects.</span></td></tr></table><!--?804731:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

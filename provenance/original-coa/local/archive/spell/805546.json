@@ -1,0 +1,8 @@
+{
+  "name_enus": "Moonlit Slumber",
+  "icon": "spell_nature_sleep",
+  "tooltip_enus": "<table><tr><td><b>Moonlit Slumber</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Put an enemy to sleep for 30&nbsp;sec (6 sec vs players). Damage dealt will end the effect.<br /><br />While sleeping, you drain 10+3.0 Points Per Level mana from them every 3 sec.</span></td></tr></table><!--?805546:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

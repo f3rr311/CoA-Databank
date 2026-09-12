@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vile Sting",
+  "icon": "ability_poisonsting",
+  "tooltip_enus": "<table><tr><td><b>Vile Sting</b><br /><table width=\"100%\"><tr><td>Instant</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Taunts an enemy target to attack you for 3&nbsp;sec.  If the target is tauntable and not currently targeting you, you trigger your current <span style=\"color: #FFFFFF;\">Venoms</span>.</span></td></tr></table><!--?805097:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

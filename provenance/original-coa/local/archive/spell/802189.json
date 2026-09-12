@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fortified Bulwark",
+  "icon": "5_shield_%283%29_border",
+  "tooltip_enus": "<table><tr><td><b>Fortified Bulwark</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces damage taken by 30% for 15&nbsp;sec.<br /><br /><span style=\"color: #ffffff;\">Forgehammer</span> consumes 4 sec of the duration to incur no cooldown.</span></td></tr></table><!--?802189:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

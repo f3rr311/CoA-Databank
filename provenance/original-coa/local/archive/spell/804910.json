@@ -1,0 +1,8 @@
+{
+  "name_enus": "Beatdown",
+  "icon": "spell_holy_rebuke",
+  "tooltip_enus": "<table><tr><td><b>Beatdown</b><br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Prepare your enemies for a beatdown. <br /><br />For until cancelled, <span style=\"color: #ffffff;\">Follow Ups</span> can now be used twice before expending stacks of <span style=\"color: #ffffff;\">Follow Up</span>.</span></td></tr></table><!--?804910:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

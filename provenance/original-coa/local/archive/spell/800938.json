@@ -1,0 +1,8 @@
+{
+  "name_enus": "Corporeal Flay",
+  "icon": "ability_warlock_soulsiphon",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Corporeal Flay</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Flay an enemy's soul with a beam of dark magic, dealing 17 to 18 Spellshadow Damage every 2 sec for 6&nbsp;sec.<br /><br /><span style=\"color: #5ee2ff;\">Soul Infusion</span>: Arcs to up to 0 enemies and ticks % faster.</span></td></tr></table><!--?800938:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Radiance",
+  "icon": "inv_sword_49",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Radiance</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Righteous Lunge</span> by 0%.</span></td></tr></table><!--?706317:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

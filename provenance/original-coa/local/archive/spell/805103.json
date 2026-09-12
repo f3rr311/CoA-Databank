@@ -1,0 +1,8 @@
+{
+  "name_enus": "Reformed",
+  "icon": "ability_monk_effuse",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Reformed</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 30 Passive</span><br />Clearing <span style=\"color: #66ff66;\">Exposed Flesh</span> stacks inside <span style=\"color: #ffffff;\">Beetle Form</span> now restores health based on stacks cleared.</span></td></tr></table><!--?805103:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

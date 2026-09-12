@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hero's March",
+  "icon": "inv_misc_drum_03",
+  "tooltip_enus": "<table><tr><td><b>Hero's March</b><br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Beat the drums of war, causing your auto attacks to trigger a <span style=\"color: #ffffff;\">Sound of War</span> and increasing your haste by 15% for 15&nbsp;sec.<br /><br />In addition, allies within 10 yds of you have a 5% chance to trigger a <span style=\"color: #ffffff;\">Sound of War</span> on any damage dealt.<br /><br />Does not work with <span style=\"color: #FFFFFF;\">Into the Fray.</span></span></td></tr></table><!--?801774:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Fleshcraft",
+  "icon": "nhi_bloodtear_border",
+  "tooltip_enus": "<table><tr><td><b>Fleshcraft</b><br />50 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Mend blood and bone, healing an ally for 50% of their maximum health and applies <span style=\"color: #ffffff;\">Sated</span>.<!--sp681078:0--><!--sp681078--><br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/nhi_bloodtear_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=532125'> Sated </a> <br />\n                            <span> Cannot be affected by <span style=\"color: #FFFFFF;\">Fleshcraft</span> for 3&nbsp;min.</span><br /></span></td></tr></table><!--?801952:1:1:80-->",
+  "spells_enus": {
+    "681078": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #FFE539\">Empowered</span>: Heals for an additional 25% of your maximum health and costs 100% less Rage."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Ranger's Horn of Coordination",
+  "icon": "inv_ascend_horn",
+  "tooltip_enus": "<table><tr><td><b>Ranger's Horn of Coordination</b><br />25 Focus<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Emanate an aura for 30&nbsp;sec that increases movement speed by 40% for party members within 50 yds.<br /><br />All <span style=\"color: #ffffff;\">Ranger's Horn</span> spells share a cooldown.<!--sp300897:0--><!--sp300897--></span></td></tr></table><!--?800087:1:1:80-->",
+  "spells_enus": {
+    "300897": [
+      [
+        "",
+        "@s:300895:0@"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

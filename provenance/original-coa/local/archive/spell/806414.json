@@ -1,0 +1,15 @@
+{
+  "name_enus": "Cloudsurfer",
+  "icon": "novart_magicspell_%2857%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Cloudsurfer</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <!--sp560020:0--><span style=\"color: #ffffff;\">Shock</span><!--sp560020--> by 20%.</span></td></tr></table><!--?806414:1:1:80-->",
+  "spells_enus": {
+    "560020": [
+      [
+        "<span style=\"color: #ffffff\">Shock</span>",
+        "<span style=\"color: #ffffff\">Brine</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

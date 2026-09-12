@@ -1,0 +1,8 @@
+{
+  "name_enus": "Earth's Guidance",
+  "icon": "spell_nature_protectionformnature",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Earth's Guidance</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage and healing done by <span style=\"color: #FFFFFF;\">Seismic</span> spells now has a 20% chance to reduce the cooldown of all <span style=\"color: #ffffff;\">Seismic</span> spells by 1 sec.</span></td></tr></table><!--?706138:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

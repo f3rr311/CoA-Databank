@@ -1,0 +1,8 @@
+{
+  "name_enus": "Earthmother's Hammer",
+  "icon": "inv_mace_1h_artifactdoomhammer_d_03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Earthmother's Hammer</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Mountain Hammer</span> by 15 sec.</span></td></tr></table><!--?803946:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

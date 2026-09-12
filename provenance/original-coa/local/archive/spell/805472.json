@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fissure Stream",
+  "icon": "spell_fire_sealoffire",
+  "tooltip_enus": "<table><tr><td><b>Fissure Stream</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Every 0 sec, enemies in your <span style=\"color: #ffffff;\">Path of Flames</span> have their movement speed slowed by 0%, and allies gain 0% movement speed.</span></td></tr></table><!--?805472:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

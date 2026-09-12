@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sunder",
+  "icon": "spell_fire_felhellfire",
+  "tooltip_enus": "<table><tr><td><b>Sunder</b><br />30 Energy<br />8&nbsp;sec cooldown</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #32cd32;\">Consumes 2 Felfury</span><br />Sunder the ground progressively infront of you, causing 3 explosions one after another that deal 245*$<scalingbp>+AP*0.2+SP*.25 Chaos Damage, split amongst all enemies struck, plus (12*1000/3)*(95*$<scalingbp>+AP*0.12) over 12&nbsp;sec.<br /><br /><span style=\"color: #32cd32;\">Inner Demon</span>: Affected enemies have their attack power reduced by (-23+1.0 Points Per Level)* -1 for 20 sec.</span></td></tr></table><!--?705121:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

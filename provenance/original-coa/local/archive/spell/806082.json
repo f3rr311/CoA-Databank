@@ -1,0 +1,8 @@
+{
+  "name_enus": "Parasitical Experiments",
+  "icon": "achievement_halloween_worms_01",
+  "tooltip_enus": "<table><tr><td><b>Parasitical Experiments</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Ray of Rot</span> and periodic damage has a 15% chance to apply <span style=\"color: #ffffff;\">Decaying Presence</span> increasing the tick rate of your diseases by 2%, and applies <span style=\"color: #ffffff;\">Parasites</span> for 10&nbsp;sec, stacking 10 times.<br /><br /><span style=\"color: #ffffff;\">Expunge</span> consumes <span style=\"color: #ffffff;\">Parasites</span> to deal 0% increased damage per stack.</span></td></tr></table><!--?806082:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

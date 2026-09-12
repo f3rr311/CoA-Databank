@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lingering Storm",
+  "icon": "nhi_lightning_timewarp_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lingering Storm</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the duration of your <span style=\"color: #ffffff;\">Stormcloak</span>, <span style=\"color: #ffffff;\">Conjure Storm</span> and <span style=\"color: #ffffff;\">Body of Lightning</span> by 30%.</span></td></tr></table><!--?705652:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

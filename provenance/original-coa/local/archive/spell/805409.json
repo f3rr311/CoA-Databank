@@ -1,0 +1,15 @@
+{
+  "name_enus": "Righteous Tempest",
+  "icon": "_whirlwind_yellow",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Righteous Tempest</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Energy<br />Instant</td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\">Unleash a whirling <span style=\"color: #ffffff;\">Oath Breaker</span>, dealing Weapon Damage plus $805410m1u+SP*0.25 damage to nearby enemies, scaling with spell power, every 1 sec<!--sp300512:0--><!--sp300512--> for 3&nbsp;sec.<br /><br />Consumes your <span style=\"color: #ffffff;\">Oaths</span>, dealing additional damage for each consumed.</span></td></tr></table><!--?805409:1:1:80-->",
+  "spells_enus": {
+    "300512": [
+      [
+        "",
+        " and reducing damage taken by 20%"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

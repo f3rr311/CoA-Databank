@@ -1,0 +1,8 @@
+{
+  "name_enus": "Deathball",
+  "icon": "ability_garrosh_siege_engine",
+  "tooltip_enus": "<table><tr><td><b>Deathball</b><br />20% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Launch 3 <span style=\"color: #ffffff;\">Deathballs</span> in a line, increasing in speed the further they travel.<br /><br />They explode when they come into contact with an enemy, dealing 1026+6.1 Points Per Level+RAP*.35 Fire damage to nearby enemies, increased based on distance traveled.<br /><br /><span style=\"color: #ffffff;\">Bot</span> and <span style=\"color: #ffffff;\">Build</span> abilities reduce the cooldown of this ability by 2 sec.</span></td></tr></table><!--?500236:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

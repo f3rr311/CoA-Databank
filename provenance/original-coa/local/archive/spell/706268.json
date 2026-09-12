@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fury of Archimonde",
+  "icon": "achievement_boss_hellfire_archimonde",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Fury of Archimonde</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">After generating 10 <span style=\"color: #32cd32;\">Felfury</span>, your next <span style=\"color: #FFFFFF;\">Sargeron Smite</span> within 15&nbsp;sec gains 50% increased critical strike chance and damage.</span></td></tr></table><!--?706268:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

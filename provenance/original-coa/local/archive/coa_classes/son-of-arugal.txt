@@ -1,0 +1,53 @@
+Bloodmage Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Bloodmage Overview
+ Sons of Arugal wrestle with Arugal's Worgen curse across four paths. Ferocity transforms into savage Worgen, Blood embraces San'layn sanguine magic, Packleader leads a permanent Worgen shadow pack, and Fleshweaver heals through blood rituals. The class alternates between caster and enraged wolf — mastering the curse defines your identity.
+ Bearer of the sanguine Worgen curse — torn between feral bloodlust and crimson Blood Mage mastery.
+ Class Mechanic — Worgen Curse
+ Sons of Arugal grapple with the Worgen curse, alternating between feral wolf and blood magic caster forms.
+ Bloodmage uses Rage / Vitality as its primary resource and wears Leather armor.
+ Specializations
+ At level 10, Bloodmage players choose one of three specializations, each offering a distinct playstyle:
+ Ferocity: Give into the curse, building rage through blood magic to transform into a ferocious Worgen tearing foes apart.
+ Blood: Embrace the San'layn gift using your own health to devastate enemies and transfuse life into allies.
+ Packleader: Permanently transform into Worgen commanding a Shadow Pack that summons shadow worgen in combat.
+ Fleshweaver: Blood Mage healer weaving rejuvenating spells, pooling Vitality for powerful blood rituals that mend mortal wounds.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Four specs spanning all roles
+ Strength: Ferocity strong melee burst
+ Strength: Fleshweaver unique blood healer
+ Weakness: Form and resource management
+ Weakness: Blood spec self-damage risk
+ Weakness: Complex curse mechanics
+ Leveling Tips
+ Ferocity simplifies early leveling with strong self-sustain in Worgen form. Blood works in groups as a life-transfusing DPS. Practice form transitions during combat.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Ferocity Worgen form is aggressive arena melee with transformation unpredictability. Packleader shadow pack overwhelms battleground skirmishes.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Bloodmage in Conquest of Azeroth? Bloodmage is a Tank / Healer / DPS class wearing Leather armor with Rage / Vitality as its resource.
+ What is the Worgen Curse mechanic? Sons of Arugal grapple with the Worgen curse, alternating between feral wolf and blood magic caster forms.
+ When do Bloodmage specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Bloodmage good for beginners? Bloodmage has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Bloodmage have? Bloodmage has three specializations: Ferocity, Blood, Packleader, Fleshweaver.

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bushcraft",
+  "icon": "inv_ascend_bag_06_b",
+  "tooltip_enus": "<table><tr><td><b>Bushcraft</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Gain the ability to craft <span style=\"color: #ffffff;\">Crude Leather</span> from the Leather obtained from Skinning, gives you a chance to find it when Skinning beasts, and increases your Skinning speed.<br /><br />Allows you to craft items that require <span style=\"color: #ffffff;\">Crude Leather</span>.</span></td></tr></table><!--?800267:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

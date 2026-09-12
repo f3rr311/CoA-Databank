@@ -1,0 +1,8 @@
+{
+  "name_enus": "Concentrated Fate",
+  "icon": "inv_wand_1h_warfrontsalliance_c_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Concentrated Fate</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the effectiveness of your <span style=\"color: #ffffff;\">Echo Fragments</span> by 20%.</span></td></tr></table><!--?706122:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

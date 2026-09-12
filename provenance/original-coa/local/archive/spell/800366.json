@@ -1,0 +1,8 @@
+{
+  "name_enus": "Slipstream",
+  "icon": "ability_shawaterelemental_swirl",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Slipstream</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>8% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">You liquify your physical form into a pool of healing water for 5&nbsp;sec, making you unable to act but healing nearby allies for 4+(PL*0.35-1*0.35) every 1 sec.<br /><br />Each tick consumes 1 stack of <span style=\"color: #ffffff;\">Bathe</span> on affected allies to do additional healing for each stack.<br /><br />This effect also increases your movement speed by 40% and reduces your damage taken by 20%.</span></td></tr></table><!--?800366:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

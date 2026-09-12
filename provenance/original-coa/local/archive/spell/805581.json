@@ -1,0 +1,8 @@
+{
+  "name_enus": "Trial of Valor",
+  "icon": "achievement_raid_trialofvalor",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Trial of Valor</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Fulfilling</span> a <span style=\"color: #FFFFFF;\">Vow</span> now reduces the cooldown of <span style=\"color: #ffffff;\">Horusath Blast</span> by 2 sec.</span></td></tr></table><!--?805581:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

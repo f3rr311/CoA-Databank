@@ -1,0 +1,8 @@
+{
+  "name_enus": "Corrosion",
+  "icon": "nhi_poison_border",
+  "tooltip_enus": "<table><tr><td><b>Corrosion</b><br />10 Rage<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Unleash toxic corrosion, increasing the target's Nature Damage taken by 5% for 15&nbsp;sec.</span></td></tr></table><!--?803194:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

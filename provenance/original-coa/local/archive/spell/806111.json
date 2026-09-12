@@ -1,0 +1,8 @@
+{
+  "name_enus": "Demonic Machinations",
+  "icon": "inv_polearm_2h_fellord_03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Demonic Machinations</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Critical strikes with <span style=\"color: #ffffff;\">Sargeron Smite</span> now cause the target to bleed for an additional 50% of the damage dealt over 5&nbsp;sec.</span></td></tr></table><!--?806111:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

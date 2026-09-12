@@ -1,0 +1,8 @@
+{
+  "name_enus": "Power of Air",
+  "icon": "sha_inv_elemental_primal_shadow",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Power of Air</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage your <span style=\"color: #ffffff;\">Air Elemental</span> deals by 20%.</span></td></tr></table><!--?705696:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

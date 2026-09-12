@@ -1,0 +1,8 @@
+{
+  "name_enus": "Anti-Magic Grenades",
+  "icon": "spell_argus_shockgrenade",
+  "tooltip_enus": "<table><tr><td><b>Anti-Magic Grenades</b><br />10% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Toss grenades that dispel up to 3 benefical magic effects and silences all enemies within 12 yds for 4&nbsp;sec.</span></td></tr></table><!--?804861:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

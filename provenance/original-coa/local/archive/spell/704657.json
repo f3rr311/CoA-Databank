@@ -1,0 +1,8 @@
+{
+  "name_enus": "Brutalizer",
+  "icon": "spell_shadow_sacrificialshield",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Brutalizer</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of your <span style=\"color: #ffffff;\">Gore Barrage</span>, <span style=\"color: #ffffff;\">Bloodfang Bite</span> and <span style=\"color: #FFFFFF;\">Vital Shred</span> by 5%.</span></td></tr></table><!--?704657:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,806 @@
+{
+ "build": {
+  "id": "ec218df4-9104-4880-b0c9-0f598ab65898",
+  "title": "Corruption pvp theory craft",
+  "description": "",
+  "class_id": 25,
+  "spec_id": 65,
+  "author_id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+  "talent_string": "W1siMjUtNjUtNC0wIiwxXSxbIjI1LTY1LTItMSIsMV0sWyIyNS02NS0xLTIiLDFdLFsiMjUtNjUtNi0xIiwxXSxbIjI1LTY1LTQtMmEiLDFdLFsiMjUtNjUtNy0yIiwxXSxbIjI1LTY1LTYtMyIsMV0sWyIyNS02NS0yLTMiLDFdLFsiMjUtNjUtMS00YSIsMV0sWyIyNS02NS00LTQiLDFdLFsiMjUtNjUtNy00IiwxXSxbIjI1LTY1LTYtNSIsMV0sWyIyNS02NS00LTUiLDFdLFsiMjUtNjUtNC02IiwxXSxbIjI1LTY1LTAtNSIsMV0sWyIyNS02NS0yLTUiLDFdLFsiMjUtNjUtMi02IiwxXSxbIjI1LTY1LTItNyIsMV0sWyIyNS02NS00LTciLDFdLFsiMjUtNjUtNi02IiwxXSxbIjI1LTY1LTYtNyIsMV0sWyIyNS02NS03LTciLDFdLFsiMjUtNjUtOC02IiwxXSxbIjI1LTY1LTQtOCIsMV0sWyIyNS02NS00LTkiLDFdLFsiMjUtNjUtMTAtMCIsMV0sWyIyNS02NS0xMC0yIiwxXSxbIjI1LTY1LTEwLTQiLDFdLFsiMjUtNjUtMTAtNiIsMV0sWyIyNS02NS0xMC04IiwxXSxbIjI1LTg3LTEtMCIsMV0sWyIyNS04Ny00LTAiLDFdLFsiMjUtODctNy0wIiwxXSxbIjI1LTg3LTEtMSIsMV0sWyIyNS04Ny00LTFhIiwxXSxbIjI1LTg3LTctMSIsMV0sWyIyNS04Ny04LTIiLDFdLFsiMjUtODctNS0yIiwxXSxbIjI1LTg3LTMtMiIsMV0sWyIyNS04Ny0xLTMiLDFdLFsiMjUtODctNC0zYiIsMV0sWyIyNS04Ny03LTMiLDFdLFsiMjUtODctNy00IiwxXSxbIjI1LTg3LTUtNGEiLDFdLFsiMjUtODctMS00IiwxXSxbIjI1LTg3LTAtNiIsMV0sWyIyNS04Ny00LTUiLDFdLFsiMjUtODctNi01IiwxXSxbIjI1LTg3LTQtNiIsMV0sWyIyNS04Ny02LTYiLDFdLFsiMjUtODctNy03YiIsMV0sWyIyNS04Ny01LTdhIiwxXSxbIjI1LTg3LTMtNyIsMV0sWyIyNS04Ny0zLTQiLDFdLFsiMjUtODctNC04IiwxXSxbIjI1LTg3LTYtOSIsMV1d",
+  "tags": [],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-28T21:21:51.039658+00:00",
+  "updated_at": "2026-07-28T21:21:51.039658+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 228,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 0,
+  "author": {
+   "id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+   "username": "nschof",
+   "avatar_url": "https://cdn.discordapp.com/avatars/213470960936812544/a231295977f4f589bff6fb6a41fc857d.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "d96cb605-9752-43ba-b071-2b0e30ef8ddc",
+   "title": "Good Blade PVE DPS",
+   "class_id": 25,
+   "spec_id": 64,
+   "author_id": "6d3f96b7-62e9-44f9-9ea2-6627730e8c25",
+   "tags": [
+    "Good Blade",
+    "PVE",
+    "DPS",
+    "OpenWorld"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 890,
+   "featured": false,
+   "created_at": "2026-07-25T01:00:51.546512+00:00",
+   "updated_at": "2026-07-25T01:00:51.546512+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "6d3f96b7-62e9-44f9-9ea2-6627730e8c25",
+    "username": "friofrio Clima",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocI77wt-n4x-B_LxDjOWa9rXSRi6g5g5YG8ZX4cAemeogjJrOA=s96-c"
+   }
+  },
+  {
+   "id": "e2935c2d-8cfe-46a5-91d1-b9ed79adf658",
+   "title": "BIG DPS PVE GODBLAD BUILD",
+   "class_id": 25,
+   "spec_id": 64,
+   "author_id": "0428e975-e8fe-4a2b-9bc5-e5ecb8b1d85f",
+   "tags": [
+    "Mythic"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 668,
+   "featured": false,
+   "created_at": "2026-07-25T00:53:56.020227+00:00",
+   "updated_at": "2026-07-25T00:53:56.020227+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "0428e975-e8fe-4a2b-9bc5-e5ecb8b1d85f",
+    "username": "Oliver Delabaye",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ29SM0KEbbP6uRCEQSH-GIYIMQjG14fuAHrUXFvPUM176QeSw=s96-c"
+   }
+  },
+  {
+   "id": "a84ea92e-7fd2-4da5-9459-5511be1845cf",
+   "title": "HC Cultist goblade personal leveling path",
+   "class_id": 25,
+   "spec_id": 64,
+   "author_id": "f6d61d5a-cec7-47df-aa33-fbdf4e840ed4",
+   "tags": [
+    "Cultist",
+    "godblade",
+    "Leveling"
+   ],
+   "role": "dps",
+   "content_type": "leveling",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 823,
+   "featured": false,
+   "created_at": "2026-07-22T21:27:37.5386+00:00",
+   "updated_at": "2026-07-22T21:27:37.5386+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "f6d61d5a-cec7-47df-aa33-fbdf4e840ed4",
+    "username": "Bloodbringer",
+    "avatar_url": null
+   }
+  }
+ ],
+ "class": "Cultist",
+ "spec": "Corruption",
+ "allocations": [
+  [
+   "25-65-4-0",
+   1
+  ],
+  [
+   "25-65-2-1",
+   1
+  ],
+  [
+   "25-65-1-2",
+   1
+  ],
+  [
+   "25-65-6-1",
+   1
+  ],
+  [
+   "25-65-4-2a",
+   1
+  ],
+  [
+   "25-65-7-2",
+   1
+  ],
+  [
+   "25-65-6-3",
+   1
+  ],
+  [
+   "25-65-2-3",
+   1
+  ],
+  [
+   "25-65-1-4a",
+   1
+  ],
+  [
+   "25-65-4-4",
+   1
+  ],
+  [
+   "25-65-7-4",
+   1
+  ],
+  [
+   "25-65-6-5",
+   1
+  ],
+  [
+   "25-65-4-5",
+   1
+  ],
+  [
+   "25-65-4-6",
+   1
+  ],
+  [
+   "25-65-0-5",
+   1
+  ],
+  [
+   "25-65-2-5",
+   1
+  ],
+  [
+   "25-65-2-6",
+   1
+  ],
+  [
+   "25-65-2-7",
+   1
+  ],
+  [
+   "25-65-4-7",
+   1
+  ],
+  [
+   "25-65-6-6",
+   1
+  ],
+  [
+   "25-65-6-7",
+   1
+  ],
+  [
+   "25-65-7-7",
+   1
+  ],
+  [
+   "25-65-8-6",
+   1
+  ],
+  [
+   "25-65-4-8",
+   1
+  ],
+  [
+   "25-65-4-9",
+   1
+  ],
+  [
+   "25-65-10-0",
+   1
+  ],
+  [
+   "25-65-10-2",
+   1
+  ],
+  [
+   "25-65-10-4",
+   1
+  ],
+  [
+   "25-65-10-6",
+   1
+  ],
+  [
+   "25-65-10-8",
+   1
+  ],
+  [
+   "25-87-1-0",
+   1
+  ],
+  [
+   "25-87-4-0",
+   1
+  ],
+  [
+   "25-87-7-0",
+   1
+  ],
+  [
+   "25-87-1-1",
+   1
+  ],
+  [
+   "25-87-4-1a",
+   1
+  ],
+  [
+   "25-87-7-1",
+   1
+  ],
+  [
+   "25-87-8-2",
+   1
+  ],
+  [
+   "25-87-5-2",
+   1
+  ],
+  [
+   "25-87-3-2",
+   1
+  ],
+  [
+   "25-87-1-3",
+   1
+  ],
+  [
+   "25-87-4-3b",
+   1
+  ],
+  [
+   "25-87-7-3",
+   1
+  ],
+  [
+   "25-87-7-4",
+   1
+  ],
+  [
+   "25-87-5-4a",
+   1
+  ],
+  [
+   "25-87-1-4",
+   1
+  ],
+  [
+   "25-87-0-6",
+   1
+  ],
+  [
+   "25-87-4-5",
+   1
+  ],
+  [
+   "25-87-6-5",
+   1
+  ],
+  [
+   "25-87-4-6",
+   1
+  ],
+  [
+   "25-87-6-6",
+   1
+  ],
+  [
+   "25-87-7-7b",
+   1
+  ],
+  [
+   "25-87-5-7a",
+   1
+  ],
+  [
+   "25-87-3-7",
+   1
+  ],
+  [
+   "25-87-3-4",
+   1
+  ],
+  [
+   "25-87-4-8",
+   1
+  ],
+  [
+   "25-87-6-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "25-65-4-0",
+   "points": 1,
+   "name": "Darkwither",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 800446
+  },
+  {
+   "id": "25-65-2-1",
+   "points": 1,
+   "name": "Absolute Horror",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300309
+  },
+  {
+   "id": "25-65-1-2",
+   "points": 1,
+   "name": "Moment of Clarity",
+   "maxPoints": 2,
+   "tree": "Corruption",
+   "spellId": 706179
+  },
+  {
+   "id": "25-65-6-1",
+   "points": 1,
+   "name": "Feeding Darkness",
+   "maxPoints": 2,
+   "tree": "Corruption",
+   "spellId": 300302
+  },
+  {
+   "id": "25-65-4-2a",
+   "points": 1,
+   "name": "Call of C'Thun",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 301317
+  },
+  {
+   "id": "25-65-7-2",
+   "points": 1,
+   "name": "Servant of C'Thun",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300296
+  },
+  {
+   "id": "25-65-6-3",
+   "points": 1,
+   "name": "Obliteration Beam",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 805572
+  },
+  {
+   "id": "25-65-2-3",
+   "points": 1,
+   "name": "Eldritch Devastation",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 802727
+  },
+  {
+   "id": "25-65-1-4a",
+   "points": 1,
+   "name": "Unrelenting Void",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 704527
+  },
+  {
+   "id": "25-65-4-4",
+   "points": 1,
+   "name": "Cunning Nature",
+   "maxPoints": 2,
+   "tree": "Corruption",
+   "spellId": 706915
+  },
+  {
+   "id": "25-65-7-4",
+   "points": 1,
+   "name": "Dark Revelation",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 706245
+  },
+  {
+   "id": "25-65-6-5",
+   "points": 1,
+   "name": "Worrysome Idol",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 706917
+  },
+  {
+   "id": "25-65-4-5",
+   "points": 1,
+   "name": "Visions",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 560526
+  },
+  {
+   "id": "25-65-4-6",
+   "points": 1,
+   "name": "Psychic Suppression",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 800432
+  },
+  {
+   "id": "25-65-0-5",
+   "points": 1,
+   "name": "Corruptor's Gaze",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 802048
+  },
+  {
+   "id": "25-65-2-5",
+   "points": 1,
+   "name": "Dread",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 301315
+  },
+  {
+   "id": "25-65-2-6",
+   "points": 1,
+   "name": "Terror",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300304
+  },
+  {
+   "id": "25-65-2-7",
+   "points": 1,
+   "name": "Embrace the Void",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300307
+  },
+  {
+   "id": "25-65-4-7",
+   "points": 1,
+   "name": "Misery",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300298
+  },
+  {
+   "id": "25-65-6-6",
+   "points": 1,
+   "name": "Inner Turmoil",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 706722
+  },
+  {
+   "id": "25-65-6-7",
+   "points": 1,
+   "name": "Occultism",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300305
+  },
+  {
+   "id": "25-65-7-7",
+   "points": 1,
+   "name": "Depths of Madness",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 706911
+  },
+  {
+   "id": "25-65-8-6",
+   "points": 1,
+   "name": "Glimpse of Madness",
+   "maxPoints": 2,
+   "tree": "Corruption",
+   "spellId": 500719
+  },
+  {
+   "id": "25-65-4-8",
+   "points": 1,
+   "name": "Abyssal Destruction",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300308
+  },
+  {
+   "id": "25-65-4-9",
+   "points": 1,
+   "name": "Ancient Curse",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 500712
+  },
+  {
+   "id": "25-65-10-0",
+   "points": 1,
+   "name": "Corrupting Whispers",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 92130
+  },
+  {
+   "id": "25-65-10-2",
+   "points": 1,
+   "name": "Dark Magician",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 563123
+  },
+  {
+   "id": "25-65-10-4",
+   "points": 1,
+   "name": "Whispers of C'Thun",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 807512
+  },
+  {
+   "id": "25-65-10-6",
+   "points": 1,
+   "name": "Dark Revelation",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300313
+  },
+  {
+   "id": "25-65-10-8",
+   "points": 1,
+   "name": "Blessing of C'Thun",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 301255
+  },
+  {
+   "id": "25-87-1-0",
+   "points": 1,
+   "name": "Void Shield",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 500715
+  },
+  {
+   "id": "25-87-4-0",
+   "points": 1,
+   "name": "Corrupt Mind",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560109
+  },
+  {
+   "id": "25-87-7-0",
+   "points": 1,
+   "name": "Abyssal Ward",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 804670
+  },
+  {
+   "id": "25-87-1-1",
+   "points": 1,
+   "name": "Empire's Blessing",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 704895
+  },
+  {
+   "id": "25-87-4-1a",
+   "points": 1,
+   "name": "Stare Into The Abyss",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 525019
+  },
+  {
+   "id": "25-87-7-1",
+   "points": 1,
+   "name": "Empire Commander",
+   "maxPoints": 3,
+   "tree": "Cultist (class tree)",
+   "spellId": 704887
+  },
+  {
+   "id": "25-87-8-2",
+   "points": 1,
+   "name": "Shroud of Pride",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805126
+  },
+  {
+   "id": "25-87-5-2",
+   "points": 1,
+   "name": "Grasp of Zek'voz",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 573028
+  },
+  {
+   "id": "25-87-3-2",
+   "points": 1,
+   "name": "Mass Nightmare",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805114
+  },
+  {
+   "id": "25-87-1-3",
+   "points": 1,
+   "name": "Gift of C'Thun",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706189
+  },
+  {
+   "id": "25-87-4-3b",
+   "points": 1,
+   "name": "Rapid Incantations",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 301181
+  },
+  {
+   "id": "25-87-7-3",
+   "points": 1,
+   "name": "Wicked Thoughts",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706190
+  },
+  {
+   "id": "25-87-7-4",
+   "points": 1,
+   "name": "Embrace the Void",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 582591
+  },
+  {
+   "id": "25-87-5-4a",
+   "points": 1,
+   "name": "Dismay",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 704885
+  },
+  {
+   "id": "25-87-1-4",
+   "points": 1,
+   "name": "Hallucination",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560301
+  },
+  {
+   "id": "25-87-0-6",
+   "points": 1,
+   "name": "Mind Games",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 582589
+  },
+  {
+   "id": "25-87-4-5",
+   "points": 1,
+   "name": "Entropic Singularity",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 800430
+  },
+  {
+   "id": "25-87-6-5",
+   "points": 1,
+   "name": "Dark Calling",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560715
+  },
+  {
+   "id": "25-87-4-6",
+   "points": 1,
+   "name": "Void Hunger",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 524879
+  },
+  {
+   "id": "25-87-6-6",
+   "points": 1,
+   "name": "Eternal Grasp",
+   "maxPoints": 2,
+   "tree": "Cultist (class tree)",
+   "spellId": 704878
+  },
+  {
+   "id": "25-87-7-7b",
+   "points": 1,
+   "name": "Void-Enchanted Armor",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 804633
+  },
+  {
+   "id": "25-87-5-7a",
+   "points": 1,
+   "name": "Eldritch Command",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 302015
+  },
+  {
+   "id": "25-87-3-7",
+   "points": 1,
+   "name": "Devourer",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 300265
+  },
+  {
+   "id": "25-87-3-4",
+   "points": 1,
+   "name": "Overwhelming Void",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 707429
+  },
+  {
+   "id": "25-87-4-8",
+   "points": 1,
+   "name": "Black Prayer",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805110
+  },
+  {
+   "id": "25-87-6-9",
+   "points": 1,
+   "name": "Lost in the Void",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 704881
+  }
+ ]
+}

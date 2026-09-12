@@ -1,0 +1,15 @@
+{
+  "name_enus": "Spider Form Jump",
+  "icon": "inv_spidermountc4",
+  "tooltip_enus": "<table><tr><td><b>Spider Form Jump</b><br />5% of base mana<br /><table width=\"100%\"><tr><td>Channeled</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Leap upon an enemy, generating 0 Rage and rooting them in place for until cancelled.<!--sp705983:0--><!--sp705983--></span></td></tr></table><!--?800879:1:1:80-->",
+  "spells_enus": {
+    "705983": [
+      [
+        "",
+        "<br /><br />Increases damage dealt by 12% for 10&nbsp;sec."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

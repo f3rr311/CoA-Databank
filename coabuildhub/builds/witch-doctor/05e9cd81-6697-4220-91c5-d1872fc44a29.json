@@ -1,0 +1,751 @@
+{
+ "build": {
+  "id": "05e9cd81-6697-4220-91c5-d1872fc44a29",
+  "title": "Who do your voodoo",
+  "description": "[talents]\nCan change de other side for voice of bwonsamdi if you want more burst\n\n[rotation]\n4+ get buff from shadow puppets and spam shadow flare\nSt-3 - hex of malice -> shadow puppets -> mimic totem -> cds -> hexfire -> bad juju-> malefic wrath\n\n[stats]\nCrit -> spell power/ damage -> spirit\n\n[enchants]\nLeyline for weapon\n\n[macros]\n#showtooltip\n/cast [@cursor] Shadowflare\n\n#showtooltip\n/cast [Shadow Avatar](coa-skill:witch-doctor:705943)\n/cast [Veil of Darkness](coa-skill:witch-doctor:802100)\n/cast [Voice of Bwonsamdi](coa-skill:witch-doctor:501170)\n/use (insert trinkets/ racials)",
+  "class_id": 13,
+  "spec_id": 34,
+  "author_id": "8617fe92-c43b-44c7-9a4e-9e371d18f0fa",
+  "talent_string": "W1siMTMtODctNC0wIiwxXSxbIjEzLTg3LTQtMSIsMV0sWyIxMy04Ny0yLTEiLDJdLFsiMTMtODctMy0yIiwxXSxbIjEzLTg3LTUtMiIsMl0sWyIxMy04Ny02LTEiLDFdLFsiMTMtODctOC0yIiwxXSxbIjEzLTg3LTYtMyIsMV0sWyIxMy04Ny03LTQiLDFdLFsiMTMtODctOC01IiwxXSxbIjEzLTg3LTYtNSIsMV0sWyIxMy04Ny03LTYiLDJdLFsiMTMtODctNy03IiwxXSxbIjEzLTg3LTItMyIsMV0sWyIxMy04Ny00LTQiLDFdLFsiMTMtODctMi01IiwxXSxbIjEzLTg3LTMtNiIsMV0sWyIxMy04Ny01LTYiLDFdLFsiMTMtODctMS02IiwxXSxbIjEzLTg3LTEtN2IiLDFdLFsiMTMtODctMS00YiIsMV0sWyIxMy04Ny0yLTgiLDFdLFsiMTMtODctMS05IiwxXSxbIjEzLTM0LTQtMCIsMV0sWyIxMy0zNC0zLTEiLDFdLFsiMTMtMzQtNS0xIiwxXSxbIjEzLTM0LTQtMiIsMV0sWyIxMy0zNC02LTIiLDFdLFsiMTMtMzQtMi0yIiwxXSxbIjEzLTM0LTMtMyIsMV0sWyIxMy0zNC01LTMiLDNdLFsiMTMtMzQtNy00IiwxXSxbIjEzLTM0LTctNSIsMV0sWyIxMy0zNC03LTciLDFdLFsiMTMtMzQtMS00IiwyXSxbIjEzLTM0LTMtNSIsMV0sWyIxMy0zNC0zLTYiLDFdLFsiMTMtMzQtMS01IiwxXSxbIjEzLTM0LTEtNyIsMV0sWyIxMy0zNC0yLTciLDFdLFsiMTMtMzQtNS01IiwxXSxbIjEzLTM0LTUtNmEiLDFdLFsiMTMtMzQtNC02IiwxXSxbIjEzLTM0LTQtOCIsMV0sWyIxMy0zNC00LTkiLDFdLFsiMTMtMzQtMTAtMCIsMV0sWyIxMy0zNC0xMC0yIiwxXSxbIjEzLTM0LTEwLTQiLDFdLFsiMTMtMzQtMTAtNiIsMV0sWyIxMy0zNC0xMC04IiwxXV0",
+  "tags": [
+   "Aoe"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 2,
+  "downvotes": 0,
+  "comment_count": 1,
+  "created_at": "2026-07-23T07:38:39.28031+00:00",
+  "updated_at": "2026-07-23T07:40:37.987+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 2500,
+  "net_score": 2,
+  "has_talents": true,
+  "guide_section_count": 5,
+  "author": {
+   "id": "8617fe92-c43b-44c7-9a4e-9e371d18f0fa",
+   "username": "skadi2552",
+   "avatar_url": "https://cdn.discordapp.com/avatars/169451519345819649/6890df9855fd7a4d11b292d1c61e0810.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "9c5b6734-f8ea-4c65-b870-8fce546939ee",
+   "build_id": "05e9cd81-6697-4220-91c5-d1872fc44a29",
+   "author_id": "dd738ec4-85ce-4e8b-b753-9eaaf672c2d4",
+   "parent_id": null,
+   "body": "Do you Letharghy Jinx? It is not in your rotation so Will of the Serpent isn't working.",
+   "upvotes": 0,
+   "created_at": "2026-07-31T00:06:12.054704+00:00",
+   "updated_at": "2026-07-31T00:06:12.054704+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "dd738ec4-85ce-4e8b-b753-9eaaf672c2d4",
+    "username": "kephass",
+    "avatar_url": "https://cdn.discordapp.com/avatars/123536721504632834/68cd676338c581e3d8a3048fc2a5c735.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "a254757b-8afd-45a9-b6bd-93dd4bf49d9d",
+   "title": "WD Shadowhunter PvE",
+   "class_id": 13,
+   "spec_id": 36,
+   "author_id": "428f5bf2-8db9-42db-a655-0215916cb624",
+   "tags": [
+    "AoE",
+    "Dungeon",
+    "Single Target"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 423,
+   "featured": false,
+   "created_at": "2026-07-29T19:22:39.59715+00:00",
+   "updated_at": "2026-07-29T19:30:52.961+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "428f5bf2-8db9-42db-a655-0215916cb624",
+    "username": "Martin T. L. (Malleren)",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJOVHmFSEN6QzZdqvH_Lu6ce3wr7zGxdIaw5-n9kVyIElnHLGVW=s96-c"
+   }
+  },
+  {
+   "id": "00b41ac2-7b7f-4a28-87ad-1d5f78204ab9",
+   "title": "WD - Cocktail Cauldron Shenaningans",
+   "class_id": 13,
+   "spec_id": 35,
+   "author_id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+   "tags": [
+    "AOE",
+    "Raid",
+    "Mythic"
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 576,
+   "featured": false,
+   "created_at": "2026-07-23T16:26:12.939071+00:00",
+   "updated_at": "2026-07-28T16:01:48.181+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+    "username": "bruttus_",
+    "avatar_url": "https://cdn.discordapp.com/avatars/716955228729245781/98ec4037a0a68fd624f2a4ad6069555b.png"
+   }
+  },
+  {
+   "id": "33954858-3a1e-4d27-8c00-316cf9172b46",
+   "title": "HEAL LVL THEO",
+   "class_id": 13,
+   "spec_id": 35,
+   "author_id": "1182cfc1-0ac1-47c9-84ba-2e3ff6a24753",
+   "tags": [],
+   "role": "healer",
+   "content_type": "leveling",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 67,
+   "featured": false,
+   "created_at": "2026-07-29T10:50:51.588207+00:00",
+   "updated_at": "2026-07-29T10:50:51.588207+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "1182cfc1-0ac1-47c9-84ba-2e3ff6a24753",
+    "username": "Pedro Segura",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLv5wc79fP5dg4-iPeoO0XiBnE6cb9Eujx1Pc1U0oWbg-vI9tzJ=s96-c"
+   }
+  }
+ ],
+ "class": "Witch Doctor",
+ "spec": "Voodoo",
+ "allocations": [
+  [
+   "13-87-4-0",
+   1
+  ],
+  [
+   "13-87-4-1",
+   1
+  ],
+  [
+   "13-87-2-1",
+   2
+  ],
+  [
+   "13-87-3-2",
+   1
+  ],
+  [
+   "13-87-5-2",
+   2
+  ],
+  [
+   "13-87-6-1",
+   1
+  ],
+  [
+   "13-87-8-2",
+   1
+  ],
+  [
+   "13-87-6-3",
+   1
+  ],
+  [
+   "13-87-7-4",
+   1
+  ],
+  [
+   "13-87-8-5",
+   1
+  ],
+  [
+   "13-87-6-5",
+   1
+  ],
+  [
+   "13-87-7-6",
+   2
+  ],
+  [
+   "13-87-7-7",
+   1
+  ],
+  [
+   "13-87-2-3",
+   1
+  ],
+  [
+   "13-87-4-4",
+   1
+  ],
+  [
+   "13-87-2-5",
+   1
+  ],
+  [
+   "13-87-3-6",
+   1
+  ],
+  [
+   "13-87-5-6",
+   1
+  ],
+  [
+   "13-87-1-6",
+   1
+  ],
+  [
+   "13-87-1-7b",
+   1
+  ],
+  [
+   "13-87-1-4b",
+   1
+  ],
+  [
+   "13-87-2-8",
+   1
+  ],
+  [
+   "13-87-1-9",
+   1
+  ],
+  [
+   "13-34-4-0",
+   1
+  ],
+  [
+   "13-34-3-1",
+   1
+  ],
+  [
+   "13-34-5-1",
+   1
+  ],
+  [
+   "13-34-4-2",
+   1
+  ],
+  [
+   "13-34-6-2",
+   1
+  ],
+  [
+   "13-34-2-2",
+   1
+  ],
+  [
+   "13-34-3-3",
+   1
+  ],
+  [
+   "13-34-5-3",
+   3
+  ],
+  [
+   "13-34-7-4",
+   1
+  ],
+  [
+   "13-34-7-5",
+   1
+  ],
+  [
+   "13-34-7-7",
+   1
+  ],
+  [
+   "13-34-1-4",
+   2
+  ],
+  [
+   "13-34-3-5",
+   1
+  ],
+  [
+   "13-34-3-6",
+   1
+  ],
+  [
+   "13-34-1-5",
+   1
+  ],
+  [
+   "13-34-1-7",
+   1
+  ],
+  [
+   "13-34-2-7",
+   1
+  ],
+  [
+   "13-34-5-5",
+   1
+  ],
+  [
+   "13-34-5-6a",
+   1
+  ],
+  [
+   "13-34-4-6",
+   1
+  ],
+  [
+   "13-34-4-8",
+   1
+  ],
+  [
+   "13-34-4-9",
+   1
+  ],
+  [
+   "13-34-10-0",
+   1
+  ],
+  [
+   "13-34-10-2",
+   1
+  ],
+  [
+   "13-34-10-4",
+   1
+  ],
+  [
+   "13-34-10-6",
+   1
+  ],
+  [
+   "13-34-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "13-87-4-0",
+   "points": 1,
+   "name": "Mimic Ward",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 707162
+  },
+  {
+   "id": "13-87-4-1",
+   "points": 1,
+   "name": "Chosen One",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503742
+  },
+  {
+   "id": "13-87-2-1",
+   "points": 2,
+   "name": "Juju Injection",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503608
+  },
+  {
+   "id": "13-87-3-2",
+   "points": 1,
+   "name": "Mojo Madness",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705871
+  },
+  {
+   "id": "13-87-5-2",
+   "points": 2,
+   "name": "Wizened",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705903
+  },
+  {
+   "id": "13-87-6-1",
+   "points": 1,
+   "name": "Spiritual Traditions",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705911
+  },
+  {
+   "id": "13-87-8-2",
+   "points": 1,
+   "name": "Seeker",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705880
+  },
+  {
+   "id": "13-87-6-3",
+   "points": 1,
+   "name": "Cleansing Idol",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504840
+  },
+  {
+   "id": "13-87-7-4",
+   "points": 1,
+   "name": "Spirit Warden",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503774
+  },
+  {
+   "id": "13-87-8-5",
+   "points": 1,
+   "name": "Swift Idol",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 804226
+  },
+  {
+   "id": "13-87-6-5",
+   "points": 1,
+   "name": "Vol'jin's Vigil",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504465
+  },
+  {
+   "id": "13-87-7-6",
+   "points": 2,
+   "name": "Spirit Walker",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504459
+  },
+  {
+   "id": "13-87-7-7",
+   "points": 1,
+   "name": "Hastened",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705899
+  },
+  {
+   "id": "13-87-2-3",
+   "points": 1,
+   "name": "Death Draught",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 602220
+  },
+  {
+   "id": "13-87-4-4",
+   "points": 1,
+   "name": "Amphibimorph",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 500952
+  },
+  {
+   "id": "13-87-2-5",
+   "points": 1,
+   "name": "Alchemical Enhancement",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705921
+  },
+  {
+   "id": "13-87-3-6",
+   "points": 1,
+   "name": "Touch of Mueh'zala",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 706538
+  },
+  {
+   "id": "13-87-5-6",
+   "points": 1,
+   "name": "Potent Mixes",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503748
+  },
+  {
+   "id": "13-87-1-6",
+   "points": 1,
+   "name": "Slither",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 500947
+  },
+  {
+   "id": "13-87-1-7b",
+   "points": 1,
+   "name": "Dark Mojo",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 712396
+  },
+  {
+   "id": "13-87-1-4b",
+   "points": 1,
+   "name": "Will of the Serpent",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 300663
+  },
+  {
+   "id": "13-87-2-8",
+   "points": 1,
+   "name": "Veil of Darkness",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 802100
+  },
+  {
+   "id": "13-87-1-9",
+   "points": 1,
+   "name": "Loa Communion",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705907
+  },
+  {
+   "id": "13-34-4-0",
+   "points": 1,
+   "name": "Shadow Puppets",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 500015
+  },
+  {
+   "id": "13-34-3-1",
+   "points": 1,
+   "name": "Loa Spirits",
+   "maxPoints": 2,
+   "tree": "Voodoo",
+   "spellId": 804620
+  },
+  {
+   "id": "13-34-5-1",
+   "points": 1,
+   "name": "Stranglethorn Style",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 705877
+  },
+  {
+   "id": "13-34-4-2",
+   "points": 1,
+   "name": "Zalazane's Malice",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 705902
+  },
+  {
+   "id": "13-34-6-2",
+   "points": 1,
+   "name": "Hexfire",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 807042
+  },
+  {
+   "id": "13-34-2-2",
+   "points": 1,
+   "name": "Bad Juju",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 802087
+  },
+  {
+   "id": "13-34-3-3",
+   "points": 1,
+   "name": "Dark Magic",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 705922
+  },
+  {
+   "id": "13-34-5-3",
+   "points": 3,
+   "name": "Staff of the Coven",
+   "maxPoints": 3,
+   "tree": "Voodoo",
+   "spellId": 806563
+  },
+  {
+   "id": "13-34-7-4",
+   "points": 1,
+   "name": "Jin'do's Wrath",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 707505
+  },
+  {
+   "id": "13-34-7-5",
+   "points": 1,
+   "name": "Hexplosion",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 704495
+  },
+  {
+   "id": "13-34-7-7",
+   "points": 1,
+   "name": "Dark Loa's Blessing",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 560545
+  },
+  {
+   "id": "13-34-1-4",
+   "points": 2,
+   "name": "Ritual Hexing",
+   "maxPoints": 2,
+   "tree": "Voodoo",
+   "spellId": 705840
+  },
+  {
+   "id": "13-34-3-5",
+   "points": 1,
+   "name": "Growing Malice",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 706551
+  },
+  {
+   "id": "13-34-3-6",
+   "points": 1,
+   "name": "Malignant",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 704503
+  },
+  {
+   "id": "13-34-1-5",
+   "points": 1,
+   "name": "Overflowing Juju",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 707405
+  },
+  {
+   "id": "13-34-1-7",
+   "points": 1,
+   "name": "Voodoo Unleashed",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 705901
+  },
+  {
+   "id": "13-34-2-7",
+   "points": 1,
+   "name": "Prolonged Malice",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 704505
+  },
+  {
+   "id": "13-34-5-5",
+   "points": 1,
+   "name": "Beware Da Voodoo",
+   "maxPoints": 2,
+   "tree": "Voodoo",
+   "spellId": 707168
+  },
+  {
+   "id": "13-34-5-6a",
+   "points": 1,
+   "name": "It's Da Voodoo",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 560278
+  },
+  {
+   "id": "13-34-4-6",
+   "points": 1,
+   "name": "Voodoo Mind",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 504462
+  },
+  {
+   "id": "13-34-4-8",
+   "points": 1,
+   "name": "Dark Effigy",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 707331
+  },
+  {
+   "id": "13-34-4-9",
+   "points": 1,
+   "name": "De Other Side",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 802092
+  },
+  {
+   "id": "13-34-10-0",
+   "points": 1,
+   "name": "Puppeteer's Threads",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 92084
+  },
+  {
+   "id": "13-34-10-2",
+   "points": 1,
+   "name": "Voodoo Power",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 706482
+  },
+  {
+   "id": "13-34-10-4",
+   "points": 1,
+   "name": "Overflowing Juju",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 705844
+  },
+  {
+   "id": "13-34-10-6",
+   "points": 1,
+   "name": "Juju Spirits",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 807296
+  },
+  {
+   "id": "13-34-10-8",
+   "points": 1,
+   "name": "Hexfire Adept",
+   "maxPoints": 1,
+   "tree": "Voodoo",
+   "spellId": 704500
+  }
+ ]
+}

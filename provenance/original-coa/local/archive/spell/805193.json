@@ -1,0 +1,8 @@
+{
+  "name_enus": "Edgewalker",
+  "icon": "inv_shoulder_cloth_raidpriest_r_01",
+  "tooltip_enus": "<table><tr><td><b>Edgewalker</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces all damage taken by 60% and increases all healing done by 15% for 6&nbsp;sec.<br /><br />While this is active you are considered Undead, making you immune to fear, sleep, and charm effects.</span></td></tr></table><!--?805193:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

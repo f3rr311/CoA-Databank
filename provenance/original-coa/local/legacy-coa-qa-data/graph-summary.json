@@ -1,0 +1,504 @@
+{
+ "generatedBy": "qa_spell_graph2.py",
+ "source": "live",
+ "nodes": {
+  "branch": 21,
+  "script": 71,
+  "spell": 12354,
+  "talent": 588
+ },
+ "nodesTotal": 13034,
+ "edges": {
+  "consumes": 58,
+  "rank-of": 2617,
+  "scales-with": 3759,
+  "script-bound": 966,
+  "talent-grants": 1717,
+  "talent-modifies-spell": 3641,
+  "talent-procs": 537,
+  "taught-by": 3128,
+  "triggers": 6660
+ },
+ "edgesTotal": 23083,
+ "triggerEdgeConfidence": {
+  "certain": 6169,
+  "scripted": 95,
+  "suspected": 396
+ },
+ "coverage": {
+  "liveLadderSpells": 3128,
+  "ladderSpellsInGraph": 3128,
+  "ladderCoveragePct": 100.0,
+  "rankSpellsInGraph": 2617,
+  "talentNodes": 588,
+  "scriptNodes": 71,
+  "itemSetNodes": 0
+ },
+ "integrity": {
+  "taughtSpellsMissingFromSpellDbc": [
+   465,
+   498,
+   706,
+   1032,
+   11734,
+   19263,
+   20925,
+   25780,
+   27260,
+   47889,
+   48942,
+   48952,
+   49222,
+   62124
+  ],
+  "rankSpellsMissingScriptWhoseBaseHasOne": [],
+  "rankSpellsMissingScriptCount": 0
+ },
+ "cycles": [
+  {
+   "members": [
+    500339,
+    800362,
+    704596
+   ],
+   "length": 3,
+   "names": [
+    "Crypt Plague",
+    "Crypt Plague",
+    "Crypt Plague Destacker"
+   ],
+   "minAuraPeriodMs": 1,
+   "carriesDamage": false,
+   "damageMembers": [],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "suspected",
+   "reachableFromBranches": [
+    1
+   ],
+   "danger": "moderate",
+   "path": [
+    {
+     "from": 500339,
+     "to": 800362,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 23,
+     "effectAuraPeriodMs": 17800
+    },
+    {
+     "from": 800362,
+     "to": 704596,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 23,
+     "effectAuraPeriodMs": 1
+    },
+    {
+     "from": 704596,
+     "to": 500339,
+     "confidence": "suspected",
+     "effect": 3,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    }
+   ]
+  },
+  {
+   "members": [
+    500339,
+    800415,
+    800362,
+    704596
+   ],
+   "length": 4,
+   "names": [
+    "Crypt Plague",
+    "Crypt Plague",
+    "Crypt Plague",
+    "Crypt Plague Destacker"
+   ],
+   "minAuraPeriodMs": 1,
+   "carriesDamage": false,
+   "damageMembers": [],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "suspected",
+   "reachableFromBranches": [
+    1
+   ],
+   "danger": "moderate",
+   "path": [
+    {
+     "from": 500339,
+     "to": 800415,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 23,
+     "effectAuraPeriodMs": 500
+    },
+    {
+     "from": 800415,
+     "to": 800362,
+     "confidence": "certain",
+     "effect": 64,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    },
+    {
+     "from": 800362,
+     "to": 704596,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 23,
+     "effectAuraPeriodMs": 1
+    },
+    {
+     "from": 704596,
+     "to": 500339,
+     "confidence": "suspected",
+     "effect": 3,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    }
+   ]
+  },
+  {
+   "members": [
+    807080
+   ],
+   "length": 1,
+   "names": [
+    "Suncharge"
+   ],
+   "minAuraPeriodMs": 500,
+   "carriesDamage": false,
+   "damageMembers": [],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "certain",
+   "reachableFromBranches": [],
+   "danger": "moderate",
+   "path": [
+    {
+     "from": 807080,
+     "to": 807080,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 23,
+     "effectAuraPeriodMs": 500
+    }
+   ]
+  },
+  {
+   "members": [
+    806269,
+    806270
+   ],
+   "length": 2,
+   "names": [
+    "Mark of Order",
+    "Mark of Order"
+   ],
+   "minAuraPeriodMs": 1000,
+   "carriesDamage": false,
+   "damageMembers": [],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "suspected",
+   "reachableFromBranches": [],
+   "danger": "moderate",
+   "path": [
+    {
+     "from": 806269,
+     "to": 806270,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 23,
+     "effectAuraPeriodMs": 1000
+    },
+    {
+     "from": 806270,
+     "to": 806269,
+     "confidence": "suspected",
+     "effect": 3,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    }
+   ]
+  },
+  {
+   "members": [
+    706888,
+    707281
+   ],
+   "length": 2,
+   "names": [
+    "Wildfire",
+    "Wildfire"
+   ],
+   "minAuraPeriodMs": null,
+   "carriesDamage": true,
+   "damageMembers": [
+    706888
+   ],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "scripted",
+   "reachableFromBranches": [
+    4
+   ],
+   "danger": "moderate",
+   "path": [
+    {
+     "from": 706888,
+     "to": 707281,
+     "confidence": "scripted",
+     "effect": 3,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    },
+    {
+     "from": 707281,
+     "to": 706888,
+     "confidence": "certain",
+     "effect": 64,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    }
+   ]
+  },
+  {
+   "members": [
+    29532
+   ],
+   "length": 1,
+   "names": [
+    "Ribbon Pole Channel Effect Trigger"
+   ],
+   "minAuraPeriodMs": null,
+   "carriesDamage": false,
+   "damageMembers": [],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "certain",
+   "reachableFromBranches": [],
+   "danger": "low",
+   "path": [
+    {
+     "from": 29532,
+     "to": 29532,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 42,
+     "effectAuraPeriodMs": 0
+    }
+   ]
+  },
+  {
+   "members": [
+    271999
+   ],
+   "length": 1,
+   "names": [
+    "Shadow Dance"
+   ],
+   "minAuraPeriodMs": null,
+   "carriesDamage": false,
+   "damageMembers": [],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "certain",
+   "reachableFromBranches": [],
+   "danger": "low",
+   "path": [
+    {
+     "from": 271999,
+     "to": 271999,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 42,
+     "effectAuraPeriodMs": 0
+    }
+   ]
+  },
+  {
+   "members": [
+    1569654
+   ],
+   "length": 1,
+   "names": [
+    "Shadow Dance"
+   ],
+   "minAuraPeriodMs": null,
+   "carriesDamage": false,
+   "damageMembers": [],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "certain",
+   "reachableFromBranches": [],
+   "danger": "low",
+   "path": [
+    {
+     "from": 1569654,
+     "to": 1569654,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 42,
+     "effectAuraPeriodMs": 0
+    }
+   ]
+  },
+  {
+   "members": [
+    560414,
+    561113
+   ],
+   "length": 2,
+   "names": [
+    "Extinction",
+    "Extinction"
+   ],
+   "minAuraPeriodMs": null,
+   "carriesDamage": false,
+   "damageMembers": [],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "suspected",
+   "reachableFromBranches": [],
+   "danger": "low",
+   "path": [
+    {
+     "from": 560414,
+     "to": 561113,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 42,
+     "effectAuraPeriodMs": 0
+    },
+    {
+     "from": 561113,
+     "to": 560414,
+     "confidence": "suspected",
+     "effect": 3,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    }
+   ]
+  },
+  {
+   "members": [
+    804670,
+    807692
+   ],
+   "length": 2,
+   "names": [
+    "Abyssal Ward",
+    "Abyssal Ward"
+   ],
+   "minAuraPeriodMs": null,
+   "carriesDamage": false,
+   "damageMembers": [],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "suspected",
+   "reachableFromBranches": [
+    9
+   ],
+   "danger": "low",
+   "path": [
+    {
+     "from": 804670,
+     "to": 807692,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 42,
+     "effectAuraPeriodMs": 0
+    },
+    {
+     "from": 807692,
+     "to": 804670,
+     "confidence": "suspected",
+     "effect": 3,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    }
+   ]
+  },
+  {
+   "members": [
+    804735,
+    804736
+   ],
+   "length": 2,
+   "names": [
+    "Moonwater",
+    "Moonwater"
+   ],
+   "minAuraPeriodMs": null,
+   "carriesDamage": false,
+   "damageMembers": [],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "suspected",
+   "reachableFromBranches": [],
+   "danger": "low",
+   "path": [
+    {
+     "from": 804735,
+     "to": 804736,
+     "confidence": "certain",
+     "effect": 6,
+     "effectAura": 42,
+     "effectAuraPeriodMs": 0
+    },
+    {
+     "from": 804736,
+     "to": 804735,
+     "confidence": "suspected",
+     "effect": 3,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    }
+   ]
+  },
+  {
+   "members": [
+    500363,
+    805077,
+    805078
+   ],
+   "length": 3,
+   "names": [
+    "Reaped Soul",
+    "Soul Fragment",
+    "Generate a Reaped Soul"
+   ],
+   "minAuraPeriodMs": null,
+   "carriesDamage": false,
+   "damageMembers": [],
+   "damageUnknownMembers": [],
+   "weakestLinkConfidence": "suspected",
+   "reachableFromBranches": [
+    2
+   ],
+   "danger": "low",
+   "path": [
+    {
+     "from": 500363,
+     "to": 805077,
+     "confidence": "suspected",
+     "effect": 3,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    },
+    {
+     "from": 805077,
+     "to": 805078,
+     "confidence": "suspected",
+     "effect": 3,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    },
+    {
+     "from": 805078,
+     "to": 500363,
+     "confidence": "certain",
+     "effect": 64,
+     "effectAura": 0,
+     "effectAuraPeriodMs": 0
+    }
+   ]
+  }
+ ],
+ "cycleCount": 12
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Deathly Chill",
+  "icon": "nhi_frost_beam_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Deathly Chill</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the channel and cast time of <span style=\"color: #ffffff;\">Ice Barrage</span> by 25%.</span></td></tr></table><!--?805424:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

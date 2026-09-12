@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spellstorm Mastery",
+  "icon": "inv_hand_1h_artifactstormfist_d_01dual",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spellstorm Mastery</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the effectiveness of your <span style=\"color: #ffffff;\">Aegis</span> spells by 30%.</span></td></tr></table><!--?705660:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

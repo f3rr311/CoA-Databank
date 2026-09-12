@@ -1,0 +1,8 @@
+{
+  "name_enus": "Raise: Ghoul",
+  "icon": "ghoul",
+  "tooltip_enus": "<table><tr><td><b>Raise: Ghoul</b><br />28% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Raise a <span style=\"color: #ffffff;\">Ghoul</span> to aid you in combat occupying 1 <span style=\"color: #ffffff;\">Life Force</span>. <br /><br />Its auto attacks restore 5+1.4 Points Per Level+((Int*0.504)+(SP*0.504))*0.07 health to you.<br /><br /><span style=\"color: #90ee90;\">Command</span>: Expels leeching plague that strikes up to 5 nearby enemies, dealing ((Int*0.28+SP*0.28)*0.2+(Int*0.504+SP*0.504)*0.2)+30 Plague damage, and healing you for 15+1.5 Points Per Level+SP*0.22+Int*.50 for each <span style=\"color: #ffffff;\">Ghoul</span>.</span></td></tr></table><!--?500971:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

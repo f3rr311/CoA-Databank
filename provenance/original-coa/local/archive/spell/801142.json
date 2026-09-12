@@ -1,0 +1,8 @@
+{
+  "name_enus": "Guarded by the Moon",
+  "icon": "ability_racial_forceshield",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Guarded by the Moon</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 20 Passive</span><br />Consuming a <span style=\"color: #66ccff;\">Scattered Star</span> increases your chance to block by 1% for 8&nbsp;sec, stacking up to 5 times.</span></td></tr></table><!--?801142:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

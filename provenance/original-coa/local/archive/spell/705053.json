@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ambuscade",
+  "icon": "ability_warrior_throwdown_2",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ambuscade</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Skullpiercer</span> and <span style=\"color: #ffffff;\">Flank</span> by 20%, plus an additional 35% if you have a polearm equipped.</span></td></tr></table><!--?705053:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

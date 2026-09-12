@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ignite Blade",
+  "icon": "spell_fire_flameblades",
+  "tooltip_enus": "<table><tr><td><b>Ignite Blade</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">You ignite your blade with cleansing fire, causing auto attacks to consume 10 Rage to deal 6+3.0 Points Per Level+FireP*0.02285 additional Fire Damage.</span></td></tr></table><!--?802143:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

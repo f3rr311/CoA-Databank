@@ -1,0 +1,58 @@
+[
+ {
+  "issue": "Talent grants nothing",
+  "severity": "Moderate",
+  "category": "Talent",
+  "entities": [
+   63425
+  ],
+  "detail": "Primalist 63425 Tide's Favor",
+  "why": "A talent point that buys no engine-visible effect is a trap choice (\u00a73 \"never worth selecting\").",
+  "fix": "Give it a real aura, or replace it with a themed passive."
+ },
+ {
+  "issue": "Talent far above its tab peers",
+  "severity": "Moderate",
+  "category": "Talent",
+  "entities": [
+   62610,
+   62627,
+   61205,
+   61215,
+   61217,
+   61002,
+   61006,
+   61020,
+   61826,
+   61408,
+   61413,
+   61422,
+   63217,
+   60603,
+   60610,
+   60616,
+   60624,
+   60202,
+   60204,
+   60210,
+   60220,
+   60806,
+   64001,
+   64026,
+   62217,
+   62221,
+   64208,
+   62015,
+   63014,
+   63810,
+   63817,
+   63823,
+   63826,
+   61614,
+   62801
+  ],
+  "detail": "Barbarian 62610 Thane's Guard 140% (median 20%); Barbarian 62627 Ancestral Spirit 200% (median 20%); Bloodmage 61205 Gnash 26% (median 6%); Bloodmage 61215 Dark Blood 50% (median 6%); Bloodmage 61217 Bloodmage 106% (median 6%); Chronomancer 61002 Infinity Crash 50% (median 20%); Chronomancer 61006 Hyperwand 56% (median 20%); Chronomancer 61020 Last Wish 50% (median 20%); Cultist 61826 Eternal Grasp 50% (median 20%); Felsworn 61408 Embracing Evil 40% (median 10%)",
+  "why": ">2x the tab median makes a talent effectively mandatory, which collapses build variety.",
+  "fix": "Bring it toward the median or split the value across ranks."
+ }
+]

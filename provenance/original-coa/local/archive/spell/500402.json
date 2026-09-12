@@ -1,0 +1,8 @@
+{
+  "name_enus": "Geode Barrage",
+  "icon": "ability_rogue_throwingspecialization",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Geode Barrage</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>12% of base mana<br />1.8 sec cast</td></tr></table><table><tr><td><span class=\"q\">Fling three stones at an enemy over 1&nbsp;sec, each dealing 10+0+NatP*.23+AP*.09 Physical Damage and generating Rage.</span></td></tr></table><!--?500402:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Standard of Valiance",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Standard of Valiance</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">A nearby Standard of Valiance is damaging you and slowing your movement speed.</span></td></tr></table><!--?500274:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

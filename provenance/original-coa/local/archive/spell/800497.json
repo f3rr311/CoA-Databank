@@ -1,0 +1,8 @@
+{
+  "name_enus": "Starcall",
+  "icon": "inv_archaeology_70_starlightbeacon",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Starcall</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>11% of base mana<br /><table width=\"100%\"><tr><td>1.5 sec cast</td><th>12&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Blast the target enemy and all enemies near them with lunar fire that deals 70+0+ArcP*0.33 Arcane damage, applying <span style=\"color: #66ccff;\">Scattered Stars</span>.<br /><br />Consuming a <span style=\"color: #66ccff;\">Scattered Star</span> reduces the remaining cooldown by 1.5 sec.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_argus_soulbombdebufflarge.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804378'> Scattered Stars </a> <br />\n                            <span> Can be consumed by spells to deal additional Arcane Damage.<!--sp704797:0--><!--sp704797--> Lasts 30&nbsp;sec, stacking 4 times.</span><br /></span></td></tr></table><!--?800497:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

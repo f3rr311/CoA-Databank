@@ -1,0 +1,8 @@
+{
+  "name_enus": "Twilight Frenzy",
+  "icon": "_diablo3_arrowrain_warlock",
+  "tooltip_enus": "<table><tr><td><b>Twilight Frenzy</b><br />10 Rage, plus 100 per sec<br />Channeled</td></tr></table><table><tr><td>Requires Ranged Weapon<br /><span class=\"q\">Spin around, unable to stop moving for 5&nbsp;sec, firing shots at nearby enemies for 50% Ranged Weapon Damage plus COND(GT(ShaP, HolP), 15+2.0 Points Per Level+ShaP*.2+RAP*.1, 15+2.0 Points Per Level+HolP*.2+RAP*.1) as Twilight Damage.<br /><br />Can dodge and parry while active.</span></td></tr></table><!--?805751:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

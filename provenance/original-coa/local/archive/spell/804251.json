@@ -1,0 +1,8 @@
+{
+  "name_enus": "Guidance: Touch of Light",
+  "icon": "spell_holy_holyguidance",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Guidance: Touch of Light</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>13% of base mana<br /><table width=\"100%\"><tr><td>1 sec cast</td><th>12&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Heals your <span style=\"color: #FFFFFF;\">Guided</span> ally for 63+<UNK: $PPL1>+SP*0.85 and an additional 3+<UNK: $PPL2>+SP*0.12 every 0.5 over 6&nbsp;sec.<br /><br />Only usable on allies with <span style=\"color: #ffffff;\">Solar Guidance</span> active.</span></td></tr></table><!--?804251:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Feats of Honor",
+  "icon": "achievement_pvp_legion03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Feats of Honor</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>17% of base energy<br /><table width=\"100%\"><tr><td>Instant cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increase an ally's Armor by 28 to 39 for <span style=\"color: #feff9e;\">10&nbsp;min</span>, giving them a chance to grant <span style=\"color: #66ccff;\">Motivation</span> to nearby allies when they take damage.<br /><br />Only 1 ally can be affected by Feats of Honor at a time.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_pvp_hardiness.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=803958'> Inspiration </a> <br />\n                            <span> Increases attack power and spell power by 25, scaling with Spirit for 10&nbsp;sec.<br /><br />Does not stack with similar effects.</span><br /></span></td></tr></table><!--?803959:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

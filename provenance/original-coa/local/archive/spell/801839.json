@@ -1,0 +1,8 @@
+{
+  "name_enus": "Aeroblast",
+  "icon": "ability_skyreach_flash_bang",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Aeroblast</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>2 sec cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cc99ff;\">Depletes 50 Static</span><br />Crush an enemy with the weight of the winds, dealing 109+0+NatP*0.635 Nature damage to them and then an additional time for 40% of the damage dealt after 1&nbsp;sec.</span></td></tr></table><!--?801839:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

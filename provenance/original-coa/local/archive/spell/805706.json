@@ -1,0 +1,8 @@
+{
+  "name_enus": "Claws of Hell",
+  "icon": "_deathgrip_fire",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Claws of Hell</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">When you spend at least 4 <span style=\"color: #ff9933;\">Demonfire</span> stacks you now refresh the duration of your <span style=\"color: #FFFFFF;\">Unleash Apocalypse</span> on the target.</span></td></tr></table><!--?805706:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

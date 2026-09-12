@@ -1,0 +1,3649 @@
+{
+ "class": {
+  "id": 25,
+  "name": "Cultist",
+  "slug": "cultist",
+  "color": "#9B30FF"
+ },
+ "specs": [
+  {
+   "id": 64,
+   "name": "Godblade",
+   "tabId": 64
+  },
+  {
+   "id": 65,
+   "name": "Corruption",
+   "tabId": 65
+  },
+  {
+   "id": 66,
+   "name": "Heretic",
+   "tabId": 66
+  },
+  {
+   "id": 88,
+   "name": "Dreadnought",
+   "tabId": 88
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 196,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Cultist (class tree)",
+   "nodeCount": 40,
+   "nodes": [
+    {
+     "id": "25-87-1-0",
+     "name": "Void Shield",
+     "x": 1,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_d3energyarmor",
+     "spellId": 500715,
+     "description": "Shields an ally, absorbing 195 + 60% SP damage for 30 seconds and applying Wracked Mind.Wracked MindCannot be affected by Void Shield. Lasts for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "25-87-4-0",
+     "name": "Corrupt Mind",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_priest_clarityofpower",
+     "spellId": 560109,
+     "description": "Generates 10 InsanityCorrupt the mind of an enemy and spread madness, fearing them in place for 40 seconds (8 sec vs players), bouncing to up to 2 nearby enemies.Damage dealt may end this effect.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "25-87-7-0",
+     "name": "Abyssal Ward",
+     "x": 7,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_priest_shadoworbs",
+     "spellId": 804670,
+     "description": "Coalesce an Abyssal Ward reducing your damage taken by 50% for 10 seconds or 5 attacks. For the duration, each attack received will decrease the value by -10%.Usable while stunned.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "25-87-1-1",
+     "name": "Empire's Blessing",
+     "x": 1,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_antishadow",
+     "spellId": 704895,
+     "description": "Reduces the mana cost of Void Shield by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-1-0"
+     ]
+    },
+    {
+     "id": "25-87-4-1a",
+     "name": "Stare Into The Abyss",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_soulsdevourer_purple",
+     "spellId": 525019,
+     "description": "Removes the cast time of your Corrupt Mind.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-4-0"
+     ]
+    },
+    {
+     "id": "25-87-4-1b",
+     "name": "Eldritch Screams",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "impotent_void_effigy",
+     "spellId": 525049,
+     "description": "Your Corrupt Mind now also applies Mind Rot to nearby enemies.Mind Rot (Trigger)Increases the chance for allies to hit with all spells against the afflicted enemy by 3% for 10 seconds.If this effect is dispelled, your critical strike chance is increased by 30% for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-87-7-1",
+     "name": "Empire Commander",
+     "x": 7,
+     "y": 1,
+     "maxPoints": 3,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_shadowasphyxiation_border",
+     "spellId": 704887,
+     "description": "Increases all primary attributes by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-7-0"
+     ]
+    },
+    {
+     "id": "25-87-0-2",
+     "name": "Shadow Words",
+     "x": 0,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_priest_voidshift",
+     "spellId": 706928,
+     "description": "Increases the effectiveness of your Whispers by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-1-1"
+     ]
+    },
+    {
+     "id": "25-87-3-2",
+     "name": "Mass Nightmare",
+     "x": 3,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_volatileshadow",
+     "spellId": 805114,
+     "description": "Spread nightmares of the black empire to up to 5 nearby enemies, horrifying them for 5 seconds and interrupting non-player spellcasting for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-87-1-1",
+      "25-87-4-1a",
+      "25-87-4-1b"
+     ]
+    },
+    {
+     "id": "25-87-5-2",
+     "name": "Grasp of Zek'voz",
+     "x": 5,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_nazmir_boss_zekvoz",
+     "spellId": 573028,
+     "description": "Hinder an enemies momentum with void chains, slowing their movement speed by -30% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-87-4-1a",
+      "25-87-7-1",
+      "25-87-4-1b"
+     ]
+    },
+    {
+     "id": "25-87-8-2",
+     "name": "Shroud of Pride",
+     "x": 8,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "sha_spell_fire_felfireward",
+     "spellId": 805126,
+     "description": "Your Abyssal Ward now stacks 3 additional times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-7-1"
+     ]
+    },
+    {
+     "id": "25-87-1-3",
+     "name": "Gift of C'Thun",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "creatureportrait_sc_eyeofacherus_02",
+     "spellId": 706189,
+     "description": "Increases your Shadow damage dealt by 4% and healing done by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-3-2",
+      "25-87-0-2"
+     ]
+    },
+    {
+     "id": "25-87-4-3a",
+     "name": "Mind Leak",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_mindrot",
+     "spellId": 300270,
+     "description": "While above 60 Insanity, you gain -5% reduced damage taken.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-3-2",
+      "25-87-5-2"
+     ]
+    },
+    {
+     "id": "25-87-4-3b",
+     "name": "Rapid Incantations",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "uico_shadow_spell_08_nobg_border",
+     "spellId": 301181,
+     "description": "While above 60 Insanity, you gain 5% increased haste.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-87-7-3",
+     "name": "Wicked Thoughts",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_ldaeye",
+     "spellId": 706190,
+     "description": "Increases your maximum mana, your movement speed, and mounted movement speed by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-5-2",
+      "25-87-8-2"
+     ]
+    },
+    {
+     "id": "25-87-1-4",
+     "name": "Hallucination",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_warlock28_border",
+     "spellId": 560301,
+     "description": "Create 3 copies of yourself that run in a random direction for 3 seconds and may briefly trick enemies into ignoring you. Significantly reduces your threat and removes all movement impairing effects from you.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-87-1-3"
+     ]
+    },
+    {
+     "id": "25-87-3-4",
+     "name": "Overwhelming Void",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_faeriefire",
+     "spellId": 707429,
+     "description": "Your Mass Nightmare now triggers a 60 sec reduced cooldown when used at or above 80 Insanity.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-3-2"
+     ]
+    },
+    {
+     "id": "25-87-5-4a",
+     "name": "Dismay",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_assassinskill07_border",
+     "spellId": 704885,
+     "description": "Increases the movement speed slowed by Grasp of Zek'voz by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-5-2"
+     ]
+    },
+    {
+     "id": "25-87-5-4b",
+     "name": "Disdain",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_drowsy",
+     "spellId": 707747,
+     "description": "Removes the cooldown of Grasp of Zek'voz, but increases its mana cost by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-87-7-4",
+     "name": "Embrace the Void",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "overwhelming_void_effigy",
+     "spellId": 582591,
+     "description": "Become one with the void, preventing you from dying for 6 seconds, or until you take damage equal to a maximum of 100% of your total health.When the effect ends you instantly regenerate health equal to 50% of the damage taken while active.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-87-7-3"
+     ]
+    },
+    {
+     "id": "25-87-2-5",
+     "name": "Embodied Presences",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "warlock_houroftwilight",
+     "spellId": 803283,
+     "description": "Increases the chance to trigger your Presences by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-1-4",
+      "25-87-3-4"
+     ]
+    },
+    {
+     "id": "25-87-4-5",
+     "name": "Entropic Singularity",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_void_blackhole_border",
+     "spellId": 800430,
+     "description": "Create a void zone for 5 seconds at target location that slows enemies' movement speed while inside.The slow increases in intensity based on how close to the middle of the zone the enemy is.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-87-5-4a",
+      "25-87-3-4",
+      "25-87-4-3a",
+      "25-87-5-4b",
+      "25-87-4-3b"
+     ]
+    },
+    {
+     "id": "25-87-6-5",
+     "name": "Dark Calling",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_offhand_1h_artifactcthun_d_04",
+     "spellId": 560715,
+     "description": "Taking damage while below 35% health now summons 3 Manifestations of Y'shaarj for 10 sec, which will attack enemies and heal you for 2% of your base health.Can ony occur once every 2 minutes.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-7-4",
+      "25-87-5-4a",
+      "25-87-5-4b"
+     ]
+    },
+    {
+     "id": "25-87-0-6",
+     "name": "Mind Games",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_shadowmend",
+     "spellId": 582589,
+     "description": "Reduces the cooldown of Hallucination by -5 sec and reduces its mana cost by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-1-4"
+     ]
+    },
+    {
+     "id": "25-87-2-6",
+     "name": "Doomsayer",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_boss_heraldofnzoth",
+     "spellId": 704880,
+     "description": "Reduces the mana cost of your Presences by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-2-5"
+     ]
+    },
+    {
+     "id": "25-87-4-6",
+     "name": "Void Hunger",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_priest_surgeofdarkness",
+     "spellId": 524879,
+     "description": "Satiate now also regenerates an additional 1% mana per tick and no longer increases damage taken during the channel.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-4-5",
+      "25-87-6-5",
+      "25-87-2-5"
+     ]
+    },
+    {
+     "id": "25-87-6-6",
+     "name": "Eternal Grasp",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_nzothraid_carapace",
+     "spellId": 704878,
+     "description": "Increases the duration of your Tentacles by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-6-5"
+     ]
+    },
+    {
+     "id": "25-87-8-6",
+     "name": "Improved Sermon of Dread",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_soulleech_3",
+     "spellId": 706177,
+     "description": "Increases the effectiveness of Sermon of Dread by 40%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-7-4"
+     ]
+    },
+    {
+     "id": "25-87-1-7",
+     "name": "Darkward",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_mindsooth",
+     "spellId": 706180,
+     "description": "Increases the effectiveness of your damage absorption effects by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-2-6",
+      "25-87-0-6"
+     ]
+    },
+    {
+     "id": "25-87-3-7",
+     "name": "Devourer",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_eye_03",
+     "spellId": 300265,
+     "description": "Your Devour Magic now dispels 1 additional magic effect.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-2-6",
+      "25-87-4-6"
+     ]
+    },
+    {
+     "id": "25-87-5-7a",
+     "name": "Eldritch Command",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "uico_shadow_spell_02_border",
+     "spellId": 302015,
+     "description": "Casting Gaze of C'thun now has a 30% chance to cause your Tentacles to blast the enemy with eldritch energy, dealing 81 + 22.5% shadow SP + 10% AP Shadow damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-6-6",
+      "25-87-4-6"
+     ]
+    },
+    {
+     "id": "25-87-5-7b",
+     "name": "Eyes of Eternity",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_ascend_eyes_01",
+     "spellId": 706188,
+     "description": "Healing an ally with Gaze of C'Thun now additionally reveals nearby stealthed enemies for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-87-7-7a",
+     "name": "Ungodly Blessing",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_racial_shadowmeld",
+     "spellId": 301241,
+     "description": "Reduces the duration of curse effects on you by -40%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-6-6",
+      "25-87-8-6"
+     ]
+    },
+    {
+     "id": "25-87-7-7b",
+     "name": "Void-Enchanted Armor",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "pure_void_metal",
+     "spellId": 804633,
+     "description": "Increases your chance to resist dispel effects by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-87-2-8",
+     "name": "Crystalline Reflection",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_prayerofshadowprotection",
+     "spellId": 525060,
+     "description": "Increases the chance for Void Shield to resist dispel effects on allies by -50% and it now also reflects 50% of the damage absorbed.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-1-7",
+      "25-87-3-7"
+     ]
+    },
+    {
+     "id": "25-87-4-8",
+     "name": "Black Prayer",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "forbidding_void_dust",
+     "spellId": 805110,
+     "description": "All direct damage dealt now has a 5% chance to unleash a Black Prayer on all enemies near the target for 9 seconds.Black PrayerDeals 136 + 12% shadow SP + 0.5% AP Shadow Damage every 3 sec and reduces attack speed by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-5-7a",
+      "25-87-3-7",
+      "25-87-5-7b"
+     ]
+    },
+    {
+     "id": "25-87-6-8",
+     "name": "Twisted Seal",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_peacockmount_dark",
+     "spellId": 525065,
+     "description": "Create a warped sigil that bends hostile force away from you, deflecting all spells for 5 seconds, but making you unable to attack or cast spells.Casters whose magic is deflected are silenced for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-87-7-7a",
+      "25-87-5-7a",
+      "25-87-7-7b",
+      "25-87-5-7b"
+     ]
+    },
+    {
+     "id": "25-87-2-9",
+     "name": "Split Mind",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_soulbarrier",
+     "spellId": 572064,
+     "description": "Void Shield now applies to an additional nearby ally but its duration is reduced by -30%.Killing an opponent that yields experience or honor removes Wracked Mind from you.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-2-8",
+      "25-87-4-8"
+     ]
+    },
+    {
+     "id": "25-87-4-9",
+     "name": "Vision of Doom",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_fire_twilightcano",
+     "spellId": 520388,
+     "description": "Behold a vision of doom, causing direct damage or healing done to apply Vision of Doom to nearby targets for 3 seconds. Can only occur once every 3 sec.At the end of the duration, they are damaged or healed for 100% of the damage or healing that doomed them. Lasts for 1 minute or 5 instances of damage or healing.Doomed enemies are unable to be healed and the damage or healing done by this effect can critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-87-4-8"
+     ]
+    },
+    {
+     "id": "25-87-6-9",
+     "name": "Lost in the Void",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_arcanemask_border",
+     "spellId": 704881,
+     "description": "Increases the duration of Embrace the Void by 4 sec and it now heals you for an additional 50% of the damage taken while active and its cooldown is reduced by -60 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-87-6-8",
+      "25-87-4-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 64,
+   "name": "Godblade",
+   "nodeCount": 37,
+   "nodes": [
+    {
+     "id": "25-64-4-0",
+     "name": "Rift",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "inv_chest_armor_voidelf_d_01",
+     "spellId": 806250,
+     "description": "Apply a dark boon to yourself for 15 seconds, causing your next Hammer of Twilight to deal an additional 80% of its damage dealt as Shadow damage.Creates a rift that absorbs the next 690 + 150% AP healing taken by enemies that step inside and reduces their periodic healing received by -50% for 10 seconds while inside.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "25-64-10-0",
+     "name": "Obliteration",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "nzothicon",
+     "spellId": 92129,
+     "description": "Level 10 PassiveYour Gaze of C'Thun now gains an additional 15 base damage and healing.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 1
+    },
+    {
+     "id": "25-64-4-1",
+     "name": "Hand of N'Zoth",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "spell_shadow_chilltouch",
+     "spellId": 704869,
+     "description": "Your Hammer of Twilight, Entropic Slam, and Gaze of C'Thun now refreshes a charge of Blade of the Empire.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-4-0"
+     ]
+    },
+    {
+     "id": "25-64-2-2",
+     "name": "Voidforged Edge",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "inv_sword_02",
+     "spellId": 704871,
+     "description": "Your auto attacks now deal an additional 10% of the damage dealt as Shadow damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-4-1"
+     ]
+    },
+    {
+     "id": "25-64-6-2",
+     "name": "Abyssal Edge",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "inv_sword_1h_draenei_c_03",
+     "spellId": 582836,
+     "description": "Increases the critical strike chance of Blade of the Empire by 2% and reduces its mana cost by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-4-1"
+     ]
+    },
+    {
+     "id": "25-64-10-2",
+     "name": "Shadow of the Void",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "5_shadowswords_border",
+     "spellId": 574318,
+     "description": "Level 20 PassiveWhile above 40 Insanity, melee attacks and abilities trigger Shadow of the Void.Shadow of the VoidRestores 5% of your maximum mana and increases your Shadow Damage dealt by 10% for 8 seconds.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "25-64-10-0"
+     ]
+    },
+    {
+     "id": "25-64-2-3",
+     "name": "Shadow Strikes",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "nhi_void_conquer_border",
+     "spellId": 707640,
+     "description": "Blade of the Empire now has a 30% chance to cause your next auto attack to hit twice.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-2-2"
+     ]
+    },
+    {
+     "id": "25-64-4-3",
+     "name": "Netherstrike",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "nhi_arcanearrow_border",
+     "spellId": 806222,
+     "description": "Generates 10 InsanityStrike an enemy quickly for 125% Weapon Damage plus 48 Shadow damage, purging 1 beneficial magic effect from them.Only usable on enemies below 35% health.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-64-2-2",
+      "25-64-6-2"
+     ]
+    },
+    {
+     "id": "25-64-6-3",
+     "name": "Warrior of the Old Gods",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "nhi_shadowasphyxiation_border",
+     "spellId": 802047,
+     "description": "Increases the Weapon Damage dealt by Hammer of Twilight and Entropic Slam by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-6-2"
+     ]
+    },
+    {
+     "id": "25-64-1-4",
+     "name": "Residual Energy",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "ability_rogue_nightblade",
+     "spellId": 681389,
+     "description": "Doubles the duration of Shadow of the Void.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-2-3"
+     ]
+    },
+    {
+     "id": "25-64-3-4",
+     "name": "Hysterical Momentum",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "spell_nzinsanity_shortsighted",
+     "spellId": 300275,
+     "description": "Damage dealt by Blade of the Empire increases your melee haste by 3% for 8 seconds, stacking 3 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-2-3"
+     ]
+    },
+    {
+     "id": "25-64-4-4",
+     "name": "Voidseeker",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "inv_helm_cloth_eyeballhat_b_01",
+     "spellId": 560320,
+     "description": "Melee attacks now have a 10% chance to reset the cooldown of your Netherstrike, allowing the next use regardless of the target's health for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-4-3"
+     ]
+    },
+    {
+     "id": "25-64-5-4",
+     "name": "Touch of the Void",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "nhi_void_blackhole_border",
+     "spellId": 680508,
+     "description": "Increases your Magic damage dealt by 3% and Hammer of Twilight now increases the target's spell damage taken by 10% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-6-3"
+     ]
+    },
+    {
+     "id": "25-64-7-4",
+     "name": "Encroaching Presence",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "nhi_shadowwatcher_border",
+     "spellId": 300280,
+     "description": "Your melee critical strikes reduce the cooldown of Rift and Gaze of C'Thun by -3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-6-3"
+     ]
+    },
+    {
+     "id": "25-64-10-4",
+     "name": "Twilight's Call",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "inv_hand_1h_shaclaw",
+     "spellId": 301180,
+     "description": "Level 30 PassiveCritical strikes with Hammer of Twilight now refund 20 Insanity.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "25-64-10-2"
+     ]
+    },
+    {
+     "id": "25-64-1-5",
+     "name": "Teachings of Mythrax",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "achievement_nazmir_boss_mythraxtheunraveler",
+     "spellId": 561035,
+     "description": "Increases the duration of Presence of N'Zoth and Presence of Y'Shaarj by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-1-4",
+      "25-64-3-4"
+     ]
+    },
+    {
+     "id": "25-64-4-5",
+     "name": "Empire's Grasp",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "ability_demonhunter_darkness",
+     "spellId": 500704,
+     "description": "Teleport an enemy to your position and slow their movement speed by -60% for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-64-3-4",
+      "25-64-4-4",
+      "25-64-5-4"
+     ]
+    },
+    {
+     "id": "25-64-7-5",
+     "name": "God Blade",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "inv_weapon_shortblade_60",
+     "spellId": 680377,
+     "description": "Your Rift now guarantees your next Hammer of Twilight to critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-5-4",
+      "25-64-7-4"
+     ]
+    },
+    {
+     "id": "25-64-0-6",
+     "name": "Abyssal Cleave",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "custom_t_shadowstab_border",
+     "spellId": 707604,
+     "description": "Your Gaze of C'Thun now strikes 1 additional nearby enemy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-1-5"
+     ]
+    },
+    {
+     "id": "25-64-2-6",
+     "name": "Tentacle of N'Zoth",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "spell_priest_voidtendrils",
+     "spellId": 572103,
+     "description": "Target an enemy and summon a Tentacle of N'Zoth on the ground near them that will silence them and deal 117 + 75% SP Shadow damage every 2 sec for 8 seconds. If your target runs out of range, the tentacle will seek a new target.The tentacle gains health based on your Stamina. If the tentacle dies, the silence effect will end.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-64-4-5",
+      "25-64-1-5"
+     ]
+    },
+    {
+     "id": "25-64-4-6",
+     "name": "Seething Void",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "spell_fire_twilighthellfire",
+     "spellId": 524804,
+     "description": "Reduces the cooldown of Empire's Grasp by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-4-5"
+     ]
+    },
+    {
+     "id": "25-64-6-6",
+     "name": "End Times",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "custom_167_border",
+     "spellId": 805115,
+     "description": "Increases the range of Blade of the Empire, Netherstrike, and Hammer of Twilight by 25 yds and reduces their mana costs by -50% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-64-4-5",
+      "25-64-7-5"
+     ]
+    },
+    {
+     "id": "25-64-8-6",
+     "name": "Oblivion's Embrace",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "spell_nzinsanity_chasedbyshadows",
+     "spellId": 680500,
+     "description": "Increases the critical damage of your Hammer of Twilight by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-7-5"
+     ]
+    },
+    {
+     "id": "25-64-10-6",
+     "name": "Void Strength",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "achievement_nzothraid_nzoth",
+     "spellId": 805121,
+     "description": "Level 40 PassiveIncreases your Shadow spell damage by 50% of your Strength and your spell hit chance by 5% of your Strength.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "25-64-10-4"
+     ]
+    },
+    {
+     "id": "25-64-1-7",
+     "name": "Eye of N'zoth",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "inv_eyeofnzothpet",
+     "spellId": 802728,
+     "description": "Increases the critical strike chance and critical damage of your Tentacles by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-2-6",
+      "25-64-0-6"
+     ]
+    },
+    {
+     "id": "25-64-3-7a",
+     "name": "Netherborne",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "spell_shadow_summonvoidwalker",
+     "spellId": 801539,
+     "description": "Increases the critical damage of Netherstrike by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-4-6",
+      "25-64-2-6"
+     ]
+    },
+    {
+     "id": "25-64-3-7b",
+     "name": "Who Needs Sanity?",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "achievement_zone_netherstorm_01",
+     "spellId": 681106,
+     "description": "Each stack of Insanity increases the critical damage of your Netherstrike by 1%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-64-5-7",
+     "name": "Instilling Fear",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "spell_shadow_shadetruesight",
+     "spellId": 527268,
+     "description": "While above 60 Insanity, your Netherstrike and Gaze of C'Thun now gain 10% increased critical strike chance.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-4-6",
+      "25-64-6-6"
+     ]
+    },
+    {
+     "id": "25-64-7-7a",
+     "name": "Void Rage",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "ability_hunter_pet_netherray",
+     "spellId": 681102,
+     "description": "Increases the Shadow damage increased through Shadow of the Void by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-6-6",
+      "25-64-8-6"
+     ]
+    },
+    {
+     "id": "25-64-7-7b",
+     "name": "Glory to N'Zoth",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "potent_void_effigy",
+     "spellId": 681326,
+     "description": "While Shadow of the Void is active, you now take -15% reduced damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-64-2-8",
+     "name": "Eldritch Obelisk",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "achievement_nzothraid_nyalothaguildrun",
+     "spellId": 560321,
+     "description": "Create an Eldritch Obelisk beneath you for 20 seconds, increasing the damage of your Tentacles by 100% and the movement speed of allies by 40% while near it.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-64-3-7a",
+      "25-64-1-7",
+      "25-64-3-7b"
+     ]
+    },
+    {
+     "id": "25-64-4-8",
+     "name": "Nutcase",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "inv_dhmurloc_purple",
+     "spellId": 805117,
+     "description": "Your Shadow of the Void now also increases your critical damage dealt by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-3-7a",
+      "25-64-5-7",
+      "25-64-3-7b"
+     ]
+    },
+    {
+     "id": "25-64-6-8",
+     "name": "Voidborne",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "nhi_void_wraith_border",
+     "spellId": 681104,
+     "description": "Tap into your inner voidborne rage, increasing your damage dealt and critical strike chance by 25%, and granting you immunity to stun effects for 15 seconds.Generates 1 Insanity every 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-64-7-7a",
+      "25-64-5-7",
+      "25-64-7-7b"
+     ]
+    },
+    {
+     "id": "25-64-10-8",
+     "name": "Blessing of N'Zoth",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "inv_nzothfish_void",
+     "spellId": 681107,
+     "description": "Level 50 PassiveIncreases your attack power by 100% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "25-64-10-6"
+     ]
+    },
+    {
+     "id": "25-64-2-9",
+     "name": "Twilight Domination",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "ability_mount_voidelfstridermount",
+     "spellId": 520405,
+     "description": "Damage dealt by your Tentacles reduces the cooldown of Eldritch Obelisk by -2 sec.In addition, increases the effectiveness of Eldritch Obelisk by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-2-8"
+     ]
+    },
+    {
+     "id": "25-64-4-9",
+     "name": "Book of N'Zoth",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "_book2_purple",
+     "spellId": 806768,
+     "description": "Your Shadow of the Void now stacks 1 additional time.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-4-8"
+     ]
+    },
+    {
+     "id": "25-64-6-9",
+     "name": "Shadow Fiend",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 64,
+     "icon": "inv_stormdragonvoidmount",
+     "spellId": 680487,
+     "description": "Reduces the cooldown of your Voidborne by -90 sec and increases its duration by 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-64-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 65,
+   "name": "Corruption",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "25-65-4-0",
+     "name": "Darkwither",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_shadow_unstableaffliction_3_purple",
+     "spellId": 800446,
+     "description": "Generates 10 InsanityWither an enemy, dealing 135 Shadow damage over 15 seconds. Each instance of damage reduces their periodic healing taken by -5%, stacking up to 4 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "25-65-10-0",
+     "name": "Corrupting Whispers",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "cthunicon",
+     "spellId": 92130,
+     "description": "Damage dealt has a 15% chance to grant you Corrupting Whispers.Corrupting Whispers (Aura)Increases your Magic Damage dealt by 20% and reduces your mana costs by -30% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 10
+    },
+    {
+     "id": "25-65-2-1",
+     "name": "Absolute Horror",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "inv_misc_volatileshadow",
+     "spellId": 300309,
+     "description": "Reduces the cast time of Horrorbolt and Wrath of the Black Empire by 0.3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-4-0"
+     ]
+    },
+    {
+     "id": "25-65-6-1",
+     "name": "Feeding Darkness",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_shadow_mindtwisting",
+     "spellId": 300302,
+     "description": "Increases the range of your Corruption spells by 3 yds and their chance to critically strike by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-4-0"
+     ]
+    },
+    {
+     "id": "25-65-1-2",
+     "name": "Moment of Clarity",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "ability_racial_shadowmeld",
+     "spellId": 706179,
+     "description": "Reduces spell pushback suffered from damaging attacks by 35% and increases mana generated by Sanity Tap by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-2-1"
+     ]
+    },
+    {
+     "id": "25-65-4-2a",
+     "name": "Call of C'Thun",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "inv_knife_1h_artifactcthun_d_02",
+     "spellId": 301317,
+     "description": "Your Darkwither's healing reduction now stacks 3 additional times and its tick rate is increased by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-6-1",
+      "25-65-2-1"
+     ]
+    },
+    {
+     "id": "25-65-4-2b",
+     "name": "Call of N'Zoth",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "inv_wand_1h_nzothraid_d_01",
+     "spellId": 300306,
+     "description": "Increases the duration of Darkwither by 9 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-65-7-2",
+     "name": "Servant of C'Thun",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_shadow_gathershadows",
+     "spellId": 300296,
+     "description": "Casting Gaze of C'thun now always triggers your Presence of C'Thun while it is active.Presence of C&#39;Thun (Buff)Increases your haste by 20% for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-6-1"
+     ]
+    },
+    {
+     "id": "25-65-10-2",
+     "name": "Dark Magician",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_priest_void_flay",
+     "spellId": 563123,
+     "description": "Level 20 PassiveIncreases your critical damage dealt by 50% and your spell power by 30% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "25-65-10-0"
+     ]
+    },
+    {
+     "id": "25-65-2-3",
+     "name": "Eldritch Devastation",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "inv_artifact_powerofthedarkside",
+     "spellId": 802727,
+     "description": "Channel upon an enemy, chaining to nearby enemies, dealing 60 + 132% shadow SP Shadow damage over 6 seconds, dealing less damage with each enemy struck.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-65-1-2",
+      "25-65-4-2a",
+      "25-65-4-2b"
+     ]
+    },
+    {
+     "id": "25-65-6-3",
+     "name": "Obliteration Beam",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "nhi_shadoweye_border",
+     "spellId": 805572,
+     "description": "Generates 10 InsanityUnleash a beam of eldritch energy, dealing 126 + 65% shadow SP Shadow damage to an enemy and all nearby enemies.While above 60 Insanity, deals 20% more damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-65-4-2a",
+      "25-65-7-2",
+      "25-65-4-2b"
+     ]
+    },
+    {
+     "id": "25-65-1-4a",
+     "name": "Unrelenting Void",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "ability_bossgorefiend_touchofdoom",
+     "spellId": 704527,
+     "description": "Periodic or channeled damage now increases the damage the enemy takes from you by 2% for 10 seconds, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-1-2",
+      "25-65-2-3"
+     ]
+    },
+    {
+     "id": "25-65-1-4b",
+     "name": "Mind Rot",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_shadow_mindshear",
+     "spellId": 300300,
+     "description": "Periodic or channeled damage dealt now has a 25% chance to curse your target, applying Mind Rot.Mind Rot (Trigger)Increases the chance for allies to hit with all spells against the afflicted enemy by 3% for 10 seconds.If this effect is dispelled, your critical strike chance is increased by 30% for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-65-4-4",
+     "name": "Cunning Nature",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "nhi_shadowwatcher_border",
+     "spellId": 706915,
+     "description": "Increases your chance to hit by 3% and reduces threat generated by Shadow damage spells by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-4-2a",
+      "25-65-4-2b"
+     ]
+    },
+    {
+     "id": "25-65-7-4",
+     "name": "Dark Revelation",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_shadow_summonvoidwalker",
+     "spellId": 706245,
+     "description": "Grants your Horrorbolt and Wrath of the Black Empire a 20% chance to reset the cooldown of Gaze of C'thun.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-6-3",
+      "25-65-7-2"
+     ]
+    },
+    {
+     "id": "25-65-10-4",
+     "name": "Whispers of C'Thun",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "_scrollofspeed_purple",
+     "spellId": 807512,
+     "description": "Level 30 PassiveYour Gaze of C'Thun now generates 10 Insanity.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "25-65-10-2"
+     ]
+    },
+    {
+     "id": "25-65-0-5",
+     "name": "Corruptor's Gaze",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "inv_eyeofnzothpet",
+     "spellId": 802048,
+     "description": "Increases the damage of your Tentacles by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-1-4a",
+      "25-65-1-4b"
+     ]
+    },
+    {
+     "id": "25-65-2-5",
+     "name": "Dread",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_shadow_burningspirit",
+     "spellId": 301315,
+     "description": "Increases the damage of Darkwither by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-1-4a",
+      "25-65-2-3",
+      "25-65-1-4b"
+     ]
+    },
+    {
+     "id": "25-65-4-5",
+     "name": "Visions",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "nhi_void_whirl_border",
+     "spellId": 560526,
+     "description": "Increases the spell haste of all party and raid members by 3%. Does not stack with similar effects.In addition, your Shadow damage is increased by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-4-4"
+     ]
+    },
+    {
+     "id": "25-65-6-5",
+     "name": "Worrysome Idol",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "novart_magicspell_(88)_border",
+     "spellId": 706917,
+     "description": "Increases your spell haste by 4% and causes you to regenerate mana equal to 1% of your missing mana every 10 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-6-3",
+      "25-65-7-4"
+     ]
+    },
+    {
+     "id": "25-65-8-5",
+     "name": "Horrific Visions",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_shadow_unholyfrenzy",
+     "spellId": 707753,
+     "description": "While above 40 Insanity, your chance to trigger Dark Revelation is now increased by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-7-4"
+     ]
+    },
+    {
+     "id": "25-65-0-6",
+     "name": "Foulness",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "novart_magicspell_(85)_border",
+     "spellId": 706921,
+     "description": "Increases the damage bonus provided by your Corrupting Whispers by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-0-5",
+      "25-65-2-5"
+     ]
+    },
+    {
+     "id": "25-65-2-6",
+     "name": "Terror",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "ability_warlock_howlofterror",
+     "spellId": 300304,
+     "description": "Increases the spell damage bonus of Horrorbolt by 10% and Wrath of the Empire by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-2-5"
+     ]
+    },
+    {
+     "id": "25-65-4-6",
+     "name": "Psychic Suppression",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_priest_voidsear",
+     "spellId": 800432,
+     "description": "Lift an enemy into the air, stunning them and dealing 30 + 55% shadow SP + 10% AP Shadow damage every 1 sec for 5 seconds. The target takes 15% more spell damage from all sources while you are channeling this spell.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-65-4-5",
+      "25-65-2-5",
+      "25-65-6-5"
+     ]
+    },
+    {
+     "id": "25-65-6-6",
+     "name": "Inner Turmoil",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "nhi_shadowchains_border",
+     "spellId": 706722,
+     "description": "Increases the damage of Wrath of the Black Empire by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-6-5"
+     ]
+    },
+    {
+     "id": "25-65-8-6",
+     "name": "Glimpse of Madness",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "ability_hunter_mastertactitian",
+     "spellId": 500719,
+     "description": "Reduces the cooldown of Obliteration Beam by -20% and it now applies Madness to all targets struck. MadnessYour Gaze of C'thun causes 3% increased damage, stacks up to 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-8-5",
+      "25-65-6-5"
+     ]
+    },
+    {
+     "id": "25-65-10-6",
+     "name": "Dark Revelation",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_nzinsanity_desynchronized",
+     "spellId": 300313,
+     "description": "Level 40 PassiveGrants all periodic damage and damage dealt a 6% chance to reset the cooldown of Gaze of C'Thun and generate 5 Insanity.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "25-65-10-4"
+     ]
+    },
+    {
+     "id": "25-65-1-7",
+     "name": "Yawning Decay",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_priest_void_blast",
+     "spellId": 706909,
+     "description": "Every 3rd Horrorbolt cast causes your next successful Horrorbolt to deal an additional 50% of the initial damage to the target over 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-0-6",
+      "25-65-2-6"
+     ]
+    },
+    {
+     "id": "25-65-2-7",
+     "name": "Embrace the Void",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_shadow_painandsuffering",
+     "spellId": 300307,
+     "description": "Reaching 60 Insanity increases your damage dealt by 10% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-2-6"
+     ]
+    },
+    {
+     "id": "25-65-4-7",
+     "name": "Misery",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "achievement_dungeon_lordstormsong",
+     "spellId": 300298,
+     "description": "Casting Gaze of C'Thun now reduces the cooldown of Psychic Suppression and Grasp of Zek'voz by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-4-6"
+     ]
+    },
+    {
+     "id": "25-65-6-7",
+     "name": "Occultism",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "inv_ascend_book_b_03",
+     "spellId": 300305,
+     "description": "Increases the critical strike chance of Wrath of the Black Empire by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-6-6"
+     ]
+    },
+    {
+     "id": "25-65-7-7",
+     "name": "Depths of Madness",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "_soulharvest2__purple",
+     "spellId": 706911,
+     "description": "Damage dealt by Gaze of C'Thun now has a 15% to chance to spawn a void portal that casts either Gaze of C'thun, Horrorbolt, or Obliteration Beam before disappearing.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-8-6",
+      "25-65-6-6"
+     ]
+    },
+    {
+     "id": "25-65-2-8",
+     "name": "Dark Whispers",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "custom_t_nhance_rpg_icons_shadowsrising_border",
+     "spellId": 560977,
+     "description": "Casting Horrorbolt now grants Inspired Malice for 12 seconds.Inspired MaliceYour next Gaze of C'thun, Darkwither or Wrath of the Black Empire will be empowered.Gaze of C'thun: Critical strike chance increased by 20%.Darkwither: Shadow damage dealt increased by 5% and damage of Darkwither by an additional 15% for 10 seconds.Wrath of the Black Empire: Deals 25% increased damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-1-7",
+      "25-65-2-7"
+     ]
+    },
+    {
+     "id": "25-65-4-8",
+     "name": "Abyssal Destruction",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_priest_shadow_mend",
+     "spellId": 300308,
+     "description": "Periodic or channeled damage dealt now reduces the cooldown of your Obliteration Beam by -1 sec and grants 1 stack of Abyssal Destruction.Abyssal DestructionIncreases the damage dealt of your next Obliteration Beam by 5%, stacking 10 times, for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-2-7",
+      "25-65-6-7",
+      "25-65-4-7"
+     ]
+    },
+    {
+     "id": "25-65-6-8",
+     "name": "Apocalyptic Skies",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "nhi_void_conquer_border",
+     "spellId": 301200,
+     "description": "Casting Wrath of the Black Empire now spawns a void portal that casts either Gaze of C'thun, Horrorbolt, or Obliteration Beam before disappearing.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-6-7",
+      "25-65-7-7"
+     ]
+    },
+    {
+     "id": "25-65-10-8",
+     "name": "Blessing of C'Thun",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "inv_inscription_talenttome01",
+     "spellId": 301255,
+     "description": "Level 50 PassiveYour Darkwither can now critically strike and your spell hit rating is increased by 5% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "25-65-10-6"
+     ]
+    },
+    {
+     "id": "25-65-2-9",
+     "name": "Horrorbolt Volley",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "5_normal20shadowrain_border",
+     "spellId": 704892,
+     "description": "After casting 3 Horrorbolts, it transforms into Horrorbolt Volley for 15 seconds.Horrorbolt VolleyGenerates 10 InsanityInflict sheer horror on up to 5 enemies, dealing 607 + 28% shadow SP Shadow damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-2-8"
+     ]
+    },
+    {
+     "id": "25-65-4-9",
+     "name": "Ancient Curse",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "void_hided_limb",
+     "spellId": 500712,
+     "description": "Generates 20 InsanityCurse an enemy, dealing 326 + 100% SP Shadow damage and increasing all Shadow damage they take from you by 10% for 10 seconds.Upon expiration, it deals an additional 1233 + 100% shadow SP Shadow damage to the target.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-65-6-8",
+      "25-65-4-8",
+      "25-65-2-8"
+     ]
+    },
+    {
+     "id": "25-65-6-9",
+     "name": "Sunderer of Realities",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 65,
+     "icon": "spell_shadow_shadetruesight",
+     "spellId": 301068,
+     "description": "Casting Wrath of the Black Empire now causes your subsequent Wraths of the Black Empire, within 15 seconds, to deal 15% more damage each and unleash Apocalyptic Skies upon the enemy.Apocalyptic SkiesSpawns a void portal that casts either Gaze of C'thun, Horrorbolt, or Obliteration Beam before disappearing.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-65-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 66,
+   "name": "Heretic",
+   "nodeCount": 42,
+   "nodes": [
+    {
+     "id": "25-66-4-0",
+     "name": "Malevolence",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_mace_1h_orgrimmarraid_d_03",
+     "spellId": 500714,
+     "description": "Generates 10 InsanitySmash an enemy with eldritch force, dealing 40 + 10% AP + 52% SP Shadow damage and applying Black Blood to 5 nearby allies, healing them for 25 + 10% AP, repeating every 3 sec for 15 seconds.Usable while moving.Additional applications of Black Blood do not refresh the duration.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "25-66-10-0",
+     "name": "Herald of the Depths",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "yogg-saronicon",
+     "spellId": 92131,
+     "description": "Level 10 PassiveReaching 100 Insanity no longer causes Total Madness.Teaches you Herald of the Depths.Herald of the DepthsTransform into a Herald of the Depths for 20 seconds, increasing damage and healing done by 15% and the duration of absorption and healing over time effects by 100%.At the end of the duration, your Insanity is reduced to 0.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-66-2-1",
+     "name": "Blade of Yogg-Saron",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_weapon_shortblade_52",
+     "spellId": 524887,
+     "description": "Damage dealt by Blade of the Empire now heals the lowest health ally for 35% of the damage dealt plus 198 + 20% healing + 5% AP.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-4-0"
+     ]
+    },
+    {
+     "id": "25-66-6-1",
+     "name": "Shadow Pennant",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "mocking_banner",
+     "spellId": 706926,
+     "description": "You now heal the lowest health ally affected by Black Blood for 50% of your auto attack damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-4-0"
+     ]
+    },
+    {
+     "id": "25-66-2-2",
+     "name": "Malevolent Power",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_sword_2h_artifactashbringershadow_d_03",
+     "spellId": 301183,
+     "description": "Every 3rd melee ability you cast now causes your next Eldritch Mending to become instant cast and cost -20% less mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-2-1"
+     ]
+    },
+    {
+     "id": "25-66-4-2",
+     "name": "Abyssal Covenant",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_helm_cloth_eyeballhat_b_01",
+     "spellId": 500751,
+     "description": "Link yourself to an ally for 30 minutes, transfering 10% of all damage taken by them to you and causing 20% of all damage you deal to be converted into healing for them.Can only be applied to 1 ally at a time.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-66-6-1",
+      "25-66-2-1"
+     ]
+    },
+    {
+     "id": "25-66-6-2",
+     "name": "Twisted Sanity",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "spell_priest_void_flay",
+     "spellId": 706187,
+     "description": "Allies affected by your Black Blood are now healed for 30% of the damage dealt by your Tentacles.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-6-1"
+     ]
+    },
+    {
+     "id": "25-66-10-2",
+     "name": "Shadow Training",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "achievement_dungeon_aqusirr",
+     "spellId": 805607,
+     "description": "Level 20 PassiveIncreases the healing done by Eldritch Mending by 50% and Gaze of C'Thun by 100%.In addition, you are now unable to miss your attacks and you cannot be parried or dodged.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "25-66-10-0"
+     ]
+    },
+    {
+     "id": "25-66-2-3",
+     "name": "Eldritch Eye",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_eyeofnzothpet",
+     "spellId": 802049,
+     "description": "Invoke the Old Gods for 15 seconds, removing the cast time of your next 3 Eldritch Mendings or Malevolences and causing them to critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-66-2-2"
+     ]
+    },
+    {
+     "id": "25-66-4-3a",
+     "name": "Dark Protection",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "spell_shadow_sealofkings",
+     "spellId": 704897,
+     "description": "Allies affected by Abyssal Covenant now also take 20% increased healing from you.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-4-2"
+     ]
+    },
+    {
+     "id": "25-66-4-3b",
+     "name": "Lead the Covenant",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_shoulder_cloth_nzothraidmythic_d_01",
+     "spellId": 704884,
+     "description": "50% of all healing done to allies through Abyssal Covenant is now replicated to you.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-66-6-3",
+     "name": "Forbidden Ritual",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_nullstone_shadow",
+     "spellId": 800105,
+     "description": "Chant a forbidden ritual that places a shield on all nearby party and raid members that absorbs 225 + 50% healing damage for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-66-6-2"
+     ]
+    },
+    {
+     "id": "25-66-1-4",
+     "name": "Saronite Mind",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "ability_priest_psychiclink",
+     "spellId": 806266,
+     "description": "Your Eldritch Eye now has 1 additional charge.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-2-3"
+     ]
+    },
+    {
+     "id": "25-66-4-4",
+     "name": "As The Prophecy Foretold",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_inscription_scroll_fortitude",
+     "spellId": 504642,
+     "description": "Melee critical strikes now refresh a charge of Blade of the Empire and restore 5% of your base mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-4-3a",
+      "25-66-2-3",
+      "25-66-6-3",
+      "25-66-4-3b"
+     ]
+    },
+    {
+     "id": "25-66-7-4",
+     "name": "Prophetic Compulsion",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "achievement_leader_prophet_velen",
+     "spellId": 300264,
+     "description": "While Black Blood is active on an ally, healing done to them by your Gaze of C'Thun has a 15% increased chance to critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-6-3"
+     ]
+    },
+    {
+     "id": "25-66-10-4",
+     "name": "Void-Touched",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "ability_deathknight_aoedeathgrip",
+     "spellId": 300286,
+     "description": "Level 30 PassiveDirect healing done now applies Void-Touched.Void-Touched (Stacks)Marks the ally for 30 seconds, stacking 10 times.When you cast Gaze of C'Thun, all stacks are consumed to heal all allies affected by Void-Touched for 304 + 35% healing, increased based on how many stacks were on them.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "25-66-10-2"
+     ]
+    },
+    {
+     "id": "25-66-0-5a",
+     "name": "Protection From Light",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "spell_fire_twilightimmolation",
+     "spellId": 704434,
+     "description": "Reduces all damage taken by party and raid members by -3%.In addition, your Holy damage taken is reduced by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-1-4"
+     ]
+    },
+    {
+     "id": "25-66-0-5b",
+     "name": "Dark Rites",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_enchant_voidcrystal",
+     "spellId": 300290,
+     "description": "While Herald of the Depths is active, your movement speed cannot be reduced below 100% of normal value.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-66-2-5",
+     "name": "Dark Matter",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "spell_arcane_prismaticcloak",
+     "spellId": 806382,
+     "description": "Channeling Satiate now heals all allies within 30 yds for 208 + 20% healing every 1 sec for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-1-4"
+     ]
+    },
+    {
+     "id": "25-66-3-5",
+     "name": "Persistent Prayers",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "custom_t_nhance_rpg_icons_shadowwatcher_border",
+     "spellId": 302072,
+     "description": "Increases the duration and absorption amount of Void Shield and Forbidden Ritual by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-4-4"
+     ]
+    },
+    {
+     "id": "25-66-5-5",
+     "name": "Yogg-Saron's Embrace",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "spell_shadow_summonvoidwalker",
+     "spellId": 301984,
+     "description": "Increases your attack power and your maximum mana by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-4-4"
+     ]
+    },
+    {
+     "id": "25-66-6-5a",
+     "name": "Forbidden Resilience",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_helm_armor_voidelf_d_01",
+     "spellId": 300287,
+     "description": "While Herald of the Depths is active, you now take -15% less damage and have a 25% increased chance to resist dispel effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-7-4"
+     ]
+    },
+    {
+     "id": "25-66-6-5b",
+     "name": "Forbidden Strength",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "nhi_void_stab_border",
+     "spellId": 301258,
+     "description": "While Herald of the Depths is active, the critical strike chance of Blade of the Empire is increased by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-66-8-5",
+     "name": "Blade of the Depths",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "custom_t_orbofshadow_border",
+     "spellId": 300753,
+     "description": "While Herald of the Depths is active, your Forbidden Ritual will cooldown faster.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-7-4"
+     ]
+    },
+    {
+     "id": "25-66-1-6",
+     "name": "Dark Infusion",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "spell_mage_thermalvoid",
+     "spellId": 500721,
+     "description": "3 Charges, 30 sec rechargeInfuse an ally with dark energy, healing them for 44 the next time they take damage. When the heal occurs, Dark Infusion is consumed and expands to the two lowest-health nearby party or raid members. Each secondary infusion heals when triggered, then expands to three nearby allies.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-66-2-5",
+      "25-66-0-5a",
+      "25-66-0-5b"
+     ]
+    },
+    {
+     "id": "25-66-4-6",
+     "name": "Dark Veil",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "spell_priest_burningwill_shadow",
+     "spellId": 520345,
+     "description": "Channel a shield of void energies upon an ally, causing both you and them to absorb 875 + 100% healing + 25% AP damage, stacking 5 times, every 1 sec for 5 seconds.At the end of the duration, if the shield holds, you teleport to them.While channeling you are immune to stuns and silences.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-66-3-5",
+      "25-66-5-5"
+     ]
+    },
+    {
+     "id": "25-66-7-6a",
+     "name": "Saronite Cube",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_misc_cat_trinket05",
+     "spellId": 807307,
+     "description": "Melee ability damage now reduces the duration of Wracked Mind by -1 sec on all allies within 30 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-8-5",
+      "25-66-6-5a",
+      "25-66-6-5b"
+     ]
+    },
+    {
+     "id": "25-66-7-6b",
+     "name": "Devour Curse",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "_curse_purple",
+     "spellId": 800402,
+     "description": "Devour dark magic on an ally, dispelling 2 curse effects from them and healing you for 90 + 65% SP.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "25-66-10-6",
+     "name": "Void Power",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_belt_armor_voidelf_d_01",
+     "spellId": 574147,
+     "description": "Your healing power is increased based on your main-hand weapon damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "25-66-10-4"
+     ]
+    },
+    {
+     "id": "25-66-1-7",
+     "name": "Ancient Rituals",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "spell_shadow_twilight",
+     "spellId": 807877,
+     "description": "Casting Satiate now refreshes the duration of Black Blood on all allies within 30 yds.Dark Infusion bounces one additional time after its third infusion, expanding to the three lowest-health nearby party or raid members.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-1-6"
+     ]
+    },
+    {
+     "id": "25-66-3-7",
+     "name": "Dark Reservoir",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "achievement_battleground_templeofkotmogu_02_purple",
+     "spellId": 300284,
+     "description": "Increases the bonus healing power scaling of Eldritch Mending by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-4-6",
+      "25-66-1-6"
+     ]
+    },
+    {
+     "id": "25-66-4-7a",
+     "name": "Tales of Woe",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "spell_warlock_demonwrath",
+     "spellId": 520682,
+     "description": "Your Dark Veil now performs its effect -50% faster.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-4-6"
+     ]
+    },
+    {
+     "id": "25-66-4-7b",
+     "name": "Corrupt Fate",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "5_deadshadow_border",
+     "spellId": 520810,
+     "description": "Reduces the cooldown of Dark Veil by -60 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-66-5-7",
+     "name": "Visions of the Empire",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "sha_ability_rogue_bloodyeye_nightborne",
+     "spellId": 806384,
+     "description": "Increases the damage converted into healing through Abyssal Covenant by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-7-6a",
+      "25-66-4-6",
+      "25-66-7-6b"
+     ]
+    },
+    {
+     "id": "25-66-7-7",
+     "name": "Dark Chants",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "5_druideskill30_border",
+     "spellId": 712471,
+     "description": "Reduces the cast time of Forbidden Ritual by 1 sec and allows Black Blood to stack up to 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-7-6a",
+      "25-66-7-6b"
+     ]
+    },
+    {
+     "id": "25-66-2-8",
+     "name": "Saronite Blessing",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "inv_ingot_yoggthorite",
+     "spellId": 301262,
+     "description": "Melee critical strikes now apply Saronite Blessing to you.Saronite Blessing (Buff)Your melee attack speed is increased by 25% and your melee auto attacks heal the lowest health ally for an additional 100% of the damage dealt. Lasts for 15 seconds or 10 attacks.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-3-7",
+      "25-66-1-7"
+     ]
+    },
+    {
+     "id": "25-66-4-8",
+     "name": "Hand of Yogg-Saron",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "spell_shadow_shadowfiend",
+     "spellId": 704476,
+     "description": "Tether yourself to an ally for 15 seconds, increasing all damage they deal and reducing all damage they take by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-66-4-7a",
+      "25-66-3-7",
+      "25-66-5-7",
+      "25-66-4-7b"
+     ]
+    },
+    {
+     "id": "25-66-6-8",
+     "name": "Void Barrier",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "nhi_shadowbarrier_border",
+     "spellId": 300291,
+     "description": "Casting Herald of the Depths now increases the absorption of your next Void Shield within 10 seconds by 100%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-5-7",
+      "25-66-7-7"
+     ]
+    },
+    {
+     "id": "25-66-10-8",
+     "name": "Blessing of Yogg-Saron",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "spell_holy_devotion",
+     "spellId": 806264,
+     "description": "Level 50 PassiveIncreases your attack power by an amount equal to 3 times your spell critical strike rating.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "25-66-10-6"
+     ]
+    },
+    {
+     "id": "25-66-2-9",
+     "name": "Blessing of Yogg-Saron",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "achievement_boss_heraldvolazj",
+     "spellId": 807128,
+     "description": "While Herald of the Depths is active, you now transform into a Faceless Monstrosity, increasing your critical healing and critical strike chance by 20%, but reducing its duration by -5 sec.In addition, while active you are now immune to fear, horrify, and polymorph effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-2-8",
+      "25-66-4-8"
+     ]
+    },
+    {
+     "id": "25-66-4-9",
+     "name": "Horrific Revelations",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "achievement_boss_triumvirate_darknaaru",
+     "spellId": 524877,
+     "description": "Every 1 sec while Hand of Yogg-Saron is active, you now trigger a Horrific Revelation on the target and generate 5 Insanity.Horrific RevelationHeals a friendly target for 144 + 67.85% SP, scaling with Insanity, and increases their critical strike chance by 1%, stacking 15 times, for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-4-8"
+     ]
+    },
+    {
+     "id": "25-66-6-9",
+     "name": "Dark Prophet",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 66,
+     "icon": "nhi_foreshadowing_border",
+     "spellId": 301209,
+     "description": "Healing done by Abyssal Covenant now heals 5 of the lowest health nearby allies and healing done by Black Blood can now critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-66-6-8",
+      "25-66-4-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 88,
+   "name": "Dreadnought",
+   "nodeCount": 38,
+   "nodes": [
+    {
+     "id": "25-88-4-0",
+     "name": "Twilight Shieldtoss",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_shield_1h_artifactstormfist_d_05",
+     "spellId": 524876,
+     "description": "Hurl a cursed shield, dealing 40 Shadow damage to up to 3 enemies, reduced by 20% with each jump.Damage increased by 1% for each stack of Insanity.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "25-88-10-0",
+     "name": "Dreadnought",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "yshaarjicon",
+     "spellId": 680750,
+     "description": "Level 10 PassiveReaching 100 Insanity no longer causes Total Madness.Teaches you Dreadnought.DreadnoughtAbsorbs 150 + 300% Stamina + 300% Intellect damage, scaling with Intellect and Stamina. Protects movement speed from going below 80% of normal speed. Lasts 20 seconds.Depletes all Insanity upon expiration.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-88-2-1",
+     "name": "Adaptive Combatant",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_sulfurelemental_void",
+     "spellId": 300268,
+     "description": "Increases your parry chance by 3% and dodge chance by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-4-0"
+     ]
+    },
+    {
+     "id": "25-88-4-1",
+     "name": "Malignant Armor",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_helm_plate_nzothraidmythic_d_01",
+     "spellId": 680569,
+     "description": "Increases your attack power by 2 for every 100 armor value you have.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-4-0"
+     ]
+    },
+    {
+     "id": "25-88-6-1",
+     "name": "Boon of Y'shaarj",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_wand_1h_430oldgod_c_01",
+     "spellId": 560080,
+     "description": "You now gain an additional 2 mana per point of Intellect.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-4-0"
+     ]
+    },
+    {
+     "id": "25-88-4-2",
+     "name": "Bulwark of Horror",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "nhi_shadowcatcher_border",
+     "spellId": 300278,
+     "description": "Avoiding an attack now has a 40% chance to refresh a charge of Blade of the Empire.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-6-1",
+      "25-88-2-1",
+      "25-88-4-1"
+     ]
+    },
+    {
+     "id": "25-88-10-2",
+     "name": "Strength of the Sha",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "ability_titankeeper_uncheckedcorruption",
+     "spellId": 804286,
+     "description": "Level 20 PassiveIncreases your spell damage by 25% of your Strength and your spell hit rating by 6% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "25-88-10-0"
+     ]
+    },
+    {
+     "id": "25-88-1-3",
+     "name": "Bulwark of Y'shaarj",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_shield_73",
+     "spellId": 680558,
+     "description": "Increases your block chance by 5%, plus an additional 10% while above 40 Insanity.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-2-1"
+     ]
+    },
+    {
+     "id": "25-88-4-3a",
+     "name": "Y'Shaarj's Enforcer",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_shield_orgrimmarraid_d_01",
+     "spellId": 803236,
+     "description": "Increases the damage dealt by your Twilight Shieldtoss by 100% but it to no longer bounces.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-4-2"
+     ]
+    },
+    {
+     "id": "25-88-4-3b",
+     "name": "Bouncing Thoughts",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "nhi_arcaneshuriken_border",
+     "spellId": 680607,
+     "description": "Your Twilight Shieldtoss now hits an additional enemy for every 20 Insanity you have.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "25-88-7-3",
+     "name": "Tentacle of Y'shaarj",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "achievement_boss_yoggsaron_01",
+     "spellId": 802044,
+     "description": "Summon a Tentacle of Y'shaarj near you for 30 seconds.When summoned and whenever Gaze of C'thun is used, it slams the ground dealing Physical damage, scaling with Stamina, to all enemies in a 10 yd frontal cone.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-88-6-1"
+     ]
+    },
+    {
+     "id": "25-88-0-4",
+     "name": "Entropic Retaliation",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "nhi_shadowbarrier_border",
+     "spellId": 802043,
+     "description": "Blocking an attack now increases your critical strike chance by 2% for 6 seconds, stacking up to 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-1-3"
+     ]
+    },
+    {
+     "id": "25-88-2-4",
+     "name": "Inner Darkness",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "ability_racial_entropicembrace",
+     "spellId": 706182,
+     "description": "Blocking an attack now generates 3 Insanity.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-1-3",
+      "25-88-4-3a",
+      "25-88-4-3b"
+     ]
+    },
+    {
+     "id": "25-88-4-4",
+     "name": "Twilight Incarnate",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_elemental_eternal_shadow",
+     "spellId": 681087,
+     "description": "Damage dealt by Twilight Shieldtoss now generates 3 Insanity.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-4-3a",
+      "25-88-4-3b"
+     ]
+    },
+    {
+     "id": "25-88-6-4",
+     "name": "Everpresent",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_darkmoon_eye",
+     "spellId": 300272,
+     "description": "Increases the chance to trigger Presences by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-4-3a",
+      "25-88-7-3",
+      "25-88-4-3b"
+     ]
+    },
+    {
+     "id": "25-88-8-4",
+     "name": "Eldritch Strength",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "sha_ability_rogue_envelopingshadows",
+     "spellId": 680600,
+     "description": "Increases the damage of Hammer of Twilight and Entropic Slam by 25% and they now generates a large amount of threat.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-7-3"
+     ]
+    },
+    {
+     "id": "25-88-10-4",
+     "name": "Deep Secrets",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "spell_shadow_summonvoidwalker",
+     "spellId": 582307,
+     "description": "Level 30 PassiveEach point of Insanity now reduces mana costs of your instant cast spells and abilities by 1%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "25-88-10-2"
+     ]
+    },
+    {
+     "id": "25-88-1-5",
+     "name": "Dreadfall",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "custom_t_nhance_rpg_icons_shadowguard_border",
+     "spellId": 806175,
+     "description": "Raise your shield and charge towards an enemy, dealing 50% AP Shadow damage to enemies you pass through, generating additional threat.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-88-2-4",
+      "25-88-0-4"
+     ]
+    },
+    {
+     "id": "25-88-3-5",
+     "name": "Wavering Hope",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "achievement_dungeon_grimbatol_drahga_the_shadowburner",
+     "spellId": 560502,
+     "description": "While above 60 Insanity, the cooldown of your Twilight Shieldtoss and Gaze of C'thun is reduced by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-2-4",
+      "25-88-4-4"
+     ]
+    },
+    {
+     "id": "25-88-5-5",
+     "name": "Eldritch Bastion",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "nhi_shadowtentacle_border",
+     "spellId": 560091,
+     "description": "Increases your Armor contribution from your shield by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-6-4",
+      "25-88-4-4"
+     ]
+    },
+    {
+     "id": "25-88-7-5",
+     "name": "Crushing Dissonance",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "ability_kaztik_dominatemind",
+     "spellId": 804056,
+     "description": "Unleash a wave of maddening resonance, interrupting the current spell cast of all enemies around you and preventing any spell in that school from being cast for 2 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "25-88-6-4",
+      "25-88-8-4"
+     ]
+    },
+    {
+     "id": "25-88-0-6",
+     "name": "Void-Enhanced Shield",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_shield_draenei_a_02_uprez",
+     "spellId": 680555,
+     "description": "Increases your block value by 20%.While above 60 Insanity, the value of this effect is doubled.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-1-5",
+      "25-88-0-4"
+     ]
+    },
+    {
+     "id": "25-88-2-6",
+     "name": "Void Reaver",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "sha_spell_shadow_shadesofdarkness",
+     "spellId": 800463,
+     "description": "Avoiding or absorbing an attack now has a 20% chance to make your next Blade of the Empire deal 20% more damage and hit an additional nearby enemy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-3-5",
+      "25-88-1-5"
+     ]
+    },
+    {
+     "id": "25-88-4-6",
+     "name": "Voidwarding",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_glyph_primewarlock",
+     "spellId": 560002,
+     "description": "Reduces damage taken by party and raid members by -3%. Does not stack with similar effects.In addition, increases all of your resistances by 5, scaling with level.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-5-5",
+      "25-88-3-5"
+     ]
+    },
+    {
+     "id": "25-88-6-6",
+     "name": "In And Out of Insanity",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "spell_shadow_deathsembrace",
+     "spellId": 582308,
+     "description": "Increases the effectiveness of your damage absorption effects by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-5-5",
+      "25-88-7-5"
+     ]
+    },
+    {
+     "id": "25-88-8-6",
+     "name": "Bulwark of Shadow",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_shield_draenorhonor_c_02",
+     "spellId": 301182,
+     "description": "While above 80 Insanity, your Void Shield has 30% increased value.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-8-4",
+      "25-88-7-5"
+     ]
+    },
+    {
+     "id": "25-88-10-6",
+     "name": "Strength of the Black Empire",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "achievement_boss_generalvezax_01",
+     "spellId": 680557,
+     "description": "Level 40 PassiveDreadnought now sheds your mortal form, transforming you into a void monstrosity, reducing your damage taken by -10%",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "25-88-10-4"
+     ]
+    },
+    {
+     "id": "25-88-1-7",
+     "name": "Shadowy Symbiosis",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "spell_nzinsanity_stophittingyourself",
+     "spellId": 680574,
+     "description": "Your successful blocks now have a 20% chance to critically block for twice the normal amount.This effect is doubled while above 60 Insanity.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-0-6",
+      "25-88-2-6"
+     ]
+    },
+    {
+     "id": "25-88-3-7",
+     "name": "Void Strikes",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "nhi_void_stab_border",
+     "spellId": 680609,
+     "description": "Damage dealt by Blade of the Empire and Entropic Slam is now increased based on your defense rating.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-4-6",
+      "25-88-2-6"
+     ]
+    },
+    {
+     "id": "25-88-5-7",
+     "name": "General of Y'shaarj",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_voidboss",
+     "spellId": 680581,
+     "description": "Dealing damage with Twilight Shieldtoss now heals you for 10% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-4-6",
+      "25-88-6-6"
+     ]
+    },
+    {
+     "id": "25-88-7-7",
+     "name": "Eldritch Entities",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "spell_shadow_auraofdarkness",
+     "spellId": 681425,
+     "description": "Critical strikes with abilities now summon a Manifestation of Y'shaarj for 10 seconds, which will attack enemies and heal you for 2% of your base health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-6-6",
+      "25-88-8-6"
+     ]
+    },
+    {
+     "id": "25-88-1-8",
+     "name": "Dreadful",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "5_tentacles_border",
+     "spellId": 680579,
+     "description": "Increases your critical strike rating equal to your block rating.In addition, critical strikes now reduce the cooldown of Dreadfall and Dreadnought by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-3-7",
+      "25-88-1-7"
+     ]
+    },
+    {
+     "id": "25-88-4-8",
+     "name": "Twilight Guardian",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "ability_druid_twilightswrath",
+     "spellId": 704889,
+     "description": "The first instance of damage dealt by Twilight Shieldtoss now shields you for 100% of the damage dealt for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-3-7",
+      "25-88-5-7"
+     ]
+    },
+    {
+     "id": "25-88-7-8",
+     "name": "Void Tolerance",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_legendary_chimeraoffear",
+     "spellId": 680570,
+     "description": "Reduces the cooldown of Abyssal Ward by -30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-5-7",
+      "25-88-7-7"
+     ]
+    },
+    {
+     "id": "25-88-10-8",
+     "name": "Blessing of Y'Shaarj",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "inv_inscription_80_vantusrune_nyalotha",
+     "spellId": 801968,
+     "description": "Level 50 PassiveWhile transformed into a void monstrosity your damage dealt is now also increased by 20%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "25-88-10-6"
+     ]
+    },
+    {
+     "id": "25-88-1-9",
+     "name": "Eldritch Force",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "nhi_shadowtentacle_border",
+     "spellId": 681474,
+     "description": "Every 5th critical strike with abilities now transforms your next Gaze of C'Thun into Eldritch Force.Eldritch ForceGenerates 30 InsanitySend out a wave of force, dealing 631 + 76.26% SP + 12.5% AP Shadow damage to enemies in front of you and reducing their movement speed by -30% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-1-8"
+     ]
+    },
+    {
+     "id": "25-88-4-9",
+     "name": "Void Augmentation",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "achievement_alliedrace_voidelf",
+     "spellId": 680575,
+     "description": "While Dreadnought is active, your Twilight Shieldtoss has a -3 sec reduced cooldown.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-4-8"
+     ]
+    },
+    {
+     "id": "25-88-7-9",
+     "name": "Embodiment of Y'shaarj",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 88,
+     "icon": "achievement_thenighthold_chromaticanomaly",
+     "spellId": 681088,
+     "description": "Increases the amount that Void Shield absorbs by 100%.Absorbing damage grants you 20% of the absorbed value as spell power for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "25-88-7-8"
+     ]
+    }
+   ]
+  }
+ ]
+}

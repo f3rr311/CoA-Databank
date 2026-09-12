@@ -1,0 +1,8 @@
+{
+  "name_enus": "Scrying Orb",
+  "icon": "spell_druid_momentofclarity",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Scrying Orb</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>22% of base mana<br />Channeled</td></tr></table><table><tr><td><span class=\"q\">Conjure a <span style=\"color: #FFFFFF;\">Scrying Orb</span> for 1&nbsp;min that you can control directly and see through.</span></td></tr></table><!--?804674:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

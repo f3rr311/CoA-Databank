@@ -1,0 +1,527 @@
+{
+ "1": {
+  "slug": "necromancer",
+  "specs": [
+   {
+    "design": "Death",
+    "skillLine": 82,
+    "dbcName": "Death",
+    "poolSize": 169
+   },
+   {
+    "design": "Animation",
+    "skillLine": 84,
+    "dbcName": "Animation",
+    "poolSize": 111
+   },
+   {
+    "design": "Rime",
+    "skillLine": 83,
+    "dbcName": "Rime",
+    "poolSize": 150
+   }
+  ]
+ },
+ "2": {
+  "slug": "reaper",
+  "specs": [
+   {
+    "design": "Harvest",
+    "skillLine": 106,
+    "dbcName": "Harvest",
+    "poolSize": 123
+   },
+   {
+    "design": "Soul",
+    "skillLine": 107,
+    "dbcName": "Soul",
+    "poolSize": 138
+   },
+   {
+    "design": "Domination",
+    "skillLine": 108,
+    "dbcName": "Domination",
+    "poolSize": 99
+   }
+  ]
+ },
+ "3": {
+  "slug": "knight-of-xoroth",
+  "specs": [
+   {
+    "design": "War",
+    "skillLine": 64,
+    "dbcName": "War",
+    "poolSize": 128
+   },
+   {
+    "design": "Hellfire",
+    "skillLine": 65,
+    "dbcName": "Hellfire",
+    "poolSize": 121
+   },
+   {
+    "design": "Defiance",
+    "skillLine": 66,
+    "dbcName": "Defiance",
+    "poolSize": 94
+   }
+  ]
+ },
+ "4": {
+  "slug": "pyromancer",
+  "specs": [
+   {
+    "design": "Incineration",
+    "skillLine": 85,
+    "dbcName": "Incineration",
+    "poolSize": 130
+   },
+   {
+    "design": "Draconic",
+    "skillLine": 87,
+    "dbcName": "Draconic",
+    "poolSize": 126
+   },
+   {
+    "design": "Flameweaving",
+    "skillLine": 86,
+    "dbcName": "Flameweaving",
+    "poolSize": 174
+   }
+  ]
+ },
+ "5": {
+  "slug": "chronomancer",
+  "specs": [
+   {
+    "design": "Duality",
+    "skillLine": 41,
+    "dbcName": "Brutality",
+    "poolSize": 212
+   },
+   {
+    "design": "Artificer",
+    "skillLine": 80,
+    "dbcName": "Artificer",
+    "poolSize": 98
+   },
+   {
+    "design": "Displacement",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   }
+  ]
+ },
+ "6": {
+  "slug": "son-of-arugal",
+  "specs": [
+   {
+    "design": "Ferocity",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   },
+   {
+    "design": "Blood",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   },
+   {
+    "design": "Packleader",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   },
+   {
+    "design": "Fleshweaver",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   }
+  ]
+ },
+ "7": {
+  "slug": "felsworn",
+  "specs": [
+   {
+    "design": "Slaying",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   },
+   {
+    "design": "Infernal",
+    "skillLine": 53,
+    "dbcName": "Infernal",
+    "poolSize": 117
+   },
+   {
+    "design": "Tyrant",
+    "skillLine": 57,
+    "dbcName": "Tyrant",
+    "poolSize": 69
+   }
+  ]
+ },
+ "8": {
+  "slug": "witch-doctor",
+  "specs": [
+   {
+    "design": "Brewing",
+    "skillLine": 49,
+    "dbcName": "Brewing",
+    "poolSize": 166
+   },
+   {
+    "design": "Voodoo",
+    "skillLine": 48,
+    "dbcName": "Voodoo",
+    "poolSize": 190
+   },
+   {
+    "design": "Shadowhunting",
+    "skillLine": 51,
+    "dbcName": "Shadowhunting",
+    "poolSize": 139
+   }
+  ]
+ },
+ "9": {
+  "slug": "cultist",
+  "specs": [
+   {
+    "design": "Godblade",
+    "skillLine": 88,
+    "dbcName": "Godblade",
+    "poolSize": 124
+   },
+   {
+    "design": "Corruption",
+    "skillLine": 89,
+    "dbcName": "Corruption",
+    "poolSize": 188
+   },
+   {
+    "design": "Influence",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   },
+   {
+    "design": "Dreadnought",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   }
+  ]
+ },
+ "10": {
+  "slug": "sun-cleric",
+  "specs": [
+   {
+    "design": "Piety",
+    "skillLine": 94,
+    "dbcName": "Piety",
+    "poolSize": 153
+   },
+   {
+    "design": "Seraphim",
+    "skillLine": 97,
+    "dbcName": "Seraphim",
+    "poolSize": 110
+   },
+   {
+    "design": "Blessings",
+    "skillLine": 96,
+    "dbcName": "Blessings",
+    "poolSize": 160
+   },
+   {
+    "design": "Valkyrie",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   }
+  ]
+ },
+ "11": {
+  "slug": "starcaller",
+  "specs": [
+   {
+    "design": "Warden",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   },
+   {
+    "design": "Sentinel",
+    "skillLine": 93,
+    "dbcName": "Sentinel",
+    "poolSize": 110
+   },
+   {
+    "design": "Moon Priest",
+    "skillLine": 92,
+    "dbcName": "Moon Priest",
+    "poolSize": 181
+   },
+   {
+    "design": "Moon Guard",
+    "skillLine": 91,
+    "dbcName": "Moon Guard",
+    "poolSize": 120
+   }
+  ]
+ },
+ "12": {
+  "slug": "venomancer",
+  "specs": [
+   {
+    "design": "Rot",
+    "skillLine": 103,
+    "dbcName": "Rot",
+    "poolSize": 128
+   },
+   {
+    "design": "Vizier",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   },
+   {
+    "design": "Stalking",
+    "skillLine": 104,
+    "dbcName": "Stalking",
+    "poolSize": 164
+   },
+   {
+    "design": "Fortitude",
+    "skillLine": 105,
+    "dbcName": "Fortitude",
+    "poolSize": 147
+   }
+  ]
+ },
+ "13": {
+  "slug": "barbarian",
+  "specs": [
+   {
+    "design": "Ancestry",
+    "skillLine": 47,
+    "dbcName": "Ancestry",
+    "poolSize": 140
+   },
+   {
+    "design": "Brutality",
+    "skillLine": 41,
+    "dbcName": "Brutality",
+    "poolSize": 212
+   },
+   {
+    "design": "Headhunting",
+    "skillLine": 42,
+    "dbcName": "Headhunting",
+    "poolSize": 112
+   }
+  ]
+ },
+ "14": {
+  "slug": "witch-hunter",
+  "specs": [
+   {
+    "design": "Boltslinger",
+    "skillLine": 58,
+    "dbcName": "Boltslinger",
+    "poolSize": 142
+   },
+   {
+    "design": "Inquisition",
+    "skillLine": 60,
+    "dbcName": "Inquisition",
+    "poolSize": 125
+   },
+   {
+    "design": "Darkness",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   },
+   {
+    "design": "Black Knight",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   }
+  ]
+ },
+ "15": {
+  "slug": "templar",
+  "specs": [
+   {
+    "design": "Crusader",
+    "skillLine": 72,
+    "dbcName": "Crusader",
+    "poolSize": 126
+   },
+   {
+    "design": "Martial",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   },
+   {
+    "design": "Discipline",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   }
+  ]
+ },
+ "16": {
+  "slug": "guardian",
+  "specs": [
+   {
+    "design": "Gladiator",
+    "skillLine": 69,
+    "dbcName": "Gladiator",
+    "poolSize": 106
+   },
+   {
+    "design": "Vanguard",
+    "skillLine": 67,
+    "dbcName": "Vanguard",
+    "poolSize": 116
+   },
+   {
+    "design": "Inspiration",
+    "skillLine": 68,
+    "dbcName": "Inspiration",
+    "poolSize": 158
+   }
+  ]
+ },
+ "17": {
+  "slug": "primalist",
+  "specs": [
+   {
+    "design": "Geomancy",
+    "skillLine": 112,
+    "dbcName": "Geomancy",
+    "poolSize": 162
+   },
+   {
+    "design": "Mountain King",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   },
+   {
+    "design": "Wildwalker",
+    "skillLine": 110,
+    "dbcName": "Wildwalker",
+    "poolSize": 144
+   },
+   {
+    "design": "Life",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   }
+  ]
+ },
+ "18": {
+  "slug": "ranger",
+  "specs": [
+   {
+    "design": "Archery",
+    "skillLine": 76,
+    "dbcName": "Archery",
+    "poolSize": 134
+   },
+   {
+    "design": "Brigand",
+    "skillLine": 77,
+    "dbcName": "Brigand",
+    "poolSize": 150
+   },
+   {
+    "design": "Farstrider",
+    "skillLine": 78,
+    "dbcName": "Farstrider",
+    "poolSize": 126
+   }
+  ]
+ },
+ "19": {
+  "slug": "tinker",
+  "specs": [
+   {
+    "design": "Demolition",
+    "skillLine": 99,
+    "dbcName": "Demolition",
+    "poolSize": 126
+   },
+   {
+    "design": "Mechanics",
+    "skillLine": 102,
+    "dbcName": "Mechanics",
+    "poolSize": 139
+   },
+   {
+    "design": "Invention",
+    "skillLine": 100,
+    "dbcName": "Invention",
+    "poolSize": 197
+   }
+  ]
+ },
+ "20": {
+  "slug": "runemaster",
+  "specs": [
+   {
+    "design": "Spellslinger",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   },
+   {
+    "design": "Riftblade",
+    "skillLine": 119,
+    "dbcName": "Riftblade",
+    "poolSize": 148
+   },
+   {
+    "design": "Conjuration",
+    "skillLine": null,
+    "dbcName": null,
+    "poolSize": 0
+   }
+  ]
+ },
+ "21": {
+  "slug": "stormbringer",
+  "specs": [
+   {
+    "design": "Lightning",
+    "skillLine": 61,
+    "dbcName": "Lightning",
+    "poolSize": 151
+   },
+   {
+    "design": "Thunder",
+    "skillLine": 50,
+    "dbcName": "Hunter",
+    "poolSize": 1330
+   },
+   {
+    "design": "Winds",
+    "skillLine": 62,
+    "dbcName": "Wind",
+    "poolSize": 144
+   }
+  ]
+ }
+}

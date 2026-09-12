@@ -1,0 +1,8 @@
+{
+  "name_enus": "Crystal Cannon",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Crystal Cannon</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 30 Passive</span><br />Casting <span style=\"color: #ffffff;\">Discordance</span> now unleashes the <span style=\"color: #FFFFFF;\">Crystal Cannon</span>, launching 2 quick lesser Wand attacks at the enemy over 1&nbsp;sec, scaling with Spirit.</span></td></tr></table><!--?806204:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

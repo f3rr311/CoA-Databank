@@ -1,0 +1,8 @@
+{
+  "name_enus": "Emergency Module",
+  "icon": "inv_engineering_reavesmodule",
+  "tooltip_enus": "<table><tr><td><b>Emergency Module</b><br />3% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">3 Charges</span><br /><span style=\"color: #ffffff;\">20 sec recharge</span><br />Augments the next <span style=\"color: #ffffff;\">Repair Shot</span> used within 10&nbsp;sec, reducing its cast time by 30% and reducing its mana cost by 20%.<br /><br />Shares a cooldown with <span style=\"color: #ffffff;\">Modules</span>.</span></td></tr></table><!--?805304:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

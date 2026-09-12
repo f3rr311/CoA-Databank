@@ -1,0 +1,8 @@
+{
+  "name_enus": "Storm Rage",
+  "icon": "spell_druid_astralstorm",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Storm Rage</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the duration of your <span style=\"color: #FFFFFF;\">Storm Ascendance</span> by 5 sec.</span></td></tr></table><!--?804015:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

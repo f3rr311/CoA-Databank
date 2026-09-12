@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dominion",
+  "icon": "spell_warlock_demonwrath",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dominion</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Gaining <span style=\"color: #5ee2ff;\">Soul Infusion</span> now increases your Armor by 55+12.5 Points Per Level for 6&nbsp;sec.</span></td></tr></table><!--?803999:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

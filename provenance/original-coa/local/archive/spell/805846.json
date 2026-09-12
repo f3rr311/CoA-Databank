@@ -1,0 +1,8 @@
+{
+  "name_enus": "Timeline Destroyer",
+  "icon": "_darkhand_shadow",
+  "tooltip_enus": "<table><tr><td><b>Timeline Destroyer</b><br />10% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empowers Chromatic spells for 16&nbsp;sec, increasing the magnitude of their effects by 40% and generating 1 <span style=\"color: #ffffff;\">Chromatic</span> every 2 sec.<br /><br />In addition, you generate 1 stack of Chromatic every 2 sec for the duration.</span></td></tr></table><!--?805846:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

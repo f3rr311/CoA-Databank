@@ -1,0 +1,8 @@
+{
+  "name_enus": "Voltaic Bursts",
+  "icon": "inv_azerite_empowered_state",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Voltaic Bursts</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the periodic damage of <span style=\"color: #FFFFFF;\">Shock</span> by 50%.</span></td></tr></table><!--?705639:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

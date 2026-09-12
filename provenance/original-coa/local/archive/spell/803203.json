@@ -1,0 +1,8 @@
+{
+  "name_enus": "Toxflinger",
+  "icon": "spell_nature_elementalshields",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Toxflinger</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>6&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Launches bolts of poison at all enemies within $a1yd that are standing in the pool created by <span style=\"color: #ffffff;\">Toxic Sludge</span>, dealing 12 to 14 Nature Damage to affected enemies.</span></td></tr></table><!--?803203:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

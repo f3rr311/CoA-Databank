@@ -1,0 +1,8 @@
+{
+  "name_enus": "Knighthood",
+  "icon": "custom_03_summon_skeleton_knight_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Knighthood</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage reduction of your <span style=\"color: #FFFFFF;\">Raise Shield</span> by 10%.</span></td></tr></table><!--?806077:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,817 @@
+{
+ "build": {
+  "id": "604248d9-5113-4057-9363-af68741259e8",
+  "title": "Optimal Build for Raids/M0",
+  "description": "[overview]\nFrom testing and discussion amongst other MK players this seems to be the best build available for us for current available content. This is a build purely for level 60 and NOT levelling as Mountain Hammer is near useless in PvE and it is recommended to skip it entirely until 60 whereupon you respec into it to gain Earthen Avatar and Primal Guardian.\n\n[talents]\nThe only talents I would consider optional and not integral to the build are Boulder Dash and Dreamslip from the Primalist tree, and Bash and Resources of the Earth from the MK tree. However, Replenishment is an extremely valuable asset to bring to a raid and not many classes can take it as easily as we can. If you were to take the point out of Replenishment (if someone in your raid was already providing it) then the best place to put it would be Tilling the Earth for the extra Expertise.\n\nAnother option would be to swap out Grove Guardian and/or Protector of the Grove for Earthmother's Blessing if you are worried about getting one shot however if something would kill you on top of the 30% extra health Earthmother's Blessing gives you when it activates - you still die. It is not a cheat death.\n\nAlternatively, if you hate fun, you can swap out Boulder Dash and Environmentalist for Heavy Handed which gives you extra armour on your self heals. This does add yet another buff to keep track of and extra button to press when you're already GCD capped but can make the difference on high damage fights.\n\n[rotation]\nYour standard rotation is as follows:\n\n1. Maintain Earth's Rage\n2. Reapply Earthquake and Rock Barrier after they end (never before)\n3. Keep Quake on cool down and Raging Earth applied\n4. Geode Barrage with Aftershock if Earthquake is up\n5. Seismic Smash to maintain Thane's Rage and fish for Quake/Aftershock procs\n6. Wildclaw as filler\n\nThis rotation is pretty much the same for ST and AoE although most AoE situations will involve a lot more EQ opportunities to hold aggro on casters that won't stack or pull more groups.\nSeismic abilities **other than Smash** should only be used to pull as they use far too much mana otherwise.\nWith a fast OH and proper play you should be able to maintain near 100% uptime on Rock Barrier in ST but make sure it falls off before reapplying to refresh Primal Guardian.\n\nOur opener on bosses can be quite complex and some things are not very intuitive so here's an explanation for everything up until your second/third GCD of any given boss encounter. This is made a lot easier to time properly and pull off if you are the one pulling (with a timer).\n\n1. Use Therazane's Rage at least 10s before the fight starts so you begin at max rage. The Primal Fury talent is great here to keep your rage up whilst not in combat\n2. Use Rock Barrier 10 seconds before pull. This will make your Primal Guardian trigger at the start of the fight\n3. Use Seismic Smash 5-8 seconds before pull to activate Thane's Rage and generate an Aftershock\n4. Just Judgement of The Three Hammers just before pull\n5. The following abilities, other than the last one, do not use the Global Cooldown (GCD) so should be cast at the same time but in this order: Mountain Avatar > Charge > Earthquake > Quake\n6. If you are in Boon of the Bear (which I would recommend on any fight that you know you won't die to) use Primal Convergence, otherwise save it as a defensive ability\n7. Proceed with rotation as normal\n\n[stats]\nStat weights are a bit of a meme right now but it's currently understood that Strength/Parry>Stamina>everything else. Nothing deals enough damage to warrant going too tanky and everything you care about scales off of Str/Parry.\n\n[gear]\nThere has been a lot of discussion on whether we want fast or slow weapons for this spec and I lean heavily into the camp of slow main hand and fast off hand. The argument for having double slow weapons relies on casting Wildclaw often since it scales off of the damage of both weapons. However, Terrasmash, Fury of the Earthmother, and Mountain Avatar make proccing Geodes EXTREMELY beneficial for everything that our spec wants to do. Therefore we want our OH to be as fast as possible to get as many of these off as we can.\n\nThe 3 set of Courage you can buy with Marks of Triumph is very nice to have, as well as any Imperial Plate (of Parry) crafted items you can get your hands on otherwise focus on your main stats of Str/Parry.\n\nHere is my current/most recent gear setup for reference:\nhttps://coa.ascensionlogs.gg/armory/James/Rexxar\n\n[enchants]\nThese are self explanatory; take anything that gives you more of the stats you already want. Double Crusader on weapons.\n\n[macros]\n#showtooltip\n/startattack\n/cast [@cursor] Earthquake\n/stopcasting\n/cast Therazane's Rage\n\nThis is an example of what you want from a macro for this spec.\nIt is generally a good idea to bind /startattack into all of your main damaging abilities to make sure that you don't lose your target or stop attacking for any reason.\nUsing the [@cursor] prefix for Earthquake specifically allows you to instantly drop it wherever your mouse is without having to click to confirm the spell. Alternatively, if you're lazy, you can use [@player] to place it on top of yourself.\nAdding /stopcasting to your Earthquake and Geode Barrage macros is recommended to avoid accidentally hard casting them whilst tanking as you cannot dodge or parry and whilst casting a spell so will be quickly deleted by whatever mobs are on you.\nAlso, since Therazane's Rage wants to be cast on cooldown in all situations I would suggest adding it to the macros for your most commonly used spells so it's done automatically and without the need for an extra button press/plate to spin.\n\n#showtooltip\n/cancelaura Boulder Dash\n/cast Boulder Dash\n\nMissclicking the funny boulder button can get you killed very fast since you cannot mitigate damage during the effect. This macro allows you to instantly cancel it with a second press.\n\n[tips]\nEarthquake has some quirks that make it so that you never want to cast it while it's already active as it deals damage through a debuff that is not refreshed by the new instance of the spell on the ground. For this reason you should always wait for your current Earthquake to dissipate before recasting.\nAlternatively, in AoE situations, I find liberal usage of Earthquake to pull new packs or keep aggro on stray caster mobs to be extremely beneficial.\n\nWhile you'll probably spend ~90% of your time tanking in Boon of the Turtle don't forget that other Boons do exist and have their own uses. The dodge chance of Boon of the Wolf (especially under the effects of Primal Convergence) can be stronger than the damage reduction afforded by Turtle in some situations. In other cases where you don't need to be as tanky; Boon of the Bear offers a high damage/threat option. Also, if you've done any amount of dungeon spamming I'm sure you'll have been victim to the amount of fear effects some of them throw at you, in which case Boon of the Lion is surprisingly useful for short bursts of utility.\n\nAnother, very niche, quirk that I've found is that Dreamslip seems to be one of the only things that work to drop combat on Captain Kromcrush if you're attempting a Tribute run without the costume.",
+  "class_id": 31,
+  "spec_id": 91,
+  "author_id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+  "talent_string": "W1siMzEtODctNC0wIiwxXSxbIjMxLTg3LTMtMSIsMV0sWyIzMS04Ny01LTEiLDFdLFsiMzEtODctMS0yIiwyXSxbIjMxLTg3LTQtMiIsMV0sWyIzMS04Ny00LTMiLDFdLFsiMzEtODctNi0zIiwxXSxbIjMxLTg3LTctMiIsMl0sWyIzMS04Ny03LTAiLDFdLFsiMzEtODctNi00YSIsMV0sWyIzMS04Ny00LTUiLDFdLFsiMzEtODctNy01IiwyXSxbIjMxLTg3LTctNiIsMV0sWyIzMS04Ny01LTYiLDFdLFsiMzEtODctMi00YSIsMV0sWyIzMS04Ny0xLTUiLDJdLFsiMzEtODctMS02IiwxXSxbIjMxLTg3LTItN2IiLDFdLFsiMzEtODctNC03IiwxXSxbIjMxLTg3LTYtNyIsMV0sWyIzMS04Ny0xLTgiLDFdLFsiMzEtODctMi05IiwxXSxbIjMxLTkxLTQtMCIsMV0sWyIzMS05MS00LTEiLDJdLFsiMzEtOTEtMi0yIiwxXSxbIjMxLTkxLTYtMiIsMl0sWyIzMS05MS00LTMiLDFdLFsiMzEtOTEtMS0zIiwxXSxbIjMxLTkxLTEtNCIsMV0sWyIzMS05MS0yLTUiLDFdLFsiMzEtOTEtMS02IiwxXSxbIjMxLTkxLTAtNyIsMV0sWyIzMS05MS0zLTRhIiwxXSxbIjMxLTkxLTQtNSIsMV0sWyIzMS05MS03LTMiLDFdLFsiMzEtOTEtNy00IiwxXSxbIjMxLTkxLTYtNSIsMV0sWyIzMS05MS04LTUiLDJdLFsiMzEtOTEtNy02YSIsMV0sWyIzMS05MS0yLTciLDFdLFsiMzEtOTEtNi03IiwxXSxbIjMxLTkxLTQtNiIsMV0sWyIzMS05MS0xLTgiLDFdLFsiMzEtOTEtMy05YSIsMV0sWyIzMS05MS0xMC0wIiwxXSxbIjMxLTkxLTEwLTIiLDFdLFsiMzEtOTEtMTAtNCIsMV0sWyIzMS05MS0xMC02IiwxXSxbIjMxLTkxLTEwLTgiLDFdXQ",
+  "tags": [
+   "Primalist",
+   "Mountain King",
+   "Tank",
+   "Guide",
+   "PvE",
+   "Raids",
+   "Dungeons",
+   "World Bosses",
+   "General Purpose"
+  ],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 12,
+  "downvotes": 0,
+  "comment_count": 5,
+  "created_at": "2026-07-20T21:15:32.714729+00:00",
+  "updated_at": "2026-07-26T12:03:15.901+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 3357,
+  "net_score": 12,
+  "has_talents": true,
+  "guide_section_count": 8,
+  "author": {
+   "id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+   "username": "leadfootjames",
+   "avatar_url": "https://cdn.discordapp.com/avatars/126074738341707778/3775742f0199adcc2184553650a5ad07.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "d9ba66b4-8d6a-4bed-bae7-db2995088b0e",
+   "build_id": "604248d9-5113-4057-9363-af68741259e8",
+   "author_id": "031ec05f-bf7b-4d29-ac9e-c837fa449927",
+   "parent_id": null,
+   "body": "This guide changed my life",
+   "upvotes": 5,
+   "created_at": "2026-07-20T21:18:25.495712+00:00",
+   "updated_at": "2026-07-21T08:37:04.35985+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "031ec05f-bf7b-4d29-ac9e-c837fa449927",
+    "username": "xcudious",
+    "avatar_url": "https://cdn.discordapp.com/avatars/168484764049866753/9b983da87dd6d5180ccdec5aa1d80129.png"
+   }
+  },
+  {
+   "id": "893302b9-fc83-447c-9356-f5b1451ef106",
+   "build_id": "604248d9-5113-4057-9363-af68741259e8",
+   "author_id": "d38ace89-9acd-4a43-86df-6d5594039230",
+   "parent_id": null,
+   "body": "Do you not care about expertise at all?",
+   "upvotes": 0,
+   "created_at": "2026-07-25T16:18:26.184388+00:00",
+   "updated_at": "2026-07-25T16:18:26.184388+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "d38ace89-9acd-4a43-86df-6d5594039230",
+    "username": "syzygy_o7",
+    "avatar_url": "https://cdn.discordapp.com/avatars/142400525810401281/0a56e9bb3a0398f39b009eff57682a41.png"
+   }
+  },
+  {
+   "id": "3a2a49e3-e315-4b38-a583-f4b8fe040b0b",
+   "build_id": "604248d9-5113-4057-9363-af68741259e8",
+   "author_id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+   "parent_id": "893302b9-fc83-447c-9356-f5b1451ef106",
+   "body": "It's currently not worth trying to soft cap expertise since you have to sacrifice too much to do it but expertise is by no means bad. I'd put it as a solid third place for gear priority after Str/Parry.",
+   "upvotes": 0,
+   "created_at": "2026-07-25T22:17:03.428164+00:00",
+   "updated_at": "2026-07-25T22:17:03.428164+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+    "username": "leadfootjames",
+    "avatar_url": "https://cdn.discordapp.com/avatars/126074738341707778/3775742f0199adcc2184553650a5ad07.png"
+   }
+  },
+  {
+   "id": "324a82d0-4864-4bb5-836e-d3215110f857",
+   "build_id": "604248d9-5113-4057-9363-af68741259e8",
+   "author_id": "ea176e59-0787-4f2f-8f80-30fd4331812d",
+   "parent_id": null,
+   "body": "Any reason you earthquake macro do not have another spell like seismic smash or quake since it is off gcd?",
+   "upvotes": 0,
+   "created_at": "2026-07-30T01:08:53.709114+00:00",
+   "updated_at": "2026-07-30T01:08:53.709114+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ea176e59-0787-4f2f-8f80-30fd4331812d",
+    "username": "Theo",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIG-rfHGvhBCcvxR_KorTG39IlbnOdhIwUuqT_HjqLDMFcElQ=s96-c"
+   }
+  },
+  {
+   "id": "03751b1c-2d6c-4a50-b685-314a11e05dad",
+   "build_id": "604248d9-5113-4057-9363-af68741259e8",
+   "author_id": "b3d633d2-82a5-4437-b69a-1f7df2b01b28",
+   "parent_id": null,
+   "body": "Hey James !\nDid the build need an update or you think its still working like this ?\nThx you !",
+   "upvotes": 0,
+   "created_at": "2026-07-31T18:45:55.702943+00:00",
+   "updated_at": "2026-07-31T18:45:55.702943+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "b3d633d2-82a5-4437-b69a-1f7df2b01b28",
+    "username": "_romux",
+    "avatar_url": "https://cdn.discordapp.com/avatars/363409311881363458/19a2c46bc478ab9f6e8b5a1946ced614.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "a6b42d1d-6de0-4bda-bf92-486e548cda10",
+   "title": "Grovekeeper",
+   "class_id": 31,
+   "spec_id": 84,
+   "author_id": "88f7972c-4247-47d7-86f5-5a913bfbc334",
+   "tags": [],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 329,
+   "featured": false,
+   "created_at": "2026-07-27T19:11:52.96072+00:00",
+   "updated_at": "2026-07-27T19:11:52.96072+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "88f7972c-4247-47d7-86f5-5a913bfbc334",
+    "username": "syco.0",
+    "avatar_url": "https://cdn.discordapp.com/avatars/599713139919028226/5aebe09d72c1c090f2d3908143a74309.png"
+   }
+  },
+  {
+   "id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "title": "Wildwalker AoE Dungeon Build",
+   "class_id": 31,
+   "spec_id": 82,
+   "author_id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+   "tags": [
+    "leveling",
+    "aoe",
+    "dungeon",
+    "cleave"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 10,
+   "view_count": 5772,
+   "featured": false,
+   "created_at": "2026-07-17T20:29:37.198323+00:00",
+   "updated_at": "2026-07-21T07:44:46.649+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+    "username": "Sikotics",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIzTag4zIWh4cy9dGR2YVW0pLT3YLmp8Mo6X7E4S1QPNCObnak2=s96-c"
+   }
+  },
+  {
+   "id": "63ed0949-23e7-4c9b-9a51-97da32585a8b",
+   "title": "Mountain King Dungeon + AoE Farming build",
+   "class_id": 31,
+   "spec_id": 91,
+   "author_id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+   "tags": [
+    "raid",
+    "leveling",
+    "farming",
+    "dungeon"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2526,
+   "featured": false,
+   "created_at": "2026-07-17T21:01:47.64848+00:00",
+   "updated_at": "2026-07-17T21:01:47.64848+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+    "username": "Sikotics",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIzTag4zIWh4cy9dGR2YVW0pLT3YLmp8Mo6X7E4S1QPNCObnak2=s96-c"
+   }
+  }
+ ],
+ "class": "Primalist",
+ "spec": "Mountain King",
+ "allocations": [
+  [
+   "31-87-4-0",
+   1
+  ],
+  [
+   "31-87-3-1",
+   1
+  ],
+  [
+   "31-87-5-1",
+   1
+  ],
+  [
+   "31-87-1-2",
+   2
+  ],
+  [
+   "31-87-4-2",
+   1
+  ],
+  [
+   "31-87-4-3",
+   1
+  ],
+  [
+   "31-87-6-3",
+   1
+  ],
+  [
+   "31-87-7-2",
+   2
+  ],
+  [
+   "31-87-7-0",
+   1
+  ],
+  [
+   "31-87-6-4a",
+   1
+  ],
+  [
+   "31-87-4-5",
+   1
+  ],
+  [
+   "31-87-7-5",
+   2
+  ],
+  [
+   "31-87-7-6",
+   1
+  ],
+  [
+   "31-87-5-6",
+   1
+  ],
+  [
+   "31-87-2-4a",
+   1
+  ],
+  [
+   "31-87-1-5",
+   2
+  ],
+  [
+   "31-87-1-6",
+   1
+  ],
+  [
+   "31-87-2-7b",
+   1
+  ],
+  [
+   "31-87-4-7",
+   1
+  ],
+  [
+   "31-87-6-7",
+   1
+  ],
+  [
+   "31-87-1-8",
+   1
+  ],
+  [
+   "31-87-2-9",
+   1
+  ],
+  [
+   "31-91-4-0",
+   1
+  ],
+  [
+   "31-91-4-1",
+   2
+  ],
+  [
+   "31-91-2-2",
+   1
+  ],
+  [
+   "31-91-6-2",
+   2
+  ],
+  [
+   "31-91-4-3",
+   1
+  ],
+  [
+   "31-91-1-3",
+   1
+  ],
+  [
+   "31-91-1-4",
+   1
+  ],
+  [
+   "31-91-2-5",
+   1
+  ],
+  [
+   "31-91-1-6",
+   1
+  ],
+  [
+   "31-91-0-7",
+   1
+  ],
+  [
+   "31-91-3-4a",
+   1
+  ],
+  [
+   "31-91-4-5",
+   1
+  ],
+  [
+   "31-91-7-3",
+   1
+  ],
+  [
+   "31-91-7-4",
+   1
+  ],
+  [
+   "31-91-6-5",
+   1
+  ],
+  [
+   "31-91-8-5",
+   2
+  ],
+  [
+   "31-91-7-6a",
+   1
+  ],
+  [
+   "31-91-2-7",
+   1
+  ],
+  [
+   "31-91-6-7",
+   1
+  ],
+  [
+   "31-91-4-6",
+   1
+  ],
+  [
+   "31-91-1-8",
+   1
+  ],
+  [
+   "31-91-3-9a",
+   1
+  ],
+  [
+   "31-91-10-0",
+   1
+  ],
+  [
+   "31-91-10-2",
+   1
+  ],
+  [
+   "31-91-10-4",
+   1
+  ],
+  [
+   "31-91-10-6",
+   1
+  ],
+  [
+   "31-91-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "31-87-4-0",
+   "points": 1,
+   "name": "Primal Rush",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 500696
+  },
+  {
+   "id": "31-87-3-1",
+   "points": 1,
+   "name": "Environmentalist",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 300729
+  },
+  {
+   "id": "31-87-5-1",
+   "points": 1,
+   "name": "Tectonic Flow",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 802494
+  },
+  {
+   "id": "31-87-1-2",
+   "points": 2,
+   "name": "Bountiful Boons",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 706203
+  },
+  {
+   "id": "31-87-4-2",
+   "points": 1,
+   "name": "Keen Senses",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 806533
+  },
+  {
+   "id": "31-87-4-3",
+   "points": 1,
+   "name": "Primal Convergence",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800181
+  },
+  {
+   "id": "31-87-6-3",
+   "points": 1,
+   "name": "Rock Barrier",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 503630
+  },
+  {
+   "id": "31-87-7-2",
+   "points": 2,
+   "name": "Focus",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 680936
+  },
+  {
+   "id": "31-87-7-0",
+   "points": 1,
+   "name": "Boulder Dash",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 500692
+  },
+  {
+   "id": "31-87-6-4a",
+   "points": 1,
+   "name": "Primal Fury",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504193
+  },
+  {
+   "id": "31-87-4-5",
+   "points": 1,
+   "name": "Protective Roar",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 802782
+  },
+  {
+   "id": "31-87-7-5",
+   "points": 2,
+   "name": "Stone Cold",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 560158
+  },
+  {
+   "id": "31-87-7-6",
+   "points": 1,
+   "name": "Bearskin",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800094
+  },
+  {
+   "id": "31-87-5-6",
+   "points": 1,
+   "name": "Stonefaced",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706201
+  },
+  {
+   "id": "31-87-2-4a",
+   "points": 1,
+   "name": "Fury of the Elements",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706165
+  },
+  {
+   "id": "31-87-1-5",
+   "points": 2,
+   "name": "Nature's Call",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 706150
+  },
+  {
+   "id": "31-87-1-6",
+   "points": 1,
+   "name": "Dreamslip",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 805867
+  },
+  {
+   "id": "31-87-2-7b",
+   "points": 1,
+   "name": "Mending Touch",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 524971
+  },
+  {
+   "id": "31-87-4-7",
+   "points": 1,
+   "name": "Therazane's Gift",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504219
+  },
+  {
+   "id": "31-87-6-7",
+   "points": 1,
+   "name": "Mineralization",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 520464
+  },
+  {
+   "id": "31-87-1-8",
+   "points": 1,
+   "name": "Grove Guardian",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 503721
+  },
+  {
+   "id": "31-87-2-9",
+   "points": 1,
+   "name": "Protector of the Grove",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504198
+  },
+  {
+   "id": "31-91-4-0",
+   "points": 1,
+   "name": "Quake",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 803974
+  },
+  {
+   "id": "31-91-4-1",
+   "points": 2,
+   "name": "Unyielding Form",
+   "maxPoints": 2,
+   "tree": "Mountain King",
+   "spellId": 706161
+  },
+  {
+   "id": "31-91-2-2",
+   "points": 1,
+   "name": "Seismically Efficient",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680413
+  },
+  {
+   "id": "31-91-6-2",
+   "points": 2,
+   "name": "Stone Soldier",
+   "maxPoints": 2,
+   "tree": "Mountain King",
+   "spellId": 570157
+  },
+  {
+   "id": "31-91-4-3",
+   "points": 1,
+   "name": "Mountain Hammer",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 681130
+  },
+  {
+   "id": "31-91-1-3",
+   "points": 1,
+   "name": "Spiritbound",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 681364
+  },
+  {
+   "id": "31-91-1-4",
+   "points": 1,
+   "name": "Bash",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680964
+  },
+  {
+   "id": "31-91-2-5",
+   "points": 1,
+   "name": "Raging Earth",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 706622
+  },
+  {
+   "id": "31-91-1-6",
+   "points": 1,
+   "name": "Earthbreaker",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 560147
+  },
+  {
+   "id": "31-91-0-7",
+   "points": 1,
+   "name": "Quakeformer",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680419
+  },
+  {
+   "id": "31-91-3-4a",
+   "points": 1,
+   "name": "Everythings A Nail",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680405
+  },
+  {
+   "id": "31-91-4-5",
+   "points": 1,
+   "name": "Earthen Avatar",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680421
+  },
+  {
+   "id": "31-91-7-3",
+   "points": 1,
+   "name": "Blessed by the Earth",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 300695
+  },
+  {
+   "id": "31-91-7-4",
+   "points": 1,
+   "name": "Stonebound",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680415
+  },
+  {
+   "id": "31-91-6-5",
+   "points": 1,
+   "name": "Terrasmash",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 706220
+  },
+  {
+   "id": "31-91-8-5",
+   "points": 2,
+   "name": "Mountain Thane",
+   "maxPoints": 2,
+   "tree": "Mountain King",
+   "spellId": 680404
+  },
+  {
+   "id": "31-91-7-6a",
+   "points": 1,
+   "name": "Earthenforged Barrier",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680408
+  },
+  {
+   "id": "31-91-2-7",
+   "points": 1,
+   "name": "Resources of the Earth",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 560548
+  },
+  {
+   "id": "31-91-6-7",
+   "points": 1,
+   "name": "Fury of the Earthmother",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680412
+  },
+  {
+   "id": "31-91-4-6",
+   "points": 1,
+   "name": "Primal Guardian",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 300728
+  },
+  {
+   "id": "31-91-1-8",
+   "points": 1,
+   "name": "Judgement of The Three Hammers",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 520466
+  },
+  {
+   "id": "31-91-3-9a",
+   "points": 1,
+   "name": "Seismic Smash",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 300693
+  },
+  {
+   "id": "31-91-10-0",
+   "points": 1,
+   "name": "Mountain Giant",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680395
+  },
+  {
+   "id": "31-91-10-2",
+   "points": 1,
+   "name": "King of the Mountain",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 570183
+  },
+  {
+   "id": "31-91-10-4",
+   "points": 1,
+   "name": "Stone Skin",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 806583
+  },
+  {
+   "id": "31-91-10-6",
+   "points": 1,
+   "name": "Call of the Mountain",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 680406
+  },
+  {
+   "id": "31-91-10-8",
+   "points": 1,
+   "name": "Mountain Avatar",
+   "maxPoints": 1,
+   "tree": "Mountain King",
+   "spellId": 707616
+  }
+ ]
+}

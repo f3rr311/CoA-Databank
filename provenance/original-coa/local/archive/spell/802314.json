@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bloodsores",
+  "icon": "ability_ironmaidens_whirlofblood",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bloodsores</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 30 Passive</span><br />Increases the range of your Sanguine spells by 10 yds.</span></td></tr></table><!--?802314:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

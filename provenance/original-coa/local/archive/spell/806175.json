@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dreadfall",
+  "icon": "custom_t_nhance_rpg_icons_shadowguard_border",
+  "tooltip_enus": "<table><tr><td><b>Dreadfall</b><br />12% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>25&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Raise your shield and charge towards an enemy, dealing AP*0.5 Shadow damage to enemies you pass through, generating additional threat.</span></td></tr></table><!--?806175:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

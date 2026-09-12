@@ -1,0 +1,8 @@
+{
+  "name_enus": "Demonic Grit",
+  "icon": "inv_helm_cloth_raidwarlock_r_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Demonic Grit</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Grant your summons demonic grit, increasing their total health by 15% and reducing their damage taken by by 10%.</span></td></tr></table><!--?805678:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sizzle",
+  "icon": "spell_fire_flametounge",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Sizzle</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">When <span style=\"color: #ffffff;\">Flamecasting</span> expires you launch a <span style=\"color: #ffffff;\">Flare Bolt</span> on up to 12 enemies affected by your active Pyromancer periodic effects.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/custom_t_fireball_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=800790'> Flare Bolt </a> <br />\n                            <span> <span style=\"color: #ff7f7f;\">Generates 20 Heat</span><br />Invoke flames upon an enemy, dealing 19+0+FireP*.571 Fire damage.</span><br /></span></td></tr></table><!--?800811:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

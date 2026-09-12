@@ -1,0 +1,8 @@
+{
+  "name_enus": "Geyser",
+  "icon": "spell_fire_bluehellfire",
+  "tooltip_enus": "<table><tr><td><b>Geyser</b><br />11% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Summon a powerful surge of water beneath the target enemy, dealing 537+(PL*2.0-21*2.0) Frost damage and launching them into the air.<br /><br /><span style=\"color: #ffffff;\">Focus</span>: Party and raid members within 30 yds of you take 40% reduced damage for until cancelled.</span></td></tr></table><!--?800374:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

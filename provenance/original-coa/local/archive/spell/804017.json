@@ -1,0 +1,15 @@
+{
+  "name_enus": "Torrential Wrath",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Torrential Wrath</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>2.5 sec cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cc99ff;\">Depletes 50 Static</span><!--sp500005:0--><!--sp500005--><br />Blast an enemy, dealing COND(GT(FroP, NatP), 111+0+FroP*1, 111+0+NatP*1.5) Frost damage, scaling with your haste rating.</span></td></tr></table><!--?804017:1:1:80-->",
+  "spells_enus": {
+    "500005": [
+      [
+        "",
+        "<br /><span style=\"color: #ff4fd1\">Consumes Conductive</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

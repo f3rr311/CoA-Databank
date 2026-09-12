@@ -1,0 +1,8 @@
+{
+  "name_enus": "Master of Concoctions",
+  "icon": "ability_monk_ironskinbrew",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Master of Concoctions</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the duration of <span style=\"color: #ffffff;\">Ingredients</span> by 20% and causes allies affected by <span style=\"color: #ffffff;\">Jungle Shrooms</span> to heal for 5% of the damage they deal with their next 3 offensive abilities or spells for 15&nbsp;sec.</span></td></tr></table><!--?801690:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chitinous Spikes",
+  "icon": "nhi_nature_spikes_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Chitinous Spikes</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Causes non-periodic critical strikes to grant <span style=\"color: #ffffff;\">Chitinous Spikes</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/custom_t_poisonspikes_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=503793'> Chitinous Spikes </a> <br />\n                            <span> </span><br /></span></td></tr></table><!--?705987:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

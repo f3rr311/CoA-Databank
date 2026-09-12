@@ -1,0 +1,8 @@
+{
+  "name_enus": "Storm Channeling",
+  "icon": "spell_shaman_elementaloath",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Storm Channeling</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">While <span style=\"color: #FFFFFF;\">Stormcloak</span> is active your Armor is now increased by 500% of your Intellect.</span></td></tr></table><!--?804040:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Celestial Protection",
+  "icon": "ability_priest_soulwarding",
+  "tooltip_enus": "<table><tr><td><b>Celestial Protection</b><br />30 Rage<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Absorbs AP*0.85 damage, based on attack power. Lasts up to 6&nbsp;sec.</span></td></tr></table><!--?805584:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

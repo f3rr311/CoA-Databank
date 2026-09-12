@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cruelty",
+  "icon": "_warlock_imp",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Cruelty</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your critical strike chance by 2% and an additional 3% against Demons.</span></td></tr></table><!--?705109:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Banner of Swiftness",
+  "icon": "inv_banner_03",
+  "tooltip_enus": "<table><tr><td><b>Banner of Swiftness</b><br />25 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Attach a <span style=\"color: #ffffff;\">Banner of Swiftness</span> to your back, increasing the haste of party and raid members within 40 yds by 5%.<br /><br />Does not stack with similar effects.</span></td></tr></table><!--?500259:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

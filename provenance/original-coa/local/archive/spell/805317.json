@@ -1,0 +1,8 @@
+{
+  "name_enus": "Master Sapper",
+  "icon": "inv_gizmo_supersappercharge",
+  "tooltip_enus": "<table><tr><td><b>Master Sapper</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage dealt by your <span style=\"color: #ffffff;\">Sapper Charge</span> explosion by 30%.</span></td></tr></table><!--?805317:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

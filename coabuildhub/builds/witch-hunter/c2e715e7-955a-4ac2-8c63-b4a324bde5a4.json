@@ -1,0 +1,760 @@
+{
+ "build": {
+  "id": "c2e715e7-955a-4ac2-8c63-b4a324bde5a4",
+  "title": "PvP Inquisition Witch Hunter - Flourish One Deeg",
+  "description": "[overview]\nYo.\n\nBasic set up is fairly straight forward. Brand of the unworthy to get to the target, into shadow trap. During the trap, Pyro Tonic, Flourish, Fiery Judgment, Torchlight+Darkslayers lantern,  dawn blade, pe, spam dusk blade. Dark regen off cd where you know you are not killing soon. Idea here is to stun into stun since they are both off gcd, just make sure there is no gap and to silence out. \n\nAlso, your a rage class. Keep up flames of sin between goes. uptime is king with brushin' off the dusk and dusk blade has 100% pen and heals so it's imperative you are hitting something. Also generate your stacks and pop the enemy like a zit with torch. \n\nUse bomb wisely. CC the healer or off dps and towards the end of the cc you bomb. Especially op if the healer still has trinket and the kill target doesn't.\n\nAgi + spell power is better for fire spells, and int + attack power is better for stake. Torchlight and fiery judgment benefit from both. therefore we prio hybrid items with more overall stats but agi is king. So I think seargent's linked is good for honor. just my opinion we'll know more later. Also allows for ranged damage if you need to kite a go.\n\nNot going to include everything. However it is propaganda that this spec is not good. It's wildly strong just have to play efficiently and proactively.",
+  "class_id": 15,
+  "spec_id": 41,
+  "author_id": "646d7b60-2024-4e0a-80bb-9d44bde93e7d",
+  "talent_string": "W1siMTUtODctMi0wIiwxXSxbIjE1LTg3LTQtMCIsMV0sWyIxNS04Ny02LTAiLDFdLFsiMTUtODctMy0xIiwyXSxbIjE1LTg3LTMtMiIsMV0sWyIxNS04Ny03LTEiLDFdLFsiMTUtODctNi0zIiwxXSxbIjE1LTg3LTQtMyIsMV0sWyIxNS04Ny0yLTMiLDFdLFsiMTUtODctNS00IiwxXSxbIjE1LTg3LTctNGIiLDFdLFsiMTUtODctNy01IiwxXSxbIjE1LTg3LTQtNSIsMV0sWyIxNS04Ny0yLTYiLDFdLFsiMTUtODctNi02IiwxXSxbIjE1LTg3LTctNyIsMV0sWyIxNS00MS00LTAiLDFdLFsiMTUtNDEtMTAtMCIsMV0sWyIxNS00MS0xMC0yIiwxXSxbIjE1LTQxLTQtMSIsMV0sWyIxNS00MS02LTIiLDJdLFsiMTUtNDEtMi0yIiwxXSxbIjE1LTQxLTEtMyIsMV0sWyIxNS00MS00LTMiLDFdLFsiMTUtNDEtNi0zIiwxXSxbIjE1LTQxLTItNCIsMV0sWyIxNS00MS0wLTQiLDFdLFsiMTUtNDEtMC01IiwxXSxbIjE1LTQxLTQtNSIsMV0sWyIxNS00MS00LTYiLDFdLFsiMTUtNDEtMS02IiwxXSxbIjE1LTQxLTEtN2EiLDFdLFsiMTUtNDEtNi00IiwxXSxbIjE1LTQxLTEwLTQiLDFdLFsiMTUtNDEtMTAtNiIsMV0sWyIxNS00MS0zLTciLDFdLFsiMTUtNDEtNS00IiwyXSxbIjE1LTQxLTEtOCIsMV0sWyIxNS00MS0xLTkiLDFdLFsiMTUtNDEtMTAtOCIsMV0sWyIxNS00MS03LTMiLDFdLFsiMTUtNDEtOC00IiwxXSxbIjE1LTQxLTgtNSIsMV0sWyIxNS00MS03LTYiLDFdLFsiMTUtODctMS03IiwxXSxbIjE1LTg3LTQtNiIsMV0sWyIxNS04Ny01LTciLDJdLFsiMTUtODctMS04IiwxXSxbIjE1LTg3LTEtOSIsMV0sWyIxNS04Ny0xLTEiLDFdLFsiMTUtODctNS04IiwxXSxbIjE1LTg3LTQtOSIsMV1d",
+  "tags": [],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 4,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-27T03:50:02.290466+00:00",
+  "updated_at": "2026-07-27T03:50:02.290466+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 579,
+  "net_score": 4,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "646d7b60-2024-4e0a-80bb-9d44bde93e7d",
+   "username": "Devin",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLlx1CcX8Kqv6IHa5gYMJ5gr_HuYND2dc8iiF4ptI7X3n3bt8c=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "e4e89e4c-e64d-41df-b93a-62e7a56fc887",
+   "title": "Houndmaster Deep Dive: Talents, Rotation, Macros, Tips.",
+   "class_id": 15,
+   "spec_id": 40,
+   "author_id": "8c36ddd8-f036-49e0-ab3c-83c64f77036e",
+   "tags": [
+    "leveling",
+    "aoe",
+    "dungeons"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1317,
+   "featured": false,
+   "created_at": "2026-07-25T03:07:22.148958+00:00",
+   "updated_at": "2026-07-30T09:18:21.694+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "8c36ddd8-f036-49e0-ab3c-83c64f77036e",
+    "username": "brandonenjoyer.",
+    "avatar_url": "https://cdn.discordapp.com/avatars/202225650130485248/0fd82d4536714f7dd9249a5882d9835a.png"
+   }
+  },
+  {
+   "id": "d4a7ebc9-3096-4026-987a-ac8f072d7562",
+   "title": "\"..and stay down!\" vibe build",
+   "class_id": 15,
+   "spec_id": 41,
+   "author_id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+   "tags": [
+    "raid",
+    "testing"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 357,
+   "featured": false,
+   "created_at": "2026-07-26T11:58:04.498286+00:00",
+   "updated_at": "2026-07-28T15:59:21.56+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+    "username": "bruttus_",
+    "avatar_url": "https://cdn.discordapp.com/avatars/716955228729245781/98ec4037a0a68fd624f2a4ad6069555b.png"
+   }
+  },
+  {
+   "id": "be8e37d0-6d9b-4b14-a8d6-bd3e96360dc9",
+   "title": "Black Knight Tank",
+   "class_id": 15,
+   "spec_id": 94,
+   "author_id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+   "tags": [
+    "Tank",
+    "Black Knight",
+    "Witch Hunter",
+    "Pve",
+    "m+"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 273,
+   "featured": false,
+   "created_at": "2026-07-26T04:15:26.139086+00:00",
+   "updated_at": "2026-07-26T04:15:26.139086+00:00",
+   "has_talents": true,
+   "guide_section_count": 3,
+   "author": {
+    "id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+    "username": "Augusto R.A",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL-BwAqiaXC2HCf37ylOwfadsrOg1LOqGO1Ljzqd6AU0IBsMj_t=s96-c"
+   }
+  }
+ ],
+ "class": "Witch Hunter",
+ "spec": "Inquisition",
+ "allocations": [
+  [
+   "15-87-2-0",
+   1
+  ],
+  [
+   "15-87-4-0",
+   1
+  ],
+  [
+   "15-87-6-0",
+   1
+  ],
+  [
+   "15-87-3-1",
+   2
+  ],
+  [
+   "15-87-3-2",
+   1
+  ],
+  [
+   "15-87-7-1",
+   1
+  ],
+  [
+   "15-87-6-3",
+   1
+  ],
+  [
+   "15-87-4-3",
+   1
+  ],
+  [
+   "15-87-2-3",
+   1
+  ],
+  [
+   "15-87-5-4",
+   1
+  ],
+  [
+   "15-87-7-4b",
+   1
+  ],
+  [
+   "15-87-7-5",
+   1
+  ],
+  [
+   "15-87-4-5",
+   1
+  ],
+  [
+   "15-87-2-6",
+   1
+  ],
+  [
+   "15-87-6-6",
+   1
+  ],
+  [
+   "15-87-7-7",
+   1
+  ],
+  [
+   "15-41-4-0",
+   1
+  ],
+  [
+   "15-41-10-0",
+   1
+  ],
+  [
+   "15-41-10-2",
+   1
+  ],
+  [
+   "15-41-4-1",
+   1
+  ],
+  [
+   "15-41-6-2",
+   2
+  ],
+  [
+   "15-41-2-2",
+   1
+  ],
+  [
+   "15-41-1-3",
+   1
+  ],
+  [
+   "15-41-4-3",
+   1
+  ],
+  [
+   "15-41-6-3",
+   1
+  ],
+  [
+   "15-41-2-4",
+   1
+  ],
+  [
+   "15-41-0-4",
+   1
+  ],
+  [
+   "15-41-0-5",
+   1
+  ],
+  [
+   "15-41-4-5",
+   1
+  ],
+  [
+   "15-41-4-6",
+   1
+  ],
+  [
+   "15-41-1-6",
+   1
+  ],
+  [
+   "15-41-1-7a",
+   1
+  ],
+  [
+   "15-41-6-4",
+   1
+  ],
+  [
+   "15-41-10-4",
+   1
+  ],
+  [
+   "15-41-10-6",
+   1
+  ],
+  [
+   "15-41-3-7",
+   1
+  ],
+  [
+   "15-41-5-4",
+   2
+  ],
+  [
+   "15-41-1-8",
+   1
+  ],
+  [
+   "15-41-1-9",
+   1
+  ],
+  [
+   "15-41-10-8",
+   1
+  ],
+  [
+   "15-41-7-3",
+   1
+  ],
+  [
+   "15-41-8-4",
+   1
+  ],
+  [
+   "15-41-8-5",
+   1
+  ],
+  [
+   "15-41-7-6",
+   1
+  ],
+  [
+   "15-87-1-7",
+   1
+  ],
+  [
+   "15-87-4-6",
+   1
+  ],
+  [
+   "15-87-5-7",
+   2
+  ],
+  [
+   "15-87-1-8",
+   1
+  ],
+  [
+   "15-87-1-9",
+   1
+  ],
+  [
+   "15-87-1-1",
+   1
+  ],
+  [
+   "15-87-5-8",
+   1
+  ],
+  [
+   "15-87-4-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "15-87-2-0",
+   "points": 1,
+   "name": "Vault",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 500085
+  },
+  {
+   "id": "15-87-4-0",
+   "points": 1,
+   "name": "Shadow Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680238
+  },
+  {
+   "id": "15-87-6-0",
+   "points": 1,
+   "name": "Burrow Bolt",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802269
+  },
+  {
+   "id": "15-87-3-1",
+   "points": 2,
+   "name": "Night Stalker",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 300792
+  },
+  {
+   "id": "15-87-3-2",
+   "points": 1,
+   "name": "Brimming Hatred",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705496
+  },
+  {
+   "id": "15-87-7-1",
+   "points": 1,
+   "name": "Combat Training",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680529
+  },
+  {
+   "id": "15-87-6-3",
+   "points": 1,
+   "name": "Witchblood Tonic",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802278
+  },
+  {
+   "id": "15-87-4-3",
+   "points": 1,
+   "name": "Evil Never Sleeps",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 804185
+  },
+  {
+   "id": "15-87-2-3",
+   "points": 1,
+   "name": "Inquisitor's Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681445
+  },
+  {
+   "id": "15-87-5-4",
+   "points": 1,
+   "name": "Vengeful Intent",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705534
+  },
+  {
+   "id": "15-87-7-4b",
+   "points": 1,
+   "name": "Regenerative Elixirs",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705528
+  },
+  {
+   "id": "15-87-7-5",
+   "points": 1,
+   "name": "Witching Shroud",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 805770
+  },
+  {
+   "id": "15-87-4-5",
+   "points": 1,
+   "name": "Brand of the Unworthy",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 501380
+  },
+  {
+   "id": "15-87-2-6",
+   "points": 1,
+   "name": "Strategist",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681156
+  },
+  {
+   "id": "15-87-6-6",
+   "points": 1,
+   "name": "Dark Intuition",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 806195
+  },
+  {
+   "id": "15-87-7-7",
+   "points": 1,
+   "name": "Dark Souls",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802011
+  },
+  {
+   "id": "15-41-4-0",
+   "points": 1,
+   "name": "Hunt",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 802006
+  },
+  {
+   "id": "15-41-10-0",
+   "points": 1,
+   "name": "Flames of Sin",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 92094
+  },
+  {
+   "id": "15-41-10-2",
+   "points": 1,
+   "name": "Interrogator",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 806188
+  },
+  {
+   "id": "15-41-4-1",
+   "points": 1,
+   "name": "Dusk Blade",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 802020
+  },
+  {
+   "id": "15-41-6-2",
+   "points": 2,
+   "name": "Brooding Hatred",
+   "maxPoints": 2,
+   "tree": "Inquisition",
+   "spellId": 301251
+  },
+  {
+   "id": "15-41-2-2",
+   "points": 1,
+   "name": "Sermon of Flame",
+   "maxPoints": 2,
+   "tree": "Inquisition",
+   "spellId": 503655
+  },
+  {
+   "id": "15-41-1-3",
+   "points": 1,
+   "name": "Purifier's Edge",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 802019
+  },
+  {
+   "id": "15-41-4-3",
+   "points": 1,
+   "name": "Protector of Darkshire",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 300575
+  },
+  {
+   "id": "15-41-6-3",
+   "points": 1,
+   "name": "Refined Combatant",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 572770
+  },
+  {
+   "id": "15-41-2-4",
+   "points": 1,
+   "name": "Fiery Judgement",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 802140
+  },
+  {
+   "id": "15-41-0-4",
+   "points": 1,
+   "name": "Searing Hilt",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 705480
+  },
+  {
+   "id": "15-41-0-5",
+   "points": 1,
+   "name": "Cinder and Ashes",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 707317
+  },
+  {
+   "id": "15-41-4-5",
+   "points": 1,
+   "name": "Pyro Tonic",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 802277
+  },
+  {
+   "id": "15-41-4-6",
+   "points": 1,
+   "name": "Holy Frenzy",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 681327
+  },
+  {
+   "id": "15-41-1-6",
+   "points": 1,
+   "name": "Torchlight",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 503662
+  },
+  {
+   "id": "15-41-1-7a",
+   "points": 1,
+   "name": "Sinner",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 681411
+  },
+  {
+   "id": "15-41-6-4",
+   "points": 1,
+   "name": "Darkslayer's Lantern",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 802139
+  },
+  {
+   "id": "15-41-10-4",
+   "points": 1,
+   "name": "Malice",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 707535
+  },
+  {
+   "id": "15-41-10-6",
+   "points": 1,
+   "name": "Heartstopper",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 680540
+  },
+  {
+   "id": "15-41-3-7",
+   "points": 1,
+   "name": "Dawn",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 705484
+  },
+  {
+   "id": "15-41-5-4",
+   "points": 2,
+   "name": "Brushin' Off The Dusk",
+   "maxPoints": 2,
+   "tree": "Inquisition",
+   "spellId": 681329
+  },
+  {
+   "id": "15-41-1-8",
+   "points": 1,
+   "name": "Lightbringer",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 680538
+  },
+  {
+   "id": "15-41-1-9",
+   "points": 1,
+   "name": "Purity & Wickedness",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 680544
+  },
+  {
+   "id": "15-41-10-8",
+   "points": 1,
+   "name": "Evil Doers, Beware!",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 681328
+  },
+  {
+   "id": "15-41-7-3",
+   "points": 1,
+   "name": "Smite Evil",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 802004
+  },
+  {
+   "id": "15-41-8-4",
+   "points": 1,
+   "name": "Flames of the Sinned",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 560207
+  },
+  {
+   "id": "15-41-8-5",
+   "points": 1,
+   "name": "Flourish",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 805365
+  },
+  {
+   "id": "15-41-7-6",
+   "points": 1,
+   "name": "Stake",
+   "maxPoints": 1,
+   "tree": "Inquisition",
+   "spellId": 680537
+  },
+  {
+   "id": "15-87-1-7",
+   "points": 1,
+   "name": "Resilient to Darkness",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681092
+  },
+  {
+   "id": "15-87-4-6",
+   "points": 1,
+   "name": "Vampire Hunter",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 803638
+  },
+  {
+   "id": "15-87-5-7",
+   "points": 2,
+   "name": "Alchemical Research",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705498
+  },
+  {
+   "id": "15-87-1-8",
+   "points": 1,
+   "name": "Smoke Grenade",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 805756
+  },
+  {
+   "id": "15-87-1-9",
+   "points": 1,
+   "name": "Trickster",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705526
+  },
+  {
+   "id": "15-87-1-1",
+   "points": 1,
+   "name": "Night Walker",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 789256
+  },
+  {
+   "id": "15-87-5-8",
+   "points": 1,
+   "name": "Slayer of Darkness",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 804024
+  },
+  {
+   "id": "15-87-4-9",
+   "points": 1,
+   "name": "Slayer's Mark",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 804068
+  }
+ ]
+}

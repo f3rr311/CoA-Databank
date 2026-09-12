@@ -1,0 +1,8 @@
+{
+  "name_enus": "Strike A Deal",
+  "icon": "inv_misc_coin_09",
+  "tooltip_enus": "<table><tr><td><b>Strike A Deal</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Invokes Bwonsamdi</span><br />Sacrifices 10% of your maximum health to generate 15% of your maximum mana.</span></td></tr></table><!--?806474:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

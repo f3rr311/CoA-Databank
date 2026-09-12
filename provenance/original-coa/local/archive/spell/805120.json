@@ -1,0 +1,8 @@
+{
+  "name_enus": "Herald of the Depths",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Herald of the Depths</b></td><th><b class=\"q0\">Spec Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reaching 100 <span style=\"color: #cfa6ff;\">Insanity</span> no longer causes <span style=\"color: #FFFFFF;\">Total Madness</span>.<br /><br />Teaches you <span style=\"color: #ffffff;\">Herald of the Depths</span>. <br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/achievement_boss_shrine_zaxasj_the_speaker.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=520326'> Herald of the Depths </a> <br />\n                            <span> Transform into a <span style=\"color: #ffffff;\">Herald of the Depths</span> for 20&nbsp;sec, increasing damage and healing done by 15% and the duration of absorption and healing over time effects by 100%.<br /><br />At the end of the duration, your <span style=\"color: #cfa6ff;\">Insanity</span> is reduced to 0.</span><br /></span></td></tr></table><!--?805120:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

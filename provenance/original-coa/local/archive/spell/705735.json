@@ -1,0 +1,8 @@
+{
+  "name_enus": "Exsanguination",
+  "icon": "nhi_blooddrop_border",
+  "tooltip_enus": "<table><tr><td><b>Exsanguination</b><br /></td></tr></table><table><tr><td><span class=\"q\">Increases damage dealt to bleeding enemies by 5%.</span></td></tr></table><!--?705735:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

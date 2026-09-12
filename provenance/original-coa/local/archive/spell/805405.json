@@ -1,0 +1,8 @@
+{
+  "name_enus": "Venoxis Fang",
+  "icon": "spell_nature_poisoncleansingtotem",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Venoxis Fang</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>9% of base mana<br /><table width=\"100%\"><tr><td>2 sec cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Blast an enemy with a jet of toxic venom, dealing 123+0+ShaP*0.65 Shadow Damage, increasing the damage the target takes from this spell by 5% and its mana cost by 5% for 6&nbsp;sec, stacks 5 times.<br /><br />If your target is afflicted with <span style=\"color: #ffffff;\">Lethargy</span>, this spell incurs no cooldown. Usable while moving.<br /><br />Scales with modifiers to <span style=\"color: #ffffff;\">Venom Bolt</span>.</span></td></tr></table><!--?805405:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

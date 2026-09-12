@@ -1,0 +1,8 @@
+{
+  "name_enus": "Word of Flames",
+  "icon": "boss_odunrunes_orange",
+  "tooltip_enus": "<table><tr><td><b>Word of Flames</b><br />8% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>6&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Consumes 2 |cffffffffInscribed Runes</span><br />Mark an enemy for until cancelled, after this duration the target explodes, dealing 15+6.5 Points Per Level+FireP*0.785+Int*0.1885 Fire damage scaling with Intellect.</span></td></tr></table><!--?800306:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

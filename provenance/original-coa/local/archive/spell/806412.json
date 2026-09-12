@@ -1,0 +1,8 @@
+{
+  "name_enus": "Waterfall",
+  "icon": "inv_staff_2h_artifactaegwynsstaff_d_03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Waterfall</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Dealing critical damage now reduces all of your cooldowns by 0.5 sec.</span></td></tr></table><!--?806412:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

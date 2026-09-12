@@ -1,0 +1,8 @@
+{
+  "name_enus": "Undertaker",
+  "icon": "ui_darkshore_warfront_horde_lancer",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Undertaker</b></td><th><b class=\"q0\">Passive</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your Stamina by 10%.</span></td></tr></table><!--?802022:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Darkslayer's Lantern",
+  "icon": "inv_misc_trinket6oih_lanternb1",
+  "tooltip_enus": "<table><tr><td><b>Darkslayer's Lantern</b><br />30% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empower a lantern with your <span style=\"color: #ff7a24;\">Flames of Sin</span> and let it shine, dealing 291+0+AP*.15 Fire damage and stunning all enemies within 5 yds for 5&nbsp;sec.</span></td></tr></table><!--?802139:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

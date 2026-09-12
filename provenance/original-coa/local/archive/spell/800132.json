@@ -1,0 +1,8 @@
+{
+  "name_enus": "Thane's Guard",
+  "icon": "achievements_zone_stormheim",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Thane's Guard</b></td><th><b class=\"q0\">passive</b></th></tr></table>Instant</td></tr></table><table><tr><td>Requires Shields<br /><span class=\"q\">Gain the <span style=\"color: #ffffff;\">Shield</span> proficiency and while wearing a shield you gain 40% increased attack speed and 100% increased Armor contribution from your shield.</span></td></tr></table><!--?800132:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

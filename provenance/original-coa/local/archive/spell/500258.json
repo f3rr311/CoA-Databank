@@ -1,0 +1,8 @@
+{
+  "name_enus": "Final Verdict",
+  "icon": "epic_rpg_icon_pack_brutal_icon_0001s_0000_warrior_border",
+  "tooltip_enus": "<table><tr><td><b>Final Verdict</b><br />50 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Give the final verdict to your target, dealing 1195+0+AP*1 Physical damage and healing you for 15% of your maximum health.<br /><br />Only usable on enemies below 20% health. Killing blows reset the cooldown of this ability.</span></td></tr></table><!--?500258:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Scourgebane",
+  "icon": "spell_holy_retributionaura",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Scourgebane</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Critical strikes now explode with holy flames, dealing 0% additional Weapon Damage as Holyflame Damage to 0 nearby enemies.</span></td></tr></table><!--?804916:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

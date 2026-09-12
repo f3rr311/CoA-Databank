@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lifeline",
+  "icon": "spell_animarevendreth_beam",
+  "tooltip_enus": "<table><tr><td><b>Lifeline</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Healing an ally now generates 15% of your Missing Rage.</span></td></tr></table><!--?806426:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

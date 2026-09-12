@@ -1,0 +1,713 @@
+{
+ "build": {
+  "id": "e8ee75b8-8e51-4d3a-af1b-a47d6c4d13b7",
+  "title": "Blessings Sun Cleric - Dungeons",
+  "description": "[overview]\nStance Dancing allows you to keep up with most DPS - especially after you add in Blessing of Absolution to your own dps !\n\nThis is a faster paced playstyle if you want to do as much dps as possible while providing your groups with a ton of healing.\n\n[talents]\nChange out Sanctified, and Faith for Everglow, and Sunbeams for Raids.\n\nI don't think Cultivate Divinity + Empowered Holy Form is worth it because you'll probably not be casting Illumination a lot.\n\nWith more Haste - Gateway to Heaven becomes more attractive than Blazing Chariot - then your whole goal is to get in and out of Dawn as fast as possible. Though if you prefer a slightly slower playstyle then Blazing Chariot is still great !\n\nYou can take Unbreakable Focus, Suncharged (it does ~5% of your damage in dungeons), or Gleaming Vigil. \nI'm going with Unbreakable Focus combined with Final Vows, and Heaven's Appraisal it will allow you to get back into Vow of Dawn spam quicker. \n\nEnveloped in Light is a PvP talent since you're not going to be wearing much Mail and Plate at 60.\n\n[rotation]\nYou'll want to be stance dancing as much as possible ! \n\nSolar Invocation: Conquest should be used on cooldown, and I think it's optimal to Radiant Conversion every time you're below ~85% mana. \n\nThe rotation should be something like: \n\nVow of Grace to build Solar Power -> Vow of Dawn + Dawn -> Sunflare / Heals -> Radiant Conversion + Conquest -> Vow of Grace -> Repeat\n\nYour goal isn't to use all your stacks, but to maintain your mana as much as possible to keep spamming Sunflares inside of Vow of Dawn. Stance dancing, and using Radiant Conversion early with Conquest will allow you to get back into Dawn quickly. \n\nYou rarely ever want to be building your own Solar Power, and that's why you always want to rely on Vow of Grace.\n\nVow of Grace and Vow of Dawn are the bread and butter, while Vow of Radiance should be used for the Dawn effect situationally - boss damage when you're not regenning, or to pump out massive heals when pulls go wrong.\n\nOnce you've picked up Dawnfall you can swap to Vow of Grace to get full mana every time you use Dawnfall. You can even wait for the last ~5 seconds, or as mobs are beginning to die to swap to Grace. \n\nStand in melee to get as much Gavel of Grace, Judgement Day, and Radiance off as possible.\n\n-\n\nOnce you get higher haste or two points into Guiding Glow - \n\nYou can begin to cycle through Dawns very quickly for Gateway to Heaven: \n\nStart in Vow of Grace → Vow of Dawn + Dawn → 3-6 casts → Conquest + Radiant Conversion → 1-2 casts → Dawn again → 3-6 casts -> Radiant Conversion + Vow of Grace for 3-5 seconds -> Vow of Dawn + Dawn -> Repeat\n\nWhen you have Conquest off cooldown stay in Vow of Dawn and Radiant Conversion at 10 or 9 stacks, or when Radiance ends - whichever happens first. \n\nIt should be optimal to drop Dawn at any time around 10-8 stacks.\n\n[gear]\nThis is the gear I'll be going for once I hit 60: https://coa.bisbeard.com/b/9Zegnfw8udGPVt\n\nHaste should be incredibly bonkers to get in and out of Dawn or use its stacks, and to cast Sunflares faster\n\n[leveling]\nLevel 20 Talents: https://ascension.gg/en/v2/coa-builder/voljin?build=JcpBDsBACELRK4loI3OuuX8q7eolfE6qERdr1bOyAnPzEGjvpGYsoLaR39%252FW3%252BWewnB9AQ%253D%253D \n\nBeeline for Daybreak, and Solar Invocation: Conquest.\n\n-\n\nLevel 30 Talents: https://ascension.gg/en/v2/coa-builder/voljin?build=LY3JDQAxCANbwhwLpK70r8VJXqMRxl7aAdkYun9Dc0FtJbXpQPBu1lWkFE5OEDbMPu%252FA5cQ7zlnHdWVO21W%252FLU3XRhlXYPlWjWs%252F \n\nBegin putting points into Ancient Rites so you have more mana to play with. \n\n-\n\nLevel 40 Talents: https://ascension.gg/en/v2/coa-builder/voljin?build=NY7REQQxCEJbEtFNvLrS%252F5yY3a83DAr8vBJ20Ix4mgzDPi56SQMpn6y9RduYO0OyufjMWRi9Cat8YwjZ9aZjj42rO7VyUry1a4XdVEfctlKb%252Fqg14PpiVzPyG8s61HjMGEuV%252FgE%253D\n\nYou can go towards Blazing Chariot, or Glaring Rays. \n\nSuncharged and Devoted to the Light will be competing - if you want more damage go the former, and if you're struggling with mana go the latter. Guiding Glow should be your last point\n\nAlternatively: You can start playing with Gateway to Heaven early by putting two points into Guiding Glow, then begin to rush Final Vows -> Unbreakable Focus. You can put a point into Suncharged until Unbreakable Focus opens up too. \n\n-\n\nLevel 50 Talents: https://ascension.gg/en/v2/coa-builder/voljin?build=NU%252FBEQQxCGpJJMZ4dW3%252Fc%252BJmXwyKgD%252BvgD1oXGs3chnO40IvcSC0J%252BscoR2MzhBsTO6RLaM3wiq0TmLdMUTrhgREvXBGjW%252BOlDlgHo2brnVnlyjNW%252BY6tzHPrviOJ4RV4nKlqoN5X2FenaoKZbvi%252B5T1UJ%252FPWufjbqGOm1T2Hw%253D%253D \n\nGlaring Rays -> Guidance: Touch of Light -> Saviour; Final Vows -> Glare -> Unbreakable Focus\n\n[macros]\nI've been using this for Blessing of Absolution so I don't have to mouseover the tank every time, it's definitely increased my DPS a lot since doing so:\n\n#showtooltip\n/cast [@mouseover, help][help][@player] Bless\n/focus [@mouseover, help][help][@player]\n\n#showtooltip\n/cast [@focus] Blessing of Absolution\n\n#showtooltip\n/cast [@focus] Blessing of Purity\n\nIf you don't want the Focus Target on your screen - with Move Anything make sure to make the frame smaller, then drag it into the top corner because the frame will jump scare you sometimes. \n\nThere's a weird bug with the Focus Target macro or frame where you won't be able to cast Blessing of Absolution again until you recast Bless on the Tank. This seems to only happen when you try to refresh Bless during combat.\n\nConquest Macro:\n\n#showtooltip Solar Invocation: Conquest\n/cast Radiant Conversion\n/cast Solar Invocation: Conquest\n\nThis will end your Dawn, and let you cast Conquest at the same time since Dawn isn't on the GCD. There's been many times where I've accidentally hit Conquest while I was still inside of Dawn, and this macro should fix that !\n\nStance Macros: \n\n#showtooltip Vow of Radiance\n/cast Vow of Radiance\n/cast Dawn\n\n#showtooltip Vow of Dawn\n/cast Vow of Dawn\n/cast Dawn\n\n#showtooltip Vow of Grace\n/cast Vow of Grace\n/cast Dawn\n\nThese will 100% get messy if you're not careful. You should still have Dawn on a comfortable bind on your action bars.\n\nCursor Macro - you can and will place these on ceiling at times, so be careful:\n\n#showtooltip\n/cast [@cursor] Dawnfall\n\n#showtooltip\n/cast [@cursor] Circle of Valor\n\n#showtooltip\n/cast [@cursor] Rejuvenating Rays\n\n[tips]\nDuring dungeons it's not uncommon for you to go full Dps -> Regen -> Dps -> Regen - some packs you'll only get to do 400 damage while you're spamming your single target Sunflare in Vow of Grace, and that's okay ! You don't want your group to stop for you. \n\nYou also won't always have the best groups to play in, so in those it's safer to stay inside of Vow of Grace, while occasionally finding windows to pop into Vow of Dawn. At minimum you should be swapping stances to use Horusath Blast as an AoE.",
+  "class_id": 27,
+  "spec_id": 71,
+  "author_id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+  "talent_string": "W1siMjctODctMi0wIiwxXSxbIjI3LTg3LTItMSIsMl0sWyIyNy04Ny0xLTIiLDFdLFsiMjctODctNi0wIiwxXSxbIjI3LTg3LTYtMSIsMl0sWyIyNy04Ny03LTIiLDFdLFsiMjctODctNC0yIiwxXSxbIjI3LTg3LTItMyIsMV0sWyIyNy04Ny0yLTUiLDFdLFsiMjctODctNC0zIiwxXSxbIjI3LTg3LTYtMyIsMV0sWyIyNy04Ny02LTUiLDFdLFsiMjctODctNi02YSIsMV0sWyIyNy04Ny03LTRhIiwxXSxbIjI3LTcxLTQtMCIsMV0sWyIyNy03MS0yLTEiLDJdLFsiMjctNzEtMS0yIiwxXSxbIjI3LTcxLTQtMiIsMV0sWyIyNy03MS02LTMiLDJdLFsiMjctNzEtNy00IiwxXSxbIjI3LTcxLTgtNiIsMV0sWyIyNy03MS03LTciLDFdLFsiMjctNzEtMi0zIiwxXSxbIjI3LTcxLTItNCIsMV0sWyIyNy03MS0xLTQiLDFdLFsiMjctNzEtMi01IiwzXSxbIjI3LTcxLTItNiIsMV0sWyIyNy03MS0yLTciLDFdLFsiMjctNzEtNi00IiwxXSxbIjI3LTcxLTEwLTAiLDFdLFsiMjctNzEtMTAtMiIsMV0sWyIyNy03MS0xMC00IiwxXSxbIjI3LTcxLTEwLTYiLDFdLFsiMjctNzEtMTAtOCIsMV0sWyIyNy04Ny0yLTZhIiwxXSxbIjI3LTg3LTQtNSIsMV0sWyIyNy04Ny00LTYiLDJdLFsiMjctODctMy03YSIsMV0sWyIyNy04Ny01LTciLDFdLFsiMjctNzEtNC03YiIsMV0sWyIyNy03MS00LTQiLDFdLFsiMjctNzEtNi0xIiwyXSxbIjI3LTcxLTItOCIsMV0sWyIyNy03MS0yLTkiLDFdLFsiMjctODctNS00IiwxXSxbIjI3LTg3LTEtNyIsMV0sWyIyNy04Ny02LTgiLDFdLFsiMjctODctNi05IiwxXV0",
+  "tags": [],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-28T00:34:16.331076+00:00",
+  "updated_at": "2026-07-30T22:27:37.597+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 567,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 7,
+  "author": {
+   "id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+   "username": "Iyob",
+   "avatar_url": null
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "7e9d9222-bd9b-46f8-b6fa-2012abfb8654",
+   "title": "Valkyrie DPS PvE Detailed Guide (Dungeons, Mythics, Raid)",
+   "class_id": 27,
+   "spec_id": 90,
+   "author_id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+   "tags": [
+    "Dungeon",
+    "Heroic",
+    "Mythic",
+    "Raid",
+    "Single Target",
+    "AoE",
+    "PvE",
+    "General",
+    "Sun Cleric",
+    "Valkyrie"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 8,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 1845,
+   "featured": false,
+   "created_at": "2026-07-27T03:35:24.600234+00:00",
+   "updated_at": "2026-07-31T19:59:23.625+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+    "username": "DarkGuardian",
+    "avatar_url": "https://cdn.discordapp.com/avatars/237645502051647488/687c5535110cac02fdc5d918d23e5e98.png"
+   }
+  },
+  {
+   "id": "70365f6d-e8d7-481e-9192-96bc94c2316e",
+   "title": "Sun Cleric - Seraphim - Dungeon",
+   "class_id": 27,
+   "spec_id": 72,
+   "author_id": "326a05bd-ae58-4722-ab9d-22a380d3fe22",
+   "tags": [],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 360,
+   "featured": false,
+   "created_at": "2026-07-25T18:41:27.856779+00:00",
+   "updated_at": "2026-07-25T18:41:27.856779+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "326a05bd-ae58-4722-ab9d-22a380d3fe22",
+    "username": "Sorri",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKZqD5dNL8hx9StOVXHsRYBHnTTEvAK9_JP3Qp2s1W-blgwzA=s96-c"
+   }
+  },
+  {
+   "id": "7d4fd6f5-4c69-4d25-8e94-322419b80281",
+   "title": "JHE - Just Heal Everything - Top Heal Build for Clerics",
+   "class_id": 27,
+   "spec_id": 71,
+   "author_id": "c8328f29-4234-45af-aa95-bba0d898c001",
+   "tags": [
+    "Raid",
+    "Leveling & Dungeons"
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1740,
+   "featured": false,
+   "created_at": "2026-07-21T20:12:00.416317+00:00",
+   "updated_at": "2026-07-26T17:58:26.42+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "c8328f29-4234-45af-aa95-bba0d898c001",
+    "username": "Lieni",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKO1kT0OsmoulrbXWRLpBSahBiFl5HiL5jzVtT6-dn_VdAX6w=s96-c"
+   }
+  }
+ ],
+ "class": "Sun Cleric",
+ "spec": "Blessings",
+ "allocations": [
+  [
+   "27-87-2-0",
+   1
+  ],
+  [
+   "27-87-2-1",
+   2
+  ],
+  [
+   "27-87-1-2",
+   1
+  ],
+  [
+   "27-87-6-0",
+   1
+  ],
+  [
+   "27-87-6-1",
+   2
+  ],
+  [
+   "27-87-7-2",
+   1
+  ],
+  [
+   "27-87-4-2",
+   1
+  ],
+  [
+   "27-87-2-3",
+   1
+  ],
+  [
+   "27-87-2-5",
+   1
+  ],
+  [
+   "27-87-4-3",
+   1
+  ],
+  [
+   "27-87-6-3",
+   1
+  ],
+  [
+   "27-87-6-5",
+   1
+  ],
+  [
+   "27-87-6-6a",
+   1
+  ],
+  [
+   "27-87-7-4a",
+   1
+  ],
+  [
+   "27-71-4-0",
+   1
+  ],
+  [
+   "27-71-2-1",
+   2
+  ],
+  [
+   "27-71-1-2",
+   1
+  ],
+  [
+   "27-71-4-2",
+   1
+  ],
+  [
+   "27-71-6-3",
+   2
+  ],
+  [
+   "27-71-7-4",
+   1
+  ],
+  [
+   "27-71-8-6",
+   1
+  ],
+  [
+   "27-71-7-7",
+   1
+  ],
+  [
+   "27-71-2-3",
+   1
+  ],
+  [
+   "27-71-2-4",
+   1
+  ],
+  [
+   "27-71-1-4",
+   1
+  ],
+  [
+   "27-71-2-5",
+   3
+  ],
+  [
+   "27-71-2-6",
+   1
+  ],
+  [
+   "27-71-2-7",
+   1
+  ],
+  [
+   "27-71-6-4",
+   1
+  ],
+  [
+   "27-71-10-0",
+   1
+  ],
+  [
+   "27-71-10-2",
+   1
+  ],
+  [
+   "27-71-10-4",
+   1
+  ],
+  [
+   "27-71-10-6",
+   1
+  ],
+  [
+   "27-71-10-8",
+   1
+  ],
+  [
+   "27-87-2-6a",
+   1
+  ],
+  [
+   "27-87-4-5",
+   1
+  ],
+  [
+   "27-87-4-6",
+   2
+  ],
+  [
+   "27-87-3-7a",
+   1
+  ],
+  [
+   "27-87-5-7",
+   1
+  ],
+  [
+   "27-71-4-7b",
+   1
+  ],
+  [
+   "27-71-4-4",
+   1
+  ],
+  [
+   "27-71-6-1",
+   2
+  ],
+  [
+   "27-71-2-8",
+   1
+  ],
+  [
+   "27-71-2-9",
+   1
+  ],
+  [
+   "27-87-5-4",
+   1
+  ],
+  [
+   "27-87-1-7",
+   1
+  ],
+  [
+   "27-87-6-8",
+   1
+  ],
+  [
+   "27-87-6-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "27-87-2-0",
+   "points": 1,
+   "name": "Horusath Blast",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 500154
+  },
+  {
+   "id": "27-87-2-1",
+   "points": 2,
+   "name": "Swift Justice",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300322
+  },
+  {
+   "id": "27-87-1-2",
+   "points": 1,
+   "name": "Sintorcher",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704909
+  },
+  {
+   "id": "27-87-6-0",
+   "points": 1,
+   "name": "Solar Invocation: Resplendence",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 806159
+  },
+  {
+   "id": "27-87-6-1",
+   "points": 2,
+   "name": "Solar Might",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704916
+  },
+  {
+   "id": "27-87-7-2",
+   "points": 1,
+   "name": "Devotee",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 707767
+  },
+  {
+   "id": "27-87-4-2",
+   "points": 1,
+   "name": "Sun Stride",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 680700
+  },
+  {
+   "id": "27-87-2-3",
+   "points": 1,
+   "name": "Solar Invocation: Conquest",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 800764
+  },
+  {
+   "id": "27-87-2-5",
+   "points": 1,
+   "name": "Glare",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 805583
+  },
+  {
+   "id": "27-87-4-3",
+   "points": 1,
+   "name": "Blessed Armor",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300334
+  },
+  {
+   "id": "27-87-6-3",
+   "points": 1,
+   "name": "Solar Invocation: Revelation",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 503651
+  },
+  {
+   "id": "27-87-6-5",
+   "points": 1,
+   "name": "Radiance",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 800054
+  },
+  {
+   "id": "27-87-6-6a",
+   "points": 1,
+   "name": "Zealous ",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 560113
+  },
+  {
+   "id": "27-87-7-4a",
+   "points": 1,
+   "name": "Devoted to the Light",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 681436
+  },
+  {
+   "id": "27-71-4-0",
+   "points": 1,
+   "name": "Bless",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 804247
+  },
+  {
+   "id": "27-71-2-1",
+   "points": 2,
+   "name": "An'she's Guidance",
+   "maxPoints": 2,
+   "tree": "Blessings",
+   "spellId": 681064
+  },
+  {
+   "id": "27-71-1-2",
+   "points": 1,
+   "name": "Sanctified",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300344
+  },
+  {
+   "id": "27-71-4-2",
+   "points": 1,
+   "name": "Blessing of Absolution",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 804249
+  },
+  {
+   "id": "27-71-6-3",
+   "points": 2,
+   "name": "Divine Vision",
+   "maxPoints": 2,
+   "tree": "Blessings",
+   "spellId": 706735
+  },
+  {
+   "id": "27-71-7-4",
+   "points": 1,
+   "name": "Hope",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300349
+  },
+  {
+   "id": "27-71-8-6",
+   "points": 1,
+   "name": "Glaring Rays",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 804257
+  },
+  {
+   "id": "27-71-7-7",
+   "points": 1,
+   "name": "Touch of Light",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 572885
+  },
+  {
+   "id": "27-71-2-3",
+   "points": 1,
+   "name": "Daybreak",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 500147
+  },
+  {
+   "id": "27-71-2-4",
+   "points": 1,
+   "name": "Gleaming Light",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 704568
+  },
+  {
+   "id": "27-71-1-4",
+   "points": 1,
+   "name": "Hot Spot",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 301256
+  },
+  {
+   "id": "27-71-2-5",
+   "points": 3,
+   "name": "Ancient Rites",
+   "maxPoints": 3,
+   "tree": "Blessings",
+   "spellId": 300351
+  },
+  {
+   "id": "27-71-2-6",
+   "points": 1,
+   "name": "Heat Wave",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 534267
+  },
+  {
+   "id": "27-71-2-7",
+   "points": 1,
+   "name": "Improved Radiant Cascade",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 807963
+  },
+  {
+   "id": "27-71-6-4",
+   "points": 1,
+   "name": "Savior",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300343
+  },
+  {
+   "id": "27-71-10-0",
+   "points": 1,
+   "name": "Sunlight",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 92136
+  },
+  {
+   "id": "27-71-10-2",
+   "points": 1,
+   "name": "Sun Worship",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 704910
+  },
+  {
+   "id": "27-71-10-4",
+   "points": 1,
+   "name": "Holy Form",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 805301
+  },
+  {
+   "id": "27-71-10-6",
+   "points": 1,
+   "name": "Heaven’s Appraisal",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300353
+  },
+  {
+   "id": "27-71-10-8",
+   "points": 1,
+   "name": "The Redeemer",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300339
+  },
+  {
+   "id": "27-87-2-6a",
+   "points": 1,
+   "name": "Fortuitous",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 561328
+  },
+  {
+   "id": "27-87-4-5",
+   "points": 1,
+   "name": "Pure Light",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300314
+  },
+  {
+   "id": "27-87-4-6",
+   "points": 2,
+   "name": "Guiding Glow",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300324
+  },
+  {
+   "id": "27-87-3-7a",
+   "points": 1,
+   "name": "Final Vows",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 707528
+  },
+  {
+   "id": "27-87-5-7",
+   "points": 1,
+   "name": "Light The Way",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300336
+  },
+  {
+   "id": "27-71-4-7b",
+   "points": 1,
+   "name": "Gateway to Heaven",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 301301
+  },
+  {
+   "id": "27-71-4-4",
+   "points": 1,
+   "name": "Blessing of Purity",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 804253
+  },
+  {
+   "id": "27-71-6-1",
+   "points": 2,
+   "name": "Angelic",
+   "maxPoints": 2,
+   "tree": "Blessings",
+   "spellId": 704582
+  },
+  {
+   "id": "27-71-2-8",
+   "points": 1,
+   "name": "Solar Invigoration",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 806123
+  },
+  {
+   "id": "27-71-2-9",
+   "points": 1,
+   "name": "Solar Priest",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300347
+  },
+  {
+   "id": "27-87-5-4",
+   "points": 1,
+   "name": "Solar Guardian",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704581
+  },
+  {
+   "id": "27-87-1-7",
+   "points": 1,
+   "name": "Unbreakable Focus",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704945
+  },
+  {
+   "id": "27-87-6-8",
+   "points": 1,
+   "name": "Warmth",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704563
+  },
+  {
+   "id": "27-87-6-9",
+   "points": 1,
+   "name": "Circle of Valor",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 520647
+  }
+ ]
+}

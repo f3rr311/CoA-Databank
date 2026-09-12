@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mojo Beam",
+  "icon": "nhi_unholybeam_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Mojo Beam</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>15% of base mana, plus 2 per sec<br /><table width=\"100%\"><tr><td>Channeled</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Bring mojo to an ally, healing for 174+0+SP*0.185 every 1 sec for 4&nbsp;sec. <br /><br />While channeling, you can instantly cast <span style=\"color: #FFFFFF;\">Potion Toss</span>, <span style=\"color: #FFFFFF;\">Splash Potion</span> and <span style=\"color: #FFFFFF;\">Spirit in a Bottle</span> at a 20% increased cost.<br /><br />This spell is unaffected by haste modifiers.</span></td></tr></table><!--?500950:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

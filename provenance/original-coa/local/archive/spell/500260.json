@@ -1,0 +1,8 @@
+{
+  "name_enus": "Standard of Recovery",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Standard of Recovery</b><br />25 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>5&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Tools:<br/><div class=\"indent q1\"><a href=\"?items&filter=cr=91;crs=5;crv=0\">Water Totem</a><br /></div><br /><span class=\"q\">Throw down a <span style=\"color: #ffffff;\">Standard of Recovery</span> for 5&nbsp;min, healing allies within 30 yds for 0+Str*.25 health every 3 sec, scaling with your Strength, and increasing all healing they receive by 6%.<br /><br />Only 1 <span style=\"color: #ffffff;\">Standard</span> can be active at a time.</span></td></tr></table><!--?500260:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

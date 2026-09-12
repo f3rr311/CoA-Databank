@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shaman Training",
+  "icon": "ability_shaman_stormstrike",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Shaman Training</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Wildclaw</span> now reduces the enemy's armor by 4% for 20&nbsp;sec, stacking up to 5 times.</span></td></tr></table><!--?805445:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

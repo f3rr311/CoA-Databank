@@ -1,0 +1,8 @@
+{
+  "name_enus": "Powerful Strikes",
+  "icon": "inv_sword_2h_nazmirraid_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Powerful Strikes</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Templar Strike</span> by 5% and its critical strike chance by 2%.</span></td></tr></table><!--?705254:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

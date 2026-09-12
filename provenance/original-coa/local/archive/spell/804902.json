@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mend Ward",
+  "icon": "spell_holy_healingfocus",
+  "tooltip_enus": "<table><tr><td><b>Mend Ward</b><br />40 Energy<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Heal an ally for 0% maximum health and reduce all damage they take by 0% for until cancelled.<br /><br />Removes all stacks of <span style=\"color: #ffffff;\">Broken Ward</span>.<br /><br />Useable while stunned.</span></td></tr></table><!--?804902:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

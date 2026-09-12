@@ -1,0 +1,8 @@
+{
+  "name_enus": "BOOM!",
+  "icon": "nhi_shadowbombs_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>BOOM!</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Boomshot</span> and <span style=\"color: #ffffff;\">Bomb Toss</span> against enemies affected by <span style=\"color: #ffffff;\">Sticky Bomb</span> by 20%.</span></td></tr></table><!--?705775:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

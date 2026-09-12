@@ -1,0 +1,8 @@
+{
+  "name_enus": "Phoenix Handler",
+  "icon": "inv_6_2raid_trinket_1c",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Phoenix Handler</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Gives <span style=\"color: #ffffff;\">Lava Shard</span> a 100% chance to cause your Phoenix to heal allies within $706856a1yd of it for 20.</span></td></tr></table><!--?704866:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

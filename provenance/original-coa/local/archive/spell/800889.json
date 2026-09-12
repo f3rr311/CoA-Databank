@@ -1,0 +1,8 @@
+{
+  "name_enus": "Brood Marks",
+  "icon": "_d3corpsespiders",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Brood Marks</b></td><th><b class=\"q0\">Spec Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Venom Fang</span> now applies a <span style=\"color: #66ff66;\">Brood Mark</span> for 15&nbsp;sec, stacking 5 times. Some abilities will consume them for an additional effect.</span></td></tr></table><!--?800889:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

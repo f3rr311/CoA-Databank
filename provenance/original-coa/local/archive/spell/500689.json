@@ -1,0 +1,8 @@
+{
+  "name_enus": "Divine Fury",
+  "icon": "nhi_hammeroflight_border",
+  "tooltip_enus": "<table><tr><td><b>Divine Fury</b><br />Instant</td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\">Unleash divine fury, dealing 91+0+HolP*0.45+AP*.25 Holy damage to an enemy and up to 4 nearby enemies and reduces their armor by 5% for 20&nbsp;sec, stacking 5 times.</span></td></tr></table><!--?500689:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

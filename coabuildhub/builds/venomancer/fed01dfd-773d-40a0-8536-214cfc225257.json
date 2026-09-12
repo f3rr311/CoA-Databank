@@ -1,0 +1,684 @@
+{
+ "build": {
+  "id": "fed01dfd-773d-40a0-8536-214cfc225257",
+  "title": "AOE Rot venom",
+  "description": "[overview]\nKeep dots up, and spam bolt. = win.",
+  "class_id": 29,
+  "spec_id": 76,
+  "author_id": "e09decbc-d7a5-48d9-be69-772721fa3478",
+  "talent_string": "W1siMjktNzYtNC0wIiwxXSxbIjI5LTc2LTQtMSIsMV0sWyIyOS03Ni0yLTIiLDJdLFsiMjktNzYtMS0zYiIsMV0sWyIyOS03Ni02LTIiLDNdLFsiMjktNzYtNy0zIiwxXSxbIjI5LTc2LTgtNCIsMV0sWyIyOS03Ni03LTUiLDFdLFsiMjktNzYtNC0yIiwxXSxbIjI5LTc2LTItNCIsMV0sWyIyOS03Ni0zLTUiLDFdLFsiMjktNzYtMC00IiwxXSxbIjI5LTc2LTEtNSIsMV0sWyIyOS03Ni02LTYiLDFdLFsiMjktNzYtNC02IiwxXSxbIjI5LTc2LTQtNyIsMV0sWyIyOS03Ni0xLTYiLDFdLFsiMjktNzYtMC03IiwxXSxbIjI5LTc2LTYtNCIsMl0sWyIyOS03Ni0xLTgiLDFdLFsiMjktNzYtNS04IiwxXSxbIjI5LTg3LTctMCIsMV0sWyIyOS04Ny00LTAiLDFdLFsiMjktODctMy0xIiwyXSxbIjI5LTg3LTUtMSIsMV0sWyIyOS04Ny0zLTIiLDFdLFsiMjktODctNS0yIiwxXSxbIjI5LTg3LTctMyIsMV0sWyIyOS04Ny00LTMiLDFdLFsiMjktODctNC00IiwxXSxbIjI5LTg3LTEtMyIsMV0sWyIyOS04Ny0yLTQiLDFdLFsiMjktODctNS01IiwxXSxbIjI5LTg3LTYtNiIsMV0sWyIyOS04Ny02LTQiLDFdLFsiMjktODctNy01IiwxXSxbIjI5LTg3LTgtNiIsMV0sWyIyOS04Ny03LTciLDFdLFsiMjktODctNC02YSIsMV0sWyIyOS04Ny0wLTQiLDFdLFsiMjktODctMy01IiwxXSxbIjI5LTg3LTItNiIsMV0sWyIyOS04Ny0xLTdhIiwxXSxbIjI5LTg3LTQtNyIsMV0sWyIyOS04Ny0yLTgiLDFdLFsiMjktODctNC05IiwxXV0",
+  "tags": [
+   "Aoe"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-31T18:34:05.441249+00:00",
+  "updated_at": "2026-07-31T18:34:05.441249+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 14,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "e09decbc-d7a5-48d9-be69-772721fa3478",
+   "username": "Lukas Trägårdh",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIdd5SdXV6G2FC_90lsdfAamOH4fqxFs70XVR04ivY3Kah-4IEq=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "8a699a3b-7b56-4c2e-b377-056550e943da",
+   "title": "Venomancer spaider pvp HR",
+   "class_id": 29,
+   "spec_id": 77,
+   "author_id": "7acc8832-e435-4336-ad7c-12df3acd4503",
+   "tags": [
+    "PVP    1V1    HR"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 2,
+   "view_count": 425,
+   "featured": false,
+   "created_at": "2026-07-28T17:33:39.566795+00:00",
+   "updated_at": "2026-07-29T13:17:32.619+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "7acc8832-e435-4336-ad7c-12df3acd4503",
+    "username": "hanselduck",
+    "avatar_url": "https://cdn.discordapp.com/avatars/278988578824912896/343e90e1f7578a4c7a79cda593b6d092.png"
+   }
+  },
+  {
+   "id": "ef1b937f-05be-41b5-85c8-289ceb816d31",
+   "title": "Venomencer Stalker",
+   "class_id": 29,
+   "spec_id": 77,
+   "author_id": "b64cdf8a-1b04-41db-bd9f-d701cc06949a",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1104,
+   "featured": false,
+   "created_at": "2026-07-22T17:36:54.158109+00:00",
+   "updated_at": "2026-07-22T17:36:54.158109+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "b64cdf8a-1b04-41db-bd9f-d701cc06949a",
+    "username": "drafras",
+    "avatar_url": "https://cdn.discordapp.com/avatars/552239173713788939/7bfdd82e711f53b8995d2ab4b11db3d6.png"
+   }
+  },
+  {
+   "id": "e33d7ed1-5f79-45e4-9527-5f3e3246cda7",
+   "title": "Venomancer Spider Lord Tank (End Game Tank Spec)",
+   "class_id": 29,
+   "spec_id": 78,
+   "author_id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+   "tags": [
+    "Venomancer",
+    "Fortitude",
+    "Beetle",
+    "Tank"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 2,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 1534,
+   "featured": false,
+   "created_at": "2026-07-21T18:18:12.502705+00:00",
+   "updated_at": "2026-07-28T13:20:33.211+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+    "username": "ironhorse2",
+    "avatar_url": "https://cdn.discordapp.com/avatars/113811060129005572/bafc4c8b6e838f22795d63c6f089e207.png"
+   }
+  }
+ ],
+ "class": "Venomancer",
+ "spec": "Venom",
+ "allocations": [
+  [
+   "29-76-4-0",
+   1
+  ],
+  [
+   "29-76-4-1",
+   1
+  ],
+  [
+   "29-76-2-2",
+   2
+  ],
+  [
+   "29-76-1-3b",
+   1
+  ],
+  [
+   "29-76-6-2",
+   3
+  ],
+  [
+   "29-76-7-3",
+   1
+  ],
+  [
+   "29-76-8-4",
+   1
+  ],
+  [
+   "29-76-7-5",
+   1
+  ],
+  [
+   "29-76-4-2",
+   1
+  ],
+  [
+   "29-76-2-4",
+   1
+  ],
+  [
+   "29-76-3-5",
+   1
+  ],
+  [
+   "29-76-0-4",
+   1
+  ],
+  [
+   "29-76-1-5",
+   1
+  ],
+  [
+   "29-76-6-6",
+   1
+  ],
+  [
+   "29-76-4-6",
+   1
+  ],
+  [
+   "29-76-4-7",
+   1
+  ],
+  [
+   "29-76-1-6",
+   1
+  ],
+  [
+   "29-76-0-7",
+   1
+  ],
+  [
+   "29-76-6-4",
+   2
+  ],
+  [
+   "29-76-1-8",
+   1
+  ],
+  [
+   "29-76-5-8",
+   1
+  ],
+  [
+   "29-87-7-0",
+   1
+  ],
+  [
+   "29-87-4-0",
+   1
+  ],
+  [
+   "29-87-3-1",
+   2
+  ],
+  [
+   "29-87-5-1",
+   1
+  ],
+  [
+   "29-87-3-2",
+   1
+  ],
+  [
+   "29-87-5-2",
+   1
+  ],
+  [
+   "29-87-7-3",
+   1
+  ],
+  [
+   "29-87-4-3",
+   1
+  ],
+  [
+   "29-87-4-4",
+   1
+  ],
+  [
+   "29-87-1-3",
+   1
+  ],
+  [
+   "29-87-2-4",
+   1
+  ],
+  [
+   "29-87-5-5",
+   1
+  ],
+  [
+   "29-87-6-6",
+   1
+  ],
+  [
+   "29-87-6-4",
+   1
+  ],
+  [
+   "29-87-7-5",
+   1
+  ],
+  [
+   "29-87-8-6",
+   1
+  ],
+  [
+   "29-87-7-7",
+   1
+  ],
+  [
+   "29-87-4-6a",
+   1
+  ],
+  [
+   "29-87-0-4",
+   1
+  ],
+  [
+   "29-87-3-5",
+   1
+  ],
+  [
+   "29-87-2-6",
+   1
+  ],
+  [
+   "29-87-1-7a",
+   1
+  ],
+  [
+   "29-87-4-7",
+   1
+  ],
+  [
+   "29-87-2-8",
+   1
+  ],
+  [
+   "29-87-4-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "29-76-4-0",
+   "points": 1,
+   "name": "Wilt",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 804982
+  },
+  {
+   "id": "29-76-4-1",
+   "points": 1,
+   "name": "Spore",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 804983
+  },
+  {
+   "id": "29-76-2-2",
+   "points": 2,
+   "name": "Protraction",
+   "maxPoints": 2,
+   "tree": "Venom",
+   "spellId": 706942
+  },
+  {
+   "id": "29-76-1-3b",
+   "points": 1,
+   "name": "Wilting Away",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 706012
+  },
+  {
+   "id": "29-76-6-2",
+   "points": 3,
+   "name": "Acid Bolt",
+   "maxPoints": 3,
+   "tree": "Venom",
+   "spellId": 706025
+  },
+  {
+   "id": "29-76-7-3",
+   "points": 1,
+   "name": "Envenom",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 805900
+  },
+  {
+   "id": "29-76-8-4",
+   "points": 1,
+   "name": "Blightfang",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 680763
+  },
+  {
+   "id": "29-76-7-5",
+   "points": 1,
+   "name": "Fungal Assailant",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 504344
+  },
+  {
+   "id": "29-76-4-2",
+   "points": 1,
+   "name": "Fungal Growth",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 804987
+  },
+  {
+   "id": "29-76-2-4",
+   "points": 1,
+   "name": "Rotpriest",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 706209
+  },
+  {
+   "id": "29-76-3-5",
+   "points": 1,
+   "name": "Necessary Preparations",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 503919
+  },
+  {
+   "id": "29-76-0-4",
+   "points": 1,
+   "name": "Lethargy",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 573307
+  },
+  {
+   "id": "29-76-1-5",
+   "points": 1,
+   "name": "Decay",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 800910
+  },
+  {
+   "id": "29-76-6-6",
+   "points": 1,
+   "name": "Infestation",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 706030
+  },
+  {
+   "id": "29-76-4-6",
+   "points": 1,
+   "name": "Venom Saturation",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 804984
+  },
+  {
+   "id": "29-76-4-7",
+   "points": 1,
+   "name": "Fungal Link",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 300959
+  },
+  {
+   "id": "29-76-1-6",
+   "points": 1,
+   "name": "Limb Decayer",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 681057
+  },
+  {
+   "id": "29-76-0-7",
+   "points": 1,
+   "name": "From Death Comes Life",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 504355
+  },
+  {
+   "id": "29-76-6-4",
+   "points": 2,
+   "name": "Serpent's Embrace",
+   "maxPoints": 2,
+   "tree": "Venom",
+   "spellId": 560194
+  },
+  {
+   "id": "29-76-1-8",
+   "points": 1,
+   "name": "Fungic",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 706455
+  },
+  {
+   "id": "29-76-5-8",
+   "points": 1,
+   "name": "Suffocating Coils",
+   "maxPoints": 1,
+   "tree": "Venom",
+   "spellId": 707233
+  },
+  {
+   "id": "29-87-7-0",
+   "points": 1,
+   "name": "Green Salve",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800902
+  },
+  {
+   "id": "29-87-4-0",
+   "points": 1,
+   "name": "Envenomed Weapons",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 300855
+  },
+  {
+   "id": "29-87-3-1",
+   "points": 2,
+   "name": "Acute Senses",
+   "maxPoints": 2,
+   "tree": "Venomancer (class tree)",
+   "spellId": 300664
+  },
+  {
+   "id": "29-87-5-1",
+   "points": 1,
+   "name": "Playing With Poison",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 707563
+  },
+  {
+   "id": "29-87-3-2",
+   "points": 1,
+   "name": "Genesis",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705962
+  },
+  {
+   "id": "29-87-5-2",
+   "points": 1,
+   "name": "Hallucinogenic Venom",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 560188
+  },
+  {
+   "id": "29-87-7-3",
+   "points": 1,
+   "name": "Shadra's Balm",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800901
+  },
+  {
+   "id": "29-87-4-3",
+   "points": 1,
+   "name": "Spindlebind",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800887
+  },
+  {
+   "id": "29-87-4-4",
+   "points": 1,
+   "name": "Skin Shedder",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705949
+  },
+  {
+   "id": "29-87-1-3",
+   "points": 1,
+   "name": "Weakening Venom",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 805778
+  },
+  {
+   "id": "29-87-2-4",
+   "points": 1,
+   "name": "Versatile and Deadly",
+   "maxPoints": 2,
+   "tree": "Venomancer (class tree)",
+   "spellId": 681052
+  },
+  {
+   "id": "29-87-5-5",
+   "points": 1,
+   "name": "Empowering Pheromones",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705996
+  },
+  {
+   "id": "29-87-6-6",
+   "points": 1,
+   "name": "Master of Venoms",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 504326
+  },
+  {
+   "id": "29-87-6-4",
+   "points": 1,
+   "name": "Tome of Ahn'kahet",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705993
+  },
+  {
+   "id": "29-87-7-5",
+   "points": 1,
+   "name": "Adrenal Venom",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 805775
+  },
+  {
+   "id": "29-87-8-6",
+   "points": 1,
+   "name": "Venomizer",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 680794
+  },
+  {
+   "id": "29-87-7-7",
+   "points": 1,
+   "name": "Lifeblood",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 804963
+  },
+  {
+   "id": "29-87-4-6a",
+   "points": 1,
+   "name": "Mamba Mentality",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 503976
+  },
+  {
+   "id": "29-87-0-4",
+   "points": 1,
+   "name": "Chitinous Spikes",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 504406
+  },
+  {
+   "id": "29-87-3-5",
+   "points": 1,
+   "name": "Fury of Anub'Rekhan",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800894
+  },
+  {
+   "id": "29-87-2-6",
+   "points": 1,
+   "name": "Venomancy Expert",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 706027
+  },
+  {
+   "id": "29-87-1-7a",
+   "points": 1,
+   "name": "Relentless",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 578320
+  },
+  {
+   "id": "29-87-4-7",
+   "points": 1,
+   "name": "Burrow",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 806154
+  },
+  {
+   "id": "29-87-2-8",
+   "points": 1,
+   "name": "Fury of Shadra",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 503850
+  },
+  {
+   "id": "29-87-4-9",
+   "points": 1,
+   "name": "Avatar of Shadra",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 503856
+  }
+ ]
+}

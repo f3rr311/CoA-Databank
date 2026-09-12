@@ -1,0 +1,15 @@
+{
+  "name_enus": "Darkwither",
+  "icon": "spell_shadow_unstableaffliction_3_purple",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Darkwither</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>17% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cfa6ff;\">Generates 10 Insanity</span><br />Wither an enemy, dealing 125 to 130 Shadow damage over 15&nbsp;sec. Each instance of damage reduces their periodic healing taken by 5%, stacking up to <!--sp301317:0-->4<!--sp301317--> times.</span></td></tr></table><!--?800446:1:1:80-->",
+  "spells_enus": {
+    "301317": [
+      [
+        4,
+        8
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

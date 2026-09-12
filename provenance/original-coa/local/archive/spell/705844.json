@@ -1,0 +1,8 @@
+{
+  "name_enus": "Overflowing Juju",
+  "icon": "_bannishkt_purple",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Overflowing Juju</b></td><th><b class=\"q0\">Specialization</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 30 Passive</span><br />Damage dealt by your <span style=\"color: #ffffff;\">Shadow Puppets</span> and <span style=\"color: #FFFFFF;\">Puppeteer's Threads</span> now has a 15% chance to reset the cooldown of <span style=\"color: #ffffff;\">Bad Juju</span> and cause your next cast to incur an 10 sec reduced cooldown.</span></td></tr></table><!--?705844:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

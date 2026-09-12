@@ -1,0 +1,15 @@
+{
+  "name_enus": "Hand of Elune",
+  "icon": "inv_misc_enchantedpearlf",
+  "tooltip_enus": "<table><tr><td><b>Hand of Elune</b><br />2 sec cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Drains 20% Maximum Mana</span><br />Envelop an ally in Elune's grace, healing them<!--sp704518:0--><!--sp704518-->, scaling with maximum mana.<br /><br />Usable while moving.</span></td></tr></table><!--?801990:1:1:80-->",
+  "spells_enus": {
+    "704518": [
+      [
+        "",
+        " for -7+0*0.15*4+SP*0.7"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

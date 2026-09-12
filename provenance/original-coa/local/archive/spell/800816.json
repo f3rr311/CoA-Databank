@@ -1,0 +1,8 @@
+{
+  "name_enus": "Kael's Command",
+  "icon": "spell_nature_unleashedrage",
+  "tooltip_enus": "<table><tr><td><b>Kael's Command</b><br />18% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ff7f7f;\">Generates 50 Heat</span><br />Command your <span style=\"color: #ffffff;\">Phoenix</span> to go dormant for 10&nbsp;sec. <br /><br />While dormant, it radiates healing to nearby allies for 205+14.3 Points Per Level+(Heal*1) every 2 sec.</span></td></tr></table><!--?800816:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

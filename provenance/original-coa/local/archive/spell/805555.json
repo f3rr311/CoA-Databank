@@ -1,0 +1,8 @@
+{
+  "name_enus": "Gore",
+  "icon": "inv_sword_140",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Gore</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Rage<br />Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\"><span style=\"color: #ffffff;\">2 Charges, 8 sec recharge</span><br /><span style=\"color: #ff9933;\">Generates 1 Demonfire</span><br />Quickly gore an enemy, dealing 100% Weapon Damage plus 15.</span></td></tr></table><!--?805555:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

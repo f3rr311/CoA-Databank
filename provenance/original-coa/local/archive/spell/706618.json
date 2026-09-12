@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blood Rain",
+  "icon": "nhi_bloodrain_border",
+  "tooltip_enus": "<table><tr><td><b>Blood Rain</b><br /></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of spells that cost health by 0%.</span></td></tr></table><!--?706618:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ruin",
+  "icon": "inv_infernalmountgreen",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ruin</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Energy<br />2.5 sec cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #32cd32;\">Consumes 2 Felfury</span><br />Bring doom upon an enemy, dealing COND(GT(FireP, ShaP), 116+0+FireP*1, 116+0+ShaP*1.32) Shadowflame Damage to an enemy, piercing all absorption effects.<br /><br /><span style=\"color: #32cd32;\">Inner Demon</span>: Deals an additional 30% of the damage dealt over 3&nbsp;sec.</span></td></tr></table><!--?801895:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Warlord's Charm",
+  "icon": "inv_misc_cat_trinket07",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Warlord's Charm</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Warlord</span> by 0 sec.</span></td></tr></table><!--?705225:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

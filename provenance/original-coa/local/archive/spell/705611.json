@@ -1,0 +1,8 @@
+{
+  "name_enus": "Words of Power",
+  "icon": "_runesauvagepourpre",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Words of Power</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of <span style=\"color: #ffffff;\">Words</span> by 10%.</span></td></tr></table><!--?705611:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Skitter",
+  "icon": "inv_minespider2_jungle",
+  "tooltip_enus": "<table><tr><td><b>Skitter</b><br />15 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>40&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Skitter forward a long distance.<br /><br />Can be used 3 times within 10&nbsp;sec before triggering a cooldown.<br /><br />Usable while <span style=\"color: #ffffff;\">Skulking</span>.</span></td></tr></table><!--?800848:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

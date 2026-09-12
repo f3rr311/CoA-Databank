@@ -1,0 +1,731 @@
+{
+ "build": {
+  "id": "a6b42d1d-6de0-4bda-bf92-486e548cda10",
+  "title": "Grovekeeper",
+  "description": "",
+  "class_id": 31,
+  "spec_id": 84,
+  "author_id": "88f7972c-4247-47d7-86f5-5a913bfbc334",
+  "talent_string": "W1siMzEtODctMS0wIiwxXSxbIjMxLTg3LTQtMCIsMV0sWyIzMS04Ny0zLTEiLDFdLFsiMzEtODctMS0xIiwxXSxbIjMxLTg3LTEtMiIsMl0sWyIzMS04Ny0yLTMiLDFdLFsiMzEtODctNC0yIiwxXSxbIjMxLTg3LTQtMyIsMV0sWyIzMS04Ny0yLTRiIiwxXSxbIjMxLTg3LTQtNSIsMV0sWyIzMS04Ny0xLTUiLDJdLFsiMzEtODctNS02IiwxXSxbIjMxLTg3LTQtNyIsMV0sWyIzMS04Ny02LTRiIiwxXSxbIjMxLTg3LTctNSIsMl0sWyIzMS04Ny01LTEiLDFdLFsiMzEtODctNy0yIiwyXSxbIjMxLTg3LTYtNyIsMV0sWyIzMS04Ny0zLTYiLDFdLFsiMzEtODQtNC0wIiwxXSxbIjMxLTg0LTEwLTAiLDFdLFsiMzEtODQtMTAtMmIiLDFdLFsiMzEtODQtMi0xIiwxXSxbIjMxLTg0LTQtMiIsMV0sWyIzMS04NC0xLTIiLDJdLFsiMzEtODQtMi0zYiIsMV0sWyIzMS04NC00LTMiLDFdLFsiMzEtODQtNi0zIiwyXSxbIjMxLTg0LTItNCIsMV0sWyIzMS04NC0xLTQiLDFdLFsiMzEtODQtNi00IiwxXSxbIjMxLTg0LTItNSIsMV0sWyIzMS04NC0xLTYiLDFdLFsiMzEtODQtNC01IiwxXSxbIjMxLTg0LTQtNiIsMl0sWyIzMS04NC03LTZhIiwxXSxbIjMxLTg0LTYtNyIsMV0sWyIzMS04NC0yLTciLDFdLFsiMzEtODQtNy00YSIsMV0sWyIzMS04NC04LTUiLDFdLFsiMzEtODQtOC03IiwxXSxbIjMxLTg0LTItOCIsMV0sWyIzMS04NC0yLTlhIiwxXSxbIjMxLTg0LTEwLTRiIiwxXSxbIjMxLTg0LTEwLTZiIiwxXSxbIjMxLTg0LTEwLThiIiwxXSxbIjMxLTg3LTItN2IiLDFdLFsiMzEtODctNC04IiwxXSxbIjMxLTg3LTQtOSIsMV1d",
+  "tags": [],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-27T19:11:52.96072+00:00",
+  "updated_at": "2026-07-27T19:11:52.96072+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 333,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 0,
+  "author": {
+   "id": "88f7972c-4247-47d7-86f5-5a913bfbc334",
+   "username": "syco.0",
+   "avatar_url": "https://cdn.discordapp.com/avatars/599713139919028226/5aebe09d72c1c090f2d3908143a74309.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "604248d9-5113-4057-9363-af68741259e8",
+   "title": "Optimal Build for Raids/M0",
+   "class_id": 31,
+   "spec_id": 91,
+   "author_id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+   "tags": [
+    "Primalist",
+    "Mountain King",
+    "Tank",
+    "Guide",
+    "PvE",
+    "Raids",
+    "Dungeons",
+    "World Bosses",
+    "General Purpose"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 12,
+   "downvotes": 0,
+   "comment_count": 5,
+   "view_count": 3361,
+   "featured": false,
+   "created_at": "2026-07-20T21:15:32.714729+00:00",
+   "updated_at": "2026-07-26T12:03:15.901+00:00",
+   "has_talents": true,
+   "guide_section_count": 8,
+   "author": {
+    "id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+    "username": "leadfootjames",
+    "avatar_url": "https://cdn.discordapp.com/avatars/126074738341707778/3775742f0199adcc2184553650a5ad07.png"
+   }
+  },
+  {
+   "id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "title": "Wildwalker AoE Dungeon Build",
+   "class_id": 31,
+   "spec_id": 82,
+   "author_id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+   "tags": [
+    "leveling",
+    "aoe",
+    "dungeon",
+    "cleave"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 10,
+   "view_count": 5775,
+   "featured": false,
+   "created_at": "2026-07-17T20:29:37.198323+00:00",
+   "updated_at": "2026-07-21T07:44:46.649+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+    "username": "Sikotics",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIzTag4zIWh4cy9dGR2YVW0pLT3YLmp8Mo6X7E4S1QPNCObnak2=s96-c"
+   }
+  },
+  {
+   "id": "63ed0949-23e7-4c9b-9a51-97da32585a8b",
+   "title": "Mountain King Dungeon + AoE Farming build",
+   "class_id": 31,
+   "spec_id": 91,
+   "author_id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+   "tags": [
+    "raid",
+    "leveling",
+    "farming",
+    "dungeon"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2528,
+   "featured": false,
+   "created_at": "2026-07-17T21:01:47.64848+00:00",
+   "updated_at": "2026-07-17T21:01:47.64848+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+    "username": "Sikotics",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIzTag4zIWh4cy9dGR2YVW0pLT3YLmp8Mo6X7E4S1QPNCObnak2=s96-c"
+   }
+  }
+ ],
+ "class": "Primalist",
+ "spec": "Life",
+ "allocations": [
+  [
+   "31-87-1-0",
+   1
+  ],
+  [
+   "31-87-4-0",
+   1
+  ],
+  [
+   "31-87-3-1",
+   1
+  ],
+  [
+   "31-87-1-1",
+   1
+  ],
+  [
+   "31-87-1-2",
+   2
+  ],
+  [
+   "31-87-2-3",
+   1
+  ],
+  [
+   "31-87-4-2",
+   1
+  ],
+  [
+   "31-87-4-3",
+   1
+  ],
+  [
+   "31-87-2-4b",
+   1
+  ],
+  [
+   "31-87-4-5",
+   1
+  ],
+  [
+   "31-87-1-5",
+   2
+  ],
+  [
+   "31-87-5-6",
+   1
+  ],
+  [
+   "31-87-4-7",
+   1
+  ],
+  [
+   "31-87-6-4b",
+   1
+  ],
+  [
+   "31-87-7-5",
+   2
+  ],
+  [
+   "31-87-5-1",
+   1
+  ],
+  [
+   "31-87-7-2",
+   2
+  ],
+  [
+   "31-87-6-7",
+   1
+  ],
+  [
+   "31-87-3-6",
+   1
+  ],
+  [
+   "31-84-4-0",
+   1
+  ],
+  [
+   "31-84-10-0",
+   1
+  ],
+  [
+   "31-84-10-2b",
+   1
+  ],
+  [
+   "31-84-2-1",
+   1
+  ],
+  [
+   "31-84-4-2",
+   1
+  ],
+  [
+   "31-84-1-2",
+   2
+  ],
+  [
+   "31-84-2-3b",
+   1
+  ],
+  [
+   "31-84-4-3",
+   1
+  ],
+  [
+   "31-84-6-3",
+   2
+  ],
+  [
+   "31-84-2-4",
+   1
+  ],
+  [
+   "31-84-1-4",
+   1
+  ],
+  [
+   "31-84-6-4",
+   1
+  ],
+  [
+   "31-84-2-5",
+   1
+  ],
+  [
+   "31-84-1-6",
+   1
+  ],
+  [
+   "31-84-4-5",
+   1
+  ],
+  [
+   "31-84-4-6",
+   2
+  ],
+  [
+   "31-84-7-6a",
+   1
+  ],
+  [
+   "31-84-6-7",
+   1
+  ],
+  [
+   "31-84-2-7",
+   1
+  ],
+  [
+   "31-84-7-4a",
+   1
+  ],
+  [
+   "31-84-8-5",
+   1
+  ],
+  [
+   "31-84-8-7",
+   1
+  ],
+  [
+   "31-84-2-8",
+   1
+  ],
+  [
+   "31-84-2-9a",
+   1
+  ],
+  [
+   "31-84-10-4b",
+   1
+  ],
+  [
+   "31-84-10-6b",
+   1
+  ],
+  [
+   "31-84-10-8b",
+   1
+  ],
+  [
+   "31-87-2-7b",
+   1
+  ],
+  [
+   "31-87-4-8",
+   1
+  ],
+  [
+   "31-87-4-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "31-87-1-0",
+   "points": 1,
+   "name": "Grip",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800145
+  },
+  {
+   "id": "31-87-4-0",
+   "points": 1,
+   "name": "Primal Rush",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 500696
+  },
+  {
+   "id": "31-87-3-1",
+   "points": 1,
+   "name": "Environmentalist",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 300729
+  },
+  {
+   "id": "31-87-1-1",
+   "points": 1,
+   "name": "Heavy Handed",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706344
+  },
+  {
+   "id": "31-87-1-2",
+   "points": 2,
+   "name": "Bountiful Boons",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 706203
+  },
+  {
+   "id": "31-87-2-3",
+   "points": 1,
+   "name": "Bramblepatch",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 806415
+  },
+  {
+   "id": "31-87-4-2",
+   "points": 1,
+   "name": "Keen Senses",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 806533
+  },
+  {
+   "id": "31-87-4-3",
+   "points": 1,
+   "name": "Primal Convergence",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800181
+  },
+  {
+   "id": "31-87-2-4b",
+   "points": 1,
+   "name": "Untamed",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 681478
+  },
+  {
+   "id": "31-87-4-5",
+   "points": 1,
+   "name": "Protective Roar",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 802782
+  },
+  {
+   "id": "31-87-1-5",
+   "points": 2,
+   "name": "Nature's Call",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 706150
+  },
+  {
+   "id": "31-87-5-6",
+   "points": 1,
+   "name": "Stonefaced",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706201
+  },
+  {
+   "id": "31-87-4-7",
+   "points": 1,
+   "name": "Therazane's Gift",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504219
+  },
+  {
+   "id": "31-87-6-4b",
+   "points": 1,
+   "name": "Primal Strikes",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706171
+  },
+  {
+   "id": "31-87-7-5",
+   "points": 2,
+   "name": "Stone Cold",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 560158
+  },
+  {
+   "id": "31-87-5-1",
+   "points": 1,
+   "name": "Tectonic Flow",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 802494
+  },
+  {
+   "id": "31-87-7-2",
+   "points": 2,
+   "name": "Focus",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 680936
+  },
+  {
+   "id": "31-87-6-7",
+   "points": 1,
+   "name": "Mineralization",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 520464
+  },
+  {
+   "id": "31-87-3-6",
+   "points": 1,
+   "name": "Earthmother's Precision",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 555723
+  },
+  {
+   "id": "31-84-4-0",
+   "points": 1,
+   "name": "Hammer of Life",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 803973
+  },
+  {
+   "id": "31-84-10-0",
+   "points": 1,
+   "name": "Grove Training",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 92150
+  },
+  {
+   "id": "31-84-10-2b",
+   "points": 1,
+   "name": "Vitality Surge",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 504214
+  },
+  {
+   "id": "31-84-2-1",
+   "points": 1,
+   "name": "Seismic Wave",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 805462
+  },
+  {
+   "id": "31-84-4-2",
+   "points": 1,
+   "name": "Nature's Fury",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 300742
+  },
+  {
+   "id": "31-84-1-2",
+   "points": 2,
+   "name": "Tranquil Mind",
+   "maxPoints": 2,
+   "tree": "Life",
+   "spellId": 504223
+  },
+  {
+   "id": "31-84-2-3b",
+   "points": 1,
+   "name": "Blessing of Neptulon",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 560055
+  },
+  {
+   "id": "31-84-4-3",
+   "points": 1,
+   "name": "Power Hammer",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 303014
+  },
+  {
+   "id": "31-84-6-3",
+   "points": 2,
+   "name": "Ancient Power",
+   "maxPoints": 2,
+   "tree": "Life",
+   "spellId": 300740
+  },
+  {
+   "id": "31-84-2-4",
+   "points": 1,
+   "name": "Elemental Cascade",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 504196
+  },
+  {
+   "id": "31-84-1-4",
+   "points": 1,
+   "name": "Battleweaver",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 300733
+  },
+  {
+   "id": "31-84-6-4",
+   "points": 1,
+   "name": "Earth's Guidance",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 706138
+  },
+  {
+   "id": "31-84-2-5",
+   "points": 1,
+   "name": "Ring of Life",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 804705
+  },
+  {
+   "id": "31-84-1-6",
+   "points": 1,
+   "name": "Earthmother's Binding",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 805107
+  },
+  {
+   "id": "31-84-4-5",
+   "points": 1,
+   "name": "Sacred Grove",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 800180
+  },
+  {
+   "id": "31-84-4-6",
+   "points": 2,
+   "name": "Verdant Warrior",
+   "maxPoints": 2,
+   "tree": "Life",
+   "spellId": 301299
+  },
+  {
+   "id": "31-84-7-6a",
+   "points": 1,
+   "name": "Earthmother's Warden",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 707514
+  },
+  {
+   "id": "31-84-6-7",
+   "points": 1,
+   "name": "Druid Training",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 707560
+  },
+  {
+   "id": "31-84-2-7",
+   "points": 1,
+   "name": "Infusion of Neptulon",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 300731
+  },
+  {
+   "id": "31-84-7-4a",
+   "points": 1,
+   "name": "Crashing Out",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 574313
+  },
+  {
+   "id": "31-84-8-5",
+   "points": 1,
+   "name": "Running on Instinct",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 300744
+  },
+  {
+   "id": "31-84-8-7",
+   "points": 1,
+   "name": "Shaman Training",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 805445
+  },
+  {
+   "id": "31-84-2-8",
+   "points": 1,
+   "name": "Primordial Earth",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 806536
+  },
+  {
+   "id": "31-84-2-9a",
+   "points": 1,
+   "name": "Ancient of War",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 504222
+  },
+  {
+   "id": "31-84-10-4b",
+   "points": 1,
+   "name": "Infused With Power",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 503718
+  },
+  {
+   "id": "31-84-10-6b",
+   "points": 1,
+   "name": "Douse",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 807558
+  },
+  {
+   "id": "31-84-10-8b",
+   "points": 1,
+   "name": "Primal Awakening",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 807560
+  },
+  {
+   "id": "31-87-2-7b",
+   "points": 1,
+   "name": "Mending Touch",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 524971
+  },
+  {
+   "id": "31-87-4-8",
+   "points": 1,
+   "name": "Earthmother's Pendant",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504446
+  },
+  {
+   "id": "31-87-4-9",
+   "points": 1,
+   "name": "Primal Totem",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504229
+  }
+ ]
+}

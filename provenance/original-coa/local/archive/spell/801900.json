@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ruin",
+  "icon": "achievement_boss_highmaul_felbreakerlord",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ruin</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the duration of the <span style=\"color: #ffffff;\">Fel Infernal</span> spawned through your <span style=\"color: #ffffff;\">Ruin</span> by 5 sec and grants it a powerful <span style=\"color: #ffffff;\">Immolation Aura</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_fire_immolation.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=802784'> Immolation Aura </a> <br />\n                            <span> Wreathe yourself in fire for up to 20&nbsp;sec, dealing 1+0+FireP*.3+AP*.23 Fire Damage to nearby enemies every 3 sec.</span><br /></span></td></tr></table><!--?801900:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

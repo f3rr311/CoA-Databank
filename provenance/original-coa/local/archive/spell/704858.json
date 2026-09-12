@@ -1,0 +1,8 @@
+{
+  "name_enus": "Scorching Sermon",
+  "icon": "spell_holy_redemption",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Scorching Sermon</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage done by <span style=\"color: #ffffff;\">Flare Bolt</span> reduces the remaining cooldown of <span style=\"color: #ffffff;\">Cauterize Wounds</span> by 2 sec.</span></td></tr></table><!--?704858:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

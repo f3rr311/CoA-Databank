@@ -1,0 +1,8 @@
+{
+  "name_enus": "Starlight",
+  "icon": "spell_nature_moonglow",
+  "tooltip_enus": "<table><tr><td><b>Starlight</b><br />9% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>25&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Summons a beam of starlight for 8&nbsp;sec upon your target, blasting enemies for 51+(PL*0.6) Arcane Damage every 2 sec and slowing movement speed of enemies who pass through it by 70%.</span></td></tr></table><!--?801131:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

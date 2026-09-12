@@ -1,0 +1,753 @@
+{
+ "build": {
+  "id": "8a699a3b-7b56-4c2e-b377-056550e943da",
+  "title": "Venomancer spaider pvp HR",
+  "description": "[rotation]\nOpener:\n\nBrood Trap\n\nVenom Fang from Skulk\n\nWithering Venom\n\nNerubian Sting ×3\n\nAt this point, if I already have 5 combo points, I immediately use Rootfang (which is macroed with Contagiation).\n\nIf I'm still below 5 combo points, I cast one more Venom Fang to reach 5 combo points before using Rootfang.\nDamage Rotation\n\nOnce you've completed the opener, your priority is to maintain your poisons while spending your combo points as efficiently as possible.\n\nPriority\nKeep Rootfang active at all times.\nGenerate combo points with Venom Fang.\nSpend 5 combo points on Widowmaker whenever Rootfang has more than 5–6 seconds remaining.\nIf Rootfang has less than 5–6 seconds remaining, refresh it instead of using Rootfang.\nRefresh Withering Venom and Nerubian Sting only when they are about to expire to avoid losing their stacks.\n\nThe rotation is simple: build combo points with Venom Fang, keep Rootfang active, and use Widowmaker as your main combo point spender whenever you have enough time left on Rootfang. Avoid refreshing your poison DoTs too early, as maintaining their stacks is a significant part of your sustained damage.\n\n[stats]\nspell power - intelect - critic - stamina\n\n[enchants]\nHead: Lesser Inscription of the Wizard\nShoulders: Inscription of Supremacy\nBack (Cloak): Spell Penetration + Resilience or Spell Power + Resilience\nChest: Devilsaur Gambeson\nBracers: +15 Spell Power\nGloves: +Spell Power\nBelt: +Stamina\nLegs: Lesser Inscription of the Wizard\nBoots: Minor Speed (recommended for PvP mobility) or Greater Stamina\nWeapon: Arcane Artillery\nRanged: Focused Precision Scope\n\n[pvp]\nPvP Opener\n\nThis is the opener I use in most PvP situations. The goal is to apply all of your poisons as quickly as possible, build 5 combo points, and set up a powerful re-stealth for the kill.\n\nOpener:\n\nBrood Trap\nVenom Fang from Skulk\nWithering Venom\nNerubian Sting ×3\n\nAt this point, if I already have 5 combo points, I immediately use Rootfang (which is macroed with Contagiation).\n\nIf I'm still below 5 combo points, I cast one more Venom Fang to reach 5 combo points before using Rootfang.\n\nDuring the opener, it's often a good idea to fit in a stun to prevent your target from reacting. Against casters, however, an interrupt is usually enough, so you can save your stun for later.\n\nOnce all of my poisons are applied and empowered by Contagiation through the Rootfang macro, I look for an opportunity to reset into stealth. Re-entering the fight from stealth while the target is already heavily pressured by multiple empowered poisons usually allows me to finish them off very quickly.\n\n[macros]\nUseful Macros\n\nThese are the macros I use the most while playing Venomancer in PvP. They make the spec much smoother to play and help you react faster in key situations.\n\nRootfang + Contagiation\n\nThis macro casts Contagiation together with Rootfang. The macro uses the Rootfang icon.\n\n#showtooltip Rootfang\n/cast Rootfang\n/cast Contagiation\n\n\n----Spider Form + Skulk\n\nThis macro combines Spider Form with Skulk. You need to press it twice quickly: the first press shifts you into Spider Form, and the second activates Skulk. The macro uses the Skulk icon.\n\n#showtooltip Skulk\n/cast Spider Form\n/cast Skulk\n\n\n----Noxious Empowerment + Damage Trinket\n\nThis macro activates Noxious Empowerment and uses your upper trinket slot (13) at the same time.\n\n#showtooltip Noxious Empowerment\n\n/cast Noxious Empowerment\n/cast Contagiation\n/cast Use 13\n\n----Defensive Macro (Lifeblood + Beetle Form)\n\nThis macro uses Lifeblood and immediately shifts you into Beetle Form for extra survivability.\n\n#showtooltip Lifeblood\n/cast Lifeblood\n/cast Beetle Form",
+  "class_id": 29,
+  "spec_id": 77,
+  "author_id": "7acc8832-e435-4336-ad7c-12df3acd4503",
+  "talent_string": "W1siMjktODctMS0wIiwxXSxbIjI5LTg3LTQtMCIsMV0sWyIyOS04Ny03LTAiLDFdLFsiMjktODctMy0xIiwyXSxbIjI5LTg3LTUtMSIsMV0sWyIyOS04Ny01LTIiLDFdLFsiMjktODctNy0zIiwxXSxbIjI5LTg3LTQtMyIsMV0sWyIyOS04Ny0wLTIiLDFdLFsiMjktODctNC00IiwxXSxbIjI5LTg3LTYtNCIsMV0sWyIyOS04Ny03LTUiLDFdLFsiMjktODctOC02IiwxXSxbIjI5LTg3LTMtNSIsMV0sWyIyOS04Ny0yLTQiLDJdLFsiMjktODctMS01IiwxXSxbIjI5LTg3LTItNiIsMV0sWyIyOS04Ny0xLTdhIiwxXSxbIjI5LTg3LTQtNmIiLDFdLFsiMjktODctNC03IiwxXSxbIjI5LTg3LTctNyIsMV0sWyIyOS04Ny02LTYiLDFdLFsiMjktODctMi04IiwxXSxbIjI5LTg3LTQtOSIsMV0sWyIyOS03Ny00LTAiLDFdLFsiMjktNzctNC0xIiwxXSxbIjI5LTc3LTItMiIsMV0sWyIyOS03Ny02LTIiLDFdLFsiMjktNzctMS0zIiwxXSxbIjI5LTc3LTQtMyIsMV0sWyIyOS03Ny02LTMiLDJdLFsiMjktNzctNy0zIiwxXSxbIjI5LTc3LTYtNCIsMV0sWyIyOS03Ny02LTUiLDFdLFsiMjktNzctNy01IiwxXSxbIjI5LTc3LTgtNiIsMV0sWyIyOS03Ny01LTQiLDFdLFsiMjktNzctNC01IiwxXSxbIjI5LTc3LTMtNiIsMV0sWyIyOS03Ny00LTZiIiwxXSxbIjI5LTc3LTUtNiIsMV0sWyIyOS03Ny00LTciLDFdLFsiMjktNzctMi03IiwxXSxbIjI5LTc3LTgtN2EiLDFdLFsiMjktNzctMy00IiwxXSxbIjI5LTc3LTItNSIsMV0sWyIyOS03Ny02LTciLDFdLFsiMjktNzctNC04IiwxXSxbIjI5LTc3LTYtOCIsMV1d",
+  "tags": [
+   "PVP    1V1    HR"
+  ],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 3,
+  "downvotes": 0,
+  "comment_count": 2,
+  "created_at": "2026-07-28T17:33:39.566795+00:00",
+  "updated_at": "2026-07-29T13:17:32.619+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 424,
+  "net_score": 3,
+  "has_talents": true,
+  "guide_section_count": 5,
+  "author": {
+   "id": "7acc8832-e435-4336-ad7c-12df3acd4503",
+   "username": "hanselduck",
+   "avatar_url": "https://cdn.discordapp.com/avatars/278988578824912896/343e90e1f7578a4c7a79cda593b6d092.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "80143fd7-c5a8-496c-a1f4-bae6445f1b4b",
+   "build_id": "8a699a3b-7b56-4c2e-b377-056550e943da",
+   "author_id": "d6a0332b-21a5-4dea-b7ab-0e12b207c99f",
+   "parent_id": null,
+   "body": "Is it better to prioritize spell power and intellect over agility on spider form?",
+   "upvotes": 0,
+   "created_at": "2026-07-28T19:14:16.59307+00:00",
+   "updated_at": "2026-07-28T19:14:16.59307+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "d6a0332b-21a5-4dea-b7ab-0e12b207c99f",
+    "username": "fractalicious",
+    "avatar_url": "https://cdn.discordapp.com/avatars/167721844634419200/a_4e6601df8a94f34f8b112ba1702e39c7.gif"
+   }
+  },
+  {
+   "id": "e3f37714-d331-4d2b-aca5-f7efe43e852b",
+   "build_id": "8a699a3b-7b56-4c2e-b377-056550e943da",
+   "author_id": "7244aa3a-cac8-43f4-a5d2-6fd43fb0c2fe",
+   "parent_id": "80143fd7-c5a8-496c-a1f4-bae6445f1b4b",
+   "body": "Yes, because your dots scale with your sp, where as agi only increases stuff like venomfang",
+   "upvotes": 4,
+   "created_at": "2026-07-28T20:28:23.46131+00:00",
+   "updated_at": "2026-07-30T08:11:09.997365+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "7244aa3a-cac8-43f4-a5d2-6fd43fb0c2fe",
+    "username": "Michael Karstensen (Guldfisken90)",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJvG6KsnaIQPaOhdLoja5NLphFyAWiclK-_Q_XjNb0b6vxeazM=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "ef1b937f-05be-41b5-85c8-289ceb816d31",
+   "title": "Venomencer Stalker",
+   "class_id": 29,
+   "spec_id": 77,
+   "author_id": "b64cdf8a-1b04-41db-bd9f-d701cc06949a",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1103,
+   "featured": false,
+   "created_at": "2026-07-22T17:36:54.158109+00:00",
+   "updated_at": "2026-07-22T17:36:54.158109+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "b64cdf8a-1b04-41db-bd9f-d701cc06949a",
+    "username": "drafras",
+    "avatar_url": "https://cdn.discordapp.com/avatars/552239173713788939/7bfdd82e711f53b8995d2ab4b11db3d6.png"
+   }
+  },
+  {
+   "id": "e33d7ed1-5f79-45e4-9527-5f3e3246cda7",
+   "title": "Venomancer Spider Lord Tank (End Game Tank Spec)",
+   "class_id": 29,
+   "spec_id": 78,
+   "author_id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+   "tags": [
+    "Venomancer",
+    "Fortitude",
+    "Beetle",
+    "Tank"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 2,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 1532,
+   "featured": false,
+   "created_at": "2026-07-21T18:18:12.502705+00:00",
+   "updated_at": "2026-07-28T13:20:33.211+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+    "username": "ironhorse2",
+    "avatar_url": "https://cdn.discordapp.com/avatars/113811060129005572/bafc4c8b6e838f22795d63c6f089e207.png"
+   }
+  },
+  {
+   "id": "b2a5c047-8ad5-4506-ba81-f11d7643975e",
+   "title": "FORTITUDE venomancer (tank)",
+   "class_id": 29,
+   "spec_id": 78,
+   "author_id": "d0030cfd-4db8-42aa-8223-007c6f5f55f4",
+   "tags": [],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 728,
+   "featured": false,
+   "created_at": "2026-07-17T19:46:06.663932+00:00",
+   "updated_at": "2026-07-17T19:46:06.663932+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "d0030cfd-4db8-42aa-8223-007c6f5f55f4",
+    "username": "te lo",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJTE0QkKc9tBwRR2RICw84SgVSNk_JqpPBj8UHgylZw8wEioWep=s96-c"
+   }
+  }
+ ],
+ "class": "Venomancer",
+ "spec": "Stalking",
+ "allocations": [
+  [
+   "29-87-1-0",
+   1
+  ],
+  [
+   "29-87-4-0",
+   1
+  ],
+  [
+   "29-87-7-0",
+   1
+  ],
+  [
+   "29-87-3-1",
+   2
+  ],
+  [
+   "29-87-5-1",
+   1
+  ],
+  [
+   "29-87-5-2",
+   1
+  ],
+  [
+   "29-87-7-3",
+   1
+  ],
+  [
+   "29-87-4-3",
+   1
+  ],
+  [
+   "29-87-0-2",
+   1
+  ],
+  [
+   "29-87-4-4",
+   1
+  ],
+  [
+   "29-87-6-4",
+   1
+  ],
+  [
+   "29-87-7-5",
+   1
+  ],
+  [
+   "29-87-8-6",
+   1
+  ],
+  [
+   "29-87-3-5",
+   1
+  ],
+  [
+   "29-87-2-4",
+   2
+  ],
+  [
+   "29-87-1-5",
+   1
+  ],
+  [
+   "29-87-2-6",
+   1
+  ],
+  [
+   "29-87-1-7a",
+   1
+  ],
+  [
+   "29-87-4-6b",
+   1
+  ],
+  [
+   "29-87-4-7",
+   1
+  ],
+  [
+   "29-87-7-7",
+   1
+  ],
+  [
+   "29-87-6-6",
+   1
+  ],
+  [
+   "29-87-2-8",
+   1
+  ],
+  [
+   "29-87-4-9",
+   1
+  ],
+  [
+   "29-77-4-0",
+   1
+  ],
+  [
+   "29-77-4-1",
+   1
+  ],
+  [
+   "29-77-2-2",
+   1
+  ],
+  [
+   "29-77-6-2",
+   1
+  ],
+  [
+   "29-77-1-3",
+   1
+  ],
+  [
+   "29-77-4-3",
+   1
+  ],
+  [
+   "29-77-6-3",
+   2
+  ],
+  [
+   "29-77-7-3",
+   1
+  ],
+  [
+   "29-77-6-4",
+   1
+  ],
+  [
+   "29-77-6-5",
+   1
+  ],
+  [
+   "29-77-7-5",
+   1
+  ],
+  [
+   "29-77-8-6",
+   1
+  ],
+  [
+   "29-77-5-4",
+   1
+  ],
+  [
+   "29-77-4-5",
+   1
+  ],
+  [
+   "29-77-3-6",
+   1
+  ],
+  [
+   "29-77-4-6b",
+   1
+  ],
+  [
+   "29-77-5-6",
+   1
+  ],
+  [
+   "29-77-4-7",
+   1
+  ],
+  [
+   "29-77-2-7",
+   1
+  ],
+  [
+   "29-77-8-7a",
+   1
+  ],
+  [
+   "29-77-3-4",
+   1
+  ],
+  [
+   "29-77-2-5",
+   1
+  ],
+  [
+   "29-77-6-7",
+   1
+  ],
+  [
+   "29-77-4-8",
+   1
+  ],
+  [
+   "29-77-6-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "29-87-1-0",
+   "points": 1,
+   "name": "Hive Instinct",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 804968
+  },
+  {
+   "id": "29-87-4-0",
+   "points": 1,
+   "name": "Envenomed Weapons",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 300855
+  },
+  {
+   "id": "29-87-7-0",
+   "points": 1,
+   "name": "Green Salve",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800902
+  },
+  {
+   "id": "29-87-3-1",
+   "points": 2,
+   "name": "Acute Senses",
+   "maxPoints": 2,
+   "tree": "Venomancer (class tree)",
+   "spellId": 300664
+  },
+  {
+   "id": "29-87-5-1",
+   "points": 1,
+   "name": "Playing With Poison",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 707563
+  },
+  {
+   "id": "29-87-5-2",
+   "points": 1,
+   "name": "Hallucinogenic Venom",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 560188
+  },
+  {
+   "id": "29-87-7-3",
+   "points": 1,
+   "name": "Shadra's Balm",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800901
+  },
+  {
+   "id": "29-87-4-3",
+   "points": 1,
+   "name": "Spindlebind",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800887
+  },
+  {
+   "id": "29-87-0-2",
+   "points": 1,
+   "name": "Reinforced Shell",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705966
+  },
+  {
+   "id": "29-87-4-4",
+   "points": 1,
+   "name": "Skin Shedder",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705949
+  },
+  {
+   "id": "29-87-6-4",
+   "points": 1,
+   "name": "Tome of Ahn'kahet",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705993
+  },
+  {
+   "id": "29-87-7-5",
+   "points": 1,
+   "name": "Adrenal Venom",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 805775
+  },
+  {
+   "id": "29-87-8-6",
+   "points": 1,
+   "name": "Venomizer",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 680794
+  },
+  {
+   "id": "29-87-3-5",
+   "points": 1,
+   "name": "Fury of Anub'Rekhan",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800894
+  },
+  {
+   "id": "29-87-2-4",
+   "points": 2,
+   "name": "Versatile and Deadly",
+   "maxPoints": 2,
+   "tree": "Venomancer (class tree)",
+   "spellId": 681052
+  },
+  {
+   "id": "29-87-1-5",
+   "points": 1,
+   "name": "Pinch",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 704235
+  },
+  {
+   "id": "29-87-2-6",
+   "points": 1,
+   "name": "Venomancy Expert",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 706027
+  },
+  {
+   "id": "29-87-1-7a",
+   "points": 1,
+   "name": "Relentless",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 578320
+  },
+  {
+   "id": "29-87-4-6b",
+   "points": 1,
+   "name": "Celerity",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 804962
+  },
+  {
+   "id": "29-87-4-7",
+   "points": 1,
+   "name": "Burrow",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 806154
+  },
+  {
+   "id": "29-87-7-7",
+   "points": 1,
+   "name": "Lifeblood",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 804963
+  },
+  {
+   "id": "29-87-6-6",
+   "points": 1,
+   "name": "Master of Venoms",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 504326
+  },
+  {
+   "id": "29-87-2-8",
+   "points": 1,
+   "name": "Fury of Shadra",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 503850
+  },
+  {
+   "id": "29-87-4-9",
+   "points": 1,
+   "name": "Avatar of Shadra",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 503856
+  },
+  {
+   "id": "29-77-4-0",
+   "points": 1,
+   "name": "Widowmaker",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 804961
+  },
+  {
+   "id": "29-77-4-1",
+   "points": 1,
+   "name": "Widow's Kiss",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 807600
+  },
+  {
+   "id": "29-77-2-2",
+   "points": 1,
+   "name": "Withering Venom",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 706962
+  },
+  {
+   "id": "29-77-6-2",
+   "points": 1,
+   "name": "Nerubian Sting",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 800882
+  },
+  {
+   "id": "29-77-1-3",
+   "points": 1,
+   "name": "Vile Fangs",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 706036
+  },
+  {
+   "id": "29-77-4-3",
+   "points": 1,
+   "name": "Virulent Resonance",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 804969
+  },
+  {
+   "id": "29-77-6-3",
+   "points": 2,
+   "name": "Boding Dread",
+   "maxPoints": 2,
+   "tree": "Stalking",
+   "spellId": 804975
+  },
+  {
+   "id": "29-77-7-3",
+   "points": 1,
+   "name": "Glory To Shadra!",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 706033
+  },
+  {
+   "id": "29-77-6-4",
+   "points": 1,
+   "name": "Rotfang",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 804977
+  },
+  {
+   "id": "29-77-6-5",
+   "points": 1,
+   "name": "Blistering Fangs",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 706270
+  },
+  {
+   "id": "29-77-7-5",
+   "points": 1,
+   "name": "Rotting Sores",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 807601
+  },
+  {
+   "id": "29-77-8-6",
+   "points": 1,
+   "name": "Lethality",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 503852
+  },
+  {
+   "id": "29-77-5-4",
+   "points": 1,
+   "name": "Essence of Decay",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 707382
+  },
+  {
+   "id": "29-77-4-5",
+   "points": 1,
+   "name": "Noxious Empowerment",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 804964
+  },
+  {
+   "id": "29-77-3-6",
+   "points": 1,
+   "name": "Virulent Opening",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 574353
+  },
+  {
+   "id": "29-77-4-6b",
+   "points": 1,
+   "name": "Black Widow",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 805933
+  },
+  {
+   "id": "29-77-5-6",
+   "points": 1,
+   "name": "Deadly Kiss",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 504704
+  },
+  {
+   "id": "29-77-4-7",
+   "points": 1,
+   "name": "Bile Eruption",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 500230
+  },
+  {
+   "id": "29-77-2-7",
+   "points": 1,
+   "name": "Contagion",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 503851
+  },
+  {
+   "id": "29-77-8-7a",
+   "points": 1,
+   "name": "Bugging",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 706026
+  },
+  {
+   "id": "29-77-3-4",
+   "points": 1,
+   "name": "Potency",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 503854
+  },
+  {
+   "id": "29-77-2-5",
+   "points": 1,
+   "name": "Death Spray",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 706271
+  },
+  {
+   "id": "29-77-6-7",
+   "points": 1,
+   "name": "Tunneler",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 630932
+  },
+  {
+   "id": "29-77-4-8",
+   "points": 1,
+   "name": "One Man's Poison...",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 503799
+  },
+  {
+   "id": "29-77-6-8",
+   "points": 1,
+   "name": "Deadly Neurotoxins",
+   "maxPoints": 1,
+   "tree": "Stalking",
+   "spellId": 504375
+  }
+ ]
+}

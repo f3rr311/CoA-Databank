@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wrath of The Black Empire",
+  "icon": "_soulfire_shadow",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Wrath of The Black Empire</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>2.5 sec cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #93ccea;\">Consumes All Void Runes</span><br />Crush an enemy with overwhelming void power, dealing 19 Shadow damage plus 7 every 0.5 sec for 6&nbsp;sec and generates 20 <span style=\"color: #cfa6ff;\">Insanity</span>.<br /><br />Scales with <span style=\"color: #ffffff;\">Void Runes</span> consumed. When used with at least 2, this always critically strikes.<br /><br />Cannot be reflected or redirected, and pierces immunity effects. <br /><br /><span style=\"color: #ffffff;\">Herald of C'Thun</span>: Strikes up to 20 enemies.</span></td></tr></table><!--?500724:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

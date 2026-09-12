@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dawn",
+  "icon": "custom_t_sunorb_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dawn</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Dealing Fire damage now increases the damage dealt by <span style=\"color: #ffffff;\">Torchlight</span> and <span style=\"color: #ffffff;\">Dusk Blade</span> by 2% for 5&nbsp;sec, stacking 10 times.</span></td></tr></table><!--?705484:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

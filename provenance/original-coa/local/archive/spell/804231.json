@@ -1,0 +1,8 @@
+{
+  "name_enus": "Reborn from Ash",
+  "icon": "ability_mount_pandarenphoenix",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Reborn from Ash</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>2 sec cast</td><th>10&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td>Reagents:<br/><div class=\"indent q1\"><a href=\"?item=7068\">Elemental Fire</a><br /></div><br /><span class=\"q\">Returns a dead ally to life with 400 health and 635 mana, can also be used on self while dead.<br /><br />Can be used in combat.</span></td></tr></table><!--?804231:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

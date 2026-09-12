@@ -1,0 +1,8 @@
+{
+  "name_enus": "Maw of Chaos",
+  "icon": "inv_voiddragonmount",
+  "tooltip_enus": "<table><tr><td><b>Maw of Chaos</b><br />10% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>24&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Instantly Heals an ally for 20 to 24, increasing their Spell Haste by 15% for 6&nbsp;sec.<br /><br />Grants 1 <span style=\"color: #ffffff;\">Chromatic</span>.</span></td></tr></table><!--?806316:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

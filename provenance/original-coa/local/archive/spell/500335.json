@@ -1,0 +1,8 @@
+{
+  "name_enus": "Raise: Abomination",
+  "icon": "ui_darkshore_warfront_horde_abomination",
+  "tooltip_enus": "<table><tr><td><b>Raise: Abomination</b><br />67% of base mana<br />3 sec cast</td></tr></table><table><tr><td><span class=\"q\">Raise an <span style=\"color: #ffffff;\">Abomination</span> to aid you in combat, occupying 3 <span style=\"color: #ffffff;\">Life Force</span>.<br /><br />It is surrounded by a disease cloud, dealing 9+3.0 Points Per Level+SP*0.25 Nature damage to enemies when they deal damage and reducing their attack speed by 20% for 15&nbsp;sec.<br /><br /><span style=\"color: #90ee90;\">Command</span>: Instantly unleashes an empowered disease cloud around it.</span></td></tr></table><!--?500335:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

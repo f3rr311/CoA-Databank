@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fury of Aggramar",
+  "icon": "achievement_boss_argus_aggramar",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Fury of Aggramar</b></td><th><b class=\"q0\">Passive</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage dealt by <span style=\"color: #ffffff;\">Libram of Consecration</span> by 100% and the effectiveness of your <span style=\"color: #ffffff;\">Librams</span> by 25%.</span></td></tr></table><!--?801480:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

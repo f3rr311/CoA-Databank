@@ -1,0 +1,8 @@
+{
+  "name_enus": "Whispers of the Pit",
+  "icon": "ability_bossmannoroth_mannorothsgaze",
+  "tooltip_enus": "<table><tr><td><b>Whispers of the Pit</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Unleash fel energy upon enemies at target location, fearing them and slowing their movement speed by 80% for 8&nbsp;sec.<br /><br />Damage caused may interrupt the effect.</span></td></tr></table><!--?805235:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

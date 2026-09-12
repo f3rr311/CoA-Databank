@@ -1,0 +1,8 @@
+{
+  "name_enus": "Poison Quiver",
+  "icon": "epic_rpg_icon_pack_poison_icon_0004s_0000_arrow_border",
+  "tooltip_enus": "<table><tr><td><b>Poison Quiver</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Ranged abilities fire a poisoned arrow, dealing 30 Nature damage over 15&nbsp;sec, stacks 3 times.<br /><br />Only 1 <span style=\"color: #ffffff;\">Quiver</span> may be active at a time. <br /><br />Shares a cooldown with other <span style=\"color: #ffffff;\">Quivers</span>.</span></td></tr></table><!--?800260:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Unbound Inferno",
+  "icon": "spell_fire_flameblades",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Unbound Inferno</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Infernal Strikes</span> against enemies affected by your<!--sp704993:0--><!--sp704993--> <span style=\"color: #ffffff;\">Flames of Xoroth</span> now blasts nearby enemies for 75*$<scalingbp>+FireP*0.1+AP*0.05 Fire damage.</span></td></tr></table><!--?704997:1:1:80-->",
+  "spells_enus": {
+    "704993": [
+      [
+        "",
+        " <span style=\"color: #ffffff\">Hellmaw</span> or"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

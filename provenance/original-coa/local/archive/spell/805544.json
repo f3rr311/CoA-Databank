@@ -1,0 +1,8 @@
+{
+  "name_enus": "Celestial Armor",
+  "icon": "inv_helm_plate_raidpaladin_r_01",
+  "tooltip_enus": "<table><tr><td><b>Celestial Armor</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Gives you a chance to afflict any enemy that deals direct damage to you with a stack of Scattered Stars, and allows Scattered Stars to stack up to 3 additional times. Cannot occur more than once per second.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_argus_soulbombdebufflarge.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804378'> Scattered Stars </a> <br />\n                            <span> Can be consumed by spells to deal additional Arcane Damage.<!--sp704797:0--><!--sp704797--> Lasts 30&nbsp;sec, stacking 4 times.</span><br /></span></td></tr></table><!--?805544:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

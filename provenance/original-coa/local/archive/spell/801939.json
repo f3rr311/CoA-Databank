@@ -1,0 +1,8 @@
+{
+  "name_enus": "Plaguestorm",
+  "icon": "ability_deathknight_necroticaura",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Plaguestorm</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>20% of base mana<br /><table width=\"100%\"><tr><td>2 sec cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Instantly applies the Flesh to Worms, Harvest <span style=\"color: #feff9e;\">Plague</span>, Spectral Decay and Black Death <span style=\"color: #ff3232;\">Diseases</span> to an enemy.</span></td></tr></table><!--?801939:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

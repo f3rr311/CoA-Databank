@@ -1,0 +1,8 @@
+{
+  "name_enus": "Legacy of the Silver Hand",
+  "icon": "inv_shield_1h_silverhand_b_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Legacy of the Silver Hand</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Argent Blade</span> or <span style=\"color: #ffffff;\">Scarlet Hammer</span> now guarantees your next 2 instances of damage dealt by <span style=\"color: #ffffff;\">Scourgebane</span> to critically strike.<br /><br />Increases the critical damage of <span style=\"color: #ffffff;\">Scourgebane</span> by 15%.</span></td></tr></table><!--?806522:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

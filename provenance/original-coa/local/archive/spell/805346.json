@@ -1,0 +1,8 @@
+{
+  "name_enus": "Witch Knight",
+  "icon": "inv_sword_161",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Witch Knight</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\">Direct ability damage with a two-handed weapon now reduces the remaining cooldown of your <span style=\"color: #ffffff;\">Tonics</span> by 1 sec and grants <span style=\"color: #ffffff;\">Witching</span>.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_sword_161.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=805347'> Witching </a> <br />\n                            <span> Increases magic resistances by 10%, and melee haste by 10% for 8&nbsp;sec, stacking 3 times.</span><br /></span></td></tr></table><!--?805346:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

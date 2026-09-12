@@ -1,0 +1,8 @@
+{
+  "name_enus": "Titanstorm",
+  "icon": "achievement_dungeon_ulduarraid_titan_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Titanstorm</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Call Lightning</span> or <span style=\"color: #ffffff;\">Electrocute</span> now reduces the cooldown of <span style=\"color: #ffffff;\">Arm of Thorim</span> and <span style=\"color: #ffffff;\">Lightning Cage</span> by 1.5 sec.</span></td></tr></table><!--?801869:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

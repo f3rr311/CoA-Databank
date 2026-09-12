@@ -1,0 +1,8 @@
+{
+  "name_enus": "Maw Knight",
+  "icon": "inv_helmet_plate_deathknight_m_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Maw Knight</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of <span style=\"color: #ffffff;\">Doomrend</span> by 5%.</span></td></tr></table><!--?805204:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

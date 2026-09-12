@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mojo: Frog Shrooms",
+  "icon": "inv_ascend_mushroom_01",
+  "tooltip_enus": "<table><tr><td><b>Mojo: Frog Shrooms</b><br />45&nbsp;sec cooldown</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Potion Toss</span> and <span style=\"color: #ffffff;\">Splash Potion</span> cooldown is reset, and the next use within 5&nbsp;sec now applies <span style=\"color: #ffffff;\">Frog Shrooms</span> to affected allies.<br /><br />Instantly swaps your <span style=\"color: #ffffff;\">Ingredients</span> to <span style=\"color: #ffffff;\">Jungle Shrooms</span> and <span style=\"color: #ffffff;\">Frog Bones</span>.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_ascend_mushroom_01.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=500509'> Frog Shrooms </a> <br />\n                            <span> Increases maximum health by 10%, and size by 15% for 10&nbsp;sec.</span><br /></span></td></tr></table><!--?705851:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

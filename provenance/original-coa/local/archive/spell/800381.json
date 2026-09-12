@@ -1,0 +1,8 @@
+{
+  "name_enus": "Deluge",
+  "icon": "nhi_waterstrick_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Deluge</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>11% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Heals a friendly target for 60+(PL+0.48-1*0.48).</span></td></tr></table><!--?800381:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

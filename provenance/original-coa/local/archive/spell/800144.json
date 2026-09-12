@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spirit Charge",
+  "icon": "ability_monk_pathofmists",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spirit Charge</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>16% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Charge to an ally's aid, healing them for 53+0+Heal*0.2+AP*.2 and dealing 67+0+Heal*0.2+AP*.2 Nature damage to enemies within 5 yds of them.</span></td></tr></table><!--?800144:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cunning",
+  "icon": "skill_icon_skill151_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Cunning</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of <span style=\"color: #ffffff;\">Chitin Rush</span> by 20% and its critical damage by 10%.</span></td></tr></table><!--?805093:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

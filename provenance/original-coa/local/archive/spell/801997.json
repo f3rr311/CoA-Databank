@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lunar Blades",
+  "icon": "inv_sword_1h_artifactskywall_d_06dual",
+  "tooltip_enus": "<table><tr><td><b>Lunar Blades</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Vengeance of Elune ability now becomes available after Blocking or Dodging an attack, as well as Parrying. This effect cannot occur more than once every 3 sec.</span></td></tr></table><!--?801997:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

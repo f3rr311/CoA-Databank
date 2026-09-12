@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lacerations",
+  "icon": "custom_warriorskill_28_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lacerations</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Melee critical strikes now increase the effectiveness of bleed effects on the target by 30% for 15&nbsp;sec.<br /><br />Does not stack with similar effects.</span></td></tr></table><!--?560286:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

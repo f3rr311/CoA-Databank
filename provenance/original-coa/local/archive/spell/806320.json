@@ -1,0 +1,8 @@
+{
+  "name_enus": "Plague's Reach",
+  "icon": "_bloodplague_yellow",
+  "tooltip_enus": "<table><tr><td><b>Plague's Reach</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the range of your Necromancer diseases by 5 yd and their duration by 20%.</span></td></tr></table><!--?806320:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

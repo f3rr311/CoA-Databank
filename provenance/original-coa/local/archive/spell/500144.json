@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flash",
+  "icon": "nhi_holy_hand_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flash</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>15% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>5&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Shine a powerful beam of sunlight at an enemy, dealing 95+0+HolP*.75 Holy Damage and generating 1 <span style=\"color: #FF9800;\">Solar Power</span>.</span></td></tr></table><!--?500144:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

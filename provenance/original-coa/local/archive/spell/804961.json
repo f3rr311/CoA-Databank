@@ -1,0 +1,15 @@
+{
+  "name_enus": "Widowmaker",
+  "icon": "inv_spidermountc5",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Widowmaker</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>20 Energy<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><!--sp800841:0--><span style=\"color: #ff3232;\"><!--sp800841-->Requires Spider Form</span><br /><span style=\"color: #66ff66;\">Consumes Brood Marks</span><br />Inject shadow venom into an enemy, dealing Shadow damage and reducing their healing received by 50% for 8&nbsp;sec.<br />   1 Mark: (44+ShaP*0.45)*1.25 Shadow damage.<br />   2 Marks: (44+ShaP*0.45)*1.60 Shadow damage.<br />   3 Marks: (44+ShaP*0.45)*2.05 Shadow damage.<br />   4 Marks: (44+ShaP*0.45)*2.60 Shadow damage.<br />   5 Marks: (44+ShaP*0.45)*3.50 Shadow damage.</span></td></tr></table><!--?804961:1:1:80-->",
+  "spells_enus": {
+    "800841": [
+      [
+        "|cffff3232",
+        "|cffffffff"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Crippling Shot",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Crippling Shot</b><br />25 Focus<br /><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Fire a crippling shot at an enemy slowing movement speed by 50% and knocking them off their mounts, making them unable to mount again for 5&nbsp;sec.</span></td></tr></table><!--?804725:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

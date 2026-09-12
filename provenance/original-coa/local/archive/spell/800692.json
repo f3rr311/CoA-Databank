@@ -1,0 +1,8 @@
+{
+  "name_enus": "Static Lock",
+  "icon": "spell_arcane_focusedpower",
+  "tooltip_enus": "<table><tr><td><b>Static Lock</b><br />7% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Locks your <span style=\"color: #feff9e;\">Static</span> for the next <span style=\"color: #feff9e;\">6&nbsp;sec</span>, preventing it from increasing or decreasing.<br /><br />Triggering a Supercharge effect while this is active will not deplete your <span style=\"color: #feff9e;\">Static</span>.</span></td></tr></table><!--?800692:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

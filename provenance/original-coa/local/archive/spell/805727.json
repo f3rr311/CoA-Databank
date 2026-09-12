@@ -1,0 +1,8 @@
+{
+  "name_enus": "Arcane Glyph",
+  "icon": "70_inscription_vantus_rune_suramar",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Arcane Glyph</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Using <span style=\"color: #ffffff;\">Elemental Burst</span> or <span style=\"color: #ffffff;\">Primordial Blast</span> while <span style=\"color: #ffffff;\">Flame Glyph</span> is active now grants you <span style=\"color: #ffffff;\">Arcane Glyph</span>.<br /><br /> Glyphs can be unleashed by <span style=\"color: #FFFFFF;\">Glyphic Ruin</span> or <span style=\"color: #FFFFFF;\">Thaumaturgy</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/70_inscription_vantus_rune_suramar.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=520092'> Arcane Glyph </a> <br />\n                            <span> <span style=\"color: #FFFFFF;\">Unleash</span>: Deals 276*$<scalingbp>+ArcP*0.18 Arcane Damage to up to 0 enemies near the primary target.</span><br /></span></td></tr></table><!--?805727:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

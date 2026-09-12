@@ -1,0 +1,8 @@
+{
+  "name_enus": "Eternal Resolve",
+  "icon": "skill_icon_skill73_border",
+  "tooltip_enus": "<table><tr><td><b>Eternal Resolve</b><br />22% of base <br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Activate your eternal resolve for 30&nbsp;sec, sending you into a feral frenzy, increasing your melee attack speed, maximum health, and healing received by 50%.</span></td></tr></table><!--?801962:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

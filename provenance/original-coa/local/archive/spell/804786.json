@@ -1,0 +1,15 @@
+{
+  "name_enus": "Pestilence of Apocalypse",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Pestilence of Apocalypse</b><br /><table width=\"100%\"><tr><td>Instant</td><th>4&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Emanate the <span style=\"color: #ffffff;\">Pestilence of Apocalypse</span>, causing nearby enemies to take 10% increased Fire damage from you.<!--sp801002:0--><!--sp801002--></span></td></tr></table><!--?804786:1:1:80-->",
+  "spells_enus": {
+    "801002": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #ffffff\">Unleash</span>: Deal 150*$<scalingbp>+FireP*0.24 Fire damage plus an additional 69*$<scalingbp>+FireP*0.0725 every 1 sec to nearby enemies in a 10 yd radius for 8&nbsp;sec."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

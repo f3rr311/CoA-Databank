@@ -1,0 +1,503 @@
+[
+ {
+  "branch": "necromancer",
+  "kind": "dps",
+  "armor": "Cloth",
+  "st": 1204,
+  "target": 1204,
+  "b10": 920,
+  "b30": 1165,
+  "cleave": 1354,
+  "aoe5": 1923,
+  "aoe10": 2492,
+  "hps": 0,
+  "defensive": 0,
+  "ehp": 19662,
+  "utility": 0,
+  "util_kinds": [],
+  "cc": 1,
+  "cc_kinds": [
+   "slow"
+  ],
+  "mult": 1.44
+ },
+ {
+  "branch": "reaper",
+  "kind": "dps",
+  "armor": "Plate",
+  "st": 1700,
+  "target": 1657,
+  "b10": 1074,
+  "b30": 1109,
+  "cleave": 1109,
+  "aoe5": 1109,
+  "aoe10": 1109,
+  "hps": 1511,
+  "defensive": 5,
+  "ehp": 32129,
+  "utility": 4,
+  "util_kinds": [
+   "dispel",
+   "interrupt"
+  ],
+  "cc": 2,
+  "cc_kinds": [
+   "fear",
+   "silence"
+  ],
+  "mult": 2.11
+ },
+ {
+  "branch": "knight-of-xoroth",
+  "kind": "dps",
+  "armor": "Plate",
+  "st": 1608,
+  "target": 1594,
+  "b10": 927,
+  "b30": 895,
+  "cleave": 895,
+  "aoe5": 895,
+  "aoe10": 895,
+  "hps": 1387,
+  "defensive": 2,
+  "ehp": 32129,
+  "utility": 0,
+  "util_kinds": [],
+  "cc": 2,
+  "cc_kinds": [
+   "charm",
+   "silence"
+  ],
+  "mult": 1.94
+ },
+ {
+  "branch": "pyromancer",
+  "kind": "dps",
+  "armor": "Cloth",
+  "st": 1658,
+  "target": 1657,
+  "b10": 1413,
+  "b30": 1742,
+  "cleave": 2113,
+  "aoe5": 3226,
+  "aoe10": 4784,
+  "hps": 998,
+  "defensive": 2,
+  "ehp": 16858,
+  "utility": 2,
+  "util_kinds": [
+   "dispel"
+  ],
+  "cc": 3,
+  "cc_kinds": [
+   "root",
+   "stun"
+  ],
+  "mult": 1.63
+ },
+ {
+  "branch": "chronomancer",
+  "kind": "dps",
+  "armor": "Cloth",
+  "st": 1594,
+  "target": 1594,
+  "b10": 1139,
+  "b30": 1924,
+  "cleave": 1924,
+  "aoe5": 1924,
+  "aoe10": 1924,
+  "hps": 956,
+  "defensive": 1,
+  "ehp": 16858,
+  "utility": 2,
+  "util_kinds": [
+   "dispel"
+  ],
+  "cc": 1,
+  "cc_kinds": [
+   "root"
+  ],
+  "mult": 1.56
+ },
+ {
+  "branch": "bloodmage",
+  "kind": "dps",
+  "armor": "Leather",
+  "st": 1625,
+  "target": 1626,
+  "b10": 1973,
+  "b30": 1587,
+  "cleave": 2070,
+  "aoe5": 3518,
+  "aoe10": 4774,
+  "hps": 1783,
+  "defensive": 3,
+  "ehp": 18317,
+  "utility": 1,
+  "util_kinds": [
+   "interrupt"
+  ],
+  "cc": 2,
+  "cc_kinds": [
+   "fear",
+   "slow"
+  ],
+  "mult": 1.94
+ },
+ {
+  "branch": "felsworn",
+  "kind": "bruiser",
+  "armor": "Leather",
+  "st": 1374,
+  "target": 1374,
+  "b10": 1119,
+  "b30": 1206,
+  "cleave": 1417,
+  "aoe5": 2050,
+  "aoe10": 2050,
+  "hps": 0,
+  "defensive": 3,
+  "ehp": 18772,
+  "utility": 0,
+  "util_kinds": [],
+  "cc": 2,
+  "cc_kinds": [
+   "fear",
+   "slow"
+  ],
+  "mult": 1.45
+ },
+ {
+  "branch": "witch-doctor",
+  "kind": "healer",
+  "armor": "Leather",
+  "st": 1147,
+  "target": 1141,
+  "b10": 864,
+  "b30": 1097,
+  "cleave": 1255,
+  "aoe5": 1732,
+  "aoe10": 2526,
+  "hps": 2157,
+  "defensive": 1,
+  "ehp": 18772,
+  "utility": 0,
+  "util_kinds": [],
+  "cc": 1,
+  "cc_kinds": [
+   "slow"
+  ],
+  "mult": 1.45
+ },
+ {
+  "branch": "cultist",
+  "kind": "dps",
+  "armor": "Plate",
+  "st": 1657,
+  "target": 1657,
+  "b10": 1471,
+  "b30": 1480,
+  "cleave": 1749,
+  "aoe5": 2559,
+  "aoe10": 2559,
+  "hps": 0,
+  "defensive": 2,
+  "ehp": 28232,
+  "utility": 1,
+  "util_kinds": [
+   "interrupt"
+  ],
+  "cc": 2,
+  "cc_kinds": [
+   "confuse",
+   "stun"
+  ],
+  "mult": 1.7
+ },
+ {
+  "branch": "sun-cleric",
+  "kind": "healer",
+  "armor": "Plate",
+  "st": 1311,
+  "target": 1311,
+  "b10": 968,
+  "b30": 1082,
+  "cleave": 1275,
+  "aoe5": 1275,
+  "aoe10": 1275,
+  "hps": 1974,
+  "defensive": 2,
+  "ehp": 27536,
+  "utility": 0,
+  "util_kinds": [],
+  "cc": 1,
+  "cc_kinds": [
+   "stun"
+  ],
+  "mult": 1.36
+ },
+ {
+  "branch": "starcaller",
+  "kind": "dps",
+  "armor": "Plate",
+  "st": 1626,
+  "target": 1626,
+  "b10": 1141,
+  "b30": 1464,
+  "cleave": 2245,
+  "aoe5": 4589,
+  "aoe10": 7556,
+  "hps": 497,
+  "defensive": 4,
+  "ehp": 27536,
+  "utility": 2,
+  "util_kinds": [
+   "dispel",
+   "interrupt"
+  ],
+  "cc": 1,
+  "cc_kinds": [
+   "stun"
+  ],
+  "mult": 1.41
+ },
+ {
+  "branch": "venomancer",
+  "kind": "dps",
+  "armor": "Mail",
+  "st": 1628,
+  "target": 1626,
+  "b10": 1391,
+  "b30": 1424,
+  "cleave": 1424,
+  "aoe5": 1424,
+  "aoe10": 1424,
+  "hps": 529,
+  "defensive": 2,
+  "ehp": 22101,
+  "utility": 1,
+  "util_kinds": [
+   "dispel"
+  ],
+  "cc": 1,
+  "cc_kinds": [
+   "stun"
+  ],
+  "mult": 1.49
+ },
+ {
+  "branch": "barbarian",
+  "kind": "dps",
+  "armor": "Leather",
+  "st": 1754,
+  "target": 1657,
+  "b10": 938,
+  "b30": 945,
+  "cleave": 945,
+  "aoe5": 945,
+  "aoe10": 945,
+  "hps": 1595,
+  "defensive": 5,
+  "ehp": 21363,
+  "utility": 0,
+  "util_kinds": [],
+  "cc": 0,
+  "cc_kinds": [],
+  "mult": 2.23
+ },
+ {
+  "branch": "witch-hunter",
+  "kind": "dps",
+  "armor": "Mail",
+  "st": 1627,
+  "target": 1626,
+  "b10": 773,
+  "b30": 1187,
+  "cleave": 1187,
+  "aoe5": 1187,
+  "aoe10": 1187,
+  "hps": 1262,
+  "defensive": 8,
+  "ehp": 25788,
+  "utility": 3,
+  "util_kinds": [
+   "dispel",
+   "interrupt",
+   "knockback"
+  ],
+  "cc": 3,
+  "cc_kinds": [
+   "silence",
+   "slow",
+   "stun"
+  ],
+  "mult": 1.76
+ },
+ {
+  "branch": "templar",
+  "kind": "bruiser",
+  "armor": "Mail",
+  "st": 1418,
+  "target": 1405,
+  "b10": 795,
+  "b30": 783,
+  "cleave": 783,
+  "aoe5": 783,
+  "aoe10": 783,
+  "hps": 2233,
+  "defensive": 3,
+  "ehp": 25788,
+  "utility": 2,
+  "util_kinds": [
+   "battle-res",
+   "dispel"
+  ],
+  "cc": 1,
+  "cc_kinds": [
+   "taunt"
+  ],
+  "mult": 2.08
+ },
+ {
+  "branch": "guardian",
+  "kind": "tank",
+  "armor": "Plate",
+  "st": 1250,
+  "target": 1248,
+  "b10": 642,
+  "b30": 1042,
+  "cleave": 1588,
+  "aoe5": 2879,
+  "aoe10": 5031,
+  "hps": 936,
+  "defensive": 3,
+  "ehp": 35944,
+  "utility": 4,
+  "util_kinds": [
+   "dispel"
+  ],
+  "cc": 3,
+  "cc_kinds": [
+   "root",
+   "stun",
+   "taunt"
+  ],
+  "mult": 1.53
+ },
+ {
+  "branch": "primalist",
+  "kind": "bruiser",
+  "armor": "Plate",
+  "st": 1407,
+  "target": 1405,
+  "b10": 807,
+  "b30": 912,
+  "cleave": 1608,
+  "aoe5": 3699,
+  "aoe10": 6374,
+  "hps": 1482,
+  "defensive": 4,
+  "ehp": 34839,
+  "utility": 0,
+  "util_kinds": [],
+  "cc": 0,
+  "cc_kinds": [],
+  "mult": 1.62
+ },
+ {
+  "branch": "ranger",
+  "kind": "dps",
+  "armor": "Leather",
+  "st": 1577,
+  "target": 1575,
+  "b10": 853,
+  "b30": 918,
+  "cleave": 918,
+  "aoe5": 918,
+  "aoe10": 918,
+  "hps": 1152,
+  "defensive": 1,
+  "ehp": 19267,
+  "utility": 0,
+  "util_kinds": [],
+  "cc": 1,
+  "cc_kinds": [
+   "slow"
+  ],
+  "mult": 1.79
+ },
+ {
+  "branch": "tinker",
+  "kind": "dps",
+  "armor": "Mail",
+  "st": 1275,
+  "target": 1275,
+  "b10": 592,
+  "b30": 793,
+  "cleave": 909,
+  "aoe5": 1257,
+  "aoe10": 1838,
+  "hps": 1091,
+  "defensive": 0,
+  "ehp": 23257,
+  "utility": 1,
+  "util_kinds": [
+   "dispel"
+  ],
+  "cc": 1,
+  "cc_kinds": [
+   "silence"
+  ],
+  "mult": 1.69
+ },
+ {
+  "branch": "runemaster",
+  "kind": "dps",
+  "armor": "Cloth",
+  "st": 1658,
+  "target": 1657,
+  "b10": 1403,
+  "b30": 1380,
+  "cleave": 1380,
+  "aoe5": 1380,
+  "aoe10": 1380,
+  "hps": 0,
+  "defensive": 1,
+  "ehp": 18410,
+  "utility": 2,
+  "util_kinds": [
+   "dispel",
+   "interrupt"
+  ],
+  "cc": 3,
+  "cc_kinds": [
+   "root",
+   "stun"
+  ],
+  "mult": 1.56
+ },
+ {
+  "branch": "stormbringer",
+  "kind": "dps",
+  "armor": "Cloth",
+  "st": 1626,
+  "target": 1626,
+  "b10": 1366,
+  "b30": 1504,
+  "cleave": 1504,
+  "aoe5": 1504,
+  "aoe10": 1504,
+  "hps": 0,
+  "defensive": 1,
+  "ehp": 16800,
+  "utility": 3,
+  "util_kinds": [
+   "dispel"
+  ],
+  "cc": 2,
+  "cc_kinds": [
+   "slow"
+  ],
+  "mult": 1.73
+ }
+]

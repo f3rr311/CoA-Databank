@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ale of The God-King",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ale of The God-King</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empower your <span style=\"color: #ffffff;\">Honored Ancestor</span>'s melee attacks to deal additional Frost damage scaling with your attack power. Lasts for 20&nbsp;sec or 10 attacks.<br /><br />This ability consumes <span style=\"color: #ffffff;\">Fill Level</span> stacks and triggers a reduced cooldown based on stacks consumed.</span></td></tr></table><!--?805780:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

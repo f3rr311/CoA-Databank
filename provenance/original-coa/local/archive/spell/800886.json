@@ -1,0 +1,8 @@
+{
+  "name_enus": "Withering Venom",
+  "icon": "ability_creature_disease_03",
+  "tooltip_enus": "<table><tr><td><b>Withering Venom</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Consumes a stack of <span style=\"color: #ffffff;\">Lethal Toxin</span> from an enemy to deal 1+1.4 Points Per Level+NatP*.027 Nature damage and afflict them with <span style=\"color: #ffffff;\">Withering Venom</span> for 20&nbsp;sec.<br /><br />This effect deals 2 Nature damage every 2 sec. Each time it ticks, it gains an additional stack, stacking 15 times.</span></td></tr></table><!--?800886:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

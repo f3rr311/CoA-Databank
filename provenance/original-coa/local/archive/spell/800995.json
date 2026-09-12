@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ley Lock",
+  "icon": "nhi_magicblock_border",
+  "tooltip_enus": "<table><tr><td><b>Ley Lock</b><br />16% of base mana<br /><table width=\"100%\"><tr><td>0.5 sec cast</td><th>6&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Interrupt your target's spellcasting, preventing any spell in that school from being cast for 2.5&nbsp;sec.</span></td></tr></table><!--?800995:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Furnace of Fiends",
+  "icon": "achievement_dungeon_crimsonhall",
+  "tooltip_enus": "<table><tr><td><b>Furnace of Fiends</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #93ccea;\">Consumes Demon's Blood</span><br />Create a magical barrier upon yourself for 10&nbsp;sec, absorbing a large amount of damage, increased for each stack consumed.</span></td></tr></table><!--?500907:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Demon's Breath",
+  "icon": "spell_shadow_demonicfortitude",
+  "tooltip_enus": "<table><tr><td><b>Demon's Breath</b><br />20 Rage<br /><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">You cause a pulse of hellfire to erupt from your <span style=\"color: #ffffff;\">Hellgate</span>, causing Fire Damage to enemies around it.  Can only be used while you have an active <span style=\"color: #ffffff;\">Hellgate</span>. <br /><br />Generates a large amount of threat.</span></td></tr></table><!--?804885:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ancestor's Wrath",
+  "icon": "5_warriorskill22_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ancestor's Wrath</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Dealing damage with <span style=\"color: #ffffff;\">Ancestral Strike</span> and <span style=\"color: #FFFFFF;\">Brutal Swing</span> now reduces an enemy's Armor by 4% for 20&nbsp;sec, stacking 5 times.</span></td></tr></table><!--?801765:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

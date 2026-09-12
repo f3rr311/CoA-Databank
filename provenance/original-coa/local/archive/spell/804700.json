@@ -1,0 +1,8 @@
+{
+  "name_enus": "Reckless Abandon",
+  "icon": "ability_hunter_longevity",
+  "tooltip_enus": "<table><tr><td><b>Reckless Abandon</b><br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">You enrage, increasing the damage dealt by your <span style=\"color: #ffffff;\">Ravenous Bite</span> ability by 100% and massively boosting its chance to apply <span style=\"color: #ffffff;\">Grimclaw</span> by 50% for 12&nbsp;sec. <br /><br />For the duration of this effect, <span style=\"color: #ffffff;\">Ravenous Bite</span> healing is reduced by 100%.</span></td></tr></table><!--?804700:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Smolder",
+  "icon": "uico_fire_spell_02_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Smolder</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>6% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>6&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\">Ignite your blade and strike an enemy, dealing 140% Weapon Damage plus 19 Fire Damage.</span></td></tr></table><!--?801087:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

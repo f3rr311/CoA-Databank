@@ -1,0 +1,8 @@
+{
+  "name_enus": "Moon Priest",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Moon Priest</b></td><th><b class=\"q0\">Spec Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Huntress Shot</span> now has a <span style=\"color: #ffffff;\">Lunar Eclipse</span> effect.<br /><br /><span style=\"color: #FFFFFF;\">Huntress Shot</span>: Applies 2 additional <span style=\"color: #66ccff;\">Scattered Stars</span>.</span></td></tr></table><!--?801973:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Infernal Steel",
+  "icon": "inv_sword_1h_artifactfelomelorn_d_02",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Infernal Steel</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Skulltaker</span> with 6 <span style=\"color: #ff9933;\">Demonfire</span> stacks now causes your next <span style=\"color: #ffffff;\">Hellmaw</span> within 15&nbsp;sec to tick 25% faster and cost 50% less Rage.</span></td></tr></table><!--?805693:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

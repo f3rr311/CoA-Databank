@@ -1,0 +1,8 @@
+{
+  "name_enus": "Devotion of Khaz'goroth",
+  "icon": "achievement_dungeon_ulduarraid_ironsentinel_01",
+  "tooltip_enus": "<table><tr><td><b>Devotion of Khaz'goroth</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Gives auto attacks a chance to reduce the cooldown of your <span style=\"color: #FFFFFF;\">Engrave Runes</span>  spells by </span></td></tr></table><!--?801479:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

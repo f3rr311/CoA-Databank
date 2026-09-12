@@ -1,0 +1,8 @@
+{
+  "name_enus": "Twin Fury",
+  "icon": "spell_fire_felcano",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Twin Fury</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Critically striking with <span style=\"color: #FFFFFF;\">Twin Slice</span> or <span style=\"color: #ffffff;\">Annihilan Strike</span> now generates an additional <span style=\"color: #32cd32;\">1 Felfury</span>.</span></td></tr></table><!--?801892:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

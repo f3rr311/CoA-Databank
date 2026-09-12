@@ -1,0 +1,8 @@
+{
+  "name_enus": "Superheated Blade",
+  "icon": "polearm_2h_deathwingraiddw_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Superheated Blade</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Critical strikes with <span style=\"color: #ffffff;\">Gore</span> and <span style=\"color: #ffffff;\">Infernal Strike</span> now generate 1 additional <span style=\"color: #ff9933;\">Demonfire</span>.</span></td></tr></table><!--?706330:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

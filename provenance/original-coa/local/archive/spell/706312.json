@@ -1,0 +1,8 @@
+{
+  "name_enus": "Holy Edge",
+  "icon": "inv_sword_1h_artifactvigfus_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Holy Edge</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #FFFFFF;\">Scourgebane</span> and <span style=\"color: #ffffff;\">Scarlet Hammer</span> now strikes 1 additional nearby enemy.</span></td></tr></table><!--?706312:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

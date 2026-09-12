@@ -1,0 +1,8 @@
+{
+  "name_enus": "Burning Crescendo",
+  "icon": "ability_siege_engineer_purification_beam",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Burning Crescendo</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the tick rate of your <span style=\"color: #FFFFFF;\">Phoenix Egg</span> by 2 sec.</span></td></tr></table><!--?805378:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

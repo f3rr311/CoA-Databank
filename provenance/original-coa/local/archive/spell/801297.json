@@ -1,0 +1,8 @@
+{
+  "name_enus": "Time Loop",
+  "icon": "ability_mage_timewarp",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Time Loop</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>17% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">You place a Time Loop on an ally. The next spell or ability they use within 10&nbsp;sec that has a cooldown of at least 8 seconds will incur no cooldown.</span></td></tr></table><!--?801297:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

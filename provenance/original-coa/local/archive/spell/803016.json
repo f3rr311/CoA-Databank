@@ -1,0 +1,8 @@
+{
+  "name_enus": "Runestone: Foretelling",
+  "icon": "spell_arcane_focusedpower",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Runestone: Foretelling</b></td><th><b class=\"q0\">Passive - Runestone</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">3 Arcane Sigils</span><br />Allows <span style=\"color: #ffffff;\">Elemental Burst</span> to expend the above <span style=\"color: #ffffff;\">Sigil</span> combination to deal 100+1.0 Points Per Level+ArcP*0.73 Arcane Damage to up to 8 enemies.<br /><br />Teaches <span style=\"color: #ffffff;\">Arcane Blade</span>.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_knife_1h_grimbatolraid_d_03.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=706667'> Arcane Blade </a> <br />\n                            <span> Strike an enemy, dealing 32+0+ArcP*.2 Arcane Damage and generating 1 <span style=\"color: #ffffff;\">Arcane Sigil</span>.<!--sp706736:0--><!--sp706736--></span><br /></span></td></tr></table><!--?803016:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

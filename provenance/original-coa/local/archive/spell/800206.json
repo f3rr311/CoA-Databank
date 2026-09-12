@@ -1,0 +1,8 @@
+{
+  "name_enus": "Carve",
+  "icon": "ability_demonhunter_infernalstrike2",
+  "tooltip_enus": "<table><tr><td><b>Carve</b><br />20 Energy<br />Channeled</td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\"><span style=\"color: #32cd32;\">Consumes 2 Felfury</span><br />Charge up a powerful attack over 2.5&nbsp;sec. <br /><br />Upon ending the channel, slash in front of you, dealing increased Weapon Damage with both weapons based on how long you channel, dealing less damage with each target struck. <br /><br /><span style=\"color: #32cd32;\">Inner Demon</span>: Reduces affected enemies melee and ranged haste by 20% for 8&nbsp;sec.<br /><br />Can dodge and parry while channeling and you can channel while moving.</span></td></tr></table><!--?800206:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

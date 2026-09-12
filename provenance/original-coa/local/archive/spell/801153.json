@@ -1,0 +1,8 @@
+{
+  "name_enus": "Tentacle of C'Thun",
+  "icon": "spell_priest_voidform",
+  "tooltip_enus": "<table><tr><td><b>Tentacle of C'Thun</b><br />30% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Summon a <span style=\"color: #ffffff;\">Tentacle of the Old Gods</span> near you for 30&nbsp;sec.<br /><br />It will seek an enemy out, dealing 65*$<scalingbp>+ShaP*0.08+AP*0.03 Shadow Damage every 1.5 sec, scaling with spell power and attack power.<br /><br />While above 60 <span style=\"color: #cfa6ff;\">Insanity</span>, the mana cost of this spell is removed.<br /><br />You may only have 1 <span style=\"color: #FFFFFF;\">Old God Tentacle</span> active at a time.</span></td></tr></table><!--?801153:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

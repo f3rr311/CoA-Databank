@@ -1,0 +1,8 @@
+{
+  "name_enus": "Subjugate",
+  "icon": "nhi_shadowraise_border",
+  "tooltip_enus": "<table><tr><td><b>Subjugate</b><br />8% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Silences an enemy and reduces their movement speed by 50% for 4&nbsp;sec.</span></td></tr></table><!--?500089:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Adrenal Venom",
+  "icon": "trade_alchemy_dpotion_a26",
+  "tooltip_enus": "<table><tr><td><b>Adrenal Venom</b><br />20% of base mana<br />1 sec cast</td></tr></table><table><tr><td><span class=\"q\">Activate <span style=\"color: #ffffff;\">Adrenal Venom</span> for 2&nbsp;hr, giving your casts a 25% chance to increase your haste by 6% for 6&nbsp;sec, stacking 3 times.<br /><br />You can have a maximum of 2 unique <span style=\"color: #ffffff;\">Venoms</span> active at a time.</span></td></tr></table><!--?805775:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

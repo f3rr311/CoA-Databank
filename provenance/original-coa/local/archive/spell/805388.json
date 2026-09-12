@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bloodmage",
+  "icon": "inv_staff_2h_pvpdraenors2_d_01",
+  "tooltip_enus": "<table><tr><td><b>Bloodmage</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Allows you to wield Staves, but reduces your Physical Damage dealt by 80% at all times.<br /><br />Increases the Healing you receive from your Lifedrinker spell by 30%.</span></td></tr></table><!--?805388:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

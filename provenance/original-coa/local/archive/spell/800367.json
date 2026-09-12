@@ -1,0 +1,8 @@
+{
+  "name_enus": "Void Embrace",
+  "icon": "ability_priest_voidentropy",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Void Embrace</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>20% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cfa6ff;\">Consumes 60 Insanity</span><br />Emanate an aura for up to 12&nbsp;sec, healing up to 10 allies within 40 yds for (12*1000/3)*(30+0+SP*0.11467) over 12&nbsp;sec and applying <span style=\"color: #ffffff;\">Void-Touched</span> with each tick.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_deathknight_aoedeathgrip.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=301982'> Void-Touched </a> <br />\n                            <span> Marks the ally for 30&nbsp;sec, stacking 10 times.<br /><br />When you cast <span style=\"color: #ffffff;\">Gaze of C'Thun</span>, all stacks are consumed to heal all allies affected by <span style=\"color: #ffffff;\">Void-Touched</span> for 100+5.8 Points Per Level+Heal*0.35, increased based on how many stacks were on them.</span><br /></span></td></tr></table><!--?800367:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Raze",
+  "icon": "ability_mage_flamecannon",
+  "tooltip_enus": "<table><tr><td><b>Raze</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Allows <span style=\"color: #ffffff;\">Lava Shard</span> to strike up to 3 enemies.</span></td></tr></table><!--?804814:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

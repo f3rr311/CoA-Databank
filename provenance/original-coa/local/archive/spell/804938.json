@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cannon Blast",
+  "icon": "ability_rogue_cannonballbarrage",
+  "tooltip_enus": "<table><tr><td><b>Cannon Blast</b><br />40 Focus<br /><table width=\"100%\"><tr><td>Instant</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Fires a cannonball at an enemy, dealing 103 to 112 Physical damage, and then an additional 56 to 58 Fire damage over 10&nbsp;sec, knocking them back a short distance.</span></td></tr></table><!--?804938:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

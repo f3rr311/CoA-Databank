@@ -1,0 +1,8 @@
+{
+  "name_enus": "Soul Furnace",
+  "icon": "nhi_spiritamulet_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Soul Furnace</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the amount leeched from <span style=\"color: #ffffff;\">Soul Harvest</span> by an additional 50%.</span></td></tr></table><!--?805184:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

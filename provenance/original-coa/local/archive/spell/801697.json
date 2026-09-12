@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dance of the Loa",
+  "icon": "achievement_zulgurub_jindo",
+  "tooltip_enus": "<table><tr><td><b>Dance of the Loa</b><br />40% of base mana<br /><table width=\"100%\"><tr><td>Channeled</td><th>30&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Perform the <span style=\"color: #ffffff;\">Dance of the Loa</span> for up to until cancelled.<br /><br />Instantly heal party and raid members within 30 yds for 100+1.0 Points Per Level+SP*1.25. This effect is repeated every 1 sec.</span></td></tr></table><!--?801697:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

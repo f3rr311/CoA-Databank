@@ -1,0 +1,8 @@
+{
+  "name_enus": "Expunge",
+  "icon": "_d3acidcloud",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Expunge</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #90ee90;\">Command</span> spells on an enemy now applies <span style=\"color: #ffffff;\">Expunge</span> if they are <span style=\"color: #7fff00;\">Diseased</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/_d3acidcloud.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=500343'> Expunge </a> <br />\n                            <span> Increases the target's damage taken from your Necromancer diseases by 10% for 10&nbsp;sec, stacking 2 times.</span><br /></span></td></tr></table><!--?705754:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

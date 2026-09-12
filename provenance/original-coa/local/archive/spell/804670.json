@@ -1,0 +1,8 @@
+{
+  "name_enus": "Abyssal Ward",
+  "icon": "spell_priest_shadoworbs",
+  "tooltip_enus": "<table><tr><td><b>Abyssal Ward</b><br />20% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Coalesce an <span style=\"color: #ffffff;\">Abyssal Ward</span> reducing your damage taken by 50% for 10&nbsp;sec or 5 attacks. For the duration, each attack received will decrease the value by 10%.<br /><br />Usable while stunned.</span></td></tr></table><!--?804670:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flames of the Father",
+  "icon": "ability_mage_flamecannon",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flames of the Father</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your Fire damage dealt is increased by 10% against <span style=\"color: #ff4500;\">Burning</span> targets.</span></td></tr></table><!--?806458:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

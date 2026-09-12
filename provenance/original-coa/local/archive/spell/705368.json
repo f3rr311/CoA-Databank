@@ -1,0 +1,8 @@
+{
+  "name_enus": "Gallant",
+  "icon": "inv_chest_plate04",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Gallant</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your Strength by 4% and expertise by 2.</span></td></tr></table><!--?705368:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

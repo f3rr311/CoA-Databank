@@ -1,0 +1,8 @@
+{
+  "name_enus": "Commando",
+  "icon": "achievement_character_dwarf_male",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Commando</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Causes <span style=\"color: #ffffff;\">Sniper Scrap Shots</span> and <span style=\"color: #ffffff;\">Gunsling</span> to make your next gun swap instant and not trigger their global cooldowns.</span></td></tr></table><!--?801884:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

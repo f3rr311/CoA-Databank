@@ -1,0 +1,15 @@
+{
+  "name_enus": "Flameblade",
+  "icon": "inv_sword_1h_draenorraid_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flameblade</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Infernal Strike</span> and <!--sp804284:0--><span style=\"color: #ffffff;\">Flames of Xoroth</span><!--sp804284--> by 8%.</span></td></tr></table><!--?704967:1:1:80-->",
+  "spells_enus": {
+    "804284": [
+      [
+        "<span style=\"color: #ffffff\">Flames of Xoroth</span>",
+        "<span style=\"color: #ffffff\">Warbringer</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hive Instinct",
+  "icon": "inv_pet_shalespider",
+  "tooltip_enus": "<table><tr><td><b>Hive Instinct</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">The swarm stirs within you, preparing you for battle, instantly generating 100 Rage or Energy.<br /><br />Usable while <span style=\"color: #ffffff;\">Skulking</span>.</span></td></tr></table><!--?804968:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

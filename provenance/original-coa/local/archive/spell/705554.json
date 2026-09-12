@@ -1,0 +1,8 @@
+{
+  "name_enus": "Speedy Attuner",
+  "icon": "custom_t_nhance_rpg_icons_magicspeed_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Speedy Attuner</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your movement speed by 8% and reduces the mana cost of your <span style=\"color: #ffffff;\">Runic Tattoos</span> by 25%.</span></td></tr></table><!--?705554:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

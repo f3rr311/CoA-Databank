@@ -1,0 +1,8 @@
+{
+  "name_enus": "Harvest Time",
+  "icon": "inv_mace_1h_revendreth_d_01",
+  "tooltip_enus": "<table><tr><td><b>Harvest Time</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your damage and critical strike chance by 15% and gives your spells that require <span style=\"color: #5ee2ff;\">Soul Infusion</span> a 50% to not consume the effect for 15&nbsp;sec.</span></td></tr></table><!--?803995:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

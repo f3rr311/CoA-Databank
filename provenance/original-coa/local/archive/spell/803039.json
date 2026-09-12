@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blood Frenzy",
+  "icon": "_d3mantraofretribution",
+  "tooltip_enus": "<table><tr><td><b>Blood Frenzy</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Deals 1+0+AP*.36 Shadow Damage to your target every 0.75 sec for 7.5&nbsp;sec. At the end of the duration, the target takes an additional 457+1.0 Points Per Level+AP*.45 Shadow Damage.</span></td></tr></table><!--?803039:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

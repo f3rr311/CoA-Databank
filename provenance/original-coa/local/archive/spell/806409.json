@@ -1,0 +1,8 @@
+{
+  "name_enus": "Kinetic Energy",
+  "icon": "nhi_lightning_empower_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Kinetic Energy</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting a spell that consumes <span style=\"color: #4fd1c5;\">Conductive</span> now grants you a stack of <span style=\"color: #ffffff;\">Kinetic Energy</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/nhi_lightning_empower_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=806410'> Kinetic Energy </a> <br />\n                            <span> Critical strike chance increased by 2%, stacking 3 times, for 10&nbsp;sec.<br /><br />Additional applications do not refresh the duration.</span><br /></span></td></tr></table><!--?806409:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Amphibimorph",
+  "icon": "nhi_hypnotoad_border",
+  "tooltip_enus": "<table><tr><td><b>Amphibimorph</b><br />18% of base mana<br /><table width=\"100%\"><tr><td>1 sec cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Transform enemies at target location into a frog, making them unable to attack or cast spells, and slowing their movement speed by 25% for 40&nbsp;sec (8 sec vs players). While transformed into a frog the enemy is considered a Beast.<br /><br />Damage caused may interrupt the effect.</span></td></tr></table><!--?500952:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

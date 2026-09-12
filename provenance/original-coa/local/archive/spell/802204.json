@@ -1,0 +1,8 @@
+{
+  "name_enus": "Scroll of Magic",
+  "icon": "custom_t_nhance_rpg_icons_scrollofmagic_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Scroll of Magic</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Unleashing a <span style=\"color: #ffffff;\">Glyph</span> increases the damage of your <span style=\"color: #FFFFFF;\">Unleashed Glyphs</span> by 5% for 15&nbsp;sec, stacking 3 times.</span></td></tr></table><!--?802204:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

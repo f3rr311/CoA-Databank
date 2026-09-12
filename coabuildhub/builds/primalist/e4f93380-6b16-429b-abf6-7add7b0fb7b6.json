@@ -1,0 +1,801 @@
+{
+ "build": {
+  "id": "e4f93380-6b16-429b-abf6-7add7b0fb7b6",
+  "title": "Grovekeeper General Purpose - DPS/Healer Hybrid",
+  "description": "[overview]\nGrovekeeper is an easy to play DPS/Healer hybrid that summons Treants whenever it melee critically strikes, which explode for AoE damage and healing. It reaches peak power at lvl 57 when you unlock the Treant talent, but it is still very good before that point. It can top DPS and healing meters just by pressing 2 or 3 buttons, and provides powerful buffs such as Bloodlust and 20% crit chance. Your party will love you for playing this class.\n\n[talents]\nRock Barrier can be taken instead of Mineralization for solo play.\n\n[rotation]\nSpam Wildclaw to proc as many treants as possible, cast an instant cast Earthquake once every 9 seconds, use Seismic Crash if you need to generate rage and to upkeep the spell hit chance buff for your party. Cast Seismic Wave in AoE. That's pretty much it.  Cast Primal Awakening (Bloodlust) and Tree of War along with your stat buff totem when your party needs to burst down a powerful enemy.\n\n[stats]\nCrit Chance is really the only thing that matters, as treants are the bulk of your dps and healing and you want to spawn as many as possible. Crit > Strength > Haste is your stat priority. While leveling and as a fresh lvl 60, I would recommend using a 2-handed weapon as it helps generate bonus rage. Slower weapons hit harder with Wild Strike, but faster weapons let you spawn more Treants. Once you have extremely good gear and have solved your rage problems you can consider swapping to fast dual-wielded onehanders, as they will let you spawn many more Treants.",
+  "class_id": 31,
+  "spec_id": 84,
+  "author_id": "b1705e47-62cb-4c97-b845-a2fb66c34bfa",
+  "talent_string": "W1siMzEtODctMS0wIiwxXSxbIjMxLTg3LTQtMCIsMV0sWyIzMS04Ny03LTAiLDFdLFsiMzEtODctNS0xIiwxXSxbIjMxLTg3LTMtMSIsMV0sWyIzMS04Ny0xLTIiLDJdLFsiMzEtODctNC0yIiwxXSxbIjMxLTg3LTctMiIsMl0sWyIzMS04Ny00LTMiLDFdLFsiMzEtODctMi0zIiwxXSxbIjMxLTg3LTItNGEiLDFdLFsiMzEtODctNi00YSIsMV0sWyIzMS04Ny03LTUiLDJdLFsiMzEtODctNC01IiwxXSxbIjMxLTg3LTEtNSIsMl0sWyIzMS04Ny0zLTYiLDFdLFsiMzEtODctNS02IiwxXSxbIjMxLTg3LTctNiIsMV0sWyIzMS04Ny02LTciLDFdLFsiMzEtODctNC03IiwxXSxbIjMxLTg3LTQtOCIsMV0sWyIzMS04Ny00LTkiLDFdLFsiMzEtODQtNC0wIiwxXSxbIjMxLTg0LTItMSIsMV0sWyIzMS04NC02LTEiLDFdLFsiMzEtODQtNy0yIiwxXSxbIjMxLTg0LTQtMiIsMV0sWyIzMS04NC0xLTIiLDJdLFsiMzEtODQtMi0zYiIsMV0sWyIzMS04NC0yLTQiLDFdLFsiMzEtODQtMS00IiwxXSxbIjMxLTg0LTQtMyIsMV0sWyIzMS04NC00LTUiLDFdLFsiMzEtODQtNC02IiwyXSxbIjMxLTg0LTItNSIsMV0sWyIzMS04NC0xLTYiLDFdLFsiMzEtODQtMi03IiwxXSxbIjMxLTg0LTYtMyIsMl0sWyIzMS04NC03LTRhIiwxXSxbIjMxLTg0LTgtNSIsMV0sWyIzMS04NC03LTZhIiwxXSxbIjMxLTg0LTgtNyIsMV0sWyIzMS04NC0yLTgiLDFdLFsiMzEtODQtMi05YSIsMV0sWyIzMS04NC0xMC0wIiwxXSxbIjMxLTg0LTEwLTJiIiwxXSxbIjMxLTg0LTEwLTRiIiwxXSxbIjMxLTg0LTEwLTZiIiwxXSxbIjMxLTg0LTEwLThiIiwxXV0",
+  "tags": [
+   "leveling",
+   "general purpose",
+   "support",
+   "dps",
+   "healer"
+  ],
+  "role": "support",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 10,
+  "downvotes": 5,
+  "comment_count": 4,
+  "created_at": "2026-07-13T19:25:43.693726+00:00",
+  "updated_at": "2026-07-13T19:25:43.693726+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 6010,
+  "net_score": 5,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "b1705e47-62cb-4c97-b845-a2fb66c34bfa",
+   "username": "Aidan",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL02pBUjB3WDiHjRuzoXx8BEJnFeHnglL15xKxPhc7sti_GnA=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "80353f1f-c76f-44ca-b48b-77ae57149f75",
+   "build_id": "e4f93380-6b16-429b-abf6-7add7b0fb7b6",
+   "author_id": "01f3e7f9-c348-45a6-85d2-1e1a82b2d21d",
+   "parent_id": null,
+   "body": "Can you explain the logic behind taking douse vs flourishing growth ?",
+   "upvotes": 1,
+   "created_at": "2026-07-19T11:10:25.895547+00:00",
+   "updated_at": "2026-07-20T08:58:11.456152+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "01f3e7f9-c348-45a6-85d2-1e1a82b2d21d",
+    "username": "Meshal Al-Sunbel",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ--mGFccaZPs68jfrNPM7Grrz9Y8LR6nQU1VRokTFVMjEZeA=s96-c"
+   }
+  },
+  {
+   "id": "b32453ad-1291-4d97-b79a-d8f8da758bd5",
+   "build_id": "e4f93380-6b16-429b-abf6-7add7b0fb7b6",
+   "author_id": "b1705e47-62cb-4c97-b845-a2fb66c34bfa",
+   "parent_id": "80353f1f-c76f-44ca-b48b-77ae57149f75",
+   "body": "Both buffs are powerful and you should take different ones depending on the situation. Douse is completely passive, so if you are say the main healer for your party then you might not have the time to cast Flourishing. If you are DPS/support role in a party full of spellcasters then Flourishing can be better than Douse as it gives a large amount of spell power.",
+   "upvotes": 1,
+   "created_at": "2026-07-19T16:37:36.376814+00:00",
+   "updated_at": "2026-07-20T08:58:24.542216+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "b1705e47-62cb-4c97-b845-a2fb66c34bfa",
+    "username": "Aidan",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL02pBUjB3WDiHjRuzoXx8BEJnFeHnglL15xKxPhc7sti_GnA=s96-c"
+   }
+  },
+  {
+   "id": "d12d8fae-fe37-4c27-abbe-b22e22ac5366",
+   "build_id": "e4f93380-6b16-429b-abf6-7add7b0fb7b6",
+   "author_id": "bb3da609-60b8-412d-81bb-5c5b7c5b7411",
+   "parent_id": null,
+   "body": "what boon do you use and what kind of weapon do you use? 2h, dual wield slow or fast 1 handers?",
+   "upvotes": 0,
+   "created_at": "2026-07-23T08:19:58.418125+00:00",
+   "updated_at": "2026-07-23T08:19:58.418125+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "bb3da609-60b8-412d-81bb-5c5b7c5b7411",
+    "username": "bnred",
+    "avatar_url": "https://cdn.discordapp.com/avatars/123203174600278016/a14244f5c2679ca086550546af7d76c7.png"
+   }
+  },
+  {
+   "id": "8b88d7b2-ad1c-4cf3-beee-150195a74bc6",
+   "build_id": "e4f93380-6b16-429b-abf6-7add7b0fb7b6",
+   "author_id": "7c941fb0-efc4-4d24-89eb-b5e88acebae0",
+   "parent_id": null,
+   "body": "There is no win in scaling spellpower and intelligence for the treants heal and damage? I read your stats prio being Crit/Strength/Haste but what about agility for crit?",
+   "upvotes": 0,
+   "created_at": "2026-07-24T11:32:36.235407+00:00",
+   "updated_at": "2026-07-24T11:32:36.235407+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "7c941fb0-efc4-4d24-89eb-b5e88acebae0",
+    "username": "Jymbo",
+    "avatar_url": null
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "a6b42d1d-6de0-4bda-bf92-486e548cda10",
+   "title": "Grovekeeper",
+   "class_id": 31,
+   "spec_id": 84,
+   "author_id": "88f7972c-4247-47d7-86f5-5a913bfbc334",
+   "tags": [],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 331,
+   "featured": false,
+   "created_at": "2026-07-27T19:11:52.96072+00:00",
+   "updated_at": "2026-07-27T19:11:52.96072+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "88f7972c-4247-47d7-86f5-5a913bfbc334",
+    "username": "syco.0",
+    "avatar_url": "https://cdn.discordapp.com/avatars/599713139919028226/5aebe09d72c1c090f2d3908143a74309.png"
+   }
+  },
+  {
+   "id": "604248d9-5113-4057-9363-af68741259e8",
+   "title": "Optimal Build for Raids/M0",
+   "class_id": 31,
+   "spec_id": 91,
+   "author_id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+   "tags": [
+    "Primalist",
+    "Mountain King",
+    "Tank",
+    "Guide",
+    "PvE",
+    "Raids",
+    "Dungeons",
+    "World Bosses",
+    "General Purpose"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 12,
+   "downvotes": 0,
+   "comment_count": 5,
+   "view_count": 3359,
+   "featured": false,
+   "created_at": "2026-07-20T21:15:32.714729+00:00",
+   "updated_at": "2026-07-26T12:03:15.901+00:00",
+   "has_talents": true,
+   "guide_section_count": 8,
+   "author": {
+    "id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+    "username": "leadfootjames",
+    "avatar_url": "https://cdn.discordapp.com/avatars/126074738341707778/3775742f0199adcc2184553650a5ad07.png"
+   }
+  },
+  {
+   "id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "title": "Wildwalker AoE Dungeon Build",
+   "class_id": 31,
+   "spec_id": 82,
+   "author_id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+   "tags": [
+    "leveling",
+    "aoe",
+    "dungeon",
+    "cleave"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 10,
+   "view_count": 5774,
+   "featured": false,
+   "created_at": "2026-07-17T20:29:37.198323+00:00",
+   "updated_at": "2026-07-21T07:44:46.649+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+    "username": "Sikotics",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIzTag4zIWh4cy9dGR2YVW0pLT3YLmp8Mo6X7E4S1QPNCObnak2=s96-c"
+   }
+  }
+ ],
+ "class": "Primalist",
+ "spec": "Life",
+ "allocations": [
+  [
+   "31-87-1-0",
+   1
+  ],
+  [
+   "31-87-4-0",
+   1
+  ],
+  [
+   "31-87-7-0",
+   1
+  ],
+  [
+   "31-87-5-1",
+   1
+  ],
+  [
+   "31-87-3-1",
+   1
+  ],
+  [
+   "31-87-1-2",
+   2
+  ],
+  [
+   "31-87-4-2",
+   1
+  ],
+  [
+   "31-87-7-2",
+   2
+  ],
+  [
+   "31-87-4-3",
+   1
+  ],
+  [
+   "31-87-2-3",
+   1
+  ],
+  [
+   "31-87-2-4a",
+   1
+  ],
+  [
+   "31-87-6-4a",
+   1
+  ],
+  [
+   "31-87-7-5",
+   2
+  ],
+  [
+   "31-87-4-5",
+   1
+  ],
+  [
+   "31-87-1-5",
+   2
+  ],
+  [
+   "31-87-3-6",
+   1
+  ],
+  [
+   "31-87-5-6",
+   1
+  ],
+  [
+   "31-87-7-6",
+   1
+  ],
+  [
+   "31-87-6-7",
+   1
+  ],
+  [
+   "31-87-4-7",
+   1
+  ],
+  [
+   "31-87-4-8",
+   1
+  ],
+  [
+   "31-87-4-9",
+   1
+  ],
+  [
+   "31-84-4-0",
+   1
+  ],
+  [
+   "31-84-2-1",
+   1
+  ],
+  [
+   "31-84-6-1",
+   1
+  ],
+  [
+   "31-84-7-2",
+   1
+  ],
+  [
+   "31-84-4-2",
+   1
+  ],
+  [
+   "31-84-1-2",
+   2
+  ],
+  [
+   "31-84-2-3b",
+   1
+  ],
+  [
+   "31-84-2-4",
+   1
+  ],
+  [
+   "31-84-1-4",
+   1
+  ],
+  [
+   "31-84-4-3",
+   1
+  ],
+  [
+   "31-84-4-5",
+   1
+  ],
+  [
+   "31-84-4-6",
+   2
+  ],
+  [
+   "31-84-2-5",
+   1
+  ],
+  [
+   "31-84-1-6",
+   1
+  ],
+  [
+   "31-84-2-7",
+   1
+  ],
+  [
+   "31-84-6-3",
+   2
+  ],
+  [
+   "31-84-7-4a",
+   1
+  ],
+  [
+   "31-84-8-5",
+   1
+  ],
+  [
+   "31-84-7-6a",
+   1
+  ],
+  [
+   "31-84-8-7",
+   1
+  ],
+  [
+   "31-84-2-8",
+   1
+  ],
+  [
+   "31-84-2-9a",
+   1
+  ],
+  [
+   "31-84-10-0",
+   1
+  ],
+  [
+   "31-84-10-2b",
+   1
+  ],
+  [
+   "31-84-10-4b",
+   1
+  ],
+  [
+   "31-84-10-6b",
+   1
+  ],
+  [
+   "31-84-10-8b",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "31-87-1-0",
+   "points": 1,
+   "name": "Grip",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800145
+  },
+  {
+   "id": "31-87-4-0",
+   "points": 1,
+   "name": "Primal Rush",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 500696
+  },
+  {
+   "id": "31-87-7-0",
+   "points": 1,
+   "name": "Boulder Dash",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 500692
+  },
+  {
+   "id": "31-87-5-1",
+   "points": 1,
+   "name": "Tectonic Flow",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 802494
+  },
+  {
+   "id": "31-87-3-1",
+   "points": 1,
+   "name": "Environmentalist",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 300729
+  },
+  {
+   "id": "31-87-1-2",
+   "points": 2,
+   "name": "Bountiful Boons",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 706203
+  },
+  {
+   "id": "31-87-4-2",
+   "points": 1,
+   "name": "Keen Senses",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 806533
+  },
+  {
+   "id": "31-87-7-2",
+   "points": 2,
+   "name": "Focus",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 680936
+  },
+  {
+   "id": "31-87-4-3",
+   "points": 1,
+   "name": "Primal Convergence",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800181
+  },
+  {
+   "id": "31-87-2-3",
+   "points": 1,
+   "name": "Bramblepatch",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 806415
+  },
+  {
+   "id": "31-87-2-4a",
+   "points": 1,
+   "name": "Fury of the Elements",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706165
+  },
+  {
+   "id": "31-87-6-4a",
+   "points": 1,
+   "name": "Primal Fury",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504193
+  },
+  {
+   "id": "31-87-7-5",
+   "points": 2,
+   "name": "Stone Cold",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 560158
+  },
+  {
+   "id": "31-87-4-5",
+   "points": 1,
+   "name": "Protective Roar",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 802782
+  },
+  {
+   "id": "31-87-1-5",
+   "points": 2,
+   "name": "Nature's Call",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 706150
+  },
+  {
+   "id": "31-87-3-6",
+   "points": 1,
+   "name": "Earthmother's Precision",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 555723
+  },
+  {
+   "id": "31-87-5-6",
+   "points": 1,
+   "name": "Stonefaced",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706201
+  },
+  {
+   "id": "31-87-7-6",
+   "points": 1,
+   "name": "Bearskin",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800094
+  },
+  {
+   "id": "31-87-6-7",
+   "points": 1,
+   "name": "Mineralization",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 520464
+  },
+  {
+   "id": "31-87-4-7",
+   "points": 1,
+   "name": "Therazane's Gift",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504219
+  },
+  {
+   "id": "31-87-4-8",
+   "points": 1,
+   "name": "Earthmother's Pendant",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504446
+  },
+  {
+   "id": "31-87-4-9",
+   "points": 1,
+   "name": "Primal Totem",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504229
+  },
+  {
+   "id": "31-84-4-0",
+   "points": 1,
+   "name": "Hammer of Life",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 803973
+  },
+  {
+   "id": "31-84-2-1",
+   "points": 1,
+   "name": "Seismic Wave",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 805462
+  },
+  {
+   "id": "31-84-6-1",
+   "points": 1,
+   "name": "Spirit Charge",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 800144
+  },
+  {
+   "id": "31-84-7-2",
+   "points": 1,
+   "name": "Spiritual Warrior",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 504220
+  },
+  {
+   "id": "31-84-4-2",
+   "points": 1,
+   "name": "Nature's Fury",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 300742
+  },
+  {
+   "id": "31-84-1-2",
+   "points": 2,
+   "name": "Tranquil Mind",
+   "maxPoints": 2,
+   "tree": "Life",
+   "spellId": 504223
+  },
+  {
+   "id": "31-84-2-3b",
+   "points": 1,
+   "name": "Blessing of Neptulon",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 560055
+  },
+  {
+   "id": "31-84-2-4",
+   "points": 1,
+   "name": "Elemental Cascade",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 504196
+  },
+  {
+   "id": "31-84-1-4",
+   "points": 1,
+   "name": "Battleweaver",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 300733
+  },
+  {
+   "id": "31-84-4-3",
+   "points": 1,
+   "name": "Power Hammer",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 303014
+  },
+  {
+   "id": "31-84-4-5",
+   "points": 1,
+   "name": "Sacred Grove",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 800180
+  },
+  {
+   "id": "31-84-4-6",
+   "points": 2,
+   "name": "Verdant Warrior",
+   "maxPoints": 2,
+   "tree": "Life",
+   "spellId": 301299
+  },
+  {
+   "id": "31-84-2-5",
+   "points": 1,
+   "name": "Ring of Life",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 804705
+  },
+  {
+   "id": "31-84-1-6",
+   "points": 1,
+   "name": "Earthmother's Binding",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 805107
+  },
+  {
+   "id": "31-84-2-7",
+   "points": 1,
+   "name": "Infusion of Neptulon",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 300731
+  },
+  {
+   "id": "31-84-6-3",
+   "points": 2,
+   "name": "Ancient Power",
+   "maxPoints": 2,
+   "tree": "Life",
+   "spellId": 300740
+  },
+  {
+   "id": "31-84-7-4a",
+   "points": 1,
+   "name": "Crashing Out",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 574313
+  },
+  {
+   "id": "31-84-8-5",
+   "points": 1,
+   "name": "Running on Instinct",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 300744
+  },
+  {
+   "id": "31-84-7-6a",
+   "points": 1,
+   "name": "Earthmother's Warden",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 707514
+  },
+  {
+   "id": "31-84-8-7",
+   "points": 1,
+   "name": "Shaman Training",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 805445
+  },
+  {
+   "id": "31-84-2-8",
+   "points": 1,
+   "name": "Primordial Earth",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 806536
+  },
+  {
+   "id": "31-84-2-9a",
+   "points": 1,
+   "name": "Ancient of War",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 504222
+  },
+  {
+   "id": "31-84-10-0",
+   "points": 1,
+   "name": "Grove Training",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 92150
+  },
+  {
+   "id": "31-84-10-2b",
+   "points": 1,
+   "name": "Vitality Surge",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 504214
+  },
+  {
+   "id": "31-84-10-4b",
+   "points": 1,
+   "name": "Infused With Power",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 503718
+  },
+  {
+   "id": "31-84-10-6b",
+   "points": 1,
+   "name": "Douse",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 807558
+  },
+  {
+   "id": "31-84-10-8b",
+   "points": 1,
+   "name": "Primal Awakening",
+   "maxPoints": 1,
+   "tree": "Life",
+   "spellId": 807560
+  }
+ ]
+}

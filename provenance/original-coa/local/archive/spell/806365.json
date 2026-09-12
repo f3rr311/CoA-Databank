@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dream Flowers",
+  "icon": "inv_legion_faction_dreamweavers",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dream Flowers</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 50 Passive</span><br />Your damaging critical strikes now spawn a green <span style=\"color: #FFFFFF;\">Dream Flower</span> at a random location within 15 yds of you. Can only occur once per sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_misc_trailofflowers.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=561005'> Dream Flower </a> <br />\n                            <span> When an ally runs over the flower, they consume it to heal for 3% maximum health and gain 40% increased movement speed for 5&nbsp;sec.</span><br /></span></td></tr></table><!--?806365:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

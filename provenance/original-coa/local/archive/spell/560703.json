@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dark Celerity",
+  "icon": "spell_shadow_mindtwisting",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dark Celerity</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the bonus healing scaling of your <span style=\"color: #FFFFFF;\">Gaze of C'Thun</span> and <span style=\"color: #ffffff;\">Eldritch Mending</span> by 20%.</span></td></tr></table><!--?560703:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Astral Aegis",
+  "icon": "ability_bastion_monk",
+  "tooltip_enus": "<table><tr><td><b>Astral Aegis</b><br />19% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Drains 30% Maximum Mana</span><br />For 10&nbsp;sec, direct Magic damage taken will silence the attacker for 1&nbsp;sec and deal 57*$<scalingbp>+ArcP*.18 Arcane damage to them.<br /><br />Shares a cooldown with other <span style=\"color: #ffffff;\">Aegis</span> spells.</span></td></tr></table><!--?806155:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

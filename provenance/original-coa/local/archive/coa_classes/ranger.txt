@@ -1,0 +1,52 @@
+Ranger Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Ranger Overview
+ Rangers are scouts and brigands of the wilderness with bushcraft survival skills. Archery peppers foes from afar with quiver-modified arrows, Brigand ambushes with poisons and dirty tricks, and Farstrider supports allies with war falcons and hunting horns. Farstrider represents CoA's new Support role category.
+ Wilderness outlaw proficient with bow and blade, allied with war falcons and hunting horns.
+ Class Mechanic — Bushcraft
+ Rangers use bushcraft skills — quiver types, camp sites, and war falcons — to hunt and support allies.
+ Ranger uses Focus as its primary resource and wears Leather armor.
+ Specializations
+ At level 10, Ranger players choose one of three specializations, each offering a distinct playstyle:
+ Archery: Dedicated long-range archer using Quiver abilities to modify damage with excellent mobility.
+ Brigand: Ambush bandit assaulting with brutal melee, poisons, and dirty tricks from civilization's edge.
+ Farstrider: Support spec calling War Falcons and blowing hunting horns to buff allies — a CoA Support role.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Archery familiar hunter gameplay
+ Strength: Brigand strong melee ambush
+ Strength: Farstrider unique Support role
+ Weakness: Focus and quiver management
+ Weakness: Brigand lower range than Archery
+ Weakness: Farstrider needs group for full value
+ Leveling Tips
+ Archery is the premier solo leveling spec with quiver flexibility. Switch quiver types for different mob types — poison for armored elites, swift for casters. Farstrider shines in dungeon groups.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Archery consistent ranged pressure in arena with quiver swaps mid-fight. Farstrider horn buffs enhance battleground team performance.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Ranger in Conquest of Azeroth? Ranger is a Ranged DPS / Support class wearing Leather armor with Focus as its resource.
+ What is the Bushcraft mechanic? Rangers use bushcraft skills — quiver types, camp sites, and war falcons — to hunt and support allies.
+ When do Ranger specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Ranger good for beginners? Yes, Ranger is considered beginner-friendly with approachable mechanics.
+ What specs does Ranger have? Ranger has three specializations: Archery, Brigand, Farstrider.

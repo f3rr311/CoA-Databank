@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sovereignty",
+  "icon": "_seed_grainedecorruption",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Sovereignty</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Crimson Tide</span> now grants you <span style=\"color: #ffffff;\">Sovereignty</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/_seed_grainedecorruption.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=504272'> Sovereignty </a> <br />\n                            <span> Reduces the cost of your next <span style=\"color: #ffffff;\">Bloodbolt</span> within 12&nbsp;sec by 10% and causes it to strike 1 additional nearby enemy for each target damaged, stacking up to 5 times.</span><br /></span></td></tr></table><!--?806049:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

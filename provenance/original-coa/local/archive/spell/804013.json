@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fiery Retribution",
+  "icon": "inv_stave_2h_firelandsraid_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Fiery Retribution</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Each time a <span style=\"color: #ffffff;\">Hellfire Imp</span> dies, you reduce the cooldown of <span style=\"color: #ffffff;\">Sacrificial Circle</span> by 2 sec and <span style=\"color: #ffffff;\">Implosion</span> by 1 sec.</span></td></tr></table><!--?804013:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

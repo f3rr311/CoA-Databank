@@ -1,0 +1,8 @@
+{
+  "name_enus": "Devour Mana",
+  "icon": "_soulsdevourer_blue",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Devour Mana</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>12&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Destroys 15 to 19 of the enemy's mana.<br /><br />For each mana point burned, the enemy takes 1.25 Arcane Damage.</span></td></tr></table><!--?800104:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

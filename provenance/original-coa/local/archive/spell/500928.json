@@ -1,0 +1,8 @@
+{
+  "name_enus": "Volt",
+  "icon": "shaman_pvp_staticcling",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Volt</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>15% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Fuse lightning into an enemy, dealing (18*1000/3)*(25+0+NatP*.19) Nature damage over 18&nbsp;sec and slowing them by 40%.<br /><br />Generates 2 <span style=\"color: #cc99ff;\">Static</span> per tick.<br /><br />Periodic damage dealt by this effect scales with your spell haste.</span></td></tr></table><!--?500928:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

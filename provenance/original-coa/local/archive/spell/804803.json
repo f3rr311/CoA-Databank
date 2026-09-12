@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shrapnel Shots (no longer implemented)",
+  "icon": "custom_t_multishot_border",
+  "tooltip_enus": "<table><tr><td><b>Shrapnel Shots (no longer implemented)</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Gives Physical Damage dealt a 20% chance to create a <span style=\"color: #ffffff;\">Shrapnel Mine</span> underneath the target.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_ironmaidens_incindiarydevice.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=706647'> Shrapnel Mine </a> <br />\n                            <span> When you use <span style=\"color: #ffffff;\">Remote Detonation</span>, deal AP*0.25+SP*0.385+186+2.5 Points Per Level Physical damage to up to 5 enemies within 10 yds. The mine lasts 1&nbsp;min.</span><br /></span></td></tr></table><!--?804803:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Primal Convergence",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Primal Convergence</b><br />33% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Ascend into a primal convergence, increasing the effectiveness of your <span style=\"color: #FFFFFF;\">Boons</span> by 100% for 30&nbsp;sec.</span></td></tr></table><!--?800181:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

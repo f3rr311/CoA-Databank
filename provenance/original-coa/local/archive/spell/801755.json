@@ -1,0 +1,8 @@
+{
+  "name_enus": "Smash",
+  "icon": "inv_mace_2h_revendrethquest_b_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Smash</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\"><span style=\"color: #ffffff;\">Requires Enraged</span><br />Smash an enemy with both weapons for 135% Weapon Damage plus 8.</span></td></tr></table><!--?801755:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

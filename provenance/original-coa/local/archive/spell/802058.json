@@ -1,0 +1,8 @@
+{
+  "name_enus": "Reckoning",
+  "icon": "spell_fire_felrainoffire",
+  "tooltip_enus": "<table><tr><td><b>Reckoning</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">For 10&nbsp;sec, your <span style=\"color: #ffffff;\">Fel Fireball</span> is free of cost, instant cast, and strikes up to 4 targets.<br /><br />For the duration, your falling speed is slowed and damage dealt by your <span style=\"color: #ffffff;\">Fel Fireball</span> increases your damage dealt by 4% for 15&nbsp;sec, stacking 4 times.</span></td></tr></table><!--?802058:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

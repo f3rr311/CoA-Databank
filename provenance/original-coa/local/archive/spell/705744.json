@@ -1,0 +1,8 @@
+{
+  "name_enus": "Resilient Fury",
+  "icon": "ability_druid_supriseattack",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Resilient Fury</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces Physical damage taken by 3% and all damage taken while stunned by 0%.</span></td></tr></table><!--?705744:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

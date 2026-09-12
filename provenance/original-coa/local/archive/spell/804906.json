@@ -1,0 +1,8 @@
+{
+  "name_enus": "Condemn",
+  "icon": "ability_paladin_sheathoflight",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Condemn</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Energy<br />Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Condemn an enemy, dealing (15*1000/3)*(11+0+SP*.1+AP*0.05) Holy damage over 15&nbsp;sec, stacking 3 times and granting an <span style=\"color: #ffffff;\">Oath</span>.<br /><br /><span style=\"color: #ffffff;\">Oath:</span> Increases your critical strike chance by 5%.</span></td></tr></table><!--?804906:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Shrinking Jinx",
+  "icon": "spell_nature_nullward",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Shrinking Jinx</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>15% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Curse an enemy for 20&nbsp;sec, reducing their size and their attack power by 21 and spell power by 10.<!--sp806283:0--><!--sp806283--><br /><br />Can only have 1 <span style=\"color: #ffffff;\">Jinx</span> active on a target at a time.</span></td></tr></table><!--?806285:1:1:80-->",
+  "spells_enus": {
+    "806283": [
+      [
+        "",
+        "<br /><br />If this effect is dispelled, apply <span style=\"color: #ffffff\">Misery</span> to the dispeller.@s:806346:0@"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

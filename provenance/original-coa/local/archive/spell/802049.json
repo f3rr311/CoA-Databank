@@ -1,0 +1,8 @@
+{
+  "name_enus": "Eldritch Eye",
+  "icon": "inv_eyeofnzothpet",
+  "tooltip_enus": "<table><tr><td><b>Eldritch Eye</b><br />35% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Invoke the Old Gods for 15&nbsp;sec, removing the cast time of your next 3 <span style=\"color: #ffffff;\">Eldritch Mendings</span> or <span style=\"color: #ffffff;\">Malevolences</span> and causing them to critically strike.</span></td></tr></table><!--?802049:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

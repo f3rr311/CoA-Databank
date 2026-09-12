@@ -1,0 +1,15 @@
+{
+  "name_enus": "Hammer of Twilight",
+  "icon": "inv_mace_1h_hammeroftwilight_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hammer of Twilight</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Smash an enemy for 195% Weapon Damage plus 14 Shadow damage, ignoring absorption effects and draining 40 <span style=\"color: #cfa6ff;\">Insanity</span>.<!--sp704869:0--><!--sp704869--></span></td></tr></table><!--?805116:1:1:80-->",
+  "spells_enus": {
+    "704869": [
+      [
+        "",
+        " Refreshes a charge of <span style=\"color: #ffffff\">Blade of the Empire</span>."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

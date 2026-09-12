@@ -1,0 +1,8 @@
+{
+  "name_enus": "Deadly Duo",
+  "icon": "ability_hanzandfranz_chestbump",
+  "tooltip_enus": "<table><tr><td><b>Deadly Duo</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Your Barbaric Whirl ability now causes your Honored Ancestor minion to perform a similar whirlwind attack, dealing Physical damage to enemies around it based on your Agility, and your Spirit.<br /><br />In addition, using Whirling Advance will cause your Honored Ancestor to perform the same action.</span></td></tr></table><!--?804780:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

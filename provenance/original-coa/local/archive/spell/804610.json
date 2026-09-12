@@ -1,0 +1,8 @@
+{
+  "name_enus": "Reckless Assault",
+  "icon": "ability_demonhunter_spectralsight",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Reckless Assault</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Azzinoth's Assault</span>, <span style=\"color: #ffffff;\">Annihilan Strike</span>, and <span style=\"color: #ffffff;\">Twin Slice</span> by 15% against slowed enemies.</span></td></tr></table><!--?804610:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

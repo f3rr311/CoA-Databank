@@ -1,0 +1,8 @@
+{
+  "name_enus": "Precision Scopes",
+  "icon": "inv_bountyhunting",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Precision Scopes</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases critical strike chance by 4%, and the effectiveness of both damaging and healing critical strikes by 20%.</span></td></tr></table><!--?705807:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

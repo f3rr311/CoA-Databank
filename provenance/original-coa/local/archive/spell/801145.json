@@ -1,0 +1,8 @@
+{
+  "name_enus": "Astral Blessing",
+  "icon": "custom_t_nhance_rpg_icons_magicstrike_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Astral Blessing</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 50 Passive</span><br />Damaging critical strikes now reduce the cooldown of <span style=\"color: #FFFFFF;\">Warden's Blade</span> by 1 sec.</span></td></tr></table><!--?801145:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

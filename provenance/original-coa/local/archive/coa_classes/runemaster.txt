@@ -1,0 +1,52 @@
+Runemaster Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Runemaster Overview
+ Runemasters inscribe runes and cycle elemental Attunements for wild magical effects. Spellslinger delivers pure arcane devastation, Riftblade assassinates with elemental blade combos, and Conjuration plays around a Runic Familiar with displacement tactics. Inscribe Rune stores up to four runes for mana regeneration and empowered casts.
+ Rune-inscribing arcanist weaving wild magic through ancient glyphs and a bonded familiar.
+ Class Mechanic — Attunement
+ Runemasters cycle Attunement between Frost, Fire, and Arcane every 8 seconds, storing up to 4 runes for mana and ability power.
+ Runemaster uses Runes as its primary resource and wears Cloth armor.
+ Specializations
+ At level 10, Runemaster players choose one of three specializations, each offering a distinct playstyle:
+ Spellslinger: Raw arcane caster using shifting wild magic to inscribe and unleash devastating Thaumaturgy spells.
+ Riftblade: Agile assassin cycling Fire, Frost, and Arcane blades within a Mana Shroud for combo spell devastation.
+ Conjuration: Pet-focused spec where all abilities radiate from your Runic Familiar with teleports and shockwaves.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Unique familiar gameplay in Conjuration
+ Strength: Riftblade combo depth
+ Strength: Attunement cycling adds tactical layer
+ Weakness: Familiar dependency in Conjuration
+ Weakness: Attunement timing complexity
+ Weakness: Cloth fragility
+ Leveling Tips
+ Spellslinger is straightforward for solo leveling. Conjuration requires familiar positioning practice but becomes powerful once mastered. Inscribe runes before engaging elites.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Conjuration Runemasters confuse opponents with familiar teleports. Riftblade blade combos deliver lethal burst in arena.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Runemaster in Conquest of Azeroth? Runemaster is a Ranged DPS class wearing Cloth armor with Runes as its resource.
+ What is the Attunement mechanic? Runemasters cycle Attunement between Frost, Fire, and Arcane every 8 seconds, storing up to 4 runes for mana and ability power.
+ When do Runemaster specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Runemaster good for beginners? Runemaster has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Runemaster have? Runemaster has three specializations: Spellslinger, Riftblade, Conjuration.

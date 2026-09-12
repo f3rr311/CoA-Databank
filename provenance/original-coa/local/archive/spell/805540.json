@@ -1,0 +1,8 @@
+{
+  "name_enus": "Moonsteel Weapons",
+  "icon": "ability_demonhunter_sigilblue",
+  "tooltip_enus": "<table><tr><td><b>Moonsteel Weapons</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Your Melee and Ranged Auto Attacks now deal an additional 50 Arcane Damage. This effect cannot occur more than once every 1.5 sec.</span></td></tr></table><!--?805540:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

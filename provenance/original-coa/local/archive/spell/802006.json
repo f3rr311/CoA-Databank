@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hunt",
+  "icon": "5_run_border",
+  "tooltip_enus": "<table><tr><td><b>Hunt</b><br />12% of base mana<br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">2 Charges, 25 sec recharge</span><br />Charge an enemy, slowing their movement speed by 70% for 2&nbsp;sec and generating 20 Rage.</span></td></tr></table><!--?802006:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

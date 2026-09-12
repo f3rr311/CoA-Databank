@@ -1,0 +1,15 @@
+{
+  "name_enus": "Sacrificial Rite",
+  "icon": "nhi_shadowtentacle_border",
+  "tooltip_enus": "<table><tr><td><b>Sacrificial Rite</b><br />250 , plus 50 per sec<br /><table width=\"100%\"><tr><td>1 sec cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><!--sp524861:0--><span style=\"color: #ffffff;\"><!--sp524861-->Requires Mortal Form</span><br />Invoke a dark ritual, increasing your haste by 20% for 15&nbsp;sec.<br /><br />While active, attackers are afflicted with <span style=\"color: #ffffff;\">Cursed Blood</span>. Can only occur once per sec.<br /><br />At the end of the duration, your healing done is increased by 15% and you are healed for (15*1000/1.5)*(102+3.0 Points Per Level+SP*.2) over 15&nbsp;sec.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/custom_t_nhance_rpg_icons_bloodzap_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=573250'> Cursed Blood </a> <br />\n                            <span> Reduces healing received by 40%<!--sp705732:0--><!--sp705732--> and dealing damage now causes you to take 71+1.2 Points Per Level+ShaP*.5+AP*.1 Shadow Damage. Lasts 5&nbsp;sec.</span><br /></span></td></tr></table><!--?800785:1:1:80-->",
+  "spells_enus": {
+    "524861": [
+      [
+        "|cffffffff",
+        "|cffff3232"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

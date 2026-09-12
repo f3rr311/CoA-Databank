@@ -1,0 +1,8 @@
+{
+  "name_enus": "Stormquake",
+  "icon": "novart_magicspell_%2854%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Stormquake</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table>11% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>40&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Cracks the ground below the <span style=\"color: #FFFFFF;\">Thunder Orb</span>, slowing the movement speed of enemies within 0 yds by 0% and increasing damage they take from your <span style=\"color: #ffffff;\">Thunder Orbs</span> and <span style=\"color: #ffffff;\">Conjure Storm</span> by 0%. Lasts 12&nbsp;sec.</span></td></tr></table><!--?804835:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

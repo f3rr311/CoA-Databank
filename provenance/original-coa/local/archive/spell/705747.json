@@ -1,0 +1,8 @@
+{
+  "name_enus": "Unrelenting Army",
+  "icon": "spell_deathknight_armyofthedead",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Unrelenting Army</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Harvest Plague</span> now has a 20% chance to summon a <span style=\"color: #FFFFFF;\">Lesser Zombie</span> to aid you in combat for 15&nbsp;sec.</span></td></tr></table><!--?705747:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

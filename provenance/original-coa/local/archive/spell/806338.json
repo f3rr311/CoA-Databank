@@ -1,0 +1,8 @@
+{
+  "name_enus": "Endless Sands",
+  "icon": "inv_enchant_dustspirit",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Endless Sands</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #FFFFFF;\">Epoch</span> now grants you <span style=\"color: #ffffff;\">Endless Sands</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_enchant_dustspirit.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=806728'> Endless Sands </a> <br />\n                            <span> Cast time of your next <span style=\"color: #FFFFFF;\">Reverse Wounds</span> within 15&nbsp;sec is reduced by 20%, stacking up to 5 times.</span><br /></span></td></tr></table><!--?806338:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

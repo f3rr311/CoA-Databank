@@ -1,0 +1,15 @@
+{
+  "name_enus": "Ancestral Roar",
+  "icon": "_d3threateningshout",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ancestral Roar</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>25&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Requires Enraged</span><br />Roar with ancestral fervor, healing you for 100+0+AP*0.5<!--sp92083:0--><!--sp92083-->.</span></td></tr></table><!--?500918:1:1:80-->",
+  "spells_enus": {
+    "92083": [
+      [
+        "",
+        " and 1 <span style=\"color: #ffffff\">Fill Level</span> stack"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shimmering Shard",
+  "icon": "inv_misc_gem_x4_uncommon_perfectcut_yellow",
+  "tooltip_enus": "<table><tr><td><b>Shimmering Shard</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Activating <span style=\"color: #ffffff;\">Aeon</span> spells now grants you 4% increased damage and healing for 20&nbsp;sec, stacking 3 times.</span></td></tr></table><!--?806302:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

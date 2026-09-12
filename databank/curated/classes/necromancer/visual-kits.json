@@ -1,0 +1,193 @@
+{
+  "visual_kits": [
+    {
+      "area_trigger_ground": {
+        "not_applicable_reason": "Grave Bolt has no persistent ground effect."
+      },
+      "camera_constraints": {
+        "avoid_forced_camera": true,
+        "max_distance": 50,
+        "notes": "No camera shake or forced zoom is permitted for a rotational builder."
+      },
+      "camera_shake": {
+        "not_applicable_reason": "A rotational builder must not shake or force the camera."
+      },
+      "cast": {
+        "manifest_key": "asset.cast.necromancer-shadow"
+      },
+      "caster_aura": {
+        "not_applicable_reason": "Grave Bolt applies no persistent caster aura."
+      },
+      "channel": {
+        "not_applicable_reason": "Grave Bolt is not a channelled spell."
+      },
+      "cleanup": {
+        "text": "Remove the target mark through its authored aura duration or explicit dispel path."
+      },
+      "fallback_behavior": {
+        "policy": "fail-build",
+        "rationale": "A missing final presentation dependency blocks the spell from shipping."
+      },
+      "hand_attachment": {
+        "not_applicable_reason": "The selected cast kit owns its hand effect without a second attachment."
+      },
+      "icon": {
+        "manifest_key": "asset.icon.animation.bone-wraith"
+      },
+      "impact": {
+        "manifest_key": "asset.impact.necromancer-grave-bolt"
+      },
+      "key": "visual.necromancer.animation.bone-wraith",
+      "missile": {
+        "manifest_key": "asset.missile.necromancer-grave-bolt"
+      },
+      "provenance": {
+        "authoring_rationale": "Distinct hash-bound bone-wraith presentation projection.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "schema_version": "1.0.0",
+      "sound": {
+        "manifest_key": "asset.sound.necromancer-shadow-cast"
+      },
+      "status": "compiles",
+      "target_aura": {
+        "manifest_key": "asset.aura.necromancer-soul-mark"
+      },
+      "travel_speed": {
+        "yards_per_second": 24.0
+      },
+      "weapon_attachment": {
+        "not_applicable_reason": "Grave Bolt does not attach an effect to the equipped weapon."
+      }
+    },
+    {
+      "area_trigger_ground": {
+        "not_applicable_reason": "Grave Bolt has no persistent ground effect."
+      },
+      "camera_constraints": {
+        "avoid_forced_camera": true,
+        "max_distance": 50,
+        "notes": "No camera shake or forced zoom is permitted for a rotational builder."
+      },
+      "camera_shake": {
+        "not_applicable_reason": "A rotational builder must not shake or force the camera."
+      },
+      "cast": {
+        "manifest_key": "asset.cast.necromancer-shadow"
+      },
+      "caster_aura": {
+        "not_applicable_reason": "Grave Bolt applies no persistent caster aura."
+      },
+      "channel": {
+        "not_applicable_reason": "Grave Bolt is not a channelled spell."
+      },
+      "cleanup": {
+        "text": "Remove the target mark through its authored aura duration or explicit dispel path."
+      },
+      "fallback_behavior": {
+        "policy": "fail-build",
+        "rationale": "A missing final presentation dependency blocks the spell from shipping."
+      },
+      "hand_attachment": {
+        "not_applicable_reason": "The selected cast kit owns its hand effect without a second attachment."
+      },
+      "icon": {
+        "manifest_key": "asset.icon.animation.skeletal-archer"
+      },
+      "impact": {
+        "manifest_key": "asset.impact.necromancer-grave-bolt"
+      },
+      "key": "visual.necromancer.animation.skeletal-archer",
+      "missile": {
+        "manifest_key": "asset.missile.necromancer-grave-bolt"
+      },
+      "provenance": {
+        "authoring_rationale": "Distinct hash-bound skeletal-archer presentation projection.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "schema_version": "1.0.0",
+      "sound": {
+        "manifest_key": "asset.sound.necromancer-shadow-cast"
+      },
+      "status": "compiles",
+      "target_aura": {
+        "manifest_key": "asset.aura.necromancer-soul-mark"
+      },
+      "travel_speed": {
+        "yards_per_second": 24.0
+      },
+      "weapon_attachment": {
+        "not_applicable_reason": "Grave Bolt does not attach an effect to the equipped weapon."
+      }
+    },
+    {
+      "area_trigger_ground": {
+        "not_applicable_reason": "Grave Bolt has no persistent ground effect."
+      },
+      "camera_constraints": {
+        "avoid_forced_camera": true,
+        "max_distance": 50,
+        "notes": "No camera shake or forced zoom is permitted for a rotational builder."
+      },
+      "camera_shake": {
+        "not_applicable_reason": "A rotational builder must not shake or force the camera."
+      },
+      "cast": {
+        "manifest_key": "asset.cast.necromancer-shadow"
+      },
+      "caster_aura": {
+        "not_applicable_reason": "Grave Bolt applies no persistent caster aura."
+      },
+      "channel": {
+        "not_applicable_reason": "Grave Bolt is not a channelled spell."
+      },
+      "cleanup": {
+        "text": "Remove the target mark through its authored aura duration or explicit dispel path."
+      },
+      "fallback_behavior": {
+        "policy": "fail-build",
+        "rationale": "A missing final presentation dependency blocks the spell from shipping."
+      },
+      "hand_attachment": {
+        "not_applicable_reason": "The selected cast kit owns its hand effect without a second attachment."
+      },
+      "icon": {
+        "manifest_key": "asset.icon.animation.tomb-king"
+      },
+      "impact": {
+        "manifest_key": "asset.impact.necromancer-grave-bolt"
+      },
+      "key": "visual.necromancer.animation.tomb-king",
+      "missile": {
+        "manifest_key": "asset.missile.necromancer-grave-bolt"
+      },
+      "provenance": {
+        "authoring_rationale": "Distinct hash-bound tomb-king presentation projection.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "schema_version": "1.0.0",
+      "sound": {
+        "manifest_key": "asset.sound.necromancer-shadow-cast"
+      },
+      "status": "compiles",
+      "target_aura": {
+        "manifest_key": "asset.aura.necromancer-soul-mark"
+      },
+      "travel_speed": {
+        "yards_per_second": 24.0
+      },
+      "weapon_attachment": {
+        "not_applicable_reason": "Grave Bolt does not attach an effect to the equipped weapon."
+      }
+    }
+  ]
+}

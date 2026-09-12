@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bind Avatar",
+  "icon": "inv_trinket_80_zandalrari01c",
+  "tooltip_enus": "<table><tr><td><b>Bind Avatar</b><br />20% of base mana<br /><table width=\"100%\"><tr><td>Channeled</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Take direct control of your current <span style=\"color: #ffffff;\">Avatar Dinosaur</span> for up to 30&nbsp;sec.<br /><br />While active, your character is immune to all attacks and spells. When this ends, the <span style=\"color: #ffffff;\">Avatar Dinosaur</span> dies.</span></td></tr></table><!--?801583:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

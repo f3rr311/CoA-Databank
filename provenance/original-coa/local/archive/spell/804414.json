@@ -1,0 +1,8 @@
+{
+  "name_enus": "Decapitate",
+  "icon": "novart_physical_ability_%2847%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Decapitate</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>45 Energy<br />Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Attempt to decapitate an injured enemy, dealing 200% Weapon Damage plus 27, and converting each extra point of Energy to deal additional damage (up to a maximum cost of 100 Energy).<br /><br />Only usable on enemies below 35% health.</span></td></tr></table><!--?804414:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

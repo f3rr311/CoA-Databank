@@ -1,0 +1,8 @@
+{
+  "name_enus": "Coldwind",
+  "icon": "custom_t_nhance_rpg_icons_icestream_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Coldwind</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the duration of <span style=\"color: #FFFFFF;\">Necrotic Chains</span> and <span style=\"color: #FFFFFF;\">Ice Barrage's</span> freeze effect by 1 sec.</span></td></tr></table><!--?805367:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

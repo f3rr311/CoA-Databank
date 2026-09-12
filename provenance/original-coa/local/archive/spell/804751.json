@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hammer of Kings",
+  "icon": "custom_t_nhance_rpg_icons_holyhammer_border",
+  "tooltip_enus": "<table><tr><td><b>Hammer of Kings</b><br />16% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Become anointed by the light, summoning a blessed hammer that encircles you dealing 5+1.8 Points Per Level+AP*0.12+HolP*0.22 Holyfire Damage to nearby enemies every 3 sec for 12&nbsp;sec.</span></td></tr></table><!--?804751:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

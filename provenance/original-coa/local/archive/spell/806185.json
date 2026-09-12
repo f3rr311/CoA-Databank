@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mountain Fury",
+  "icon": "nhi_earthwall_border",
+  "tooltip_enus": "<table><tr><td><b>Mountain Fury</b><br />30 Rage<br /><table width=\"100%\"><tr><td>Instant</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Move the earth, dealing 492+20.2 Points Per Level+SP*.65+AP*.17+Sta*1.25 Physical damage to up to 12 enemies in a 10 yd frontal cone, pulling them toward you, repeating every 2 sec for 4&nbsp;sec.<br /><br />Each time an enemy is pulled toward you, you gain 2% reduced damage taken for 3&nbsp;sec, stacking 5 times.</span></td></tr></table><!--?806185:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

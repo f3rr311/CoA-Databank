@@ -1,0 +1,52 @@
+Reaper Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Reaper Overview
+ Reapers harvest souls and spend health as a weapon. Harvest drains life for self-sustain and cleave, Soul phases between Shadowlands as an invisible dual-wield caster, and Domination tanks by consuming health for threat. The class scales dramatically as soul pools and health investments grow during extended fights.
+ Shadowy soul collector slipping into darkness to rip life from the living with a grim scythe.
+ Class Mechanic — Harvest
+ Reapers collect Souls from fallen enemies and consume their own health to power devastating scythe abilities.
+ Reaper uses Souls as its primary resource and wears Plate armor.
+ Specializations
+ At level 10, Reaper players choose one of three specializations, each offering a distinct playstyle:
+ Harvest: Melee bruiser draining enemy essence to restore HP and cleave foes into sanguine corpses.
+ Soul: Shadowlands caster combining shadow damage, spell power, and dual wield — fading invisible between realms.
+ Domination: Savage tank consuming health for threat and AoE damage with two-handed parry and sustain abilities.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Harvest self-sustain for solo play
+ Strength: Soul invisibility for PvP escapes
+ Strength: Domination unique plate tank
+ Weakness: Health-as-resource risk
+ Weakness: Soul spec complexity
+ Weakness: Weak start before souls accumulate
+ Leveling Tips
+ Harvest handles quest mob packs efficiently. Open combat with soul-generating abilities before spending on finishers. Soul helps survive tough elite encounters.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Soul Reapers slip invisible in arena for ambush kills. Domination tanks surprise burst compositions with undying sustain.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Reaper in Conquest of Azeroth? Reaper is a Tank / DPS class wearing Plate armor with Souls as its resource.
+ What is the Harvest mechanic? Reapers collect Souls from fallen enemies and consume their own health to power devastating scythe abilities.
+ When do Reaper specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Reaper good for beginners? Reaper has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Reaper have? Reaper has three specializations: Harvest, Soul, Domination.

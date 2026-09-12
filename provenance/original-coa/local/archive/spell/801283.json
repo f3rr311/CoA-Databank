@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mass Decomposition",
+  "icon": "achievement_boss_triumvirate_voidbrokenbrute",
+  "tooltip_enus": "<table><tr><td><b>Mass Decomposition</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #FFFFFF;\">Chronurgy</span> spreads <span style=\"color: #ffffff;\">Decomposition</span> to enemies within 8 yds.</span></td></tr></table><!--?801283:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

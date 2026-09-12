@@ -1,0 +1,15 @@
+{
+  "name_enus": "Deathwind",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Deathwind</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Runic Power<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #5ee2ff;\">Generates 1 Reaped Soul</span><br />Create a cloud of mist at the target location for 10&nbsp;sec. Every 2 sec, enemies in the area take 11+0+ShaP*.04+AP*.15 Frost damage, healing you for <!--sp805181:0-->25%<!--sp805181--> of the damage dealt.</span></td></tr></table><!--?800174:1:1:80-->",
+  "spells_enus": {
+    "805181": [
+      [
+        "25%",
+        "40%"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

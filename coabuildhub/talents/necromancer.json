@@ -1,0 +1,2973 @@
+{
+ "class": {
+  "id": 23,
+  "name": "Necromancer",
+  "slug": "necromancer",
+  "color": "#556B2F"
+ },
+ "specs": [
+  {
+   "id": 59,
+   "name": "Death",
+   "tabId": 59
+  },
+  {
+   "id": 60,
+   "name": "Rime",
+   "tabId": 60
+  },
+  {
+   "id": 61,
+   "name": "Animation",
+   "tabId": 61
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 160,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Necromancer (class tree)",
+   "nodeCount": 38,
+   "nodes": [
+    {
+     "id": "23-87-2-0",
+     "name": "Raise: Abomination",
+     "x": 2,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ui_darkshore_warfront_horde_abomination",
+     "spellId": 500335,
+     "description": "Raise an Abomination to aid you in combat, occupying 3 Life Force.It is surrounded by a disease cloud, dealing 9 + 25% SP Nature damage to enemies when they deal damage and reducing their attack speed by -20% for 15 seconds.Command: Instantly unleashes an empowered disease cloud around it.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "23-87-4-0",
+     "name": "Fetid Ward",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_icon_shadowcouncilorb_green",
+     "spellId": 680388,
+     "description": "Activate a Fetid Ward on yourself and your Undead minions for 30 minutes.While active, 30% of your damage dealt heals you and your minions, split evenly amongst them, and healing received is increased by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "23-87-6-0",
+     "name": "Glacial Tap",
+     "x": 6,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_skullcurse2_blue",
+     "spellId": 805369,
+     "description": "Tap into necrotic energies, instantly regenerating 30 Runic Power.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "23-87-1-1",
+     "name": "Command: Hook",
+     "x": 1,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_hook_01",
+     "spellId": 504316,
+     "description": "Command your Abominations to hook an enemy to their location, slowing their movement speed to a halt for 2 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-87-2-0"
+     ]
+    },
+    {
+     "id": "23-87-3-1",
+     "name": "Hulking Hordes",
+     "x": 3,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "uico_unholy_spell_08_border",
+     "spellId": 300748,
+     "description": "Increases your maximum health and the maximum health of your summons by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-4-0",
+      "23-87-2-0"
+     ]
+    },
+    {
+     "id": "23-87-5-1",
+     "name": "Lich Essence",
+     "x": 5,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "wc3lichreforged",
+     "spellId": 802988,
+     "description": "Reduces the cast time of Lichfrost by -15% and reduces your spell pushback suffered from taking damage by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-4-0",
+      "23-87-6-0"
+     ]
+    },
+    {
+     "id": "23-87-7-1",
+     "name": "Icecrown Scriptures",
+     "x": 7,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_scrollofspeed_lightblue",
+     "spellId": 300234,
+     "description": "Increases your Shadow and Frost damage dealt against Humanoids and Undead by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-6-0"
+     ]
+    },
+    {
+     "id": "23-87-2-2",
+     "name": "Vampiric Aura",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_vampiricaura",
+     "spellId": 300241,
+     "description": "While you are below 50% health, your Undead minions now heal you for 10% of their damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-1-1",
+      "23-87-3-1"
+     ]
+    },
+    {
+     "id": "23-87-4-2",
+     "name": "Living Dead",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_zone_deadwindpass",
+     "spellId": 302888,
+     "description": "Reduces the mana cost of Lichfrost and Crypt Swarm by -10%. Blight now refunds 25% of its base mana cost if it lasts the full duration.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-3-1",
+      "23-87-5-1"
+     ]
+    },
+    {
+     "id": "23-87-6-2",
+     "name": "Create Frozen Reliquary",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "frozenurn",
+     "spellId": 803772,
+     "description": "Create 1 Frozen Reliquary that restores 30% of your missing mana.Allies may only use a Frozen Reliquary once per minute.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-87-7-1",
+      "23-87-5-1"
+     ]
+    },
+    {
+     "id": "23-87-2-3",
+     "name": "Life For Power",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_creepingplague",
+     "spellId": 705746,
+     "description": "You absorb 20% of healing taken and gain a shield for the amount absorbed, lasting 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-2-2"
+     ]
+    },
+    {
+     "id": "23-87-4-3",
+     "name": "Bone Tithe",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ossuary_bond",
+     "spellId": 802121,
+     "description": "Siphon life from your undead minions, sacrificing 40% of their health to grant yourself an absorb shield equal to half of the health stolen for 20 seconds.Usable while stunned.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-87-2-2",
+      "23-87-4-2",
+      "23-87-6-2"
+     ]
+    },
+    {
+     "id": "23-87-6-3",
+     "name": "Ner'zhul's Blessing",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_raid_torghast_shadowscourge_prisonofnerzhul",
+     "spellId": 704729,
+     "description": "Increases your maximum Runic Power by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-6-2"
+     ]
+    },
+    {
+     "id": "23-87-1-4",
+     "name": "Phylactery",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_frost_phylactery_border",
+     "spellId": 500933,
+     "description": "Create a Phylactery near you for 2 minutes.Upon taking damage which would bring you below 10% health, become a Shade, protecting you from all physical attacks and spells, but during that time you cannot attack or cast spells.Reaching your Phylactery in this state revives you with 40% of your maximum health. If you do not reach it in time you will die.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-87-2-3"
+     ]
+    },
+    {
+     "id": "23-87-4-4a",
+     "name": "Tears of Lordaeron",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "warlock_siphonlife",
+     "spellId": 705752,
+     "description": "Direct critical strikes regenerate 3% of your maximum mana and 9% of your maximum runic power. Periodic critical strikes regenerate 1% of your maximum mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-2-3",
+      "23-87-4-3",
+      "23-87-6-3"
+     ]
+    },
+    {
+     "id": "23-87-4-4b",
+     "name": "Overwhelming Force",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_raisedead_border",
+     "spellId": 531128,
+     "description": "Damage dealt by your Undead minions now has a 5% chance to restore 2 Runic Power and 2% of your maximum mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-87-7-4",
+     "name": "Death's Due",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_deathpickaxe_border",
+     "spellId": 807796,
+     "description": "Force a target to accept the reality of death, removing any invulnerability or immunity effects from them and cursing them for 5 seconds.If the target's health is below 20% at the end of duration, they take 800 + 200% SP Shadowfrost Damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-87-6-3"
+     ]
+    },
+    {
+     "id": "23-87-0-5",
+     "name": "Gravedigger",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_bg_xkills_avgraveyard",
+     "spellId": 704715,
+     "description": "Reduces the cast time of Sacrifice Undead by -0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-1-4"
+     ]
+    },
+    {
+     "id": "23-87-2-5",
+     "name": "Reclaimed Life",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_calltoarms_forsaken_green",
+     "spellId": 707670,
+     "description": "Reduces the cast time of your Raise spells by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-4-4a",
+      "23-87-1-4",
+      "23-87-4-4b"
+     ]
+    },
+    {
+     "id": "23-87-4-5",
+     "name": "Mass Grave",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_necro_deathlyecho",
+     "spellId": 803741,
+     "description": "Transform up to 5 nearby enemies into a ghoul, fearing them for 40 seconds (8). Only affects Humanoids.While above 50 Runic Power this spell is instant cast.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-87-4-4a",
+      "23-87-4-4b"
+     ]
+    },
+    {
+     "id": "23-87-6-5",
+     "name": "Disciple of Kel'thuzad",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_belt_plate_raiddeathknightmythic_q_01",
+     "spellId": 560615,
+     "description": "Increases your spell haste by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-4-4a",
+      "23-87-7-4",
+      "23-87-4-4b"
+     ]
+    },
+    {
+     "id": "23-87-8-5",
+     "name": "Improved Mandates",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "epic_rpg_icon_pack_death_icon_0001s_0000_soul_border",
+     "spellId": 560613,
+     "description": "Increases the effectiveness of your Mandates by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-7-4"
+     ]
+    },
+    {
+     "id": "23-87-1-6",
+     "name": "Game of Bones",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "icon_petfamily_undead",
+     "spellId": 301198,
+     "description": "Reduces the cooldown of your Champion spells by -60 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-0-5",
+      "23-87-2-5"
+     ]
+    },
+    {
+     "id": "23-87-3-6a",
+     "name": "Corpse Commander",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "icon_upgradestone_undead_rare",
+     "spellId": 707739,
+     "description": "Reduces the Runic Power cost of Corpse Explosion by -20.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-4-5"
+     ]
+    },
+    {
+     "id": "23-87-3-6b",
+     "name": "Lich Commander",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_7af_deathknight_frostmournefragment",
+     "spellId": 704713,
+     "description": "Reduces the Runic Power cost of your Command spells by -5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-87-5-6",
+     "name": "Dead Man Walking",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_plate_pvpdeathknight_g_01_boot",
+     "spellId": 300233,
+     "description": "Reduces the duration of root and slow effects against you by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-4-5"
+     ]
+    },
+    {
+     "id": "23-87-7-6a",
+     "name": "Naxxramas Prodigy",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_mummypet",
+     "spellId": 560622,
+     "description": "Increases your Shadow and Frost resistances by 0.5 per level.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-6-5",
+      "23-87-8-5"
+     ]
+    },
+    {
+     "id": "23-87-7-6b",
+     "name": "Cobalt-Plated Armor",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_frost_knight_border",
+     "spellId": 300945,
+     "description": "Increases the Armor of your Undead minions by 300, scaling with your level.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-87-2-7",
+     "name": "Putrid Summoner",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_d3wallofzombies",
+     "spellId": 560595,
+     "description": "Each Undead Stance now provides an additional bonus:Undead: Assault: Increases your critical strike chance against Humanoids by 5%.Undead: Protect: Reduces your threat generated by -75%.Undead: Pacify: Reduces your damage taken by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-3-6a",
+      "23-87-1-6",
+      "23-87-3-6b"
+     ]
+    },
+    {
+     "id": "23-87-4-7",
+     "name": "Deadly Defense",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_04_summon_skeleton_army_border",
+     "spellId": 300580,
+     "description": "Each of your summons now reduces your damage taken by 1%, up to a maximum of 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-3-6a",
+      "23-87-5-6",
+      "23-87-3-6b"
+     ]
+    },
+    {
+     "id": "23-87-6-7",
+     "name": "Winds of Northrend",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_ice_lament",
+     "spellId": 301333,
+     "description": "Increases the amount slowed by Lichfrost by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-7-6a",
+      "23-87-5-6",
+      "23-87-7-6b"
+     ]
+    },
+    {
+     "id": "23-87-1-8",
+     "name": "Raise: Decaying Colossus",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_dungeon_grimbatol_drahga_the_shadowburner",
+     "spellId": 500989,
+     "description": "Raise a Decaying Colossus to aid you in combat, occupying 3 Life Force. While active, 25% of all damage taken by the caster is taken by the Decaying Colossus.Command: Unleash a powerful attack dealing Weapon Damage plus 100 to all enemies in front of it.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-87-2-7"
+     ]
+    },
+    {
+     "id": "23-87-4-8",
+     "name": "Foul Invocation",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_boss_festergutrotface",
+     "spellId": 804371,
+     "description": "Transform into an undead monstrosity for 20 seconds, increasing your maximum health by 30%.While transformed you are immune to Fear, Sleep, Charm, and Disease effects.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-87-2-7",
+      "23-87-6-7",
+      "23-87-4-7"
+     ]
+    },
+    {
+     "id": "23-87-7-8",
+     "name": "Frost Runes",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_deathknight_empowerruneblade2",
+     "spellId": 705750,
+     "description": "Dealing Magic damage now has a 15% chance to increase your haste by 10% for 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-6-7"
+     ]
+    },
+    {
+     "id": "23-87-1-9",
+     "name": "Command: Blight",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_necro_deathrift",
+     "spellId": 504050,
+     "description": "Command your Decaying Colossus to blight the ground in a 10 yd radius beneath it, reducing healing received by -60% for enemies inside for 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-87-1-8"
+     ]
+    },
+    {
+     "id": "23-87-3-9",
+     "name": "Study of Death",
+     "x": 3,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_book_06",
+     "spellId": 704721,
+     "description": "When you cast Unholy Frenzy you now summon 3 Greater Zombies to aid you in combat for 14 seconds.Damage dealt by your Undead minions now reduces the cooldown of Unholy Frenzy by -0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-87-1-8",
+      "23-87-4-8"
+     ]
+    },
+    {
+     "id": "23-87-5-9",
+     "name": "Raise: Banshee",
+     "x": 5,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ui_darkshore_warfront_horde_banshee",
+     "spellId": 504861,
+     "description": "Raise a Banshee to aid you in combat, occupying 2 Life Force.It will channel on your target, dealing damage and draining their mana over time.Command: Drains 20% of your target's mana (up to a maximum of 40% of their own maximum mana) and deals Frost damage equal to the mana drained.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-87-4-8",
+      "23-87-7-8"
+     ]
+    },
+    {
+     "id": "23-87-7-9",
+     "name": "Animate: Frost Wyrm",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_dragoncoldbreath_border",
+     "spellId": 805428,
+     "description": "Animate a Frost Wyrm that flies behind the Necromancer that blasts nearby enemies every 2 sec for 30 seconds, dealing 1500 + 14.88% frost SP + 14.88% Intellect Frost damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-87-7-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 59,
+   "name": "Death",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "23-59-4-0",
+     "name": "Flesh to Worms",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "inv_pet_batpetmaldraxxus",
+     "spellId": 500338,
+     "description": "Disease an enemy, dealing 15 + 11.06% shadow SP Plague damage and generating Runic Power every 3 sec for 18 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "23-59-10-0",
+     "name": "Crypt Plague",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_shadow_plaguecloud",
+     "spellId": 92121,
+     "description": "Level 10 PassiveDamage dealt by Crypt Swarm now applies 1 stack of Crypt Plague and Lichfrost applies 2 stacks.Crypt Plague (Damage)Deals 2 + 6% SP Plague Damage every 2 sec for 10 seconds, stacking 10 times.Additional applications do not refresh duration.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 1
+    },
+    {
+     "id": "23-59-2-1",
+     "name": "Cycle of Death",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_holy_turnundead",
+     "spellId": 560727,
+     "description": "Increases your spell haste by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-4-0"
+     ]
+    },
+    {
+     "id": "23-59-6-1",
+     "name": "Master of Death",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_shadow_deathanddecay",
+     "spellId": 806328,
+     "description": "Casting Command spells on an enemy now applies Crypt Plague.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-4-0"
+     ]
+    },
+    {
+     "id": "23-59-1-2",
+     "name": "Rotting Flesh",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_shadow_raisedead",
+     "spellId": 301304,
+     "description": "Increases the damage of Flesh to Worms by 25% and allows its periodic damage to scale with your spell haste.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-2-1"
+     ]
+    },
+    {
+     "id": "23-59-4-2",
+     "name": "Swarmer",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_shadow_darksummoning",
+     "spellId": 704528,
+     "description": "Increases the Runic Power generated by Crypt Swarm by 2 per tick.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-2-1",
+      "23-59-6-1"
+     ]
+    },
+    {
+     "id": "23-59-7-2",
+     "name": "Damnation",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "nhi_deathcoil_border",
+     "spellId": 806149,
+     "description": "Increases your Shadow damage by 5%, doubled against enemies below 35% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-6-1"
+     ]
+    },
+    {
+     "id": "23-59-10-2",
+     "name": "Plague Science",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "inv_pet_diseasedsquirrel",
+     "spellId": 704163,
+     "description": "Level 20 PassiveYour diseases and Crypt Swarm now deal 100% increased damage to enemies below 20% health.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "23-59-10-0"
+     ]
+    },
+    {
+     "id": "23-59-2-3",
+     "name": "Plague of Undeath",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "epic_rpg_icon_pack_death_icon_0000s_0000_spirits_border",
+     "spellId": 801945,
+     "description": "Disease an enemy dealing 32 + 25% shadow SP Plague damage every 3 sec and reduces the targets Holy healing received by -40% for 20 seconds.If Plague of Undeath is dispelled, the enemy takes 456 + 125% shadow SP Plague damage and is stunned for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-59-1-2"
+     ]
+    },
+    {
+     "id": "23-59-4-3",
+     "name": "Creeping Crypt",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "ability_deathwing_sealarmorbreachgreen",
+     "spellId": 300960,
+     "description": "Increases the critical strike chance of Flesh to Worms by 25% against enemies below 35% maximum health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-4-2"
+     ]
+    },
+    {
+     "id": "23-59-6-3",
+     "name": "Dark Harvester",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_shadow_auraofdarkness",
+     "spellId": 807960,
+     "description": "Increases your critical strike and hit chance by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-7-2"
+     ]
+    },
+    {
+     "id": "23-59-2-4",
+     "name": "Expunge",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "_d3acidcloud",
+     "spellId": 705754,
+     "description": "Casting Command spells on an enemy now applies Expunge if they are Diseased.Expunge (Talent)Increases the target's damage taken from your Necromancer diseases by 10% for 10 seconds, stacking 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-2-3"
+     ]
+    },
+    {
+     "id": "23-59-4-4",
+     "name": "Virulency",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "ability_maldraxxus_shaman",
+     "spellId": 801938,
+     "description": "Reinvigorate your diseases, refreshing all diseases on the target enemy and copying them, preserving their power and duration.You may use this abilty again within 10 sec to Infest another target, applying the copied diseases.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-59-4-3",
+      "23-59-6-3",
+      "23-59-2-3"
+     ]
+    },
+    {
+     "id": "23-59-6-4a",
+     "name": "Foul Contagion",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_deathknight_explode_ghoul",
+     "spellId": 300965,
+     "description": "Applying Crypt Plague now extends the duration of Flesh to Worms on the target by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-6-3"
+     ]
+    },
+    {
+     "id": "23-59-6-4b",
+     "name": "Necrosis",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "artifactability_unholydeathknight_flagellation",
+     "spellId": 802990,
+     "description": "Increases the duration of your diseases by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-59-10-4",
+     "name": "Rotting Flesh",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "ability_deathknight_decomposingaura",
+     "spellId": 574138,
+     "description": "Level 30 PassiveApplying Crypt Plague to an enemy now additionally adds Rotting Flesh to your Undead minions, increasing their damage dealt by 2% per stack for 5 sec.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "23-59-10-2"
+     ]
+    },
+    {
+     "id": "23-59-0-5",
+     "name": "Touch of Death",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "5_druideskill47_border",
+     "spellId": 707113,
+     "description": "Allows Expunge to stack an additional time and increases the range of your Death spells by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-2-4"
+     ]
+    },
+    {
+     "id": "23-59-2-5",
+     "name": "Crypt Explosion",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "ability_necrolord_fleshcraft",
+     "spellId": 500572,
+     "description": "Casting Command spells on an enemy now applies Crypt Plague to 3 enemies near the primary target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-2-4"
+     ]
+    },
+    {
+     "id": "23-59-3-5",
+     "name": "Creeping Plagues",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_necro_necroticsmash",
+     "spellId": 572130,
+     "description": "You may now Infest an additional target after using Virulency.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-4-4"
+     ]
+    },
+    {
+     "id": "23-59-5-5",
+     "name": "Pandemic",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_nature_sicklypolymorph",
+     "spellId": 560798,
+     "description": "Damage dealt by your Undead minions now reduces the cooldown of Virulency by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-4-4"
+     ]
+    },
+    {
+     "id": "23-59-6-5",
+     "name": "Festering Decay",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "_deathcoilv2_cyan",
+     "spellId": 806324,
+     "description": "Reduces the cost of Command spells by -15% and causes them to increase the target's spell damage taken by 10% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-6-4a",
+      "23-59-6-4b"
+     ]
+    },
+    {
+     "id": "23-59-8-5",
+     "name": "Unholy Runes",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_deathknight_empowerruneblade",
+     "spellId": 561353,
+     "description": "Increases the damage of Crypt Swarm by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-6-4a",
+      "23-59-6-4b"
+     ]
+    },
+    {
+     "id": "23-59-1-6",
+     "name": "Expediting Death",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "inv_fishing_bait_spineworm",
+     "spellId": 300236,
+     "description": "Each stack of Expunge now increases the target's damage taken from your Plague of Undeath by an additional 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-0-5",
+      "23-59-2-5"
+     ]
+    },
+    {
+     "id": "23-59-4-6",
+     "name": "Mutation",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "achievement_dungeon_plaguefall_stradamamargrave",
+     "spellId": 500342,
+     "description": "For the next 15 seconds your diseases mutate causing them to act with accelerated lethality, allowing your freshly applied diseases to tick -50% faster.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-59-3-5",
+      "23-59-5-5"
+     ]
+    },
+    {
+     "id": "23-59-7-6",
+     "name": "Plague Revenant",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "inv_helm_cloth_raidwarlockmythic_s_01",
+     "spellId": 806321,
+     "description": "Critical strikes now apply a stack of Crypt Plague.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-6-5",
+      "23-59-8-5"
+     ]
+    },
+    {
+     "id": "23-59-10-6",
+     "name": "Withering",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_shadow_deathcoil",
+     "spellId": 301250,
+     "description": "Level 40 PassiveAllows Crypt Plague to stack 5 additional times.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "23-59-10-4"
+     ]
+    },
+    {
+     "id": "23-59-0-7",
+     "name": "Parasite Plague",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "ability_creature_disease_01",
+     "spellId": 560730,
+     "description": "Damage dealt now has a 5% chance to apply Parasites for 8 seconds.ParasitesYour Undead minions feast upon the parasites on hit, leeching 15% of their damage dealt as Plague Damage to the target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-1-6"
+     ]
+    },
+    {
+     "id": "23-59-2-7",
+     "name": "Fleshcrafting",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "nhi_unholybird_border",
+     "spellId": 300941,
+     "description": "Increases the duration Unholy Frenzy by 5 sec and casting Command spells now reduces its cooldown by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-1-6"
+     ]
+    },
+    {
+     "id": "23-59-3-7",
+     "name": "Apothecary's Cauldron",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_nature_nullifydisease",
+     "spellId": 560537,
+     "description": "Increases the spell haste of all party and raid members by 3%. Does not stack with similar effects.In addition, increases your Magic damage dealt by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-4-6",
+      "23-59-2-5"
+     ]
+    },
+    {
+     "id": "23-59-5-7",
+     "name": "Death Commander",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "epic_rpg_icon_pack_death_icon_0005s_0000_grave_border",
+     "spellId": 300235,
+     "description": "Periodic damage dealt now has a 10% chance to increase your and your Undead minion's haste by 20% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-4-6",
+      "23-59-6-5"
+     ]
+    },
+    {
+     "id": "23-59-6-7",
+     "name": "Fiend",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_deathknight_thrash_ghoul",
+     "spellId": 707627,
+     "description": "Increases the damage and critical damage of Lichfrost by 20% against diseased targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-7-6"
+     ]
+    },
+    {
+     "id": "23-59-8-7",
+     "name": "Putricide's Formula",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "achievement_boss_profputricide",
+     "spellId": 707001,
+     "description": "Damage dealt by Undead minions has a 10% chance to blast up to 3 nearby enemies for 71 + 30% SP Plague damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-7-6"
+     ]
+    },
+    {
+     "id": "23-59-2-8",
+     "name": "Lichplague",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "5_warlock09_border",
+     "spellId": 802132,
+     "description": "Disease an enemy, dealing 151 + 22% SP Plague damage every 3 sec for 18 seconds. Damage increased by 4% for each Necromancer disease on the enemy.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-59-0-7",
+      "23-59-2-7"
+     ]
+    },
+    {
+     "id": "23-59-4-8",
+     "name": "Rot Fetishist",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_rotting_breath",
+     "spellId": 805675,
+     "description": "Your Virulency now applies Rot Fetishist for 10 seconds, causing you to replicate 20% of your periodic damage dealt as direct damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-5-7",
+      "23-59-3-7"
+     ]
+    },
+    {
+     "id": "23-59-6-8",
+     "name": "Wormfood",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "custom_worm_b_01_border",
+     "spellId": 560800,
+     "description": "Upon fully channeling Crypt Swarm, you summon a Rotling that will run towards the enemy and explode after 5 sec for 320 + 33.5% SP Plague damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-6-7",
+      "23-59-8-7"
+     ]
+    },
+    {
+     "id": "23-59-10-8",
+     "name": "Unholy Erosion",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "spell_shadow_cripple",
+     "spellId": 807700,
+     "description": "Level 50 PassiveIncreases your spell penetration by 50, scaling with your level.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "23-59-10-6"
+     ]
+    },
+    {
+     "id": "23-59-1-9",
+     "name": "Waking Crypts",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "inv_maldraxxus",
+     "spellId": 570136,
+     "description": "Increases the damage of Crypt Plague by 50% and Crypt Swarm now deals 4% more damage for each Necromancer disease you have on the target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-2-8"
+     ]
+    },
+    {
+     "id": "23-59-4-9",
+     "name": "Raise: Gargoyle",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "ability_deathknight_summongargoyle",
+     "spellId": 500329,
+     "description": "Raise a fallen Gargoyle to aid you in combat, occupying 3 Life Force. Command: Shoots necrotic bile at an enemy, dealing 73 + 65% SP Plague damage, dealing 50% increased damage for each of your diseases on the target.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-59-4-8",
+      "23-59-2-8",
+      "23-59-6-8"
+     ]
+    },
+    {
+     "id": "23-59-7-9",
+     "name": "Muck Summoner",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 59,
+     "icon": "inv_fishing_lure_worm",
+     "spellId": 806086,
+     "description": "Periodic damage dealt now has an 5% chance to summon 2 to 3 Rotlings that will run towards the enemy and explode after 5 sec for 320 + 33.5% SP Plague damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-59-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 60,
+   "name": "Rime",
+   "nodeCount": 41,
+   "nodes": [
+    {
+     "id": "23-60-4-0",
+     "name": "Ice Barrage",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "uico_frost_spell_09_border",
+     "spellId": 801760,
+     "description": "Unleash a relentless volley of glacial shards, dealing 19 + 35% SP Frost damage every 0 sec for 1 seconds.At the end of the duration, you entomb your target in ice, freezing them for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "23-60-10-0",
+     "name": "Tundra Warriors",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "wc3lichoriginal",
+     "spellId": 92122,
+     "description": "Level 10 PassiveCasting any spell now has a 25% chance to grant you Tundra Warriors.Tundra Warriors (Proc)For 10 seconds, the critical strike chance of your Undead minions is increased by 4%, stacking 3 times.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 1
+    },
+    {
+     "id": "23-60-4-1",
+     "name": "Refreshing Chill",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "5_mageskill32_border",
+     "spellId": 300940,
+     "description": "Casting Command spells now has a 20% chance to reset the cooldown of Ice Barrage and make your cast next within 15 seconds free of cost.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-4-0"
+     ]
+    },
+    {
+     "id": "23-60-2-2a",
+     "name": "Piercing Icicles",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "custom_t_icespear_border",
+     "spellId": 524687,
+     "description": "Increases the damage of Ice Barrage by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-4-1"
+     ]
+    },
+    {
+     "id": "23-60-2-2b",
+     "name": "Frigid Winds",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "custom_t_nhance_rpg_icons_icewave_border",
+     "spellId": 504357,
+     "description": "Increases the chance to trigger Refreshing Chill by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-60-6-2",
+     "name": "Glacial Impact",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "skill_icon_skill23_border",
+     "spellId": 704355,
+     "description": "Requires Frozen TargetCall down icy boulders onto a Frozen enemy, dealing 84 + 100% frost SP Frost damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-60-4-1"
+     ]
+    },
+    {
+     "id": "23-60-10-2",
+     "name": "Ice Mastery",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "_auracloak_ice",
+     "spellId": 560045,
+     "description": "Level 20 PassiveIncreases your spell power by 30% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "23-60-10-0"
+     ]
+    },
+    {
+     "id": "23-60-1-3",
+     "name": "Bone Legion",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "novart_physical_ability_(38)_border",
+     "spellId": 707006,
+     "description": "Increases the damage of Lichfrost by 10% and its Runic Power generated by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-2-2a",
+      "23-60-2-2b"
+     ]
+    },
+    {
+     "id": "23-60-2-3",
+     "name": "Curse of the Lich",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "_castercloak_ice",
+     "spellId": 300240,
+     "description": "Increases the range of your Rime spells by 6 yds and increases the Frost critical strike chance of you and your summons by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-2-2a",
+      "23-60-2-2b"
+     ]
+    },
+    {
+     "id": "23-60-4-3",
+     "name": "Runic Reservoir",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "inv_misc_frostemblem_01",
+     "spellId": 704670,
+     "description": "Increases your Frost damage by 5% and your maximum Runic Power by 15.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-6-2",
+      "23-60-2-2a",
+      "23-60-2-2b"
+     ]
+    },
+    {
+     "id": "23-60-6-3",
+     "name": "Hoarfrost Hands",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "call_of_the_sepulcher_64x64",
+     "spellId": 803291,
+     "description": "Increases the duration of Lichfrost's movement speed slow by 4 sec and your hit chance by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-6-2"
+     ]
+    },
+    {
+     "id": "23-60-7-3a",
+     "name": "Frigid Death",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "spell_ice_lament",
+     "spellId": 560851,
+     "description": "Increases the damage of Glacial Impact by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-6-2"
+     ]
+    },
+    {
+     "id": "23-60-7-3b",
+     "name": "Freeze Dry",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "ability_mage_coldasice",
+     "spellId": 704680,
+     "description": "Your Glacial Impact now generates 20 Runic Power.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-60-0-4",
+     "name": "Heartchill",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "ability_deathknight_heartstopaura",
+     "spellId": 801739,
+     "description": "Chill an enemy's heart, interrupting their current spell cast.Successfully interrupting a spell also reduces their movement speed and haste by -80% for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-60-1-3"
+     ]
+    },
+    {
+     "id": "23-60-2-4a",
+     "name": "Necrotic Chains",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "achievement_boss_lichking",
+     "spellId": 801733,
+     "description": "Every 3rd Command spell now freezes the target in place for 5 seconds. Damage dealt may end this effect.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-1-3",
+      "23-60-2-3"
+     ]
+    },
+    {
+     "id": "23-60-2-4b",
+     "name": "Ner'zhul's Blessing",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "ability_mage_freeze",
+     "spellId": 803797,
+     "description": "Every 3rd Command spell now makes your next Lichfrost within 10 seconds guaranteed to critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-60-4-4",
+     "name": "Giant Bones",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "achievement_dungeon_ulduarraid_icegiant_01",
+     "spellId": 805427,
+     "description": "Casting Unholy Frenzy now summons a Rotting Frost Giant to aid you in combat for the duration.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-6-3",
+      "23-60-4-3",
+      "23-60-2-3"
+     ]
+    },
+    {
+     "id": "23-60-6-4",
+     "name": "Glacier Lord",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "uico_frost_spell_03_border",
+     "spellId": 560852,
+     "description": "Your Glacial Impact is now guaranteed to critically strike against Frozen targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-7-3a",
+      "23-60-6-3",
+      "23-60-7-3b"
+     ]
+    },
+    {
+     "id": "23-60-8-4",
+     "name": "Icecrown",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "inv_helm_eternalwinter_d_01",
+     "spellId": 531135,
+     "description": "Your Frost damage dealt now increases your allies' critical strike chance against the enemy by 1% for 10 seconds, stacking 3 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-7-3a",
+      "23-60-7-3b"
+     ]
+    },
+    {
+     "id": "23-60-10-4",
+     "name": "Frozen Power",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "custom_t_iceskull_border",
+     "spellId": 301303,
+     "description": "Level 30 PassiveIncreases your critical damage with Frost spells by 50%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "23-60-10-2"
+     ]
+    },
+    {
+     "id": "23-60-1-5",
+     "name": "Raise: Skeletal Mage",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "skeletalicemage2",
+     "spellId": 500331,
+     "description": "Raise a Skeletal Mage to aid you in combat, occupying 2 Life Force.Command: Unleashes ice at your target and enemies within 6 yds, dealing 51 + 80% frost SP Frost damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-60-2-4a",
+      "23-60-0-4",
+      "23-60-2-4b"
+     ]
+    },
+    {
+     "id": "23-60-3-5",
+     "name": "Dominion of Frost",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "spell_frost_freezingbreath",
+     "spellId": 537208,
+     "description": "Critical strikes dealt by your Undead minions now reduce the cooldown of Unholy Frenzy by -3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-4-4"
+     ]
+    },
+    {
+     "id": "23-60-5-5",
+     "name": "Frigidness",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "achievement_boss_forgemaster",
+     "spellId": 704669,
+     "description": "Increases your critical damage by 50% against Frozen targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-4-4"
+     ]
+    },
+    {
+     "id": "23-60-7-5",
+     "name": "Frigid Power",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "spell_frost_frostbolt",
+     "spellId": 560620,
+     "description": "Increases the spell power scaling of Lichfrost and Ice Barrage by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-6-4",
+      "23-60-8-4"
+     ]
+    },
+    {
+     "id": "23-60-0-6",
+     "name": "Command: Bonefreeze",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "spell_shadow_darkritual",
+     "spellId": 504489,
+     "description": "Command your Skeletal Mages to freeze enemies at target location for 40 seconds (8 sec vs players). Damage taken may end the effect.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-60-1-5"
+     ]
+    },
+    {
+     "id": "23-60-2-6a",
+     "name": "Blood and Ice",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "inv_misc_herb_frostweedbranch",
+     "spellId": 561164,
+     "description": "Each Skeletal Warrior or Skeletal Rogue now increases the damage of your Ice Barrage by 8%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-3-5",
+      "23-60-1-5"
+     ]
+    },
+    {
+     "id": "23-60-2-6b",
+     "name": "Death and Ice",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "ability_mage_frostjaw",
+     "spellId": 560012,
+     "description": "While a Skeletal Mage is active the critical strike chance of your Undead minions is now increased by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-60-4-6",
+     "name": "Frozen Bodies",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "spell_holy_senseundead",
+     "spellId": 707562,
+     "description": "When you kill an enemy that yields experience or honor or critically strike with Frost damage you now gain a stack of Frozen Bodies.Frozen BodiesIncreases the damage of your next Glacial Impact by 3% for 20 seconds, stacking 10 times.Reaching 10 stacks causes your next Glacial Impact within until cancelled to critically strike for 50% increased damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-5-5",
+      "23-60-3-5"
+     ]
+    },
+    {
+     "id": "23-60-6-6",
+     "name": "Permafrost",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "_manaburn_frost",
+     "spellId": 704681,
+     "description": "Gives your spells a 15% chance to grant you the Permafrost, which treats your next 2 spells cast as if the target were Frozen. Lasts 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-5-5",
+      "23-60-7-5"
+     ]
+    },
+    {
+     "id": "23-60-8-6",
+     "name": "Deathly Chill",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "nhi_frost_beam_border",
+     "spellId": 805424,
+     "description": "Reduces the channel and cast time of Ice Barrage by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-7-5"
+     ]
+    },
+    {
+     "id": "23-60-10-6",
+     "name": "Lich Form",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "achievement_boss_amnennar_the_coldbringer",
+     "spellId": 500981,
+     "description": "Transform into a Lich, becoming Undead increasing your Frost damage dealt by 10%.While active you generate 3 Runic Power every 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 40,
+     "dependencies": [
+      "23-60-10-4"
+     ]
+    },
+    {
+     "id": "23-60-1-7",
+     "name": "Crown's Call",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "expansionicon_wrathofthelichking",
+     "spellId": 805429,
+     "description": "Increases your Intellect by 5% and the Frost damage dealt by your Undead minions by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-2-6a",
+      "23-60-0-6",
+      "23-60-2-6b"
+     ]
+    },
+    {
+     "id": "23-60-4-7",
+     "name": "Chilling Presence",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "spell_deathknight_iceboundfortitude",
+     "spellId": 300958,
+     "description": "Increases critical strike chance of all party and raid members by 3%. Does not stack with similar effects.In addition, increases the critical strike chance of Ice Barrage by 20% against Frozen targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-2-6a",
+      "23-60-4-6",
+      "23-60-6-6",
+      "23-60-2-6b"
+     ]
+    },
+    {
+     "id": "23-60-7-7",
+     "name": "Arch Lich",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "inv_misc_food_109_honeylichen",
+     "spellId": 707588,
+     "description": "Critical strikes with Frost spells now refund 3% of your maximum mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-6-6",
+      "23-60-8-6"
+     ]
+    },
+    {
+     "id": "23-60-2-8",
+     "name": "Raising the Kirin Tor",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "spell_nature_brilliance",
+     "spellId": 805649,
+     "description": "Your Command spells now have a 40% chance to refund a portion of their Runic Power cost.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-1-7",
+      "23-60-4-7"
+     ]
+    },
+    {
+     "id": "23-60-4-8",
+     "name": "Harrowing Winds",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "custom_14_big_frost_arrow_border",
+     "spellId": 705745,
+     "description": "Damage dealt by Glacial Impact now deals an additional 50% of the damage dealt as Frost damage to enemies within 6 yds of the primary target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-4-7"
+     ]
+    },
+    {
+     "id": "23-60-6-8",
+     "name": "Soulfreeze",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "ability_mage_rayoffrost",
+     "spellId": 572023,
+     "description": "All Frost damage you deal to Frozen targets now has a 25% chance to unleash Soulfreeze on them.SoulfreezeLaunch a chain of frost at an enemy, dealing 354 + 35% frost SP Frost Damage every 1 sec for 3 seconds.Each tick generates 3 to 8 Runic Power.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-7-7",
+      "23-60-4-7"
+     ]
+    },
+    {
+     "id": "23-60-10-8",
+     "name": "Champion of Kel'thuzad",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "uico_frost_spell_06_border",
+     "spellId": 704676,
+     "description": "Level 50 PassiveWhile your Lich Form is active, your Champion spells will now cooldown faster.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "23-60-10-6"
+     ]
+    },
+    {
+     "id": "23-60-2-9",
+     "name": "Champion of Kel'Thuzad",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "spell_deathknight_mindfreeze",
+     "spellId": 807937,
+     "description": "Your Skeletal Mages now only cost 1 Life Force.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-2-8"
+     ]
+    },
+    {
+     "id": "23-60-4-9",
+     "name": "Army of the North",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "nhi_frost_runedweapon_border",
+     "spellId": 561138,
+     "description": "Chant a powerful ritual that brings forth 1 Rotting Frost Giant near you to aid you in combat for 30 seconds and generate 30 Runic Power, repeating every 3 sec for 15 seconds.For the duration, your Undead minions are guaranteed to critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-60-2-8",
+      "23-60-6-8",
+      "23-60-4-8"
+     ]
+    },
+    {
+     "id": "23-60-6-9",
+     "name": "Master Lich",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 60,
+     "icon": "epic_rpg_icon_pack_frost_0000s_0000_figure_border",
+     "spellId": 560848,
+     "description": "Soulfreeze now increases the enemy's Frost damage taken by you by 5% per tick for 8 sec, stacking 3 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-60-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 61,
+   "name": "Animation",
+   "nodeCount": 42,
+   "nodes": [
+    {
+     "id": "23-61-4-0",
+     "name": "Animate: Skeletal Archer",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "skeletalarcher",
+     "spellId": 805040,
+     "description": "Animate 3 Skeletal Archers to aid you in combat for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "23-61-10-0",
+     "name": "Summoning Adept",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "_undead_03",
+     "spellId": 92123,
+     "description": "Level 10 PassiveIncreases your maximum Life Force by 1.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-61-2-1",
+     "name": "Bone King",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "inv_custom_bonetattoo_green",
+     "spellId": 707175,
+     "description": "Casting Command spells now has a 15% chance to make your next Lichfrost or Blight free of cost and instant cast.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-4-0"
+     ]
+    },
+    {
+     "id": "23-61-6-1",
+     "name": "Graverobber",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "ability_deathknight_deathsiphon",
+     "spellId": 503757,
+     "description": "Reduces the mana cost and cast time of your Raise and Animate spells by -30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-4-0"
+     ]
+    },
+    {
+     "id": "23-61-2-2",
+     "name": "Summoning Prodigy",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "spell_shadow_requiem",
+     "spellId": 704682,
+     "description": "Increases the duration of Skeletal Archers by 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-2-1"
+     ]
+    },
+    {
+     "id": "23-61-4-2",
+     "name": "Sepulchral Might",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "_d3markedfordeath",
+     "spellId": 706472,
+     "description": "Increases your Stamina by 5%.Increases your spell damage by an amount equal to 15% of the total of your Raised minion's Stamina.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-2-1",
+      "23-61-6-1"
+     ]
+    },
+    {
+     "id": "23-61-6-2",
+     "name": "Forbidden Technique",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "spell_deathknight_empowerruneblade",
+     "spellId": 561215,
+     "description": "Casting Command spells now reduces the cooldown of your Animates by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-6-1"
+     ]
+    },
+    {
+     "id": "23-61-10-2",
+     "name": "Deadly Bond",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "inv_qirajidol_death",
+     "spellId": 704724,
+     "description": "Level 20 PassiveCasting Command spells now has a 30% chance to cause their next use within 6 seconds to be free of cost.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "23-61-10-0"
+     ]
+    },
+    {
+     "id": "23-61-1-3",
+     "name": "Scourge Disciple",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "nhi_rottenflesh_border",
+     "spellId": 531126,
+     "description": "Each active Skeletal Archer now increases your haste by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-2-2"
+     ]
+    },
+    {
+     "id": "23-61-4-3",
+     "name": "Raise: Ghoul",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "ghoul",
+     "spellId": 500971,
+     "description": "Raise a Ghoul to aid you in combat occupying 1 Life Force. Its auto attacks restore 21 + 3.53% Intellect + 3.53% SP health to you.Command: Expels leeching plague that strikes up to 5 nearby enemies, dealing 30 + 15.68% Intellect + 15.68% SP Plague damage, and healing you for 35 + 22% SP + 50% Intellect for each Ghoul.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-61-4-2",
+      "23-61-6-2",
+      "23-61-2-2"
+     ]
+    },
+    {
+     "id": "23-61-7-3",
+     "name": "Runic Animation",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "achievement_dungeon_thenecroticwake_stitchflesh",
+     "spellId": 707445,
+     "description": "Reduces the cooldown of Animate: Skeletal Archers and Command: Hook by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-6-2"
+     ]
+    },
+    {
+     "id": "23-61-0-4",
+     "name": "Summoner",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "inv_misc_necklacea7",
+     "spellId": 706953,
+     "description": "Reduces the mana cost and cooldown of Sacrifice Undead by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-1-3"
+     ]
+    },
+    {
+     "id": "23-61-2-4a",
+     "name": "Animate: Tomb King",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "kingoftombs1",
+     "spellId": 805044,
+     "description": "Animate a Tomb King to aid you in combat for 15 seconds.While active, all of your Undead minion's attacks deal an additional 10% of the damage dealt as Plague damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-61-1-3"
+     ]
+    },
+    {
+     "id": "23-61-2-4b",
+     "name": "Animate: Bone Wraith",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "achievement_boss_lordmarrowgar",
+     "spellId": 805032,
+     "description": "Animate a Bone Wraith to aid you in combat for 15 seconds.While active, it will periodically unleash a Bonestorm, striking up to 5 nearby enemies for 30 + 40% SP Physical damage every 1 sec for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "23-61-4-4",
+     "name": "Ghoul Mastery",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "ability_demonhunter_reversemagic",
+     "spellId": 503740,
+     "description": "Damage dealt by your Ghouls now has a 15% chance to transform them into a Frenzied Ghoul.Frenzied Ghoul (Proc)Transformed into a Frenzied Ghoul, increasing haste by 40% for 10 seconds. Immune to movement slowing effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-4-3"
+     ]
+    },
+    {
+     "id": "23-61-6-4",
+     "name": "Skeletal Artillery",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "inv_misc_trinket6oog_cyclopianpig1",
+     "spellId": 302518,
+     "description": "Your Animate: Skeletal Archers now summons 1 additional Skeletal Archer.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-7-3"
+     ]
+    },
+    {
+     "id": "23-61-8-4",
+     "name": "Putrifier",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "spell_shadow_deathcoil",
+     "spellId": 302923,
+     "description": "Increases the durations of Ghoulify and Mass Grave by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-7-3"
+     ]
+    },
+    {
+     "id": "23-61-10-4",
+     "name": "Summoning Expert",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "_beasttaming_undead",
+     "spellId": 807494,
+     "description": "Level 30 PassiveIncreases your maximum Life Force by 1 and your Undead minion's Stamina by 10%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "23-61-10-2"
+     ]
+    },
+    {
+     "id": "23-61-1-5",
+     "name": "Unrelenting Army",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "spell_deathknight_armyofthedead",
+     "spellId": 705747,
+     "description": "Damage dealt by Harvest Plague now has a 20% chance to summon a Lesser Zombie to aid you in combat for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-2-4a",
+      "23-61-0-4",
+      "23-61-2-4b"
+     ]
+    },
+    {
+     "id": "23-61-4-5",
+     "name": "Animate: Plaguefather",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "inv_helm_leather_maldraxxus_d_01",
+     "spellId": 805048,
+     "description": "Animate a Plaguefather to aid you in combat for 15 seconds. Damage dealt by this minion will emit Zombie Plague, dealing 79 + 10% SP Plague damage to nearby enemies, and reducing their attack power by 223.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-61-4-4",
+      "23-61-6-4",
+      "23-61-2-4a",
+      "23-61-2-4b"
+     ]
+    },
+    {
+     "id": "23-61-7-5",
+     "name": "March of the Dead",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "spell_shadow_deadofnight",
+     "spellId": 707007,
+     "description": "Beckon the restless dead to rise and march forward.When they reach an enemy they explode, dealing 700 + 75% SP Plague damage to nearby enemies and slowing their movement speed by -70% for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-61-8-4",
+      "23-61-6-4"
+     ]
+    },
+    {
+     "id": "23-61-1-6a",
+     "name": "Mindless Fury",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "ability_fiegndead",
+     "spellId": 805674,
+     "description": "Casting Animate or Command spells now increases your haste by 1% for 10 seconds, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-1-5"
+     ]
+    },
+    {
+     "id": "23-61-1-6b",
+     "name": "Depravity",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "inv_mace_1h_warfrontsforsaken_d_01",
+     "spellId": 638403,
+     "description": "Increases the melee haste of your Undead minions by 5% and gives their critical melee auto attacks an 50% chance to trigger Bone Club, dealing 40% of the damage dealt as Shadow Damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-61-3-6a",
+     "name": "Crypt Keeper",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "_undead_02",
+     "spellId": 560596,
+     "description": "Your Crypt Swarm now bounces to 2 additional nearby enemies, at 30% reduced value per enemy struck.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-4-5"
+     ]
+    },
+    {
+     "id": "23-61-3-6b",
+     "name": "Unrelenting",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "spell_deathknight_subversion",
+     "spellId": 704718,
+     "description": "Reduces the channel time of your Crypt Swarm by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-61-5-6a",
+     "name": "Unstoppable Frenzy",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "custom_t_nhance_rpg_icons_unholystone_border",
+     "spellId": 573426,
+     "description": "Reduces the cooldown of your Unholy Frenzy by -60 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-4-5"
+     ]
+    },
+    {
+     "id": "23-61-5-6b",
+     "name": "Army of the Dead",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "_d3graspofthedead",
+     "spellId": 525600,
+     "description": "While only 1 Abomination is active, the critical strike chance of your Ghouls is increased by 10% and haste by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-61-7-6",
+     "name": "Lich's Prodigy",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "inv_misc_herb_ancientlichen",
+     "spellId": 302519,
+     "description": "Your Glacial Tap now generates an additional 20 Runic Power, but its cost is increased by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-7-5"
+     ]
+    },
+    {
+     "id": "23-61-10-6",
+     "name": "Diabolical",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "spell_necro_inevitableend",
+     "spellId": 704723,
+     "description": "Level 40 PassiveCasting spells now grants you 1 stack of Diabolical, stacking up to 15 times, for 20 seconds.Damage dealt by your Crypt Swarm will consume a stack to deal 10% increased damage per stack.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "23-61-10-4"
+     ]
+    },
+    {
+     "id": "23-61-0-7",
+     "name": "Anti-Magic Shell",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "spell_shadow_antimagicshell",
+     "spellId": 504866,
+     "description": "When you summon a Raised minion, it now raises with a shield absorbing Magic damage equal to 40% of their maximum health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-1-6a",
+      "23-61-1-6b"
+     ]
+    },
+    {
+     "id": "23-61-2-7",
+     "name": "Summoning Ritual",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "nhi_deathgolem_border",
+     "spellId": 805038,
+     "description": "Summon a ritual circle at your location for 1 minute. While active, you may cast Ritual Return to return to it.Ritual ReturnTeleport back to the position of your Scourge Transporter and remove all movement slowing effects from you.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-61-1-6a",
+      "23-61-1-6b"
+     ]
+    },
+    {
+     "id": "23-61-4-7",
+     "name": "Corpse Wagon",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "spell_shadow_corpseexplode",
+     "spellId": 503738,
+     "description": "Increases all damage dealt by party and raid members by 3%. Does not stack with similar effects.In addition, increases the damage of Corpse Explosion by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-3-6a",
+      "23-61-5-6a",
+      "23-61-3-6b",
+      "23-61-5-6b"
+     ]
+    },
+    {
+     "id": "23-61-6-7",
+     "name": "Plague Protection",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "spell_deathknight_classicon",
+     "spellId": 570046,
+     "description": "Increases the effectiveness of your Wards by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-7-6"
+     ]
+    },
+    {
+     "id": "23-61-8-7a",
+     "name": "Fetid Mark",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "inv_pet_inquisitoreye",
+     "spellId": 706948,
+     "description": "Dealing Shadow damage now increases the damage the target takes from your Skeletal Warriors by 1% for 10 seconds, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-7-6"
+     ]
+    },
+    {
+     "id": "23-61-8-7b",
+     "name": "Chomp",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "nhi_necrodrain_border",
+     "spellId": 707283,
+     "description": "Critical strikes dealt by your Abominations and Decaying Collosi now Chomp your target, dealing 150 + 112.5% SP damage to them.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "23-61-2-8",
+     "name": "Flesh Symbiosis",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "reforgedabomination",
+     "spellId": 301207,
+     "description": "Each Abomination or Decaying Colossus active now increases your total Armor and magic resistance by 30% and causes you to periodically regenerate 2% maximum health every 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-2-7",
+      "23-61-0-7"
+     ]
+    },
+    {
+     "id": "23-61-4-8",
+     "name": "Plague Horde",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "inv_belt_pvpwarlock_e_01",
+     "spellId": 802986,
+     "description": "Damage dealt by your Undead minions now has a 10% chance to cast Plague Horde on themselves for 5 seconds and emit Zombie Plague, dealing 79 + 10% SP Plague damage to their target.Plague HordeEnrage for 5 seconds, increasing their critical strike chance by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-2-7",
+      "23-61-6-7",
+      "23-61-4-7"
+     ]
+    },
+    {
+     "id": "23-61-6-8",
+     "name": "Long March",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "spell_deathknight_iceboundfortitude",
+     "spellId": 704717,
+     "description": "Removes the cooldown from March of the Dead, but gives it a 1 sec cast time.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-8-7a",
+      "23-61-6-7",
+      "23-61-8-7b"
+     ]
+    },
+    {
+     "id": "23-61-10-8",
+     "name": "Grave Mastery",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "nhi_deathscythe_border",
+     "spellId": 504439,
+     "description": "Level 50 PassiveReduces the cost of all Animates, Raises, and Command spells by -20%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "23-61-10-6"
+     ]
+    },
+    {
+     "id": "23-61-2-9",
+     "name": "Master Animator",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "epic_rpg_icon_pack_death_icon_0004s_0000_shadow_border",
+     "spellId": 504431,
+     "description": "Increases your maximum Life Force by 1.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-4-8",
+      "23-61-2-8"
+     ]
+    },
+    {
+     "id": "23-61-4-9",
+     "name": "Underking",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "5_sumzombie_border",
+     "spellId": 704701,
+     "description": "Casting Command spells now grants you a stack of Underking for 20 seconds.At 10 stacks, the cooldown of Animate: Tomb King, Animate: Bone Wraith or Animate: Plaguefather is reduced by -15 sec at random.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "23-61-4-8"
+     ]
+    },
+    {
+     "id": "23-61-6-9",
+     "name": "Animate: Bone Construct",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 61,
+     "icon": "bone_construct",
+     "spellId": 531130,
+     "description": "Animate a Bone Construct to aid you in combat for 20 seconds.It moves at a slow speed, but upon reaching an enemy, deals 1560 + 200% SP + 50% AP Shadow damage, piercing all invulnerabilities, resistances, and immunities.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "23-61-4-8",
+      "23-61-6-7"
+     ]
+    }
+   ]
+  }
+ ]
+}

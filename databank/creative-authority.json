@@ -1,0 +1,32 @@
+{
+  "asset_closure": {
+    "complete": true,
+    "requirement": "Every adopted asset must retain provenance, a resolved target, and owner acceptance."
+  },
+  "classless_palette": {
+    "automatic_assignment": false,
+    "unassigned_inputs_allowed": true,
+    "use": "Classless Ascension inputs remain available for deliberate later assignment only."
+  },
+  "dragonflight_translation": {
+    "requirement": "Translate donor DBC identities through Dragonflight DB2 and FileDataID authority."
+  },
+  "fantasy_contract": {
+    "coa": "COA identities, fantasies, and recovered palette evidence constrain adaptation.",
+    "warcraft": "Dragonflight-native presentation and mechanics remain authoritative."
+  },
+  "m2_animation_binding": {
+    "requirement": "Bind animation evidence to the target M2 model before client acceptance."
+  },
+  "owner_acceptance": {
+    "required": true,
+    "status": "pending"
+  },
+  "provenance_statuses": [
+    "recovered",
+    "reconstructed",
+    "stock-derived",
+    "original"
+  ],
+  "schema": "bytecoa-creative-authority/1"
+}

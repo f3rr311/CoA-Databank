@@ -1,0 +1,766 @@
+{
+ "build": {
+  "id": "3b502e6e-e575-4fce-b772-0bb731ab97e3",
+  "title": "Full Tank Domination",
+  "description": "[overview]\nThe build focuses on sustain and mitigation, with plenty of AoE to maintain threat.\nI'm still working on leveling up, I'll refine the build as more testing is done.",
+  "class_id": 30,
+  "spec_id": 81,
+  "author_id": "f47baad0-6e8e-46d9-8d14-9927b0db79a1",
+  "talent_string": "W1siMzAtODctNC0wIiwxXSxbIjMwLTg3LTYtMCIsMV0sWyIzMC04MS00LTAiLDFdLFsiMzAtODEtMTAtMCIsMV0sWyIzMC04MS0xMC0yIiwxXSxbIjMwLTg3LTUtMSIsMV0sWyIzMC04Ny04LTEiLDFdLFsiMzAtODctMy0xIiwxXSxbIjMwLTg3LTQtMiIsMl0sWyIzMC04Ny03LTIiLDFdLFsiMzAtODctNy0zIiwxXSxbIjMwLTg3LTYtNCIsMV0sWyIzMC04Ny03LTUiLDFdLFsiMzAtODctOC02IiwxXSxbIjMwLTg3LTYtNiIsMV0sWyIzMC04Ny02LTciLDFdLFsiMzAtODctNC01IiwyXSxbIjMwLTg3LTgtNCIsMV0sWyIzMC04Ny00LTYiLDFdLFsiMzAtODctNC03IiwxXSxbIjMwLTg3LTQtMyIsMV0sWyIzMC04Ny0yLTQiLDFdLFsiMzAtODctMS01IiwxXSxbIjMwLTg3LTAtNiIsMV0sWyIzMC04Ny0yLTdhIiwxXSxbIjMwLTg3LTYtOCIsMV0sWyIzMC04Ny02LTkiLDFdLFsiMzAtODEtMi0xIiwxXSxbIjMwLTgxLTQtMiIsMV0sWyIzMC04MS00LTMiLDJdLFsiMzAtODEtMS0yIiwxXSxbIjMwLTgxLTEtMyIsMV0sWyIzMC04MS02LTEiLDJdLFsiMzAtODEtMC00IiwxXSxbIjMwLTgxLTUtNCIsMV0sWyIzMC04MS01LTUiLDFdLFsiMzAtODEtMS01IiwxXSxbIjMwLTgxLTEwLTQiLDFdLFsiMzAtODEtMTAtNiIsMV0sWyIzMC04MS00LTYiLDFdLFsiMzAtODEtNi02IiwxXSxbIjMwLTgxLTAtNyIsMV0sWyIzMC04MS00LTciLDFdLFsiMzAtODEtNi03YiIsMV0sWyIzMC04MS0zLTQiLDFdLFsiMzAtODEtMy01IiwxXSxbIjMwLTgxLTctMmEiLDFdLFsiMzAtODEtNy0zIiwxXSxbIjMwLTgxLTgtNGIiLDFdLFsiMzAtODEtNi04IiwxXSxbIjMwLTgxLTYtOSIsMV0sWyIzMC04MS0xMC04IiwxXV0",
+  "tags": [
+   "leveling",
+   "PvE",
+   "Dungeon",
+   "Sustain"
+  ],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-17T17:36:41.747592+00:00",
+  "updated_at": "2026-07-17T17:36:41.747592+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 868,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "f47baad0-6e8e-46d9-8d14-9927b0db79a1",
+   "username": "Zalamandro",
+   "avatar_url": null
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "abdf893c-83d0-4c9e-990f-4630c8d854ac",
+   "title": "Harvest PvP King",
+   "class_id": 30,
+   "spec_id": 79,
+   "author_id": "fe93b8d9-5bb6-4b72-a1bb-29e62638a07a",
+   "tags": [
+    "PvP",
+    "BG"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 3055,
+   "featured": false,
+   "created_at": "2026-07-22T10:25:42.042729+00:00",
+   "updated_at": "2026-07-26T11:46:10.651+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "fe93b8d9-5bb6-4b72-a1bb-29e62638a07a",
+    "username": "NxSqq",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKrz-EmNorutr7-9j0uI0vcrbY282S24-Dy0V7XT3hl8M27sAZE=s96-c"
+   }
+  },
+  {
+   "id": "2c5d077a-6cec-4793-a39a-6b872ea55690",
+   "title": "Reaper PVP BIS",
+   "class_id": 30,
+   "spec_id": 80,
+   "author_id": "e877936a-f28e-45ed-ae43-af06520e0733",
+   "tags": [
+    "pvp"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1239,
+   "featured": false,
+   "created_at": "2026-07-23T06:35:07.072239+00:00",
+   "updated_at": "2026-07-28T02:43:33.674+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "e877936a-f28e-45ed-ae43-af06520e0733",
+    "username": "ataraxiex",
+    "avatar_url": "https://cdn.discordapp.com/avatars/263704149642706946/85e702a8a350831a54d9159438a40ad7.png"
+   }
+  },
+  {
+   "id": "88596de6-f880-4259-81d5-df050640d357",
+   "title": "Reaper Tank Dungs/Raid/Hit/Parry/ST",
+   "class_id": 30,
+   "spec_id": 81,
+   "author_id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+   "tags": [
+    "Tank",
+    "reaper",
+    "sustain",
+    "damage",
+    "aoe",
+    "shield",
+    "kazzak",
+    "raid"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 3,
+   "view_count": 3557,
+   "featured": false,
+   "created_at": "2026-07-18T20:36:27.817689+00:00",
+   "updated_at": "2026-07-21T22:44:52.863+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+    "username": "bvflowers.",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1445260398474432556/5f38aa6b11650a30cf3ddfe52dd91486.png"
+   }
+  }
+ ],
+ "class": "Reaper",
+ "spec": "Domination",
+ "allocations": [
+  [
+   "30-87-4-0",
+   1
+  ],
+  [
+   "30-87-6-0",
+   1
+  ],
+  [
+   "30-81-4-0",
+   1
+  ],
+  [
+   "30-81-10-0",
+   1
+  ],
+  [
+   "30-81-10-2",
+   1
+  ],
+  [
+   "30-87-5-1",
+   1
+  ],
+  [
+   "30-87-8-1",
+   1
+  ],
+  [
+   "30-87-3-1",
+   1
+  ],
+  [
+   "30-87-4-2",
+   2
+  ],
+  [
+   "30-87-7-2",
+   1
+  ],
+  [
+   "30-87-7-3",
+   1
+  ],
+  [
+   "30-87-6-4",
+   1
+  ],
+  [
+   "30-87-7-5",
+   1
+  ],
+  [
+   "30-87-8-6",
+   1
+  ],
+  [
+   "30-87-6-6",
+   1
+  ],
+  [
+   "30-87-6-7",
+   1
+  ],
+  [
+   "30-87-4-5",
+   2
+  ],
+  [
+   "30-87-8-4",
+   1
+  ],
+  [
+   "30-87-4-6",
+   1
+  ],
+  [
+   "30-87-4-7",
+   1
+  ],
+  [
+   "30-87-4-3",
+   1
+  ],
+  [
+   "30-87-2-4",
+   1
+  ],
+  [
+   "30-87-1-5",
+   1
+  ],
+  [
+   "30-87-0-6",
+   1
+  ],
+  [
+   "30-87-2-7a",
+   1
+  ],
+  [
+   "30-87-6-8",
+   1
+  ],
+  [
+   "30-87-6-9",
+   1
+  ],
+  [
+   "30-81-2-1",
+   1
+  ],
+  [
+   "30-81-4-2",
+   1
+  ],
+  [
+   "30-81-4-3",
+   2
+  ],
+  [
+   "30-81-1-2",
+   1
+  ],
+  [
+   "30-81-1-3",
+   1
+  ],
+  [
+   "30-81-6-1",
+   2
+  ],
+  [
+   "30-81-0-4",
+   1
+  ],
+  [
+   "30-81-5-4",
+   1
+  ],
+  [
+   "30-81-5-5",
+   1
+  ],
+  [
+   "30-81-1-5",
+   1
+  ],
+  [
+   "30-81-10-4",
+   1
+  ],
+  [
+   "30-81-10-6",
+   1
+  ],
+  [
+   "30-81-4-6",
+   1
+  ],
+  [
+   "30-81-6-6",
+   1
+  ],
+  [
+   "30-81-0-7",
+   1
+  ],
+  [
+   "30-81-4-7",
+   1
+  ],
+  [
+   "30-81-6-7b",
+   1
+  ],
+  [
+   "30-81-3-4",
+   1
+  ],
+  [
+   "30-81-3-5",
+   1
+  ],
+  [
+   "30-81-7-2a",
+   1
+  ],
+  [
+   "30-81-7-3",
+   1
+  ],
+  [
+   "30-81-8-4b",
+   1
+  ],
+  [
+   "30-81-6-8",
+   1
+  ],
+  [
+   "30-81-6-9",
+   1
+  ],
+  [
+   "30-81-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "30-87-4-0",
+   "points": 1,
+   "name": "Scythe Rush",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 500359
+  },
+  {
+   "id": "30-87-6-0",
+   "points": 1,
+   "name": "Tormented Souls",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 500483
+  },
+  {
+   "id": "30-81-4-0",
+   "points": 1,
+   "name": "Dreadwake",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 803992
+  },
+  {
+   "id": "30-81-10-0",
+   "points": 1,
+   "name": "Tormentor",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 92147
+  },
+  {
+   "id": "30-81-10-2",
+   "points": 1,
+   "name": "Behemoth",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 573041
+  },
+  {
+   "id": "30-87-5-1",
+   "points": 1,
+   "name": "Soul Harvester",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 804311
+  },
+  {
+   "id": "30-87-8-1",
+   "points": 1,
+   "name": "Soulfused Constitution",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 561100
+  },
+  {
+   "id": "30-87-3-1",
+   "points": 1,
+   "name": "Backswing",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 706790
+  },
+  {
+   "id": "30-87-4-2",
+   "points": 2,
+   "name": "Soul Warden",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 560419
+  },
+  {
+   "id": "30-87-7-2",
+   "points": 1,
+   "name": "Jailer's Bargain",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805718
+  },
+  {
+   "id": "30-87-7-3",
+   "points": 1,
+   "name": "Harvester's Scythe",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805188
+  },
+  {
+   "id": "30-87-6-4",
+   "points": 1,
+   "name": "Dominion",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 803999
+  },
+  {
+   "id": "30-87-7-5",
+   "points": 1,
+   "name": "Limbo",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 800845
+  },
+  {
+   "id": "30-87-8-6",
+   "points": 1,
+   "name": "Dark Passage",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 704558
+  },
+  {
+   "id": "30-87-6-6",
+   "points": 1,
+   "name": "Soul Protector",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 300553
+  },
+  {
+   "id": "30-87-6-7",
+   "points": 1,
+   "name": "Essence Invigoration",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805186
+  },
+  {
+   "id": "30-87-4-5",
+   "points": 2,
+   "name": "Spectre Strength",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 804671
+  },
+  {
+   "id": "30-87-8-4",
+   "points": 1,
+   "name": "Burial Rites",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 560422
+  },
+  {
+   "id": "30-87-4-6",
+   "points": 1,
+   "name": "Soul Tap",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 807397
+  },
+  {
+   "id": "30-87-4-7",
+   "points": 1,
+   "name": "Mawborn",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805203
+  },
+  {
+   "id": "30-87-4-3",
+   "points": 1,
+   "name": "Withering Touch",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 573071
+  },
+  {
+   "id": "30-87-2-4",
+   "points": 1,
+   "name": "From the Shadows",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 561099
+  },
+  {
+   "id": "30-87-1-5",
+   "points": 1,
+   "name": "Ghastly Screech",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 806146
+  },
+  {
+   "id": "30-87-0-6",
+   "points": 1,
+   "name": "Ghastly Advance",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 805192
+  },
+  {
+   "id": "30-87-2-7a",
+   "points": 1,
+   "name": "Between Shadows",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 560412
+  },
+  {
+   "id": "30-87-6-8",
+   "points": 1,
+   "name": "Soul Harvest",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 504012
+  },
+  {
+   "id": "30-87-6-9",
+   "points": 1,
+   "name": "Soul Furnace",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805184
+  },
+  {
+   "id": "30-81-2-1",
+   "points": 1,
+   "name": "Empyrean Fortitude",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 706795
+  },
+  {
+   "id": "30-81-4-2",
+   "points": 1,
+   "name": "Requiem",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 805717
+  },
+  {
+   "id": "30-81-4-3",
+   "points": 2,
+   "name": "Dreadknight",
+   "maxPoints": 2,
+   "tree": "Domination",
+   "spellId": 300560
+  },
+  {
+   "id": "30-81-1-2",
+   "points": 1,
+   "name": "Soultaker",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 704356
+  },
+  {
+   "id": "30-81-1-3",
+   "points": 1,
+   "name": "Bolstered Form",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 680337
+  },
+  {
+   "id": "30-81-6-1",
+   "points": 2,
+   "name": "Dark Soldier",
+   "maxPoints": 2,
+   "tree": "Domination",
+   "spellId": 560490
+  },
+  {
+   "id": "30-81-0-4",
+   "points": 1,
+   "name": "Intimidating Presence",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 560478
+  },
+  {
+   "id": "30-81-5-4",
+   "points": 1,
+   "name": "Soulsight",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 300565
+  },
+  {
+   "id": "30-81-5-5",
+   "points": 1,
+   "name": "Fatesealer",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 705442
+  },
+  {
+   "id": "30-81-1-5",
+   "points": 1,
+   "name": "Harnessed Life",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 705406
+  },
+  {
+   "id": "30-81-10-4",
+   "points": 1,
+   "name": "Soul Slip",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 500286
+  },
+  {
+   "id": "30-81-10-6",
+   "points": 1,
+   "name": "Dark Soul",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 706784
+  },
+  {
+   "id": "30-81-4-6",
+   "points": 1,
+   "name": "Spirit Realm",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 705404
+  },
+  {
+   "id": "30-81-6-6",
+   "points": 1,
+   "name": "Spectral Warden",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 805716
+  },
+  {
+   "id": "30-81-0-7",
+   "points": 1,
+   "name": "Hard Bargain",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 300569
+  },
+  {
+   "id": "30-81-4-7",
+   "points": 1,
+   "name": "Soulstorm",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 705403
+  },
+  {
+   "id": "30-81-6-7b",
+   "points": 1,
+   "name": "Life Tap",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 706788
+  },
+  {
+   "id": "30-81-3-4",
+   "points": 1,
+   "name": "Essence Binder",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 560919
+  },
+  {
+   "id": "30-81-3-5",
+   "points": 1,
+   "name": "Ethereal Guard",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 300969
+  },
+  {
+   "id": "30-81-7-2a",
+   "points": 1,
+   "name": "Dominator",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 301213
+  },
+  {
+   "id": "30-81-7-3",
+   "points": 1,
+   "name": "Spectral Scythe",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 500484
+  },
+  {
+   "id": "30-81-8-4b",
+   "points": 1,
+   "name": "Well of Souls",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 706792
+  },
+  {
+   "id": "30-81-6-8",
+   "points": 1,
+   "name": "Siphon Anima",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 504309
+  },
+  {
+   "id": "30-81-6-9",
+   "points": 1,
+   "name": "Eater of Souls",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 805181
+  },
+  {
+   "id": "30-81-10-8",
+   "points": 1,
+   "name": "Decimation",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 704193
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blade of Y'shaarj",
+  "icon": "sha_spell_warlock_demonsoul",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blade of Y'shaarj</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Blade of the Empire</span> strikes 2 additional enemies and has a 100% chance to despoil the ground beneath them for 12&nbsp;sec, reducing the attack power and Shadow resistance of enemies within an 8 yd radius, scaling with Stamina.</span></td></tr></table><!--?806252:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

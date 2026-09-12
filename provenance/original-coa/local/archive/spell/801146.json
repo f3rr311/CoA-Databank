@@ -1,0 +1,8 @@
+{
+  "name_enus": "Night Hunter",
+  "icon": "custom_t_foreshadowing_border",
+  "tooltip_enus": "<table><tr><td><b>Night Hunter</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #FFFFFF;\">Huntress Saber</span> by 60 sec.</span></td></tr></table><!--?801146:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

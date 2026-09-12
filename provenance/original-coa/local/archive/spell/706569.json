@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hellsmelted Armor",
+  "icon": "inv_glove_armor_orcclan_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hellsmelted Armor</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Each <span style=\"color: #ffffff;\">Hellfire Imp</span> active now increases your chance to block by 1%.</span></td></tr></table><!--?706569:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

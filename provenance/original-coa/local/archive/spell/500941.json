@@ -1,0 +1,15 @@
+{
+  "name_enus": "Predator's Hunt",
+  "icon": "ability_druid_overrun",
+  "tooltip_enus": "<table><tr><td><b>Predator's Hunt</b><br />5% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases movement speed by 40%, and attack power by 20% for until cancelled. <br /><br />This effect is also applied to your active pet.<!--sp300691:0--><!--sp300691--></span></td></tr></table><!--?500941:1:1:80-->",
+  "spells_enus": {
+    "300691": [
+      [
+        "",
+        "<br /><br />At the end of the full duration, generate 0 Rage."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

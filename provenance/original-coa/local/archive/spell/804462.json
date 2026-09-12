@@ -1,0 +1,8 @@
+{
+  "name_enus": "Titan's Gaze",
+  "icon": "inv_archaeology_ogres_hargunn_eye",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Titan's Gaze</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Time Out!</span> no longer breaks on damage, but now only reduces damage taken by 15%.</span></td></tr></table><!--?804462:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

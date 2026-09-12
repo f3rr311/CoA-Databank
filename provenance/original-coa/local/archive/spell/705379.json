@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bring Down The Hammer!",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bring Down The Hammer!</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Heavy Blow</span> now deals an additional 20% of the damage dealt every 1 sec for 3&nbsp;sec.</span></td></tr></table><!--?705379:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

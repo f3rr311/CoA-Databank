@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chakra of Power",
+  "icon": "priest_icon_chakra_red",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Chakra of Power</b></td><th><b class=\"q0\">PassiveSLS</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Melee attacks now restore 1 Energy, plus an additional 1 Energy when they critically strike.</span></td></tr></table><!--?803175:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

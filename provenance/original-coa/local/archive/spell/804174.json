@@ -1,0 +1,8 @@
+{
+  "name_enus": "Curse of Hel'nurath",
+  "icon": "ability_warlock_cremation",
+  "tooltip_enus": "<table><tr><td><b>Curse of Hel'nurath</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Curse an enemy for 15&nbsp;sec, increasing Fire Damage taken and their chance to be critically struck by FIre Damage by 3%.</span></td></tr></table><!--?804174:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

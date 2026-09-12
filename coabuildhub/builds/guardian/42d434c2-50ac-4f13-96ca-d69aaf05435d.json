@@ -1,0 +1,659 @@
+{
+ "build": {
+  "id": "42d434c2-50ac-4f13-96ca-d69aaf05435d",
+  "title": "reincarnated into another world and I can be hit in the face 10000 times and be fine",
+  "description": "[overview]\nTanky spanky\n\n[rotation]\npop glorious on CD",
+  "class_id": 18,
+  "spec_id": 7,
+  "author_id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+  "talent_string": "W1siMTgtODctMS0wIiwxXSxbIjE4LTg3LTEtMSIsMV0sWyIxOC04Ny03LTAiLDFdLFsiMTgtODctNy0xIiwxXSxbIjE4LTg3LTItMiIsMV0sWyIxOC04Ny02LTIiLDFdLFsiMTgtODctOC0yYSIsMV0sWyIxOC04Ny03LTMiLDJdLFsiMTgtODctMS0zIiwxXSxbIjE4LTg3LTUtNCIsMV0sWyIxOC04Ny03LTQiLDFdLFsiMTgtODctNi01IiwxXSxbIjE4LTg3LTgtNSIsMV0sWyIxOC04Ny00LTUiLDFdLFsiMTgtODctNi02IiwxXSxbIjE4LTg3LTYtNyIsMV0sWyIxOC04Ny03LTciLDFdLFsiMTgtODctNC03IiwxXSxbIjE4LTg3LTEtNCIsMV0sWyIxOC04Ny0wLTViIiwxXSxbIjE4LTg3LTItNSIsMV0sWyIxOC04Ny0yLTYiLDFdLFsiMTgtODctMi03IiwxXSxbIjE4LTg3LTQtOCIsMV0sWyIxOC04Ny0yLTgiLDFdLFsiMTgtNy00LTAiLDFdLFsiMTgtNy00LTEiLDNdLFsiMTgtNy0yLTIiLDFdLFsiMTgtNy02LTIiLDFdLFsiMTgtNy00LTMiLDJdLFsiMTgtNy00LTQiLDFdLFsiMTgtNy0xLTNiIiwxXSxbIjE4LTctNy0zIiwxXSxbIjE4LTctNi00IiwxXSxbIjE4LTctNi01IiwxXSxbIjE4LTctNy02IiwxXSxbIjE4LTctOC03YiIsMV0sWyIxOC03LTQtNiIsMl0sWyIxOC03LTItNSIsMV0sWyIxOC03LTAtNSIsMV0sWyIxOC03LTEtNiIsMV0sWyIxOC03LTItNiIsMV0sWyIxOC03LTItNyIsMV0sWyIxOC03LTQtNyIsMV0sWyIxOC03LTQtOCIsMV0sWyIxOC03LTYtOSIsMV1d",
+  "tags": [],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 3,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-17T21:16:49.004228+00:00",
+  "updated_at": "2026-07-17T21:16:49.004228+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 2222,
+  "net_score": 3,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+   "username": "zyzx",
+   "avatar_url": "https://cdn.discordapp.com/avatars/160919726955036672/a701ead2d96f549ded297650a1b01624.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "0f6836ab-b365-4f6d-9090-6a2d78eacda4",
+   "title": "Inspiration Guardian(PvE)",
+   "class_id": 18,
+   "spec_id": 48,
+   "author_id": "b624efc7-ef7c-4e8a-a566-0b510f658794",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 2,
+   "downvotes": 0,
+   "comment_count": 5,
+   "view_count": 1532,
+   "featured": false,
+   "created_at": "2026-07-19T18:15:22.008446+00:00",
+   "updated_at": "2026-07-30T03:52:06.129+00:00",
+   "has_talents": true,
+   "guide_section_count": 8,
+   "author": {
+    "id": "b624efc7-ef7c-4e8a-a566-0b510f658794",
+    "username": "Why Two",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKT__xFrMUPj2fQYgJyQdPdJCvpvEl6Ulxp2c0YLKhjAPp-IQ=s96-c"
+   }
+  },
+  {
+   "id": "086abfa8-9acf-47ed-bc73-9ca5438612fb",
+   "title": "Guardian Gladiator PvP optimal build",
+   "class_id": 18,
+   "spec_id": 49,
+   "author_id": "9614dba2-698f-41f8-9cfe-50164820f285",
+   "tags": [
+    "PvP",
+    "Guardian",
+    "Gladiator",
+    "BG",
+    "Battleground",
+    "Battlegrounds",
+    "Arena",
+    "Open World",
+    "High Risk",
+    "War Mode"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 3653,
+   "featured": false,
+   "created_at": "2026-07-13T23:22:44.312209+00:00",
+   "updated_at": "2026-07-19T00:55:15.877+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "9614dba2-698f-41f8-9cfe-50164820f285",
+    "username": "hrup",
+    "avatar_url": "https://cdn.discordapp.com/avatars/92835265051136000/1edee95b14b29f70aa420a43dc716fa0.png"
+   }
+  }
+ ],
+ "class": "Guardian",
+ "spec": "Vanguard",
+ "allocations": [
+  [
+   "18-87-1-0",
+   1
+  ],
+  [
+   "18-87-1-1",
+   1
+  ],
+  [
+   "18-87-7-0",
+   1
+  ],
+  [
+   "18-87-7-1",
+   1
+  ],
+  [
+   "18-87-2-2",
+   1
+  ],
+  [
+   "18-87-6-2",
+   1
+  ],
+  [
+   "18-87-8-2a",
+   1
+  ],
+  [
+   "18-87-7-3",
+   2
+  ],
+  [
+   "18-87-1-3",
+   1
+  ],
+  [
+   "18-87-5-4",
+   1
+  ],
+  [
+   "18-87-7-4",
+   1
+  ],
+  [
+   "18-87-6-5",
+   1
+  ],
+  [
+   "18-87-8-5",
+   1
+  ],
+  [
+   "18-87-4-5",
+   1
+  ],
+  [
+   "18-87-6-6",
+   1
+  ],
+  [
+   "18-87-6-7",
+   1
+  ],
+  [
+   "18-87-7-7",
+   1
+  ],
+  [
+   "18-87-4-7",
+   1
+  ],
+  [
+   "18-87-1-4",
+   1
+  ],
+  [
+   "18-87-0-5b",
+   1
+  ],
+  [
+   "18-87-2-5",
+   1
+  ],
+  [
+   "18-87-2-6",
+   1
+  ],
+  [
+   "18-87-2-7",
+   1
+  ],
+  [
+   "18-87-4-8",
+   1
+  ],
+  [
+   "18-87-2-8",
+   1
+  ],
+  [
+   "18-7-4-0",
+   1
+  ],
+  [
+   "18-7-4-1",
+   3
+  ],
+  [
+   "18-7-2-2",
+   1
+  ],
+  [
+   "18-7-6-2",
+   1
+  ],
+  [
+   "18-7-4-3",
+   2
+  ],
+  [
+   "18-7-4-4",
+   1
+  ],
+  [
+   "18-7-1-3b",
+   1
+  ],
+  [
+   "18-7-7-3",
+   1
+  ],
+  [
+   "18-7-6-4",
+   1
+  ],
+  [
+   "18-7-6-5",
+   1
+  ],
+  [
+   "18-7-7-6",
+   1
+  ],
+  [
+   "18-7-8-7b",
+   1
+  ],
+  [
+   "18-7-4-6",
+   2
+  ],
+  [
+   "18-7-2-5",
+   1
+  ],
+  [
+   "18-7-0-5",
+   1
+  ],
+  [
+   "18-7-1-6",
+   1
+  ],
+  [
+   "18-7-2-6",
+   1
+  ],
+  [
+   "18-7-2-7",
+   1
+  ],
+  [
+   "18-7-4-7",
+   1
+  ],
+  [
+   "18-7-4-8",
+   1
+  ],
+  [
+   "18-7-6-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "18-87-1-0",
+   "points": 1,
+   "name": "Net Throw",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802304
+  },
+  {
+   "id": "18-87-1-1",
+   "points": 1,
+   "name": "Knightly Demeanor",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 504148
+  },
+  {
+   "id": "18-87-7-0",
+   "points": 1,
+   "name": "Brace",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 800313
+  },
+  {
+   "id": "18-87-7-1",
+   "points": 1,
+   "name": "Sturdy",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 706639
+  },
+  {
+   "id": "18-87-2-2",
+   "points": 1,
+   "name": "Guardbreaker",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 504385
+  },
+  {
+   "id": "18-87-6-2",
+   "points": 1,
+   "name": "Valiant Effort",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 706637
+  },
+  {
+   "id": "18-87-8-2a",
+   "points": 1,
+   "name": "Deflector",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 706336
+  },
+  {
+   "id": "18-87-7-3",
+   "points": 2,
+   "name": "Shield Wall",
+   "maxPoints": 2,
+   "tree": "Guardian (class tree)",
+   "spellId": 705370
+  },
+  {
+   "id": "18-87-1-3",
+   "points": 1,
+   "name": "Glorious Arena",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 300983
+  },
+  {
+   "id": "18-87-5-4",
+   "points": 1,
+   "name": "Heroic Deeds",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 804661
+  },
+  {
+   "id": "18-87-7-4",
+   "points": 1,
+   "name": "Reflective Shield",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 300927
+  },
+  {
+   "id": "18-87-6-5",
+   "points": 1,
+   "name": "Standard Bearer",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 806134
+  },
+  {
+   "id": "18-87-8-5",
+   "points": 1,
+   "name": "Recuperation",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 801121
+  },
+  {
+   "id": "18-87-4-5",
+   "points": 1,
+   "name": "Counter Stance",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802188
+  },
+  {
+   "id": "18-87-6-6",
+   "points": 1,
+   "name": "Steel Riposte",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 300534
+  },
+  {
+   "id": "18-87-6-7",
+   "points": 1,
+   "name": "Make Room! I'm Here.",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 300543
+  },
+  {
+   "id": "18-87-7-7",
+   "points": 1,
+   "name": "Master of Arms",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705315
+  },
+  {
+   "id": "18-87-4-7",
+   "points": 1,
+   "name": "Knight's Calling",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 504151
+  },
+  {
+   "id": "18-87-1-4",
+   "points": 1,
+   "name": "Lord of the Arena",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802290
+  },
+  {
+   "id": "18-87-0-5b",
+   "points": 1,
+   "name": "Bloodletter",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 560093
+  },
+  {
+   "id": "18-87-2-5",
+   "points": 1,
+   "name": "Valiance",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705324
+  },
+  {
+   "id": "18-87-2-6",
+   "points": 1,
+   "name": "Energetic",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705316
+  },
+  {
+   "id": "18-87-2-7",
+   "points": 1,
+   "name": "Thick Shields",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 807346
+  },
+  {
+   "id": "18-87-4-8",
+   "points": 1,
+   "name": "Honorable Demeanor",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705377
+  },
+  {
+   "id": "18-87-2-8",
+   "points": 1,
+   "name": "Relentless",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705343
+  },
+  {
+   "id": "18-7-4-0",
+   "points": 1,
+   "name": "Heavy Blow",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 803129
+  },
+  {
+   "id": "18-7-4-1",
+   "points": 3,
+   "name": "Iron Guardian",
+   "maxPoints": 3,
+   "tree": "Vanguard",
+   "spellId": 705364
+  },
+  {
+   "id": "18-7-2-2",
+   "points": 1,
+   "name": "Heavy Expert",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 803128
+  },
+  {
+   "id": "18-7-6-2",
+   "points": 1,
+   "name": "With Honor",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 504383
+  },
+  {
+   "id": "18-7-4-3",
+   "points": 2,
+   "name": "Knight's Conviction",
+   "maxPoints": 2,
+   "tree": "Vanguard",
+   "spellId": 705369
+  },
+  {
+   "id": "18-7-4-4",
+   "points": 1,
+   "name": "Vanguard's Might",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 705345
+  },
+  {
+   "id": "18-7-1-3b",
+   "points": 1,
+   "name": "Shieldbound",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 706515
+  },
+  {
+   "id": "18-7-7-3",
+   "points": 1,
+   "name": "Footman's Call",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 705376
+  },
+  {
+   "id": "18-7-6-4",
+   "points": 1,
+   "name": "Bring Down The Hammer!",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 705379
+  },
+  {
+   "id": "18-7-6-5",
+   "points": 1,
+   "name": "Hammer of the Law",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 704418
+  },
+  {
+   "id": "18-7-7-6",
+   "points": 1,
+   "name": "The Green Tower",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 560410
+  },
+  {
+   "id": "18-7-8-7b",
+   "points": 1,
+   "name": "Valiant Defender",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 582933
+  },
+  {
+   "id": "18-7-4-6",
+   "points": 2,
+   "name": "Stalwart",
+   "maxPoints": 2,
+   "tree": "Vanguard",
+   "spellId": 704413
+  },
+  {
+   "id": "18-7-2-5",
+   "points": 1,
+   "name": "Hold the Line",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 803830
+  },
+  {
+   "id": "18-7-0-5",
+   "points": 1,
+   "name": "Vanguard's Shield",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 804383
+  },
+  {
+   "id": "18-7-1-6",
+   "points": 1,
+   "name": "Retaliation",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 582901
+  },
+  {
+   "id": "18-7-2-6",
+   "points": 1,
+   "name": "Plate Buster",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 705333
+  },
+  {
+   "id": "18-7-2-7",
+   "points": 1,
+   "name": "Resilient",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 707137
+  },
+  {
+   "id": "18-7-4-7",
+   "points": 1,
+   "name": "Forceful Impact",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 705346
+  },
+  {
+   "id": "18-7-4-8",
+   "points": 1,
+   "name": "Shield Unit",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 804891
+  },
+  {
+   "id": "18-7-6-9",
+   "points": 1,
+   "name": "Shieldlord’s Strength",
+   "maxPoints": 1,
+   "tree": "Vanguard",
+   "spellId": 803738
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Totemic Smash",
+  "icon": "ability_smash",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Totemic Smash</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>35 Rage<br /><table width=\"100%\"><tr><td>Instant</td><th>6&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Smash an enemy for 140% Weapon Damage plus 20.<br /><br />Deals an additional 10+AP*0.35 damage to up to 5 enemies within 8 yds.</span></td></tr></table><!--?800178:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

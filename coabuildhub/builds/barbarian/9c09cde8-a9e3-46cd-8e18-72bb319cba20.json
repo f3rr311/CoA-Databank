@@ -1,0 +1,685 @@
+{
+ "build": {
+  "id": "9c09cde8-a9e3-46cd-8e18-72bb319cba20",
+  "title": "Headhunter PvP build",
+  "description": "[overview]\nA lot of what’s built into this talent set up is maxing uptime on guts spilled and berserker axe. Cycling your energy maintenance abilities will allow full uptime in unbridled rage while spamming berserker axe’s. This allows for born in blood to always be 2 stacked on you and healing for a lot per tick with brutal form. \n\nHow I tend to open combat\nWarband\nOn use/racial\nGut spiller\n3 zerkers \nMaimed spear\n3 zerkers\nThrow weapon(sometimes depending on the class I will use berserker rush and spam headbutt before I get there)\nSlow spear \n\nRinse repeat",
+  "class_id": 12,
+  "spec_id": 32,
+  "author_id": "11bb1186-b9e0-4aaf-8dcc-2290874521b7",
+  "talent_string": "W1siMTItODctNy0wIiwxXSxbIjEyLTg3LTQtMCIsMV0sWyIxMi04Ny00LTEiLDJdLFsiMTItODctMS0wIiwxXSxbIjEyLTg3LTEtMSIsMV0sWyIxMi04Ny0wLTIiLDFdLFsiMTItODctMi0yIiwxXSxbIjEyLTg3LTEtMyIsMV0sWyIxMi04Ny00LTMiLDFdLFsiMTItODctNy0xIiwyXSxbIjEyLTg3LTYtMiIsMV0sWyIxMi04Ny03LTMiLDFdLFsiMTItODctOC00IiwxXSxbIjEyLTg3LTgtNSIsMV0sWyIxMi04Ny03LTZiIiwxXSxbIjEyLTg3LTQtNCIsMV0sWyIxMi04Ny00LTViIiwxXSxbIjEyLTg3LTQtNiIsMV0sWyIxMi04Ny00LTciLDFdLFsiMTItODctMi00IiwxXSxbIjEyLTg3LTAtNCIsMV0sWyIxMi04Ny0wLTVhIiwxXSxbIjEyLTMyLTQtMCIsMV0sWyIxMi0zMi00LTEiLDFdLFsiMTItMzItNi0yIiwxXSxbIjEyLTMyLTItMiIsMV0sWyIxMi0zMi02LTMiLDJdLFsiMTItMzItNy0zIiwxXSxbIjEyLTMyLTEtMyIsMV0sWyIxMi0zMi0yLTMiLDFdLFsiMTItMzItMi00IiwxXSxbIjEyLTMyLTAtNSIsMl0sWyIxMi0zMi04LTUiLDJdLFsiMTItMzItNi00IiwxXSxbIjEyLTMyLTQtNCIsMV0sWyIxMi0zMi02LTUiLDFdLFsiMTItMzItOC03IiwxXSxbIjEyLTMyLTQtNSIsMV0sWyIxMi0zMi00LTZiIiwxXSxbIjEyLTMyLTQtNyIsMV0sWyIxMi0zMi02LTciLDFdLFsiMTItMzItMC03IiwxXSxbIjEyLTMyLTctOCIsMV0sWyIxMi0zMi0zLTgiLDFdLFsiMTItODctMS02IiwxXSxbIjEyLTg3LTYtNCIsMV1d",
+  "tags": [
+   "BGs 3v3 2v2 build"
+  ],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-23T02:47:00.12283+00:00",
+  "updated_at": "2026-07-23T02:47:00.12283+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 705,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "11bb1186-b9e0-4aaf-8dcc-2290874521b7",
+   "username": "drozelol",
+   "avatar_url": "https://cdn.discordapp.com/avatars/106538134396743680/261f0a42efcddfd13b37cfa114cdbccf.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "8d73bb23-fea4-4028-ac58-b4a340425c58",
+   "title": "BigZuggs PVP Hybrid Spearthrower",
+   "class_id": 12,
+   "spec_id": 32,
+   "author_id": "6dbd1e52-e618-4ea7-94cb-2897a6c96d2e",
+   "tags": [
+    "pvp",
+    "survivability",
+    "dps",
+    "bleed"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 387,
+   "featured": false,
+   "created_at": "2026-07-27T01:28:02.035657+00:00",
+   "updated_at": "2026-07-27T01:33:09.953+00:00",
+   "has_talents": true,
+   "guide_section_count": 2,
+   "author": {
+    "id": "6dbd1e52-e618-4ea7-94cb-2897a6c96d2e",
+    "username": "bigzuggs",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "cd0b0cbc-76b4-4bb2-9ab4-fcdba4797f24",
+   "title": "Leveling",
+   "class_id": 12,
+   "spec_id": 31,
+   "author_id": "34851922-debc-4b61-a80f-4ca5adea497e",
+   "tags": [],
+   "role": "dps",
+   "content_type": "leveling",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 2,
+   "view_count": 1308,
+   "featured": false,
+   "created_at": "2026-07-23T12:39:29.831424+00:00",
+   "updated_at": "2026-07-23T12:43:53.913+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "34851922-debc-4b61-a80f-4ca5adea497e",
+    "username": "Nunya Bizness",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIjI299m8x9e5A021EV7SJu2p6G-V7UOuLmANPA-hANfPfz2Q=s96-c"
+   }
+  },
+  {
+   "id": "357b736e-2be8-48bc-9052-fc4f9aa7c2e6",
+   "title": "HH Spearheads on Foreheads",
+   "class_id": 12,
+   "spec_id": 32,
+   "author_id": "dce67501-ca29-45e8-96be-4c434bc18700",
+   "tags": [
+    "Single Target",
+    "Sustained"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1445,
+   "featured": false,
+   "created_at": "2026-07-20T15:08:27.556227+00:00",
+   "updated_at": "2026-07-20T15:14:49.968+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "dce67501-ca29-45e8-96be-4c434bc18700",
+    "username": "ahumun",
+    "avatar_url": "https://cdn.discordapp.com/avatars/171065378439430145/fb331c52404ef7978502c63953a5417a.png"
+   }
+  }
+ ],
+ "class": "Barbarian",
+ "spec": "Headhunting",
+ "allocations": [
+  [
+   "12-87-7-0",
+   1
+  ],
+  [
+   "12-87-4-0",
+   1
+  ],
+  [
+   "12-87-4-1",
+   2
+  ],
+  [
+   "12-87-1-0",
+   1
+  ],
+  [
+   "12-87-1-1",
+   1
+  ],
+  [
+   "12-87-0-2",
+   1
+  ],
+  [
+   "12-87-2-2",
+   1
+  ],
+  [
+   "12-87-1-3",
+   1
+  ],
+  [
+   "12-87-4-3",
+   1
+  ],
+  [
+   "12-87-7-1",
+   2
+  ],
+  [
+   "12-87-6-2",
+   1
+  ],
+  [
+   "12-87-7-3",
+   1
+  ],
+  [
+   "12-87-8-4",
+   1
+  ],
+  [
+   "12-87-8-5",
+   1
+  ],
+  [
+   "12-87-7-6b",
+   1
+  ],
+  [
+   "12-87-4-4",
+   1
+  ],
+  [
+   "12-87-4-5b",
+   1
+  ],
+  [
+   "12-87-4-6",
+   1
+  ],
+  [
+   "12-87-4-7",
+   1
+  ],
+  [
+   "12-87-2-4",
+   1
+  ],
+  [
+   "12-87-0-4",
+   1
+  ],
+  [
+   "12-87-0-5a",
+   1
+  ],
+  [
+   "12-32-4-0",
+   1
+  ],
+  [
+   "12-32-4-1",
+   1
+  ],
+  [
+   "12-32-6-2",
+   1
+  ],
+  [
+   "12-32-2-2",
+   1
+  ],
+  [
+   "12-32-6-3",
+   2
+  ],
+  [
+   "12-32-7-3",
+   1
+  ],
+  [
+   "12-32-1-3",
+   1
+  ],
+  [
+   "12-32-2-3",
+   1
+  ],
+  [
+   "12-32-2-4",
+   1
+  ],
+  [
+   "12-32-0-5",
+   2
+  ],
+  [
+   "12-32-8-5",
+   2
+  ],
+  [
+   "12-32-6-4",
+   1
+  ],
+  [
+   "12-32-4-4",
+   1
+  ],
+  [
+   "12-32-6-5",
+   1
+  ],
+  [
+   "12-32-8-7",
+   1
+  ],
+  [
+   "12-32-4-5",
+   1
+  ],
+  [
+   "12-32-4-6b",
+   1
+  ],
+  [
+   "12-32-4-7",
+   1
+  ],
+  [
+   "12-32-6-7",
+   1
+  ],
+  [
+   "12-32-0-7",
+   1
+  ],
+  [
+   "12-32-7-8",
+   1
+  ],
+  [
+   "12-32-3-8",
+   1
+  ],
+  [
+   "12-87-1-6",
+   1
+  ],
+  [
+   "12-87-6-4",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "12-87-7-0",
+   "points": 1,
+   "name": "Ancestral Roar",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 500918
+  },
+  {
+   "id": "12-87-4-0",
+   "points": 1,
+   "name": "Jawbreaker",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 802792
+  },
+  {
+   "id": "12-87-4-1",
+   "points": 2,
+   "name": "Savage Strength",
+   "maxPoints": 2,
+   "tree": "Barbarian (class tree)",
+   "spellId": 560886
+  },
+  {
+   "id": "12-87-1-0",
+   "points": 1,
+   "name": "Maiming Spear",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 804139
+  },
+  {
+   "id": "12-87-1-1",
+   "points": 1,
+   "name": "Unrelenting",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 705169
+  },
+  {
+   "id": "12-87-0-2",
+   "points": 1,
+   "name": "Athleticism",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 560456
+  },
+  {
+   "id": "12-87-2-2",
+   "points": 1,
+   "name": "Strength of Goria",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 705202
+  },
+  {
+   "id": "12-87-1-3",
+   "points": 1,
+   "name": "Headhunter's Spear",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 804137
+  },
+  {
+   "id": "12-87-4-3",
+   "points": 1,
+   "name": "Defiance",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 806228
+  },
+  {
+   "id": "12-87-7-1",
+   "points": 2,
+   "name": "One With The Ancestors",
+   "maxPoints": 2,
+   "tree": "Barbarian (class tree)",
+   "spellId": 560452
+  },
+  {
+   "id": "12-87-6-2",
+   "points": 1,
+   "name": "Unstoppable Rage",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 706353
+  },
+  {
+   "id": "12-87-7-3",
+   "points": 1,
+   "name": "Warband",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 560883
+  },
+  {
+   "id": "12-87-8-4",
+   "points": 1,
+   "name": "Bloodbound",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 801767
+  },
+  {
+   "id": "12-87-8-5",
+   "points": 1,
+   "name": "Bellowing Voice",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 561322
+  },
+  {
+   "id": "12-87-7-6b",
+   "points": 1,
+   "name": "Powerful Grip",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 804728
+  },
+  {
+   "id": "12-87-4-4",
+   "points": 1,
+   "name": "Savage Cadence",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 807861
+  },
+  {
+   "id": "12-87-4-5b",
+   "points": 1,
+   "name": "Bloody Onslaught",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 707583
+  },
+  {
+   "id": "12-87-4-6",
+   "points": 1,
+   "name": "Ogre's Endurance",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 705206
+  },
+  {
+   "id": "12-87-4-7",
+   "points": 1,
+   "name": "Battle Rhythm",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 800193
+  },
+  {
+   "id": "12-87-2-4",
+   "points": 1,
+   "name": "Savagery",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 800943
+  },
+  {
+   "id": "12-87-0-4",
+   "points": 1,
+   "name": "Dauntless",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 804746
+  },
+  {
+   "id": "12-87-0-5a",
+   "points": 1,
+   "name": "Forward Advance",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 707207
+  },
+  {
+   "id": "12-32-4-0",
+   "points": 1,
+   "name": "Berserker Axe",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 804138
+  },
+  {
+   "id": "12-32-4-1",
+   "points": 1,
+   "name": "You Want Axe?",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 560564
+  },
+  {
+   "id": "12-32-6-2",
+   "points": 1,
+   "name": "Gutspiller",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 805832
+  },
+  {
+   "id": "12-32-2-2",
+   "points": 1,
+   "name": "Barbed Spear",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 560881
+  },
+  {
+   "id": "12-32-6-3",
+   "points": 2,
+   "name": "Guts Splatter",
+   "maxPoints": 2,
+   "tree": "Headhunting",
+   "spellId": 560586
+  },
+  {
+   "id": "12-32-7-3",
+   "points": 1,
+   "name": "Deep Fury",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 705240
+  },
+  {
+   "id": "12-32-1-3",
+   "points": 1,
+   "name": "Puncture Wounds",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 805997
+  },
+  {
+   "id": "12-32-2-3",
+   "points": 1,
+   "name": "Strong Arm",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 705176
+  },
+  {
+   "id": "12-32-2-4",
+   "points": 1,
+   "name": "Headhunting",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 500060
+  },
+  {
+   "id": "12-32-0-5",
+   "points": 2,
+   "name": "Frothing Savage",
+   "maxPoints": 2,
+   "tree": "Headhunting",
+   "spellId": 705234
+  },
+  {
+   "id": "12-32-8-5",
+   "points": 2,
+   "name": "Gruesome",
+   "maxPoints": 2,
+   "tree": "Headhunting",
+   "spellId": 705227
+  },
+  {
+   "id": "12-32-6-4",
+   "points": 1,
+   "name": "Entrails",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 705238
+  },
+  {
+   "id": "12-32-4-4",
+   "points": 1,
+   "name": "Axe Twirling",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 800401
+  },
+  {
+   "id": "12-32-6-5",
+   "points": 1,
+   "name": "Berserker Rush",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 560518
+  },
+  {
+   "id": "12-32-8-7",
+   "points": 1,
+   "name": "To The Bone",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 560880
+  },
+  {
+   "id": "12-32-4-5",
+   "points": 1,
+   "name": "Time To Kill!",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 926591
+  },
+  {
+   "id": "12-32-4-6b",
+   "points": 1,
+   "name": "Hunting for Sport",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 706558
+  },
+  {
+   "id": "12-32-4-7",
+   "points": 1,
+   "name": "No Survivors",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 805864
+  },
+  {
+   "id": "12-32-6-7",
+   "points": 1,
+   "name": "Manhunter",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 300879
+  },
+  {
+   "id": "12-32-0-7",
+   "points": 1,
+   "name": "Legacy of the Amani",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 706804
+  },
+  {
+   "id": "12-32-7-8",
+   "points": 1,
+   "name": "Payback",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 705232
+  },
+  {
+   "id": "12-32-3-8",
+   "points": 1,
+   "name": "Brutal Form",
+   "maxPoints": 1,
+   "tree": "Headhunting",
+   "spellId": 705235
+  },
+  {
+   "id": "12-87-1-6",
+   "points": 1,
+   "name": "Blood and Glory",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 805821
+  },
+  {
+   "id": "12-87-6-4",
+   "points": 1,
+   "name": "Knockout Artist",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 705196
+  }
+ ]
+}

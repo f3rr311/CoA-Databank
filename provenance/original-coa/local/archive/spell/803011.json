@@ -1,0 +1,8 @@
+{
+  "name_enus": "Runestone: Torch",
+  "icon": "novart_magicspell_%2851%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Runestone: Torch</b></td><th><b class=\"q0\">Passive - Runestone</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">2 Fire Sigils</span><br /><span style=\"color: #ffffff;\">1 Arcane Sigil</span><br />Allows <span style=\"color: #ffffff;\">Elemental Burst</span> to expend the above <span style=\"color: #ffffff;\">Sigil</span> combination to burn an enemy for 120 Spellfire Damage over 20&nbsp;sec.</span></td></tr></table><!--?803011:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "King's Guard",
+  "icon": "inv_helmet_plate_raidpaladin_l_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>King's Guard</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #FFFFFF;\">Pulverize</span> and <span style=\"color: #ffffff;\">Ram</span> now have a 10% chance to reset the cooldown of <span style=\"color: #FFFFFF;\">Raise Shield</span>.</span></td></tr></table><!--?803134:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

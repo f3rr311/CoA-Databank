@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lifeblood",
+  "icon": "inv_misc_volatilelife_green",
+  "tooltip_enus": "<table><tr><td><b>Lifeblood</b><br />25% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Embrace Shadra's lifeblood, reducing your damage taken and pushback from casting spells by 20% and causing all damage taken to cast <span style=\"color: #ffffff;\">Rejuvenating Venom</span>. Lasts for 10&nbsp;sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/trade_alchemy_dpotion_a21.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=630869'> Rejuvenating Venom </a> <br />\n                            <span> Heal a random ally within 30 yds of your target for 67*$<scalingbp>+Heal*0.092 over 6&nbsp;sec.</span><br /></span></td></tr></table><!--?804963:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Darkrider",
+  "icon": "inv_skeletalwarhorse_01_brown",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Darkrider</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the Rage cost of <span style=\"color: #ffffff;\">Shadowblast</span>, <span style=\"color: #ffffff;\">Vault</span>, and <span style=\"color: #ffffff;\">Unleash the Hounds</span> by 10.</span></td></tr></table><!--?705453:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

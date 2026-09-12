@@ -1,0 +1,8 @@
+{
+  "name_enus": "Entropic Host",
+  "icon": "ability_priest_auspiciousspirits",
+  "tooltip_enus": "<table><tr><td><b>Entropic Host</b><br />14% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">A void entity inhabits the ally target, healing them for 0+0+SP*0.32 every 0 sec for until cancelled. At the end of the duration, the entity will jump to another nearby ally.<br /><br />After being affected by <span style=\"color: #ffffff;\">Entropic Host</span> 2 times the target cannot benefit from it again.</span></td></tr></table><!--?805133:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

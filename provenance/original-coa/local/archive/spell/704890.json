@@ -1,0 +1,8 @@
+{
+  "name_enus": "Twilight Initiate",
+  "icon": "achievement_dungeon_bastion_of_twilight_twilightascendantcouncil",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Twilight Initiate</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of <span style=\"color: #ffffff;\">Prayer of Yogg-Saron</span> by 2% and its healing done by 4%.</span></td></tr></table><!--?704890:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

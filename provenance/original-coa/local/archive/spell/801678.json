@@ -1,0 +1,8 @@
+{
+  "name_enus": "Stasis Ward",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Stasis Ward</b><br />13% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td>Tools:<br/><div class=\"indent q1\"><a href=\"?items&filter=cr=91;crs=4;crv=0\">Fire Totem</a><br /></div><br /><span class=\"q\">Drop a <span style=\"color: #ffffff;\">Stasis Ward</span> near you.<br /><br />After 0 sec, the ward will burst with lightning, stunning nearby enemies for 4&nbsp;sec and dealing 12+6.0 Points Per Level+NatP*.25 Nature damage.<br /><br />Can only have 1 <span style=\"color: #ffffff;\">Ward</span> active at a time.</span></td></tr></table><!--?801678:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

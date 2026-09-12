@@ -1,0 +1,8 @@
+{
+  "name_enus": "Linebreaker",
+  "icon": "ability_warrior_victoryrush",
+  "tooltip_enus": "<table><tr><td><b>Linebreaker</b><br />30% of base energy<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Smash an enemy with great force, destroying any damage absorption or damage immunity effects and reducing their armor by 25% for 5&nbsp;sec.</span></td></tr></table><!--?806220:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

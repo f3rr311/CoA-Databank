@@ -1,0 +1,8 @@
+{
+  "name_enus": "Adaptation: Brigand",
+  "icon": "achievement_boss_edwinvancleef",
+  "tooltip_enus": "<table><tr><td><b>Adaptation: Brigand</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Physical and Nature damage increased by 3%, ranged attack power reduced by 75%. <br /><br />Critical strikes with <span style=\"color: #ffffff;\">Wild Strike</span> and <span style=\"color: #ffffff;\">Flank</span> have a 50% chance to apply <span style=\"color: #ffffff;\">Roughed Up</span>, reducing Armor, and <span style=\"color: #ffffff;\">Counterstruck</span>, reducing attack power.</span></td></tr></table><!--?800089:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

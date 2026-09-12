@@ -1,0 +1,8 @@
+{
+  "name_enus": "Darkhide",
+  "icon": "ability_druid_ironfur",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Darkhide</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces Shadow damage you take by 10%, and all damage your <span style=\"color: #ffffff;\">Shadow Hound</span> takes from area of effect attacks by 80%.</span></td></tr></table><!--?705468:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lucky Shot",
+  "icon": "inv_crossbow_2h_maw_c_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lucky Shot</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of your <span style=\"color: #ffffff;\">Bolts</span> by 0% and causes them to ignore 0% of your target's Armor.</span></td></tr></table><!--?705511:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

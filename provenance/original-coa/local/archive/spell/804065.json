@@ -1,0 +1,8 @@
+{
+  "name_enus": "Protection From Light",
+  "icon": "spell_fire_twilightimmolation",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Protection From Light</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>3% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces all Holy Damage and Fire Damage taken by an ally by 40% for 10&nbsp;sec. While active, the ally is Healed for 4 to 5 every 2 sec.</span></td></tr></table><!--?804065:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

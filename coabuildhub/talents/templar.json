@@ -1,0 +1,2918 @@
+{
+ "class": {
+  "id": 19,
+  "name": "Templar",
+  "slug": "templar",
+  "color": "#F48CBA"
+ },
+ "specs": [
+  {
+   "id": 50,
+   "name": "Zealot",
+   "tabId": 50
+  },
+  {
+   "id": 16,
+   "name": "Oathkeeper",
+   "tabId": 16
+  },
+  {
+   "id": 51,
+   "name": "Crusader",
+   "tabId": 51
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 157,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Templar (class tree)",
+   "nodeCount": 38,
+   "nodes": [
+    {
+     "id": "19-87-2-0",
+     "name": "Testament of Fortitude",
+     "x": 2,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_holymeditation_border",
+     "spellId": 500678,
+     "description": "Meditate for 15 seconds, restoring 5% of your maximum health every 1 sec and reducing damage taken by -50%.Each second you will also remove 1 disease effect from yourself. Applies Sacred Restraint for 1 minute.Sacred RestraintCannot be targeted by Testaments.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "19-87-4-0",
+     "name": "Blade of Faith",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "holy_blade_templar",
+     "spellId": 803872,
+     "description": "Unleash a devastating Oath Breaker on an enemy dealing 119 + 140% SP + 70% AP Holy damage over 21 seconds. This ability can critically strike.Consumes your Oaths, dealing additional damage for each consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "19-87-6-0",
+     "name": "Divine Force",
+     "x": 6,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_priest_pathofdevout",
+     "spellId": 806153,
+     "description": "Leap at an enemy with divine force, stunning them for 6 seconds, dealing 20 + 100% SP + 55% AP Holy damage, and interrupting non-player spellcasting for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "19-87-3-1",
+     "name": "Spiritual",
+     "x": 3,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_paladin_selflesshealer",
+     "spellId": 560833,
+     "description": "Increases your Energy regeneration by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-4-0",
+      "19-87-2-0"
+     ]
+    },
+    {
+     "id": "19-87-5-1",
+     "name": "Courage",
+     "x": 5,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_karoz_leap",
+     "spellId": 707754,
+     "description": "Increases your movement speed and reduces the duration of movement slowing effects on you by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-4-0",
+      "19-87-6-0"
+     ]
+    },
+    {
+     "id": "19-87-1-2",
+     "name": "Sacred Style",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_pureofheart",
+     "spellId": 705278,
+     "description": "Increases your Holy healing done and received by 8%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-2-0"
+     ]
+    },
+    {
+     "id": "19-87-4-2",
+     "name": "Deep Meditation",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_holy_wraith_border",
+     "spellId": 300522,
+     "description": "Increases the duration of your Oath Chain by 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-3-1",
+      "19-87-5-1"
+     ]
+    },
+    {
+     "id": "19-87-7-2",
+     "name": "Pious",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_skyreach_fourblades",
+     "spellId": 706431,
+     "description": "Increases all primary attributes by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-6-0"
+     ]
+    },
+    {
+     "id": "19-87-1-3",
+     "name": "Testament of Hope",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_prayerofspirit",
+     "spellId": 1397742,
+     "description": "Summons 2 copies of yourself that charge at a nearby enemy and aid you in combat for 20 seconds.While within 15 yds of you, each copy reduces all damage you take by -25%. Applies Sacred Restraint for 1 minute.Sacred RestraintCannot be targeted by Testaments.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-87-1-2"
+     ]
+    },
+    {
+     "id": "19-87-3-3",
+     "name": "Libram of Tenacity",
+     "x": 3,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_book2motif_lordaeroncorrupted",
+     "spellId": 801461,
+     "description": "Read from your Libram of Tenacity, reducing your Physical Damage taken by -30% for 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-87-4-2"
+     ]
+    },
+    {
+     "id": "19-87-5-3",
+     "name": "Libram of Fervor",
+     "x": 5,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_book2motif_tyr",
+     "spellId": 805423,
+     "description": "Read from your Libram of Fervor, granting you spell power equal to 30% of your Agility and attack power equal to 30% of your Intellect for 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-87-4-2"
+     ]
+    },
+    {
+     "id": "19-87-7-3a",
+     "name": "Holy Crusader",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_holyring_border",
+     "spellId": 524747,
+     "description": "Reduces the cooldown of Divine Force by -30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-7-2"
+     ]
+    },
+    {
+     "id": "19-87-7-3b",
+     "name": "Scarlet Judicator",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_challange_yellow",
+     "spellId": 525024,
+     "description": "Your Divine Force now strikes 2 additional enemies near the primary target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-87-0-4",
+     "name": "Improved Benediction",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_improvedresistanceauras",
+     "spellId": 705287,
+     "description": "Benediction now grants your target armor based on your Agility and Stamina for 15 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-1-3"
+     ]
+    },
+    {
+     "id": "19-87-2-4",
+     "name": "Judicator",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_thunderclap",
+     "spellId": 706359,
+     "description": "Increases your parry and dodge chance by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-3-3",
+      "19-87-1-3"
+     ]
+    },
+    {
+     "id": "19-87-4-4",
+     "name": "Liberty",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_inscription_weaponscroll03",
+     "spellId": 705266,
+     "description": "Reduces the cooldown of your Libram spells by -30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-5-3",
+      "19-87-3-3"
+     ]
+    },
+    {
+     "id": "19-87-6-4",
+     "name": "Blessed Strikes",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_vindication",
+     "spellId": 704180,
+     "description": "Reduces the Energy cost of your Oath Breakers by -10.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-5-3",
+      "19-87-7-3a",
+      "19-87-7-3b"
+     ]
+    },
+    {
+     "id": "19-87-8-4",
+     "name": "Interdict",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_priest_vowofunity",
+     "spellId": 560116,
+     "description": "Forbid an enemy from sinning, silencing them for 6 seconds. If they are an Undead or Demon they are unable to be healed for the duration.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-87-7-3a",
+      "19-87-7-3b"
+     ]
+    },
+    {
+     "id": "19-87-0-5",
+     "name": "Tyr's Guard",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_jewelry_talisman_01",
+     "spellId": 560649,
+     "description": "Testament of Hope now summons an additional copy of yourself.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-0-4"
+     ]
+    },
+    {
+     "id": "19-87-2-5",
+     "name": "Sacred Candle",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_helm_misc_candle_a_01",
+     "spellId": 300501,
+     "description": "Reduces the cooldown of Testament of Faith by -60 sec and the duration of Sacred Restraint by -30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-2-4"
+     ]
+    },
+    {
+     "id": "19-87-4-5",
+     "name": "Deep Secrets",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "70_inscription_vantus_rune_light",
+     "spellId": 705263,
+     "description": "Increases the duration of your Librams and Testaments by 10 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-4-4"
+     ]
+    },
+    {
+     "id": "19-87-6-5",
+     "name": "Holy Constitution",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_power",
+     "spellId": 706323,
+     "description": "Increases your damage dealt versus Undead by 5, scaling with level, and increases your chance to resist disease effects by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-6-4"
+     ]
+    },
+    {
+     "id": "19-87-8-5",
+     "name": "Martyr",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_fanaticism",
+     "spellId": 300530,
+     "description": "Increases the effectiveness of Gift of Zeal by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-8-4"
+     ]
+    },
+    {
+     "id": "19-87-1-6",
+     "name": "Testament of Will",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_d3mystically",
+     "spellId": 801455,
+     "description": "Break an ally free of worldly constraints, making them immune to all movement impairing effects for 10 seconds.Applies Sacred Restraint for 1 minute.Sacred RestraintCannot be targeted by Testaments.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-87-2-5",
+      "19-87-0-5"
+     ]
+    },
+    {
+     "id": "19-87-4-6",
+     "name": "Tenacious Defender",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_sealoffury",
+     "spellId": 707385,
+     "description": "Casting Libram of Tenacity now also heals you for 20% of your maximum health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-4-5"
+     ]
+    },
+    {
+     "id": "19-87-7-6",
+     "name": "Sturdy",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_monk_envelopingmist",
+     "spellId": 681009,
+     "description": "Increases your maximum health and Energy by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-8-5",
+      "19-87-6-5"
+     ]
+    },
+    {
+     "id": "19-87-0-7",
+     "name": "Final Prayer",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_blessedlife",
+     "spellId": 705268,
+     "description": "Doubles the healing done to you by Testament of Fortitude and Testament of Faith.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-1-6"
+     ]
+    },
+    {
+     "id": "19-87-2-7",
+     "name": "Mark of Aggramar",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_holyguidance",
+     "spellId": 804928,
+     "description": "Reduces the Energy cost of your Testaments by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-1-6",
+      "19-87-4-6"
+     ]
+    },
+    {
+     "id": "19-87-4-7",
+     "name": "Finesse",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_paladinskill18_border",
+     "spellId": 705271,
+     "description": "Increases your critical strike chance by 2% and reduces the duration of disarm effects against you by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-4-6"
+     ]
+    },
+    {
+     "id": "19-87-6-7",
+     "name": "Judgement of the Gods",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_skill_161_border",
+     "spellId": 524767,
+     "description": "Increases the critical strike chance of Titanstrike by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-4-6",
+      "19-87-7-6"
+     ]
+    },
+    {
+     "id": "19-87-8-7",
+     "name": "Determined",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_heroism",
+     "spellId": 705256,
+     "description": "Your Temple Guardian now makes your next ability within 5 seconds free of cost.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-7-6"
+     ]
+    },
+    {
+     "id": "19-87-1-8",
+     "name": "Profound Enlightenment",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_corruptionmind_border",
+     "spellId": 680953,
+     "description": "Attain enlightenment, reducing the remaining cooldown of Testaments by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-87-2-7",
+      "19-87-0-7"
+     ]
+    },
+    {
+     "id": "19-87-3-8",
+     "name": "Sacred Defense",
+     "x": 3,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_trinket_bastion_01_gold",
+     "spellId": 705306,
+     "description": "When you take Physical damage you now strike back at enemies for 15% of the damage dealt as Holy damage. Can only occur once per sec. ",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-2-7",
+      "19-87-4-7"
+     ]
+    },
+    {
+     "id": "19-87-5-8",
+     "name": "Sanctify",
+     "x": 5,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_paladin_inquisition",
+     "spellId": 705274,
+     "description": "Your Libram spells now grant you 10% increased melee haste for 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-4-7",
+      "19-87-6-7"
+     ]
+    },
+    {
+     "id": "19-87-7-8",
+     "name": "Pulverizing",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_holy_healingaura",
+     "spellId": 524620,
+     "description": "Damage dealt by Condemn now has a 15% chance to consecrate the earth around you with holy fervor, dealing 91 + 22.5% holy SP + 10% AP Holy damage to nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-8-7",
+      "19-87-6-7"
+     ]
+    },
+    {
+     "id": "19-87-2-9",
+     "name": "Silverhand Incantation",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_paladinskill06_border",
+     "spellId": 801465,
+     "description": "Chant a silverhand incantation and toss a holy hammer at your target, charging you to them and removing Sacred Restraint from you and them if they are an ally.Upon reaching your target you deal 300 + 200% AP Holy damage to all nearby enemies and heal nearby allies for the same amount.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-87-1-8",
+      "19-87-3-8"
+     ]
+    },
+    {
+     "id": "19-87-4-9",
+     "name": "Binding Scripture",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_d3breathofheaven",
+     "spellId": 801457,
+     "description": "Healing an ally now redirects 10% of their damage taken to you and reduces your damage taken by -5% for 10 seconds, stacking 3 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-87-5-8",
+      "19-87-3-8"
+     ]
+    },
+    {
+     "id": "19-87-6-9",
+     "name": "Glory",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_d3innersanctuary",
+     "spellId": 801481,
+     "description": "Bring glory to the holy light, increasing your attack speed by 30% for 5 seconds.After the duration, you gain Downfall. DownfallYou heal for 50% of all damage dealt for 5 seconds. After the duration, you gain Redemption.RedemptionIncreases attack speed by 30% and you heal for 50% of all damage dealt for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-87-7-8",
+      "19-87-5-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 16,
+   "name": "Oathkeeper",
+   "nodeCount": 41,
+   "nodes": [
+    {
+     "id": "19-16-4-0",
+     "name": "Sacred Swing",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "5_staffstrike_border",
+     "spellId": 705293,
+     "description": "Swing at enemies in front of you, dealing 125% High Threat Weapon Damage plus 9, slowing their attack and movement speed by -20% for 10 seconds.Only usable after avoiding an attack.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "19-16-10-0",
+     "name": "Keeping the Oath",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "inv_staff_2h_nazmirraid_d_01",
+     "spellId": 92109,
+     "description": "Level 10 PassiveYou now delay 40% of direct damage taken, instead taking it over 8 seconds.In addition, you no longer consume your Oaths with Oath Breakers.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 1
+    },
+    {
+     "id": "19-16-2-1",
+     "name": "Blessed Padding",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "spell_holy_powerwordshield",
+     "spellId": 301311,
+     "description": "Increases your Armor contribution from mail items by 50% and reduces damage taken from area of effect attacks by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-4-0"
+     ]
+    },
+    {
+     "id": "19-16-6-1",
+     "name": "Staffguard",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "inv_staff_05",
+     "spellId": 705295,
+     "description": "Casting Sacred Swing now grants you Staffguard, absorbing 125 + 30% Stamina damage, scaling with Stamina, parry and dodge rating, for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-4-0"
+     ]
+    },
+    {
+     "id": "19-16-1-2",
+     "name": "Paragon",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "spell_holy_surgeoflight",
+     "spellId": 706357,
+     "description": "Increases your Stamina by 10, plus an additional amount equal to 10% of your Agility.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-2-1"
+     ]
+    },
+    {
+     "id": "19-16-4-2",
+     "name": "Reckoning",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "custom_t_nhance_rpg_icons_holyrod_border",
+     "spellId": 805421,
+     "description": "Unleash a powerful Oath Breaker, dealing 27 + 17.5% AP + 50% Stamina Holy damage and restoring 15 Energy for each enemy struck.Consumes your Oaths, dealing additional damage for each consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-16-6-1",
+      "19-16-2-1"
+     ]
+    },
+    {
+     "id": "19-16-7-2",
+     "name": "Bells of Light",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "ability_bastion_paladin",
+     "spellId": 801204,
+     "description": "Increases your Agility, Intellect, and hit chance by 3%",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-6-1"
+     ]
+    },
+    {
+     "id": "19-16-10-2",
+     "name": "Graceful Fighter",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "spell_holy_holyguidance",
+     "spellId": 705303,
+     "description": "Level 20 PassiveIncreases your parry rating by 20% of Agility and your dodge rating by 20% of Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "19-16-10-0"
+     ]
+    },
+    {
+     "id": "19-16-1-3",
+     "name": "Sacred Oath",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "inv_warbreaker",
+     "spellId": 712346,
+     "description": "Critical strikes now remove 1 sec from the duration of Oathkeeper when used.Oathkeeper40% of damage taken is now delayed and dealt to you over 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-1-2"
+     ]
+    },
+    {
+     "id": "19-16-4-3",
+     "name": "Sacred Resistance",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "inv_ascend_staff_04_b",
+     "spellId": 301309,
+     "description": "Casting Reckoning now increases your Armor by 15% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-4-2"
+     ]
+    },
+    {
+     "id": "19-16-7-3",
+     "name": "Grace of Aman'thul",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "inv_trinket_80_titan01d",
+     "spellId": 301059,
+     "description": "Reduces the Energy cost of Righteous Lunge by -5 and Sacred Swing by -10.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-7-2"
+     ]
+    },
+    {
+     "id": "19-16-2-4",
+     "name": "Faith Guard",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "spell_priest_angelicbulwark",
+     "spellId": 705259,
+     "description": "While a Libram is active, your Chastise will now unleash a line of holy power, dealing 112 + 25% AP High Threat Holy damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-1-3",
+      "19-16-4-3"
+     ]
+    },
+    {
+     "id": "19-16-4-4",
+     "name": "Absolution",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "custom_priestskill_03_border",
+     "spellId": 800424,
+     "description": "Taunt all enemies within 8 yds for 4 seconds and increase your movement speed by 50% for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-16-4-3"
+     ]
+    },
+    {
+     "id": "19-16-6-4",
+     "name": "Conviction",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "ability_monk_spearhand",
+     "spellId": 712677,
+     "description": "Casting Sacred Swing now increases your melee haste by 5% for 15 seconds, stacking 4 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-4-3",
+      "19-16-7-3"
+     ]
+    },
+    {
+     "id": "19-16-10-4",
+     "name": "Holy Books",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "5_priestskill29_border",
+     "spellId": 706468,
+     "description": "Level 30 PassiveUsing a Libram now removes 70% of the delayed damage from Oathkeeper.Oathkeeper40% of damage taken is now delayed and dealt to you over 8 seconds.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "19-16-10-2"
+     ]
+    },
+    {
+     "id": "19-16-1-5",
+     "name": "Disciplined Mind",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "spell_holy_absolution",
+     "spellId": 680399,
+     "description": "Increases the healing of Benediction by 15% and causes it to dispel 1 poison and disease effect.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-2-4"
+     ]
+    },
+    {
+     "id": "19-16-2-5",
+     "name": "Disciplined Blows",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "inv_hammer_18",
+     "spellId": 680397,
+     "description": "Your healing done triggers a holy pulse around healed targets, dealing 89 + 5% AP + 20% Agility Holy damage to nearby enemies.Cnly occur once every 0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-2-4"
+     ]
+    },
+    {
+     "id": "19-16-3-5",
+     "name": "Call of the Monastery",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "ability_paladin_veneration",
+     "spellId": 560550,
+     "description": "Increases the attack power of all party and raid members 5%. Does not stack with similar effects.In addition, increases your attack power by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-4-4",
+      "19-16-2-4"
+     ]
+    },
+    {
+     "id": "19-16-5-5",
+     "name": "Fortified Body",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "ability_racial_brushitoff",
+     "spellId": 300515,
+     "description": "Allies within 40 yds receive 6% more healing. Does not stack with similar effects.Additionally, increases your maximum health by 6%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-4-4",
+      "19-16-6-4"
+     ]
+    },
+    {
+     "id": "19-16-6-5a",
+     "name": "Way of the Monk",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "ability_monk_boughstrike",
+     "spellId": 805420,
+     "description": "Damage dealt by Sacred Swing and Reckoning now reduces casting speed by -10% for 10 seconds, stacking 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-6-4"
+     ]
+    },
+    {
+     "id": "19-16-6-5b",
+     "name": "Holy Warstaff",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "inv_staff_28",
+     "spellId": 705307,
+     "description": "Increases the damage of Reckoning by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-16-7-5",
+     "name": "Parry Dance",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "inv_ascend_whirlpool_b_01",
+     "spellId": 804912,
+     "description": "When you critically strike with auto attacks or parry an attack, your chance to parry is now increased by 3% for 5 seconds, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-6-4"
+     ]
+    },
+    {
+     "id": "19-16-1-6a",
+     "name": "Justicar of the Light",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "ability_paladin_infusionoflight",
+     "spellId": 707663,
+     "description": "Removes the cooldown from Benediction, but increases its Energy cost by 10.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-2-5",
+      "19-16-1-5"
+     ]
+    },
+    {
+     "id": "19-16-1-6b",
+     "name": "Guardian of the Light",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "custom_23_light_blow_border",
+     "spellId": 707364,
+     "description": "Casting Benediction now reduces the cost of your next Temple Guardian by -50% for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-16-4-6",
+     "name": "Barrier of Light",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "misc_legionfall_paladin",
+     "spellId": 805417,
+     "description": "Emit saving light, increasing the healing received by nearby party and raid members by 40% for 15 seconds.For the duration, threat generated by your allies is redirected to you.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-16-3-5",
+      "19-16-5-5"
+     ]
+    },
+    {
+     "id": "19-16-7-6",
+     "name": "Duty Calls",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "spell_holy_greaterblessingoflight",
+     "spellId": 705286,
+     "description": "Casting abilities that grant an Oath now increases your damage dealt and movement speed by 2% for 15 seconds, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-6-5a",
+      "19-16-7-5",
+      "19-16-6-5b"
+     ]
+    },
+    {
+     "id": "19-16-10-6",
+     "name": "Lorescribe",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "achievement_faction_lorewalkers",
+     "spellId": 804927,
+     "description": "Level 40 PassiveCasting Oath Breaker abilities now reduce the cooldown of Librams by -4 sec.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "19-16-10-4"
+     ]
+    },
+    {
+     "id": "19-16-0-7",
+     "name": "Spiritual Abdicator",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "spell_holy_innerfire",
+     "spellId": 803219,
+     "description": "Your Testament of Hope now reduces damage taken by an additional 0% per copy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-1-6a",
+      "19-16-1-6b"
+     ]
+    },
+    {
+     "id": "19-16-2-7",
+     "name": "Untainted",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "ability_priest_angelicbulwark",
+     "spellId": 705298,
+     "description": "Effectively healing yourself now reduces your Physical damage taken by -10 + 10% Stamina for 8 seconds.Can only occur every 15 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-1-6a",
+      "19-16-4-6",
+      "19-16-1-6b"
+     ]
+    },
+    {
+     "id": "19-16-4-7a",
+     "name": "Patience",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "monk_ability_avertharm",
+     "spellId": 712678,
+     "description": "Increases the duration of Interdict by 2 sec and its cooldown by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-4-6"
+     ]
+    },
+    {
+     "id": "19-16-4-7b",
+     "name": "Justice",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "5_paladinskill18_border",
+     "spellId": 712437,
+     "description": "Your Interdict now strikes 1 additional nearby target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-16-6-7",
+     "name": "Uther's Legacy",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "inv_mace_1h_uther_d_01",
+     "spellId": 706385,
+     "description": "Your Condemn now heals you for 75% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-7-6",
+      "19-16-4-6"
+     ]
+    },
+    {
+     "id": "19-16-8-7a",
+     "name": "Transcendent Guardian",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "ability_bastion_priest",
+     "spellId": 804571,
+     "description": "Charging to an ally with Temple Guardian now has a 40% chance to refresh a charge.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-7-6"
+     ]
+    },
+    {
+     "id": "19-16-8-7b",
+     "name": "Armor of Faith",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "ability_paladin_touchedbylight",
+     "spellId": 804930,
+     "description": "Whenever the absorption shield from Staffguard breaks, inflict 207 + 20% AP + 50% holy SP High Threat Holy damage to nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-16-2-8",
+     "name": "Eternal Blessing",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "ability_priest_spiritoftheredeemer",
+     "spellId": 705300,
+     "description": "Increases your Holy damage and healing done by 15% for 30 seconds.While active, Oath Breakers deal an additional 141 + 12% AP Holy damage to nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-16-0-7",
+      "19-16-2-7"
+     ]
+    },
+    {
+     "id": "19-16-4-8",
+     "name": "Mending Ward",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "spell_holy_pureofheart",
+     "spellId": 806273,
+     "description": "Oath Breakers now grant you a stack of Mending Ward for 15 seconds, stacking 3 times.Mending WardNext instance of direct damage taken while below 35% maximum health will consume these stacks to heal you for 395 + 25% Stamina. Healing scales with your Stamina and parry rating.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-4-7a",
+      "19-16-6-7",
+      "19-16-2-7",
+      "19-16-4-7b"
+     ]
+    },
+    {
+     "id": "19-16-6-8",
+     "name": "Battlepriest",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "ability_thunderclap",
+     "spellId": 801202,
+     "description": "While above 80% health or below 20% health, you now take 20% reduced Magic damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-8-7a",
+      "19-16-6-7",
+      "19-16-8-7b"
+     ]
+    },
+    {
+     "id": "19-16-10-8",
+     "name": "Light's Ward",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "spell_holy_prayerofhealing02",
+     "spellId": 300529,
+     "description": "Level 50 PassiveIncreases all magic resistances equal to 10% of your dodge rating and reduces your damage taken from periodic effects by -15%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "19-16-10-6"
+     ]
+    },
+    {
+     "id": "19-16-2-9",
+     "name": "Eternally Devoted",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "_d3teleport",
+     "spellId": 573452,
+     "description": "Damage dealt through Eternal Blessing now reduces the cooldown of Libram spells by -4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-2-8"
+     ]
+    },
+    {
+     "id": "19-16-4-9",
+     "name": "Tome of Light",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "inv_misc_book_17",
+     "spellId": 805422,
+     "description": "Grants a shield equal to 100% of your maximum health for 30 seconds, resets the cooldown of Barrier of Light and Tranquil Circle, and grants an additional effect for each.Tome of Light: Barrier of LightYour next Barrier of Light within 30 seconds removes the Oathkeeper stagger debuff.Tome of Light: Tranquil CircleYour next Tranquil Circle within 30 seconds triggers instantly.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-16-2-8",
+      "19-16-6-8",
+      "19-16-4-8"
+     ]
+    },
+    {
+     "id": "19-16-6-9",
+     "name": "Lightkeeper",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 16,
+     "icon": "inv_priestmount_holy",
+     "spellId": 560835,
+     "description": "Periodic damage dealt by Condemn now has a 15% chance to increase your parry chance by 2% for 8 seconds, stacking 3 times.Periodic damage dealt by Condemn also has a 15% chance to burst, dealing 100 + 22% AP Holy damage to up to 5 enemies within 5 yds of the target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-16-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 50,
+   "name": "Zealot",
+   "nodeCount": 40,
+   "nodes": [
+    {
+     "id": "19-50-4-0",
+     "name": "Vindication",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "nhi_holystrike_border",
+     "spellId": 801446,
+     "description": "Strike an enemy with zeal, dealing 31 + 28.5% AP + 35% SP Physical damage, triggering Zealotry, and granting an Oath.Oath: Your damaging abilities have a 10% chance to trigger Zealotry.Zealotry (Proc)Deals 40% off-hand Weapon Damage as Holy Damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "19-50-10-0",
+     "name": "Zealotry",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "custom_paladinskill_24_border",
+     "spellId": 92108,
+     "description": "Level 10 PassiveYour off-hand auto attacks now trigger Zealotry.Zealotry (Proc)Deals 40% off-hand Weapon Damage as Holy Damage.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-50-4-1",
+     "name": "Righteous Upheaval",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "_monkability_uplift_yellow",
+     "spellId": 501562,
+     "description": "Unleash a dominating Oath Breaker, dealing 31 + 45% AP + 45% SP Physical damage, increased by 3% for each time you triggered Zealotry during your Oath Chain.Consumes your Oaths, dealing additional damage for each consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-50-4-0"
+     ]
+    },
+    {
+     "id": "19-50-2-2",
+     "name": "Solemn Soldier",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "5_assassinskill27_border",
+     "spellId": 572546,
+     "description": "Increases your melee haste by 5% and expertise by 5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-4-1"
+     ]
+    },
+    {
+     "id": "19-50-6-2",
+     "name": "Combat Training",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "ability_monk_quipunch",
+     "spellId": 706320,
+     "description": "Increases the effectiveness of Oaths by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-4-1"
+     ]
+    },
+    {
+     "id": "19-50-10-2",
+     "name": "Calm Combatant",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "spell_holy_auramastery",
+     "spellId": 705281,
+     "description": "Level 20 PassiveIncreases your Holy spell damage by 30% of your attack power.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "19-50-10-0"
+     ]
+    },
+    {
+     "id": "19-50-1-3",
+     "name": "Oath Flow",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "spell_holy_blindingheal",
+     "spellId": 705283,
+     "description": "Increases the duration of Oath Chain by 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-2-2"
+     ]
+    },
+    {
+     "id": "19-50-3-3",
+     "name": "Radiance",
+     "x": 3,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "inv_sword_49",
+     "spellId": 706318,
+     "description": "Reduces the Energy cost of Vindication by -5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-2-2"
+     ]
+    },
+    {
+     "id": "19-50-5-3a",
+     "name": "Upheave!",
+     "x": 5,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "nhi_holyswirl_border",
+     "spellId": 520442,
+     "description": "Increases the critical damage of Righteous Upheaval by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-6-2"
+     ]
+    },
+    {
+     "id": "19-50-5-3b",
+     "name": "Battle Hardened",
+     "x": 5,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "custom_t_nhance_rpg_icons_holyarrow_border",
+     "spellId": 706309,
+     "description": "Reduces the cooldown of Righteous Upheaval by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-50-7-3",
+     "name": "Martial Paladin",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "inv_glaive_1h_artifactaldrochi_d_01dual",
+     "spellId": 705250,
+     "description": "Increases your Agility by 5% and your chance to hit by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-6-2"
+     ]
+    },
+    {
+     "id": "19-50-2-4",
+     "name": "Bursting Impact",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "spell_paladin_lightshammer",
+     "spellId": 705276,
+     "description": "Increases your off-hand weapon damage by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-1-3"
+     ]
+    },
+    {
+     "id": "19-50-4-4",
+     "name": "Libram of Zeal",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "_book2motif_bloodelf1",
+     "spellId": 801466,
+     "description": "Read from your Libram of Mortal Abdication, increasing your melee haste by 20% and causes your damaging abilities to reduce the cooldown of Righteous Upheaval by -2 sec for 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-50-5-3a",
+      "19-50-3-3",
+      "19-50-5-3b"
+     ]
+    },
+    {
+     "id": "19-50-6-4",
+     "name": "Chakra of Power",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "priest_icon_chakra_red",
+     "spellId": 803158,
+     "description": "Melee attacks now restore 1 Energy, plus an additional 2 Energy when they critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-7-3"
+     ]
+    },
+    {
+     "id": "19-50-10-4",
+     "name": "Holy Upheaval",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "custom_t_nhance_rpg_icons_holyhand_border",
+     "spellId": 572547,
+     "description": "Level 30 PassiveIncreases the effectiveness Righteous Upheaval gains per trigger of Zealotry by 100%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "19-50-10-2"
+     ]
+    },
+    {
+     "id": "19-50-0-5a",
+     "name": "Light's Guidance",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "nhi_holyfire_00_border",
+     "spellId": 524765,
+     "description": "Healing with Benediction now causes your next Benediction to heal for 25% more for 30 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-1-3"
+     ]
+    },
+    {
+     "id": "19-50-0-5b",
+     "name": "Holy Light",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "nhi_holy_tornado_border",
+     "spellId": 706449,
+     "description": "Your Benediction now has a 1.5 sec cast time, but now heals for 100% more.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-50-2-5",
+     "name": "Blade Sermon",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "5_druideskill26_border",
+     "spellId": 572548,
+     "description": "Increases the Weapon Damage dealt by Zealotry by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-2-4"
+     ]
+    },
+    {
+     "id": "19-50-4-5a",
+     "name": "Priest Training",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "5_priestskill07_border",
+     "spellId": 504561,
+     "description": "Triggering Zealotry now also heals you for 3% of your missing health.Zealotry (Proc)Deals 40% off-hand Weapon Damage as Holy Damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-4-4"
+     ]
+    },
+    {
+     "id": "19-50-4-5b",
+     "name": "Paladin Training",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "custom_paladinskill_24_border",
+     "spellId": 504808,
+     "description": "Triggering Zealotry now has an 8% chance to grant you an additional auto attack on your next strike.Zealotry (Proc)Deals 40% off-hand Weapon Damage as Holy Damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-50-6-5",
+     "name": "One-Punch Man",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "inv_gauntlets_25",
+     "spellId": 705284,
+     "description": "Increases the the damage of Oath Breakers and Titanstrike by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-6-4"
+     ]
+    },
+    {
+     "id": "19-50-8-5",
+     "name": "Chakra of Light",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "priest_icon_chakra",
+     "spellId": 803159,
+     "description": "Reduces the cooldown of Testaments by -30 sec and Oath Breakers now heal allies around the target for 20 + 35% SP.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-7-3"
+     ]
+    },
+    {
+     "id": "19-50-1-6",
+     "name": "Force of Golganneth",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "nhi_holyinfusion_border",
+     "spellId": 500694,
+     "description": "Explode with holy power, dealing 310 + 25% AP + 25% holy SP Holy damage and triggering Zealotry every 1 sec to nearby enemies for 5 seconds.Zealotry (Proc)Deals 40% off-hand Weapon Damage as Holy Damage.While active, your Temple Guardian spell has its Energy cost reduced by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-50-0-5a",
+      "19-50-2-5",
+      "19-50-0-5b"
+     ]
+    },
+    {
+     "id": "19-50-3-6",
+     "name": "Deliverance",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "spell_holy_greaterblessingofsalvation",
+     "spellId": 704116,
+     "description": "Critically striking with Vindication or Righteous Lunge now deals 50% additional Physical damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-4-5a",
+      "19-50-2-5",
+      "19-50-4-5b"
+     ]
+    },
+    {
+     "id": "19-50-5-6",
+     "name": "Condemnation",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "spell_holy_heal",
+     "spellId": 704175,
+     "description": "Increases the critical strike chance gained through Condemn by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-4-5a",
+      "19-50-6-5",
+      "19-50-4-5b"
+     ]
+    },
+    {
+     "id": "19-50-7-6",
+     "name": "Iron Penance",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "custom_paladinskill_25_nobg_border",
+     "spellId": 523712,
+     "description": "Dealing damage with Zealotry now applies Iron Penance to the target, increasing their Physical damage taken by you by 1% for 3 seconds, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-6-5",
+      "19-50-8-5"
+     ]
+    },
+    {
+     "id": "19-50-10-6",
+     "name": "Divine Fury",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "nhi_hammeroflight_border",
+     "spellId": 504107,
+     "description": "Level 40 PassiveTriggering Zealotry 10 times now transforms your Chastise into Divine Fury. Divine FuryUnleash divine fury, dealing 91 + 45% holy SP + 25% AP Holy damage to an enemy and up to 4 nearby enemies and reduces their armor by -5% for 20 seconds, stacking 5 times.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "19-50-10-4"
+     ]
+    },
+    {
+     "id": "19-50-0-7",
+     "name": "Pious Sweep",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "inv_sword_2h_lightforged_c_01",
+     "spellId": 520034,
+     "description": "Increases the damage of Chastise by 25% on enemies above 75% health or affected by Tranquil Circle.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-0-5a",
+      "19-50-1-6",
+      "19-50-0-5b"
+     ]
+    },
+    {
+     "id": "19-50-2-7",
+     "name": "Heaven's Finest",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "custom_t_nhance_rpg_icons_holymeditation_border",
+     "spellId": 806516,
+     "description": "Damaging abilities now grant Heaven's Finest for 12 seconds, stacking 6 times.Heaven&#39;s FinestIncreases your movement speed by 5%.At 6 stacks, increases your Energy regeneration by 100% for 8 seconds.Additional applications do not refresh the duration.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-1-6",
+      "19-50-3-6"
+     ]
+    },
+    {
+     "id": "19-50-4-7",
+     "name": "Transcending Strikes",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "ability_paladin_beaconofinsight",
+     "spellId": 804897,
+     "description": "Your Divine Force will now trigger a -30 sec reduced cooldown when used on enemies affected by Blade of Faith.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-5-6",
+      "19-50-3-6"
+     ]
+    },
+    {
+     "id": "19-50-6-7",
+     "name": "Devotion of Khaz'goroth",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "achievement_dungeon_ulduarraid_ironsentinel_01",
+     "spellId": 560096,
+     "description": "Increases all party and raid member's melee and ranged haste by 10%. Does not stack with similar effects.Damage dealt with auto attacks reduce the cooldown of Libram spells by -0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-5-6",
+      "19-50-7-6"
+     ]
+    },
+    {
+     "id": "19-50-8-7a",
+     "name": "Fervent Castigation",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "spell_holy_auraoflight",
+     "spellId": 707606,
+     "description": "Casting Righteous Upheaval or Blade of Faith now grants you Oath: Retribution and starts your Oath Chain.Oath: RetributionCritical damage increased by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-8-5",
+      "19-50-7-6"
+     ]
+    },
+    {
+     "id": "19-50-8-7b",
+     "name": "Condemnation",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "inv_axe_2h_pvppandarias2_c_01green",
+     "spellId": 706325,
+     "description": "Dealing damage with Condemn, Holy Cleave, or Blade of Faith now has a 15% chance to trigger Zealotry if you are within melee range of your target.Zealotry (Proc)Deals 40% off-hand Weapon Damage as Holy Damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-50-2-8",
+     "name": "One With The Light",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "custom_paladinskill_01_border",
+     "spellId": 504807,
+     "description": "Casting Oath Breakers now triggers Zealotry on your target and reduces the cooldown of Librams, Force of Golganneth, and Mortal Abdication by -1 sec.Zealotry (Proc)Deals 40% off-hand Weapon Damage as Holy Damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-0-7",
+      "19-50-2-7"
+     ]
+    },
+    {
+     "id": "19-50-4-8",
+     "name": "Might of Aggramar",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "spell_holy_innerfire",
+     "spellId": 803163,
+     "description": "Physical damage dealt now has a 25% chance to increase the tick rate and reduce cooldown of your next Blade of Faith by -10%, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-6-7",
+      "19-50-2-7",
+      "19-50-4-7"
+     ]
+    },
+    {
+     "id": "19-50-6-8",
+     "name": "Blessing of Eonar",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "achievement_boss_argus_eonar",
+     "spellId": 705290,
+     "description": "Using Libram spells now increases your damage dealt and healing done by 10% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-8-7a",
+      "19-50-6-7",
+      "19-50-8-7b"
+     ]
+    },
+    {
+     "id": "19-50-10-8",
+     "name": "Unbroken Creed",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "nhi_lightportal_border",
+     "spellId": 804932,
+     "description": "Level 50 PassiveDamaging abilities now grants you Unbroken Creed for 15 seconds, stacking up to 3 times.When you use a damaging Oath Breaker or Divine Fury you now consume the stacks and auto attack your target an amount of times equal to your stack count.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "19-50-10-6"
+     ]
+    },
+    {
+     "id": "19-50-2-9",
+     "name": "Norgannon's Wrath",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "nhi_holywhirlpool_border",
+     "spellId": 524739,
+     "description": "Target an enemy and leap into the air. After a short delay, you blast them with immense holy force, dealing 1506 + 100% holy SP + 100% AP Holy damage to up to 10 enemies within 5 yds and reduces their damage and healing done by -10% for 5 seconds.Damage dealt pierces all immunities, resistances, and damage absorption effects.Scales with modifiers to Chastise.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-50-2-8"
+     ]
+    },
+    {
+     "id": "19-50-4-9",
+     "name": "Blessing of Aggramar",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "achievement_dungeon_ulduarraid_titan_01",
+     "spellId": 300502,
+     "description": "Righteous Lunge now has a 25% chance to generate an additional stack of Oath: Righteous Lunge.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-2-8",
+      "19-50-4-8",
+      "19-50-6-8"
+     ]
+    },
+    {
+     "id": "19-50-6-9",
+     "name": "Fury of Aggramar",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 50,
+     "icon": "achievement_boss_argus_aggramar",
+     "spellId": 801480,
+     "description": "Increases the damage dealt by Libram of Consecration by 100% and the effectiveness of your Librams by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-50-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 51,
+   "name": "Crusader",
+   "nodeCount": 38,
+   "nodes": [
+    {
+     "id": "19-51-4-0",
+     "name": "Righteous Tempest",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "_whirlwind_yellow",
+     "spellId": 805409,
+     "description": "Unleash a whirling Oath Breaker, dealing Weapon Damage plus 71u+SP*0.25 damage to nearby enemies, scaling with spell power, every 1 sec for 3 seconds.Consumes your Oaths, dealing additional damage for each consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "19-51-10-0",
+     "name": "Scourgebane",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "nhi_firesword_border",
+     "spellId": 92111,
+     "description": "Level 10 PassiveDirect damage dealt now has a 20% chance to strike an enemy with Scourgebane, dealing an additional 162 + 25% SP + 15% AP Holyflame Damage.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 1
+    },
+    {
+     "id": "19-51-4-1",
+     "name": "Argent Blade",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "wakeoffashes",
+     "spellId": 804929,
+     "description": "Crush an enemy with argent fervor, dealing 160% Weapon Damage plus 15 + 35% AP + 100% holy SP, healing you equal to the damage dealt, and extending the duration of your Oath Chain by 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-51-4-0"
+     ]
+    },
+    {
+     "id": "19-51-2-2",
+     "name": "Aggramar's Rage",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "spell_holy_retributionaura",
+     "spellId": 560650,
+     "description": "Increases your Holy critical strike chance by 3% and your expertise by 5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-4-1"
+     ]
+    },
+    {
+     "id": "19-51-6-2",
+     "name": "Pure Focus",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "spell_arcane_focusedpower",
+     "spellId": 705253,
+     "description": "Increases the chance to trigger Scourgebane by 5% and your chance to hit by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-4-1"
+     ]
+    },
+    {
+     "id": "19-51-10-2",
+     "name": "Light's Chosen",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "custom_paladinskill_02_border",
+     "spellId": 301310,
+     "description": "Level 20 PassiveIncreases your spell power by 30% of your Agility and your critical strike rating by 15% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "19-51-10-0"
+     ]
+    },
+    {
+     "id": "19-51-1-3",
+     "name": "Warrior of Tyr",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "nhi_holyhammer_border",
+     "spellId": 301253,
+     "description": "Periodic damage dealt now has a 10% chance to generate 5 Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-2-2"
+     ]
+    },
+    {
+     "id": "19-51-2-3",
+     "name": "Chivalric",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "ability_paladin_veneration",
+     "spellId": 705272,
+     "description": "Increases your critical damage with Holy spells and abilities by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-2-2"
+     ]
+    },
+    {
+     "id": "19-51-4-3",
+     "name": "Warrior of Dawn",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "inv_sword_1h_deathknight_d_01",
+     "spellId": 560648,
+     "description": "Melee damage dealt now has a 10% chance to reset the cooldown and reduce the Energy cost of your next Argent Blade by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-6-2",
+      "19-51-2-2"
+     ]
+    },
+    {
+     "id": "19-51-6-3",
+     "name": "Righteousness",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "inv_helmet_74",
+     "spellId": 680891,
+     "description": "Your Chastise now always triggers Scourgebane on your target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-6-2"
+     ]
+    },
+    {
+     "id": "19-51-7-3",
+     "name": "Paladin Training",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "nhi_holy_beam_border",
+     "spellId": 520009,
+     "description": "Increases the damage of Righteous Lunge and Argent Blade by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-6-2"
+     ]
+    },
+    {
+     "id": "19-51-1-4a",
+     "name": "Scarlet Secrets",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "_letter_lordaeronscarletcrusade",
+     "spellId": 520812,
+     "description": "Every 2nd cast of Argent Blade now grants you Oath: Retribution.Oath: RetributionCritical damage increased by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-1-3",
+      "19-51-2-3"
+     ]
+    },
+    {
+     "id": "19-51-1-4b",
+     "name": "Teachings of the Cathedral",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "inv_plate_scarletcrusade_c_01_helm",
+     "spellId": 520032,
+     "description": "Your Oath: Condemn now provides 5% additional critical strike chance.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-51-4-4",
+     "name": "Scourge-Defense Training",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "spell_holy_redemption",
+     "spellId": 520608,
+     "description": "Warrior of Dawn now also increases the damage and critical strike chance of your next Argent Blade by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-4-3"
+     ]
+    },
+    {
+     "id": "19-51-7-4a",
+     "name": "Whirling Tempest",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "nhi_snowwhirlwind_border",
+     "spellId": 300504,
+     "description": "While Righteous Tempest is active you gain 20% increased movement speed. ",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-7-3",
+      "19-51-6-3"
+     ]
+    },
+    {
+     "id": "19-51-7-4b",
+     "name": "Holy Tempest",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "nhi_holy_tornado_border",
+     "spellId": 301339,
+     "description": "Damage dealt by Righteous Tempest now spreads Condemn on affected enemies to a nearby enemy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "19-51-10-4",
+     "name": "Scarlet Training",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "nhi_fieryhammer_border",
+     "spellId": 301065,
+     "description": "Level 30 PassiveCasting Argent Blade while Warrior of Dawn is active now transforms your next Chastise into Scarlet Hammer.Scarlet HammerDrop a scarlet hammer on an enemy for 155% Weapon Damage plus 35 as Holy Damage, causing the Templar's attacks to ignore 10% of their Armor and giving each auto attack a chance to heal the Templar for 2% of their maximum health for 30 seconds.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "19-51-10-2"
+     ]
+    },
+    {
+     "id": "19-51-0-5",
+     "name": "Tyr's Blessing",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "inv_hammer_01",
+     "spellId": 705285,
+     "description": "Condemn now stacks 1 additional time.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-1-4a",
+      "19-51-1-4b"
+     ]
+    },
+    {
+     "id": "19-51-3-5",
+     "name": "Retribution",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "nhi_holyfire_00_border",
+     "spellId": 707391,
+     "description": "Melee damage dealt now has a 20% chance to strike 2 additional times for 30% of the damage dealt as Holy Damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-4-4",
+      "19-51-2-3"
+     ]
+    },
+    {
+     "id": "19-51-5-5",
+     "name": "Judgement",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "ability_racial_holyresistance",
+     "spellId": 300520,
+     "description": "Increases the damage of Scourgebane, Scarlet Hammer, and Titanstrike by 25% on enemies below 20% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-4-4",
+      "19-51-6-3"
+     ]
+    },
+    {
+     "id": "19-51-8-5",
+     "name": "Focused",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "nhi_fierywhirl_border",
+     "spellId": 300524,
+     "description": "Increases the damage of Blade of Faith and Righteous Tempest by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-7-4a",
+      "19-51-7-4b"
+     ]
+    },
+    {
+     "id": "19-51-0-6",
+     "name": "Templar's Might",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "achievement_reputation_argentcrusader",
+     "spellId": 705291,
+     "description": "Your Righteous Lunge and Chastise used on enemies affected by your Condemn now deal 6% increased damage per stack.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-0-5"
+     ]
+    },
+    {
+     "id": "19-51-2-6",
+     "name": "Crusader's Brand",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "nhi_holy_toglory_border",
+     "spellId": 300513,
+     "description": "Brand an enemy for 20 seconds, preventing them from mounting, fleeing, or increasing their movement speed above normal movement speed and when they deal direct damage they take 243 + 27.5% holy SP + 18.5% AP Holy Damage.While marked enemies can always be seen by the Crusader even while stealthed or invisible.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-51-1-4a",
+      "19-51-3-5",
+      "19-51-1-4b"
+     ]
+    },
+    {
+     "id": "19-51-4-6",
+     "name": "Light's Echo",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "ability_monk_clashingoxcharge",
+     "spellId": 520017,
+     "description": "Argent Blade now has a 10% chance to strike an additional time.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-5-5",
+      "19-51-3-5"
+     ]
+    },
+    {
+     "id": "19-51-6-6",
+     "name": "Divine Charge",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "ability_mount_charger",
+     "spellId": 527023,
+     "description": "You and your party members leap upon a divine steed, increasing their movement speed by 100% and causing them to trample nearby enemies for 119 + 20% AP + 40% holy SP Holy Damage every 1 sec for 15 seconds.While active, casting does not dismount you or your allies. Can only be used outdoors.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-51-7-4a",
+      "19-51-5-5",
+      "19-51-7-4b"
+     ]
+    },
+    {
+     "id": "19-51-8-6",
+     "name": "Radiant Blade",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "inv_weapon_shortblade_99",
+     "spellId": 524822,
+     "description": "Increases the effectiveness of Oath: Righteous Lunge by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-8-5"
+     ]
+    },
+    {
+     "id": "19-51-10-6",
+     "name": "Improved Scarlet Hammer",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "spell_paladin_lightshammer",
+     "spellId": 301254,
+     "description": "Level 40 PassiveCasting Scarlet Hammer now generates 30 Energy.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "19-51-10-4"
+     ]
+    },
+    {
+     "id": "19-51-1-7",
+     "name": "Holy Edge",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "inv_sword_1h_artifactvigfus_d_01",
+     "spellId": 706312,
+     "description": "Damage dealt by Scourgebane and Scarlet Hammer now strikes 1 additional nearby enemy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-2-6",
+      "19-51-0-6"
+     ]
+    },
+    {
+     "id": "19-51-3-7",
+     "name": "Holy Combatant",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "inv_sword_28",
+     "spellId": 500011,
+     "description": "Your Argent Blade now also extends the duration of Interdict on your target by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-4-6"
+     ]
+    },
+    {
+     "id": "19-51-5-7",
+     "name": "Serendipity",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "custom_t_nhance_rpg_icons_holypeak_border",
+     "spellId": 300929,
+     "description": "Increases the all damage dealt by party and raid members by 3%. Does not stack with similar effects.In addition, reduces the cost of your spells and abilities by -5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-4-6"
+     ]
+    },
+    {
+     "id": "19-51-7-7",
+     "name": "Divine Strikes",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "inv_sword_2h_nazmirraid_d_01",
+     "spellId": 705255,
+     "description": "Damage dealt by Scourgebane now increases the damage of Argent Blade by 5% for 6 seconds, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-8-6",
+      "19-51-6-6"
+     ]
+    },
+    {
+     "id": "19-51-1-8",
+     "name": "Argent Knight",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "5_holypower_border",
+     "spellId": 300512,
+     "description": "Increases the damage dealt by Righteous Tempest and Condemn by 30%.Additionally, Righteous Tempest now reduces all damage taken by -20% while active.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-3-7",
+      "19-51-1-7"
+     ]
+    },
+    {
+     "id": "19-51-4-8",
+     "name": "Testament of Strength",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "ability_paladin_judgementsofthejust",
+     "spellId": 300514,
+     "description": "Your next 3 Titanstrikes are usable regardless of your target's health percentage and deal 25% increased damage. Lasts 1 minute.Applies Sacred Restraint for 1 minute.Sacred RestraintCannot be targeted by Testaments.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "19-51-3-7",
+      "19-51-5-7"
+     ]
+    },
+    {
+     "id": "19-51-7-8",
+     "name": "Legacy of the Silver Hand",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "inv_shield_1h_silverhand_b_01",
+     "spellId": 806522,
+     "description": "Casting Argent Blade or Scarlet Hammer now guarantees your next 2 instances of damage dealt by Scourgebane to critically strike.Increases the critical damage of Scourgebane by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-5-7",
+      "19-51-7-7"
+     ]
+    },
+    {
+     "id": "19-51-10-8",
+     "name": "Martial Training",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "inv_plate_scarletcrusade_c_01_shoulder_black",
+     "spellId": 806525,
+     "description": "Level 50 PassiveYour Chastise now deals an additional 50% Weapon Damage.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "19-51-10-6"
+     ]
+    },
+    {
+     "id": "19-51-2-9",
+     "name": "Templar Rituals",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "nhi_fire_solar_border",
+     "spellId": 520534,
+     "description": "Damage dealt by Righteous Tempest now deals an additional 35 + 10% holy SP + 8.5% AP Holy damage, and upon dealing damage, you pull enemies within 15 yds towards you.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-1-8",
+      "19-51-4-8"
+     ]
+    },
+    {
+     "id": "19-51-4-9",
+     "name": "Titanfall",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "_execution_white",
+     "spellId": 300607,
+     "description": "Your Titanstrike now heals you for twice the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-4-8"
+     ]
+    },
+    {
+     "id": "19-51-6-9",
+     "name": "Scarlet Champion",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 51,
+     "icon": "spell_holy_surgeoflight",
+     "spellId": 805415,
+     "description": "Your damaging critical strikes now increase your Holy damage dealt by 2% for 20 seconds. stacking 5 times. Can only occur once per sec.At 5 stacks, you are granted High General.High GeneralYour next Chastise consumes all stacks of Scarlet Champion to deal 25% increased direct damage, and be guaranteed to critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "19-51-7-8",
+      "19-51-4-8"
+     ]
+    }
+   ]
+  }
+ ]
+}

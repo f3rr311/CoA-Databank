@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sentinel Glaive",
+  "icon": "inv_glaive_1h_tyrande_d_01",
+  "tooltip_enus": "<table><tr><td><b>Sentinel Glaive</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Throw a sentinel glaive at an enemy, dealing Weapon Damage plus 53 as Arcane damage, increased further based on your maximum mana, and increasing their resource costs by 15% for 8&nbsp;sec.</span></td></tr></table><!--?800506:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

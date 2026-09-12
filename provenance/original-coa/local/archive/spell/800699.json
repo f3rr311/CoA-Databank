@@ -1,0 +1,8 @@
+{
+  "name_enus": "Power Surge",
+  "icon": "nhi_manaballs_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Power Surge</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #FFFFFF;\">Storm Ascendance</span> now increases Nature damage dealt by an additional 10%.</span></td></tr></table><!--?800699:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

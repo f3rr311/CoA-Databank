@@ -1,0 +1,8 @@
+{
+  "name_enus": "Heavy Expert",
+  "icon": "ability_warrior_vigilance",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Heavy Expert</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases your chance to parry and dodge by 4% and increase your Armor contribution from mail and plate items by 20%.</span></td></tr></table><!--?803128:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

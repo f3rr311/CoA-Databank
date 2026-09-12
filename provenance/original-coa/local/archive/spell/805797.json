@@ -1,0 +1,8 @@
+{
+  "name_enus": "Salvage Fragments",
+  "icon": "_energeticorbpurple",
+  "tooltip_enus": "<table><tr><td><b>Salvage Fragments</b><br />1 sec cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Consumes 1 <span style=\"color: #ffffff;\">Inscribed Rune</span></span><br />Reduces the Cooldown of your next Familiar spell by 33%, or the Cast Time of your next Conjure: Runic Familiar by 25%. This effect stacks up to 3 times.</span></td></tr></table><!--?805797:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

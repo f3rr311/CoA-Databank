@@ -1,0 +1,8 @@
+{
+  "name_enus": "Battleweaver",
+  "icon": "warlock_charredremains",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Battleweaver</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #a966f0;\">Cursed Form</span> abilities now has a 50% chance to generate 1 <span style=\"color: #ffffff;\">Blood Shard</span> for 10&nbsp;min, up to 8.<br /><br />Dealing damage with <span style=\"color: #ffffff;\">Bloodbolt</span> will launch 1 <span style=\"color: #ffffff;\">Blood Shard</span>, dealing 18+1.0 Points Per Level+AP*0.15+SP*.35 Arcane damage to your target.</span></td></tr></table><!--?801963:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

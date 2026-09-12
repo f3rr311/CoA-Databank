@@ -1,0 +1,15 @@
+{
+  "name_enus": "Animate: Crypt Fiend",
+  "icon": "cryptfiend",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Animate: Crypt Fiend</b></td><th><b class=\"q0\">Animate</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Animate a <span style=\"color: #ffffff;\">Crypt Fiend</span> to aid you in combat for 20&nbsp;sec.<!--sp802123:0--><!--sp802123--></span></td></tr></table><!--?801941:1:1:80-->",
+  "spells_enus": {
+    "802123": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #ff90ee\">Command</span>: Deals 83+12.5 Points Per Level+ShaP*0.5 Shadow damage to an enemy, slowing movement speed by 50% and reducing their armor by 10% for 5&nbsp;sec."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

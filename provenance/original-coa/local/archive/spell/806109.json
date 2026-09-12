@@ -1,0 +1,15 @@
+{
+  "name_enus": "Illidan's Guile",
+  "icon": "inv_misc_qirajicrystal_03",
+  "tooltip_enus": "<table><tr><td><b>Illidan's Guile</b><br /><table width=\"100%\"><tr><td>Instant</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Gorge on fel energy, becoming immune to all physical attacks and spells for 8&nbsp;sec, but during that time you cannot attack, move or cast spells.<br /><br />At the end of the duration, your next <!--sp520853:0--><span style=\"color: #FFFFFF;\">Chaos Rush</span><!--sp520853--> within 5&nbsp;sec now dashes an additional 20 yds.</span></td></tr></table><!--?806109:1:1:80-->",
+  "spells_enus": {
+    "520853": [
+      [
+        "<span style=\"color: #FFFFFF\">Chaos Rush</span>",
+        "<span style=\"color: #ffffff\">Fel Torpedo</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

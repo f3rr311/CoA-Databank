@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fluxcasting",
+  "icon": "_spellcasting_purple",
+  "tooltip_enus": "<table><tr><td><b>Fluxcasting</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Fluxblast</span> deals 5% increased damage for every stack of <span style=\"color: #ffffff;\">Flux</span> already on the target, and <span style=\"color: #ffffff;\">Call Lightning</span> spreads <span style=\"color: #ffffff;\">Flux</span> from the target to 4 nearby enemies.</span></td></tr></table><!--?804842:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

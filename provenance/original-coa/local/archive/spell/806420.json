@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bloodborn",
+  "icon": "spell_animarevendreth_buff",
+  "tooltip_enus": "<table><tr><td><b>Bloodborn</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Allows the Exsanguination effect from your Shadowfang Shield to stack up to 5 additional times.</span></td></tr></table><!--?806420:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

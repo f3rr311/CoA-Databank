@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vindication",
+  "icon": "inv_mace_1h_nazmirraid_d_01",
+  "tooltip_enus": "<table><tr><td><b>Vindication</b><br />Instant cast</td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\">A powerful <span style=\"color: #ffffff;\">Follow Up Ability</span> that deals 90+0+AP*0.285+SP*0.35 damage, triggers <span style=\"color: #ffffff;\">Zealotry</span>, and grants a <span style=\"color: #ffffff;\">Oath</span>.<br /><br /><span style=\"color: #ffffff;\">Oath:</span> Your <span style=\"color: #FFFFFF;\">Follow Ups</span> ignore 30% of the target's Armor.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_misc_questionmark.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=801450'> Zealotry </a> <br />\n                            <span> Deals 40% off-hand Weapon Damage as Holy Damage.</span><br /></span></td></tr></table><!--?804911:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

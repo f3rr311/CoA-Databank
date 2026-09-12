@@ -1,0 +1,8 @@
+{
+  "name_enus": "Battle Engineer",
+  "icon": "inv_misc_enggizmos_20",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Battle Engineer</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 30 Passive</span><br />Your ranged damage dealt now has a 20% chance to refresh a charge of <span style=\"color: #ffffff;\">Makeshift Dynamite</span>.</span></td></tr></table><!--?806629:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

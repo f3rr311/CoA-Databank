@@ -1,0 +1,25 @@
+{
+  "name_enus": "Thunder King",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Thunder King</b><br />19% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">For 20&nbsp;sec, your <!--sp560020:0--><span style=\"color: #FFFFFF;\">Call Lightning</span><!--sp560020--><!--sp707615:0--><!--sp707615--><!--sp560020:0--><!--sp560020--> strikes 3 additional nearby enemies, your movement speed is increased by 25%, and you generate 5 <span style=\"color: #cc99ff;\">Static</span> every 1 sec.<br /><br />While active, damaging critical strikes deal bonus Spellstorm Damage scaling with your spell power, and grant <span style=\"color: #ffffff;\">Raging Storm</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_misc_questionmark.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=800014'> Raging Storm </a> <br />\n                            <span> Increases spell haste by 3%, stacking 10 times.</span><br /></span></td></tr></table><!--?804591:1:1:80-->",
+  "spells_enus": {
+    "560020": [
+      [
+        "<span style=\"color: #FFFFFF\">Call Lightning</span>",
+        ""
+      ],
+      [
+        "",
+        "<span style=\"color: #FFFFFF\">Torrential Wrath</span>"
+      ]
+    ],
+    "707615": [
+      [
+        "",
+        "<span style=\"color: #FFFFFF\">Aeroblast</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

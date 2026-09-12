@@ -1,0 +1,8 @@
+{
+  "name_enus": "Devotion of Grace",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Devotion of Grace</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>5% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Places a <span style=\"color: #ffffff;\">Devotion</span> on the friendly target, restoring 5 mana every 5 seconds and reducing their costs by 5% for 30&nbsp;min.<br /><br />Players may only have one <span style=\"color: #FFFFFF;\">Devotion</span> on them per Sun Cleric at any one time.</span></td></tr></table><!--?800852:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

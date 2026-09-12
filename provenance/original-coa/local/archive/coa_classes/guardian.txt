@@ -1,0 +1,52 @@
+Guardian Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Guardian Overview
+ Guardians are stoic knights committed to chivalry with strength-focused martial combat. Gladiator engages in brutal physical fights, Vanguard shields allies as the ultimate tank, and Inspiration supports the party as a battle bard with banners and songs. Guardians are essential for CoA's dungeon and raid content.
+ Stoic knight defending allies and inspiring the party — a stalwart soldier for any adventuring group.
+ Class Mechanic — Chivalry
+ Guardians commit to chivalric combat rules, mastering all martial weapons with heavy plate defense.
+ Guardian uses Resolve as its primary resource and wears Plate armor.
+ Specializations
+ At level 10, Guardian players choose one of three specializations, each offering a distinct playstyle:
+ Gladiator: Savage fighter with nets, charges, and leaps sticking to foes — robust plate defenses with physical damage focus.
+ Vanguard: Ultimate shield tank leading the charge with ironclad protection and AoE threat generation.
+ Inspiration: Support bard placing empowering banners, singing battle songs, and bolstering group morale and power.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Premier shield tank in Vanguard
+ Strength: Inspiration unique Support spec
+ Strength: Gladiator strong solo DPS
+ Weakness: Lower DPS than pure melee
+ Weakness: Inspiration requires group for full value
+ Weakness: Multiple role complexity
+ Leveling Tips
+ Gladiator levels faster solo than Vanguard. Switch to Vanguard when joining dungeon groups. Inspiration shines in organized raid groups.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Vanguard Guardians hold battleground objectives with nigh-impenetrable shield defense. Gladiator nets and charges catch arena kites.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Guardian in Conquest of Azeroth? Guardian is a Tank / DPS / Support class wearing Plate armor with Resolve as its resource.
+ What is the Chivalry mechanic? Guardians commit to chivalric combat rules, mastering all martial weapons with heavy plate defense.
+ When do Guardian specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Guardian good for beginners? Guardian has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Guardian have? Guardian has three specializations: Gladiator, Vanguard, Inspiration.

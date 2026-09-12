@@ -1,0 +1,8 @@
+{
+  "name_enus": "Burrow",
+  "icon": "burrow",
+  "tooltip_enus": "<table><tr><td><b>Burrow</b><br /><table width=\"100%\"><tr><td>Instant</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Burrow beneath the ground for 8&nbsp;sec, becoming immune to all physical attacks and spells, but unable to move or act for the duration.<br /><br />While burrowed, you can choose a new location within 30 yds to unburrow.</span></td></tr></table><!--?806154:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

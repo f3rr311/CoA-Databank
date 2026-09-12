@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blessing of Retribution",
+  "icon": "ability_priest_reflectiveshield",
+  "tooltip_enus": "<table><tr><td><b>Blessing of Retribution</b><br />17% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Guard a <span style=\"color: #ffffff;\">Blessed</span> ally, deflecting the next harmful spell cast on them within 1&nbsp;min.<br /><br />Only usable on your ally with <span style=\"color: #ffffff;\">Bless</span> active.</span></td></tr></table><!--?804254:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

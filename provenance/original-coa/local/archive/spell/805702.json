@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bursting Embers",
+  "icon": "inv_ember",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bursting Embers</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Dealing damage to an enemy above 75% health now increases your critical strike chance by 10% for 3&nbsp;sec.</span></td></tr></table><!--?805702:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

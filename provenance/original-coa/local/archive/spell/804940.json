@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flank",
+  "icon": "ability_rogue_surpriseattack2",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flank</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>60 Focus<br />Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\"><span style=\"color: #8fff7a;\">Generates 2 Advantage</span><br />Flank an enemy from behind, taking them by surprise and dealing 150% Weapon Damage (300% if a dagger is equipped) plus 10 Physical damage. </span></td></tr></table><!--?804940:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

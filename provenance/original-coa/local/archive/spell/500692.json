@@ -1,0 +1,8 @@
+{
+  "name_enus": "Boulder Dash",
+  "icon": "custom_elementl%28earth%29_b_01_border",
+  "tooltip_enus": "<table><tr><td><b>Boulder Dash</b><br />35% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Raise a boulder out of the ground and encase yourself within it, preventing you from attacking or casting spells.<br /><br />For 10&nbsp;sec, you roll forward at 70% increased movement speed, dealing 1+1.0 Points Per Level+AP*.5+SP*1 Physical damage to enemies you roll over, and you are immune to crowd control effects.</span></td></tr></table><!--?500692:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Unseal",
+  "icon": "spell_warlock_demonbolt",
+  "tooltip_enus": "<table><tr><td><b>Unseal</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>18&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Deals 44 to 49 Shadow Damage to an enemy<!--sp704988:0--><!--sp704988-->.</span></td></tr></table><!--?805664:1:1:80-->",
+  "spells_enus": {
+    "704988": [
+      [
+        "",
+        " and increases the initial damage they take from your next <span style=\"color: #ffffff\">Demonflare</span> by 0%"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

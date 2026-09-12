@@ -1,0 +1,2891 @@
+{
+ "class": {
+  "id": 17,
+  "name": "Knight of Xoroth",
+  "slug": "knight-of-xoroth",
+  "color": "#C41E3A"
+ },
+ "specs": [
+  {
+   "id": 46,
+   "name": "Hellfire",
+   "tabId": 46
+  },
+  {
+   "id": 45,
+   "name": "War",
+   "tabId": 45
+  },
+  {
+   "id": 47,
+   "name": "Defiance",
+   "tabId": 47
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 156,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Knight of Xoroth (class tree)",
+   "nodeCount": 37,
+   "nodes": [
+    {
+     "id": "17-87-2-0",
+     "name": "Chainwhip",
+     "x": 2,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_enslavespell_fire",
+     "spellId": 800081,
+     "description": "Swing a chain at an enemy dealing 8 + 45% AP + 25% SP Physical damage and silencing them for 2 seconds, generating a large amount of threat.If you successfully interrupt an enemy, this will refund 20% of the cooldown.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "17-87-4-0",
+     "name": "Suffuse",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "diabloanniversary_achievement",
+     "spellId": 801063,
+     "description": "Embrace your mortal body, restoring 103 + 10% Stamina health every 3 sec, scaling with Stamina and defense rating.Lasts 3 sec for each Demonfire consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "17-87-6-0",
+     "name": "Chains of Malice",
+     "x": 6,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_nightmarechain_border",
+     "spellId": 803185,
+     "description": "Lock an enemy down with magical chains, stunning them and dragging them with you for 5 seconds.Every 1 sec, the enemy will suffer 16 Physical damage.Enemies that cannot be stunned or rooted cannot be dragged.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "17-87-2-1",
+     "name": "Xorothian Strength",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_demonicpact",
+     "spellId": 300382,
+     "description": "Increases your Strength by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-2-0"
+     ]
+    },
+    {
+     "id": "17-87-4-1",
+     "name": "Demonfire Plating",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_unholystrength",
+     "spellId": 704966,
+     "description": "Reduces your damage taken by -2% and increases your Stamina by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-4-0"
+     ]
+    },
+    {
+     "id": "17-87-6-1",
+     "name": "War Pig",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_deathwing_assualtaspects",
+     "spellId": 705020,
+     "description": "Increases your Physical damage dealt by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-6-0"
+     ]
+    },
+    {
+     "id": "17-87-1-2",
+     "name": "Spiked Chains",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "creatureportrait_blackrock_chainsofwoe",
+     "spellId": 704987,
+     "description": "Your Chainwhip now deals 321 + 30% AP additional Physical damage, increased by 100% on Humanoids.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-2-1"
+     ]
+    },
+    {
+     "id": "17-87-4-2a",
+     "name": "Boiling Blood",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_bloodboil_border",
+     "spellId": 300395,
+     "description": "Casting Suffuse now increases your healing received by 25% for the first 6 seconds of it's duration.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-4-1"
+     ]
+    },
+    {
+     "id": "17-87-4-2b",
+     "name": "Suffusion of Essence",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_trinket_firelands_03",
+     "spellId": 706566,
+     "description": "Increases the duration of Suffuse by 2 sec for each Demonfire consumed.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-87-7-2",
+     "name": "Bloodied Blade",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_staff_2h_artifactelune_d_05",
+     "spellId": 800997,
+     "description": "Melee Physical damage dealt now generates a stack of Demon's Blood.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-6-1"
+     ]
+    },
+    {
+     "id": "17-87-2-3",
+     "name": "Black Shield",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_warlock_soulburn_haunt",
+     "spellId": 805679,
+     "description": "Consume all of your Demon's Blood stacks to create a demonic shield that absorbs 860 damage, increased by 20% per Demon's Blood stack, for 30 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-87-4-2a",
+      "17-87-1-2",
+      "17-87-4-2b"
+     ]
+    },
+    {
+     "id": "17-87-4-3",
+     "name": "Omen of Rage",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_06_summon_demon_border",
+     "spellId": 706590,
+     "description": "Periodic damage and healing done has a 10% chance to grant a stack of Demonfire.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-4-2a",
+      "17-87-4-2b"
+     ]
+    },
+    {
+     "id": "17-87-6-3",
+     "name": "Demon Heart",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_ragnaros_heart",
+     "spellId": 805669,
+     "description": "Embrace your inner demon, instantly generating 6 stacks of Demonfire and 50 Rage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-87-7-2",
+      "17-87-4-2a",
+      "17-87-4-2b"
+     ]
+    },
+    {
+     "id": "17-87-0-4",
+     "name": "Brimstone's Blood",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_fireghost_border",
+     "spellId": 300387,
+     "description": "Increases the chance of gaining a stack of Demon's Blood by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-2-3"
+     ]
+    },
+    {
+     "id": "17-87-3-4",
+     "name": "Ragefist",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_relics_totemofrage",
+     "spellId": 300384,
+     "description": "Increases your maximum Rage by 10 and reduces the duration of disarm effects against you by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-2-3",
+      "17-87-4-3"
+     ]
+    },
+    {
+     "id": "17-87-5-4",
+     "name": "Hell Blender",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_unrelentingassault",
+     "spellId": 704975,
+     "description": "Casting Meatsaw now has a 40% chance to refund 10 Rage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-6-3",
+      "17-87-4-3"
+     ]
+    },
+    {
+     "id": "17-87-8-4",
+     "name": "Darkrider",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_carrionswarm",
+     "spellId": 704980,
+     "description": "Increases the duration of your Mark spells by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-6-3"
+     ]
+    },
+    {
+     "id": "17-87-1-5",
+     "name": "Demonic Rage",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_helm_plate_challengewarrior_d_01",
+     "spellId": 524922,
+     "description": "Generating Demon's Blood stacks now generates 1 additional Rage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-0-4",
+      "17-87-3-4"
+     ]
+    },
+    {
+     "id": "17-87-4-5",
+     "name": "Juggernaut",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "epic_rpg_icon_pack_fire_0004s_0000_armor_border",
+     "spellId": 520294,
+     "description": "Consume all of your Demon's Blood to become a juggernaut, reducing all damage taken by -30% for 10 seconds. For the duration, you heal every 3 sec for 6 + 10% AP, increased per Demon's Blood stack consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-87-5-4",
+      "17-87-3-4"
+     ]
+    },
+    {
+     "id": "17-87-7-5",
+     "name": "Hellstriker",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_mace_80",
+     "spellId": 704991,
+     "description": "Direct critical strikes now increase the duration of Hellrider on you by 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-5-4",
+      "17-87-8-4"
+     ]
+    },
+    {
+     "id": "17-87-1-6",
+     "name": "Burning Rage",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "warrior_talent_icon_angermanagement",
+     "spellId": 520295,
+     "description": "Enrage, generating 15 Rage every 1 sec and making you immune to incapacitate, banish, and polymorph effects for 6 seconds.Usable while incapacitated, banished, or polymorphed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-87-1-5"
+     ]
+    },
+    {
+     "id": "17-87-4-6",
+     "name": "Demonskin",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_wand_1h_firelandsraid_d_01",
+     "spellId": 302581,
+     "description": "Each stack of Demon's Blood also increases your Armor by 1%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-4-5"
+     ]
+    },
+    {
+     "id": "17-87-7-6",
+     "name": "Hellbound Charge",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_crimsondeathcharger_64x",
+     "spellId": 807247,
+     "description": "2 Charges, 60 sec rechargeBriefly jump atop your Xorothian Warsteed, increasing your movement speed by 70% for 3 seconds.Usable while indoors, but you cannot use your Mounted Combat abilities while riding your Warsteed in this way.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-87-7-5"
+     ]
+    },
+    {
+     "id": "17-87-0-7",
+     "name": "Dismemberment",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_staff_2h_artifactdeadwind_d_06",
+     "spellId": 705018,
+     "description": "Damaging abilities that spend Demonfire now reduces the target's healing received by -20% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-1-6"
+     ]
+    },
+    {
+     "id": "17-87-2-7a",
+     "name": "Warpath",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_intensifyrage",
+     "spellId": 805793,
+     "description": "While Unleash Pestilence is active it now protects your movement speed from being reduced below 90% of normal speed.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-4-6",
+      "17-87-1-6"
+     ]
+    },
+    {
+     "id": "17-87-2-7b",
+     "name": "Hellbreaker",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_blackhand_marked4death",
+     "spellId": 680216,
+     "description": "Casting Unleash Pestilence now removes all active movement impairing effects from you.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-87-4-7",
+     "name": "Xorothian Finesse",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_blood_aim_border",
+     "spellId": 300385,
+     "description": "Increases your chance to parry by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-4-6"
+     ]
+    },
+    {
+     "id": "17-87-6-7a",
+     "name": "Mounted Champion",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_mount_clockworkhorse",
+     "spellId": 706295,
+     "description": "Your Xorothian Warsteed is now instant cast and prevents roots and slows for 2 sec when cast, but now has a 10 sec cooldown.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-7-6",
+      "17-87-4-6"
+     ]
+    },
+    {
+     "id": "17-87-6-7b",
+     "name": "Mounted Reaver",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_deathelementalmount_red",
+     "spellId": 707835,
+     "description": "Reduces the cooldown of all Mounted Combat abilities by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-87-8-7",
+     "name": "Taskmaster",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_improveddisciplines",
+     "spellId": 500003,
+     "description": "Increases your critical strike chance by 3% plus an additional 15% against Demons.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-7-6"
+     ]
+    },
+    {
+     "id": "17-87-0-8",
+     "name": "Rage of Xoroth",
+     "x": 0,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_focusedrage",
+     "spellId": 300376,
+     "description": "Your critical strikes now enrage you, increasing your melee attack speed by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-2-7a",
+      "17-87-0-7",
+      "17-87-2-7b"
+     ]
+    },
+    {
+     "id": "17-87-3-8",
+     "name": "Heart of Xoroth",
+     "x": 3,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_rogue_sanguinaryvein",
+     "spellId": 704956,
+     "description": "Allows Demon's Blood to stack 5 additional times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-2-7a",
+      "17-87-4-7",
+      "17-87-2-7b"
+     ]
+    },
+    {
+     "id": "17-87-5-8",
+     "name": "Brute Strength",
+     "x": 5,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_strength",
+     "spellId": 680723,
+     "description": "Increases your critical damage dealt with Physical attacks by 10% and increases the range of Flesh Hook, Chains of Malice, and Chainwhip by 5 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-4-7",
+      "17-87-6-7a",
+      "17-87-6-7b"
+     ]
+    },
+    {
+     "id": "17-87-8-8",
+     "name": "Harbinger of Pestilence",
+     "x": 8,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "warlock_pvp_endlessaffliction",
+     "spellId": 704182,
+     "description": "Increases the effectiveness of your Pestilences by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-8-7"
+     ]
+    },
+    {
+     "id": "17-87-1-9",
+     "name": "Dread",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_fire_incinerate",
+     "spellId": 706502,
+     "description": "Damage dealt now has a 15% chance to grant a stack of Dread.At 10 stacks, your next Meatsaw transforms into Annihilation for 8 seconds.AnnihilationAnnihilate up to 10 enemies in a frontal cone, dealing 150% Weapon Damage plus 353 as Shadowflame Damage and generating 4 Demonfire.Deals 20% increased damage if you are above 75% health or below 35% health. Scales with modifiers to Infernal Strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-0-8",
+      "17-87-3-8"
+     ]
+    },
+    {
+     "id": "17-87-4-9",
+     "name": "Xorothian Sigil",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_ahnqirajtrinket_04",
+     "spellId": 801061,
+     "description": "Create a demonic sigil that protects party members within 20 yds of you, causing them to deflect the next harmful spell cast against them within 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-87-5-8",
+      "17-87-3-8"
+     ]
+    },
+    {
+     "id": "17-87-7-9",
+     "name": "Chain Warden",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "warlock_sacrificial_pact",
+     "spellId": 704185,
+     "description": "Reduces the cooldown of Chains of Malice by -30 sec, and allows Flesh Hook and Chainwhip to strike up to 2 additional enemies near your primary target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-87-5-8",
+      "17-87-8-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 45,
+   "name": "War",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "17-45-4-0",
+     "name": "Warbringer",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_mace_2h_pvpcataclysms3_c_01",
+     "spellId": 570727,
+     "description": "Transforms your Flames of Xoroth into Warbringer.WarbringerSlam the ground, dealing 65% Weapon Damage plus 2 to nearby enemies, reducing the effectiveness of any healing by -50% for 10 seconds.Deals increased damage per Demonfire consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "17-45-10-0",
+     "name": "Crusher",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "warrior_skullbanner",
+     "spellId": 92100,
+     "description": "Level 10 PassiveDoubles the base Weapon Damage dealt by Infernal Strike and increases all critical damage dealt by 25%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 1
+    },
+    {
+     "id": "17-45-4-1",
+     "name": "Gore",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_sword_140",
+     "spellId": 805555,
+     "description": "2 Charges, 8 sec rechargeGenerates 1 DemonfireQuickly gore an enemy, dealing 100% Weapon Damage plus 15.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-45-4-0"
+     ]
+    },
+    {
+     "id": "17-45-2-2",
+     "name": "Mutilation",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "ability_skeer_bloodletting",
+     "spellId": 805695,
+     "description": "Increases the damage of Gore and Sever by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-4-1"
+     ]
+    },
+    {
+     "id": "17-45-4-2",
+     "name": "Gored",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "sha_ability_warrior_bloodnova_nightmare",
+     "spellId": 705015,
+     "description": "Damage dealt by Gore and Meatsaw now increases your target's damage taken from Skulltaker and Warbringer by 15% for 10 seconds, stacking 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-4-1"
+     ]
+    },
+    {
+     "id": "17-45-6-2",
+     "name": "Consuming Blade",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_stave_2h_pvppandarias1_c_02",
+     "spellId": 707388,
+     "description": "Increases the critical strike chance of Gore by 25% and your expertise by 5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-4-1"
+     ]
+    },
+    {
+     "id": "17-45-10-2",
+     "name": "Ripper",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "_diablo3_execute_deathknight",
+     "spellId": 706331,
+     "description": "Level 20 PassiveDamaging abilities that spend Demonfire now refresh a charge of Gore.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "17-45-10-0"
+     ]
+    },
+    {
+     "id": "17-45-2-3",
+     "name": "Fiend",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_mace_1h_pvppandarias1_d_01",
+     "spellId": 705005,
+     "description": "Casting Sever now removes the cost of your next Infernal Strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-2-2"
+     ]
+    },
+    {
+     "id": "17-45-4-3",
+     "name": "Hellfire Striker",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "ability_warrior_titansgrip",
+     "spellId": 573036,
+     "description": "Increases your critical strike and hit chance by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-4-2",
+      "17-45-6-2",
+      "17-45-2-2"
+     ]
+    },
+    {
+     "id": "17-45-6-3",
+     "name": "Pestilence of Death",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "kox_death",
+     "spellId": 801054,
+     "description": "Emanate a pestilence, increasing your critical damage by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-45-6-2"
+     ]
+    },
+    {
+     "id": "17-45-1-4",
+     "name": "Burning Blade",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "spell_fire_flameblades",
+     "spellId": 524920,
+     "description": "Ignite your weapon, causing you to send out searing fire with each melee critical strike, dealing 270 + 32.5% AP Fire damage in a line and increasing your Armor penetration by 30% while active. Lasts for 6 attacks.Lasts for 1 additional attack per Demonfire consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-45-2-3"
+     ]
+    },
+    {
+     "id": "17-45-3-4",
+     "name": "Burning Blade",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "nhi_nightmareblade_border",
+     "spellId": 572370,
+     "description": "Your Skulltaker now ignores -25% of the target's Armor.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-2-3",
+      "17-45-4-3"
+     ]
+    },
+    {
+     "id": "17-45-5-4a",
+     "name": "Absolutism",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_axe_1h_draenorraid_d_03",
+     "spellId": 706501,
+     "description": "Damage dealt by Meatsaw now ignores -10% of the target's Armor.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-6-3",
+      "17-45-4-3"
+     ]
+    },
+    {
+     "id": "17-45-5-4b",
+     "name": "Bringer of Destruction",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "spell_nature_reincarnation",
+     "spellId": 681449,
+     "description": "Critical damage taken now grants you 1 Demonfire and 5 Rage. Can only occur once every 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-45-7-4",
+     "name": "Boundless Fury",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "ability_warlock_improveddemonictactics",
+     "spellId": 704954,
+     "description": "Increases the effectiveness of the unleash effect from Pestilence of Death by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-6-3"
+     ]
+    },
+    {
+     "id": "17-45-10-4",
+     "name": "Carver",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "polearm_2h_deathwingraiddw_d_01",
+     "spellId": 707390,
+     "description": "Level 30 PassiveCritical strikes with Gore now generate 1 additional Demonfire.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "17-45-10-2"
+     ]
+    },
+    {
+     "id": "17-45-2-5",
+     "name": "Murderous Might",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_offhand_1h_artifactskulloferedar_d_05",
+     "spellId": 520290,
+     "description": "Increases the damage of abilities that spend Demonfire by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-1-4"
+     ]
+    },
+    {
+     "id": "17-45-4-5",
+     "name": "Decimation",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "warrior_talent_icon_innerrage",
+     "spellId": 524913,
+     "description": "Your next Skulltaker or Warbringer is guaranteed to critically strike for 25% increased damage. Lasts 30 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-45-5-4a",
+      "17-45-3-4",
+      "17-45-5-4b"
+     ]
+    },
+    {
+     "id": "17-45-6-5",
+     "name": "Screamin' Demon",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "ability_fomor_boss_shout",
+     "spellId": 804947,
+     "description": "Reduces the cooldown of Unleash Pestilence by -15 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-7-4"
+     ]
+    },
+    {
+     "id": "17-45-1-6a",
+     "name": "Burning Swings",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "spell_fire_enchantweapon",
+     "spellId": 707632,
+     "description": "Your Burning Blade now affects 4 additional attacks.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-1-4",
+      "17-45-2-5"
+     ]
+    },
+    {
+     "id": "17-45-1-6b",
+     "name": "Hellsmelted",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "spell_fire_incinerate",
+     "spellId": 705016,
+     "description": "Increases the critical strike chance and damage of Burning Blade by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-45-3-6",
+     "name": "Hand of Doom",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "nhi_fireclaw_border",
+     "spellId": 704186,
+     "description": "Increases the Weapon Damage dealt by Sever by 10%, increased by 10% for each Demonfire you have active.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-4-5",
+      "17-45-2-5"
+     ]
+    },
+    {
+     "id": "17-45-4-6",
+     "name": "Conqueror's Will",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "nhi_fireghost_border",
+     "spellId": 520372,
+     "description": "Increases the critical strike chance of all party and raid members by 3%. Does not stack with similar effects.In addition, Physical critical strikes now increase the target's Physical damage taken by 4% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-4-5"
+     ]
+    },
+    {
+     "id": "17-45-5-6",
+     "name": "Hellborn",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "5_druideskill47_border",
+     "spellId": 707631,
+     "description": "Generating a stack of Demon's Blood now has a 5% chance to unleash your active Pestilence at half of their effectiveness.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-4-5",
+      "17-45-6-5"
+     ]
+    },
+    {
+     "id": "17-45-7-6",
+     "name": "Chop Shop",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_weapon_shortblade_40",
+     "spellId": 704953,
+     "description": "Each stack of Demon's Blood now increases the critical strike chance of Sever and Meatsaw by 1%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-6-5",
+      "17-45-7-4"
+     ]
+    },
+    {
+     "id": "17-45-10-6",
+     "name": "Render",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_axe_104",
+     "spellId": 704951,
+     "description": "Level 40 PassiveIncreases your melee haste rating by 30% of your Strength.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "17-45-10-4"
+     ]
+    },
+    {
+     "id": "17-45-0-7",
+     "name": "Domination",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_glaive_1h_artifactazgalor_d_03",
+     "spellId": 704979,
+     "description": "Melee critical strikes now reduce the cooldown of Burning Blade by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-1-6a",
+      "17-45-1-6b"
+     ]
+    },
+    {
+     "id": "17-45-2-7",
+     "name": "Hook, Line, and Sinker",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_axe_2h_artifactmaw_d_01",
+     "spellId": 680991,
+     "description": "Reduces the cooldown of Flesh Hook and Chainwhip by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-1-6a",
+      "17-45-3-6",
+      "17-45-1-6b"
+     ]
+    },
+    {
+     "id": "17-45-4-7",
+     "name": "Demonic Frenzy",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_knife_1h_pvppandarias1_c_01",
+     "spellId": 705008,
+     "description": "Casting Sever now increases your attack speed by 20% for 10 seconds.Casting Gore extends the duration of this effect by 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-4-6",
+      "17-45-5-6",
+      "17-45-3-6"
+     ]
+    },
+    {
+     "id": "17-45-6-7",
+     "name": "Jagged Edge",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_axe_07",
+     "spellId": 707614,
+     "description": "Increases your Rage generated from damage dealt by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-5-6",
+      "17-45-7-6"
+     ]
+    },
+    {
+     "id": "17-45-8-7",
+     "name": "Knight of Pestilence",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "spell_nature_insect_swarm2",
+     "spellId": 704981,
+     "description": "Increases the critical damage of your Pestilences by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-7-6"
+     ]
+    },
+    {
+     "id": "17-45-1-8",
+     "name": "The Butcher",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "artifactability_unholydeathknight_flagellation",
+     "spellId": 704952,
+     "description": "Damage dealt by Meatsaw now increases the damage dealt by subsequent Meatsaws by 10% and reduces its global cooldown by -5% for 10 seconds, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-0-7",
+      "17-45-2-7"
+     ]
+    },
+    {
+     "id": "17-45-3-8",
+     "name": "Brimstone Bludgeon",
+     "x": 3,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_mace_1h_pvp410_c_01",
+     "spellId": 800710,
+     "description": "Transforms your Sever into Brimstone Bludgeon.Brimstone BludgeonGenerates 1 DemonfireBludgeon an enemy and all nearby enemies, dealing 250% Weapon Damage.Unleashes your active Pestilence to trigger a powerful effect.Scales with modifiers to Sever.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-45-4-7"
+     ]
+    },
+    {
+     "id": "17-45-5-8",
+     "name": "Blood Frenzy",
+     "x": 5,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "spell_shadow_unholyfrenzy",
+     "spellId": 520008,
+     "description": "Abilities that spend Demonfire now refund 1 Demonfire when used with at least 4 stacks.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-4-7"
+     ]
+    },
+    {
+     "id": "17-45-7-8",
+     "name": "Pestilence Unbound",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_axe_1h_blacksmithing_03",
+     "spellId": 560633,
+     "description": "When you use an ability that consumes Demonfire with 6 stacks, you now unleash your active Pestilence at half of their effectiveness.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-6-7",
+      "17-45-8-7"
+     ]
+    },
+    {
+     "id": "17-45-10-8",
+     "name": "Knight of the Apocalypse",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "spell_winston_rage",
+     "spellId": 520296,
+     "description": "Level 50 PassiveUnleash Pestilence now triggers no cooldown on it's first use.Unleash Pestilence can only be reset this way once every 30 sec.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "17-45-10-6"
+     ]
+    },
+    {
+     "id": "17-45-1-9",
+     "name": "Demonic Blade",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "nhi_blood_blade_border",
+     "spellId": 704957,
+     "description": "Damaging abilities that spend Demonfire now increase the damage and cost of your next 2 Gores by 25% for 12 seconds.At the end of the duration, or when all stacks are consumed, you instantly cast Meatsaw free of cost.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-3-8",
+      "17-45-1-8"
+     ]
+    },
+    {
+     "id": "17-45-4-9",
+     "name": "Gorged",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "custom_t_bloodmaw_border",
+     "spellId": 680199,
+     "description": "Gore now heals you for 50% of the damage dealt over 3 sec and grants a stack of Gorged for 30 seconds.At 3 stacks, your next Sever will consume the stacks to leech an additional 200% of the damage dealt by it from up to 5 enemies within 5 yds.In addition, Sever now strikes an additional time after 1 sec but has a 2 increased cooldown.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-3-8",
+      "17-45-5-8"
+     ]
+    },
+    {
+     "id": "17-45-7-9",
+     "name": "Hellknight",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 45,
+     "icon": "inv_helm_mail_pvphuntergladiator_o_01",
+     "spellId": 800702,
+     "description": "While above 75% health, all direct Physical damage dealt will grant a stack of Hellknight.HellknightMovement speed increased and global cooldowns reduced by -5%. Physical Damage and critical strike chance increased by 1%, stacking 5 times. Lasts 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-45-7-8",
+      "17-45-5-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 46,
+   "name": "Hellfire",
+   "nodeCount": 38,
+   "nodes": [
+    {
+     "id": "17-46-4-0",
+     "name": "Hellmaw",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "inv_firecatmount",
+     "spellId": 806965,
+     "description": "Burn an enemy with a fiery strike, dealing 18 + 10% AP + 18% SP Shadowflame Damage, plus an additional 72 + 56% AP + 57.2% SP over 12 seconds.Deals 20% increased damage per Demonfire consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "17-46-10-0",
+     "name": "Greater Imp",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "5_sumimparmy_border",
+     "spellId": 92101,
+     "description": "Level 10 PassiveTeaches you Summon: Greater Imp and increases your expertise by 10.Summon: Greater ImpSummon a Greater Imp to aid you in combat.Greater Imp has various combat abilities that provide excellent single target damage and control.",
+     "isPassive": true,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "17-46-3-1",
+     "name": "Combusting Blade",
+     "x": 3,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "spell_fire_moltenblood",
+     "spellId": 704999,
+     "description": "Increases your Intellect by 5% and reduces the Rage cost of Infernal Strike by -5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-4-0"
+     ]
+    },
+    {
+     "id": "17-46-5-1",
+     "name": "Invasion",
+     "x": 5,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "_auracloak_fire",
+     "spellId": 300374,
+     "description": "All Fire damage dealt is increased by 10% to enemies above 80% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-4-0"
+     ]
+    },
+    {
+     "id": "17-46-2-2",
+     "name": "Pestilence of Apocalypse",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "kox_apoc",
+     "spellId": 804786,
+     "description": "Emanate the Pestilence of Apocalypse, causing nearby enemies to take 10% increased Fire damage from you.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-46-3-1"
+     ]
+    },
+    {
+     "id": "17-46-6-2",
+     "name": "Seeking Flame",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "inv_shadowflame_missile",
+     "spellId": 805671,
+     "description": "Generates 1 DemonfireSear an enemy, dealing 63 + 33.62% fire SP + 33% AP Fire damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-46-5-1"
+     ]
+    },
+    {
+     "id": "17-46-10-2",
+     "name": "Burning Power",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "inv_helmet_103",
+     "spellId": 500004,
+     "description": "Level 20 PassiveIncreases your attack power by 100% of your Intellect and your spell damage by 50% of your Strength.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "17-46-10-0"
+     ]
+    },
+    {
+     "id": "17-46-1-3",
+     "name": "To Ashes",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "spell_fire_volcano",
+     "spellId": 705000,
+     "description": "Increases the critical strike chance of abilities that spend Demonfire by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-2-2"
+     ]
+    },
+    {
+     "id": "17-46-4-3",
+     "name": "Hellfire Embers",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "spell_fire_incinerate",
+     "spellId": 807669,
+     "description": "Increases the Fire damage dealt by your Hellfire Imp by 30% against enemies above 80% maximum health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-2-2",
+      "17-46-6-2"
+     ]
+    },
+    {
+     "id": "17-46-7-3",
+     "name": "Flamewrath",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "spell_fire_lavaspawn",
+     "spellId": 301358,
+     "description": "Increases the critical strike chance of Seeking Flame by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-6-2"
+     ]
+    },
+    {
+     "id": "17-46-0-4a",
+     "name": "Claws of Hell",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "_deathgrip_fire",
+     "spellId": 805706,
+     "description": "When you spend at least 4 Demonfire stacks you now refresh the duration of your Unleash Apocalypse on the target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-1-3"
+     ]
+    },
+    {
+     "id": "17-46-0-4b",
+     "name": "Calamity",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "nhi_burningeyes_border",
+     "spellId": 300393,
+     "description": "Increases the damage of the Unleash effect of Pestilence of Apocalypse by 25% and its duration is increased by 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-46-3-4",
+     "name": "Hellfire Form",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "ability_racial_foregedinflames",
+     "spellId": 805696,
+     "description": "Enter your Hellfire Form, increasing your Fire damage dealt by 20% and Fire critical strike chance by 15% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-46-4-3"
+     ]
+    },
+    {
+     "id": "17-46-5-4",
+     "name": "Doom",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "ability_warlock_improveddemonictactics",
+     "spellId": 802602,
+     "description": "Transforms your Greater Imp into a Doomguard for 12 seconds.While transformed, your Doomguard deals 20% more damage, and its auto attacks ignite the target, dealing 10% of the damage dealt as Fire damage over 6 seconds, stacking 6 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-46-4-3"
+     ]
+    },
+    {
+     "id": "17-46-8-4",
+     "name": "Seething Strikes",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "epic_rpg_icon_pack_fire_0000s_0000_sword_border",
+     "spellId": 300375,
+     "description": "Increases the damage of Sever by 30% against Burning targets and it now increases the targets chance to be critically struck by 3% for 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-7-3"
+     ]
+    },
+    {
+     "id": "17-46-10-4",
+     "name": "Cinderblade",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "spell_fire_felflamering_red",
+     "spellId": 704959,
+     "description": "Level 30 PassiveIncreases your critical strike rating by 20% of your Intellect and your spell hit chance by 6%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "17-46-10-2"
+     ]
+    },
+    {
+     "id": "17-46-1-5",
+     "name": "Rain of Chaos",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "spell_shadow_rainoffire",
+     "spellId": 704452,
+     "description": "Casting Flames of Xoroth with 6 Demonfire now calls down a Rain of Chaos.Rain of ChaosMolten rain burns enemies in the area causing 234 Fire Damage over 9 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-3-4",
+      "17-46-0-4a",
+      "17-46-0-4b"
+     ]
+    },
+    {
+     "id": "17-46-3-5",
+     "name": "Grotesque",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "ability_demonhunter_torment",
+     "spellId": 707515,
+     "description": "While Hellfire Form is active, your Seeking Flame now has no cooldown and generates an additional Demonfire.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-3-4"
+     ]
+    },
+    {
+     "id": "17-46-5-5",
+     "name": "Hellfire Rituals",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "ability_warlock_cremation",
+     "spellId": 500551,
+     "description": "Critical strikes with Skulltaker now increases the haste of your Greater Imp by 15% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-5-4"
+     ]
+    },
+    {
+     "id": "17-46-7-5",
+     "name": "Infernal Steel",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "inv_sword_1h_artifactfelomelorn_d_02",
+     "spellId": 805693,
+     "description": "Casting Skulltaker with 6 Demonfire stacks now causes your next Hellmaw within 15 seconds to tick -25% faster and cost -50% less Rage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-8-4",
+      "17-46-5-4"
+     ]
+    },
+    {
+     "id": "17-46-0-6",
+     "name": "Indiscriminate",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "inv_glaive_1h_artifactaldrochi_d_04",
+     "spellId": 704958,
+     "description": "Seeking Flame now spreads Hellmaw and Melt from the target to up to 3 enemies within 6 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-1-5",
+      "17-46-0-4a",
+      "17-46-0-4b"
+     ]
+    },
+    {
+     "id": "17-46-2-6",
+     "name": "Inferno Blast",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "inv_offhand_1h_artifactdoomhammer_d_01",
+     "spellId": 805697,
+     "description": "Increases your critical damage against Burning targets by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-1-5",
+      "17-46-3-5"
+     ]
+    },
+    {
+     "id": "17-46-4-6",
+     "name": "Infernal Pummeling",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "nhi_infernalmadness_border",
+     "spellId": 680900,
+     "description": "Melt now increases the damage your target takes from Flames of Xoroth and Skulltaker by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-5-5",
+      "17-46-3-5"
+     ]
+    },
+    {
+     "id": "17-46-6-6a",
+     "name": "Hellbringer",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "inv_felbatmountdh",
+     "spellId": 300963,
+     "description": "Increases the all damage dealt by party and raid members by 3%.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-5-5",
+      "17-46-7-5"
+     ]
+    },
+    {
+     "id": "17-46-6-6b",
+     "name": "Xorothian Empowerment",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "achievement_firelands_raid_ragnaros",
+     "spellId": 704994,
+     "description": "Increases the attack power of all party and raid members 5%. Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-46-8-6",
+     "name": "Infernal Pursuit",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "inv_boots_plate_raiddeathknight_i_01",
+     "spellId": 704992,
+     "description": "Increases your melee haste by 3% and reduces the duration of root effects against you by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-7-5",
+      "17-46-8-4"
+     ]
+    },
+    {
+     "id": "17-46-10-6",
+     "name": "Impish Pestilence",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "inv_misc_herb_fireweedbranch",
+     "spellId": 300398,
+     "description": "Level 40 PassiveUsing a Pestilence now applies a Lesser Pestilence to your pet.You can only apply a Lesser Pestilence to your pet every 10 sec.Pestilence of Apocalypse (Pet)Increases the Imps Fire Damage dealt by 10% and allows 50% of its mana regeneration to continue while in combat.Pestilence of Famine (Pet)Damage dealt by the Imp has a 20% chance to reduce the enemy's melee and ranged attack speed by -20% for 6 seconds.Pestilence of Conquest (Pet)Damage dealt by the Imp has a 20% chance to reduce the enemy's Magic Damage dealt by -5% for 5 seconds.Pestilence of War (Pet)Damage dealt by the Imp has a 20% chance to heal you for 1 + 10% AP health.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "17-46-10-4"
+     ]
+    },
+    {
+     "id": "17-46-1-7a",
+     "name": "Partners in Flames",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "5_sumimp_border",
+     "spellId": 500578,
+     "description": "Fire damage dealt by your Greater Imp now has a 25% chance to empower you, increasing your damage dealt by 5% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-0-6",
+      "17-46-2-6"
+     ]
+    },
+    {
+     "id": "17-46-1-7b",
+     "name": "Unbound Inferno",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "spell_fire_flameblades",
+     "spellId": 704997,
+     "description": "Your Infernal Strikes against enemies affected by your Flames of Xoroth now blasts nearby enemies for 75 + 10% fire SP + 5% AP Fire damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-46-4-7a",
+     "name": "Brimstone Flames",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "nhi_firestone_border",
+     "spellId": 807671,
+     "description": "Damage dealt by Seeking Flame is increased by 20% on enemies affected by Pestilence of Apocalypse.Damage dealt is increased by an additional 10% for each Demonfire you have active.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-4-6"
+     ]
+    },
+    {
+     "id": "17-46-4-7b",
+     "name": "Brimstone Splinters",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "inv_flaming_splinter",
+     "spellId": 805703,
+     "description": "Grants Seeking Flame a 30% chance to generate 1 additional Demonfire when it deals damage.Chance to trigger is increased by 5% for each Demonfire you have active.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-46-7-7",
+     "name": "Shadowflame Forge",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "ability_racial_forgeoflight",
+     "spellId": 704989,
+     "description": "Increases the duration of Hellmaw by 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-8-6",
+      "17-46-6-6a",
+      "17-46-6-6b"
+     ]
+    },
+    {
+     "id": "17-46-2-8",
+     "name": "Into the Maw",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "nhi_fire_explosion_border",
+     "spellId": 802619,
+     "description": "Hellmaw causes a Hellfire Explosion at the end of its duration, dealing additional Fire damage to all nearby enemies within 5 yards equal to 50% of the periodic damage dealt over the duration.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-4-7a",
+      "17-46-1-7a",
+      "17-46-4-7b",
+      "17-46-1-7b"
+     ]
+    },
+    {
+     "id": "17-46-6-8",
+     "name": "Punisher",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "novart_magicspell_(36)_border",
+     "spellId": 704988,
+     "description": "Increases the attack power and spell power scaling of Seeking Flame by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-4-7a",
+      "17-46-7-7",
+      "17-46-4-7b"
+     ]
+    },
+    {
+     "id": "17-46-10-8",
+     "name": "Evil Duo",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "spell_shadow_summonimp",
+     "spellId": 704961,
+     "description": "Level 50 PassiveUnleashing a Pestilence now causes your Greater Imp to unleash it's Pestilence.The Imp's unleash effect is equivalent to your own unleash effect for the equivalent Pestilence.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "17-46-10-6"
+     ]
+    },
+    {
+     "id": "17-46-2-9",
+     "name": "Hellstorm",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "ability_xavius_darkruination",
+     "spellId": 802342,
+     "description": "Create a hellstorm, dealing 77 + 32.04% fire SP + 8% AP Fire damage to up to 8 nearby enemies.Embers then flare every 1 sec for 2 seconds, dealing 28 + 2.5% fire SP + 2.5% AP Fire damage.Duration is increased by 100% for each stack of Demonfire consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-46-2-8"
+     ]
+    },
+    {
+     "id": "17-46-4-9",
+     "name": "Ascended Warlock",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "ability_demonhunter_demonictrample",
+     "spellId": 802610,
+     "description": "Your Skulltaker used with 6 stacks of Demonfire now reduces the cooldown of Doom by -5 seconds.In addition, while Doom is active, your Doomguard will now copy your Skulltaker, dealing reduced damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-2-8",
+      "17-46-6-8"
+     ]
+    },
+    {
+     "id": "17-46-6-9",
+     "name": "Fury of Xoroth",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 46,
+     "icon": "inv_argusfelstalkermount_red",
+     "spellId": 802615,
+     "description": "Infernal Strike now grants you a stack of Xorothian Fury, increasing the chance for your next Skulltaker within 10 seconds to critically strike by 10% per stack, up to 3 stacks.Additionally, using Skulltaker with 6 stacks of Demonfire grants you Xorothian Rage, causing your next Infernal Strike within 10 seconds to be guaranteed to critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-46-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 47,
+   "name": "Defiance",
+   "nodeCount": 42,
+   "nodes": [
+    {
+     "id": "17-47-4-0",
+     "name": "Shieldgore",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_shield_draenorraid_d_02",
+     "spellId": 301302,
+     "description": "Transforms your Infernal Strike into Shieldgore.ShieldgoreGenerates 2 DemonfireGore the target with your spiked shield, causing 21 + 35% AP High Threat Fire Damage, scaling with your block value.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "17-47-10-0",
+     "name": "Brimstone Buckler",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "ability_warlock_improveddemonictactics",
+     "spellId": 92104,
+     "description": "Level 10 PassiveSuccessful blocks now have a 30% chance to summon 1 Hellfire Imp to aid you in battle for 12 seconds. Can only occur once every 3 sec.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-47-4-1",
+     "name": "Call: Hellfire Imp",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "ability_warlock_empoweredimp",
+     "spellId": 804883,
+     "description": "Generates 2 DemonfireBeckon 1 Hellfire Imp to aid you in battle for 12 seconds and generate 20 Rage.Threat generated by Hellfire Imps is transferred to you.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-47-4-0"
+     ]
+    },
+    {
+     "id": "17-47-2-2",
+     "name": "A Gift from Hell",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_ascend_blacksmith_25",
+     "spellId": 300390,
+     "description": "Reduces the Rage cost of Infernal Strike, Meatsaw, and Melt by -10.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-4-1"
+     ]
+    },
+    {
+     "id": "17-47-4-2a",
+     "name": "Imp Gang Boss",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "spell_shadow_impphaseshift",
+     "spellId": 706754,
+     "description": "Your Call: Hellfire Imp now summons 2 additional imps.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-4-1"
+     ]
+    },
+    {
+     "id": "17-47-4-2b",
+     "name": "Impcaller",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "spell_warlock_summonimpoutland",
+     "spellId": 706755,
+     "description": "Transforms your Call: Hellfire Imp into Impcaller.Impcaller (Aura)Your Infernal Strike now summons a Hellfire Imp to aid you in combat for 10 seconds, but its Rage cost is increased by 10.In addition, the maximum health of your imps is increased by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-47-6-2",
+     "name": "Hellsmelted Armor",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_glove_armor_orcclan_d_01",
+     "spellId": 706569,
+     "description": "Each Hellfire Imp active now increases your chance to block by 1%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-4-1"
+     ]
+    },
+    {
+     "id": "17-47-10-2",
+     "name": "Imp Guards",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "uico_fire_spell_09_border",
+     "spellId": 804340,
+     "description": "Level 20 PassiveEach Hellfire Imp now reduces your Physical damage taken by 1%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "17-47-10-0"
+     ]
+    },
+    {
+     "id": "17-47-1-3",
+     "name": "Bulwark of Xoroth",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_shield_pvp410_c_01",
+     "spellId": 300388,
+     "description": "Damage dealt by Shieldgore will now apply Torn Flesh, causing the target to bleed for 105 over 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-2-2"
+     ]
+    },
+    {
+     "id": "17-47-2-3",
+     "name": "Warden of Hellfire",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "achievement_guild_forgreatjusticerank2",
+     "spellId": 704986,
+     "description": "Increases the damage dealt by Skulltaker and Flames of Xoroth by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-2-2"
+     ]
+    },
+    {
+     "id": "17-47-6-3",
+     "name": "Hellfire Forgemaster",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "achievement_zone_ironforge",
+     "spellId": 560655,
+     "description": "Increases your block value by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-6-2"
+     ]
+    },
+    {
+     "id": "17-47-7-3",
+     "name": "Sacrificial Circle",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "nhi_firerune_(2)_border",
+     "spellId": 805677,
+     "description": "Sacrifice your Hellfire Imps within 15 yds, healing you 15% of your maximum health, plus an additional amount equal to 25% of each of your Hellfire Imp's maximum health.Hellfire Imps sacrificed in this way leave behind corpses.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-47-6-2"
+     ]
+    },
+    {
+     "id": "17-47-0-4",
+     "name": "Demonfire Retaliation",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "5_druideskill41_border",
+     "spellId": 573034,
+     "description": "Grants you a 30% chance to generate a stack of Demonfire when attacked.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-1-3"
+     ]
+    },
+    {
+     "id": "17-47-2-4",
+     "name": "Hellish Rebuke",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_bow_1h_firelandsraid_d_01",
+     "spellId": 300391,
+     "description": "Generating a stack of Demon's Blood now has a 15% chance to trigger a fiery explosion on up to 5 nearby enemies, dealing 96 Fire damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-2-3",
+      "17-47-1-3"
+     ]
+    },
+    {
+     "id": "17-47-4-4",
+     "name": "Implosion",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "custom_12_summon_imp_army_border",
+     "spellId": 524897,
+     "description": "Explode with hellish fire, dealing 51 + 25% Strength + 50% fire SP + 10% AP Fire damage to nearby enemies, beckoning Hellfire Imps to aid you in battle for 12 seconds, and generating 30 Rage.Deals increased damage and increases the amount of imps summoned by 1 for each Demonfire consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-47-4-2a",
+      "17-47-4-2b"
+     ]
+    },
+    {
+     "id": "17-47-6-4",
+     "name": "Hellfire Reprimand",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_plate_firelands_d_01",
+     "spellId": 706565,
+     "description": "Your Hellfire Imps now have a 20% chance on hit to launch a firebolt dealing 40% Strength Fire damage and reducing enemy attack power by 190 for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-7-3",
+      "17-47-6-3"
+     ]
+    },
+    {
+     "id": "17-47-8-4",
+     "name": "Soul Furnace",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "nhi_fireblast_border",
+     "spellId": 706758,
+     "description": "Sacrificial Circle now grants you a damage absorption shield equal to 15% of the total health of each destroyed imp for 10 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-7-3"
+     ]
+    },
+    {
+     "id": "17-47-10-4",
+     "name": "Hellfire Resolve",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "ability_warlock_moltencore",
+     "spellId": 573035,
+     "description": "Level 30 PassiveIncreases your block rating by 15% of your Strength and increases your hit rating by 5% of your Strength.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "17-47-10-2"
+     ]
+    },
+    {
+     "id": "17-47-1-5",
+     "name": "Demon's Breath",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "spell_shadow_demonicfortitude",
+     "spellId": 706563,
+     "description": "Critical strikes with Shieldgore now unleash an eruption of hellfire, causing 111 + 20% AP Fire damage and generating 1 additional Demonfire.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-2-4",
+      "17-47-0-4"
+     ]
+    },
+    {
+     "id": "17-47-4-5",
+     "name": "Demonfire Command",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "spell_shadow_rainoffire",
+     "spellId": 707028,
+     "description": "Reduces the cooldown of Implosion by -10 sec and its Rage cost by -5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-4-4"
+     ]
+    },
+    {
+     "id": "17-47-7-5",
+     "name": "Infernal Bulwark",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_shield_firelandsraid_d_01",
+     "spellId": 706564,
+     "description": "Casting Unleash Pestilence now generates 4 stacks of Demonfire and grants Infernal Bulwark.Infernal Bulwark (Proc)Increases block value by 20% for 18 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-8-4",
+      "17-47-6-4"
+     ]
+    },
+    {
+     "id": "17-47-0-6",
+     "name": "Stoke the Flames",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_belt_plate_raidwarrior_j_01",
+     "spellId": 704973,
+     "description": "Your Skulltaker and Melt used with 6 Demonfire now refund 2 Demonfire.Skulltaker used with 6 Demonfire now deals an additional 30% Fire damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-1-5"
+     ]
+    },
+    {
+     "id": "17-47-2-6a",
+     "name": "Brimstone Knight",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "epic_rpg_icon_pack_brutal_icon_0009s_0000_fire_border",
+     "spellId": 704972,
+     "description": "Increases your Fire damage dealt by 3% and dealing Fire damage increases the enemy spell damage taken by 10% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-1-5",
+      "17-47-4-5"
+     ]
+    },
+    {
+     "id": "17-47-2-6b",
+     "name": "Speed Demon",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "achievement_zone_hellfirepeninsula_01",
+     "spellId": 707232,
+     "description": "Your Suffuse now increases your movement speed by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-47-4-6",
+     "name": "Chains of Xoroth",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "nhi_holychains_border",
+     "spellId": 706756,
+     "description": "Create demonic chains at target location that slow enemies inside by -80% for 5 seconds. At the end of the duration, it pulls all affected enemies to it.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-47-4-5"
+     ]
+    },
+    {
+     "id": "17-47-6-6",
+     "name": "Pestilent Retaliation",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "5_bull_border",
+     "spellId": 704971,
+     "description": "When you block an attack you now have a 5% chance to unleash your active Pestilence at half of its effectiveness.Can only occur once every 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-7-5",
+      "17-47-4-5"
+     ]
+    },
+    {
+     "id": "17-47-8-6",
+     "name": "Forgefiend's Bulwark",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "epic_rpg_icon_pack_fire_0004s_0000_armor_border",
+     "spellId": 801065,
+     "description": "Successful blocks, parries and dodges now have a 30% chance to Enrage you, increasing your damage dealt by 10% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-7-5"
+     ]
+    },
+    {
+     "id": "17-47-10-6",
+     "name": "Imp Aura",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_fabric_spellfire",
+     "spellId": 560546,
+     "description": "Level 40 PassiveEach Hellfire Imp now reduces your Magic damage taken by 1%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "17-47-10-4"
+     ]
+    },
+    {
+     "id": "17-47-0-7a",
+     "name": "Hellfire Sieger",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_magemount_fire",
+     "spellId": 560828,
+     "description": "Doubles the absorption of Black Shield while below 35% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-0-6"
+     ]
+    },
+    {
+     "id": "17-47-0-7b",
+     "name": "Brimstone Striker",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_implosion",
+     "spellId": 807144,
+     "description": "Damage dealt by Stoke the Flames now reduces the cooldown of Sever and Juggernaut by -4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-47-2-7",
+     "name": "Demolisher",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_helmet_103",
+     "spellId": 807336,
+     "description": "Casting Flesh Hook or Chainwhip now taunts the target for 2 seconds and reduces your Physical damage taken by -5% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-4-6",
+      "17-47-2-6a",
+      "17-47-2-6b"
+     ]
+    },
+    {
+     "id": "17-47-4-7a",
+     "name": "Hellfire Bellows",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "nhi_corruptionfire_border",
+     "spellId": 807587,
+     "description": "Transforms your Flames of Xoroth into Hellfire Bellows.Hellfire BellowsBellow fire on all enemies in a 6 yd cone in front of and behind you, dealing 252 + 17.63% AP + 40% fire SP Fire damage and reducing the cooldown of Chains of Xoroth by -4 sec per enemy hit.Cooldown is reduced by -3 sec for each Demonfire consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-47-4-6"
+     ]
+    },
+    {
+     "id": "17-47-4-7b",
+     "name": "Black Skull Shield",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_shield_01",
+     "spellId": 804354,
+     "description": "Reduces the Rage cost of Shieldgore by -5 and increases its damage by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "17-47-6-7",
+     "name": "Demonic Grit",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_helm_cloth_raidwarlock_r_01",
+     "spellId": 805678,
+     "description": "Grant your summons demonic grit, increasing their total health by 15% and reducing their damage taken by by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-4-6",
+      "17-47-6-6"
+     ]
+    },
+    {
+     "id": "17-47-8-7",
+     "name": "Fiend of Forges",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "uico_fire_spell_03_border",
+     "spellId": 300386,
+     "description": "Forgefiend's Bulwark now also increases your critical strike chance by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-8-6"
+     ]
+    },
+    {
+     "id": "17-47-2-8",
+     "name": "Hellwrath",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_trinket_firelands_03",
+     "spellId": 804014,
+     "description": "Your Demon's Blood can now stack 5 additional times and each stack now increases the absorption amount of Black Shield by 1%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-0-7a",
+      "17-47-2-7",
+      "17-47-0-7b"
+     ]
+    },
+    {
+     "id": "17-47-4-8",
+     "name": "Curse of Xoroth",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_shadowflame_groundstate",
+     "spellId": 804169,
+     "description": "Curse an enemy for 15 seconds, dealing 1575 + 100% AP Shadowflame Damage over 15 seconds.Your next Shieldgore within 12 seconds grants you Black Shield, absorbing 860 + 200% Stamina damage for 30 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-47-4-7a",
+      "17-47-6-7",
+      "17-47-2-7",
+      "17-47-4-7b"
+     ]
+    },
+    {
+     "id": "17-47-6-8",
+     "name": "Fiery Retribution",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "inv_stave_2h_firelandsraid_d_01",
+     "spellId": 804013,
+     "description": "Each time a Hellfire Imp dies, you reduce the cooldown of Sacrificial Circle by -2 sec and Implosion by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-6-7",
+      "17-47-8-7"
+     ]
+    },
+    {
+     "id": "17-47-10-8",
+     "name": "Demonic Bulwark",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "spell_fire_firearmor",
+     "spellId": 573066,
+     "description": "Level 50 PassiveYour successful blocks now have a 30% chance to critically block for twice the normal amount.Chance to trigger is increased by 2% for each Hellfire Imp you have active.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "17-47-10-6"
+     ]
+    },
+    {
+     "id": "17-47-2-9",
+     "name": "Call: Hellfire Abyssal",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "spell_warlock_summonabyssal",
+     "spellId": 805074,
+     "description": "Call down a Hellfire Abyssal from the sky to crash down upon the targeted 8 yd area, dealing 1500 + 100% SP + 100% AP Fire damage.The abyssal remains to aid you in battle for 15 seconds and emits an aura that reduces the damage taken by party and raid members within 40 yds by -5%.Costs -15 less Rage for each active Hellfire Imp.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-47-2-8",
+      "17-47-4-8"
+     ]
+    },
+    {
+     "id": "17-47-4-9",
+     "name": "A Curse from Hell",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "nhi_fireenchantment_border",
+     "spellId": 302548,
+     "description": "Periodic damage dealt now has a 15% chance to reduce the cooldown of Curse of Xoroth by -3 sec.Chance to trigger is increased by 2% for each stack of Demonfire active.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "17-47-4-8"
+     ]
+    },
+    {
+     "id": "17-47-6-9",
+     "name": "Legion's Presence",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 47,
+     "icon": "achievement_dungeon_blackrockcaverns",
+     "spellId": 804879,
+     "description": "Emanate an aura to all party and raid members within 25 yds for 15 seconds, increasing their damage dealt by 10%.Fire damage dealt by Hellfire Imps is increased by 150% and total health increased by 50% while this effect is active on them.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "17-47-6-8",
+      "17-47-4-8"
+     ]
+    }
+   ]
+  }
+ ]
+}

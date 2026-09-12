@@ -1,0 +1,8 @@
+{
+  "name_enus": "Unrelenting Army",
+  "icon": "spell_deathknight_armyofthedead",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Unrelenting Army</b></td><th><b class=\"q0\">Proc</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cost of <span style=\"color: #ffffff;\">Animate</span> and <span style=\"color: #ffffff;\">Raise</span> spells by 498%.</span></td></tr></table><!--?705748:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

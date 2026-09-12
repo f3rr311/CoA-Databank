@@ -1,0 +1,8 @@
+{
+  "name_enus": "Foul Invocation",
+  "icon": "achievement_boss_festergutrotface",
+  "tooltip_enus": "<table><tr><td><b>Foul Invocation</b><br />25% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Transform into an undead monstrosity for 20&nbsp;sec, increasing your maximum health by 30%.<br /><br />While transformed you are immune to Fear, Sleep, Charm, and Disease effects.</span></td></tr></table><!--?804371:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

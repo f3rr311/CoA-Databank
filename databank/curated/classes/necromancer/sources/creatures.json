@@ -1,0 +1,50 @@
+{
+  "records": [
+    {
+      "ScriptName": "",
+      "entry": 26125,
+      "faction": 35,
+      "family": 0,
+      "maxlevel": 80,
+      "minlevel": 1,
+      "name": "Risen Ghoul",
+      "type": 6,
+      "unit_class": 2
+    },
+    {
+      "ScriptName": "npc_pet_dk_army_of_the_dead",
+      "display_id": 26079,
+      "display_scale": 1.0,
+      "entry": 50076,
+      "faction": 16,
+      "family": 0,
+      "maxlevel": 80,
+      "minlevel": 1,
+      "name": "Skeletal Archer",
+      "probability": 1.0,
+      "source_authority": "compatible-reconstruction",
+      "source_path": ".recovery/2026-07-29/database/acore_world.sql",
+      "source_sha256": "ad01247a6500aa930db53600b7f2283f29f69562ba9f4ab7134ccb75b4ac4aec",
+      "type": 6,
+      "unit_class": 1
+    },
+    {
+      "ScriptName": "",
+      "display_id": 9790,
+      "display_scale": 1.0,
+      "entry": 14489,
+      "faction": 14,
+      "family": 0,
+      "maxlevel": 60,
+      "minlevel": 60,
+      "name": "Scourge Archer",
+      "probability": 1.0,
+      "source_authority": "compatible-reconstruction",
+      "source_path": ".work/azerothcore/data/sql/base/db_world/creature_template.sql",
+      "source_sha256": "0066e4fd35b809986dd325487515087f5a95f4ffe50ea03846c8d8bf5196870a",
+      "type": 6,
+      "unit_class": 1
+    }
+  ],
+  "schema_version": 1
+}

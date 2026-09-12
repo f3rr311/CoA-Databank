@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mycelial Replenishment",
+  "icon": "spell_fire_burnoutgreen",
+  "tooltip_enus": "<table><tr><td><b>Mycelial Replenishment</b><br />3&nbsp;min cooldown</td></tr></table><table><tr><td><span class=\"q\">Increases your critical strike chance and critical healing done by 20% for 20&nbsp;sec and instantly restore 30% of your maximum mana, but consumes all stacks of <span style=\"color: #ffffff;\">Mycelial Healing</span> on all nearby allies.<br /><br />While active, all periodic critical strikes heal for an additional 20% of the healing done.</span></td></tr></table><!--?706021:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

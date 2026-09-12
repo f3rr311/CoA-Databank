@@ -1,0 +1,8 @@
+{
+  "name_enus": "Past Self",
+  "icon": "ability_paladin_beaconsoflight",
+  "tooltip_enus": "<table><tr><td><b>Past Self</b><br />18% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Creates a clone of an ally for 30&nbsp;sec which will mimic their spells and abilities (except this spell) on a 2 sec delay.<br /><br />After being targeted by this spell, <span style=\"color: #ffffff;\">Past Self</span> cannot be cast on the ally again for 30&nbsp;sec.<br /><br />If you cast this spell on yourself, you cannot cast it again at all for another 30&nbsp;sec.</span></td></tr></table><!--?801278:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

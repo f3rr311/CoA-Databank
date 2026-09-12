@@ -1,0 +1,8 @@
+{
+  "name_enus": "Frozen Earth",
+  "icon": "nhi_frost_staff_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Frozen Earth</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the duration of <span style=\"color: #ffffff;\">Ice Rune</span> and the stun effect from <span style=\"color: #ffffff;\">Palm Sigil: Earth</span> by 1 sec.</span></td></tr></table><!--?705592:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

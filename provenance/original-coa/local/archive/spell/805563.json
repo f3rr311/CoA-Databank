@@ -1,0 +1,8 @@
+{
+  "name_enus": "Astral Blade",
+  "icon": "ability_demonhunter_manabreak",
+  "tooltip_enus": "<table><tr><td><b>Astral Blade</b><br /><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\"><span style=\"color: #ffffff;\">Drains 25% Maximum Mana</span><br />Strike an enemy with precision, dealing (106+0+0*0.1*4)+SP*1+AP*1 Arcane damage, increased further based on your maximum mana.<br /><br />Increases your dealt to the enemy by 15% for 5&nbsp;sec.</span></td></tr></table><!--?805563:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

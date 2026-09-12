@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rain of Comets",
+  "icon": "spell_mage_cometstorm",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Rain of Comets</b></td><th><b class=\"q0\">Starcaller Talent</b></th></tr></table>255% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Calls down a rain of comets upon the target area, inflicting 14+0+ArcP*0.178 Arcane damage to enemies in the area every 1 sec for 6&nbsp;sec.</span></td></tr></table><!--?805520:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

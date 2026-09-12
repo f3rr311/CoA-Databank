@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chains of Fire",
+  "icon": "novart_magicspell_%2837%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Chains of Fire</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cast time of <span style=\"color: #FFFFFF;\">Cindergrip</span> by 0.25 sec and increases its range by 10 yds.</span></td></tr></table><!--?706862:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

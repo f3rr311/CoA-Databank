@@ -1,0 +1,8 @@
+{
+  "name_enus": "Felhoof Charge",
+  "icon": "ability_demonhunter_felrush",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Felhoof Charge</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #32cd32;\">Generates 1 Felfury</span><br />Charge an enemy, dealing 60+0+AP*0.285 Physical damage.</span></td></tr></table><!--?800204:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

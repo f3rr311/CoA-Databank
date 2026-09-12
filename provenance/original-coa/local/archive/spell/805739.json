@@ -1,0 +1,8 @@
+{
+  "name_enus": "Giantslayer",
+  "icon": "_d3lethaldecoy",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Giantslayer</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of your <span style=\"color: #FFFFFF;\">Heartseeking Bolt</span> and <span style=\"color: #ffffff;\">Ricocheting Bolt</span> by 10%.</span></td></tr></table><!--?805739:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

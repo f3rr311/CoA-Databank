@@ -1,0 +1,8 @@
+{
+  "name_enus": "Forest Herald",
+  "icon": "ability_druid_treeoflife_red",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Forest Herald</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Toxic Dart</span> and abilities that spend stacks of <span style=\"color: #8fff7a;\">Advantage</span> now have a 20% chance to spawn a green <span style=\"color: #ffffff;\">Dreamflower</span> at a random location nearby within 15 yds of you.<br /><br />You can only spawn <span style=\"color: #ffffff;\">Dreamflowers</span> while in combat.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_misc_trailofflowers.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=561005'> Dream Flower </a> <br />\n                            <span> When an ally runs over the flower, they consume it to heal for 3% maximum health and gain 40% increased movement speed for 5&nbsp;sec.</span><br /></span></td></tr></table><!--?800150:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

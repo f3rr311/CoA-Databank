@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mojo Madness",
+  "icon": "_troll_04",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Mojo Madness</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage and healing done now have a 5% chance to reduce the cost of your next spell or ability by 100% for 10&nbsp;sec.</span></td></tr></table><!--?705871:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

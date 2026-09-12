@@ -1,0 +1,21 @@
+{
+  "name_enus": "Demonfury",
+  "icon": "spell_warlock_summonwrathguard",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Demonfury</b></td><th><b class=\"q0\">DISABLED</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Enrage, increasing your movement speed by 20%, your attack power by 10%, and your critical strike chance by 5%.<br /><br />Lasts <!--sp500906:0-->3&nbsp;sec<!--sp500906-->, plus 3 sec for each Demonfire consumed.<!--sp680718:0--><!--sp680718--></span></td></tr></table><!--?805668:1:1:80-->",
+  "spells_enus": {
+    "500906": [
+      [
+        "3&nbsp;sec",
+        "3 sec"
+      ]
+    ],
+    "680718": [
+      [
+        "",
+        " <br /><br />While active, your movement speed cannot be reduced below 90%."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

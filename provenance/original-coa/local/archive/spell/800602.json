@@ -1,0 +1,8 @@
+{
+  "name_enus": "Empowered Holy Form",
+  "icon": "spell_priest_divinestar_holy",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Empowered Holy Form</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Doubles the effectiveness of your <span style=\"color: #ffffff;\">Holy Form</span>.</span></td></tr></table><!--?800602:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dark Regeneration",
+  "icon": "spell_shadow_twistedfaith",
+  "tooltip_enus": "<table><tr><td><b>Dark Regeneration</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Embrace the darkness inside you, instantly generating 20% maximum mana and 50% maximum Rage.</span></td></tr></table><!--?500094:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Serrated Shot",
+  "icon": "ability_hunter_barbedshot",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Serrated Shot</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>25 Focus<br />Instant</td></tr></table><table><tr><td>Requires Bows, Crossbows<br /><span class=\"q\">Fire a serrated arrow at an enemy, causing them to bleed for 36+0+RAP*.25 Physical damage, repeating every 3 sec for 4&nbsp;sec.<br /><br />Duration increased by 4 sec per stack of <span style=\"color: #8fff7a;\">Advantage</span>.</span></td></tr></table><!--?500073:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

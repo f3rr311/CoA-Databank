@@ -1,0 +1,8 @@
+{
+  "name_enus": "Prismatic Knight",
+  "icon": "spell_mage_evanesce",
+  "tooltip_enus": "<table><tr><td><b>Prismatic Knight</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Increases your Armor by 100% of your Intellect and reduces damage done by 0%.<br /><br />Parrying an attack generates an <span style=\"color: #ffffff;\">Inscribed Rune</span> and increases your Melee Attack Speed by 10% for 12&nbsp;sec.<br /><br /><span style=\"color: #ffffff;\">Active while using a Two-Handed Melee Weapon.</span></span></td></tr></table><!--?804129:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

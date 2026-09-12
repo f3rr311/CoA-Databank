@@ -1,0 +1,15 @@
+{
+  "name_enus": "Impale",
+  "icon": "ability_rogue_shadowstrike",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Impale</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table>35 Rage<br /><table width=\"100%\"><tr><td>Channeled</td><th>40&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><!--sp802002:0--><span style=\"color: #ff3232;\"><!--sp802002-->Requires Blade Stance</span><br />Quickly strike your target every 0 sec for 1&nbsp;sec, Slowing their movement speed by 0%. Each strike deals 100% Weapon Damage plus 6 to 8.<br /><br /><span style=\"color: #ffffff;\">Wickedness</span>: Each strike consumes a stack of <span style=\"color: #ffffff;\">Sensed Evil</span> from the target dealing bonus Fire Damage.<br /><br /><span style=\"color: #ffffff;\">Purity</span>: While channeling, you take 1% reduced damage.</span></td></tr></table><!--?802008:1:1:80-->",
+  "spells_enus": {
+    "802002": [
+      [
+        "|cffff3232",
+        "|cffffffff"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

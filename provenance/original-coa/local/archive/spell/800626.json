@@ -1,0 +1,8 @@
+{
+  "name_enus": "Glorious Execution",
+  "icon": "inv_sword_2h_armyoflight_c_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Glorious Execution</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>6% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Strike with both weapons dealing Weapon Damage plus 8 Physical damage and regenerate mana equal to 5% of the damage dealt.</span></td></tr></table><!--?800626:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

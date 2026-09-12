@@ -1,0 +1,15 @@
+{
+  "name_enus": "Line Formation",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Line Formation</b><br />20 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your movement speed by 15%<!--sp92105:0--><!--sp92105--> and reduces the duration of movement impairing effects on you by 25%.</span></td></tr></table><!--?803130:1:1:80-->",
+  "spells_enus": {
+    "92105": [
+      [
+        "",
+        ", reduces your damage taken by 10%,"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Scorch Marks",
+  "icon": "inv_shield_1h_artifactstormfist_d_03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Scorch Marks</b></td><th><b class=\"q0\">Passive Sunflare</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Dawnsear</span> and <span style=\"color: #ffffff;\">Sunflare</span> now have a 40% chance to grant <span style=\"color: #ffffff;\">Scorch Marks</span> for 10&nbsp;sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_shield_1h_artifactstormfist_d_03.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=807059'> Scorch Marks </a> <br />\n                            <span> Your next <span style=\"color: #FFFFFF;\">Radiant Flame</span> has no mana cost, ticks 50% faster, and its duration is reduced by 50%. </span><br /></span></td></tr></table><!--?806021:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

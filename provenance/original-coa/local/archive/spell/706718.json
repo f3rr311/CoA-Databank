@@ -1,0 +1,8 @@
+{
+  "name_enus": "Festering Maw",
+  "icon": "spell_deathknight_gnaw_ghoul",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Festering Maw</b></td><th><b class=\"q0\">CDR</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Dealing damage to this target with auto attacks now restores health to you equal to 50% of the damage dealt.</span></td></tr></table><!--?706718:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

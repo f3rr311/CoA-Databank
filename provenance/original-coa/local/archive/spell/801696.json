@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spirit in a Bottle",
+  "icon": "inv_trade_alchemy_dpotion_c1a",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spirit in a Bottle</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>15% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Send a spirit to an ally, healing them for 109+0+SP*.45 and dealing damage to up to 5 enemies within 5 yds of them equal to 4% of the healing done.</span></td></tr></table><!--?801696:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

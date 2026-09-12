@@ -1,0 +1,8 @@
+{
+  "name_enus": "Guardian Module",
+  "icon": "inv_misc_enggizmos_09",
+  "tooltip_enus": "<table><tr><td><b>Guardian Module</b><br />9% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">3 Charges</span><br /><span style=\"color: #ffffff;\">20 sec recharge</span><br />Augments the next <span style=\"color: #ffffff;\">Repair Shot</span> within 10&nbsp;sec, causing it to apply a damage absorption shield for up to 12&nbsp;sec equal to 100% of the value of the shot.<br /><br />Shares a cooldown with <span style=\"color: #ffffff;\">Modules</span>.</span></td></tr></table><!--?805309:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

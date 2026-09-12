@@ -1,0 +1,8 @@
+{
+  "name_enus": "Barbed Quills",
+  "icon": "ability_gouge",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Barbed Quills</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Wild Strike</span> and <span style=\"color: #ffffff;\">Quills</span> will now tear into enemies, causing them to bleed for 69 to 75 Physical damage over 9&nbsp;sec, stacking 4 times.<br /><br />Damage dealt by <span style=\"color: #ffffff;\">Quills</span> now spreads your periodic effects to 5 enemies within 10 yds and extends their duration by 2 sec.</span></td></tr></table><!--?800077:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

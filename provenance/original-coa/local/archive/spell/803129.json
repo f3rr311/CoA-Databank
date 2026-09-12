@@ -1,0 +1,15 @@
+{
+  "name_enus": "Heavy Blow",
+  "icon": "spell_paladin_hammerofwrath",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Heavy Blow</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Smash an enemy and enemies behind them in a line, dealing 23+0+AP*0.45 High Threat Physical damage, scaling with defense rating.<!--sp705345:0--><!--sp705345--></span></td></tr></table><!--?803129:1:1:80-->",
+  "spells_enus": {
+    "705345": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #ff66cc\">Motivation</span>: Grants <span style=\"color: #ffffff\">Vanguard's Might</span>.@s:802894:0@"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

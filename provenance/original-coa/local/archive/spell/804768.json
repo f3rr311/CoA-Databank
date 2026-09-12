@@ -1,0 +1,8 @@
+{
+  "name_enus": "Might of Utgarde",
+  "icon": "achievement_dungeon_utgardepinnacle_normal",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Might of Utgarde</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Attacks from your <span style=\"color: #FFFFFF;\">Ancestral Combat</span> now heal your <span style=\"color: #ffffff;\">Honored Ancestor</span> for 5% maximum health and cause it to perform an <span style=\"color: #FFFFFF;\">Ancestral Whirl</span> attack.</span></td></tr></table><!--?804768:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

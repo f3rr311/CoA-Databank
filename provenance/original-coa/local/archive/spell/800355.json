@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sargeras Embrace",
+  "icon": "ability_demonhunter_eyebeam",
+  "tooltip_enus": "<table><tr><td><b>Sargeras Embrace</b><br />30 Energy, plus 30 per sec<br /><table width=\"100%\"><tr><td>Channeled</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Channel a beam of fel magic upon an enemy, slowing your target's movement speed by 60% for 5.5&nbsp;sec and dealing COND(GT(FireP, ShaP), 695+0+FireP*0.85, 695+0+ShaP*0.85) Shadowflame Damage at the end of the duration.<br /><br />For the duration, you may instant cast <span style=\"color: #ffffff;\">Fel Fireball</span> and <span style=\"color: #ffffff;\">Ruin</span> while channeling and they refund their cost.</span></td></tr></table><!--?800355:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

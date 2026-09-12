@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lavabender",
+  "icon": "achievement_zone_firelands",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lavabender</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases Fire Damage dealt by 6% and reduces the cost of Nature spells by 10%.</span></td></tr></table><!--?706207:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

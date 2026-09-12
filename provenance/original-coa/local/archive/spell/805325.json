@@ -1,0 +1,8 @@
+{
+  "name_enus": "Combat Dash",
+  "icon": "ability_rogue_fleetfooted",
+  "tooltip_enus": "<table><tr><td><b>Combat Dash</b><br />10% of base mana<br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #FFFFFF;\">2 Charges</span> <br /><span style=\"color: #ffffff;\">60 sec recharge</span><br />Increases movement speed by 40% for 6&nbsp;sec. Dealing any direct damage ends this effect. Stacks 2 times.</span></td></tr></table><!--?805325:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

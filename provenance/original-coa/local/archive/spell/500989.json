@@ -1,0 +1,8 @@
+{
+  "name_enus": "Raise: Decaying Colossus",
+  "icon": "achievement_dungeon_grimbatol_drahga_the_shadowburner",
+  "tooltip_enus": "<table><tr><td><b>Raise: Decaying Colossus</b><br />69% of base mana<br />3 sec cast</td></tr></table><table><tr><td><span class=\"q\">Raise a <span style=\"color: #ffffff;\">Decaying Colossus</span> to aid you in combat, occupying 3 <span style=\"color: #ffffff;\">Life Force</span>. <br /><br />While active, 25% of all damage taken by the caster is taken by the <span style=\"color: #ffffff;\">Decaying Colossus</span>.<br /><br /><span style=\"color: #90ee90;\">Command</span>: Unleash a powerful attack dealing Weapon Damage plus 100+1.0 Points Per Level to all enemies in front of it.</span></td></tr></table><!--?500989:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

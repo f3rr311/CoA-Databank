@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bark Orders",
+  "icon": "_d3threateningshout",
+  "tooltip_enus": "<table><tr><td><b>Bark Orders</b><br />10 Energy<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the effectiveness of your <span style=\"color: #ffffff;\">Ballads</span> by 10% for 15&nbsp;sec, stacking 3 times.</span></td></tr></table><!--?800318:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

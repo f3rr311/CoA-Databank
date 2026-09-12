@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flow of Water",
+  "icon": "inv_misc_volatilewater",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flow of Water</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #FFFFFF;\">Way of the Naga</span> by 30 sec.</span></td></tr></table><!--?800365:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

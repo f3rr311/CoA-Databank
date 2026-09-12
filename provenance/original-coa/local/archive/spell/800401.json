@@ -1,0 +1,15 @@
+{
+  "name_enus": "Axe Twirling",
+  "icon": "inv_axe_104",
+  "tooltip_enus": "<table><tr><td><b>Axe Twirling</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Display mastery over throwing weapons for 10&nbsp;sec, causing <!--sp707661:0--><span style=\"color: #FFFFFF;\">Throw Weapon</span><!--sp707661-->, <span style=\"color: #ffffff;\">Gutspiller</span>, and <span style=\"color: #FFFFFF;\">Berserker Axe</span> to strike 2 additional nearby enemies.</span></td></tr></table><!--?800401:1:1:80-->",
+  "spells_enus": {
+    "707661": [
+      [
+        "<span style=\"color: #FFFFFF\">Throw Weapon</span>",
+        "<span style=\"color: #ffffff\">Javelin Toss</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

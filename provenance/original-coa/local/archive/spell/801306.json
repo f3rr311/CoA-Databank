@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fracture Timeline",
+  "icon": "achievement_bg_winwsg_underxminutes",
+  "tooltip_enus": "<table><tr><td><b>Fracture Timeline</b><br />18% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Creates a clone of an enemy player for 8&nbsp;sec which will deal 70% of all damage it takes to the original target.</span></td></tr></table><!--?801306:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

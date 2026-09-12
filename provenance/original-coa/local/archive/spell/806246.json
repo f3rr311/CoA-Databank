@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dilation",
+  "icon": "inv_magemount",
+  "tooltip_enus": "<table><tr><td><b>Dilation</b><br />8% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Shields your spellcasting for 5&nbsp;sec, granting Immunity to Interrupt effects and prevents pushback from taking damage while casting.<br /><br />Usable while casting or channeling another spell.</span></td></tr></table><!--?806246:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Outlaw",
+  "icon": "_human_04",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Outlaw</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the effectiveness of your <span style=\"color: #FFFFFF;\">Adaptations</span> by 20%.</span></td></tr></table><!--?706277:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

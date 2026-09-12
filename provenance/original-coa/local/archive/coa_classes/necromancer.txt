@@ -1,0 +1,52 @@
+Necromancer Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Necromancer Overview
+ The Necromancer is one of Conquest of Azeroth's most iconic classes, commanding the dead through Life Force. At level 10 you choose Death for disease spread, Animation for minion swarms, or Rime for frost-powered lichdom. Early levels introduce basic summons; the full pet army unlocks through the 30–60 bracket.
+ Dark caster who commands hordes of undead minions — skeletons, wraiths, abominations, and ghouls — while wielding plague and frost damage.
+ Class Mechanic — Life Force
+ Necromancers possess a pool of reanimating energy used to raise and sustain undead pets.
+ Necromancer uses Mana as its primary resource and wears Cloth armor.
+ Specializations
+ At level 10, Necromancer players choose one of three specializations, each offering a distinct playstyle:
+ Death: Spread devastating diseases with plague bombs and crypt plagues for sustained DoT damage while minions batter diseased foes.
+ Animation: Become a dark summoner, animating hordes of undead to swarm and overwhelm enemies.
+ Rime: Embrace the frosts of Northrend, transforming into a powerful Lich with icy magic and caster-focused minions.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Strong solo leveling with pets
+ Strength: Excellent sustained AoE
+ Strength: Multiple minion types for flexibility
+ Weakness: Vulnerable to focus fire in PvP
+ Weakness: Pet management adds complexity
+ Weakness: Lower burst than pure casters
+ Leveling Tips
+ Prioritize Animation or Death for smooth solo questing. Keep minions active between pulls and use crowd control on humanoid targets. At level 30, invest Ability Essences into your spec tree for meaningful power spikes.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Necromancers excel in battlegrounds with pet pressure but struggle against focused burst. Animation provides the most consistent PvP presence with multiple bodies absorbing damage.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Necromancer in Conquest of Azeroth? Necromancer is a Ranged DPS class wearing Cloth armor with Mana as its resource.
+ What is the Life Force mechanic? Necromancers possess a pool of reanimating energy used to raise and sustain undead pets.
+ When do Necromancer specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Necromancer good for beginners? Necromancer has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Necromancer have? Necromancer has three specializations: Death, Animation, Rime.

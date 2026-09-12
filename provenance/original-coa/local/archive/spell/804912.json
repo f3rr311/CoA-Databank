@@ -1,0 +1,8 @@
+{
+  "name_enus": "Parry Dance",
+  "icon": "inv_ascend_whirlpool_b_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Parry Dance</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">When you critically strike with auto attacks or parry an attack, your chance to parry is now increased by 3% for 5&nbsp;sec, stacking 5 times.</span></td></tr></table><!--?804912:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Darkstalker",
+  "icon": "inv_voidboss",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Darkstalker</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the cooldown of <span style=\"color: #ffffff;\">Vault</span> by 10 sec, but removes its cost and causes your auto attacks to reduce its remaining cooldown by 1 sec.</span></td></tr></table><!--?500091:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

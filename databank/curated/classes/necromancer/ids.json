@@ -1,0 +1,1002 @@
+{
+  "allocation_policy": {
+    "existing_assignments": "immutable",
+    "new_keys": "lexicographic-lowest-free",
+    "range_boundaries": "immutable-after-freeze",
+    "source_category_family_offset": 6
+  },
+  "collision_scan": {
+    "evidence_digest": "239ce5e2a3a959bdef631d4e9893e32a31a3c50c5cfcd745d9a8b721e94f2d9d",
+    "evidence_status": "passed",
+    "report": "artifacts/reports/id-scan.json",
+    "report_sha256": "45fd20dfa8bb1d2aa3f07b4959546581e2267295577dbe4bcc9b8b068732f6bf",
+    "scanned_on": "2026-07-29",
+    "source_anchors": {
+      "acore_world_dump": {
+        "path": ".recovery\\2026-07-29\\database\\acore_world.sql",
+        "sha256": "ad01247a6500aa930db53600b7f2283f29f69562ba9f4ab7134ccb75b4ac4aec"
+      },
+      "ascension_donor_spell_dbc": {
+        "path": "C:\\COA\\out\\import\\donor\\Spell.dbc",
+        "sha256": "1f4b79ca4746264e38dc259b070073454ab9daaf0e5c31d3f66cc9051232b68d"
+      },
+      "ascension_item_dbc": {
+        "archive": "C:\\Program Files\\Ascension Launcher\\resources\\client\\Data\\patch-M.MPQ",
+        "internal_path": "DBFilesClient\\Item.dbc",
+        "sha256": "05e8a5d51bdd31f3ea5fc8f309d9eb0929fe0d62f2cf823c3ead2e930b96fbcd"
+      },
+      "ascension_item_display_info_dbc": {
+        "archive": "C:\\Program Files\\Ascension Launcher\\resources\\client\\Data\\patch-M.MPQ",
+        "internal_path": "DBFilesClient\\ItemDisplayInfo.dbc",
+        "sha256": "d04ab34b7443c5c1b08b560afd508045d2d859314ab11a48efdf89e901974712"
+      },
+      "coa_library_dump": {
+        "path": ".recovery\\2026-07-29\\database\\coa_library.sql",
+        "sha256": "c6d19670bb6ab5221363048d945267e688a6c8bc89868194d4ee622de38287d9"
+      },
+      "current_coa_spell_dbc": {
+        "path": "C:\\COA\\out\\Spell.dbc",
+        "sha256": "42b10aa4d3c1f9476ba38fc949dd35ad7ff5f9510dbefadf8ff7f9d36f4f2cc7"
+      },
+      "roster": {
+        "path": "content\\roster.json",
+        "sha256": "b75b00e41466a7d65ae8da0e8aae1200fe7db2f54eb9cbcf943f7dc66f1da18f"
+      },
+      "source_class_map": {
+        "path": "content\\provenance\\original-coa\\local\\coa_spell_ids\\_class_map.json",
+        "sha256": "368a3e008c492b0affe038211bb264f473392da6e07b70fafe57c1293d9f04fd"
+      },
+      "stock_335a_spell_dbc": {
+        "path": "C:\\COA\\base\\Spell.dbc",
+        "sha256": "d5cce1a83550dcfa9eb2f0251dbb11fd24c272534b2b1a9b230924a44d817ab3"
+      }
+    },
+    "source_files": 237,
+    "source_table_scans": 263,
+    "total_reserved_range_hits": 0
+  },
+  "dynamic_mask_slots": {
+    "purpose": "Exact spellmod target sets allocated only after the compiler proves each member spell.",
+    "word_1": {
+      "first_bit": 4,
+      "last_bit": 31
+    },
+    "word_2": {
+      "first_bit": 0,
+      "last_bit": 31
+    }
+  },
+  "namespace_version": "1.0.0",
+  "namespaces": {
+    "creature-display": {
+      "assignments": {
+        "binding.bytecoa.necromancer.skeletal-archer": 4300000,
+        "binding.bytecoa.necromancer.tomb-king": 4300001
+      },
+      "domain": "creature-display",
+      "end": 4399999,
+      "start": 4300000
+    },
+    "creature-model": {
+      "assignments": {
+        "binding.bytecoa.necromancer.skeletal-archer": 4400000,
+        "binding.bytecoa.necromancer.tomb-king": 4400001
+      },
+      "domain": "creature-model",
+      "end": 4499999,
+      "start": 4400000
+    },
+    "creature.custom": {
+      "assignments": {
+        "summon.necromancer.bone-wraith": 4200002,
+        "summon.necromancer.skeletal-archer": 4200001,
+        "summon.necromancer.skeletal-mage": 4200000,
+        "summon.necromancer.tomb-king": 4200003
+      },
+      "domain": "creature-entry",
+      "end": 4298999,
+      "start": 4200000
+    },
+    "creature.test-dummy": {
+      "assignments": {},
+      "domain": "creature-entry",
+      "end": 4299999,
+      "start": 4299000
+    },
+    "item": {
+      "assignments": {},
+      "domain": "item",
+      "end": 4799999,
+      "start": 4500000
+    },
+    "item-display": {
+      "assignments": {},
+      "domain": "item-display",
+      "end": 4999999,
+      "start": 4800000
+    },
+    "protocol": {
+      "assignments": {},
+      "domain": "bytecoa-protocol",
+      "end": 1099999,
+      "start": 1000000
+    },
+    "skill-line": {
+      "assignments": {
+        "class.barbarian": 2000,
+        "class.bloodmage": 2001,
+        "class.chronomancer": 2002,
+        "class.cultist": 2003,
+        "class.felsworn": 2004,
+        "class.guardian": 2005,
+        "class.knight-of-xoroth": 2006,
+        "class.necromancer": 2007,
+        "class.primalist": 2008,
+        "class.pyromancer": 2009,
+        "class.ranger": 2010,
+        "class.reaper": 2011,
+        "class.runemaster": 2012,
+        "class.starcaller": 2013,
+        "class.stormbringer": 2014,
+        "class.sun-cleric": 2015,
+        "class.templar": 2016,
+        "class.tinker": 2017,
+        "class.venomancer": 2018,
+        "class.witch-doctor": 2019,
+        "class.witch-hunter": 2020,
+        "spec.barbarian.ancestry": 2021,
+        "spec.barbarian.brutality": 2022,
+        "spec.barbarian.headhunting": 2023,
+        "spec.bloodmage.blood": 2024,
+        "spec.bloodmage.ferocity": 2025,
+        "spec.bloodmage.fleshweaver": 2026,
+        "spec.bloodmage.packleader": 2027,
+        "spec.chronomancer.artificer": 2028,
+        "spec.chronomancer.displacement": 2029,
+        "spec.chronomancer.duality": 2030,
+        "spec.cultist.corruption": 2031,
+        "spec.cultist.dreadnought": 2032,
+        "spec.cultist.godblade": 2033,
+        "spec.cultist.influence": 2034,
+        "spec.felsworn.infernal": 2035,
+        "spec.felsworn.slaying": 2036,
+        "spec.felsworn.tyrant": 2037,
+        "spec.guardian.gladiator": 2038,
+        "spec.guardian.inspiration": 2039,
+        "spec.guardian.vanguard": 2040,
+        "spec.knight-of-xoroth.defiance": 2041,
+        "spec.knight-of-xoroth.hellfire": 2042,
+        "spec.knight-of-xoroth.war": 2043,
+        "spec.necromancer.animation": 2044,
+        "spec.necromancer.death": 2045,
+        "spec.necromancer.rime": 2046,
+        "spec.primalist.geomancy": 2047,
+        "spec.primalist.life": 2048,
+        "spec.primalist.mountain-king": 2049,
+        "spec.primalist.wildwalker": 2050,
+        "spec.pyromancer.draconic": 2051,
+        "spec.pyromancer.flameweaving": 2052,
+        "spec.pyromancer.incineration": 2053,
+        "spec.ranger.archery": 2054,
+        "spec.ranger.brigand": 2055,
+        "spec.ranger.farstrider": 2056,
+        "spec.reaper.domination": 2057,
+        "spec.reaper.harvest": 2058,
+        "spec.reaper.soul": 2059,
+        "spec.runemaster.conjuration": 2060,
+        "spec.runemaster.riftblade": 2061,
+        "spec.runemaster.spellslinger": 2062,
+        "spec.starcaller.moon-guard": 2063,
+        "spec.starcaller.moon-priest": 2064,
+        "spec.starcaller.sentinel": 2065,
+        "spec.starcaller.warden": 2066,
+        "spec.stormbringer.lightning": 2067,
+        "spec.stormbringer.thunder": 2068,
+        "spec.stormbringer.winds": 2069,
+        "spec.sun-cleric.blessings": 2070,
+        "spec.sun-cleric.piety": 2071,
+        "spec.sun-cleric.seraphim": 2072,
+        "spec.sun-cleric.valkyrie": 2073,
+        "spec.templar.crusader": 2074,
+        "spec.templar.discipline": 2075,
+        "spec.templar.martial": 2076,
+        "spec.tinker.demolition": 2077,
+        "spec.tinker.invention": 2078,
+        "spec.tinker.mechanics": 2079,
+        "spec.venomancer.fortitude": 2080,
+        "spec.venomancer.rot": 2081,
+        "spec.venomancer.stalking": 2082,
+        "spec.venomancer.vizier": 2083,
+        "spec.witch-doctor.brewing": 2084,
+        "spec.witch-doctor.shadowhunting": 2085,
+        "spec.witch-doctor.voodoo": 2086,
+        "spec.witch-hunter.black-knight": 2087,
+        "spec.witch-hunter.boltslinger": 2088,
+        "spec.witch-hunter.darkness": 2089,
+        "spec.witch-hunter.inquisition": 2090
+      },
+      "domain": "skill-line",
+      "end": 2099,
+      "start": 2000
+    },
+    "sound": {
+      "assignments": {},
+      "domain": "sound",
+      "end": 5599999,
+      "start": 5500000
+    },
+    "spell-icon": {
+      "assignments": {},
+      "domain": "spell-icon",
+      "end": 5399999,
+      "start": 5300000
+    },
+    "spell-missile": {
+      "assignments": {},
+      "domain": "spell-missile",
+      "end": 5499999,
+      "start": 5400000
+    },
+    "spell-visual": {
+      "assignments": {},
+      "domain": "spell-visual",
+      "end": 5199999,
+      "start": 5100000
+    },
+    "spell-visual-kit": {
+      "assignments": {},
+      "domain": "spell-visual-kit",
+      "end": 5299999,
+      "start": 5200000
+    },
+    "spell.helper": {
+      "assignments": {
+        "spell.necromancer.animation.bone-wraith-bonestorm": 4060005,
+        "spell.necromancer.animation.bone-wraith-bonestorm-tick": 4060006,
+        "spell.necromancer.animation.mindless-fury-haste": 4060002,
+        "spell.necromancer.animation.skeletal-archer-shot": 4060000,
+        "spell.necromancer.animation.skeletal-archer-summon": 4060001,
+        "spell.necromancer.animation.summoning-expert-stamina": 4060007,
+        "spell.necromancer.animation.tomb-king-plague-aura": 4060008,
+        "spell.necromancer.animation.tomb-king-plague-damage": 4060009,
+        "spell.necromancer.crypt-plague-aura": 4060003,
+        "spell.necromancer.crypt-plague-explosion": 4060004
+      },
+      "domain": "spell",
+      "end": 4099999,
+      "start": 4060000
+    },
+    "spell.player": {
+      "assignments": {
+        "spell.necromancer.animation.command-skeletal-archers": 4000007,
+        "spell.necromancer.command-undead": 4000000,
+        "spell.necromancer.crypt-plague": 4000008,
+        "spell.necromancer.crypt-swarm": 4000001,
+        "spell.necromancer.grave-silence": 4000002,
+        "spell.necromancer.lich-bolt": 4000003,
+        "spell.necromancer.lichfrost": 4000004,
+        "spell.necromancer.plague-of-undeath": 4000006,
+        "spell.necromancer.raise-abomination": 4000005
+      },
+      "domain": "spell",
+      "end": 4019999,
+      "start": 4000000
+    },
+    "spell.talent": {
+      "assignments": {
+        "spell.necromancer.animation.animate-bone-wraith": 4020093,
+        "spell.necromancer.animation.animate-skeletal-archer": 4020086,
+        "spell.necromancer.animation.animate-tomb-king": 4020094,
+        "spell.necromancer.animation.grave-mastery": 4020095,
+        "spell.necromancer.animation.mindless-fury": 4020092,
+        "spell.necromancer.animation.scaffold.rank-1": 4020087,
+        "spell.necromancer.animation.scaffold.rank-2": 4020088,
+        "spell.necromancer.animation.scaffold.rank-3": 4020089,
+        "spell.necromancer.animation.scaffold.rank-4": 4020090,
+        "spell.necromancer.animation.scaffold.rank-5": 4020091,
+        "spell.necromancer.animation.skeletal-artillery.rank-1": 4020096,
+        "spell.necromancer.animation.skeletal-artillery.rank-2": 4020097,
+        "spell.necromancer.animation.summoning-adept": 4020098,
+        "spell.necromancer.animation.summoning-expert": 4020099,
+        "spell.necromancer.class.banshee-covenant": 4020000,
+        "spell.necromancer.class.blackened-script.rank-1": 4020001,
+        "spell.necromancer.class.blackened-script.rank-2": 4020002,
+        "spell.necromancer.class.blackened-script.rank-3": 4020003,
+        "spell.necromancer.class.blackened-script.rank-4": 4020004,
+        "spell.necromancer.class.blackened-script.rank-5": 4020005,
+        "spell.necromancer.class.carrion-lore.rank-1": 4020006,
+        "spell.necromancer.class.carrion-lore.rank-2": 4020007,
+        "spell.necromancer.class.carrion-lore.rank-3": 4020008,
+        "spell.necromancer.class.carrion-lore.rank-4": 4020009,
+        "spell.necromancer.class.carrion-lore.rank-5": 4020010,
+        "spell.necromancer.class.cold-reliquary.rank-1": 4020011,
+        "spell.necromancer.class.cold-reliquary.rank-2": 4020012,
+        "spell.necromancer.class.cold-reliquary.rank-3": 4020013,
+        "spell.necromancer.class.cold-reliquary.rank-4": 4020014,
+        "spell.necromancer.class.cold-reliquary.rank-5": 4020015,
+        "spell.necromancer.class.colossus-covenant": 4020016,
+        "spell.necromancer.class.deaths-conduit.rank-1": 4020017,
+        "spell.necromancer.class.deaths-conduit.rank-2": 4020018,
+        "spell.necromancer.class.deaths-conduit.rank-3": 4020019,
+        "spell.necromancer.class.deaths-conduit.rank-4": 4020020,
+        "spell.necromancer.class.deaths-conduit.rank-5": 4020021,
+        "spell.necromancer.class.grave-orders.rank-1": 4020022,
+        "spell.necromancer.class.grave-orders.rank-2": 4020023,
+        "spell.necromancer.class.grave-orders.rank-3": 4020024,
+        "spell.necromancer.class.grave-orders.rank-4": 4020025,
+        "spell.necromancer.class.grave-orders.rank-5": 4020026,
+        "spell.necromancer.class.gravecraft.rank-1": 4020027,
+        "spell.necromancer.class.gravecraft.rank-2": 4020028,
+        "spell.necromancer.class.gravecraft.rank-3": 4020029,
+        "spell.necromancer.class.gravecraft.rank-4": 4020030,
+        "spell.necromancer.class.gravecraft.rank-5": 4020031,
+        "spell.necromancer.class.master-of-the-crypt.rank-1": 4020032,
+        "spell.necromancer.class.master-of-the-crypt.rank-2": 4020033,
+        "spell.necromancer.class.master-of-the-crypt.rank-3": 4020034,
+        "spell.necromancer.class.master-of-the-crypt.rank-4": 4020035,
+        "spell.necromancer.class.master-of-the-crypt.rank-5": 4020036,
+        "spell.necromancer.class.ossuary-guard.rank-1": 4020037,
+        "spell.necromancer.class.ossuary-guard.rank-2": 4020038,
+        "spell.necromancer.class.ossuary-guard.rank-3": 4020039,
+        "spell.necromancer.class.ossuary-guard.rank-4": 4020040,
+        "spell.necromancer.class.ossuary-guard.rank-5": 4020041,
+        "spell.necromancer.class.wyrm-covenant": 4020042,
+        "spell.necromancer.death.accelerated-decay.rank-1": 4020043,
+        "spell.necromancer.death.accelerated-decay.rank-2": 4020044,
+        "spell.necromancer.death.accelerated-decay.rank-3": 4020045,
+        "spell.necromancer.death.accelerated-decay.rank-4": 4020046,
+        "spell.necromancer.death.accelerated-decay.rank-5": 4020047,
+        "spell.necromancer.death.crowning-pestilence.rank-1": 4020048,
+        "spell.necromancer.death.crowning-pestilence.rank-2": 4020049,
+        "spell.necromancer.death.crowning-pestilence.rank-3": 4020050,
+        "spell.necromancer.death.crowning-pestilence.rank-4": 4020051,
+        "spell.necromancer.death.crowning-pestilence.rank-5": 4020052,
+        "spell.necromancer.death.executioners-fever.rank-1": 4020053,
+        "spell.necromancer.death.executioners-fever.rank-2": 4020054,
+        "spell.necromancer.death.executioners-fever.rank-3": 4020055,
+        "spell.necromancer.death.executioners-fever.rank-4": 4020056,
+        "spell.necromancer.death.executioners-fever.rank-5": 4020057,
+        "spell.necromancer.death.final-reaping.rank-1": 4020058,
+        "spell.necromancer.death.final-reaping.rank-2": 4020059,
+        "spell.necromancer.death.final-reaping.rank-3": 4020060,
+        "spell.necromancer.death.final-reaping.rank-4": 4020061,
+        "spell.necromancer.death.final-reaping.rank-5": 4020062,
+        "spell.necromancer.death.lichplague-crown": 4020063,
+        "spell.necromancer.death.mortal-ledger.rank-1": 4020064,
+        "spell.necromancer.death.mortal-ledger.rank-2": 4020065,
+        "spell.necromancer.death.mortal-ledger.rank-3": 4020066,
+        "spell.necromancer.death.mortal-ledger.rank-4": 4020067,
+        "spell.necromancer.death.mortal-ledger.rank-5": 4020068,
+        "spell.necromancer.death.mutagenic-apex": 4020069,
+        "spell.necromancer.death.plague-relay.rank-1": 4020070,
+        "spell.necromancer.death.plague-relay.rank-2": 4020071,
+        "spell.necromancer.death.plague-relay.rank-3": 4020072,
+        "spell.necromancer.death.plague-relay.rank-4": 4020073,
+        "spell.necromancer.death.plague-relay.rank-5": 4020074,
+        "spell.necromancer.death.plague-sovereign": 4020075,
+        "spell.necromancer.death.swarm-hunger.rank-1": 4020076,
+        "spell.necromancer.death.swarm-hunger.rank-2": 4020077,
+        "spell.necromancer.death.swarm-hunger.rank-3": 4020078,
+        "spell.necromancer.death.swarm-hunger.rank-4": 4020079,
+        "spell.necromancer.death.swarm-hunger.rank-5": 4020080,
+        "spell.necromancer.death.wormrot.rank-1": 4020081,
+        "spell.necromancer.death.wormrot.rank-2": 4020082,
+        "spell.necromancer.death.wormrot.rank-3": 4020083,
+        "spell.necromancer.death.wormrot.rank-4": 4020084,
+        "spell.necromancer.death.wormrot.rank-5": 4020085
+      },
+      "domain": "spell",
+      "end": 4059999,
+      "start": 4020000
+    },
+    "talent": {
+      "assignments": {
+        "essence.necromancer.animation.grave-mastery": 4100035,
+        "essence.necromancer.animation.summoning-adept": 4100036,
+        "essence.necromancer.animation.summoning-expert": 4100037,
+        "talent.necromancer.animation.animate-skeletal-archer": 4100038,
+        "talent.necromancer.animation.archer-general": 4100022,
+        "talent.necromancer.animation.bone-chorus": 4100023,
+        "talent.necromancer.animation.bone-wraith": 4100039,
+        "talent.necromancer.animation.bone-wraith-muster": 4100024,
+        "talent.necromancer.animation.grave-legion": 4100025,
+        "talent.necromancer.animation.mindless-fury": 4100034,
+        "talent.necromancer.animation.necrotic-volley": 4100026,
+        "talent.necromancer.animation.ossuary-ranks": 4100027,
+        "talent.necromancer.animation.plaguefather-crown": 4100028,
+        "talent.necromancer.animation.plaguefather-procession": 4100029,
+        "talent.necromancer.animation.relentless-dead": 4100030,
+        "talent.necromancer.animation.skeletal-archer-cadre": 4100031,
+        "talent.necromancer.animation.skeletal-artillery": 4100040,
+        "talent.necromancer.animation.tomb-king": 4100041,
+        "talent.necromancer.animation.tomb-kings-muster": 4100032,
+        "talent.necromancer.animation.tomb-sovereign": 4100033,
+        "talent.necromancer.class.banshee-covenant": 4100000,
+        "talent.necromancer.class.blackened-script": 4100001,
+        "talent.necromancer.class.carrion-lore": 4100002,
+        "talent.necromancer.class.cold-reliquary": 4100003,
+        "talent.necromancer.class.colossus-covenant": 4100004,
+        "talent.necromancer.class.deaths-conduit": 4100005,
+        "talent.necromancer.class.grave-orders": 4100006,
+        "talent.necromancer.class.gravecraft": 4100007,
+        "talent.necromancer.class.master-of-the-crypt": 4100008,
+        "talent.necromancer.class.ossuary-guard": 4100009,
+        "talent.necromancer.class.wyrm-covenant": 4100010,
+        "talent.necromancer.death.accelerated-decay": 4100011,
+        "talent.necromancer.death.crowning-pestilence": 4100012,
+        "talent.necromancer.death.executioners-fever": 4100013,
+        "talent.necromancer.death.final-reaping": 4100014,
+        "talent.necromancer.death.lichplague-crown": 4100015,
+        "talent.necromancer.death.mortal-ledger": 4100016,
+        "talent.necromancer.death.mutagenic-apex": 4100017,
+        "talent.necromancer.death.plague-relay": 4100018,
+        "talent.necromancer.death.plague-sovereign": 4100019,
+        "talent.necromancer.death.swarm-hunger": 4100020,
+        "talent.necromancer.death.wormrot": 4100021
+      },
+      "domain": "talent",
+      "end": 4119999,
+      "start": 4100000
+    },
+    "talent-tab": {
+      "assignments": {
+        "tree.necromancer.animation": 4120002,
+        "tree.necromancer.class": 4120000,
+        "tree.necromancer.death": 4120001
+      },
+      "domain": "talent-tab",
+      "end": 4129999,
+      "start": 4120000
+    },
+    "trainer": {
+      "assignments": {},
+      "domain": "trainer",
+      "end": 5009999,
+      "start": 5000000
+    }
+  },
+  "schema_version": 1,
+  "semantic_mask_catalog": {
+    "absorb": {
+      "bit": 10,
+      "word": 0
+    },
+    "all": {
+      "bit": 0,
+      "word": 0
+    },
+    "area": {
+      "bit": 21,
+      "word": 0
+    },
+    "aura": {
+      "bit": 28,
+      "word": 0
+    },
+    "builder": {
+      "bit": 11,
+      "word": 0
+    },
+    "class-core": {
+      "bit": 1,
+      "word": 0
+    },
+    "control": {
+      "bit": 16,
+      "word": 0
+    },
+    "defensive": {
+      "bit": 19,
+      "word": 0
+    },
+    "direct-damage": {
+      "bit": 6,
+      "word": 0
+    },
+    "direct-heal": {
+      "bit": 8,
+      "word": 0
+    },
+    "disease": {
+      "bit": 4,
+      "word": 1
+    },
+    "execute": {
+      "bit": 27,
+      "word": 0
+    },
+    "interrupt": {
+      "bit": 17,
+      "word": 0
+    },
+    "melee": {
+      "bit": 23,
+      "word": 0
+    },
+    "movement": {
+      "bit": 18,
+      "word": 0
+    },
+    "offensive-cooldown": {
+      "bit": 20,
+      "word": 0
+    },
+    "periodic-damage": {
+      "bit": 7,
+      "word": 0
+    },
+    "periodic-heal": {
+      "bit": 9,
+      "word": 0
+    },
+    "pet": {
+      "bit": 15,
+      "word": 0
+    },
+    "proc": {
+      "bit": 29,
+      "word": 0
+    },
+    "ranged": {
+      "bit": 24,
+      "word": 0
+    },
+    "resource": {
+      "bit": 13,
+      "word": 0
+    },
+    "role-dps": {
+      "bit": 2,
+      "word": 0
+    },
+    "role-healer": {
+      "bit": 4,
+      "word": 0
+    },
+    "role-support": {
+      "bit": 5,
+      "word": 0
+    },
+    "role-tank": {
+      "bit": 3,
+      "word": 0
+    },
+    "single-target": {
+      "bit": 22,
+      "word": 0
+    },
+    "spell": {
+      "bit": 26,
+      "word": 0
+    },
+    "spender": {
+      "bit": 12,
+      "word": 0
+    },
+    "summon": {
+      "bit": 14,
+      "word": 0
+    },
+    "talent-passive": {
+      "bit": 31,
+      "word": 0
+    },
+    "utility": {
+      "bit": 30,
+      "word": 0
+    },
+    "weapon": {
+      "bit": 25,
+      "word": 0
+    }
+  },
+  "spell_families": {
+    "class.barbarian": {
+      "family_id": 18,
+      "semantic_masks": {
+        "spec.ancestry": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.brutality": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.headhunting": {
+          "bit": 2,
+          "word": 1
+        }
+      },
+      "source_category_id": 12
+    },
+    "class.bloodmage": {
+      "family_id": 26,
+      "semantic_masks": {
+        "spec.blood": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.ferocity": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.fleshweaver": {
+          "bit": 3,
+          "word": 1
+        },
+        "spec.packleader": {
+          "bit": 2,
+          "word": 1
+        }
+      },
+      "source_category_id": 20
+    },
+    "class.chronomancer": {
+      "family_id": 28,
+      "semantic_masks": {
+        "spec.artificer": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.displacement": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.duality": {
+          "bit": 0,
+          "word": 1
+        }
+      },
+      "source_category_id": 22
+    },
+    "class.cultist": {
+      "family_id": 31,
+      "semantic_masks": {
+        "spec.corruption": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.dreadnought": {
+          "bit": 3,
+          "word": 1
+        },
+        "spec.godblade": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.influence": {
+          "bit": 2,
+          "word": 1
+        }
+      },
+      "source_category_id": 25
+    },
+    "class.felsworn": {
+      "family_id": 20,
+      "semantic_masks": {
+        "spec.infernal": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.slaying": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.tyrant": {
+          "bit": 2,
+          "word": 1
+        }
+      },
+      "source_category_id": 14
+    },
+    "class.guardian": {
+      "family_id": 24,
+      "semantic_masks": {
+        "spec.gladiator": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.inspiration": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.vanguard": {
+          "bit": 1,
+          "word": 1
+        }
+      },
+      "source_category_id": 18
+    },
+    "class.knight-of-xoroth": {
+      "family_id": 23,
+      "semantic_masks": {
+        "spec.defiance": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.hellfire": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.war": {
+          "bit": 0,
+          "word": 1
+        }
+      },
+      "source_category_id": 17
+    },
+    "class.necromancer": {
+      "family_id": 29,
+      "semantic_masks": {
+        "spec.animation": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.death": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.rime": {
+          "bit": 2,
+          "word": 1
+        }
+      },
+      "source_category_id": 23
+    },
+    "class.primalist": {
+      "family_id": 37,
+      "semantic_masks": {
+        "spec.geomancy": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.life": {
+          "bit": 3,
+          "word": 1
+        },
+        "spec.mountain-king": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.wildwalker": {
+          "bit": 2,
+          "word": 1
+        }
+      },
+      "source_category_id": 31
+    },
+    "class.pyromancer": {
+      "family_id": 30,
+      "semantic_masks": {
+        "spec.draconic": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.flameweaving": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.incineration": {
+          "bit": 0,
+          "word": 1
+        }
+      },
+      "source_category_id": 24
+    },
+    "class.ranger": {
+      "family_id": 27,
+      "semantic_masks": {
+        "spec.archery": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.brigand": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.farstrider": {
+          "bit": 2,
+          "word": 1
+        }
+      },
+      "source_category_id": 21
+    },
+    "class.reaper": {
+      "family_id": 36,
+      "semantic_masks": {
+        "spec.domination": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.harvest": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.soul": {
+          "bit": 1,
+          "word": 1
+        }
+      },
+      "source_category_id": 30
+    },
+    "class.runemaster": {
+      "family_id": 38,
+      "semantic_masks": {
+        "spec.conjuration": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.riftblade": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.spellslinger": {
+          "bit": 0,
+          "word": 1
+        }
+      },
+      "source_category_id": 32
+    },
+    "class.starcaller": {
+      "family_id": 32,
+      "semantic_masks": {
+        "spec.moon-guard": {
+          "bit": 3,
+          "word": 1
+        },
+        "spec.moon-priest": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.sentinel": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.warden": {
+          "bit": 0,
+          "word": 1
+        }
+      },
+      "source_category_id": 26
+    },
+    "class.stormbringer": {
+      "family_id": 22,
+      "semantic_masks": {
+        "spec.lightning": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.thunder": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.winds": {
+          "bit": 2,
+          "word": 1
+        }
+      },
+      "source_category_id": 16
+    },
+    "class.sun-cleric": {
+      "family_id": 33,
+      "semantic_masks": {
+        "spec.blessings": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.piety": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.seraphim": {
+          "bit": 1,
+          "word": 1
+        },
+        "spec.valkyrie": {
+          "bit": 3,
+          "word": 1
+        }
+      },
+      "source_category_id": 27
+    },
+    "class.templar": {
+      "family_id": 25,
+      "semantic_masks": {
+        "spec.crusader": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.discipline": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.martial": {
+          "bit": 1,
+          "word": 1
+        }
+      },
+      "source_category_id": 19
+    },
+    "class.tinker": {
+      "family_id": 34,
+      "semantic_masks": {
+        "spec.demolition": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.invention": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.mechanics": {
+          "bit": 1,
+          "word": 1
+        }
+      },
+      "source_category_id": 28
+    },
+    "class.venomancer": {
+      "family_id": 35,
+      "semantic_masks": {
+        "spec.fortitude": {
+          "bit": 3,
+          "word": 1
+        },
+        "spec.rot": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.stalking": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.vizier": {
+          "bit": 1,
+          "word": 1
+        }
+      },
+      "source_category_id": 29
+    },
+    "class.witch-doctor": {
+      "family_id": 19,
+      "semantic_masks": {
+        "spec.brewing": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.shadowhunting": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.voodoo": {
+          "bit": 1,
+          "word": 1
+        }
+      },
+      "source_category_id": 13
+    },
+    "class.witch-hunter": {
+      "family_id": 21,
+      "semantic_masks": {
+        "spec.black-knight": {
+          "bit": 3,
+          "word": 1
+        },
+        "spec.boltslinger": {
+          "bit": 0,
+          "word": 1
+        },
+        "spec.darkness": {
+          "bit": 2,
+          "word": 1
+        },
+        "spec.inquisition": {
+          "bit": 1,
+          "word": 1
+        }
+      },
+      "source_category_id": 15
+    }
+  },
+  "status": "frozen"
+}

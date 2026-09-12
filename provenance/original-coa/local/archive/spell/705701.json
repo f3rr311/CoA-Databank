@@ -1,0 +1,8 @@
+{
+  "name_enus": "Breezeway",
+  "icon": "ability_skyreach_lens_flare",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Breezeway</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage done by <span style=\"color: #FFFFFF;\">Wind Blast</span> and  <span style=\"color: #ffffff;\">Air Elemental</span>'s <span style=\"color: #ffffff;\">Windpelt</span> by 10%.</span></td></tr></table><!--?705701:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Nanobot Durability",
+  "icon": "ability_monk_forcesphere",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Nanobot Durability</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the duration of <span style=\"color: #FFFFFF;\">Nanobot Reconstruction</span> by 10 sec.</span></td></tr></table><!--?705812:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

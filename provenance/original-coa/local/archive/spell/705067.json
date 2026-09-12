@@ -1,0 +1,8 @@
+{
+  "name_enus": "War Falconer",
+  "icon": "ability_hunter_eagleeye",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>War Falconer</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldowns of <span style=\"color: #FFFFFF;\">Falcon's Call</span> by 30 sec.</span></td></tr></table><!--?705067:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

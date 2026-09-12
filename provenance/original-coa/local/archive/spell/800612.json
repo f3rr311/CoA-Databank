@@ -1,0 +1,8 @@
+{
+  "name_enus": "Champion of the Sun",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Champion of the Sun</b><br />25% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Become a champion of An'she, causing your melee auto attacks to deal an additional 50% of the damage dealt as Holy damage. Lasts 20&nbsp;sec.</span></td></tr></table><!--?800612:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

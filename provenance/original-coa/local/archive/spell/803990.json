@@ -1,0 +1,8 @@
+{
+  "name_enus": "Veilwalk",
+  "icon": "_diablo3_thunderclap_warlock",
+  "tooltip_enus": "<table><tr><td><b>Veilwalk</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">2 Charges, 60 sec recharge</span><br />Move with spectral agility, gaining 50% increased movement speed for 5&nbsp;sec, stacking 2 times.<br /><br />Removes all movement impairing effects. Usable while stealthed.</span></td></tr></table><!--?803990:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

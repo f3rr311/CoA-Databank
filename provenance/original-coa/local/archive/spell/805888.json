@@ -1,0 +1,8 @@
+{
+  "name_enus": "Battle Prowess",
+  "icon": "skill_icon_skill105_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Battle Prowess</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases chance to hit with all spells and attacks by 1% for you and party and raid members.<br /><br />Does not stack with similar effects.</span></td></tr></table><!--?805888:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vampirism",
+  "icon": "nhi_blood_drain_border",
+  "tooltip_enus": "<table><tr><td><b>Vampirism</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Teaches <span style=\"color: #ffffff;\">Embrace of the Vampyr</span>, but disables the use of <span style=\"color: #ffffff;\">Curse of the Worgen</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_misc_questionmark.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=801076'> Transgression </a> <br />\n                            <span> Enter a unique <span style=\"color: #a966f0;\">Cursed Form</span> for 30&nbsp;sec that does not disable the use of <span style=\"color: #ffffff;\">Mortal Form</span> abilities and casts a free <span style=\"color: #ffffff;\">Vampiric Fang</span> on your target<!--sp560073:0--><!--sp560073-->.<br /><br />While active, direct spell damage triggers a <span style=\"color: #ffffff;\">Vampiric Feast</span>, dealing 20% additional Shadow damage to enemies, healing you equal to 50% of the damage dealt.<br /><br />While in a <span style=\"color: #a966f0;\">Cursed Form</span> you are treated as if you were a Demon.</span><br /></span></td></tr></table><!--?801075:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

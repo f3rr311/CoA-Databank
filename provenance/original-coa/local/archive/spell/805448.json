@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rekindle",
+  "icon": "spell_fire_fire",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Rekindle</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Healing done by <span style=\"color: #FFFFFF;\">Kindle</span> now increases your healing done on the target 5% for 20&nbsp;sec, stacking 2 times.</span></td></tr></table><!--?805448:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

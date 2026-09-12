@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blight Venom",
+  "icon": "trade_alchemy_dpotion_a24",
+  "tooltip_enus": "<table><tr><td><b>Blight Venom</b><br />20% of base mana<br />1 sec cast</td></tr></table><table><tr><td><span class=\"q\">Activate <span style=\"color: #ffffff;\">Blight Venom</span> for 2&nbsp;hr, giving your harmful spells and abilities a 30% chance to poison an enemy dealing (6*1000/1)*(137*$<scalingbp>+SP*.18) Shadow Damage over 6&nbsp;sec.<br /><br />You can have a maximum of 2 unique <span style=\"color: #ffffff;\">Venoms</span> active at a time.</span></td></tr></table><!--?805776:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

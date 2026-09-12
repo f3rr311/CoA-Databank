@@ -1,0 +1,8 @@
+{
+  "name_enus": "Moonblade",
+  "icon": "inv_staff_2h_artifactelune_d_01",
+  "tooltip_enus": "<table><tr><td><b>Moonblade</b><br />40 Energy<br />Instant cast</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Devastate an enemy, dealing 130% Weapon Damage plus 0+0+Int*1 Arcane damage and regenerating 15% missing mana.</span></td></tr></table><!--?801125:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

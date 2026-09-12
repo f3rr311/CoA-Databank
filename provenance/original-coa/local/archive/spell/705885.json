@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Reclaim Life",
+  "icon": "warlock_siphonlife",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Improved Reclaim Life</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Reclaim Life</span> by 0%.</span></td></tr></table><!--?705885:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

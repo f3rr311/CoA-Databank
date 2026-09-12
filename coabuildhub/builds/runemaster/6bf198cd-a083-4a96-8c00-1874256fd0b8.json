@@ -1,0 +1,769 @@
+{
+ "build": {
+  "id": "6bf198cd-a083-4a96-8c00-1874256fd0b8",
+  "title": "pvp rift",
+  "description": "",
+  "class_id": 32,
+  "spec_id": 85,
+  "author_id": "9b592639-eb8b-4c71-83fa-1bc815cd6883",
+  "talent_string": "W1siMzItODctMi0wIiwxXSxbIjMyLTg3LTEtMSIsMV0sWyIzMi04Ny02LTAiLDFdLFsiMzItODctNC0wIiwxXSxbIjMyLTg3LTctMSIsMV0sWyIzMi04Ny02LTIiLDFdLFsiMzItODctOC0zIiwxXSxbIjMyLTg3LTgtNCIsMV0sWyIzMi04Ny03LTUiLDFdLFsiMzItODctNi00IiwxXSxbIjMyLTg3LTUtNSIsMV0sWyIzMi04Ny0yLTRiIiwxXSxbIjMyLTg3LTEtNSIsMV0sWyIzMi04Ny02LTYiLDFdLFsiMzItODctNC02YiIsMV0sWyIzMi04Ny0zLTUiLDFdLFsiMzItODctMi02IiwxXSxbIjMyLTg3LTUtMSIsMV0sWyIzMi04Ny00LTgiLDFdLFsiMzItODYtNC0wIiwxXSxbIjMyLTg2LTEwLTAiLDFdLFsiMzItODYtMTAtMiIsMV0sWyIzMi04Ni02LTEiLDJdLFsiMzItODctMi0yIiwxXSxbIjMyLTg2LTItMSIsMV0sWyIzMi04Ni0xLTIiLDFdLFsiMzItODYtMS0zIiwyXSxbIjMyLTg2LTctMiIsMV0sWyIzMi04Ni03LTMiLDFdLFsiMzItODYtNi00IiwyXSxbIjMyLTg2LTctNSIsMV0sWyIzMi04Ni04LTYiLDFdLFsiMzItODYtNi02IiwxXSxbIjMyLTg2LTEwLTQiLDFdLFsiMzItODYtMTAtNiIsMV0sWyIzMi04Ni0xLTciLDFdLFsiMzItODYtOC00IiwxXSxbIjMyLTg2LTQtMmIiLDFdLFsiMzItODYtMTAtOCIsMV0sWyIzMi04Ny02LTkiLDFdLFsiMzItODctNi04IiwxXSxbIjMyLTg3LTEtNyIsMV0sWyIzMi04Ny0zLTciLDFdLFsiMzItODctMy0xIiwyXSxbIjMyLTg2LTItOCIsMV0sWyIzMi04Ni0xLTUiLDFdLFsiMzItODYtMC02IiwxXSxbIjMyLTg2LTUtNyIsMV0sWyIzMi04Ni00LTMiLDFdLFsiMzItODYtNC00YiIsMV0sWyIzMi04Ni0wLTRiIiwxXSxbIjMyLTg2LTItOSIsMV1d",
+  "tags": [],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-16T14:00:07.976898+00:00",
+  "updated_at": "2026-07-16T14:00:07.976898+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1100,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 0,
+  "author": {
+   "id": "9b592639-eb8b-4c71-83fa-1bc815cd6883",
+   "username": "Adrien DENEUVILLE",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL0efhvlfAvBIPqAJSQhlV4zxDkayclCX3qpeUuao3egRKGQsE=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "8c73e1e4-17b0-4a02-aae9-db2be4d5a4ea",
+   "title": "Guia Glyphic Runemaster (pt-br)",
+   "class_id": 32,
+   "spec_id": 11,
+   "author_id": "717a468a-bcce-41c7-a390-348295709b31",
+   "tags": [
+    "raid",
+    "aoe",
+    "guide",
+    "leveling"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 1,
+   "view_count": 483,
+   "featured": false,
+   "created_at": "2026-07-25T00:49:31.78586+00:00",
+   "updated_at": "2026-07-25T01:46:06.08+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "717a468a-bcce-41c7-a390-348295709b31",
+    "username": "Caio Bruno Costa Loureiro",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLgihMFWtmef0VRGjvguZK5cZs-GXknb5FzvfaiU3aPyNk3bD8=s96-c"
+   }
+  },
+  {
+   "id": "dca788b3-5300-440f-92e9-f0f6d118956a",
+   "title": "Runemaster PvE Engravement - AoE + Single Target",
+   "class_id": 32,
+   "spec_id": 85,
+   "author_id": "1cd4413c-2d8a-430a-89ad-db77910934f4",
+   "tags": [
+    "aoe",
+    "single target",
+    "mythic",
+    "engravement",
+    "raid"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2104,
+   "featured": false,
+   "created_at": "2026-07-22T00:24:36.606922+00:00",
+   "updated_at": "2026-07-22T00:28:13.848+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "1cd4413c-2d8a-430a-89ad-db77910934f4",
+    "username": "Feels",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLJsjQZO-JSFXz2RBWlvwL6_cx6NU_l9K4f-AXDyRsFT3CePw=s96-c"
+   }
+  },
+  {
+   "id": "00510d7a-feaa-4afd-82da-72816ae85ecd",
+   "title": "Runemaster Riftblade PvP build",
+   "class_id": 32,
+   "spec_id": 86,
+   "author_id": "9614dba2-698f-41f8-9cfe-50164820f285",
+   "tags": [
+    "PvP",
+    "High Risk",
+    "War Mode",
+    "Open World",
+    "Battleground",
+    "Battlegrounds",
+    "BG",
+    "Arena",
+    "Riftblade",
+    "Runemaster"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 3348,
+   "featured": false,
+   "created_at": "2026-07-19T01:21:56.435678+00:00",
+   "updated_at": "2026-07-29T01:00:15.242+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "9614dba2-698f-41f8-9cfe-50164820f285",
+    "username": "hrup",
+    "avatar_url": "https://cdn.discordapp.com/avatars/92835265051136000/1edee95b14b29f70aa420a43dc716fa0.png"
+   }
+  }
+ ],
+ "class": "Runemaster",
+ "spec": "Runic",
+ "allocations": [
+  [
+   "32-87-2-0",
+   1
+  ],
+  [
+   "32-87-1-1",
+   1
+  ],
+  [
+   "32-87-6-0",
+   1
+  ],
+  [
+   "32-87-4-0",
+   1
+  ],
+  [
+   "32-87-7-1",
+   1
+  ],
+  [
+   "32-87-6-2",
+   1
+  ],
+  [
+   "32-87-8-3",
+   1
+  ],
+  [
+   "32-87-8-4",
+   1
+  ],
+  [
+   "32-87-7-5",
+   1
+  ],
+  [
+   "32-87-6-4",
+   1
+  ],
+  [
+   "32-87-5-5",
+   1
+  ],
+  [
+   "32-87-2-4b",
+   1
+  ],
+  [
+   "32-87-1-5",
+   1
+  ],
+  [
+   "32-87-6-6",
+   1
+  ],
+  [
+   "32-87-4-6b",
+   1
+  ],
+  [
+   "32-87-3-5",
+   1
+  ],
+  [
+   "32-87-2-6",
+   1
+  ],
+  [
+   "32-87-5-1",
+   1
+  ],
+  [
+   "32-87-4-8",
+   1
+  ],
+  [
+   "32-86-4-0",
+   1
+  ],
+  [
+   "32-86-10-0",
+   1
+  ],
+  [
+   "32-86-10-2",
+   1
+  ],
+  [
+   "32-86-6-1",
+   2
+  ],
+  [
+   "32-87-2-2",
+   1
+  ],
+  [
+   "32-86-2-1",
+   1
+  ],
+  [
+   "32-86-1-2",
+   1
+  ],
+  [
+   "32-86-1-3",
+   2
+  ],
+  [
+   "32-86-7-2",
+   1
+  ],
+  [
+   "32-86-7-3",
+   1
+  ],
+  [
+   "32-86-6-4",
+   2
+  ],
+  [
+   "32-86-7-5",
+   1
+  ],
+  [
+   "32-86-8-6",
+   1
+  ],
+  [
+   "32-86-6-6",
+   1
+  ],
+  [
+   "32-86-10-4",
+   1
+  ],
+  [
+   "32-86-10-6",
+   1
+  ],
+  [
+   "32-86-1-7",
+   1
+  ],
+  [
+   "32-86-8-4",
+   1
+  ],
+  [
+   "32-86-4-2b",
+   1
+  ],
+  [
+   "32-86-10-8",
+   1
+  ],
+  [
+   "32-87-6-9",
+   1
+  ],
+  [
+   "32-87-6-8",
+   1
+  ],
+  [
+   "32-87-1-7",
+   1
+  ],
+  [
+   "32-87-3-7",
+   1
+  ],
+  [
+   "32-87-3-1",
+   2
+  ],
+  [
+   "32-86-2-8",
+   1
+  ],
+  [
+   "32-86-1-5",
+   1
+  ],
+  [
+   "32-86-0-6",
+   1
+  ],
+  [
+   "32-86-5-7",
+   1
+  ],
+  [
+   "32-86-4-3",
+   1
+  ],
+  [
+   "32-86-4-4b",
+   1
+  ],
+  [
+   "32-86-0-4b",
+   1
+  ],
+  [
+   "32-86-2-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "32-87-2-0",
+   "points": 1,
+   "name": "Zenith",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 712325
+  },
+  {
+   "id": "32-87-1-1",
+   "points": 1,
+   "name": "Ley Constitution",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705562
+  },
+  {
+   "id": "32-87-6-0",
+   "points": 1,
+   "name": "Warpdagger",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500287
+  },
+  {
+   "id": "32-87-4-0",
+   "points": 1,
+   "name": "Glacial Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 807842
+  },
+  {
+   "id": "32-87-7-1",
+   "points": 1,
+   "name": "Warpmaster",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 560992
+  },
+  {
+   "id": "32-87-6-2",
+   "points": 1,
+   "name": "Phase Out",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500671
+  },
+  {
+   "id": "32-87-8-3",
+   "points": 1,
+   "name": "Blade Rift",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520237
+  },
+  {
+   "id": "32-87-8-4",
+   "points": 1,
+   "name": "Shroudwalker",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705563
+  },
+  {
+   "id": "32-87-7-5",
+   "points": 1,
+   "name": "Primordialism",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520054
+  },
+  {
+   "id": "32-87-6-4",
+   "points": 1,
+   "name": "Prismatic Flow",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705581
+  },
+  {
+   "id": "32-87-5-5",
+   "points": 1,
+   "name": "Warding Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804232
+  },
+  {
+   "id": "32-87-2-4b",
+   "points": 1,
+   "name": "Nomad's Scroll",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 707653
+  },
+  {
+   "id": "32-87-1-5",
+   "points": 1,
+   "name": "Speedy Attuner",
+   "maxPoints": 2,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705554
+  },
+  {
+   "id": "32-87-6-6",
+   "points": 1,
+   "name": "Magic Feeder",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705546
+  },
+  {
+   "id": "32-87-4-6b",
+   "points": 1,
+   "name": "Master of Runes",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804531
+  },
+  {
+   "id": "32-87-3-5",
+   "points": 1,
+   "name": "Permafrost Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804060
+  },
+  {
+   "id": "32-87-2-6",
+   "points": 1,
+   "name": "Master Engraver",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705605
+  },
+  {
+   "id": "32-87-5-1",
+   "points": 1,
+   "name": "Runic Tattoos",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 800736
+  },
+  {
+   "id": "32-87-4-8",
+   "points": 1,
+   "name": "Elements of Fury",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 707413
+  },
+  {
+   "id": "32-86-4-0",
+   "points": 1,
+   "name": "Smolder",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 801087
+  },
+  {
+   "id": "32-86-10-0",
+   "points": 1,
+   "name": "Riftblade",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 92154
+  },
+  {
+   "id": "32-86-10-2",
+   "points": 1,
+   "name": "Elemental Assassin",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705541
+  },
+  {
+   "id": "32-86-6-1",
+   "points": 2,
+   "name": "Unbound Energy",
+   "maxPoints": 2,
+   "tree": "Riftblade",
+   "spellId": 705570
+  },
+  {
+   "id": "32-87-2-2",
+   "points": 1,
+   "name": "Speed Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 801103
+  },
+  {
+   "id": "32-86-2-1",
+   "points": 1,
+   "name": "Runic Omen",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705580
+  },
+  {
+   "id": "32-86-1-2",
+   "points": 1,
+   "name": "Hurricane",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 645435
+  },
+  {
+   "id": "32-86-1-3",
+   "points": 2,
+   "name": "Spellblade",
+   "maxPoints": 2,
+   "tree": "Riftblade",
+   "spellId": 705540
+  },
+  {
+   "id": "32-86-7-2",
+   "points": 1,
+   "name": "Hoarfrost",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 801104
+  },
+  {
+   "id": "32-86-7-3",
+   "points": 1,
+   "name": "Runic Invocation",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 807204
+  },
+  {
+   "id": "32-86-6-4",
+   "points": 2,
+   "name": "Frost Spectre",
+   "maxPoints": 2,
+   "tree": "Riftblade",
+   "spellId": 560039
+  },
+  {
+   "id": "32-86-7-5",
+   "points": 1,
+   "name": "Elements, Heed My Call!",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706670
+  },
+  {
+   "id": "32-86-8-6",
+   "points": 1,
+   "name": "Earthen Codex",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 707460
+  },
+  {
+   "id": "32-86-6-6",
+   "points": 1,
+   "name": "Primordial Echoes",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705572
+  },
+  {
+   "id": "32-86-10-4",
+   "points": 1,
+   "name": "Windsage",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705568
+  },
+  {
+   "id": "32-86-10-6",
+   "points": 1,
+   "name": "Glyph of Disappearance",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 560037
+  },
+  {
+   "id": "32-86-1-7",
+   "points": 1,
+   "name": "Swift Etching",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705600
+  },
+  {
+   "id": "32-86-8-4",
+   "points": 1,
+   "name": "Leyfrost",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 712308
+  },
+  {
+   "id": "32-86-4-2b",
+   "points": 1,
+   "name": "Cinderstorm Runes",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706458
+  },
+  {
+   "id": "32-86-10-8",
+   "points": 1,
+   "name": "Surging Slash",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705579
+  },
+  {
+   "id": "32-87-6-9",
+   "points": 1,
+   "name": "Sigilist",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705586
+  },
+  {
+   "id": "32-87-6-8",
+   "points": 1,
+   "name": "Runic Breakout",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705583
+  },
+  {
+   "id": "32-87-1-7",
+   "points": 1,
+   "name": "Stone Petroglyph",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 707157
+  },
+  {
+   "id": "32-87-3-7",
+   "points": 1,
+   "name": "Unbound",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 806718
+  },
+  {
+   "id": "32-87-3-1",
+   "points": 2,
+   "name": "Mystical Etchings",
+   "maxPoints": 2,
+   "tree": "Runemaster (class tree)",
+   "spellId": 806795
+  },
+  {
+   "id": "32-86-2-8",
+   "points": 1,
+   "name": "Fracture",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 803018
+  },
+  {
+   "id": "32-86-1-5",
+   "points": 1,
+   "name": "Echo Rune",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 500270
+  },
+  {
+   "id": "32-86-0-6",
+   "points": 1,
+   "name": "Battle Engravings",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706674
+  },
+  {
+   "id": "32-86-5-7",
+   "points": 1,
+   "name": "Frostburn",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705594
+  },
+  {
+   "id": "32-86-4-3",
+   "points": 1,
+   "name": "Frozen Earth",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705592
+  },
+  {
+   "id": "32-86-4-4b",
+   "points": 1,
+   "name": "Phaser",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706518
+  },
+  {
+   "id": "32-86-0-4b",
+   "points": 1,
+   "name": "Water Runes",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 707150
+  },
+  {
+   "id": "32-86-2-9",
+   "points": 1,
+   "name": "Waveforged",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705565
+  }
+ ]
+}

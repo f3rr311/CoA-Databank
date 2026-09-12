@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mountain Mover",
+  "icon": "achievement_boss_highmaul_earthenfury",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Mountain Mover</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Avoiding an attack grants a stack of <span style=\"color: #ffffff;\">Mountain Mover</span> for 10&nbsp;sec, stacking 5 times.<br /><br /><span style=\"color: #ffffff;\">Wildclaw</span> consumes <span style=\"color: #ffffff;\">Mountain Mover</span> stacks to cost 10% less Rage per stack.</span></td></tr></table><!--?805643:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

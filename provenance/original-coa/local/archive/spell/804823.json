@@ -1,0 +1,8 @@
+{
+  "name_enus": "Tyrannical Resolve",
+  "icon": "ability_demonhunter_immolation",
+  "tooltip_enus": "<table><tr><td><b>Tyrannical Resolve</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Taunt nearby enemies for 4&nbsp;sec and ignore 50% of all damage taken for 30&nbsp;sec, up to 100% of your maximum health.<br /><br />When this ends, you unleash a <span style=\"color: #FFFFFF;\">Felfire Blast</span> that leeches health from nearby enemies based on how many times you took damage with the effect active.</span></td></tr></table><!--?804823:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

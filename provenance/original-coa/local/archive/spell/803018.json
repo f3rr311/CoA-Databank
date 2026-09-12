@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fracture",
+  "icon": "nhi_manaspike_border",
+  "tooltip_enus": "<table><tr><td><b>Fracture</b><br />10% of base mana<br />Instant</td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\">Strike an enemy with frozen fury, dealing 921+0+AP*1.5 Frost damage and burning 25+0+AP*.35 of the target's mana.<br /><br />Damage dealt is guaranteed to critically strike against frozen targets.</span></td></tr></table><!--?803018:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

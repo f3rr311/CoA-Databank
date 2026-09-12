@@ -1,0 +1,678 @@
+{
+ "build": {
+  "id": "5cb8e685-f728-4360-b867-9b4b2eec22c0",
+  "title": "crusader aoe",
+  "description": "[overview]\nI'm not a nerd. Good build. :)\nNice WA: https://wago.io/tblTJdMRI\n\nCredit: RSTAR\nhttps://www.youtube.com/watch?v=jraMdaePtLw",
+  "class_id": 19,
+  "spec_id": 51,
+  "author_id": "1ba94b2a-db56-4542-bbdd-ba7109b4a2bc",
+  "talent_string": "W1siMTktODctMi0wIiwxXSxbIjE5LTg3LTYtMCIsMV0sWyIxOS04Ny01LTEiLDJdLFsiMTktODctMy0xIiwxXSxbIjE5LTg3LTQtMiIsMV0sWyIxOS04Ny0xLTIiLDFdLFsiMTktODctMy0zIiwxXSxbIjE5LTg3LTUtMyIsMV0sWyIxOS04Ny03LTIiLDFdLFsiMTktODctNy0zYSIsMV0sWyIxOS04Ny0yLTQiLDFdLFsiMTktODctNC00IiwxXSxbIjE5LTg3LTYtNCIsMV0sWyIxOS04Ny02LTUiLDFdLFsiMTktODctNC01IiwxXSxbIjE5LTg3LTItNSIsMV0sWyIxOS04Ny00LTYiLDFdLFsiMTktODctMi03IiwxXSxbIjE5LTg3LTctNiIsMl0sWyIxOS04Ny02LTciLDFdLFsiMTktODctNC03IiwyXSxbIjE5LTg3LTUtOCIsMV0sWyIxOS04Ny02LTkiLDFdLFsiMTktNTEtNC0wIiwxXSxbIjE5LTUxLTQtMSIsMV0sWyIxOS01MS0yLTIiLDJdLFsiMTktNTEtMi0zIiwxXSxbIjE5LTUxLTQtMyIsMV0sWyIxOS01MS02LTIiLDJdLFsiMTktNTEtNy0zIiwxXSxbIjE5LTUxLTctNGIiLDFdLFsiMTktNTEtNC00IiwxXSxbIjE5LTUxLTMtNSIsMV0sWyIxOS01MS01LTUiLDFdLFsiMTktNTEtMS00YSIsMV0sWyIxOS01MS0wLTUiLDFdLFsiMTktNTEtMC02IiwxXSxbIjE5LTUxLTQtNiIsMl0sWyIxOS01MS01LTciLDFdLFsiMTktNTEtOC01IiwxXSxbIjE5LTUxLTgtNiIsMl0sWyIxOS01MS03LTciLDFdLFsiMTktNTEtNC04IiwxXSxbIjE5LTUxLTYtOSIsMV1d",
+  "tags": [
+   "aoe"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 8,
+  "downvotes": 0,
+  "comment_count": 1,
+  "created_at": "2026-07-20T21:59:58.408227+00:00",
+  "updated_at": "2026-07-21T06:57:05.426+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 4460,
+  "net_score": 8,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "1ba94b2a-db56-4542-bbdd-ba7109b4a2bc",
+   "username": "jeffzta",
+   "avatar_url": "https://cdn.discordapp.com/avatars/173408758033022976/5ec9698c0bc1dd7a98aca892e1556f9e.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "d349ad8f-9af7-485f-a807-09d0adc197ba",
+   "build_id": "5cb8e685-f728-4360-b867-9b4b2eec22c0",
+   "author_id": "71bd7ce6-0a48-4c4e-af92-98f13cfa65e8",
+   "parent_id": null,
+   "body": "This guide changed my life",
+   "upvotes": 0,
+   "created_at": "2026-07-20T22:17:32.867044+00:00",
+   "updated_at": "2026-07-20T22:17:32.867044+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "71bd7ce6-0a48-4c4e-af92-98f13cfa65e8",
+    "username": "bennyjelly",
+    "avatar_url": null
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "a7792a90-0e37-4798-a849-30dd1ed291da",
+   "title": "Deadmanfred Oathkeeper Tank - Dungeons",
+   "class_id": 19,
+   "spec_id": 16,
+   "author_id": "4ed769dc-64e0-4254-885e-d3e36e921144",
+   "tags": [
+    "Dungeons"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 2,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 969,
+   "featured": false,
+   "created_at": "2026-07-24T02:08:00.079488+00:00",
+   "updated_at": "2026-07-24T02:08:00.079488+00:00",
+   "has_talents": true,
+   "guide_section_count": 3,
+   "author": {
+    "id": "4ed769dc-64e0-4254-885e-d3e36e921144",
+    "username": "Fred deadman",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKcUZv43kGseZ4zplSlOQOwYtmd_SCINp2rCbOkE2rsJk36gC9T=s96-c"
+   }
+  },
+  {
+   "id": "375352af-1aad-4400-84fd-780eb62fd919",
+   "title": "PVE Crusader Templar",
+   "class_id": 19,
+   "spec_id": 51,
+   "author_id": "e4351f3f-4b54-464f-ba9a-7a4e62e3b26c",
+   "tags": [
+    "Guide",
+    "Leveling",
+    "AOE",
+    "Beginner"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 1,
+   "comment_count": 5,
+   "view_count": 5062,
+   "featured": false,
+   "created_at": "2026-07-18T17:10:37.110149+00:00",
+   "updated_at": "2026-07-18T20:00:19.965+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "e4351f3f-4b54-464f-ba9a-7a4e62e3b26c",
+    "username": "kehbehboi",
+    "avatar_url": "https://cdn.discordapp.com/avatars/607294156431163435/fb41664edf9c11f1eb9613976c345988.png"
+   }
+  },
+  {
+   "id": "ae701fc8-4071-4d50-a031-ec3a311b939a",
+   "title": "Templar Zealot PvP Theory Craft",
+   "class_id": 19,
+   "spec_id": 50,
+   "author_id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1316,
+   "featured": false,
+   "created_at": "2026-07-17T01:59:17.936767+00:00",
+   "updated_at": "2026-07-17T01:59:17.936767+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+    "username": "nschof",
+    "avatar_url": "https://cdn.discordapp.com/avatars/213470960936812544/a231295977f4f589bff6fb6a41fc857d.png"
+   }
+  }
+ ],
+ "class": "Templar",
+ "spec": "Crusader",
+ "allocations": [
+  [
+   "19-87-2-0",
+   1
+  ],
+  [
+   "19-87-6-0",
+   1
+  ],
+  [
+   "19-87-5-1",
+   2
+  ],
+  [
+   "19-87-3-1",
+   1
+  ],
+  [
+   "19-87-4-2",
+   1
+  ],
+  [
+   "19-87-1-2",
+   1
+  ],
+  [
+   "19-87-3-3",
+   1
+  ],
+  [
+   "19-87-5-3",
+   1
+  ],
+  [
+   "19-87-7-2",
+   1
+  ],
+  [
+   "19-87-7-3a",
+   1
+  ],
+  [
+   "19-87-2-4",
+   1
+  ],
+  [
+   "19-87-4-4",
+   1
+  ],
+  [
+   "19-87-6-4",
+   1
+  ],
+  [
+   "19-87-6-5",
+   1
+  ],
+  [
+   "19-87-4-5",
+   1
+  ],
+  [
+   "19-87-2-5",
+   1
+  ],
+  [
+   "19-87-4-6",
+   1
+  ],
+  [
+   "19-87-2-7",
+   1
+  ],
+  [
+   "19-87-7-6",
+   2
+  ],
+  [
+   "19-87-6-7",
+   1
+  ],
+  [
+   "19-87-4-7",
+   2
+  ],
+  [
+   "19-87-5-8",
+   1
+  ],
+  [
+   "19-87-6-9",
+   1
+  ],
+  [
+   "19-51-4-0",
+   1
+  ],
+  [
+   "19-51-4-1",
+   1
+  ],
+  [
+   "19-51-2-2",
+   2
+  ],
+  [
+   "19-51-2-3",
+   1
+  ],
+  [
+   "19-51-4-3",
+   1
+  ],
+  [
+   "19-51-6-2",
+   2
+  ],
+  [
+   "19-51-7-3",
+   1
+  ],
+  [
+   "19-51-7-4b",
+   1
+  ],
+  [
+   "19-51-4-4",
+   1
+  ],
+  [
+   "19-51-3-5",
+   1
+  ],
+  [
+   "19-51-5-5",
+   1
+  ],
+  [
+   "19-51-1-4a",
+   1
+  ],
+  [
+   "19-51-0-5",
+   1
+  ],
+  [
+   "19-51-0-6",
+   1
+  ],
+  [
+   "19-51-4-6",
+   2
+  ],
+  [
+   "19-51-5-7",
+   1
+  ],
+  [
+   "19-51-8-5",
+   1
+  ],
+  [
+   "19-51-8-6",
+   2
+  ],
+  [
+   "19-51-7-7",
+   1
+  ],
+  [
+   "19-51-4-8",
+   1
+  ],
+  [
+   "19-51-6-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "19-87-2-0",
+   "points": 1,
+   "name": "Testament of Fortitude",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 500678
+  },
+  {
+   "id": "19-87-6-0",
+   "points": 1,
+   "name": "Divine Force",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 806153
+  },
+  {
+   "id": "19-87-5-1",
+   "points": 2,
+   "name": "Courage",
+   "maxPoints": 2,
+   "tree": "Templar (class tree)",
+   "spellId": 707754
+  },
+  {
+   "id": "19-87-3-1",
+   "points": 1,
+   "name": "Spiritual",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 560833
+  },
+  {
+   "id": "19-87-4-2",
+   "points": 1,
+   "name": "Deep Meditation",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 300522
+  },
+  {
+   "id": "19-87-1-2",
+   "points": 1,
+   "name": "Sacred Style",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 705278
+  },
+  {
+   "id": "19-87-3-3",
+   "points": 1,
+   "name": "Libram of Tenacity",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 801461
+  },
+  {
+   "id": "19-87-5-3",
+   "points": 1,
+   "name": "Libram of Fervor",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 805423
+  },
+  {
+   "id": "19-87-7-2",
+   "points": 1,
+   "name": "Pious",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 706431
+  },
+  {
+   "id": "19-87-7-3a",
+   "points": 1,
+   "name": "Holy Crusader",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 524747
+  },
+  {
+   "id": "19-87-2-4",
+   "points": 1,
+   "name": "Judicator",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 706359
+  },
+  {
+   "id": "19-87-4-4",
+   "points": 1,
+   "name": "Liberty",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 705266
+  },
+  {
+   "id": "19-87-6-4",
+   "points": 1,
+   "name": "Blessed Strikes",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 704180
+  },
+  {
+   "id": "19-87-6-5",
+   "points": 1,
+   "name": "Holy Constitution",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 706323
+  },
+  {
+   "id": "19-87-4-5",
+   "points": 1,
+   "name": "Deep Secrets",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 705263
+  },
+  {
+   "id": "19-87-2-5",
+   "points": 1,
+   "name": "Sacred Candle",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 300501
+  },
+  {
+   "id": "19-87-4-6",
+   "points": 1,
+   "name": "Tenacious Defender",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 707385
+  },
+  {
+   "id": "19-87-2-7",
+   "points": 1,
+   "name": "Mark of Aggramar",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 804928
+  },
+  {
+   "id": "19-87-7-6",
+   "points": 2,
+   "name": "Sturdy",
+   "maxPoints": 2,
+   "tree": "Templar (class tree)",
+   "spellId": 681009
+  },
+  {
+   "id": "19-87-6-7",
+   "points": 1,
+   "name": "Judgement of the Gods",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 524767
+  },
+  {
+   "id": "19-87-4-7",
+   "points": 2,
+   "name": "Finesse",
+   "maxPoints": 2,
+   "tree": "Templar (class tree)",
+   "spellId": 705271
+  },
+  {
+   "id": "19-87-5-8",
+   "points": 1,
+   "name": "Sanctify",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 705274
+  },
+  {
+   "id": "19-87-6-9",
+   "points": 1,
+   "name": "Glory",
+   "maxPoints": 1,
+   "tree": "Templar (class tree)",
+   "spellId": 801481
+  },
+  {
+   "id": "19-51-4-0",
+   "points": 1,
+   "name": "Righteous Tempest",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 805409
+  },
+  {
+   "id": "19-51-4-1",
+   "points": 1,
+   "name": "Argent Blade",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 804929
+  },
+  {
+   "id": "19-51-2-2",
+   "points": 2,
+   "name": "Aggramar's Rage",
+   "maxPoints": 2,
+   "tree": "Crusader",
+   "spellId": 560650
+  },
+  {
+   "id": "19-51-2-3",
+   "points": 1,
+   "name": "Chivalric",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 705272
+  },
+  {
+   "id": "19-51-4-3",
+   "points": 1,
+   "name": "Warrior of Dawn",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 560648
+  },
+  {
+   "id": "19-51-6-2",
+   "points": 2,
+   "name": "Pure Focus",
+   "maxPoints": 2,
+   "tree": "Crusader",
+   "spellId": 705253
+  },
+  {
+   "id": "19-51-7-3",
+   "points": 1,
+   "name": "Paladin Training",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 520009
+  },
+  {
+   "id": "19-51-7-4b",
+   "points": 1,
+   "name": "Holy Tempest",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 301339
+  },
+  {
+   "id": "19-51-4-4",
+   "points": 1,
+   "name": "Scourge-Defense Training",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 520608
+  },
+  {
+   "id": "19-51-3-5",
+   "points": 1,
+   "name": "Retribution",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 707391
+  },
+  {
+   "id": "19-51-5-5",
+   "points": 1,
+   "name": "Judgement",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 300520
+  },
+  {
+   "id": "19-51-1-4a",
+   "points": 1,
+   "name": "Scarlet Secrets",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 520812
+  },
+  {
+   "id": "19-51-0-5",
+   "points": 1,
+   "name": "Tyr's Blessing",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 705285
+  },
+  {
+   "id": "19-51-0-6",
+   "points": 1,
+   "name": "Templar's Might",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 705291
+  },
+  {
+   "id": "19-51-4-6",
+   "points": 2,
+   "name": "Light's Echo",
+   "maxPoints": 2,
+   "tree": "Crusader",
+   "spellId": 520017
+  },
+  {
+   "id": "19-51-5-7",
+   "points": 1,
+   "name": "Serendipity",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 300929
+  },
+  {
+   "id": "19-51-8-5",
+   "points": 1,
+   "name": "Focused",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 300524
+  },
+  {
+   "id": "19-51-8-6",
+   "points": 2,
+   "name": "Radiant Blade",
+   "maxPoints": 2,
+   "tree": "Crusader",
+   "spellId": 524822
+  },
+  {
+   "id": "19-51-7-7",
+   "points": 1,
+   "name": "Divine Strikes",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 705255
+  },
+  {
+   "id": "19-51-4-8",
+   "points": 1,
+   "name": "Testament of Strength",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 300514
+  },
+  {
+   "id": "19-51-6-9",
+   "points": 1,
+   "name": "Scarlet Champion",
+   "maxPoints": 1,
+   "tree": "Crusader",
+   "spellId": 805415
+  }
+ ]
+}

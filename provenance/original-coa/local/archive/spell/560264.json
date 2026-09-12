@@ -1,0 +1,8 @@
+{
+  "name_enus": "Deadly Sting",
+  "icon": "hunter_pvp_vipersting",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Deadly Sting</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Dealing periodic damage now has a 10% chance to make your next <span style=\"color: #ffffff;\">Hivebreak</span> within 8&nbsp;sec free of cost and deal 50% increased damage.</span></td></tr></table><!--?560264:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

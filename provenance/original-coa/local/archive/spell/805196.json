@@ -1,0 +1,8 @@
+{
+  "name_enus": "Soulrot",
+  "icon": "nhi_souldrain_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Soulrot</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #FFFFFF;\">Deathchaser</span> now applies <span style=\"color: #FFFFFF;\">Soulrot</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/nhi_souldrain_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804660'> Soulrot </a> <br />\n                            <span> Rot the soul of your target, cursing them for 15&nbsp;sec. At the end of the duration the enemy will take damage based on the number of stacks accrued. <br /><br />Each instance of damage from <span style=\"color: #FFFFFF;\">Deathchaser</span> adds 1 stack to this effect, up to 20 stacks. Dispelling this effect causes the dispeller to instantly take 1200+AP*2 Shadow Damage.</span><br /></span></td></tr></table><!--?805196:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

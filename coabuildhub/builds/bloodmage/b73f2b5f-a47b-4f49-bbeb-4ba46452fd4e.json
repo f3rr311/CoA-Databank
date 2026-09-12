@@ -1,0 +1,779 @@
+{
+ "build": {
+  "id": "b73f2b5f-a47b-4f49-bbeb-4ba46452fd4e",
+  "title": "Eternal Big AoE PVE - TANK",
+  "description": "[overview]\nThis is the build I'm testing as a PvE tank. It’s working for me so far. I know there are some wasted points like 'Scarlet Delirium,' but it’s the best I can do with this skill tree, which is really bad. If you have a better one, let me know.",
+  "class_id": 20,
+  "spec_id": 53,
+  "author_id": "3bf6f4f1-24b7-4254-a888-83bdcd426350",
+  "talent_string": "W1siMjAtODctMi0wIiwxXSxbIjIwLTg3LTQtMCIsMV0sWyIyMC04Ny02LTAiLDFdLFsiMjAtODctNC0xIiwyXSxbIjIwLTg3LTEtMSIsMV0sWyIyMC04Ny0yLTIiLDFdLFsiMjAtODctNy0xIiwxXSxbIjIwLTg3LTYtMiIsMl0sWyIyMC04Ny03LTMiLDFdLFsiMjAtODctNC0zIiwxXSxbIjIwLTg3LTYtNCIsMV0sWyIyMC04Ny0yLTQiLDFdLFsiMjAtODctMS01IiwxXSxbIjIwLTg3LTEtNiIsMV0sWyIyMC04Ny0yLTciLDFdLFsiMjAtODctOC00YiIsMV0sWyIyMC04Ny03LTUiLDFdLFsiMjAtODctNy02IiwxXSxbIjIwLTg3LTUtNSIsMV0sWyIyMC04Ny01LTdiIiwxXSxbIjIwLTg3LTYtNyIsMV0sWyIyMC04Ny04LTciLDFdLFsiMjAtODctMi04IiwxXSxbIjIwLTg3LTEtOSIsMV0sWyIyMC01My00LTAiLDFdLFsiMjAtNTMtNS0xIiwxXSxbIjIwLTUzLTMtMSIsMl0sWyIyMC01My00LTIiLDFdLFsiMjAtNTMtMi0yIiwxXSxbIjIwLTUzLTYtMiIsMV0sWyIyMC01My0xLTMiLDFdLFsiMjAtNTMtNC0zYiIsMV0sWyIyMC01My03LTMiLDFdLFsiMjAtNTMtNi00YSIsMV0sWyIyMC01My03LTUiLDFdLFsiMjAtNTMtNy02YSIsMV0sWyIyMC01My04LTYiLDJdLFsiMjAtNTMtMC00IiwxXSxbIjIwLTUzLTAtNiIsMV0sWyIyMC01My0xLTciLDFdLFsiMjAtNTMtNC00IiwxXSxbIjIwLTUzLTUtNSIsMV0sWyIyMC01My00LTYiLDFdLFsiMjAtNTMtNy03IiwxXSxbIjIwLTUzLTEwLTAiLDFdLFsiMjAtNTMtMTAtMiIsMV0sWyIyMC01My0xMC00IiwxXSxbIjIwLTUzLTEwLTYiLDFdLFsiMjAtNTMtMy03IiwxXSxbIjIwLTUzLTItOCIsMV0sWyIyMC01My0yLTkiLDFdLFsiMjAtNTMtMTAtOCIsMV1d",
+  "tags": [
+   "leveling",
+   "aoe",
+   "pve",
+   "bloodmage",
+   "tank",
+   "eternal"
+  ],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 4,
+  "downvotes": 3,
+  "comment_count": 1,
+  "created_at": "2026-07-14T10:03:01.638798+00:00",
+  "updated_at": "2026-07-14T10:03:01.638798+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1961,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "3bf6f4f1-24b7-4254-a888-83bdcd426350",
+   "username": "Majdito",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLdhKdNYWrdvNoBnzRpuRXhftmd4sJb1VMDT9DqPyBxrEy36g=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "a8f39517-a60b-4ba0-b335-7ff9febfbc36",
+   "build_id": "b73f2b5f-a47b-4f49-bbeb-4ba46452fd4e",
+   "author_id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+   "parent_id": null,
+   "body": "Bats are bug, you should not take them, also Night Hunter´s Howl is great aoe.\nThis build is BS",
+   "upvotes": 0,
+   "created_at": "2026-07-19T19:29:24.971325+00:00",
+   "updated_at": "2026-07-19T19:29:24.971325+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+    "username": "Augusto R.A",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL-BwAqiaXC2HCf37ylOwfadsrOg1LOqGO1Ljzqd6AU0IBsMj_t=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "d93d31f9-b3fe-4148-a975-0e96fa54cfc6",
+   "title": "Heal/Support Bloodmage",
+   "class_id": 20,
+   "spec_id": 93,
+   "author_id": "6742ed2a-4cde-4a9a-9fda-18fdfeff4b5a",
+   "tags": [],
+   "role": "support",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 1,
+   "view_count": 126,
+   "featured": false,
+   "created_at": "2026-07-28T06:53:20.729262+00:00",
+   "updated_at": "2026-07-28T06:53:20.729262+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "6742ed2a-4cde-4a9a-9fda-18fdfeff4b5a",
+    "username": "0xstarny",
+    "avatar_url": "https://cdn.discordapp.com/avatars/465898582986326019/91810c64bc05f6cda85e558211b8ecee.png"
+   }
+  },
+  {
+   "id": "2eb43843-d2ab-45f9-987c-fb7c73a3dd1b",
+   "title": "The Fistweaver (A Fleshweaver Healing Guide). Ready for M+",
+   "class_id": 20,
+   "spec_id": 93,
+   "author_id": "ed1ae7bb-2ca4-4db8-96d6-61df4be2b9a6",
+   "tags": [
+    "Fleshweaver M+ Ready"
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 2135,
+   "featured": false,
+   "created_at": "2026-07-22T18:57:26.870774+00:00",
+   "updated_at": "2026-07-27T16:22:59.235+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "ed1ae7bb-2ca4-4db8-96d6-61df4be2b9a6",
+    "username": "Mortyfied",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLyidxAg0VMluhiYGTO167Zb54k6_AebIj_4uSx66NEtyu3N9wt=s96-c"
+   }
+  },
+  {
+   "id": "8314d9a7-6485-4b6c-b227-82aae8edab1c",
+   "title": "Eternal Mythic + And Raiding///",
+   "class_id": 20,
+   "spec_id": 53,
+   "author_id": "718de09f-e3f2-41ae-872d-0695f9109787",
+   "tags": [
+    "Mythic+////",
+    "Easy to hold threat",
+    "///",
+    "High dps///"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 2,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 953,
+   "featured": false,
+   "created_at": "2026-07-23T11:23:01.078437+00:00",
+   "updated_at": "2026-07-27T08:51:46.922+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "718de09f-e3f2-41ae-872d-0695f9109787",
+    "username": "Artery",
+    "avatar_url": null
+   }
+  }
+ ],
+ "class": "Bloodmage",
+ "spec": "Eternal",
+ "allocations": [
+  [
+   "20-87-2-0",
+   1
+  ],
+  [
+   "20-87-4-0",
+   1
+  ],
+  [
+   "20-87-6-0",
+   1
+  ],
+  [
+   "20-87-4-1",
+   2
+  ],
+  [
+   "20-87-1-1",
+   1
+  ],
+  [
+   "20-87-2-2",
+   1
+  ],
+  [
+   "20-87-7-1",
+   1
+  ],
+  [
+   "20-87-6-2",
+   2
+  ],
+  [
+   "20-87-7-3",
+   1
+  ],
+  [
+   "20-87-4-3",
+   1
+  ],
+  [
+   "20-87-6-4",
+   1
+  ],
+  [
+   "20-87-2-4",
+   1
+  ],
+  [
+   "20-87-1-5",
+   1
+  ],
+  [
+   "20-87-1-6",
+   1
+  ],
+  [
+   "20-87-2-7",
+   1
+  ],
+  [
+   "20-87-8-4b",
+   1
+  ],
+  [
+   "20-87-7-5",
+   1
+  ],
+  [
+   "20-87-7-6",
+   1
+  ],
+  [
+   "20-87-5-5",
+   1
+  ],
+  [
+   "20-87-5-7b",
+   1
+  ],
+  [
+   "20-87-6-7",
+   1
+  ],
+  [
+   "20-87-8-7",
+   1
+  ],
+  [
+   "20-87-2-8",
+   1
+  ],
+  [
+   "20-87-1-9",
+   1
+  ],
+  [
+   "20-53-4-0",
+   1
+  ],
+  [
+   "20-53-5-1",
+   1
+  ],
+  [
+   "20-53-3-1",
+   2
+  ],
+  [
+   "20-53-4-2",
+   1
+  ],
+  [
+   "20-53-2-2",
+   1
+  ],
+  [
+   "20-53-6-2",
+   1
+  ],
+  [
+   "20-53-1-3",
+   1
+  ],
+  [
+   "20-53-4-3b",
+   1
+  ],
+  [
+   "20-53-7-3",
+   1
+  ],
+  [
+   "20-53-6-4a",
+   1
+  ],
+  [
+   "20-53-7-5",
+   1
+  ],
+  [
+   "20-53-7-6a",
+   1
+  ],
+  [
+   "20-53-8-6",
+   2
+  ],
+  [
+   "20-53-0-4",
+   1
+  ],
+  [
+   "20-53-0-6",
+   1
+  ],
+  [
+   "20-53-1-7",
+   1
+  ],
+  [
+   "20-53-4-4",
+   1
+  ],
+  [
+   "20-53-5-5",
+   1
+  ],
+  [
+   "20-53-4-6",
+   1
+  ],
+  [
+   "20-53-7-7",
+   1
+  ],
+  [
+   "20-53-10-0",
+   1
+  ],
+  [
+   "20-53-10-2",
+   1
+  ],
+  [
+   "20-53-10-4",
+   1
+  ],
+  [
+   "20-53-10-6",
+   1
+  ],
+  [
+   "20-53-3-7",
+   1
+  ],
+  [
+   "20-53-2-8",
+   1
+  ],
+  [
+   "20-53-2-9",
+   1
+  ],
+  [
+   "20-53-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "20-87-2-0",
+   "points": 1,
+   "name": "Scarlet Delirium",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 801074
+  },
+  {
+   "id": "20-87-4-0",
+   "points": 1,
+   "name": "Fleshcraft",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 801952
+  },
+  {
+   "id": "20-87-6-0",
+   "points": 1,
+   "name": "Blood Pact",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 801955
+  },
+  {
+   "id": "20-87-4-1",
+   "points": 2,
+   "name": "Alacrity",
+   "maxPoints": 2,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 504285
+  },
+  {
+   "id": "20-87-1-1",
+   "points": 1,
+   "name": "Night Stalker",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 807774
+  },
+  {
+   "id": "20-87-2-2",
+   "points": 1,
+   "name": "Bloody Sacrifice",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 705742
+  },
+  {
+   "id": "20-87-7-1",
+   "points": 1,
+   "name": "Blood Runs Cold",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 560257
+  },
+  {
+   "id": "20-87-6-2",
+   "points": 2,
+   "name": "Dark Curse",
+   "maxPoints": 2,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 704649
+  },
+  {
+   "id": "20-87-7-3",
+   "points": 1,
+   "name": "Shadow Howl",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 806177
+  },
+  {
+   "id": "20-87-4-3",
+   "points": 1,
+   "name": "Blood Rush",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 560254
+  },
+  {
+   "id": "20-87-6-4",
+   "points": 1,
+   "name": "Mortal Wounds",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 504292
+  },
+  {
+   "id": "20-87-2-4",
+   "points": 1,
+   "name": "Bloodbender",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 704635
+  },
+  {
+   "id": "20-87-1-5",
+   "points": 1,
+   "name": "Veins of Vengeance",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 560074
+  },
+  {
+   "id": "20-87-1-6",
+   "points": 1,
+   "name": "Blood Veil",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 504263
+  },
+  {
+   "id": "20-87-2-7",
+   "points": 1,
+   "name": "Adrenaline",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 300986
+  },
+  {
+   "id": "20-87-8-4b",
+   "points": 1,
+   "name": "Bloodbound Etchings",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 570758
+  },
+  {
+   "id": "20-87-7-5",
+   "points": 1,
+   "name": "Infected Blood",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 805035
+  },
+  {
+   "id": "20-87-7-6",
+   "points": 1,
+   "name": "Wicked Howl",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 804207
+  },
+  {
+   "id": "20-87-5-5",
+   "points": 1,
+   "name": "Blood Moon",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 804199
+  },
+  {
+   "id": "20-87-5-7b",
+   "points": 1,
+   "name": "Visceral Magic",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 707371
+  },
+  {
+   "id": "20-87-6-7",
+   "points": 1,
+   "name": "Crimson Curse",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 706656
+  },
+  {
+   "id": "20-87-8-7",
+   "points": 1,
+   "name": "Bloodleaper",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 806423
+  },
+  {
+   "id": "20-87-2-8",
+   "points": 1,
+   "name": "Everhungry",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 804599
+  },
+  {
+   "id": "20-87-1-9",
+   "points": 1,
+   "name": "Transfusion",
+   "maxPoints": 1,
+   "tree": "Bloodmage (class tree)",
+   "spellId": 705734
+  },
+  {
+   "id": "20-53-4-0",
+   "points": 1,
+   "name": "Rotclaw",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 804197
+  },
+  {
+   "id": "20-53-5-1",
+   "points": 1,
+   "name": "Thick Pelt",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 704626
+  },
+  {
+   "id": "20-53-3-1",
+   "points": 2,
+   "name": "Heightened Reflexes",
+   "maxPoints": 2,
+   "tree": "Eternal",
+   "spellId": 704627
+  },
+  {
+   "id": "20-53-4-2",
+   "points": 1,
+   "name": "Enduring",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 300585
+  },
+  {
+   "id": "20-53-2-2",
+   "points": 1,
+   "name": "Eternal Hunt",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 804201
+  },
+  {
+   "id": "20-53-6-2",
+   "points": 1,
+   "name": "Eternal Resolve",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 801962
+  },
+  {
+   "id": "20-53-1-3",
+   "points": 1,
+   "name": "Blood Howl",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 800782
+  },
+  {
+   "id": "20-53-4-3b",
+   "points": 1,
+   "name": "Coated In Blood",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 707626
+  },
+  {
+   "id": "20-53-7-3",
+   "points": 1,
+   "name": "Bloodguard",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 570746
+  },
+  {
+   "id": "20-53-6-4a",
+   "points": 1,
+   "name": "Blood Moon",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 707623
+  },
+  {
+   "id": "20-53-7-5",
+   "points": 1,
+   "name": "No Mercy",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 704660
+  },
+  {
+   "id": "20-53-7-6a",
+   "points": 1,
+   "name": "Dark Mark",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 705731
+  },
+  {
+   "id": "20-53-8-6",
+   "points": 2,
+   "name": "Cursed Strikes",
+   "maxPoints": 2,
+   "tree": "Eternal",
+   "spellId": 300982
+  },
+  {
+   "id": "20-53-0-4",
+   "points": 1,
+   "name": "Packleader",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 504290
+  },
+  {
+   "id": "20-53-0-6",
+   "points": 1,
+   "name": "Petrified Legions",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 500012
+  },
+  {
+   "id": "20-53-1-7",
+   "points": 1,
+   "name": "Grim Omen",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 800154
+  },
+  {
+   "id": "20-53-4-4",
+   "points": 1,
+   "name": "Monstrous Hunger",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 804811
+  },
+  {
+   "id": "20-53-5-5",
+   "points": 1,
+   "name": "Festering Maw",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 706683
+  },
+  {
+   "id": "20-53-4-6",
+   "points": 1,
+   "name": "Appetite for Blood",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 560479
+  },
+  {
+   "id": "20-53-7-7",
+   "points": 1,
+   "name": "Infection",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 704624
+  },
+  {
+   "id": "20-53-10-0",
+   "points": 1,
+   "name": "Eternal Curse",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 92114
+  },
+  {
+   "id": "20-53-10-2",
+   "points": 1,
+   "name": "Uncanny Movement",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 301064
+  },
+  {
+   "id": "20-53-10-4",
+   "points": 1,
+   "name": "Feral Strength",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 704661
+  },
+  {
+   "id": "20-53-10-6",
+   "points": 1,
+   "name": "Enraging Wounds",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 300978
+  },
+  {
+   "id": "20-53-3-7",
+   "points": 1,
+   "name": "Eternal Presence",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 560001
+  },
+  {
+   "id": "20-53-2-8",
+   "points": 1,
+   "name": "Screech of the Darkwing",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 300260
+  },
+  {
+   "id": "20-53-2-9",
+   "points": 1,
+   "name": "Eyes In The Night",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 801959
+  },
+  {
+   "id": "20-53-10-8",
+   "points": 1,
+   "name": "Bloodmoon Power",
+   "maxPoints": 1,
+   "tree": "Eternal",
+   "spellId": 578120
+  }
+ ]
+}

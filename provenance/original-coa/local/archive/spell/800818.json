@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ember Touch",
+  "icon": "nhi_firehands_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ember Touch</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>20% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ff7f7f;\">Consumes 1 Ember</span><br />Warm an ally with everliving flames, healing them for 83+0+SP*0.45+Spi*1, additonally scaling with your Spirit.</span></td></tr></table><!--?800818:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

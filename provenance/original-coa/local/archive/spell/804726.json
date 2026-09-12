@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vampiric Fang",
+  "icon": "custom_t_bloodhaze_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Vampiric Fang</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>20 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Expends Thirst Stacks</span><br />Steal 36+0+SP*0.34 health from an enemy.<br /><br />Damage increased by 10% for each <span style=\"color: #ffffff;\">Thirst</span> stack. <br /><br />Clears <span style=\"color: #ffffff;\">Insatiable</span> and <span style=\"color: #ffffff;\">Thirst</span> stacks.</span></td></tr></table><!--?804726:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

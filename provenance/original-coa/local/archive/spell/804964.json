@@ -1,0 +1,8 @@
+{
+  "name_enus": "Noxious Empowerment",
+  "icon": "achievement_battleground_templeofkotmogu_02_green",
+  "tooltip_enus": "<table><tr><td><b>Noxious Empowerment</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Enrage for 12&nbsp;sec, increasing your chance to trigger <span style=\"color: #ffffff;\">Venoms</span> by 50%, your Energy regeneration by 100%, and increasing your damage dealt by 20% for 12&nbsp;sec. </span></td></tr></table><!--?804964:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

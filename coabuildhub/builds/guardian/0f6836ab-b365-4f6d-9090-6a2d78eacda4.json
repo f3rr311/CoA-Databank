@@ -1,0 +1,829 @@
+{
+ "build": {
+  "id": "0f6836ab-b365-4f6d-9090-6a2d78eacda4",
+  "title": "Inspiration Guardian(PvE)",
+  "description": "[overview]\nWelcome to Hell! I mean inspiration guardian, you've made the right choice coming here. Overly complex combos, random procs that determine if you sit there doing nothing or deal moderate dmg levels. It's a blast!\n\nStrengths\n- Raid wide buffs(5% crit/5% haste/5% rep/10% crit/10% dmg/10% healing/10%haste/+35% ap as adaptive/+145 adaptive/+15% dmg/10% physical crit dmg)\n- Good damage output \n- High survivability and mobility \n- AOE CC & CC Immunity \nWeakness\n- Damage is very RNG\n- Peak damage isn't very high\n- Complexity and stance swapping can be a major turn off\n\n[talents]\nMost talents are pretty self explanatory going to discuss controversial ones\n\nFeel free to swap Liberation for talents that may be useful for your group I.E. little drummer for stratholme\nInspiration Dissonance vs Song of steel. \nSong of steel cost 30 energy every 15 seconds and heavily slows down your combo. This is more useful in larger raids I.E. 20-40 man raids(it affects everyone in raid) or in heavy physical DPS comps. If you're doing dungeons/10 man raids, dissonance will give you and your party a lot more value especially if your group has more casters.\n\nVoice of an Angel and Champion Presence - these are both extremely long CDs for very little return. For such a long cds we'll likely only get to use it once a fight it's not worth it compared to other options.\n\nValiant Warrior vs Grand Entrance - Grand Entrance can be a bit awkward to use, and although we stack strength making the AP values very attractive we also actively stack crit and are able to Empowered ram almost on CD. Along with the fact we don't have very high weapon scaling. After two ram procs Valiant Warrior will out value Grand Entrance.\n\nBannerman vs Echoes of War - Bannerman is currently bugged doing 0% extra damage on the initial tick and 300% extra damage(150% more for each banner) on every subsequent tick. Personally I run echoes of war, in a raid setting it can often be 2-5% of your raid members total damage contributing almost 4000dps by itself. Bannerman will give you a higher personal DPS output, and better dungeon damage.\n\n[rotation]\nWe want to start most encounters in Line Formation this will allow us to open with **Harrowing Melody** and **advance**. Once we begin our rotation we want to swap and sit in **Assault stance** for the bonus crit and dmg.\n\n**Jagged Reinforcement** when above 30% base crit(45% with banner + assault), **Weighted Reinforcement** when below this threshold.\n\nWe have a very simple opener \nOpener in question:\nAdvance + Standard of Supremacy/Valiance -> Harrowing Melody(run away after casting) + Battle drums + End Advance-> Assault formation + Charge -> Macro(hero's March +  Chivlary + Inspiring Presence) + Glorious Arena + CLICK THOSE DRUMS -> Priority Rotation \nThis opener takes about 3 seconds.\n\nThe main idea behind our rotation is pop all our cds, spam Dragonslayer until we get empowered ram and look for reprisal procs. Having a fast weapon will help out a lot with getting enough reprisal procs to not be sitting at 0 energy doing nothing.\n\nSingle Target - Priority\n0. Standard of Valiance\n1. Buffs: Hero's March/Chivalry/Inspiring Presence/Song of steel/Battle Drums\n2. Harrowing Melody\n3. Dragonslayer(If 3 or more mobs)\n4. Empowered Ram(Cast at 2 tempo stacks)\n5. Reprisal(/Inspiring Presence(When below 50 energy)\n6. Glorious Arena\n7. Ballad of the Conqueror\n\nNote on casting harrowing melody mid combat, to go from assault, cast harrowing melody, and back to assault cost 70 energy returning effectively 105 energy worth of ballad cast. Have at least 70 energy casting from assault. \n\nTry to cast linebreaker in line with harrowing melody, this reduces energy waste from stance swaping and greatly benefits boss damage.\n\nDungeon:\nDuring Dungeons I suggest alternating between inspiring Presence and Hero's March on pulls. While stacking them all is good on big pulls, when during small pulls alternate. This will gives you the most uptime of buffs, while maximizing cds so every minute you can pop one of these. Chivalry can be thrown in when you have packs large packs or elites.\n\nBattle Drums should be used on dungeon bosses, don't pop it on trash packs unless it includes a boss. When doing raids try to place drums pre-pull to reduce energy waste or use them how the opener demonstrates. Using them mid raid boss is currently not viable because map clutter makes it very hard to notice/click them so only use them in your opener or pre-pull.\n\nRaid: \nYou are responsible for taking banners, other supports should take the 1% hit and armor versions. **ALWAYS COMMUNICATE WITH OTHER SUPPORTS WHAT TALENTS THEY ARE BRINGING, DO NOT OVERLAP**\n\n[stats]\nExpertise(Up to cap) > Hit(Up to cap) > Strength > Critical Strike  > Haste > AP > Armor Pen > agility\n\nEverything you have scales off AP so strength to scale, we have naturally high crit rate and crit damage so it's not vital but will greatly boost dps and make ram less RNG. Hit and expertise up to cap.\n\n[gear]\nFor weapons, we want fast weapons with a lot of stats.  All of our scaling comes for AP, so weapon damage is negligible. Try to proc  valiant effort as much as possible.\n\nRecommended weapons: HedgeCutter, Serathil, Ogre Pocket knife.\n\nFollow stat priorities for gear\n\n[enchants]\nFollow stat priority. Crusader on weapon\n\n[macros]\nstance 1 line, stance 2 tower, stance 3 assault \nExample Macro\n#showtooltip Harrowing Melody\n/cast [nostance:1] Line Formation\n/cast Harrowing Melody\n/startattack\n------------\n#showtooltip Shield of Denial\n/cast [nostance:1/2] Tower Formation\n/cast Shield of Denial\n/startattack\n------------------\n#showtooltip\n/cast Hero's March\n/cast Chivalry\n/cast Inspiring Presence\n/startattack\n\n[tips]\nBattle drums can't be clicked while you have a GCD going, and is often not usuable in a raid setting.",
+  "class_id": 18,
+  "spec_id": 48,
+  "author_id": "b624efc7-ef7c-4e8a-a566-0b510f658794",
+  "talent_string": "W1siMTgtODctMS0wIiwxXSxbIjE4LTg3LTEtMSIsMV0sWyIxOC04Ny00LTAiLDFdLFsiMTgtODctNC0xIiwyXSxbIjE4LTg3LTYtMiIsMV0sWyIxOC04Ny0yLTIiLDFdLFsiMTgtODctMS0zIiwxXSxbIjE4LTg3LTQtM2EiLDFdLFsiMTgtODctMS00IiwxXSxbIjE4LTg3LTItNSIsMV0sWyIxOC04Ny0yLTYiLDFdLFsiMTgtODctMS03YiIsMV0sWyIxOC04Ny0yLTciLDFdLFsiMTgtODctNS00IiwxXSxbIjE4LTg3LTYtNSIsMV0sWyIxOC04Ny00LTUiLDFdLFsiMTgtODctNC02IiwxXSxbIjE4LTg3LTYtNiIsMV0sWyIxOC04Ny00LTciLDFdLFsiMTgtODctNi03IiwxXSxbIjE4LTg3LTMtNCIsMV0sWyIxOC04Ny0yLTgiLDFdLFsiMTgtODctNC05IiwxXSxbIjE4LTQ4LTQtMCIsMV0sWyIxOC00OC0xMC0wIiwxXSxbIjE4LTQ4LTEwLTJhIiwxXSxbIjE4LTQ4LTItMSIsMl0sWyIxOC00OC0xLTIiLDFdLFsiMTgtNDgtMi0zIiwxXSxbIjE4LTQ4LTYtMSIsMl0sWyIxOC00OC03LTIiLDFdLFsiMTgtNDgtNi0zIiwxXSxbIjE4LTQ4LTQtNCIsMV0sWyIxOC00OC0xLTQiLDFdLFsiMTgtNDgtMi01YSIsMV0sWyIxOC00OC0wLTUiLDFdLFsiMTgtNDgtMS02IiwxXSxbIjE4LTQ4LTAtNyIsMV0sWyIxOC00OC00LTViIiwxXSxbIjE4LTQ4LTUtNiIsMV0sWyIxOC00OC02LTUiLDFdLFsiMTgtNDgtNC03IiwxXSxbIjE4LTQ4LTctNiIsMl0sWyIxOC00OC01LTIiLDFdLFsiMTgtNDgtNi03IiwxXSxbIjE4LTQ4LTEtOCIsMV0sWyIxOC04Ny0wLTVhIiwxXSxbIjE4LTg3LTctMCIsMV0sWyIxOC00OC03LTQiLDFdLFsiMTgtNDgtMTAtNGEiLDFdLFsiMTgtNDgtMTAtNmIiLDFdLFsiMTgtNDgtMTAtOGEiLDFdLFsiMTgtNDgtNy04IiwxXV0",
+  "tags": [],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 2,
+  "downvotes": 0,
+  "comment_count": 5,
+  "created_at": "2026-07-19T18:15:22.008446+00:00",
+  "updated_at": "2026-07-30T03:52:06.129+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1532,
+  "net_score": 2,
+  "has_talents": true,
+  "guide_section_count": 8,
+  "author": {
+   "id": "b624efc7-ef7c-4e8a-a566-0b510f658794",
+   "username": "Why Two",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKT__xFrMUPj2fQYgJyQdPdJCvpvEl6Ulxp2c0YLKhjAPp-IQ=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "904548b8-3e86-4621-b527-ce236eee6eca",
+   "build_id": "0f6836ab-b365-4f6d-9090-6a2d78eacda4",
+   "author_id": "0bc37ca2-337e-4427-8c98-9d35881dc32d",
+   "parent_id": null,
+   "body": "Any reason we're sacrificing the extra 5% raid dps on echoes from War Drums for more personal damage out of harrowing melody? If we didn't pick legion commander we also could just...stay in assault stance the whole time (as much as I wish staying in Line formation was better for us.)",
+   "upvotes": 1,
+   "created_at": "2026-07-21T03:10:20.517917+00:00",
+   "updated_at": "2026-07-29T16:28:05.608453+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "0bc37ca2-337e-4427-8c98-9d35881dc32d",
+    "username": "toggle_switch",
+    "avatar_url": "https://cdn.discordapp.com/avatars/105357632532959232/f27b0beb86e132cb2c2b0e0779943fd0.png"
+   }
+  },
+  {
+   "id": "c03fae4b-3f95-45ea-bfcb-4ef599514a6c",
+   "build_id": "0f6836ab-b365-4f6d-9090-6a2d78eacda4",
+   "author_id": "b624efc7-ef7c-4e8a-a566-0b510f658794",
+   "parent_id": "904548b8-3e86-4621-b527-ce236eee6eca",
+   "body": "First off we only stance swap to line formation for one of two reasons, we're engaging with Advance or quickly swapping to cast Harrowing Melody then swapping Assault. Otherwise we always sit in Assault Formation. Utilizing legion commander this requires 65 energy, returning 105 energy + double damage critical strikes on our Ballads. \n\nIn our opening combo this allows us to cast all our buffs + cds without requiring inspiring presence or early reprisal proc to keep casting Ballads while our Glorious Arena is up. This also feels very good inside of our rotation when we lack reprisal procs but have good energy. If we're sitting at 70 energy no reprisal or inspiring presence up, instead of using two ballads then being out-of-energy we can cast Harrowing Melody swap stance back to assault then we have 3 empowered ballads for the same amount of energy as casting two ballads not including the fact that harrowing melody is our skill with the highest AP scaling, applies a healing debuff, and does AOE damage. \n\nLastly War Drums main issue is the fact that Sound of War(12% ap scaling) doesn't proc very much outside of Hero's March and Battle Drums. The echo effect from war drums wont be giving too much value outside of the fact it procs Echoes of War giving allies a little bit more DPS. In a large scale raid, with lots of melee there is an argument where that extra 5% periodic damage is useful, but that would require testing to see how many melee dps would be needed to make the talent worth it, groups who are pushing for fast kill times. \n\nThis build I've shown is mostly about maximizing your own dps, rather than raid wide dps since what support talents you should take is highly dependent on your group comp.",
+   "upvotes": 1,
+   "created_at": "2026-07-22T17:50:57.878912+00:00",
+   "updated_at": "2026-07-26T18:10:00.025162+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "b624efc7-ef7c-4e8a-a566-0b510f658794",
+    "username": "Why Two",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKT__xFrMUPj2fQYgJyQdPdJCvpvEl6Ulxp2c0YLKhjAPp-IQ=s96-c"
+   }
+  },
+  {
+   "id": "92b75c62-d023-479d-abab-d06d62a71ac7",
+   "build_id": "0f6836ab-b365-4f6d-9090-6a2d78eacda4",
+   "author_id": "fa035438-66ea-4584-8fb2-5f23815dee47",
+   "parent_id": null,
+   "body": "The guide says to use song of steel in rotation but the talent has dissonance. Wouldnt song of steel be better unless the fight would have a lot of area magical attacks?",
+   "upvotes": 1,
+   "created_at": "2026-07-24T14:15:14.27691+00:00",
+   "updated_at": "2026-07-29T16:28:07.693858+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "fa035438-66ea-4584-8fb2-5f23815dee47",
+    "username": "Kenny",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLi3RZXBrBFj1HWALWk6Wqd4pic__gm8W9GmPmvXbsFNXZ8af58=s96-c"
+   }
+  },
+  {
+   "id": "dcdaa518-bd03-42e8-83c9-f72eb5a88e52",
+   "build_id": "0f6836ab-b365-4f6d-9090-6a2d78eacda4",
+   "author_id": "b624efc7-ef7c-4e8a-a566-0b510f658794",
+   "parent_id": "92b75c62-d023-479d-abab-d06d62a71ac7",
+   "body": "Song of steel scales multiplicatively with the amount of players, I recommend dissonance in smaller groups and Song of Steel in large groups. The rotation includes song of steel for that reason, if you don't have song of steel doesn't use it. I also don't include song of steel in the opener, but if you did have it you would cast it pre-pull",
+   "upvotes": 1,
+   "created_at": "2026-07-24T15:56:22.071013+00:00",
+   "updated_at": "2026-07-24T16:20:41.256047+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "b624efc7-ef7c-4e8a-a566-0b510f658794",
+    "username": "Why Two",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKT__xFrMUPj2fQYgJyQdPdJCvpvEl6Ulxp2c0YLKhjAPp-IQ=s96-c"
+   }
+  },
+  {
+   "id": "277e9a5b-9fe5-40d4-bd81-a7044f20a372",
+   "build_id": "0f6836ab-b365-4f6d-9090-6a2d78eacda4",
+   "author_id": "671101e6-c4f8-4de6-a2d0-f24955e8aed7",
+   "parent_id": null,
+   "body": "quick question, are we stuck with tanking shields here or do you have any suggestions for what shield should be used?",
+   "upvotes": 0,
+   "created_at": "2026-07-30T11:09:18.927576+00:00",
+   "updated_at": "2026-07-30T11:09:18.927576+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "671101e6-c4f8-4de6-a2d0-f24955e8aed7",
+    "username": "Michael Dermody",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJoRlWE1cM9MRQIkp0R1YOV-_8krypApICMRnA5iLiRDLAT-A=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "42d434c2-50ac-4f13-96ca-d69aaf05435d",
+   "title": "reincarnated into another world and I can be hit in the face 10000 times and be fine",
+   "class_id": 18,
+   "spec_id": 7,
+   "author_id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+   "tags": [],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2222,
+   "featured": false,
+   "created_at": "2026-07-17T21:16:49.004228+00:00",
+   "updated_at": "2026-07-17T21:16:49.004228+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+    "username": "zyzx",
+    "avatar_url": "https://cdn.discordapp.com/avatars/160919726955036672/a701ead2d96f549ded297650a1b01624.png"
+   }
+  },
+  {
+   "id": "086abfa8-9acf-47ed-bc73-9ca5438612fb",
+   "title": "Guardian Gladiator PvP optimal build",
+   "class_id": 18,
+   "spec_id": 49,
+   "author_id": "9614dba2-698f-41f8-9cfe-50164820f285",
+   "tags": [
+    "PvP",
+    "Guardian",
+    "Gladiator",
+    "BG",
+    "Battleground",
+    "Battlegrounds",
+    "Arena",
+    "Open World",
+    "High Risk",
+    "War Mode"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 3653,
+   "featured": false,
+   "created_at": "2026-07-13T23:22:44.312209+00:00",
+   "updated_at": "2026-07-19T00:55:15.877+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "9614dba2-698f-41f8-9cfe-50164820f285",
+    "username": "hrup",
+    "avatar_url": "https://cdn.discordapp.com/avatars/92835265051136000/1edee95b14b29f70aa420a43dc716fa0.png"
+   }
+  }
+ ],
+ "class": "Guardian",
+ "spec": "Inspiration",
+ "allocations": [
+  [
+   "18-87-1-0",
+   1
+  ],
+  [
+   "18-87-1-1",
+   1
+  ],
+  [
+   "18-87-4-0",
+   1
+  ],
+  [
+   "18-87-4-1",
+   2
+  ],
+  [
+   "18-87-6-2",
+   1
+  ],
+  [
+   "18-87-2-2",
+   1
+  ],
+  [
+   "18-87-1-3",
+   1
+  ],
+  [
+   "18-87-4-3a",
+   1
+  ],
+  [
+   "18-87-1-4",
+   1
+  ],
+  [
+   "18-87-2-5",
+   1
+  ],
+  [
+   "18-87-2-6",
+   1
+  ],
+  [
+   "18-87-1-7b",
+   1
+  ],
+  [
+   "18-87-2-7",
+   1
+  ],
+  [
+   "18-87-5-4",
+   1
+  ],
+  [
+   "18-87-6-5",
+   1
+  ],
+  [
+   "18-87-4-5",
+   1
+  ],
+  [
+   "18-87-4-6",
+   1
+  ],
+  [
+   "18-87-6-6",
+   1
+  ],
+  [
+   "18-87-4-7",
+   1
+  ],
+  [
+   "18-87-6-7",
+   1
+  ],
+  [
+   "18-87-3-4",
+   1
+  ],
+  [
+   "18-87-2-8",
+   1
+  ],
+  [
+   "18-87-4-9",
+   1
+  ],
+  [
+   "18-48-4-0",
+   1
+  ],
+  [
+   "18-48-10-0",
+   1
+  ],
+  [
+   "18-48-10-2a",
+   1
+  ],
+  [
+   "18-48-2-1",
+   2
+  ],
+  [
+   "18-48-1-2",
+   1
+  ],
+  [
+   "18-48-2-3",
+   1
+  ],
+  [
+   "18-48-6-1",
+   2
+  ],
+  [
+   "18-48-7-2",
+   1
+  ],
+  [
+   "18-48-6-3",
+   1
+  ],
+  [
+   "18-48-4-4",
+   1
+  ],
+  [
+   "18-48-1-4",
+   1
+  ],
+  [
+   "18-48-2-5a",
+   1
+  ],
+  [
+   "18-48-0-5",
+   1
+  ],
+  [
+   "18-48-1-6",
+   1
+  ],
+  [
+   "18-48-0-7",
+   1
+  ],
+  [
+   "18-48-4-5b",
+   1
+  ],
+  [
+   "18-48-5-6",
+   1
+  ],
+  [
+   "18-48-6-5",
+   1
+  ],
+  [
+   "18-48-4-7",
+   1
+  ],
+  [
+   "18-48-7-6",
+   2
+  ],
+  [
+   "18-48-5-2",
+   1
+  ],
+  [
+   "18-48-6-7",
+   1
+  ],
+  [
+   "18-48-1-8",
+   1
+  ],
+  [
+   "18-87-0-5a",
+   1
+  ],
+  [
+   "18-87-7-0",
+   1
+  ],
+  [
+   "18-48-7-4",
+   1
+  ],
+  [
+   "18-48-10-4a",
+   1
+  ],
+  [
+   "18-48-10-6b",
+   1
+  ],
+  [
+   "18-48-10-8a",
+   1
+  ],
+  [
+   "18-48-7-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "18-87-1-0",
+   "points": 1,
+   "name": "Net Throw",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802304
+  },
+  {
+   "id": "18-87-1-1",
+   "points": 1,
+   "name": "Knightly Demeanor",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 504148
+  },
+  {
+   "id": "18-87-4-0",
+   "points": 1,
+   "name": "Standard of Rallying",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 500263
+  },
+  {
+   "id": "18-87-4-1",
+   "points": 2,
+   "name": "Gallant",
+   "maxPoints": 2,
+   "tree": "Guardian (class tree)",
+   "spellId": 705368
+  },
+  {
+   "id": "18-87-6-2",
+   "points": 1,
+   "name": "Valiant Effort",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 706637
+  },
+  {
+   "id": "18-87-2-2",
+   "points": 1,
+   "name": "Guardbreaker",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 504385
+  },
+  {
+   "id": "18-87-1-3",
+   "points": 1,
+   "name": "Glorious Arena",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 300983
+  },
+  {
+   "id": "18-87-4-3a",
+   "points": 1,
+   "name": "Shrug It Off",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802198
+  },
+  {
+   "id": "18-87-1-4",
+   "points": 1,
+   "name": "Lord of the Arena",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802290
+  },
+  {
+   "id": "18-87-2-5",
+   "points": 1,
+   "name": "Valiance",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705324
+  },
+  {
+   "id": "18-87-2-6",
+   "points": 1,
+   "name": "Energetic",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705316
+  },
+  {
+   "id": "18-87-1-7b",
+   "points": 1,
+   "name": "Warstopper",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705330
+  },
+  {
+   "id": "18-87-2-7",
+   "points": 1,
+   "name": "Thick Shields",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 807346
+  },
+  {
+   "id": "18-87-5-4",
+   "points": 1,
+   "name": "Heroic Deeds",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 804661
+  },
+  {
+   "id": "18-87-6-5",
+   "points": 1,
+   "name": "Standard Bearer",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 806134
+  },
+  {
+   "id": "18-87-4-5",
+   "points": 1,
+   "name": "Counter Stance",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802188
+  },
+  {
+   "id": "18-87-4-6",
+   "points": 1,
+   "name": "Knight's Advantage",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705378
+  },
+  {
+   "id": "18-87-6-6",
+   "points": 1,
+   "name": "Steel Riposte",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 300534
+  },
+  {
+   "id": "18-87-4-7",
+   "points": 1,
+   "name": "Knight's Calling",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 504151
+  },
+  {
+   "id": "18-87-6-7",
+   "points": 1,
+   "name": "Make Room! I'm Here.",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 300543
+  },
+  {
+   "id": "18-87-3-4",
+   "points": 1,
+   "name": "Unstoppable",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 704513
+  },
+  {
+   "id": "18-87-2-8",
+   "points": 1,
+   "name": "Relentless",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705343
+  },
+  {
+   "id": "18-87-4-9",
+   "points": 1,
+   "name": "Valiant Warrior",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 524694
+  },
+  {
+   "id": "18-48-4-0",
+   "points": 1,
+   "name": "Inspiring Leader",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 505344
+  },
+  {
+   "id": "18-48-10-0",
+   "points": 1,
+   "name": "Tempo",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 92107
+  },
+  {
+   "id": "18-48-10-2a",
+   "points": 1,
+   "name": "Banner of Conquest",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 500261
+  },
+  {
+   "id": "18-48-2-1",
+   "points": 2,
+   "name": "A Hero's Tale",
+   "maxPoints": 2,
+   "tree": "Inspiration",
+   "spellId": 705361
+  },
+  {
+   "id": "18-48-1-2",
+   "points": 1,
+   "name": "Strength In Unison",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 300860
+  },
+  {
+   "id": "18-48-2-3",
+   "points": 1,
+   "name": "Battle Bard",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 806140
+  },
+  {
+   "id": "18-48-6-1",
+   "points": 2,
+   "name": "Leading the March",
+   "maxPoints": 2,
+   "tree": "Inspiration",
+   "spellId": 704423
+  },
+  {
+   "id": "18-48-7-2",
+   "points": 1,
+   "name": "Into The Fray",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 704525
+  },
+  {
+   "id": "18-48-6-3",
+   "points": 1,
+   "name": "Soundwave",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 705318
+  },
+  {
+   "id": "18-48-4-4",
+   "points": 1,
+   "name": "Hero's March",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 801774
+  },
+  {
+   "id": "18-48-1-4",
+   "points": 1,
+   "name": "Harrowing Melody",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 572821
+  },
+  {
+   "id": "18-48-2-5a",
+   "points": 1,
+   "name": "Pied Piper",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 705350
+  },
+  {
+   "id": "18-48-0-5",
+   "points": 1,
+   "name": "Minstrel",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 704533
+  },
+  {
+   "id": "18-48-1-6",
+   "points": 1,
+   "name": "Powerful Voice",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 705356
+  },
+  {
+   "id": "18-48-0-7",
+   "points": 1,
+   "name": "War's Muse",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 505201
+  },
+  {
+   "id": "18-48-4-5b",
+   "points": 1,
+   "name": "Warbringer's Manuscript",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 705351
+  },
+  {
+   "id": "18-48-5-6",
+   "points": 1,
+   "name": "Elegant Combat",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 804047
+  },
+  {
+   "id": "18-48-6-5",
+   "points": 1,
+   "name": "Reverberations",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 520650
+  },
+  {
+   "id": "18-48-4-7",
+   "points": 1,
+   "name": "Battle Drums",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 803683
+  },
+  {
+   "id": "18-48-7-6",
+   "points": 2,
+   "name": "Banner Boy",
+   "maxPoints": 2,
+   "tree": "Inspiration",
+   "spellId": 705359
+  },
+  {
+   "id": "18-48-5-2",
+   "points": 1,
+   "name": "Dragonslayer",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 706333
+  },
+  {
+   "id": "18-48-6-7",
+   "points": 1,
+   "name": "Fearless",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 505199
+  },
+  {
+   "id": "18-48-1-8",
+   "points": 1,
+   "name": "Legion Commander",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 704535
+  },
+  {
+   "id": "18-87-0-5a",
+   "points": 1,
+   "name": "Myrmidon",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 503532
+  },
+  {
+   "id": "18-87-7-0",
+   "points": 1,
+   "name": "Brace",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 800313
+  },
+  {
+   "id": "18-48-7-4",
+   "points": 1,
+   "name": "Liberation",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 803963
+  },
+  {
+   "id": "18-48-10-4a",
+   "points": 1,
+   "name": "Banner of Swiftness",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 500259
+  },
+  {
+   "id": "18-48-10-6b",
+   "points": 1,
+   "name": "Dissonance",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 505202
+  },
+  {
+   "id": "18-48-10-8a",
+   "points": 1,
+   "name": "Inspiring Presence",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 705352
+  },
+  {
+   "id": "18-48-7-8",
+   "points": 1,
+   "name": "Bannerman",
+   "maxPoints": 1,
+   "tree": "Inspiration",
+   "spellId": 504144
+  }
+ ]
+}

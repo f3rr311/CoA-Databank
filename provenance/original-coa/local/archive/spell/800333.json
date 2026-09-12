@@ -1,0 +1,8 @@
+{
+  "name_enus": "Word of Oblivion",
+  "icon": "boss_odunrunes_purple",
+  "tooltip_enus": "<table><tr><td><b>Word of Oblivion</b><br />8% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Consumes 2 |cffffffffInscribed Runes</span><br />Mark an enemy for 4&nbsp;sec, after this duration the target explodes, dealing 38+PL*2+ArcP*0.385+Int*0.135 Arcane damage to up to 12 enemies within 5 yds, scaling with Intellect.</span></td></tr></table><!--?800333:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

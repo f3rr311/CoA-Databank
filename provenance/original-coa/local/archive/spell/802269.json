@@ -1,0 +1,8 @@
+{
+  "name_enus": "Burrow Bolt",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Burrow Bolt</b><br />13% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>40&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Ranged Weapon<br /><span class=\"q\">Shoot a bolt with a rope attached to it at an enemy dealing 6+0+AP*.25 Physical damage and pulling them to you.</span></td></tr></table><!--?802269:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

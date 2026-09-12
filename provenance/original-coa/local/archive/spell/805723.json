@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ley Focus",
+  "icon": "ability_mage_incantersabsorbtion",
+  "tooltip_enus": "<table><tr><td><b>Ley Focus</b><br />22% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Enter a state of supreme Focus, increasing spell haste by 60% and spell critical strike chance by 40%.</span></td></tr></table><!--?805723:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

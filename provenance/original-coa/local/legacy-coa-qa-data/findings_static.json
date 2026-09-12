@@ -1,0 +1,63 @@
+[
+ {
+  "issue": "Impossible or suspicious values",
+  "severity": "Moderate",
+  "category": "Data",
+  "entities": [
+   32991,
+   35764,
+   54350,
+   65633,
+   102208,
+   300831,
+   359009,
+   500015,
+   500039,
+   500070,
+   500073,
+   500075,
+   500089,
+   500092,
+   500093,
+   500104,
+   500121,
+   500129,
+   500144,
+   500151,
+   500174,
+   500191,
+   500220,
+   500235,
+   500236,
+   500240,
+   500241,
+   500242,
+   500249,
+   500253,
+   500259,
+   500268,
+   500269,
+   500292,
+   500326,
+   500329,
+   500330,
+   500331,
+   500335,
+   500339
+  ],
+  "detail": "32991: ProcChance 101%; 35764: ProcChance 101%; 54350: ProcChance 101%; 65633: ProcChance 101%; 102208: ProcChance 101%; 300831: ProcChance 101%; 359009: ProcChance 101%; 500015: ProcChance 101%; 500039: ProcChance 101%; 500070: ProcChance 101%; 500073: ProcChance 101%; 500075: ProcChance 101%",
+  "why": "Values outside anything the client or the tuning model expects.",
+  "fix": "Review each; most are porting artefacts from the archive."
+ },
+ {
+  "issue": "Proc with no internal cooldown and no charges",
+  "severity": "Major",
+  "category": "Proc",
+  "entities": [
+   800702
+  ],
+  "detail": "800702 Hellknight (procFlags 1048576, chance 100)",
+  "why": "Nothing rate-limits it: uptime scales with attack/cast speed and target count, so it gets stronger with haste and in AoE in a way the tuning model cannot see.",
+  "fix": "Give it a category cooldown or proc charges, or a real proc chance."
+ }
+]

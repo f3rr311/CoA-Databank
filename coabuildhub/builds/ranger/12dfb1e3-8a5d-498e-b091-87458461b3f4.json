@@ -1,0 +1,715 @@
+{
+ "build": {
+  "id": "12dfb1e3-8a5d-498e-b091-87458461b3f4",
+  "title": "PvP Mayhem POLEARM BUILD",
+  "description": "[overview]\nStun Target, kill Target, survive, go stealth, kill again. USE POLEARM. Big difference.\n\nRotation will be added soon.\n\n[talents]\nStun the Target and get your 3 skullpiercer out. It should be enough to kill somebody in Stun lock.",
+  "class_id": 21,
+  "spec_id": 55,
+  "author_id": "5ff054d9-363c-43b5-a018-03ea3220fb0c",
+  "talent_string": "W1siMjEtODctMi0wIiwxXSxbIjIxLTg3LTQtMCIsMV0sWyIyMS04Ny02LTAiLDFdLFsiMjEtODctMi0xIiwxXSxbIjIxLTg3LTQtMSIsMV0sWyIyMS04Ny02LTEiLDFdLFsiMjEtODctNi0yIiwxXSxbIjIxLTg3LTItMiIsMV0sWyIyMS04Ny00LTIiLDNdLFsiMjEtODctNC0zIiwxXSxbIjIxLTg3LTQtNCIsMV0sWyIyMS04Ny0yLTQiLDFdLFsiMjEtODctMS01IiwxXSxbIjIxLTg3LTItNiIsMV0sWyIyMS04Ny02LTQiLDFdLFsiMjEtODctNS01IiwxXSxbIjIxLTg3LTctNSIsMV0sWyIyMS04Ny0zLTViIiwxXSxbIjIxLTg3LTQtNiIsMV0sWyIyMS04Ny00LTdhIiwxXSxbIjIxLTg3LTYtNmIiLDFdLFsiMjEtODctNi03IiwxXSxbIjIxLTg3LTctOCIsMV0sWyIyMS04Ny02LTkiLDFdLFsiMjEtNTUtNC0wIiwxXSxbIjIxLTU1LTItMSIsMl0sWyIyMS01NS0xLTIiLDFdLFsiMjEtNTUtNi0xIiwxXSxbIjIxLTU1LTctMiIsMV0sWyIyMS01NS03LTMiLDFdLFsiMjEtNTUtNC0yYiIsMV0sWyIyMS01NS04LTQiLDFdLFsiMjEtNTUtNC00IiwxXSxbIjIxLTU1LTctNSIsMV0sWyIyMS01NS02LTYiLDFdLFsiMjEtNTUtMy01IiwyXSxbIjIxLTU1LTEtMyIsMV0sWyIyMS01NS0yLTQiLDFdLFsiMjEtNTUtMC00IiwxXSxbIjIxLTU1LTEtNSIsMV0sWyIyMS01NS03LTciLDFdLFsiMjEtNTUtNC03YiIsMV0sWyIyMS01NS0yLTYiLDFdLFsiMjEtNTUtMC02IiwxXSxbIjIxLTU1LTgtNmIiLDFdLFsiMjEtNTUtNC04IiwxXSxbIjIxLTU1LTQtOSIsMV1d",
+  "tags": [
+   "PvP stun Most damage"
+  ],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 1,
+  "comment_count": 1,
+  "created_at": "2026-07-20T15:41:15.688155+00:00",
+  "updated_at": "2026-07-20T16:03:29.714+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1242,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "5ff054d9-363c-43b5-a018-03ea3220fb0c",
+   "username": "Raymcjiggles",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLmGBWxMmeuZDmB90QLTs9T1IfkSl4IcUB5O7g84UM_tOXOJ-JL=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "bbf49be1-3435-4e11-a394-2260c4c632b5",
+   "build_id": "12dfb1e3-8a5d-498e-b091-87458461b3f4",
+   "author_id": "8710064a-a544-4c2c-a2d4-ee6a348c7be2",
+   "parent_id": null,
+   "body": "Could you add rotation, enchants, etc.. please?",
+   "upvotes": 0,
+   "created_at": "2026-07-30T10:39:28.294261+00:00",
+   "updated_at": "2026-07-30T10:39:28.294261+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "8710064a-a544-4c2c-a2d4-ee6a348c7be2",
+    "username": "rake2",
+    "avatar_url": null
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "e9668f22-03ba-411f-a932-cb7f30d508b4",
+   "title": "Bigrand Ranger 1# Try PVE M+",
+   "class_id": 21,
+   "spec_id": 55,
+   "author_id": "7a1dceee-0f2d-4925-afcf-285d86aa5400",
+   "tags": [
+    "PVE",
+    "Dungeon"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 1,
+   "comment_count": 5,
+   "view_count": 892,
+   "featured": false,
+   "created_at": "2026-07-26T11:29:13.336549+00:00",
+   "updated_at": "2026-07-27T08:34:52.225+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "7a1dceee-0f2d-4925-afcf-285d86aa5400",
+    "username": "Spidde The Survival Hunter",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJazWoQy4hFFu6Bt-GzTeQ5IAnT8tO5_ktVgCuu1BoP653QcJ-5=s96-c"
+   }
+  },
+  {
+   "id": "3e5dd4c2-b136-46e4-8ebf-1c7def8e2fc1",
+   "title": "aoe",
+   "class_id": 21,
+   "spec_id": 54,
+   "author_id": "9e8371ac-f9b7-4ae6-9297-0c7a37369d2c",
+   "tags": [
+    "PvE",
+    "Open World Content",
+    "AoE",
+    "Single-Target"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 605,
+   "featured": false,
+   "created_at": "2026-07-25T18:00:42.059917+00:00",
+   "updated_at": "2026-07-25T18:00:42.059917+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "9e8371ac-f9b7-4ae6-9297-0c7a37369d2c",
+    "username": "Sendi Prahasa",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKleh4LuasRERVbBopEiJLDzyqfSsLbfw7d4Iqt9QvqcVc8wA=s96-c"
+   }
+  },
+  {
+   "id": "96a565c5-151e-49af-a289-6872aaf0bedb",
+   "title": "asd",
+   "class_id": 21,
+   "spec_id": 55,
+   "author_id": "460e3ba6-310a-472d-9046-7cca6f001639",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 120,
+   "featured": false,
+   "created_at": "2026-07-28T21:52:48.699854+00:00",
+   "updated_at": "2026-07-28T21:54:05.401+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "460e3ba6-310a-472d-9046-7cca6f001639",
+    "username": "fede zalazar",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL7qtROMyzeyE7ClzP7r5Rz1ABhYAKlxk4E1mjM8eNtzhiKXg=s96-c"
+   }
+  }
+ ],
+ "class": "Ranger",
+ "spec": "Brigand",
+ "allocations": [
+  [
+   "21-87-2-0",
+   1
+  ],
+  [
+   "21-87-4-0",
+   1
+  ],
+  [
+   "21-87-6-0",
+   1
+  ],
+  [
+   "21-87-2-1",
+   1
+  ],
+  [
+   "21-87-4-1",
+   1
+  ],
+  [
+   "21-87-6-1",
+   1
+  ],
+  [
+   "21-87-6-2",
+   1
+  ],
+  [
+   "21-87-2-2",
+   1
+  ],
+  [
+   "21-87-4-2",
+   3
+  ],
+  [
+   "21-87-4-3",
+   1
+  ],
+  [
+   "21-87-4-4",
+   1
+  ],
+  [
+   "21-87-2-4",
+   1
+  ],
+  [
+   "21-87-1-5",
+   1
+  ],
+  [
+   "21-87-2-6",
+   1
+  ],
+  [
+   "21-87-6-4",
+   1
+  ],
+  [
+   "21-87-5-5",
+   1
+  ],
+  [
+   "21-87-7-5",
+   1
+  ],
+  [
+   "21-87-3-5b",
+   1
+  ],
+  [
+   "21-87-4-6",
+   1
+  ],
+  [
+   "21-87-4-7a",
+   1
+  ],
+  [
+   "21-87-6-6b",
+   1
+  ],
+  [
+   "21-87-6-7",
+   1
+  ],
+  [
+   "21-87-7-8",
+   1
+  ],
+  [
+   "21-87-6-9",
+   1
+  ],
+  [
+   "21-55-4-0",
+   1
+  ],
+  [
+   "21-55-2-1",
+   2
+  ],
+  [
+   "21-55-1-2",
+   1
+  ],
+  [
+   "21-55-6-1",
+   1
+  ],
+  [
+   "21-55-7-2",
+   1
+  ],
+  [
+   "21-55-7-3",
+   1
+  ],
+  [
+   "21-55-4-2b",
+   1
+  ],
+  [
+   "21-55-8-4",
+   1
+  ],
+  [
+   "21-55-4-4",
+   1
+  ],
+  [
+   "21-55-7-5",
+   1
+  ],
+  [
+   "21-55-6-6",
+   1
+  ],
+  [
+   "21-55-3-5",
+   2
+  ],
+  [
+   "21-55-1-3",
+   1
+  ],
+  [
+   "21-55-2-4",
+   1
+  ],
+  [
+   "21-55-0-4",
+   1
+  ],
+  [
+   "21-55-1-5",
+   1
+  ],
+  [
+   "21-55-7-7",
+   1
+  ],
+  [
+   "21-55-4-7b",
+   1
+  ],
+  [
+   "21-55-2-6",
+   1
+  ],
+  [
+   "21-55-0-6",
+   1
+  ],
+  [
+   "21-55-8-6b",
+   1
+  ],
+  [
+   "21-55-4-8",
+   1
+  ],
+  [
+   "21-55-4-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "21-87-2-0",
+   "points": 1,
+   "name": "Crippling Shot",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 804725
+  },
+  {
+   "id": "21-87-4-0",
+   "points": 1,
+   "name": "Survival Potion",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 802839
+  },
+  {
+   "id": "21-87-6-0",
+   "points": 1,
+   "name": "Knockout",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 801435
+  },
+  {
+   "id": "21-87-2-1",
+   "points": 1,
+   "name": "Improved Waterskins",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 573057
+  },
+  {
+   "id": "21-87-4-1",
+   "points": 1,
+   "name": "Survival Kit",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 504329
+  },
+  {
+   "id": "21-87-6-1",
+   "points": 1,
+   "name": "Elusive Character",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 560340
+  },
+  {
+   "id": "21-87-6-2",
+   "points": 1,
+   "name": "Cutthroat",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 800359
+  },
+  {
+   "id": "21-87-2-2",
+   "points": 1,
+   "name": "Snapseed",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 804027
+  },
+  {
+   "id": "21-87-4-2",
+   "points": 3,
+   "name": "Grace",
+   "maxPoints": 3,
+   "tree": "Ranger (class tree)",
+   "spellId": 705092
+  },
+  {
+   "id": "21-87-4-3",
+   "points": 1,
+   "name": "Briar Veil",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 800084
+  },
+  {
+   "id": "21-87-4-4",
+   "points": 1,
+   "name": "Survival Expert",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 560959
+  },
+  {
+   "id": "21-87-2-4",
+   "points": 1,
+   "name": "Pinpoint Accuracy",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 801468
+  },
+  {
+   "id": "21-87-1-5",
+   "points": 1,
+   "name": "Woodland Adept",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 570015
+  },
+  {
+   "id": "21-87-2-6",
+   "points": 1,
+   "name": "Endurance Training",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 705039
+  },
+  {
+   "id": "21-87-6-4",
+   "points": 1,
+   "name": "Dirty Fighter",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 705044
+  },
+  {
+   "id": "21-87-5-5",
+   "points": 1,
+   "name": "Blur",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 520369
+  },
+  {
+   "id": "21-87-7-5",
+   "points": 1,
+   "name": "Snatch",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 803115
+  },
+  {
+   "id": "21-87-3-5b",
+   "points": 1,
+   "name": "No Mercy",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 520581
+  },
+  {
+   "id": "21-87-4-6",
+   "points": 1,
+   "name": "Adrenaline Rush",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 520578
+  },
+  {
+   "id": "21-87-4-7a",
+   "points": 1,
+   "name": "Surefooted",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 560814
+  },
+  {
+   "id": "21-87-6-6b",
+   "points": 1,
+   "name": "Guise",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 520753
+  },
+  {
+   "id": "21-87-6-7",
+   "points": 1,
+   "name": "Woodland Stalker",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 705034
+  },
+  {
+   "id": "21-87-7-8",
+   "points": 1,
+   "name": "Forest Dweller",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 524864
+  },
+  {
+   "id": "21-87-6-9",
+   "points": 1,
+   "name": "Onslaught",
+   "maxPoints": 1,
+   "tree": "Ranger (class tree)",
+   "spellId": 801951
+  },
+  {
+   "id": "21-55-4-0",
+   "points": 1,
+   "name": "Ravage",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 803851
+  },
+  {
+   "id": "21-55-2-1",
+   "points": 2,
+   "name": "Banditry",
+   "maxPoints": 2,
+   "tree": "Brigand",
+   "spellId": 520574
+  },
+  {
+   "id": "21-55-1-2",
+   "points": 1,
+   "name": "Jagged Cuts",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 807668
+  },
+  {
+   "id": "21-55-6-1",
+   "points": 1,
+   "name": "Knuckleduster",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 806957
+  },
+  {
+   "id": "21-55-7-2",
+   "points": 1,
+   "name": "Close Quarters",
+   "maxPoints": 2,
+   "tree": "Brigand",
+   "spellId": 301146
+  },
+  {
+   "id": "21-55-7-3",
+   "points": 1,
+   "name": "Dirty Blades",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 680276
+  },
+  {
+   "id": "21-55-4-2b",
+   "points": 1,
+   "name": "Excessive But Necessary",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 804939
+  },
+  {
+   "id": "21-55-8-4",
+   "points": 1,
+   "name": "Ambuscade",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 705053
+  },
+  {
+   "id": "21-55-4-4",
+   "points": 1,
+   "name": "Hookshot",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 800360
+  },
+  {
+   "id": "21-55-7-5",
+   "points": 1,
+   "name": "Assassin",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 803871
+  },
+  {
+   "id": "21-55-6-6",
+   "points": 1,
+   "name": "Underhanded",
+   "maxPoints": 2,
+   "tree": "Brigand",
+   "spellId": 705061
+  },
+  {
+   "id": "21-55-3-5",
+   "points": 2,
+   "name": "Trueshot Lodge Training",
+   "maxPoints": 2,
+   "tree": "Brigand",
+   "spellId": 803113
+  },
+  {
+   "id": "21-55-1-3",
+   "points": 1,
+   "name": "Assault",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 803108
+  },
+  {
+   "id": "21-55-2-4",
+   "points": 1,
+   "name": "Dice Games",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 801438
+  },
+  {
+   "id": "21-55-0-4",
+   "points": 1,
+   "name": "Bounty Hunter",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 803114
+  },
+  {
+   "id": "21-55-1-5",
+   "points": 1,
+   "name": "Throatpunch",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 500617
+  },
+  {
+   "id": "21-55-7-7",
+   "points": 1,
+   "name": "Guile of the Cutthroat",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 560531
+  },
+  {
+   "id": "21-55-4-7b",
+   "points": 1,
+   "name": "Tip of the Spear",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 807023
+  },
+  {
+   "id": "21-55-2-6",
+   "points": 1,
+   "name": "'Tactical' Advantage",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 706748
+  },
+  {
+   "id": "21-55-0-6",
+   "points": 1,
+   "name": "Stalker",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 561110
+  },
+  {
+   "id": "21-55-8-6b",
+   "points": 1,
+   "name": "Polearm Craft",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 707885
+  },
+  {
+   "id": "21-55-4-8",
+   "points": 1,
+   "name": "Outmaneuver",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 557325
+  },
+  {
+   "id": "21-55-4-9",
+   "points": 1,
+   "name": "Instinctual Combatant",
+   "maxPoints": 1,
+   "tree": "Brigand",
+   "spellId": 707319
+  }
+ ]
+}

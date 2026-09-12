@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flux Spark",
+  "icon": "_d3familiar",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flux Spark</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table>10% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>12&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Slows the movement speed of enemies within 0 yd of an enemy target by 0% for 5&nbsp;sec and applies a <span style=\"color: #ffffff;\">Flux</span> stack to them.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_socererking_arcanemines.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804840'> Flux </a> <br />\n                            <span> Marks an enemy for 30&nbsp;sec, causing 5% of single target Nature Damage you deal to enemies within 0 yd of them to also affect them. Stacks 5 times.</span><br /></span></td></tr></table><!--?804593:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

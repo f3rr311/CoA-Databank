@@ -1,0 +1,8 @@
+{
+  "name_enus": "Soulfreeze",
+  "icon": "ability_mage_rayoffrost",
+  "tooltip_enus": "<table><tr><td><b>Soulfreeze</b><br />14% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Launch a chain of frost at an enemy, dealing 350+2.2 Points Per Level+FroP*0.35 Frost Damage every 1 sec for 3&nbsp;sec.<br /><br />Each tick generates 3 to 8 Runic Power.</span></td></tr></table><!--?801724:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

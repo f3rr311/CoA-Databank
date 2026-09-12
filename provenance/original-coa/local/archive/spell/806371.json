@@ -1,0 +1,8 @@
+{
+  "name_enus": "Thunder Surge",
+  "icon": "spell_shaman_thunderstorm",
+  "tooltip_enus": "<table><tr><td><b>Thunder Surge</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Causes <span style=\"color: #FFFFFF;\">Expulsion</span> to knock nearby enemies away on use. <br /><br />Cannot occur more than once every 10 sec.</span></td></tr></table><!--?806371:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

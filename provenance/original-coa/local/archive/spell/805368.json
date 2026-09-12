@@ -1,0 +1,8 @@
+{
+  "name_enus": "Nether Disk",
+  "icon": "inv_jewelcrafting_shadowspirit_02",
+  "tooltip_enus": "<table><tr><td><b>Nether Disk</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">You <span style=\"color: #feff9e;\">Summon</span> a Nether Disk and stand atop it, increasing your <span style=\"color: #ff8100;\">Movement Speed</span> by <span style=\"color: #feff9e;\">0%</span>.</span></td></tr></table><!--?805368:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Waters of Neptulon",
+  "icon": "nhi_waterstrick_border",
+  "tooltip_enus": "<table><tr><td><b>Waters of Neptulon</b><br />20 Rage<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">2 Charges</span><br /><span style=\"color: #ffffff;\">10 sec recharge</span><br />Unleash soothing water, healing up to  allies within  yds for . <br /><br />Active <span style=\"color: #ffffff;\">Boons</span> are extended by 0 sec.</span></td></tr></table><!--?800147:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Houndmaster's Whistle",
+  "icon": "inv_wolfdraenormountshadow",
+  "tooltip_enus": "<table><tr><td><b>Houndmaster's Whistle</b><br />25% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Summons a permanent <span style=\"color: #ffffff;\">Shadowhound</span> companion to aid you in combat.<br /><br />Your <span style=\"color: #FFFFFF;\">Shadowhound</span> receives 25% of healing done to you.</span></td></tr></table><!--?801343:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

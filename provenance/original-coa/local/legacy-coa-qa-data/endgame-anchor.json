@@ -1,0 +1,106 @@
+{
+ "bosses": [
+  {
+   "boss": "Patchwerk",
+   "tier": "T7 Naxxramas",
+   "hp": 4322950,
+   "enrage_s": 360,
+   "raid_dps": 12008,
+   "per_dps": 2001,
+   "note": "the canonical DPS check"
+  },
+  {
+   "boss": "Loatheb",
+   "tier": "T7 Naxxramas",
+   "hp": 6693600,
+   "enrage_s": 720,
+   "raid_dps": 9297,
+   "per_dps": 1549,
+   "note": "long fight, healing check"
+  },
+  {
+   "boss": "Ignis the Furnace Master",
+   "tier": "T8 Ulduar",
+   "hp": 5578000,
+   "enrage_s": 480,
+   "raid_dps": 11621,
+   "per_dps": 1937,
+   "note": ""
+  },
+  {
+   "boss": "Lord Jaraxxus",
+   "tier": "T9 ToC",
+   "hp": 4183500,
+   "enrage_s": 600,
+   "raid_dps": 6972,
+   "per_dps": 1162,
+   "note": ""
+  },
+  {
+   "boss": "Anub'arak",
+   "tier": "T9 ToC",
+   "hp": 4183500,
+   "enrage_s": 600,
+   "raid_dps": 6972,
+   "per_dps": 1162,
+   "note": ""
+  },
+  {
+   "boss": "Lord Marrowgar",
+   "tier": "T10 ICC",
+   "hp": 6972500,
+   "enrage_s": 480,
+   "raid_dps": 14526,
+   "per_dps": 2421,
+   "note": ""
+  },
+  {
+   "boss": "Deathbringer Saurfang",
+   "tier": "T10 ICC",
+   "hp": 8785350,
+   "enrage_s": 350,
+   "raid_dps": 25101,
+   "per_dps": 4184,
+   "note": "soft enrage via Mark stacks"
+  },
+  {
+   "boss": "Festergut",
+   "tier": "T10 ICC",
+   "hp": 9412875,
+   "enrage_s": 300,
+   "raid_dps": 31376,
+   "per_dps": 5229,
+   "note": "hard DPS check"
+  },
+  {
+   "boss": "Professor Putricide",
+   "tier": "T10 ICC",
+   "hp": 9761500,
+   "enrage_s": 600,
+   "raid_dps": 16269,
+   "per_dps": 2712,
+   "note": ""
+  },
+  {
+   "boss": "The Lich King",
+   "tier": "T10 ICC",
+   "hp": 17431250,
+   "enrage_s": 900,
+   "raid_dps": 19368,
+   "per_dps": 3228,
+   "note": ""
+  }
+ ],
+ "dps_players": 6,
+ "entry_bar": 1549,
+ "icc_bar": 5229,
+ "coa_by_tier": {
+  "quest": 1370,
+  "dungeon": 1614,
+  "heroic": 1841,
+  "entryraid": 2044,
+  "midraid": 2284,
+  "highraid": 2512,
+  "bis": 2825
+ }
+}

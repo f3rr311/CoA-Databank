@@ -1,0 +1,8 @@
+{
+  "name_enus": "Recycling Bin WIP",
+  "icon": "inv_eng_crate",
+  "tooltip_enus": "<table><tr><td><b>Recycling Bin WIP</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Causes <span style=\"color: #ffffff;\">Disassemble</span> to grant a damage absorbtion shield based on your Agility, and regenerate</span></td></tr></table><!--?801813:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

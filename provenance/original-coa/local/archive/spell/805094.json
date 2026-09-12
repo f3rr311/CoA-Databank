@@ -1,0 +1,8 @@
+{
+  "name_enus": "Expulsion",
+  "icon": "achievment_boss_wellofeternity",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Expulsion</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>20 Rage<br /><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Clears <span style=\"color: #66ff66;\">Exposed Flesh</span> stacks to poison nearby enemies for 5&nbsp;sec, and an additional 1 sec per cleared stack, dealing 15+0+NatP*0.1+AP*0.05 Nature damage every 1 sec.</span></td></tr></table><!--?805094:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

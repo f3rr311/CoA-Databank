@@ -1,0 +1,15 @@
+{
+  "name_enus": "Scarlet Delirium",
+  "icon": "nhi_blooddrop_%282%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Scarlet Delirium</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>20% of base <br />2 sec cast</td></tr></table><table><tr><td><span class=\"q\"><!--sp524861:0--><span style=\"color: #ffffff;\"><!--sp524861-->Requires Mortal Form</span><br />Flood the minds of up to 5 nearby enemies with visions of unraveling flesh, fearing them for 40&nbsp;sec (8 sec versus players) while draining their life essence, siphoning 8+0+SP*0.15 health every 3 sec.<br /><br />Damage caused may interrupt the effect.</span></td></tr></table><!--?801074:1:1:80-->",
+  "spells_enus": {
+    "524861": [
+      [
+        "|cffffffff",
+        "|cffff3232"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

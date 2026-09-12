@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sower of Sickness",
+  "icon": "_curseofelements_shadow",
+  "tooltip_enus": "<table><tr><td><b>Sower of Sickness</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the effectiveness of <span style=\"color: #ffffff;\">Malady</span> spells by 50%.</span></td></tr></table><!--?806150:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

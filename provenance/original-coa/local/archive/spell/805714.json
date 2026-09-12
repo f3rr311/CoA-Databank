@@ -1,0 +1,8 @@
+{
+  "name_enus": "Counterscythe",
+  "icon": "inv_archaeology_80_witch_bonescythe",
+  "tooltip_enus": "<table><tr><td><b>Counterscythe</b><br /><table width=\"100%\"><tr><td>Instant</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\">Increases parry rating by <!--rtg14-->50&nbsp;<small>(<!--rtg%14-->1.10%&nbsp;@&nbsp;L<!--lvl-->80)</small> plus 25% of Stamina and causes parries to deal 100% Weapon Damage to nearby enemies. Lasts for up to 10 parries.</span></td></tr></table><!--?805714:1:80:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

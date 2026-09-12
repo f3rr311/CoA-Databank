@@ -1,0 +1,8 @@
+{
+  "name_enus": "Counter Stance",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Counter Stance</b><br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">You automatically parry the next attack against you. Lasts for 5 attacks or 15&nbsp;sec.<br /><br />When you expend a charge you deal 275 damage to attackers and heal for 239+7.3 Points Per Level+AP*1 health.</span></td></tr></table><!--?802188:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Collapse",
+  "icon": "spell_arcane_arcane01_nightborne",
+  "tooltip_enus": "<table><tr><td><b>Collapse</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>40&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Marks an enemy for 3&nbsp;sec. At the end of the duration, they will be stunned for 4&nbsp;sec. The target takes 50% increased periodic damage while stunned.<br /><br />Dare you to use this.</span></td></tr></table><!--?804448:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

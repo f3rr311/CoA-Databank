@@ -1,0 +1,15 @@
+{
+  "name_enus": "Knockout",
+  "icon": "ability_monk_blackoutkick",
+  "tooltip_enus": "<table><tr><td><b>Knockout</b><br />25 Focus<br /><table width=\"100%\"><tr><td>Instant</td><th>18&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Knock an enemy out, incapacitating them for 4&nbsp;sec and removing bleed and poison effects from them. Damage caused will interrupt this effect.<!--sp705060:0--><!--sp705060--><br /><br />Usable while in <span style=\"color: #ffffff;\">Elude</span>.</span></td></tr></table><!--?801435:1:1:80-->",
+  "spells_enus": {
+    "705060": [
+      [
+        "",
+        "<br /><br />For the duration, enemies take 0% increased damage from <span style=\"color: #ffffff\">Assault</span>."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vivacious Brews",
+  "icon": "inv_alchemy_90_antivenom",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Vivacious Brews</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the healing done by <span style=\"color: #ffffff;\">Loa's Brew</span> by 10% and reduces its cast time by 0.25 sec</span></td></tr></table><!--?706248:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

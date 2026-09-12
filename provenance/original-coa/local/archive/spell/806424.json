@@ -1,0 +1,8 @@
+{
+  "name_enus": "Crimson Scion",
+  "icon": "spell_animarevendreth_buff",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Crimson Scion</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Direct damage dealt now has a 10% chance to make your next <span style=\"color: #ffffff;\">Sanguine Mend</span> within 10&nbsp;sec instant cast.</span></td></tr></table><!--?806424:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

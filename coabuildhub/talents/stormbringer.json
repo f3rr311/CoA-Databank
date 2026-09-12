@@ -1,0 +1,2902 @@
+{
+ "class": {
+  "id": 16,
+  "name": "Stormbringer",
+  "slug": "stormbringer",
+  "color": "#0070DE"
+ },
+ "specs": [
+  {
+   "id": 42,
+   "name": "Lightning",
+   "tabId": 42
+  },
+  {
+   "id": 43,
+   "name": "Wind",
+   "tabId": 43
+  },
+  {
+   "id": 44,
+   "name": "Maelstrom",
+   "tabId": 44
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 156,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Stormbringer (class tree)",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "16-87-2-0",
+     "name": "Cloudburst",
+     "x": 2,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_volatileair",
+     "spellId": 801838,
+     "description": "Create a mighty gust of wind that knocks away all nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "16-87-4-0",
+     "name": "Charge",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shaman_staticshock",
+     "spellId": 804826,
+     "description": "Charge yourself with electricity, generating 100 Static and increasing your spell haste by 30% for your next cast. Lasts 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "16-87-6-0",
+     "name": "Body of Lightning",
+     "x": 6,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_d3stormarmor",
+     "spellId": 500041,
+     "description": "Depletes 25 StaticInfuse an ally with lightning for 12 seconds, regenerating 15% of their maximum mana plus 1% every 1 sec. While active, damage dealt deals an additional 75 + 15% nature SP Nature damage to nearby enemies",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "16-87-2-1",
+     "name": "Wind Shift",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_windfury",
+     "spellId": 503596,
+     "description": "Increases your spell haste by 2% and reduces spell pushback suffered from damaging attacks by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-2-0"
+     ]
+    },
+    {
+     "id": "16-87-4-1",
+     "name": "Arcane Lightning",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_t_nhance_rpg_icons_arcanelightning_border",
+     "spellId": 300618,
+     "description": "Increases your Intellect and Spirit by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-4-0"
+     ]
+    },
+    {
+     "id": "16-87-6-1",
+     "name": "Conjuration Mastery",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_shamanskill_30_border",
+     "spellId": 300595,
+     "description": "Your Conjure Storm now refunds 10 Static.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-6-0"
+     ]
+    },
+    {
+     "id": "16-87-1-2",
+     "name": "Invigorating Winds",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_t_nhance_rpg_icons_magicstrike_border",
+     "spellId": 705661,
+     "description": "Envelop an ally in invigorating winds, granting them immunity to silence and interrupt effects and causes them to take no pushback from damaging attacks for 20 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-87-2-1"
+     ]
+    },
+    {
+     "id": "16-87-4-2",
+     "name": "Studious",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_ldaknowledge",
+     "spellId": 705657,
+     "description": "Reduces the cast time of Shock by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-6-1",
+      "16-87-4-1",
+      "16-87-2-1"
+     ]
+    },
+    {
+     "id": "16-87-7-2",
+     "name": "Eye of the Storm",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_unrelentingstorm",
+     "spellId": 806307,
+     "description": "Mark an enemy for 4 seconds. Every 1 sec, enemies near them take cond(gt(SPFR, SPN), 11+0+SPFR*0.42, 11+0+SPN*0.42) Nature damage.At the end of the duration, enemies near them also take cond(gt(SPFR, SPN), 42+0+SPFR*0.64, 42+0+SPN*0.64) Nature damage and are rooted for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-87-6-1"
+     ]
+    },
+    {
+     "id": "16-87-0-3",
+     "name": "Airing Out",
+     "x": 0,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_wrathofair_totem",
+     "spellId": 705675,
+     "description": "Reduces the duration of incapacitate and disorient effects by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-1-2"
+     ]
+    },
+    {
+     "id": "16-87-2-3",
+     "name": "Storm Warning",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_shield_1h_artifactstormfist_d_02",
+     "spellId": 567533,
+     "description": "Reduces the cast time of Storm Alert by -0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-4-2",
+      "16-87-1-2"
+     ]
+    },
+    {
+     "id": "16-87-6-3a",
+     "name": "Concentrated Static",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_spirituallightning_border",
+     "spellId": 570722,
+     "description": "Casting Discharge now restores 5% more mana.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-4-2",
+      "16-87-7-2"
+     ]
+    },
+    {
+     "id": "16-87-6-3b",
+     "name": "Altered Course",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "novart_magicspell_(55)_border",
+     "spellId": 707053,
+     "description": "Casting Discharge now increases your movement speed by 20% for 6 seconds, stacking 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "16-87-8-3a",
+     "name": "Surge Overload",
+     "x": 8,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_lightning_punch_border",
+     "spellId": 300596,
+     "description": "Your Body of Lightning now regenerates 1% additional maximum mana per tick.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-7-2"
+     ]
+    },
+    {
+     "id": "16-87-8-3b",
+     "name": "Improved Body of Lightning",
+     "x": 8,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shaman_ancestralawakening",
+     "spellId": 705693,
+     "description": "Reduces the cooldown of your Body of Lightning by -30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "16-87-1-4a",
+     "name": "Ionic Aura",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_lightning_universe_border",
+     "spellId": 707652,
+     "description": "Increases the maximum mana, Rage, Energy, Focus, and Runic Power of allies within 40 yds by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-2-3",
+      "16-87-0-3"
+     ]
+    },
+    {
+     "id": "16-87-1-4b",
+     "name": "Storm Sorcery",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_arcaneburst_border",
+     "spellId": 705689,
+     "description": "Increases the effectiveness of Call of the Winds and Call of the Storm by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "16-87-3-4",
+     "name": "Aethermancy",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shaman_improvedreincarnation",
+     "spellId": 705690,
+     "description": "Increases the critical strike chance of your Invigorating Surge by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-2-3"
+     ]
+    },
+    {
+     "id": "16-87-5-4",
+     "name": "Eye of the Tornado",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_eyeofthestorm",
+     "spellId": 706297,
+     "description": "Your damaging critical strikes now refund 5 Static.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-6-3a",
+      "16-87-6-3b"
+     ]
+    },
+    {
+     "id": "16-87-7-4",
+     "name": "Storm Chaser",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_fish_stormray",
+     "spellId": 300612,
+     "description": "Dealing direct spell damage now has a 33% chance to reduce the cast time of your next Call Lightning by -15% for 10 seconds, stacking 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-6-3a",
+      "16-87-8-3a",
+      "16-87-6-3b",
+      "16-87-8-3b"
+     ]
+    },
+    {
+     "id": "16-87-1-5",
+     "name": "Exhale",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "epic_rpg_icon_pack_wind_icon_0000s_0000_elemental_border",
+     "spellId": 705672,
+     "description": "Depletes 20 StaticRelease the pressure from nearby allies, dispelling 1 movement slowing effect, repeating every 3 sec for 9 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-87-1-4a",
+      "16-87-3-4",
+      "16-87-1-4b"
+     ]
+    },
+    {
+     "id": "16-87-4-5",
+     "name": "Stormcloak",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_castercloak_arcanes",
+     "spellId": 804833,
+     "description": "Cover yourself in a barrier of volatile energy for 15 seconds, causing all attacks against you to have a 50% chance to deal half damage and generate 10 Static.Stormcloak has a 60% chance to resist dispel effects.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-87-5-4",
+      "16-87-3-4"
+     ]
+    },
+    {
+     "id": "16-87-7-5",
+     "name": "Storm Ascendance",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_auracloak_lightning",
+     "spellId": 681110,
+     "description": "Transform into a storm elemental for 15 seconds, increasing your Magic damage dealt by 20% and reducing your Magic damage taken by -50%.In addition, your damaging spells now generate an additional 10 Static. Can only occur once every sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-87-5-4",
+      "16-87-7-4"
+     ]
+    },
+    {
+     "id": "16-87-0-6",
+     "name": "Storm Rider",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "rogue_burstofspeed",
+     "spellId": 705677,
+     "description": "Reduces the cooldown of Gale Guard and Cloudburst by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-1-5"
+     ]
+    },
+    {
+     "id": "16-87-2-6",
+     "name": "Aether Mastery",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_zone_netherstorm_01",
+     "spellId": 807462,
+     "description": "Allows 30% of your mana regeneration to continue while casting and increases your critical strike chance by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-4-5",
+      "16-87-1-5"
+     ]
+    },
+    {
+     "id": "16-87-4-6",
+     "name": "Storm Channeling",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shaman_elementaloath",
+     "spellId": 804040,
+     "description": "While Stormcloak is active your Armor is now increased by 500% of your Intellect.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-4-5"
+     ]
+    },
+    {
+     "id": "16-87-6-6a",
+     "name": "Magic Elimination",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "skill_icon_skill87_border",
+     "spellId": 705668,
+     "description": "Increases the amount of beneficial magic effects purged by your Stormbreaker by 1 and its range by 10 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-7-5",
+      "16-87-4-5"
+     ]
+    },
+    {
+     "id": "16-87-6-6b",
+     "name": "Pulse Conversion",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_frost_manarecharge",
+     "spellId": 707619,
+     "description": "Dispelling a magic effect with Stormbreaker now heals you for 3% of your maximum health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "16-87-8-6",
+     "name": "Spellstorm Mastery",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_hand_1h_artifactstormfist_d_01dual",
+     "spellId": 705659,
+     "description": "Increases the effectiveness of your Aegis spells by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-7-5"
+     ]
+    },
+    {
+     "id": "16-87-1-7",
+     "name": "Heavy Winds",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_elemental_mote_air01",
+     "spellId": 567542,
+     "description": "Increases the pushback reduction provided by Stabilizing Pressure by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-0-6",
+      "16-87-2-6"
+     ]
+    },
+    {
+     "id": "16-87-3-7",
+     "name": "Aviana's Blessing",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_eagle2windmount_white",
+     "spellId": 705720,
+     "description": "Reduces your total threat generated by -30% and increases the range of Gust of Wind by 3 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-4-6",
+      "16-87-2-6"
+     ]
+    },
+    {
+     "id": "16-87-5-7",
+     "name": "Residual Power",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_nature_moonglow",
+     "spellId": 804605,
+     "description": "Reduces your Magic damage taken by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-6-6a",
+      "16-87-4-6",
+      "16-87-6-6b"
+     ]
+    },
+    {
+     "id": "16-87-7-7",
+     "name": "Thunder Grip",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_thunderking_balllightning",
+     "spellId": 301219,
+     "description": "Direct damage dealt now has a 30% chance to apply Thunder Grip to enemies.Thunder GripPrevents enemies from mounting, fleeing, and increasing their movement speed above normal movement speed for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-6-6a",
+      "16-87-8-6",
+      "16-87-6-6b"
+     ]
+    },
+    {
+     "id": "16-87-1-8",
+     "name": "Predictable Weather",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_magicvortex_border",
+     "spellId": 807233,
+     "description": "Every 30 sec, your next Storm Alert or Torrential Wrath is instant cast.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-1-7",
+      "16-87-3-7"
+     ]
+    },
+    {
+     "id": "16-87-4-8",
+     "name": "Lingering Storm",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_lightning_timewarp_border",
+     "spellId": 705652,
+     "description": "Increases the duration of your Stormcloak, Conjure Storm and Body of Lightning by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-5-7",
+      "16-87-3-7"
+     ]
+    },
+    {
+     "id": "16-87-7-8",
+     "name": "Power Surge",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_manaballs_border",
+     "spellId": 800699,
+     "description": "Your Storm Ascendance now increases Nature damage dealt by an additional 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-5-7",
+      "16-87-7-7"
+     ]
+    },
+    {
+     "id": "16-87-2-9",
+     "name": "Fog",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_shamanskill41nobg_border",
+     "spellId": 806100,
+     "description": "Concentrate elemental magic to create an 8 yd wide cloudy barrier at your feet for 8 seconds.Enemies are unable to target into or out of the Fog.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-87-1-8",
+      "16-87-4-8"
+     ]
+    },
+    {
+     "id": "16-87-4-9",
+     "name": "Waterfall",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_staff_2h_artifactaegwynsstaff_d_03",
+     "spellId": 806412,
+     "description": "Dealing critical damage now reduces all of your cooldowns by -0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-87-4-8"
+     ]
+    },
+    {
+     "id": "16-87-6-9",
+     "name": "Thunder King",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_hammerofthunder_border",
+     "spellId": 804591,
+     "description": "For 20 seconds, your Call Lightning strikes 3 additional nearby enemies, your movement speed is increased by 25%, and you generate 5 Static every 1 sec.While active, damaging critical strikes deal bonus Spellstorm Damage scaling with your spell power, and grant Raging Storm.Raging StormIncreases spell haste by 3%, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-87-7-8",
+      "16-87-4-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 42,
+   "name": "Lightning",
+   "nodeCount": 37,
+   "nodes": [
+    {
+     "id": "16-42-4-0",
+     "name": "Arm of Thorim",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "epic_rpg_icon_pack_wind_icon_0002s_0000_lightning_border",
+     "spellId": 801847,
+     "description": "Depletes All StaticCall down a terrible beam of lightning upon an enemy, dealing 135 + 120% nature SP Nature damage and stunning them for 1 seconds.Damage and cast time increased based on Static level.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "16-42-10-0",
+     "name": "Electrocutioner",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "nhi_frozenlightning_border",
+     "spellId": 92096,
+     "description": "Level 10 PassiveDealing spell damage now has a 5% chance to grant you Electrocutioner.Electrocutioner (Proc)Resets the cooldown of Electrocute and makes your next usable regardless of the target's health percentage.Chance increases based on Static level.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 1
+    },
+    {
+     "id": "16-42-4-1",
+     "name": "Superconductor",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "ability_siege_engineer_magnetic_crush",
+     "spellId": 705646,
+     "description": "Increases the damage of your Arm of Thorim by an additional 1% per Static depleted.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-4-0"
+     ]
+    },
+    {
+     "id": "16-42-2-2",
+     "name": "Forked Lightning",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "spell_nature_lightningoverload",
+     "spellId": 801851,
+     "description": "Shoot lightning at an enemy, dealing 69 + 49% SP Nature damage, bouncing to up to 4 enemies.Generates 5 Static for each enemy struck.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-42-4-1"
+     ]
+    },
+    {
+     "id": "16-42-6-2",
+     "name": "Volt",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "shaman_pvp_staticcling",
+     "spellId": 500928,
+     "description": "Fuse lightning into an enemy, dealing 150 + 114% nature SP Nature damage over 18 seconds and slowing them by -40%.Generates 2 Static per tick.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-42-4-1"
+     ]
+    },
+    {
+     "id": "16-42-10-2",
+     "name": "Thunderous",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "inv_leather_raidmonkmythic_r_01_bracer",
+     "spellId": 804827,
+     "description": "Level 20 PassiveIncreases the critical damage of your spells by 150%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "16-42-10-0"
+     ]
+    },
+    {
+     "id": "16-42-1-3",
+     "name": "Thorim's Gift",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "achievement_boss_thorim",
+     "spellId": 570173,
+     "description": "Your Arm of Thorim now leaves unstable electricity beneath the target, dealing damage equal to 10% of its damage dealt to enemies within every 1 sec for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-2-2"
+     ]
+    },
+    {
+     "id": "16-42-4-3",
+     "name": "Titanic Thunderbolt",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "spell_nature_lightning",
+     "spellId": 705653,
+     "description": "Increases the critical strike chance of Shock, Conjure Storm, and Eye of the Storm by 4%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-6-2",
+      "16-42-2-2"
+     ]
+    },
+    {
+     "id": "16-42-7-3",
+     "name": "Fulmination",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "novart_magicspell_(79)_border",
+     "spellId": 707055,
+     "description": "Increases the critical strike chance of Call Lightning and Arm of Thorim by 15% against targets affected by your Volt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-6-2"
+     ]
+    },
+    {
+     "id": "16-42-2-4",
+     "name": "Improved Forked Lightning",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "5_normal26biglightning_border",
+     "spellId": 300597,
+     "description": "Your Forked Lightning now affects 1 additional enemy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-2-2",
+      "16-42-1-3"
+     ]
+    },
+    {
+     "id": "16-42-3-4",
+     "name": "Electric Energy",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "5_atom_border",
+     "spellId": 804278,
+     "description": "Increases the damage of your Shock, Call Lightning, and Arm of Thorim by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-4-3"
+     ]
+    },
+    {
+     "id": "16-42-5-4a",
+     "name": "Electrifying Aura",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "ability_thunderking_rockfalllow",
+     "spellId": 560568,
+     "description": "Increases critical strike chance of all party and raid members by 3%.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-4-3"
+     ]
+    },
+    {
+     "id": "16-42-5-4b",
+     "name": "Tome of Lightning",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "novart_books_(6)_border",
+     "spellId": 300606,
+     "description": "Increases your critical strike chance by 2% and reduces the duration of interrupt and silence effects against you by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "16-42-6-4",
+     "name": "Wicked Storms",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "nhi_mindblow_border",
+     "spellId": 705650,
+     "description": "Increases your Nature damage dealt by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-7-3",
+      "16-42-6-2"
+     ]
+    },
+    {
+     "id": "16-42-10-4",
+     "name": "Fast as Lightning",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "spell_nature_purge",
+     "spellId": 570057,
+     "description": "Level 30 PassiveWhile Electrocutioner is active, your Electrocute now gains 20% increased damage.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "16-42-10-2"
+     ]
+    },
+    {
+     "id": "16-42-0-5",
+     "name": "Stormy Days",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "trade_alchemy_ghostironrod",
+     "spellId": 705655,
+     "description": "Increases the tick rate of Conjure Storm by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-2-4"
+     ]
+    },
+    {
+     "id": "16-42-2-5",
+     "name": "Invoking Storms",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "spell_nature_callstorm",
+     "spellId": 705667,
+     "description": "Increases the spell power scaling of Shock, Call Lightning, and Arm of Thorim by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-3-4",
+      "16-42-2-4"
+     ]
+    },
+    {
+     "id": "16-42-4-5",
+     "name": "Lightning Cage",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "ability_thunderking_thunderstruck",
+     "spellId": 560030,
+     "description": "Generates 50 StaticAscend into the air and cage yourself in lightning for 30 seconds, locking yourself in place.While inside the cage, damaging spells generate 20 Static and their range is doubled.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-42-5-4a",
+      "16-42-3-4",
+      "16-42-5-4b"
+     ]
+    },
+    {
+     "id": "16-42-6-5",
+     "name": "Never Strikes Twice?",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "_d3electrocute",
+     "spellId": 804828,
+     "description": "Your Electrocute now has a 25% chance to strike again.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-5-4a",
+      "16-42-6-4",
+      "16-42-5-4b"
+     ]
+    },
+    {
+     "id": "16-42-8-5",
+     "name": "Jolt",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "novart_magicspell_(74)_border",
+     "spellId": 707054,
+     "description": "Increases the damage and critical strike chance of Electrocute by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-6-4"
+     ]
+    },
+    {
+     "id": "16-42-1-6",
+     "name": "Lightning Rod",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "inv_rod_enchantedcobalt",
+     "spellId": 300609,
+     "description": "Damage dealt by Forked Lightning now has a 20% chance to spread an active Volt on your target to each affected enemy.Chance increases based on Static level.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-0-5",
+      "16-42-2-5"
+     ]
+    },
+    {
+     "id": "16-42-2-6",
+     "name": "Thundershocker",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "nhi_manawave_border",
+     "spellId": 300610,
+     "description": "While rooted by Eye of the Storm, affected enemies now take 30% increased damage from you.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-2-5"
+     ]
+    },
+    {
+     "id": "16-42-4-6",
+     "name": "Storm Barrier",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "spell_nature_lightningshield",
+     "spellId": 707204,
+     "description": "While Lightning Cage is active your Magic Damage taken is now reduced by -25% and you are unable to be hit by ranged attacks.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-4-5"
+     ]
+    },
+    {
+     "id": "16-42-6-6",
+     "name": "Critical Circuit",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "5_druideskill39_border",
+     "spellId": 807314,
+     "description": "Direct critical strikes with Static spenders now refund 10 Static.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-6-5"
+     ]
+    },
+    {
+     "id": "16-42-7-6",
+     "name": "Sparks",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "nhi_arcaneburst_border",
+     "spellId": 301298,
+     "description": "Damage dealt by Electrocute and Arm of Thorim now increase the target's chance to be critically hit by spells by 3% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-6-5",
+      "16-42-8-5"
+     ]
+    },
+    {
+     "id": "16-42-10-6",
+     "name": "Piercing Lightning",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "nhi_lightning_bolt_border",
+     "spellId": 578302,
+     "description": "Level 40 PassiveIncreases your Nature spell penetration by 20, scaling with your level.In addition, Stormbreaker now dispels 1 additional magic effect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "16-42-10-4"
+     ]
+    },
+    {
+     "id": "16-42-1-7",
+     "name": "High Voltage",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "inv_eng_electroshockmountmotivator",
+     "spellId": 570191,
+     "description": "Increases the duration of Arm of Thorim's stun effect by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-1-6",
+      "16-42-2-6"
+     ]
+    },
+    {
+     "id": "16-42-3-7",
+     "name": "Voltaic Bursts",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "inv_azerite_empowered_state",
+     "spellId": 705639,
+     "description": "Increases the periodic damage of Shock by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-4-6",
+      "16-42-2-6"
+     ]
+    },
+    {
+     "id": "16-42-5-7",
+     "name": "Titanstorm",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "achievement_dungeon_ulduarraid_titan_01",
+     "spellId": 801869,
+     "description": "Casting Call Lightning or Electrocute now reduces the cooldown of Arm of Thorim and Lightning Cage by -1.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-4-6",
+      "16-42-6-6"
+     ]
+    },
+    {
+     "id": "16-42-7-7",
+     "name": "Dark Skies",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "inv_stormsongvalley",
+     "spellId": 300593,
+     "description": "When your direct damage spells fail to critically strike, your critical strike chance is increased by 2% for 10 seconds, stacking up to 5 times.Critically striking removes this effect.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-7-6",
+      "16-42-6-6"
+     ]
+    },
+    {
+     "id": "16-42-2-8",
+     "name": "Flux Arc",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "inv_sword_1h_artifactvigfus_d_03",
+     "spellId": 705643,
+     "description": "Your Forked Lightning and Arm of Thorim now marks enemies for 6 sec. Your Call Lightning against marked enemies deals an additional 15% of its damage to them and nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-3-7",
+      "16-42-1-7"
+     ]
+    },
+    {
+     "id": "16-42-4-8",
+     "name": "Crackling Devastation",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "spell_nature_wispheal",
+     "spellId": 705645,
+     "description": "Increases the critical damage of Electrocute by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-5-7",
+      "16-42-3-7"
+     ]
+    },
+    {
+     "id": "16-42-6-8",
+     "name": "Electrical Charge",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "_d3fistsofthunder",
+     "spellId": 704149,
+     "description": "Standing still grants you Electrical Charge every second, increasing your haste by 1%. Upon reaching 20 stacks, your spells dont deplete Static for 10 seconds, after which the charges are depleted.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-5-7",
+      "16-42-7-7"
+     ]
+    },
+    {
+     "id": "16-42-10-8",
+     "name": "Ascension",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "5_druideskill37_border",
+     "spellId": 301260,
+     "description": "Level 50 PassiveIncreases the duration of your Storm Ascendance by 10 sec.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "16-42-10-6"
+     ]
+    },
+    {
+     "id": "16-42-2-9",
+     "name": "Lord of Lightning",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "inv_shield_1h_artifactstormfist_d_06",
+     "spellId": 707618,
+     "description": "Storm Ascendance now additionally grants you Lord of Lightning for 20 seconds.Lord of LightningIncreases the damage dealt by Forked Lightning, Call Lightning, and Electrocute by an additional 30% and allows Electrocute to strike 3 additional enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-2-8"
+     ]
+    },
+    {
+     "id": "16-42-4-9",
+     "name": "Ride the Lightning",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "spell_shaman_crashlightning",
+     "spellId": 800099,
+     "description": "Depletes 40 StaticInfuse yourself with lightning and blink forward a long distance, dealing 540 + 50% SP Nature damage to all enemies in your path.Scales with modifiers to Discharge",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-42-2-8",
+      "16-42-6-8",
+      "16-42-4-8"
+     ]
+    },
+    {
+     "id": "16-42-6-9",
+     "name": "Thunder Wave",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 42,
+     "icon": "spell_shaman_hightide",
+     "spellId": 705692,
+     "description": "Damage dealt by Forked Lightning has a 5% chance to transform it into Thunder Wave.Thunder Wave (Spell)Bring lightning down upon an enemy and nearby enemies, dealing 206 + 65% arcane SP Spellstorm Damage and refreshing the duration of Volt on enemies struck.Deals 30% increased damage to enemies affected by Volt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-42-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 43,
+   "name": "Wind",
+   "nodeCount": 43,
+   "nodes": [
+    {
+     "id": "16-43-4-0",
+     "name": "Tempest Calling",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "spell_nature_tranquility",
+     "spellId": 707615,
+     "description": "Enhances some of your spells with the power of the wind, tranforming your Conjure Storm into Updraft and Call Lightning into Aeroblast.UpdraftDepletes 20 Static2 Charges, 10 sec rechargeCreate an 8 yd Updraft at the target location for 20 seconds.Deals 160 + 68.3% nature SP Nature damage over the duration to enemies within the radius.Increases movement speed by 25% for allies within the radius.AeroblastDepletes 50 StaticCrush an enemy with the weight of the winds, dealing 109 + 63.5% nature SP Nature damage to them and then an additional time for 40% of the damage dealt after 1 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "16-43-10-0",
+     "name": "Air Elemental",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "inv_progenitorelemental_black",
+     "spellId": 92097,
+     "description": "Level 10 PassiveTeaches you Summon: Air Elemental.Summon: Air ElementalCall an Air Elemental to aid you in combat that gains a stack of Invigoration whenever it deals damage.InvigorationIncreases the damage of your Air Elemental by 3% for 15 seconds, stacking 10 times.Additional applications do not refresh duration.",
+     "isPassive": true,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "16-43-2-1",
+     "name": "Power the Elements",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "_book2motif_paladinsamwise",
+     "spellId": 705721,
+     "description": "Increases the damage dealt by your Air Elemental's spells by 10% and your Nature damage dealt by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-4-0"
+     ]
+    },
+    {
+     "id": "16-43-6-1",
+     "name": "Storm Bond",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "spell_nature_purge",
+     "spellId": 500580,
+     "description": "Damage dealt by your Air Elemental now generates you 2 Static.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-4-0"
+     ]
+    },
+    {
+     "id": "16-43-1-2",
+     "name": "Flow",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "achievement_bg_dg_master_of_the_deepwind_gorge",
+     "spellId": 570128,
+     "description": "Your Invigoration now stacks 5 additional times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-2-1"
+     ]
+    },
+    {
+     "id": "16-43-4-2",
+     "name": "Air Flow",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "spell_nature_cyclone",
+     "spellId": 707548,
+     "description": "Reduces the cast time of Aeroblast by -0.3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-6-1",
+      "16-43-2-1"
+     ]
+    },
+    {
+     "id": "16-43-7-2",
+     "name": "Invigoration",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "ability_vanish",
+     "spellId": 705700,
+     "description": "Your Aeroblast now grants your Air Elemental a stack of Invigoration.InvigorationIncreases the damage of your Air Elemental by 3% for 15 seconds, stacking 10 times.Additional applications do not refresh duration.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-6-1"
+     ]
+    },
+    {
+     "id": "16-43-10-2a",
+     "name": "Clear Skies",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "achievement_zone_deadwindpass",
+     "spellId": 500069,
+     "description": "Increases chance to hit with all spells and attacks by 1% for you and party and raid members.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 15,
+     "dependencies": [
+      "16-43-10-0"
+     ]
+    },
+    {
+     "id": "16-43-10-2b",
+     "name": "Focal Point",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "nhi_magicstorm_border",
+     "spellId": 706629,
+     "description": "Casting Call Lightning now increases the critical strike chance of party and raid members by 5% for 10 seconds.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 15
+    },
+    {
+     "id": "16-43-1-3",
+     "name": "Quickdraft",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "custom_t_snowwhirlwind_border",
+     "spellId": 705704,
+     "description": "Increases the duration of your Updraft by 3 sec and increases its tick rate by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-1-2"
+     ]
+    },
+    {
+     "id": "16-43-4-3",
+     "name": "Gale",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "inv_tradeskillitem_sorcererswind_tong",
+     "spellId": 804036,
+     "description": "3 Charges, 10 sec rechargeGenerates 20 StaticBlast an enemy and up to 2 nearby enemies with a powerful gust of wind for 53 + 42% nature SP Nature damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-43-4-2"
+     ]
+    },
+    {
+     "id": "16-43-7-3",
+     "name": "Everlasting Invigoration",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "nhi_magicstorm_border",
+     "spellId": 706628,
+     "description": "Increases the duration of Invigoration by 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-7-2"
+     ]
+    },
+    {
+     "id": "16-43-1-4",
+     "name": "Kiss of the Clouds",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "epic_rpg_icon_pack_wind_icon_0003s_0000_wind_border",
+     "spellId": 500039,
+     "description": "Depletes 40 StaticGrant all party and raid members a shield that absorbs 101 + 100% Intellect damage, scaling with Intellect, for 10 seconds.While active, the target suffers no spell pushback from taking damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-43-1-3"
+     ]
+    },
+    {
+     "id": "16-43-3-4a",
+     "name": "Evergale",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "spell_frost_stun",
+     "spellId": 705717,
+     "description": "Casting Call Lightning now refreshes a charge of Gale.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-4-3"
+     ]
+    },
+    {
+     "id": "16-43-3-4b",
+     "name": "Unrelenting Winds",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "ability_monk_zenflight",
+     "spellId": 704211,
+     "description": "Increases the critical strike chance of Gale by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "16-43-5-4",
+     "name": "Master Airbender",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "inv_pet_pandarenelemental_air",
+     "spellId": 705719,
+     "description": "Casting Gale now reduces the cooldown of abilities that deplete Static by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-4-3"
+     ]
+    },
+    {
+     "id": "16-43-7-4",
+     "name": "Unshackle",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "achievement_boss_alakir_the_windlord",
+     "spellId": 706625,
+     "description": "Depletes 50 StaticTransforms your Air Elemental into a more powerful form for 15 seconds, increasing damage dealt by 25% and spell haste by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-43-7-3"
+     ]
+    },
+    {
+     "id": "16-43-10-4a",
+     "name": "Enveloping Winds",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "ability_shaman_windwalktotem",
+     "spellId": 707546,
+     "description": "Casting Gale now causes your Air Elemental to cast Gale.Additionally, you now emanate an aura around you, increasing the Armor of party and raid members by 390.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "16-43-10-2a",
+      "16-43-10-2b"
+     ]
+    },
+    {
+     "id": "16-43-10-4b",
+     "name": "Tailwind",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "nhi_frozenarm_border",
+     "spellId": 804035,
+     "description": "Depletes 20 StaticTap into the swift winds, increasing your damage by 10% and granting all allied players 5% increased haste for 15 seconds.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 30
+    },
+    {
+     "id": "16-43-0-5",
+     "name": "Gift of Air",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "_scroll1_custom_air",
+     "spellId": 705715,
+     "description": "Casting Kiss of the Clouds now empowers your Air Elemental with Gift of Air for 30 seconds.In addition, your critical strikes now extend the duration of your Tailwind by 1.5 sec.Gift of AirIncreases damage dealt by 20%, spell haste by 15%, and heals for 13.75 every 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-1-4"
+     ]
+    },
+    {
+     "id": "16-43-2-5a",
+     "name": "Cyclone's Embrace",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "ability_eyeoftheowl",
+     "spellId": 301318,
+     "description": "Increases the base amount absorbed by your Kiss of the Clouds by 100%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-1-4"
+     ]
+    },
+    {
+     "id": "16-43-2-5b",
+     "name": "Cyclone's Recharge",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "novart_magicspell_(57)_border",
+     "spellId": 300827,
+     "description": "Casting Shock, Gale or Electrocute now reduces the remaining cooldown of your Kiss of the Clouds by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "16-43-4-5",
+     "name": "Aeromancy",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "spell_mage_icenova",
+     "spellId": 705708,
+     "description": "Casting Updraft will now cause your Air Elemental to cast its own Updraft beneath you.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-3-4a",
+      "16-43-5-4",
+      "16-43-3-4b"
+     ]
+    },
+    {
+     "id": "16-43-6-5",
+     "name": "Windrunner",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "ability_shaman_windwalktotem",
+     "spellId": 707719,
+     "description": "The wind is always at your back, pushing you to move faster, increasing your movement speed and mounted movement speed by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-7-4"
+     ]
+    },
+    {
+     "id": "16-43-8-5",
+     "name": "Wrath of Al'Akir",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "inv_helmet_69",
+     "spellId": 300834,
+     "description": "Depleting Static extends the duration of your Unshackle by 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-7-4"
+     ]
+    },
+    {
+     "id": "16-43-1-6",
+     "name": "Windsurf",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "ability_druid_galewinds",
+     "spellId": 500042,
+     "description": "Command your Air Elemental to windsurf to you, intercepting the next melee or ranged attack made against you, and allowing you to cast Shock and Call Lightning while moving for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-43-0-5",
+      "16-43-1-4"
+     ]
+    },
+    {
+     "id": "16-43-3-6",
+     "name": "Clearsky Pendant",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "_hearthstone_necklace_mage",
+     "spellId": 705709,
+     "description": "Ally movement speed is increased by an additional 25% to allies within your Updraft.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-4-5",
+      "16-43-2-5a",
+      "16-43-2-5b"
+     ]
+    },
+    {
+     "id": "16-43-5-6",
+     "name": "Master Elementalist",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "achievement_nazmir_boss_mother",
+     "spellId": 705662,
+     "description": "Increases the spell damage scaling of Shock by 10% and Aeroblast by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-4-5",
+      "16-43-6-5"
+     ]
+    },
+    {
+     "id": "16-43-7-6",
+     "name": "Unbound Elementalist",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "achievement_boss_murmur",
+     "spellId": 705702,
+     "description": "Increases the effectiveness of your Unshackle by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-8-5",
+      "16-43-7-4"
+     ]
+    },
+    {
+     "id": "16-43-10-6a",
+     "name": "Aerodynamics",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "_monkability_renewingmists_xuenwhite",
+     "spellId": 806124,
+     "description": "Depletes 40 StaticEnvelop party and raid members within 40 yds in magical mist, increasing their attack or spell power by 95 for 15 seconds.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 40,
+     "dependencies": [
+      "16-43-10-4a",
+      "16-43-10-4b"
+     ]
+    },
+    {
+     "id": "16-43-10-6b",
+     "name": "Flurry",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "flurry",
+     "spellId": 707543,
+     "description": "Depletes 10 StaticCommand your Air Elemental, causing its next instance of damage to unleash a flurry of air on your target, dealing 763 + 140% nature SP Nature damage over 21 seconds, and reducing their resistances by 75, and increasing their Magic damage taken by -2%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 40
+    },
+    {
+     "id": "16-43-0-7",
+     "name": "Child of the Storm",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "spell_shaman_maelstromweapon",
+     "spellId": 804038,
+     "description": "Reduces the cooldown of your Cloudburst and Windsurf by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-1-6"
+     ]
+    },
+    {
+     "id": "16-43-2-7",
+     "name": "Storm Clouds",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "_stonetablet_shamanair",
+     "spellId": 705686,
+     "description": "Your Body of Lightning is now automatically cast on you when you cast it on an ally.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-1-6",
+      "16-43-3-6"
+     ]
+    },
+    {
+     "id": "16-43-4-7",
+     "name": "Lexicon of Servitude",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "inv_ascend_book_14_b",
+     "spellId": 520087,
+     "description": "Read from your ancient lexicon, causing your next Summon: Air Elemental to be instant cast and cost no mana. Lasts 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-43-5-6",
+      "16-43-3-6"
+     ]
+    },
+    {
+     "id": "16-43-6-7",
+     "name": "Comforting Winds",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "spell_mage_iceflows",
+     "spellId": 704209,
+     "description": "Your damage dealt now increases the haste of your Air Elemental by 1% for 10 seconds, stacking 5 times.Damage dealt by your Air Elemental now increases your haste by 1% for 10 seconds, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-5-6",
+      "16-43-7-6"
+     ]
+    },
+    {
+     "id": "16-43-8-7",
+     "name": "Hurricanes",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "spell_druid_ursolsvortex",
+     "spellId": 300839,
+     "description": "Casting Unshackle now unshackles you, increasing your damage dealt by 15% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-7-6"
+     ]
+    },
+    {
+     "id": "16-43-2-8",
+     "name": "Wind Gate",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "windgate",
+     "spellId": 504401,
+     "description": "Place a Wind Gate at target location for 1 minute. You may cast Wind Gate: Evacuate on an ally to pull them to your Wind Gate.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-43-0-7",
+      "16-43-4-7",
+      "16-43-2-7"
+     ]
+    },
+    {
+     "id": "16-43-6-8",
+     "name": "Skyfall",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "inv_tradeskill_81_breath_of_bwonsamdi_raid",
+     "spellId": 804830,
+     "description": "Depletes 40 StaticCommand your Air Elemental, causing its next instance of damage within 8 seconds to strike an enemy, dealing 1349 + 100% arcane SP Nature damage and increasing the movement speed of all nearby allies by 30% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-43-6-7",
+      "16-43-4-7",
+      "16-43-8-7"
+     ]
+    },
+    {
+     "id": "16-43-10-8a",
+     "name": "Tempest's Call",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "tempest's call",
+     "spellId": 560567,
+     "description": "Bring the power of wind and storm to all nearby allies, increasing haste by 30% for 20 seconds.After being affected by this spell, allies cannot benefit from similar effects for 5 minutes.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 50,
+     "dependencies": [
+      "16-43-10-6a",
+      "16-43-10-6b"
+     ]
+    },
+    {
+     "id": "16-43-10-8b",
+     "name": "Surge of Might",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "nhi_lightning_shock_border",
+     "spellId": 520083,
+     "description": "Emanate an aura around you for 15 seconds, causing allied players within 100 yds to deal 70% nature SP additional damage as Nature damage when they deal direct damage.Applies Exhaustion, preventing you from benefiting from similar effects for 1 minute.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 50
+    },
+    {
+     "id": "16-43-2-9",
+     "name": "Nimbus",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "_monkability_expelharm_xuenwhite",
+     "spellId": 704212,
+     "description": "Instantly resets the cooldown of your Evacuate, Windsurf, and Unshackle.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-43-2-8"
+     ]
+    },
+    {
+     "id": "16-43-4-9",
+     "name": "Raging Zephyr",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "ability_skyreach_four_wind",
+     "spellId": 704222,
+     "description": "Transforms your Whirlpool into Raging Zephyr.Raging Zephyr3 Charges, 35 sec rechargeSummon a Raging Zephyr at the targeted location for 12 seconds.Every 4 sec, it will pull all enemies within 10 yds inside of it.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-43-2-8",
+      "16-43-6-8"
+     ]
+    },
+    {
+     "id": "16-43-6-9",
+     "name": "Aurat Scripts",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 43,
+     "icon": "_book5_white",
+     "spellId": 712431,
+     "description": "Increases the damage gained per stack of Invigoration by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-43-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 44,
+   "name": "Maelstrom",
+   "nodeCount": 37,
+   "nodes": [
+    {
+     "id": "16-44-4-0",
+     "name": "Tempest Sovereign",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "_liquidstone_water",
+     "spellId": 560020,
+     "description": "Enhances some of your spells with the power of the maelstrom, transforming your Shock into Brine and Call Lightning into Torrential Wrath.BrineGenerates 25 StaticDouse an enemy, dealing cond(gt(SPFR, SPN), 89+0+SPFR*0.571, 89+0+SPN*0.871) Frost damage, scaling with your critical strike rating.Scales with modifiers to Shock.Torrential WrathDepletes 50 StaticBlast an enemy, dealing cond(gt(SPFR, SPN), 111+0+SPFR*1, 111+0+SPN*1.5) Frost damage, scaling with your haste rating.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 1
+    },
+    {
+     "id": "16-44-10-0",
+     "name": "Conductive",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "ability_shawaterelemental_reform",
+     "spellId": 92098,
+     "description": "Level 10 PassiveShock now grants Conductive for 1 minute, stacking 6 times.Torrential Wrath consumes all stacks of Conductive to trigger Conduction.Conduction (Damage)Deals cond(gt(SPFR, SPN), 202*1+SPFR*0.585, 202*1+SPN*0.35) Frost Damage, increased by 25% for each stack of Conductive consumed.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 1
+    },
+    {
+     "id": "16-44-4-1",
+     "name": "Stormflow",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "ability_mage_waterjet",
+     "spellId": 567555,
+     "description": "Depletes 20 StaticChannel a storm beam upon an enemy, dealing 112 + 160% SP Frost Damage over 8 seconds, scaling with your spell haste.Shock can be instantly cast while channeling.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-44-4-0"
+     ]
+    },
+    {
+     "id": "16-44-2-2",
+     "name": "Torrential Rage",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "inv_misc_herb_stormvine",
+     "spellId": 807196,
+     "description": "Increases the damage of Torrential Wrath and Stormflow by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-4-1"
+     ]
+    },
+    {
+     "id": "16-44-4-2",
+     "name": "Conduit",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "achievement_zone_stormpeaks_12",
+     "spellId": 806374,
+     "description": "Dealing Frost damage now has a 60% chance to increase the damage the target takes from Electrocute by 15% for 10 seconds, stacking up to 4 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-4-1"
+     ]
+    },
+    {
+     "id": "16-44-6-2",
+     "name": "Disciple of Thorim",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "shaman_pvp_leaderclan",
+     "spellId": 705727,
+     "description": "Reduces the cast time of your Torrential Wrath by -0.2 sec and increases your hit chance by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-4-1"
+     ]
+    },
+    {
+     "id": "16-44-10-2",
+     "name": "Whirling Maelstrom",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "5_shamanskill30_border",
+     "spellId": 705725,
+     "description": "Level 20 PassiveIncreases your spell haste by 20% of your Intellect.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "16-44-10-0"
+     ]
+    },
+    {
+     "id": "16-44-1-3a",
+     "name": "Blessing of Lei Shen",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "achievement_boss_leishen",
+     "spellId": 561228,
+     "description": "Damage dealt by Stormflow now heals you equal to the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-2-2"
+     ]
+    },
+    {
+     "id": "16-44-1-3b",
+     "name": "Prodigy of Lei Shen",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "spell_nature_stormreach",
+     "spellId": 560023,
+     "description": "Allows your Stormflow to critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "16-44-4-3",
+     "name": "Drown",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "custom_element(water)_b_01_border",
+     "spellId": 806407,
+     "description": "Attempt to drown an enemy, reducing their healing received by -20% for 8 seconds. At the end of the duration, unleash a creature from the depths dealing cond(gt(SPFR, SPN), 83+0+SPFR*1, 83+0+SPN*1) Frost Damage.Each time you generate a stack of Conductive you increase their damage taken from this effect, stacking up to 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-44-4-2",
+      "16-44-2-2",
+      "16-44-6-2"
+     ]
+    },
+    {
+     "id": "16-44-7-3",
+     "name": "Raining and Pouring",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "novart_magicspell_(54)_border",
+     "spellId": 706660,
+     "description": "Increases the critical damage of your Torrential Wrath and Electrocute by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-6-2"
+     ]
+    },
+    {
+     "id": "16-44-1-4",
+     "name": "Deluge",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "spell_frost_summonwaterelemental",
+     "spellId": 806400,
+     "description": "Depletes 50 StaticConsumes ConductiveEnvelop enemies in the target area in water, dealing cond(gt(SPFR, SPN), 106+0+SPFR*0.3, 106+0+SPN*0.3) Frost damage, triggering Conduction and reducing their attack power by -24 for 10 seconds.Conduction (Damage)Deals cond(gt(SPFR, SPN), 202*1+SPFR*0.585, 202*1+SPN*0.35) Frost Damage, increased by 25% for each stack of Conductive consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-44-1-3a",
+      "16-44-1-3b"
+     ]
+    },
+    {
+     "id": "16-44-3-4",
+     "name": "Flow of Wrath",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "priest_icon_chakra_blue",
+     "spellId": 801855,
+     "description": "Increases your critical strike chance by 15% against enemies affected by Drown.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-4-3"
+     ]
+    },
+    {
+     "id": "16-44-5-4",
+     "name": "Undertow",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "inv_azerite_fireball",
+     "spellId": 705666,
+     "description": "Increases the critical strike chance of Drown by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-4-3"
+     ]
+    },
+    {
+     "id": "16-44-7-4",
+     "name": "Mystic Thunder",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "nhi_manaentagle_border",
+     "spellId": 504846,
+     "description": "Interrupt the target's current spell cast and then mark them for 5 seconds.If they cast again while marked they are silenced for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-44-7-3"
+     ]
+    },
+    {
+     "id": "16-44-10-4",
+     "name": "Unbridled Flow",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "nhi_frozenwhirl_border",
+     "spellId": 578299,
+     "description": "Level 30 PassiveDamage dealt by Shock is now increased by 15% while channeling Stormflow.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "16-44-10-2"
+     ]
+    },
+    {
+     "id": "16-44-0-5",
+     "name": "Voltaic Mastery",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "novart_magicspell_(55)_border",
+     "spellId": 706661,
+     "description": "Damage dealt by Deluge is increased by 5% for each stack of Conductive.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-1-4"
+     ]
+    },
+    {
+     "id": "16-44-2-5",
+     "name": "Stormcaller",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "custom_t_iceball_border",
+     "spellId": 300611,
+     "description": "Reduces the cooldown and mana cost of Eye of the Storm by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-1-4",
+      "16-44-3-4"
+     ]
+    },
+    {
+     "id": "16-44-4-5a",
+     "name": "Washed Away",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "inv_sulfurelemental_water",
+     "spellId": 807657,
+     "description": "Reduces the cooldown of Drown by -15 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-5-4",
+      "16-44-3-4"
+     ]
+    },
+    {
+     "id": "16-44-4-5b",
+     "name": "Bursting",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "custom_t_waterbomb_border",
+     "spellId": 806397,
+     "description": "Increases the stack value of Drowning by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "16-44-6-5",
+     "name": "Cloudsurfer",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "novart_magicspell_(57)_border",
+     "spellId": 806414,
+     "description": "Increases the damage of Shock by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-7-4",
+      "16-44-5-4"
+     ]
+    },
+    {
+     "id": "16-44-8-5",
+     "name": "Lethal Current",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "spell_nature_lightningshield",
+     "spellId": 705663,
+     "description": "Increases the critical strike chance of Electrocute by 30% against enemies below 20% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-7-4"
+     ]
+    },
+    {
+     "id": "16-44-2-6",
+     "name": "Unstable",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "_energeticorblightblue",
+     "spellId": 705723,
+     "description": "Your direct damage critical strikes cause your Stormflow to tick -20% faster for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-0-5",
+      "16-44-4-5a",
+      "16-44-2-5",
+      "16-44-4-5b"
+     ]
+    },
+    {
+     "id": "16-44-4-6",
+     "name": "Thunder Ward",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "spell_deathknight_antimagiczone",
+     "spellId": 800098,
+     "description": "Depletes All StaticEncase yourself in an electrical shield, removing and making you immune to all physical attacks and spells for 10 seconds.Cannot generate Static for the duration.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-44-4-5a",
+      "16-44-4-5b"
+     ]
+    },
+    {
+     "id": "16-44-6-6",
+     "name": "Kinetic Energy",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "nhi_lightning_empower_border",
+     "spellId": 806409,
+     "description": "Casting a spell that consumes Conductive now grants you a stack of Kinetic Energy.Kinetic EnergyCritical strike chance increased by 2%, stacking 3 times, for 10 seconds.Additional applications do not refresh the duration.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-4-5a",
+      "16-44-8-5",
+      "16-44-6-5",
+      "16-44-4-5b"
+     ]
+    },
+    {
+     "id": "16-44-10-6",
+     "name": "Storm Synergy",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "spell_shaman_staticshock",
+     "spellId": 578300,
+     "description": "Level 40 PassiveYour Electrocute can now be used while channeling Stormflow.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "16-44-10-2"
+     ]
+    },
+    {
+     "id": "16-44-1-7",
+     "name": "Amped Flow",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "inv_staff_94",
+     "spellId": 806411,
+     "description": "While channeling Stormflow, your Shock now strikes 1 additional target at 75% value.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-2-6"
+     ]
+    },
+    {
+     "id": "16-44-3-7",
+     "name": "Static Electricity",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "_monkability_cracklinglightning_xuenwhite",
+     "spellId": 524954,
+     "description": "Critical strikes with Torrential Wrath now spawn an Electrified Water Elemental to aid you in combat for 20 sec.When an Electrified Water Elemental dissipates, the cooldown of your Drown is reduced by -1.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-2-6",
+      "16-44-4-6"
+     ]
+    },
+    {
+     "id": "16-44-5-7",
+     "name": "Conductor In Charge",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "ability_thunderking_balllightning",
+     "spellId": 300961,
+     "description": "Increases all damage dealt by party and raid members by 3% and your Frost damage dealt by 5%.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-6-6",
+      "16-44-4-6"
+     ]
+    },
+    {
+     "id": "16-44-7-7",
+     "name": "Hydro Powered",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "custom_t_nhance_rpg_icons_magicstorm_border",
+     "spellId": 300616,
+     "description": "Increases your spell critical damage by 35%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-6-6"
+     ]
+    },
+    {
+     "id": "16-44-2-8",
+     "name": "Binder of Storms",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "shaman_pvp_staticcling",
+     "spellId": 707542,
+     "description": "Damage dealt by Conduction now has a 60% chance to summon a Thunder Orb.Summon: Thunder OrbSummon a Thunder Orb at the target location for 16 seconds that triggers an Orb Shock and generates 10 Static.Orb ShockDeals 16 + 4% nature SP Nature Damage to up to 3 enemies and increases damage taken from Thunder Orbs and Spheres of Power for 8 seconds, stacking 6 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-1-7",
+      "16-44-3-7"
+     ]
+    },
+    {
+     "id": "16-44-4-8",
+     "name": "Electrified Waters",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "inv_deathelementalmount_blue",
+     "spellId": 573436,
+     "description": "Your direct critical strikes against an enemy affected by Drown spawn an Electrified Water Elemental to aid you in combat for 20 seconds.When an Electrified Water Elemental dissipates, the cooldown of your Drown is reduced by -1.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-5-7",
+      "16-44-3-7"
+     ]
+    },
+    {
+     "id": "16-44-6-8",
+     "name": "Stormfury",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "custom_28_storm2_border",
+     "spellId": 532751,
+     "description": "Depletes 50 StaticSummon a flurry of rain, wind, and lightning from the sky for 20 seconds. Every 2 sec, enemies within 30 yds of the caster are zapped with lightning, dealing 540 + 55% nature SP Nature damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-44-5-7",
+      "16-44-7-7"
+     ]
+    },
+    {
+     "id": "16-44-10-8",
+     "name": "Hydromatic",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "epic_rpg_icon_pack_wind_icon_0002s_0000_lightning_border",
+     "spellId": 300619,
+     "description": "Level 50 PassiveYour Electrocute is now affected by Conductive, increasing its damage by 10% per stack.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "16-44-10-6"
+     ]
+    },
+    {
+     "id": "16-44-2-9",
+     "name": "Spheres of Power",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "ability_monk_forcesphere",
+     "spellId": 706434,
+     "description": "Your direct damage dealt now has a 25% chance to summon a Power Sphere that will move towards your target. Can only have 1 Power Sphere up at a time.Power Sphere will redirect its movement towards enemies you cast Stormflow on.Upon reaching the target, it deals cond(gt(SPA, SPN), 697+33+SPA*0.485, 697+33+SPN*0.485) Spellstorm Damage to them and enemies within 5 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-4-8",
+      "16-44-2-8"
+     ]
+    },
+    {
+     "id": "16-44-4-9",
+     "name": "Stormcloud",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "custom_t_snowwhirlwind_border",
+     "spellId": 801859,
+     "description": "Summon a cloud above an enemy target's head for 15 seconds, causing them to take 20% additional damage from your spells.Using Torrential Wrath on an enemy affected by Stormcloud causes a Geyser to erupt beneath them, dealing 571 + 25% frost SP Frost damage and knocking them up slightly.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "16-44-4-8"
+     ]
+    },
+    {
+     "id": "16-44-6-9",
+     "name": "Shockingly Powerful",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 44,
+     "icon": "inv_pandarenserpentmount_lightning_blue",
+     "spellId": 572310,
+     "description": "Your Conduction now has a -25% chance to not consume Conductive.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "16-44-4-8",
+      "16-44-6-8"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Holy Constitution",
+  "icon": "spell_holy_power",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Holy Constitution</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your damage dealt versus Undead by 5, scaling with level, and increases your chance to resist disease effects by 30%.</span></td></tr></table><!--?706323:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

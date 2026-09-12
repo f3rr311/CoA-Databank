@@ -1,0 +1,8 @@
+{
+  "name_enus": "Aeon of Oblivion",
+  "icon": "inv_trinket_80_kultiras02e",
+  "tooltip_enus": "<table><tr><td><b>Aeon of Oblivion</b><br />12% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases <span style=\"color: #ffffff;\">Epoch</span>'s mana cost by 30%, critical strike chance by 10%, and healing done by 15%. <br /><br />In addition, healing with <span style=\"color: #ffffff;\">Epoch</span> now increases the target's damage dealt by 3% for 15&nbsp;sec.<br /><br />Shares a cooldown with other <span style=\"color: #ffffff;\">Aeon</span> spells.</span></td></tr></table><!--?806293:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

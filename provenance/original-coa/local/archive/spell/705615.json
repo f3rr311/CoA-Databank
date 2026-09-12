@@ -1,0 +1,8 @@
+{
+  "name_enus": "Volcanic Etching",
+  "icon": "inv_ascend_magicartifact_3",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Volcanic Etching</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the chance to trigger <span style=\"color: #ffffff;\">Weapon Engraving: Fire</span> and <span style=\"color: #ffffff;\">Weapon Engraving: Earth</span> by 5%.</span></td></tr></table><!--?705615:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

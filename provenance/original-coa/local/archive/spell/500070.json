@@ -1,0 +1,8 @@
+{
+  "name_enus": "Power Shot",
+  "icon": "5_archerskill31_border",
+  "tooltip_enus": "<table><tr><td><b>Power Shot</b><br />20 Focus<br /><table width=\"100%\"><tr><td>Instant</td><th>40&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Bows, Crossbows<br /><span class=\"q\">Fire at an enemy, inflicting 19 to 24 Physical damage and empowering your next 3 <span style=\"color: #ffffff;\">Quick Shots</span> to deal 30% increased Damage and generate a bonus stack of <span style=\"color: #8fff7a;\">Advantage</span>.</span></td></tr></table><!--?500070:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

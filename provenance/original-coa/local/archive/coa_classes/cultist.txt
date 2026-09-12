@@ -1,0 +1,53 @@
+Cultist Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Cultist Overview
+ Cultists serve N'zoth, Y'shaarj, C'thun, or Yogg-Saron, gaining different abilities per patron. The Insanity mechanic creates a risk-reward loop where pushing too far means certain death. With four specializations spanning tank, DPS, and healer, Cultists offer unmatched role flexibility among dark magic classes.
+ Fanatic sworn to the Old Gods, balancing forbidden power against the madness that threatens to consume you.
+ Class Mechanic — Insanity
+ Cultists generate Insanity when using powerful abilities — higher insanity means more damage, but full insanity destroys you.
+ Cultist uses Insanity as its primary resource and wears Cloth / Plate armor.
+ Specializations
+ At level 10, Cultist players choose one of three specializations, each offering a distinct playstyle:
+ Godblade: Channel Old God power into your blade, summoning tentacles and dark runes for devastating unholy strikes.
+ Corruption: Intellect caster inflicting shadow nightmares and DoTs, balancing Insanity for massive damage boosts.
+ Influence: Dark healer swaying allies with Yogg-Saron absorb shields, healing, and Edict spells sharing unique procs.
+ Dreadnought: Y'shaarj-powered tank absorbing insane punishment with heavy armor and powerful absorption effects.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Four distinct roles across specs
+ Strength: Scaling damage with Insanity
+ Strength: Godblade and Dreadnought offer melee/tank paths
+ Weakness: Self-destruction at max Insanity
+ Weakness: Steep learning curve
+ Weakness: Corruption requires careful resource management
+ Leveling Tips
+ Corruption provides predictable ranged damage for solo play. Monitor Insanity thresholds carefully. Influence works well in dungeon groups needing dark healing.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Godblade melee burst surprises arena opponents. Dreadnought tanks absorb punishment with absorption shields in battlegrounds.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Cultist in Conquest of Azeroth? Cultist is a Tank / DPS / Healer class wearing Cloth / Plate armor with Insanity as its resource.
+ What is the Insanity mechanic? Cultists generate Insanity when using powerful abilities — higher insanity means more damage, but full insanity destroys you.
+ When do Cultist specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Cultist good for beginners? Cultist has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Cultist have? Cultist has three specializations: Godblade, Corruption, Influence, Dreadnought.

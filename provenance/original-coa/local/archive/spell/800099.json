@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ride the Lightning",
+  "icon": "spell_shaman_crashlightning",
+  "tooltip_enus": "<table><tr><td><b>Ride the Lightning</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cc99ff;\">Depletes 40 Static</span><br />Infuse yourself with lightning and blink forward a long distance, dealing 540+0+SP*.5 Nature damage to all enemies in your path.<br /><br />Scales with modifiers to <span style=\"color: #ffffff;\">Discharge</span></span></td></tr></table><!--?800099:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

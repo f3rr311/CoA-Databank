@@ -1,0 +1,816 @@
+{
+ "build": {
+  "id": "2801aecd-4739-41d8-be70-7577105bebc4",
+  "title": "Mech Tinker ST/AoE dungeons and raid",
+  "description": "[overview]\nI experimented alot and this build i came to is very versatile and deals good ST and AoE dps.\n\ni will maybe write more later when i have more time.\n\n[talents]\nOpen to suggestions but i feel like this talent build is the sweet spot\n\n[rotation]\nprio gear grind on ST\nuse sticky bomb right after laser beam (ST) or Combustion (AoE) you can throw it in the gcd window\nScrap shot / Gatling gut on ST\n\nAoE use Airstrike on cd, and cycle Combustion and Makeshift Dynamite, throwing the Sticky bomb in Gcd window\n\n[stats]\nAttack Power Scales pretty much everything so prio that.\nagi a bit better then int.\n1 int = 1 AP (talents)\n\n[pvp]\nNot A PvP player",
+  "class_id": 28,
+  "spec_id": 75,
+  "author_id": "87b260f9-a242-459b-ad63-f205cc6e457c",
+  "talent_string": "W1siMjgtODctMi0wIiwxXSxbIjI4LTg3LTYtMCIsMV0sWyIyOC04Ny03LTIiLDFdLFsiMjgtODctNS0xIiwyXSxbIjI4LTg3LTMtMSIsMl0sWyIyOC04Ny00LTIiLDFdLFsiMjgtODctMS0yIiwxXSxbIjI4LTg3LTQtMyIsMl0sWyIyOC04Ny02LTMiLDFdLFsiMjgtODctNS00IiwxXSxbIjI4LTg3LTctNGEiLDFdLFsiMjgtODctOC01IiwxXSxbIjI4LTg3LTctNiIsMV0sWyIyOC04Ny02LTciLDFdLFsiMjgtODctNi01IiwxXSxbIjI4LTg3LTQtNSIsMV0sWyIyOC04Ny0zLTYiLDFdLFsiMjgtODctMi03IiwxXSxbIjI4LTg3LTMtNCIsMV0sWyIyOC04Ny00LTciLDFdLFsiMjgtODctNS02YSIsMV0sWyIyOC04Ny00LTgiLDFdLFsiMjgtODctMi05IiwxXSxbIjI4LTc1LTQtMCIsMV0sWyIyOC03NS0yLTEiLDFdLFsiMjgtNzUtNi0xIiwyXSxbIjI4LTc1LTctMiIsMV0sWyIyOC03NS00LTIiLDJdLFsiMjgtNzUtMy0zIiwxXSxbIjI4LTc1LTEtMiIsMV0sWyIyOC03NS01LTMiLDFdLFsiMjgtNzUtNS00IiwxXSxbIjI4LTc1LTQtNCIsMV0sWyIyOC03NS0zLTRiIiwxXSxbIjI4LTc1LTQtNSIsMV0sWyIyOC03NS02LTViIiwxXSxbIjI4LTc1LTctNCIsMV0sWyIyOC03NS04LTYiLDFdLFsiMjgtNzUtNy02IiwxXSxbIjI4LTc1LTYtNiIsMV0sWyIyOC03NS03LTciLDFdLFsiMjgtNzUtNC02IiwxXSxbIjI4LTc1LTItNSIsMV0sWyIyOC03NS0xLTZhIiwxXSxbIjI4LTc1LTYtOCIsMV0sWyIyOC03NS02LTkiLDFdLFsiMjgtNzUtMTAtMCIsMV0sWyIyOC03NS0xMC0yIiwxXSxbIjI4LTc1LTEwLTQiLDFdLFsiMjgtNzUtMTAtNiIsMV0sWyIyOC03NS0xMC04IiwxXV0",
+  "tags": [
+   "raid",
+   "aoe",
+   "max level",
+   "60"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 2,
+  "downvotes": 2,
+  "comment_count": 4,
+  "created_at": "2026-07-17T14:27:19.266594+00:00",
+  "updated_at": "2026-07-17T14:27:19.266594+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 2960,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "87b260f9-a242-459b-ad63-f205cc6e457c",
+   "username": "KScrono",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLU4R_Fnvf_uBxg1Sm6CbUA9PqSxCT7fqXNVykWv9a1r5A8jQ=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "16ed3df4-8889-461d-8afa-369c6cb32ffa",
+   "build_id": "2801aecd-4739-41d8-be70-7577105bebc4",
+   "author_id": "f6c8edf6-ee15-4dbd-bff0-44f4cba984a8",
+   "parent_id": null,
+   "body": "How do you have no Destructo-Bot as Mechanic?",
+   "upvotes": 3,
+   "created_at": "2026-07-17T20:56:26.222312+00:00",
+   "updated_at": "2026-07-21T05:56:41.000272+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "f6c8edf6-ee15-4dbd-bff0-44f4cba984a8",
+    "username": "mattwow",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLV--y7SeMoVTrCUSxXPg_XmSpBjI7iXJIPF9xUJMLEdEN4tQ=s96-c"
+   }
+  },
+  {
+   "id": "623e7156-35c8-4934-b62a-e90dbaea9677",
+   "build_id": "2801aecd-4739-41d8-be70-7577105bebc4",
+   "author_id": "7a040486-7ca0-414c-bb18-de8db81f7079",
+   "parent_id": "16ed3df4-8889-461d-8afa-369c6cb32ffa",
+   "body": "I was wondering the same thing. Maybe you have to be 60?",
+   "upvotes": 0,
+   "created_at": "2026-07-19T02:15:28.89631+00:00",
+   "updated_at": "2026-07-19T02:15:28.89631+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "7a040486-7ca0-414c-bb18-de8db81f7079",
+    "username": "Garrett Burkhart",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLamW7x54ZyhCCnGPwP7LenGsIsjpVgLk1AkQEiKGabQSqfBnd5=s96-c"
+   }
+  },
+  {
+   "id": "d5c02af7-6d53-4157-ab49-8ee6d39f1441",
+   "build_id": "2801aecd-4739-41d8-be70-7577105bebc4",
+   "author_id": "574155cb-df15-424b-bb48-2eb7cbb56521",
+   "parent_id": "16ed3df4-8889-461d-8afa-369c6cb32ffa",
+   "body": "The cast time to use it + the time you walk to mobs + time it phases you back to your character. its like 4-5 seconds. Kinda not worth it in my opinion as main Demo why I kinda skip it entirely. You can have it from early levels.",
+   "upvotes": 0,
+   "created_at": "2026-07-20T19:40:19.901582+00:00",
+   "updated_at": "2026-07-21T05:56:28.333399+00:00",
+   "downvotes": 1,
+   "hidden": false,
+   "author": {
+    "id": "574155cb-df15-424b-bb48-2eb7cbb56521",
+    "username": "disturbedmirror",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJgW2sw_uPjGbkjQ9RXY9o-ak16pMDimJir4JeYoQF6MuYKHA=s96-c"
+   }
+  },
+  {
+   "id": "b78de0d3-ffcb-486d-a1d0-8ca191dcd377",
+   "build_id": "2801aecd-4739-41d8-be70-7577105bebc4",
+   "author_id": "4ee1fb63-d5db-4276-aefd-13f7dfa773cd",
+   "parent_id": null,
+   "body": "I have a question about the Master Builder talent. It's only reducing the cast time for my Large Combat Turret, but it doesn't reduce the cast time for pet summoning abilities or the Destro-bot. Is anyone else having this issue?",
+   "upvotes": 0,
+   "created_at": "2026-07-28T20:56:13.017088+00:00",
+   "updated_at": "2026-07-28T20:56:13.017088+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "4ee1fb63-d5db-4276-aefd-13f7dfa773cd",
+    "username": "Tintintinker",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLydU013WrsvSCVThJPc1xtP-A3Y6ZIIZ24natDY33EpuRuG3E=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "102d9cf7-095d-4fb4-80e7-c0949104d65c",
+   "title": "Noobheal Invention Tinker Build",
+   "class_id": 28,
+   "spec_id": 74,
+   "author_id": "e6249b90-f2c9-442a-90f7-58d358aa8964",
+   "tags": [
+    "raid",
+    "leveling",
+    "dungeon",
+    "beginner"
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 1,
+   "comment_count": 3,
+   "view_count": 1099,
+   "featured": false,
+   "created_at": "2026-07-21T13:59:40.426257+00:00",
+   "updated_at": "2026-07-25T15:06:45.1+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "e6249b90-f2c9-442a-90f7-58d358aa8964",
+    "username": "Noobheal",
+    "avatar_url": "https://cdn.discordapp.com/avatars/181744520944156672/e33261577c5b67d3b3bc03fa6f055541.png"
+   }
+  },
+  {
+   "id": "367f91fe-9108-4d77-9994-054ff4dd090c",
+   "title": "Tinker Demolition PvE",
+   "class_id": 28,
+   "spec_id": 73,
+   "author_id": "574155cb-df15-424b-bb48-2eb7cbb56521",
+   "tags": [
+    "PvE Dungeon Raid AoE Guide"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 3,
+   "view_count": 4964,
+   "featured": false,
+   "created_at": "2026-07-19T14:50:23.181203+00:00",
+   "updated_at": "2026-07-22T07:58:40.686+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "574155cb-df15-424b-bb48-2eb7cbb56521",
+    "username": "disturbedmirror",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJgW2sw_uPjGbkjQ9RXY9o-ak16pMDimJir4JeYoQF6MuYKHA=s96-c"
+   }
+  },
+  {
+   "id": "b5c3caf9-df2b-4629-9a35-e65f940069ed",
+   "title": "Tinker Demo PVP",
+   "class_id": 28,
+   "spec_id": 73,
+   "author_id": "247b79e3-0f93-4a8f-842e-c55c19c7f2da",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 966,
+   "featured": false,
+   "created_at": "2026-07-20T18:33:05.991506+00:00",
+   "updated_at": "2026-07-20T18:36:05.397+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "247b79e3-0f93-4a8f-842e-c55c19c7f2da",
+    "username": "mang0782",
+    "avatar_url": "https://cdn.discordapp.com/avatars/233807059919962112/42ed0f48c6ae22ba1b51a3a08846af13.png"
+   }
+  }
+ ],
+ "class": "Tinker",
+ "spec": "Mechanics",
+ "allocations": [
+  [
+   "28-87-2-0",
+   1
+  ],
+  [
+   "28-87-6-0",
+   1
+  ],
+  [
+   "28-87-7-2",
+   1
+  ],
+  [
+   "28-87-5-1",
+   2
+  ],
+  [
+   "28-87-3-1",
+   2
+  ],
+  [
+   "28-87-4-2",
+   1
+  ],
+  [
+   "28-87-1-2",
+   1
+  ],
+  [
+   "28-87-4-3",
+   2
+  ],
+  [
+   "28-87-6-3",
+   1
+  ],
+  [
+   "28-87-5-4",
+   1
+  ],
+  [
+   "28-87-7-4a",
+   1
+  ],
+  [
+   "28-87-8-5",
+   1
+  ],
+  [
+   "28-87-7-6",
+   1
+  ],
+  [
+   "28-87-6-7",
+   1
+  ],
+  [
+   "28-87-6-5",
+   1
+  ],
+  [
+   "28-87-4-5",
+   1
+  ],
+  [
+   "28-87-3-6",
+   1
+  ],
+  [
+   "28-87-2-7",
+   1
+  ],
+  [
+   "28-87-3-4",
+   1
+  ],
+  [
+   "28-87-4-7",
+   1
+  ],
+  [
+   "28-87-5-6a",
+   1
+  ],
+  [
+   "28-87-4-8",
+   1
+  ],
+  [
+   "28-87-2-9",
+   1
+  ],
+  [
+   "28-75-4-0",
+   1
+  ],
+  [
+   "28-75-2-1",
+   1
+  ],
+  [
+   "28-75-6-1",
+   2
+  ],
+  [
+   "28-75-7-2",
+   1
+  ],
+  [
+   "28-75-4-2",
+   2
+  ],
+  [
+   "28-75-3-3",
+   1
+  ],
+  [
+   "28-75-1-2",
+   1
+  ],
+  [
+   "28-75-5-3",
+   1
+  ],
+  [
+   "28-75-5-4",
+   1
+  ],
+  [
+   "28-75-4-4",
+   1
+  ],
+  [
+   "28-75-3-4b",
+   1
+  ],
+  [
+   "28-75-4-5",
+   1
+  ],
+  [
+   "28-75-6-5b",
+   1
+  ],
+  [
+   "28-75-7-4",
+   1
+  ],
+  [
+   "28-75-8-6",
+   1
+  ],
+  [
+   "28-75-7-6",
+   1
+  ],
+  [
+   "28-75-6-6",
+   1
+  ],
+  [
+   "28-75-7-7",
+   1
+  ],
+  [
+   "28-75-4-6",
+   1
+  ],
+  [
+   "28-75-2-5",
+   1
+  ],
+  [
+   "28-75-1-6a",
+   1
+  ],
+  [
+   "28-75-6-8",
+   1
+  ],
+  [
+   "28-75-6-9",
+   1
+  ],
+  [
+   "28-75-10-0",
+   1
+  ],
+  [
+   "28-75-10-2",
+   1
+  ],
+  [
+   "28-75-10-4",
+   1
+  ],
+  [
+   "28-75-10-6",
+   1
+  ],
+  [
+   "28-75-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "28-87-2-0",
+   "points": 1,
+   "name": "Rocket Boots",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 500241
+  },
+  {
+   "id": "28-87-6-0",
+   "points": 1,
+   "name": "Nanobot Reconstruction",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 801809
+  },
+  {
+   "id": "28-87-7-2",
+   "points": 1,
+   "name": "Hasty Tech",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705805
+  },
+  {
+   "id": "28-87-5-1",
+   "points": 2,
+   "name": "Refined Gunpowder",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 705781
+  },
+  {
+   "id": "28-87-3-1",
+   "points": 2,
+   "name": "Explosive Personality",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 704111
+  },
+  {
+   "id": "28-87-4-2",
+   "points": 1,
+   "name": "Clockwork Ingenuity",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 505336
+  },
+  {
+   "id": "28-87-1-2",
+   "points": 1,
+   "name": "Backup Fuel",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705810
+  },
+  {
+   "id": "28-87-4-3",
+   "points": 2,
+   "name": "Flexible Thinking",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 705825
+  },
+  {
+   "id": "28-87-6-3",
+   "points": 1,
+   "name": "Med Pack",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 800347
+  },
+  {
+   "id": "28-87-5-4",
+   "points": 1,
+   "name": "Efficiency",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705806
+  },
+  {
+   "id": "28-87-7-4a",
+   "points": 1,
+   "name": "Medical Degree",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 505327
+  },
+  {
+   "id": "28-87-8-5",
+   "points": 1,
+   "name": "Modulator",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 707832
+  },
+  {
+   "id": "28-87-7-6",
+   "points": 1,
+   "name": "Build: Alarm Beacon",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 560754
+  },
+  {
+   "id": "28-87-6-7",
+   "points": 1,
+   "name": "Mechanical Enhancements",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 506632
+  },
+  {
+   "id": "28-87-6-5",
+   "points": 1,
+   "name": "Mechaplating",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705831
+  },
+  {
+   "id": "28-87-4-5",
+   "points": 1,
+   "name": "Kinetic Shield",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 806224
+  },
+  {
+   "id": "28-87-3-6",
+   "points": 1,
+   "name": "I'm The Creator Now",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 503534
+  },
+  {
+   "id": "28-87-2-7",
+   "points": 1,
+   "name": "Ventilation",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 572367
+  },
+  {
+   "id": "28-87-3-4",
+   "points": 1,
+   "name": "Maniacal",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 706375
+  },
+  {
+   "id": "28-87-4-7",
+   "points": 1,
+   "name": "Mechanosoldier",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705827
+  },
+  {
+   "id": "28-87-5-6a",
+   "points": 1,
+   "name": "Rocket Bombardment",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 706695
+  },
+  {
+   "id": "28-87-4-8",
+   "points": 1,
+   "name": "Air Strike",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 801744
+  },
+  {
+   "id": "28-87-2-9",
+   "points": 1,
+   "name": "Deathball",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 500236
+  },
+  {
+   "id": "28-75-4-0",
+   "points": 1,
+   "name": "Makeshift Dynamite",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 504527
+  },
+  {
+   "id": "28-75-2-1",
+   "points": 1,
+   "name": "Mechsuit: Laser Beam",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 805372
+  },
+  {
+   "id": "28-75-6-1",
+   "points": 2,
+   "name": "Slam the Cogs!",
+   "maxPoints": 2,
+   "tree": "Mechanics",
+   "spellId": 520453
+  },
+  {
+   "id": "28-75-7-2",
+   "points": 1,
+   "name": "Bombs? BOMBS!",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 705789
+  },
+  {
+   "id": "28-75-4-2",
+   "points": 2,
+   "name": "Mechanical Synergy",
+   "maxPoints": 2,
+   "tree": "Mechanics",
+   "spellId": 680200
+  },
+  {
+   "id": "28-75-3-3",
+   "points": 1,
+   "name": "Mechsuit: Combustion",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 801387
+  },
+  {
+   "id": "28-75-1-2",
+   "points": 1,
+   "name": "Sprocket Loaded",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 807500
+  },
+  {
+   "id": "28-75-5-3",
+   "points": 1,
+   "name": "Fine Tuned",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 705792
+  },
+  {
+   "id": "28-75-5-4",
+   "points": 1,
+   "name": "Junker",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 705786
+  },
+  {
+   "id": "28-75-4-4",
+   "points": 1,
+   "name": "Regeneration Enhancement",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 807635
+  },
+  {
+   "id": "28-75-3-4b",
+   "points": 1,
+   "name": "Turbo Guns",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 520809
+  },
+  {
+   "id": "28-75-4-5",
+   "points": 1,
+   "name": "Scrapper",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 525039
+  },
+  {
+   "id": "28-75-6-5b",
+   "points": 1,
+   "name": "Offensive Utility",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 807388
+  },
+  {
+   "id": "28-75-7-4",
+   "points": 1,
+   "name": "Build: Scrapmaw",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 500242
+  },
+  {
+   "id": "28-75-8-6",
+   "points": 1,
+   "name": "Arclight Core",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 704449
+  },
+  {
+   "id": "28-75-7-6",
+   "points": 1,
+   "name": "Master Builder",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 704475
+  },
+  {
+   "id": "28-75-6-6",
+   "points": 1,
+   "name": "Upgrade!",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 800349
+  },
+  {
+   "id": "28-75-7-7",
+   "points": 1,
+   "name": "Turret Upgrade Z-15",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 524979
+  },
+  {
+   "id": "28-75-4-6",
+   "points": 1,
+   "name": "Mechanical Enhancements",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 706632
+  },
+  {
+   "id": "28-75-2-5",
+   "points": 1,
+   "name": "Overload",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 707403
+  },
+  {
+   "id": "28-75-1-6a",
+   "points": 1,
+   "name": "Augmechtation",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 503568
+  },
+  {
+   "id": "28-75-6-8",
+   "points": 1,
+   "name": "Overclocked Machine",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 806757
+  },
+  {
+   "id": "28-75-6-9",
+   "points": 1,
+   "name": "Clockwork Guardians",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 806758
+  },
+  {
+   "id": "28-75-10-0",
+   "points": 1,
+   "name": "Build: Mechsuit",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 92141
+  },
+  {
+   "id": "28-75-10-2",
+   "points": 1,
+   "name": "Combat Crafter",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 807499
+  },
+  {
+   "id": "28-75-10-4",
+   "points": 1,
+   "name": "Battle Engineer",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 806629
+  },
+  {
+   "id": "28-75-10-6",
+   "points": 1,
+   "name": "Turbo Upgrade!",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 707115
+  },
+  {
+   "id": "28-75-10-8",
+   "points": 1,
+   "name": "Gear Grind",
+   "maxPoints": 1,
+   "tree": "Mechanics",
+   "spellId": 680975
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Draconic Tempest",
+  "icon": "custom_t_nhance_rpg_icons_firetwist_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Draconic Tempest</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Dragon's Wrath</span> now melts enemies, increasing their chance to be hit by spells by 3% for 10&nbsp;sec.</span></td></tr></table><!--?802170:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

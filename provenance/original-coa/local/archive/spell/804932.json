@@ -1,0 +1,8 @@
+{
+  "name_enus": "Unbroken Creed",
+  "icon": "nhi_lightportal_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Unbroken Creed</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 50 Passive</span><br />Damaging abilities now grants you <span style=\"color: #ffffff;\">Unbroken Creed</span> for 15&nbsp;sec, stacking up to 3 times.<br /><br />When you use a damaging <span style=\"color: #ffffff;\">Oath Breaker</span> or <span style=\"color: #ffffff;\">Divine Fury</span> you now consume the stacks and auto attack your target an amount of times equal to your stack count.</span></td></tr></table><!--?804932:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

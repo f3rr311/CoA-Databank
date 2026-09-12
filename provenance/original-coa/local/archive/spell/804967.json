@@ -1,0 +1,8 @@
+{
+  "name_enus": "Venocannon",
+  "icon": "inv_misc_herb_marrowroot",
+  "tooltip_enus": "<table><tr><td><b>Venocannon</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Burst out of your burrow, rooting yourself in place for 1&nbsp;ms. <br /><br />While active, all spells have 15 yd of additional range, and the cast times are reduced by 40%.<br /><br />Can only be used while <span style=\"color: #ffffff;\">Skulking</span>.</span></td></tr></table><!--?804967:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

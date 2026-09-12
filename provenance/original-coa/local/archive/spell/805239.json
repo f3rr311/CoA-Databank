@@ -1,0 +1,8 @@
+{
+  "name_enus": "Burning Hatred",
+  "icon": "spell_warlock_demonicempowerment",
+  "tooltip_enus": "<table><tr><td><b>Burning Hatred</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Enrages you, instantly generating 6 <span style=\"color: #32cd32;\">Felfury</span> and causing your melee damage to leech health to you equal to 50% of the damage dealt as Chaos damage for 15&nbsp;sec.</span></td></tr></table><!--?805239:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

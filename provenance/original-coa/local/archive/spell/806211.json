@@ -1,0 +1,8 @@
+{
+  "name_enus": "Skitter Smack",
+  "icon": "ability_ghoulfrenzy",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Skitter Smack</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 30 Passive</span><br />Dealing damage from behind your target in <span style=\"color: #ffffff;\">Spider Form</span> grants 5% increased melee haste for 5 sec, stacking 3 times.</span></td></tr></table><!--?806211:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "The Big One",
+  "icon": "inv_weapon_rifle_36",
+  "tooltip_enus": "<table><tr><td><b>The Big One</b><br />12% of base mana<br /><table width=\"100%\"><tr><td>2.5 sec cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Guns<br /><span class=\"q\">Summon a cannon that fires all of your <span style=\"color: #ffffff;\">Standard Ammunition</span> to deal 100% Ranged Weapon Damage to an enemy, plus an additional 0% for each stack consumed.<br /><br />Current Damage: 8 to 10%.</span></td></tr></table><!--?805327:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

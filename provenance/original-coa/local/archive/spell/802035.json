@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Atomic Split",
+  "icon": "spell_magic_managain",
+  "tooltip_enus": "<table><tr><td><b>Improved Atomic Split</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the duration of your <span style=\"color: #ffffff;\">Atomic Split</span> ability by 10 seconds (or 2 seconds in combat), and increases the speed granted by the spell by 50%.</span></td></tr></table><!--?802035:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

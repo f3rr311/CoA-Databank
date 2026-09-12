@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mycelial Replenishment",
+  "icon": "spell_fire_burnoutgreen",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Mycelial Replenishment</b></td><th><b class=\"q0\">Energize</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the bonus to periodic healing received applied by <span style=\"color: #ffffff;\">Ritual Healing</span> by 30%.</span></td></tr></table><!--?706022:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

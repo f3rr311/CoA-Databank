@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wildaxe",
+  "icon": "inv_axe_1h_draenorcrafted_d_01_a_horde",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Wildaxe</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>5% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Strike an enemy, dealing 40+0+AP*0.55 Physical damage with both weapons, and causing a special effect based on your active pet.<br /><br />Dealing direct Physical damage reduces the remaining cooldown of this ability by 2 sec.</span></td></tr></table><!--?806551:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blade of Yogg-Saron",
+  "icon": "sha_spell_warlock_demonsoul_nightborne",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blade of Yogg-Saron</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Blade of the Empire</span> now applies <span style=\"color: #ffffff;\">Black Blood</span> to allies, healing for 10% of the damage dealt plus 1+1.0 Points Per Level every 3 sec for until cancelled, stacking 1 times, and restores 0% missing mana.<br /><br />At 5 stacks, the target will be instantly healed for 33+2.2 Points Per Level+SP*.5.</span></td></tr></table><!--?500112:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

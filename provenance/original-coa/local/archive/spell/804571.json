@@ -1,0 +1,8 @@
+{
+  "name_enus": "Transcendent Guardian",
+  "icon": "ability_bastion_priest",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Transcendent Guardian</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Charging to an ally with <span style=\"color: #ffffff;\">Temple Guardian</span> now has a 40% chance to refresh a charge.</span></td></tr></table><!--?804571:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

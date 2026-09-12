@@ -1,0 +1,8 @@
+{
+  "name_enus": "Boon of the Hawk",
+  "icon": "spell_hunter_aspectoftheironhawk",
+  "tooltip_enus": "<table><tr><td><b>Boon of the Hawk</b><br />14% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your spell haste by 12%, reduces the cost of spells and abilities by 10%, and causes you to regenerate 1% of maximum health every 5 sec.<br /><br />Only 1 <span style=\"color: #ffffff;\">Boon</span> may be active at a time.</span></td></tr></table><!--?500943:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

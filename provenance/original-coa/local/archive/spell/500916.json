@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ripper",
+  "icon": "custom_warriorskill_28_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ripper</b></td><th><b class=\"q0\">Rank 1 DEPRECATED</b></th></tr></table>40 Energy<br />Instant</td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\">Strike an enemy for Weapon Damage plus 1 with both weapons and grants <span style=\"color: #ffffff;\">Ripping Frenzy</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/custom_warriorskill_28_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=560931'> Ripping Frenzy </a> <br />\n                            <span> Melee attack speed increased by 2%, stacking 8 times, for 8&nbsp;sec.<br /><br />Upon reaching 8 stacks, <span style=\"color: #FFFFFF;\">Ripper</span> will go on cooldown for 20 seconds.</span><br /></span></td></tr></table><!--?500916:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Infinite - Level 30 Passive",
+  "icon": "spell_frost_manaburn",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Infinite - Level 30 Passive</b></td><th><b class=\"q0\">Specialization</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 30 Passive</span><br />Increases the tick rate of <span style=\"color: #ffffff;\">Decomposition</span>, <span style=\"color: #ffffff;\">Accelerated Recovery</span> and <span style=\"color: #ffffff;\">Chronobeam</span> by 3%.</span></td></tr></table><!--?706058:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,2929 @@
+{
+ "class": {
+  "id": 14,
+  "name": "Felsworn",
+  "slug": "felsworn",
+  "color": "#A330C9"
+ },
+ "specs": [
+  {
+   "id": 37,
+   "name": "Slayer",
+   "tabId": 37
+  },
+  {
+   "id": 38,
+   "name": "Infernal",
+   "tabId": 38
+  },
+  {
+   "id": 18,
+   "name": "Tyrant",
+   "tabId": 18
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 158,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Felsworn (class tree)",
+   "nodeCount": 37,
+   "nodes": [
+    {
+     "id": "14-87-2-0",
+     "name": "Annihilation",
+     "x": 2,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_boss_lordanthricystgreen",
+     "spellId": 803904,
+     "description": "Gorge on fel energy, guaranteeing your next direct instance of damage to critically strike, but causing it to consume 5% of your maximum health. Lasts for 5 attacks or 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "14-87-4-0",
+     "name": "Manaburn",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_manaburn_fel",
+     "spellId": 805248,
+     "description": "Burn an enemy's mana equal to 200% of your Stamina.Deals damage equal to the mana drained.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "14-87-6-0",
+     "name": "Hateforged Barrier",
+     "x": 6,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_fire_felfireward",
+     "spellId": 705129,
+     "description": "Manifest a barrier of pure hatred, absorbing 177 + 200% Stamina damage, scaling with your Stamina, for 30 seconds.While the barrier holds, you regenerate 2% of your maximum health every 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "14-87-2-1",
+     "name": "Cruelty",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_warlock_imp",
+     "spellId": 705109,
+     "description": "Increases your critical strike chance by 2% and an additional 3% against Demons.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-2-0"
+     ]
+    },
+    {
+     "id": "14-87-4-1",
+     "name": "Demonborn",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_unholyswing_border",
+     "spellId": 705102,
+     "description": "Increases your Energy regeneration by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-4-0",
+      "14-87-2-0",
+      "14-87-6-0"
+     ]
+    },
+    {
+     "id": "14-87-6-1",
+     "name": "Demonic Evasion",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_monkspecialattack_dodgenightelf",
+     "spellId": 705108,
+     "description": "Increases your chance to dodge by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-6-0"
+     ]
+    },
+    {
+     "id": "14-87-1-2",
+     "name": "Focused Hatred",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_leather_raiddemonhuntermythic_q_02helm",
+     "spellId": 704606,
+     "description": "Direct magical critical strikes now generate 5 Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-2-1"
+     ]
+    },
+    {
+     "id": "14-87-4-2",
+     "name": "Felwracked",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_demoniccircleteleport",
+     "spellId": 704374,
+     "description": "Every 3rd Twin Slice or Fel Fireball within 15 seconds now generates 1 additional Felfury.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-4-1"
+     ]
+    },
+    {
+     "id": "14-87-7-2",
+     "name": "Infernal Armor",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_boss_argus_felreaver",
+     "spellId": 300467,
+     "description": "Reduces the cooldown of your Hateforged Barrier by -10 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-6-1"
+     ]
+    },
+    {
+     "id": "14-87-2-3",
+     "name": "Whispers of the Pit",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_bossmannoroth_mannorothsgaze",
+     "spellId": 805235,
+     "description": "Unleash fel energy upon enemies at target location, fearing them and slowing their movement speed by -80% for 8 seconds.Damage caused may interrupt the effect.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-87-4-2",
+      "14-87-1-2"
+     ]
+    },
+    {
+     "id": "14-87-4-3",
+     "name": "Embracing Evil",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_castercloak_fel",
+     "spellId": 800352,
+     "description": "Increases the duration and reduces the Energy cost of Banes by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-4-2"
+     ]
+    },
+    {
+     "id": "14-87-6-3",
+     "name": "Skull of Gul'dan",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_offhand_1h_artifactskulloferedar_d_03",
+     "spellId": 800225,
+     "description": "Consume the essence of the skull of Gul'dan, increasing your maximum health and Energy by 25% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-87-7-2",
+      "14-87-4-2"
+     ]
+    },
+    {
+     "id": "14-87-1-4",
+     "name": "Felgorged",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_demonhunter_feldevastation",
+     "spellId": 560573,
+     "description": "Reduces the Energy cost of Cripple and Consume Magic by -10.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-2-3"
+     ]
+    },
+    {
+     "id": "14-87-3-4",
+     "name": "Felheart",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_dhmount_felsaber",
+     "spellId": 301287,
+     "description": "Each Felfury active now increases your haste by 1%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-2-3",
+      "14-87-4-3"
+     ]
+    },
+    {
+     "id": "14-87-5-4",
+     "name": "Doomstride",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_demonhunter_doublejump",
+     "spellId": 804613,
+     "description": "Using Chaos Rush twice in a row now refreshes a charge of Chaos Rush.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-4-3",
+      "14-87-6-3"
+     ]
+    },
+    {
+     "id": "14-87-7-4",
+     "name": "Demonic Embrace",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_mage_worldinflamesgreen",
+     "spellId": 520257,
+     "description": "Casting Inner Demon with at least 6 Felfury now restores 50 Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-6-3"
+     ]
+    },
+    {
+     "id": "14-87-1-5",
+     "name": "Illidan's Guile",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_qirajicrystal_03",
+     "spellId": 806109,
+     "description": "Gorge on fel energy, becoming immune to all physical attacks and spells for 8 seconds, but during that time you cannot attack, move or cast spells.At the end of the duration, your next Chaos Rush within 5 seconds now dashes an additional 20 yds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-87-1-4",
+      "14-87-3-4"
+     ]
+    },
+    {
+     "id": "14-87-3-5",
+     "name": "Dark Teachings",
+     "x": 3,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_book2motif_illidan",
+     "spellId": 520251,
+     "description": "Increases the effectiveness of your Intuitions by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-3-4"
+     ]
+    },
+    {
+     "id": "14-87-5-5",
+     "name": "Legion March",
+     "x": 5,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_warlock_rueeardenteverte",
+     "spellId": 805244,
+     "description": "Increases the range of Chaos Rush by 3 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-5-4"
+     ]
+    },
+    {
+     "id": "14-87-7-5",
+     "name": "Felbane",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_warlock42_border",
+     "spellId": 525001,
+     "description": "Curse an enemy, causing the next spell they cast within 4 seconds to be reflected onto them.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-87-5-4",
+      "14-87-7-4"
+     ]
+    },
+    {
+     "id": "14-87-0-6",
+     "name": "Warden's End",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_fabric_felcloth_ebon",
+     "spellId": 705125,
+     "description": "Reduces the cooldown of Mana Burn and Illidan's Guile by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-1-5"
+     ]
+    },
+    {
+     "id": "14-87-2-6",
+     "name": "Cunning",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_boss_hellfire_felreaver",
+     "spellId": 300465,
+     "description": "Reduces the duration of movement impairing effects on you by -20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-3-5",
+      "14-87-1-5"
+     ]
+    },
+    {
+     "id": "14-87-6-6",
+     "name": "Pact Hunter",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_demonhunter_metamorphasistank",
+     "spellId": 704612,
+     "description": "Increases the effectiveness of your Pacts by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-5-5",
+      "14-87-7-5"
+     ]
+    },
+    {
+     "id": "14-87-8-6a",
+     "name": "Suffering",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_hunter_negate",
+     "spellId": 807430,
+     "description": "Increases the duration of Skull of Gul'dan by 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-7-5"
+     ]
+    },
+    {
+     "id": "14-87-8-6b",
+     "name": "Gul'dan's Gift",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_staff_2h_guldan_d_01",
+     "spellId": 804609,
+     "description": "Increases the effectiveness of your Skull of Gul'dan by 50%, but its cooldown is increased by 30 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-87-0-7",
+     "name": "Elemental Bane",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_fel_elementaldevastation",
+     "spellId": 704607,
+     "description": "Increases your critical damage by 10% and additionally increases your critical strike chance by 15% while fighting Elementals.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-0-6"
+     ]
+    },
+    {
+     "id": "14-87-2-7",
+     "name": "Magic Fiend",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_darksummoning",
+     "spellId": 704613,
+     "description": "Increases the amount of beneficial magic effects stolen by your Consume Magic by 1.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-2-6"
+     ]
+    },
+    {
+     "id": "14-87-4-7",
+     "name": "Fel Communion",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warlock_moltencoregreen",
+     "spellId": 705105,
+     "description": "Increases your maximum Energy by 30.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-6-6",
+      "14-87-2-6"
+     ]
+    },
+    {
+     "id": "14-87-6-7a",
+     "name": "Felguard",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_explore_argus",
+     "spellId": 704360,
+     "description": "Your Chaos Rush now reduces all damage taken by -3% for 5 seconds, stacking 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-6-6"
+     ]
+    },
+    {
+     "id": "14-87-6-7b",
+     "name": "Felstrider",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_hunter_onewithnature",
+     "spellId": 707513,
+     "description": "Your Chaos Rush now increases your Energy regeneration by 10% for 5 seconds, stacking 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-87-8-7",
+     "name": "Armaments of the Legion",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_plate_helmet_eredarargus_d_01",
+     "spellId": 706266,
+     "description": "Reduces your chance to be hit by spells by -2% and increases the absorption value of Hateforged Barrier by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-8-6a",
+      "14-87-8-6b"
+     ]
+    },
+    {
+     "id": "14-87-1-8",
+     "name": "Warlock Training",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_orc_09",
+     "spellId": 560641,
+     "description": "Cripple now causes the enemy target to be unable to critically strike for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-2-7",
+      "14-87-0-7"
+     ]
+    },
+    {
+     "id": "14-87-4-8",
+     "name": "Chaotic",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_chaosfire_border",
+     "spellId": 681376,
+     "description": "Dealing damage now has an 8% chance to increase your damage by 3% for 8 seconds, stacking 3 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-6-7a",
+      "14-87-4-7",
+      "14-87-2-7",
+      "14-87-6-7b"
+     ]
+    },
+    {
+     "id": "14-87-7-8",
+     "name": "Anti-Magic",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_shadow_antimagicshell",
+     "spellId": 560822,
+     "description": "When Hateforged Barrier is removed from you, you now reduce -10% of all Magic damage taken for 8 seconds.In addition, Hateforged Barrier now heals for an additional 2% of your maximum health each tick.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-6-7a",
+      "14-87-8-7",
+      "14-87-6-7b"
+     ]
+    },
+    {
+     "id": "14-87-2-9",
+     "name": "Reckoning",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_fire_felrainoffire",
+     "spellId": 802058,
+     "description": "For 10 seconds, your Fel Fireball is free of cost, instant cast, and strikes up to 4 targets.For the duration, your falling speed is slowed and damage dealt by your Fel Fireball increases your damage dealt by 4% for 15 seconds, stacking 4 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-87-4-8",
+      "14-87-1-8"
+     ]
+    },
+    {
+     "id": "14-87-4-9",
+     "name": "Mark of Chaos",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "70_inscription_glyph_demonhunter_minor",
+     "spellId": 524947,
+     "description": "Using Chaos Rush increases the next instance of direct spell or ability damage within 5 seconds by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-4-8"
+     ]
+    },
+    {
+     "id": "14-87-6-9",
+     "name": "Illidari Barrier",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_vehicle_shellshieldgenerator_green",
+     "spellId": 300468,
+     "description": "Casting Hateforged Barrier now also creates a damage absorption shield on all nearby allies within 15 yds, absorbing 328 + 100% Stamina + 20% SP + 8% AP damage for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-87-4-8",
+      "14-87-7-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 18,
+   "name": "Tyrant",
+   "nodeCount": 43,
+   "nodes": [
+    {
+     "id": "14-18-4-0",
+     "name": "Carve",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_demonhunter_infernalstrike2",
+     "spellId": 800206,
+     "description": "Consumes 2 FelfuryCharge up a powerful attack over 2.5 seconds. Upon ending the channel, slash in front of you, dealing increased Weapon Damage with both weapons based on how long you channel, dealing less damage with each target struck. Inner Demon: Reduces affected enemies melee and ranged haste by -20% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "14-18-10-0",
+     "name": "Burning Commander",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_demonhunter_demonictrample",
+     "spellId": 92089,
+     "description": "Level 10 PassiveAllows you to wield a Two-Handed Axe, Mace, or Sword in each hand and grants you additional Armor and magic resistance based on your dodge rating, but reducing your damage dealt by -10%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-18-4-1",
+     "name": "Demonic Will",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_demonhunter_infernalchains",
+     "spellId": 800209,
+     "description": "Generates 1 FelfuryStrengthen your will, reducing Physical damage taken by -30% for 10 seconds.While active, direct damaging abilities heal you for 3% of your maximum health. Can only occur once every 0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-18-4-0"
+     ]
+    },
+    {
+     "id": "14-18-2-2a",
+     "name": "Annihilan Rituals",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "mannoroth",
+     "spellId": 520831,
+     "description": "Fully channeling Carve now refunds 1 Felfury.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-4-1"
+     ]
+    },
+    {
+     "id": "14-18-2-2b",
+     "name": "Quick Carving",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "inv_polearm_2h_fellord",
+     "spellId": 520254,
+     "description": "Carve now channels 1 sec faster.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-18-4-2",
+     "name": "Nether Disciple",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "inv_felhound4_custom",
+     "spellId": 560576,
+     "description": "Increases your dodge and parry chance by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-4-1"
+     ]
+    },
+    {
+     "id": "14-18-6-2",
+     "name": "Demon Hide",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_racial_demonbane",
+     "spellId": 520252,
+     "description": "While Inner Demon is active, your Armor contribution from cloth and leather items is increased by 120%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-4-1"
+     ]
+    },
+    {
+     "id": "14-18-10-2",
+     "name": "Hulking Demon",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_warlock_avoidance",
+     "spellId": 805246,
+     "description": "Level 20 PassiveIncreases your attack power by 30% of your Stamina and your hit rating by 6% of your Agility.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "14-18-10-0"
+     ]
+    },
+    {
+     "id": "14-18-1-3",
+     "name": "Felrend",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_demonhunter_chaosstrike",
+     "spellId": 800210,
+     "description": "Generates 1 FelfuryErupt in a whirlwind of felfury, striking all enemies within 6 yds with both weapons, dealing Weapon Damage plus 5.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-18-2-2a",
+      "14-18-2-2b"
+     ]
+    },
+    {
+     "id": "14-18-4-3",
+     "name": "Pure Hatred",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_demonhunter_metamorphasistank",
+     "spellId": 803478,
+     "description": "Your Hateforged Barrier now also scales with your dodge rating.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-4-2"
+     ]
+    },
+    {
+     "id": "14-18-7-3",
+     "name": "Burning Legionnaire",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "kiljaedan",
+     "spellId": 520885,
+     "description": "Reduces the Energy cost of Twin Slice and Sunder by -10.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-6-2"
+     ]
+    },
+    {
+     "id": "14-18-0-4",
+     "name": "Outland Slaver",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_felshieldemitter",
+     "spellId": 705123,
+     "description": "Reduces the cost of your Felrend and Fel Fireball by -3 and increases their damage dealt by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-1-3"
+     ]
+    },
+    {
+     "id": "14-18-2-4a",
+     "name": "Unholy Endurance",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_demonhunter_doublejump",
+     "spellId": 300466,
+     "description": "Increases the damage and threat generated from Carve by 15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-1-3",
+      "14-18-4-3"
+     ]
+    },
+    {
+     "id": "14-18-2-4b",
+     "name": "Battle Finesse",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "warlock_curse_weakness_aura",
+     "spellId": 704611,
+     "description": "While channeling Carve, your chance to dodge is now increased by 1% based on how long you channel, up to a maximum of 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-18-4-4",
+     "name": "Felspill",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "spell_yorsahj_bloodboil_greenoil",
+     "spellId": 706267,
+     "description": "Generating Felfury now leeches 10% AP health from 3 nearby enemies within 6 yds, scaling with your attack power.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-4-3"
+     ]
+    },
+    {
+     "id": "14-18-6-4",
+     "name": "Infernal Constitution",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_demonhunter_glide",
+     "spellId": 805256,
+     "description": "Increases your maximum health by 10% and increases your off-hand weapon damage by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-4-3",
+      "14-18-7-3"
+     ]
+    },
+    {
+     "id": "14-18-8-4a",
+     "name": "Abyssal Conditioning",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "spell_warlock_summonabyssal",
+     "spellId": 807431,
+     "description": "Casting Felfury spenders now increases your Energy regeneration by 5% for 10 seconds, stacking up to 4 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-7-3"
+     ]
+    },
+    {
+     "id": "14-18-8-4b",
+     "name": "Illidari Training",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "spell_fire_elementaldevastation",
+     "spellId": 805249,
+     "description": "Dodging an attack now generates 3 Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-18-10-4",
+     "name": "Hellfire Carver",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "inv_felhound4_custom",
+     "spellId": 707444,
+     "description": "Level 30 PassiveCasting Carve now makes your next Fel Fireball instant cast and causes it to strike 1 additional enemy near the primary target based on how long you channeled, up to a maximum of 10 enemies, dealing less damage with each target struck.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "14-18-10-2"
+     ]
+    },
+    {
+     "id": "14-18-1-5",
+     "name": "Vengeance",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "inv_polearm_2h_fellord_2",
+     "spellId": 520817,
+     "description": "Your Twin Slice and Felrend now have a 60% chance to generate 1 additional Felfury.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-0-4",
+      "14-18-2-4a",
+      "14-18-2-4b"
+     ]
+    },
+    {
+     "id": "14-18-2-5",
+     "name": "Bulwark of Azzinoth",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "inv_armor_shield_naxxramas_d_01",
+     "spellId": 705122,
+     "description": "Inner Demon now also reduces your damage taken by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-4-4",
+      "14-18-2-4a",
+      "14-18-2-4b"
+     ]
+    },
+    {
+     "id": "14-18-4-5",
+     "name": "Burning Hatred",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "spell_warlock_demonicempowerment",
+     "spellId": 805239,
+     "description": "Enrages you, instantly generating 6 Felfury and causing your melee damage to leech health to you equal to 50% of the damage dealt as Chaos damage for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-18-4-4"
+     ]
+    },
+    {
+     "id": "14-18-6-5",
+     "name": "Betrayer",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "nhi_unholy_smile_border",
+     "spellId": 300476,
+     "description": "Dodging attacks causes 40% off-hand Weapon Damage to attackers and enrages your party and raid members within 20 yds, increasing their critical strike chance by 2% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-4-4",
+      "14-18-6-4"
+     ]
+    },
+    {
+     "id": "14-18-7-5",
+     "name": "Tyrant's Gaze",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "inv_summondemonictyrant",
+     "spellId": 805240,
+     "description": "Set your fiery gaze upon an enemy and all enemies nearby, intimidating them and causing them to combust, dealing 220 + 35% AP Shadowflame Damage to them.Damaging an enemy in this way heals you for 146 + 50% AP and generates 1 Felfury.Only usable on enemies below 35% health.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-18-8-4a",
+      "14-18-6-4",
+      "14-18-8-4b"
+     ]
+    },
+    {
+     "id": "14-18-0-6",
+     "name": "Straight to the Nether",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "spell_shadow_demoniccirclesummon",
+     "spellId": 560503,
+     "description": "While Inner Demon is active, Carve and Sargeron Smite now leeches 20% of the damage dealt from the initial strike as Shadowflame Damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-1-5"
+     ]
+    },
+    {
+     "id": "14-18-2-6a",
+     "name": "Fel Torpedo",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "custom_t_felspikes_border",
+     "spellId": 520853,
+     "description": "Transforms your Chaos Rush into Fel Torpedo.Fel TorpedoGenerates 1 FelfuryTorpedo forward in the direction you're running and deal 195 + 35% AP Shadowflame Damage to enemies in your path.Generates a large amount of threat. Scales with modifiers to Chaos Rush",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-18-1-5",
+      "14-18-2-5"
+     ]
+    },
+    {
+     "id": "14-18-2-6b",
+     "name": "Illidan's Favor",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "achievement_boss_illidan",
+     "spellId": 520592,
+     "description": "Removes the Energy cost of your Felbane and Manaburn and your Manaburn now strikes 4 additional enemies near the primary target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-18-4-6",
+     "name": "Nether Strength",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "_darkhand_fel",
+     "spellId": 520240,
+     "description": "Casting Felfury spenders now reduces the cooldown of Burning Hatred, Hateforged Barrier, and Demonic Will by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-4-5"
+     ]
+    },
+    {
+     "id": "14-18-6-6a",
+     "name": "Demonic Blood",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_demonhunter_brandofthehunt",
+     "spellId": 807438,
+     "description": "Generating Felfury now extends the duration of Inner Demon by 0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-7-5",
+      "14-18-6-5"
+     ]
+    },
+    {
+     "id": "14-18-6-6b",
+     "name": "Demonic Fortitude",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_demonhunter_reversemagic",
+     "spellId": 805245,
+     "description": "While Demonic Will or Hateforged Barrier are active, all damage taken or avoided now has a 20% chance to generate 1 Felfury.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-18-8-6",
+     "name": "Expose",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "_manaburn_fel",
+     "spellId": 300474,
+     "description": "Direct Fire and Shadow spell damage dealt now applies Expose to enemies.Expose (Proc)Damage taken from the Felsworn increased by 10% and the critical strike chance of all allies against this target is increased by 3% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-7-5"
+     ]
+    },
+    {
+     "id": "14-18-10-6",
+     "name": "Felblade",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "_monkspecialattack_dodgebloodelf",
+     "spellId": 574146,
+     "description": "Level 40 PassiveDamage dealt by Fel Fireball, Sargeron Smite, and Twin Slice now additionally scales with your Agility.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "14-18-10-4"
+     ]
+    },
+    {
+     "id": "14-18-1-7",
+     "name": "Doomscarring",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "inv_shield_mogu_c_01",
+     "spellId": 685321,
+     "description": "Your melee critical strikes now deal an additional 1 + 30% AP Physical damage and scars enemies for 12 seconds, increasing your allies' attack power against them by 45 + 15% Agility.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-2-6a",
+      "14-18-0-6",
+      "14-18-2-6b"
+     ]
+    },
+    {
+     "id": "14-18-4-7a",
+     "name": "Fel Daze",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "spell_shadow_deathcoil",
+     "spellId": 705131,
+     "description": "Increases the critical strike chance of Fel Fireball by 10% and it's damage dealt now reduces the enemy's chance to hit by -3% for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-4-6",
+      "14-18-2-6a",
+      "14-18-6-6a",
+      "14-18-2-6b",
+      "14-18-6-6b"
+     ]
+    },
+    {
+     "id": "14-18-4-7b",
+     "name": "Dark Lord",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "inv_helm_leather_demonhunter_b_01gold",
+     "spellId": 300470,
+     "description": "While above 75% health, your damage taken is reduced by -5% and damage dealt is increased by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-18-7-7",
+     "name": "Eye of the Tyrant",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "inv_misc_fel_tainted_cache",
+     "spellId": 560549,
+     "description": "Grant 10% increased melee and ranged haste to party and raid members within 100 yds. Does not stack with similar effects.In addition, your attack power is increased by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-8-6",
+      "14-18-6-6a",
+      "14-18-6-6b"
+     ]
+    },
+    {
+     "id": "14-18-2-8",
+     "name": "Vengeance Is Mine",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_demonhunter_brandofthehunt",
+     "spellId": 804822,
+     "description": "Dodging or parrying an attack now gives you a 10% chance to make your next 10 instances of damage with Twin Slice deal 30% increased damage and generate 1 Felfury.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-1-7",
+      "14-18-4-7a",
+      "14-18-4-7b"
+     ]
+    },
+    {
+     "id": "14-18-4-8",
+     "name": "Mannoroth's Rage",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "spell_fire_felfirenova",
+     "spellId": 805255,
+     "description": "Reduces the cooldown of Burning Hatred by -60 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-4-7a",
+      "14-18-4-7b"
+     ]
+    },
+    {
+     "id": "14-18-6-8",
+     "name": "Infernal Whipcrack",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_warlock_whiplash",
+     "spellId": 805243,
+     "description": "Enrage up to 8 allies within 20 yds, reducing their damage taken by -15% and increasing their haste by 10% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-18-4-7a",
+      "14-18-7-7",
+      "14-18-4-7b"
+     ]
+    },
+    {
+     "id": "14-18-10-8",
+     "name": "Fel Monstrosity",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "achievement_boss_hellfire_felreaver",
+     "spellId": 500067,
+     "description": "Level 50 PassiveIncreases your Stamina by 25% and size by 10%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "14-18-10-6"
+     ]
+    },
+    {
+     "id": "14-18-2-9",
+     "name": "Tyrannical Resolve",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "ability_demonhunter_immolation",
+     "spellId": 804823,
+     "description": "Taunt nearby enemies for 4 seconds and ignore -50% of all damage taken for 30 seconds, up to 100% of your maximum health.When this ends, you unleash a Felfire Blast that leeches health from nearby enemies based on how many times you took damage with the effect active.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-18-2-8"
+     ]
+    },
+    {
+     "id": "14-18-4-9",
+     "name": "Grommash's Folly",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "_orc_06",
+     "spellId": 805236,
+     "description": "While Inner Demon is active, your melee haste is now increased by 15% and you now heal equal to 50% of all damage dealt by critical strikes with auto attacks.In addition, critical strikes with Carve deal 5% increased damage, increasing up to 60% with each strike based on how long you channel.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-2-8",
+      "14-18-4-8",
+      "14-18-6-8"
+     ]
+    },
+    {
+     "id": "14-18-6-9",
+     "name": "Taskmaster's Army",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 18,
+     "icon": "achievement_boss_hellfire_fellord",
+     "spellId": 800220,
+     "description": "Reduces the cooldown of Infernal Whipcrack by -30 sec and it now affects all allies and its radius is increased by 15 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-18-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 37,
+   "name": "Slayer",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "14-37-4-0",
+     "name": "Azzinoth's Assault",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "ability_creature_felsunder",
+     "spellId": 801904,
+     "description": "Consumes 2 FelfuryStrike an enemy for Weapon Damage plus 15 + 10% AP with both weapons, additionally scaling with your attack power.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "14-37-10-0",
+     "name": "Dancing Blades",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_sword_1h_artifactfelomelorn_d_03dual",
+     "spellId": 92087,
+     "description": "Level 10 PassiveCritical strikes with melee abilities now trigger Dancing Blades, dealing off-hand Weapon Damage to up to 5 nearby enemies.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-37-4-1",
+     "name": "Slice & Dice",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_glaive_1h_demonhunter_a_01",
+     "spellId": 704361,
+     "description": "Increases your off-hand weapon damage by 25% and reduces the Energy cost of Twin Slice by -5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-4-0"
+     ]
+    },
+    {
+     "id": "14-37-2-2",
+     "name": "Annihilan Strike",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_glaive_1h_npc_d_02",
+     "spellId": 801903,
+     "description": "Generates 2 FelfuryUnleash a devastating attack, dealing 145% Weapon Damage to your target with both weapons.This ability is guaranteed to critically strike against enemies above 75% health.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-37-4-1"
+     ]
+    },
+    {
+     "id": "14-37-6-2",
+     "name": "Immolation Aura",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "spell_fire_felimmolation",
+     "spellId": 800207,
+     "description": "Wreathe yourself in fire for up to 1 minute, dealing 23 + 30% fire SP + 23% AP Fire Damage to nearby enemies every 3 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-37-4-1"
+     ]
+    },
+    {
+     "id": "14-37-10-2",
+     "name": "True Self",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "azgalor_border",
+     "spellId": 574140,
+     "description": "Level 20 PassiveYour Inner Demon now grants 10% increased dodge chance and critical damage dealt while active.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "14-37-10-0"
+     ]
+    },
+    {
+     "id": "14-37-1-3",
+     "name": "Twin Fury",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "spell_fire_felcano",
+     "spellId": 801892,
+     "description": "Critically striking with Twin Slice or Annihilan Strike now generates an additional 1 Felfury.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-2-2"
+     ]
+    },
+    {
+     "id": "14-37-4-3",
+     "name": "Azzinoth's Rage",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "achievement_boss_omartheunscarred_01",
+     "spellId": 804611,
+     "description": "Increases your Armor penetration by 10% and your expertise by 4.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-6-2",
+      "14-37-2-2"
+     ]
+    },
+    {
+     "id": "14-37-7-3",
+     "name": "Chaos Soldier",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "ability_demonhunter_felblade",
+     "spellId": 560057,
+     "description": "Increases the critical strike chance of Azzinoth's Assault and Sargeron Smite by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-6-2"
+     ]
+    },
+    {
+     "id": "14-37-1-4",
+     "name": "Legionfall",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "ability_demonhunter_vengefulretreat",
+     "spellId": 801899,
+     "description": "Melee ability damage now has a 15% chance to reset the cooldown of Annihilan Strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-1-3"
+     ]
+    },
+    {
+     "id": "14-37-3-4a",
+     "name": "Scars of Suffering",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_sword_1h_artifactfelomelorn_d_03",
+     "spellId": 570158,
+     "description": "Casting Azzinoth's Assault now scars the enemy, increasing your allies' attack power against them by 15% Agility for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-4-3"
+     ]
+    },
+    {
+     "id": "14-37-3-4b",
+     "name": "Fel Blades",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_weapon_shortblade_62",
+     "spellId": 300484,
+     "description": "Damage dealt by Azzinoth's Assault now reduces the enemy's armor by -4% for 10 seconds, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-37-5-4",
+     "name": "Pit Lord's Strength",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "achievement_boss_hellfire_mannorothreanimated",
+     "spellId": 802076,
+     "description": "Your Annihilation now affects 1 additional attack.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-4-3"
+     ]
+    },
+    {
+     "id": "14-37-7-4",
+     "name": "Burning Rage",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "spell_shadow_summonimp",
+     "spellId": 707907,
+     "description": "Increases the damage and reduces the cost of Sunder and Immolation Aura by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-7-3"
+     ]
+    },
+    {
+     "id": "14-37-10-4",
+     "name": "Unbound",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_potion_19",
+     "spellId": 574153,
+     "description": "Level 30 PassiveIncreases your dodge by 15% of your Agility and your hit rating by 6% of your Agility.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "14-37-10-2"
+     ]
+    },
+    {
+     "id": "14-37-0-5",
+     "name": "Spite",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "ability_warlock_backdraftgreen",
+     "spellId": 800188,
+     "description": "Increases your Agility by 8% and dodge chance by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-1-4"
+     ]
+    },
+    {
+     "id": "14-37-2-5",
+     "name": "Felhoof Charge",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "ability_demonhunter_felrush",
+     "spellId": 800204,
+     "description": "Generates 1 FelfuryCharge an enemy, dealing 60 + 28.5% AP Physical damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-37-1-4",
+      "14-37-3-4a",
+      "14-37-3-4b"
+     ]
+    },
+    {
+     "id": "14-37-4-5",
+     "name": "You Cheat, Gul'dan!",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "ability_demonhunter_metamorphasistank",
+     "spellId": 705127,
+     "description": "Increases your critical damage by 50% against enemies above 75% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-5-4",
+      "14-37-3-4a",
+      "14-37-3-4b"
+     ]
+    },
+    {
+     "id": "14-37-6-5a",
+     "name": "Nether Champion",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "ability_mage_worldinflamesgreen",
+     "spellId": 705145,
+     "description": "Triggering Dancing Blades now increases the damage of next Sargeron Smite by 8% for 20 seconds, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-5-4",
+      "14-37-7-4"
+     ]
+    },
+    {
+     "id": "14-37-6-5b",
+     "name": "Demonic Machinations",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_polearm_2h_fellord_03",
+     "spellId": 806111,
+     "description": "Critical strikes with Sargeron Smite now cause the target to bleed for an additional 50% of the damage dealt over 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-37-8-5",
+     "name": "Consumed By Fel",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "custom_t_felspikes_border",
+     "spellId": 300485,
+     "description": "Increases the tick rate of Immolation Aura by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-7-4"
+     ]
+    },
+    {
+     "id": "14-37-1-6",
+     "name": "A Thousand Cuts",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_glaive_1h_battledungeon_c_02",
+     "spellId": 704610,
+     "description": "Azzinoth's Assault now has a 30% chance to hit an additional time with your main-hand Weapon.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-2-5",
+      "14-37-0-5"
+     ]
+    },
+    {
+     "id": "14-37-3-6",
+     "name": "Scars of the Past",
+     "x": 3,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "spell-illidan-rosa",
+     "spellId": 520805,
+     "description": "Reduces the Energy cost of Chaos Rush by -5 and casting Chaos Rush now heals you for 81 + 20% Stamina + 33% AP.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-4-5"
+     ]
+    },
+    {
+     "id": "14-37-5-6",
+     "name": "Blighted Strikes",
+     "x": 5,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "skill_icon_skill104_border",
+     "spellId": 570077,
+     "description": "While Inner Demon is active your melee attacks reduce the target's healing received by -20% for 8 seconds, stacking 2 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-4-5"
+     ]
+    },
+    {
+     "id": "14-37-7-6",
+     "name": "Fury Unleashed",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_glaive_1h_artifactaldrochi_d_03dual",
+     "spellId": 555738,
+     "description": "Spin your glaives for 5 seconds, increasing movement speed by 30% and dealing 200% Weapon Damage every 1 sec with both weapons to all nearby enemies.You are immune to movement impairing and loss of control effects.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-37-6-5a",
+      "14-37-8-5",
+      "14-37-6-5b"
+     ]
+    },
+    {
+     "id": "14-37-10-6",
+     "name": "Chaotic",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "ability_demonhunter_immolation",
+     "spellId": 574143,
+     "description": "Level 40 PassiveWhile Inner Demon is active, direct melee ability critical strikes now refund 3 Energy.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "14-37-10-4"
+     ]
+    },
+    {
+     "id": "14-37-1-7",
+     "name": "Fel Instincts",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_argustalbukmount_felpurple",
+     "spellId": 560645,
+     "description": "Increases the damage of Azzinoth's Assault by 10% and causes it to increase your melee haste by 20% for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-1-6"
+     ]
+    },
+    {
+     "id": "14-37-2-7",
+     "name": "Reckless Assault",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "ability_demonhunter_spectralsight",
+     "spellId": 804610,
+     "description": "Increases the damage of Azzinoth's Assault, Annihilan Strike, and Twin Slice by 15% against slowed enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-2-5",
+      "14-37-3-6"
+     ]
+    },
+    {
+     "id": "14-37-4-7",
+     "name": "Fel Haze",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "spell_shadow_fingerofdeath",
+     "spellId": 803903,
+     "description": "While active, Blood of Mannoroth now also causes you to ignore all enemy Armor.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-5-6",
+      "14-37-4-5",
+      "14-37-3-6"
+     ]
+    },
+    {
+     "id": "14-37-6-7",
+     "name": "Felguard",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "spell_shadow_felarmour",
+     "spellId": 560542,
+     "description": "Emanate a powerful aura, granting 10% increased melee and ranged haste to party and raid members within 100 yds. Does not stack with similar effects.In addition, while Inner Demon is active, you now heal for 15% of all melee damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-5-6",
+      "14-37-7-6"
+     ]
+    },
+    {
+     "id": "14-37-7-7a",
+     "name": "Perpetual Fury",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "achievement_thenighthold_tichondrius",
+     "spellId": 520244,
+     "description": "Dealing damage with Dancing Blades reduces the cooldown of Fury Unleashed by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-7-6"
+     ]
+    },
+    {
+     "id": "14-37-7-7b",
+     "name": "Glaiving",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "ability_demonhunter_infernalstrike2",
+     "spellId": 560578,
+     "description": "Increases the damage dealt and reduces the Energy cost of Fury Unleashed by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-37-2-8",
+     "name": "Reachwalker",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_blood_of_sargeras",
+     "spellId": 705135,
+     "description": "Casting Chaos Rush now reduces the cooldown of Felhoof Charge by -2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-2-7",
+      "14-37-1-7"
+     ]
+    },
+    {
+     "id": "14-37-4-8",
+     "name": "Azzinoth's Battery",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_shoulder_leather_raiddemonhuntermythic_r_01",
+     "spellId": 705137,
+     "description": "Your Azzinoth's Assault now has a 30% chance to not consume Felfury.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-4-7",
+      "14-37-2-7",
+      "14-37-6-7"
+     ]
+    },
+    {
+     "id": "14-37-6-8",
+     "name": "Oblivion",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_staff_2h_felfireraid_d_03",
+     "spellId": 572889,
+     "description": "Critically striking now increases your damage dealt by 1% for 4 seconds, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-7-7a",
+      "14-37-6-7",
+      "14-37-7-7b"
+     ]
+    },
+    {
+     "id": "14-37-10-8",
+     "name": "Felcaked Blades",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_polearm_1h_felfireraid_d_02",
+     "spellId": 574145,
+     "description": "Level 50 PassiveTwin Slice and Sargeron Smite now additionally scale with your Agility.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "14-37-10-6"
+     ]
+    },
+    {
+     "id": "14-37-1-9",
+     "name": "Pit Lord's Rage",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_staff_2h_felfireraid_d_03",
+     "spellId": 705141,
+     "description": "Casting Chaos Rush now increases your Physical damage by 15% for 10 seconds.Casting Felhoof Charge increases your critical strike chance by 6% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-2-8"
+     ]
+    },
+    {
+     "id": "14-37-4-9",
+     "name": "Fury of the Illidari",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "inv_sword_1h_artifactfelomelorn_d_03dual",
+     "spellId": 561216,
+     "description": "2 Charges, 1.5 min rechargeMove quickly from enemy to enemy, attacking them every 1 sec with both weapons until 6 assaults are made, generating 1 Felfury with each strike. While active you are immune to crowd control effects.Can hit the same target multiple times. Cannot hit invisible or stealthed targets.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-37-4-8",
+      "14-37-6-8",
+      "14-37-2-8"
+     ]
+    },
+    {
+     "id": "14-37-7-9",
+     "name": "Whirling Vengeance",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 37,
+     "icon": "ability_rogue_cuttothechase",
+     "spellId": 704602,
+     "description": "Reduces the cooldown of Fury Unleashed by -60 sec. When Fury Unleashed ends, you strike all nearby enemies for 757 + 56.14% AP Shadowflame Damage and increase their damage taken from Sunder by 100% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-37-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 38,
+   "name": "Infernal",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "14-38-4-0",
+     "name": "Ruin",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "inv_infernalmountgreen",
+     "spellId": 801895,
+     "description": "Consumes 2 FelfuryBring doom upon an enemy, dealing cond(gt(SPFI, SPS), 116+0+SPFI*1, 116+0+SPS*1.32) Shadowflame Damage to an enemy, piercing all absorption effects.Inner Demon: Deals an additional 30% of the damage dealt over 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "14-38-10-0",
+     "name": "Fel Apprentice",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "_auracloak_felfire",
+     "spellId": 92088,
+     "description": "Level 10 PassiveWhile Inner Demon is active, your Fel Fireball will now unleash a Felstrike on your target.FelstrikeBurn an enemy for 54 + 30% SP Shadowflame Damage over 6 seconds, stacking 3 times.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-38-2-1",
+     "name": "Dark Magician",
+     "x": 2,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "_deathgrip_fel",
+     "spellId": 560637,
+     "description": "While Inner Demon is active, casting Ruin, Sunder, or Felwrath now refunds 20 Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-4-0"
+     ]
+    },
+    {
+     "id": "14-38-6-1",
+     "name": "Wrath of Sargeras",
+     "x": 6,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "achievement_dungeon_tombofsargeras",
+     "spellId": 806103,
+     "description": "Increases your Magic damage dealt by 3% and your spell hit chance by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-4-0"
+     ]
+    },
+    {
+     "id": "14-38-1-2",
+     "name": "Bane of Chaos",
+     "x": 1,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "chaosincursion",
+     "spellId": 704368,
+     "description": "Generates 1 FelfuryUnleash fel magic on an enemy, dealing 114 Chaos damage over 18 seconds.Inner Demon: The enemy takes an additional 13 + 100% SP Chaos Damage every 6 sec.Can only have 1 Bane active on a target at a time.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-38-2-1"
+     ]
+    },
+    {
+     "id": "14-38-4-2",
+     "name": "Felfire Adept",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "spell_fire_felhellfire",
+     "spellId": 560836,
+     "description": "Increases the critical strike chance of Sargeron Smite by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-6-1",
+      "14-38-2-1"
+     ]
+    },
+    {
+     "id": "14-38-7-2",
+     "name": "Gul'dan's Prodigy",
+     "x": 7,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "spell_warlock_demonicempowerment",
+     "spellId": 704378,
+     "description": "Reduces Energy cost and cast time of Fel Fireball by -15%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-6-1"
+     ]
+    },
+    {
+     "id": "14-38-10-2",
+     "name": "Hidden Power",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "spell_shadow_unstableaffliction_2",
+     "spellId": 802108,
+     "description": "Level 20 PassiveIncreases your spell damage by 15% of your Intellect and Spirit.In addition, Inner Demon now increases your spell damage and critical strike chance by an additional 20% of your Spirit.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "14-38-10-0"
+     ]
+    },
+    {
+     "id": "14-38-1-3",
+     "name": "Felforged",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "spell_fire_felfire",
+     "spellId": 300490,
+     "description": "Periodic damage dealt now has a 15% chance to grant you Felforged for 8 seconds.Felforged (Proc)Your next 3 Fel Fireballs have -30% reduced casting speed for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-1-2"
+     ]
+    },
+    {
+     "id": "14-38-4-3",
+     "name": "Fel Cannon",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "inv_gizmo_felironbomb",
+     "spellId": 802180,
+     "description": "Increases the critical strike chance of Fel Fireball and Ruin by 15% on enemies above 75% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-4-2"
+     ]
+    },
+    {
+     "id": "14-38-7-3",
+     "name": "Felwrath",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "spell_fire_felflamering",
+     "spellId": 520236,
+     "description": "Consumes 2 FelfuryBlast an enemy and all enemies near them with fel magic, dealing 69 + 40% SP Shadowflame Damage.Inner Demon: Striking at least 5 enemies with this spell causes it to deal an additional 108 + 10% SP Shadowflame Damage over 6 seconds, stacking 3 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-38-7-2"
+     ]
+    },
+    {
+     "id": "14-38-0-4",
+     "name": "Withering",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "achievement_zone_shadowmoon",
+     "spellId": 707416,
+     "description": "Your Fel Fireballs used with Felforged active now deal 30% increased damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-1-3"
+     ]
+    },
+    {
+     "id": "14-38-2-4",
+     "name": "Black Magic",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "inv_shoulder_plate_archimonde_d_01",
+     "spellId": 524950,
+     "description": "Increases the damage of your Bane of Chaos and Ruin by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-4-3",
+      "14-38-1-3"
+     ]
+    },
+    {
+     "id": "14-38-6-4",
+     "name": "Cursed Flames",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "spell_fire_felflamestrike",
+     "spellId": 300478,
+     "description": "Critically striking with Fel Fireball now increases the critical strike chance of your next Fel Fireball within 10 seconds by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-4-3",
+      "14-38-7-3"
+     ]
+    },
+    {
+     "id": "14-38-8-4",
+     "name": "Illidari Magi",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "inv_polearm_2h_fellord",
+     "spellId": 560639,
+     "description": "Your periodic damage now has a 20% chance to generate 1 Felfury.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-7-3"
+     ]
+    },
+    {
+     "id": "14-38-10-4",
+     "name": "Sculptor of Doom",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "achievement_boss_argus_felreaver",
+     "spellId": 801235,
+     "description": "Landing 3 direct critical strikes now grants Sculptor of Doom.Sculptor of DoomYour next Ruin within 8 seconds is instant cast.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "14-38-10-2"
+     ]
+    },
+    {
+     "id": "14-38-1-5",
+     "name": "Felbreak",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "ability_deathknight_deathsiphon",
+     "spellId": 800203,
+     "description": "Interrupt a spell from being cast, preventing the target from casting spells of that school for 3 seconds and draining mana from the target based on your Spirit.Usable while moving.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-38-0-4",
+      "14-38-2-4"
+     ]
+    },
+    {
+     "id": "14-38-4-5",
+     "name": "Shadow Magi",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "spell_shadow_sealofkings",
+     "spellId": 803905,
+     "description": "Reduces the cooldown of Annihilation by -15 sec and Sunder by -4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-6-4",
+      "14-38-2-4"
+     ]
+    },
+    {
+     "id": "14-38-7-5",
+     "name": "Infernal",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "spell_shadow_summoninfernal",
+     "spellId": 560284,
+     "description": "Drop an infernal from the sky with grotesque magic, dealing 12 + 55% fire SP Fire damage to enemies in the radius, horrifying them for 4 seconds, and spawning an Infernal to fight by your side for 15 seconds.Inner Demon: Lasts 1 additional sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-38-6-4",
+      "14-38-8-4"
+     ]
+    },
+    {
+     "id": "14-38-0-6",
+     "name": "Illidari Smiter",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "inv_belt_leather_raiddemonhuntermythic_r_01",
+     "spellId": 520246,
+     "description": "Critical strikes with Fel Fireball now generate 1 Felfury.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-0-4",
+      "14-38-1-5"
+     ]
+    },
+    {
+     "id": "14-38-2-6a",
+     "name": "Herald of the Legion",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "legionshipmount",
+     "spellId": 807461,
+     "description": "Damage dealt by Bane of Chaos now radiates fel energy around the enemy, dealing 50% of the damage dealt to up to 8 nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-1-5"
+     ]
+    },
+    {
+     "id": "14-38-2-6b",
+     "name": "Fel Flamecasting",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "uico_unholy_spell_03_border",
+     "spellId": 805998,
+     "description": "Damage dealt by Sargeron Smite now spreads your Cripple to 2 nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-38-4-6",
+     "name": "The True Blessing",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "inv_sword_1h_felfireraid_d_03",
+     "spellId": 560838,
+     "description": "Casting Annihilation now grants you Sculptor of Doom.Sculptor of DoomYour next Ruin within 8 seconds is instant cast.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-4-5"
+     ]
+    },
+    {
+     "id": "14-38-6-6a",
+     "name": "Doomsayer",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "inv_staff_2h_artifactsargeras_d_02",
+     "spellId": 520833,
+     "description": "Critical strikes with Sargeron Smite now refund 1 Felfury.In addition, Sargeron Smite now deals 25% increased damage to enemies above 75% of their maximum health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-7-5"
+     ]
+    },
+    {
+     "id": "14-38-6-6b",
+     "name": "Infernal Summoner",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "custom_74_wings_border",
+     "spellId": 300480,
+     "description": "Direct damage dealt now has a 5% chance to reset the cooldown of Infernal.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-38-8-6a",
+     "name": "Oppressive Ruin",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "creatureportrait_infernal_ball_02",
+     "spellId": 561201,
+     "description": "Damage dealt by Ruin now absorbs the next 99 healing on the target based on rank, up to 226 at rank 7, for 8 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-8-4",
+      "14-38-7-5"
+     ]
+    },
+    {
+     "id": "14-38-8-6b",
+     "name": "Infernal Ruin",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "warlock_pvp_burninglegion",
+     "spellId": 560840,
+     "description": "Every 3rd Ruin or Felwrath now spawns an Infernal to fight by your side for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "14-38-10-6",
+     "name": "Unphased",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "inv_fabric_felrag",
+     "spellId": 803645,
+     "description": "Level 40 PassiveIncreases your spell penetration by 20, scaling with your level.In addition, reduces spell pushback suffered from damaging attacks by 50% while Inner Demon is active.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "14-38-10-4"
+     ]
+    },
+    {
+     "id": "14-38-1-7",
+     "name": "Curse of Argus",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "custom_t_nhance_rpg_icons_natureburn_border",
+     "spellId": 704370,
+     "description": "Each time Bane of Chaos deals damage its damage is increased on the target by 1% for 6 seconds, stacking 20 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-2-6a",
+      "14-38-0-6",
+      "14-38-2-6b"
+     ]
+    },
+    {
+     "id": "14-38-3-7",
+     "name": "Felshock",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "spell_fel_incinerate",
+     "spellId": 806235,
+     "description": "Direct critical strikes with Felfury spenders now extend the duration of Inner Demon by 1 sec and cause enemies struck to have a 3% increased chance to be hit by spells for 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-4-6"
+     ]
+    },
+    {
+     "id": "14-38-5-7",
+     "name": "Fel Infusion",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "_auracloak_felfire",
+     "spellId": 560533,
+     "description": "Increases critical strike chance of all party and raid members within 100 by 3%. Does not stack with similar effects.In addition, increases your critical strike chance by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-4-6"
+     ]
+    },
+    {
+     "id": "14-38-7-7",
+     "name": "Archimonde's Wrath",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "achievement_boss_exarch_maladaar",
+     "spellId": 300489,
+     "description": "Increases the critical strike chance of your Felfury spenders by 1% for every 10 points of Energy you have at the time of casting.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-6-6a",
+      "14-38-8-6a",
+      "14-38-6-6b",
+      "14-38-8-6b"
+     ]
+    },
+    {
+     "id": "14-38-2-8",
+     "name": "Infernal Doom",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "inv_glaive_1h_artifactaldrochi_d_05",
+     "spellId": 804219,
+     "description": "Ruin now has a -25% chance not to consume Felfury.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-3-7",
+      "14-38-1-7"
+     ]
+    },
+    {
+     "id": "14-38-4-8",
+     "name": "Nether Spirit",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "ability_demonhunter_immolation",
+     "spellId": 300477,
+     "description": "Increases your spell critical strike chance by 20% of your Spirit.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-3-7",
+      "14-38-5-7"
+     ]
+    },
+    {
+     "id": "14-38-6-8",
+     "name": "Chaotic Intuition",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "inv_ember_fel",
+     "spellId": 300483,
+     "description": "Damage dealt by Felstrikes now extends the duration of Cripple on the target by 1 sec and grants you 1% increased spell critical damage for 6 seconds, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-5-7",
+      "14-38-7-7"
+     ]
+    },
+    {
+     "id": "14-38-10-8",
+     "name": "Man'ari Teachings",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "achievement_boss_argus_femaleeredar",
+     "spellId": 705150,
+     "description": "Level 50 PassiveIncreases your critical damage dealt by 100%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "14-38-10-6"
+     ]
+    },
+    {
+     "id": "14-38-2-9",
+     "name": "Sargeras Embrace",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "ability_demonhunter_eyebeam",
+     "spellId": 800355,
+     "description": "Channel a beam of fel magic upon an enemy, slowing your target's movement speed by -60% for 5.5 seconds and dealing cond(gt(SPFI, SPS), 695+0+SPFI*0.85, 695+0+SPS*0.85) Shadowflame Damage at the end of the duration.For the duration, you may instant cast Fel Fireball and Ruin while channeling and they refund their cost.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "14-38-2-8",
+      "14-38-4-8"
+     ]
+    },
+    {
+     "id": "14-38-4-9",
+     "name": "Malice of Gul'dan",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "achievement_thenighthold_guldan",
+     "spellId": 800214,
+     "description": "Direct critical strikes now have a 60% chance to trigger a Felstrike and generate a Fragment of Malice.FelstrikeBurn an enemy for 54 + 30% SP Shadowflame Damage over 6 seconds, stacking 3 times.Fragment of MaliceRestores 5 Energy and increases your critical strike chance by 10% for 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-4-8"
+     ]
+    },
+    {
+     "id": "14-38-6-9",
+     "name": "Fury of Archimonde",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 38,
+     "icon": "achievement_boss_hellfire_archimonde",
+     "spellId": 706425,
+     "description": "After generating 10 Felfury, your next Sargeron Smite within 15 seconds gains 50% increased critical strike chance and damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "14-38-6-8",
+      "14-38-4-8"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ancestor's Call",
+  "icon": "inv_helmet_158",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ancestor's Call</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Teaches you <span style=\"color: #ffffff;\">Ancestor's Call</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_helmet_158.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804834'> Ancestor's Call </a> <br />\n                            <span> Call an <span style=\"color: #ffffff;\">Honored Ancestor</span> to aid you in battle until dismissed that scales with your Agility and attack power.<br /><br />Whenever you use <span style=\"color: #ffffff;\">Barbaric Whirl</span> or <span style=\"color: #ffffff;\">Whirling Advance</span>, your <span style=\"color: #ffffff;\">Honored Ancestor</span> mimics it.</span><br /></span></td></tr></table><!--?804729:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

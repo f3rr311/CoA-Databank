@@ -1,0 +1,8 @@
+{
+  "name_enus": "Kiss of the Clouds",
+  "icon": "epic_rpg_icon_pack_wind_icon_0003s_0000_wind_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Kiss of the Clouds</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cc99ff;\">Depletes 40 Static</span><br />Grant all party and raid members a shield that absorbs 0+101+Int*1 damage, scaling with Intellect, for 10&nbsp;sec.<br /><br />While active, the target suffers no spell pushback from taking damage.</span></td></tr></table><!--?500039:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

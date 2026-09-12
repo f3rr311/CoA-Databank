@@ -1,0 +1,8 @@
+{
+  "name_enus": "Champion of Kel'thuzad",
+  "icon": "uico_frost_spell_06_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Champion of Kel'thuzad</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">While your <span style=\"color: #ffffff;\">Lich Form</span> is active, your <span style=\"color: #ffffff;\">Champion</span> spells will now cooldown faster.</span></td></tr></table><!--?704676:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

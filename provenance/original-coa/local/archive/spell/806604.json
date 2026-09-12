@@ -1,0 +1,8 @@
+{
+  "name_enus": "Acid Burns",
+  "icon": "inv_misc_herb_fellotus",
+  "tooltip_enus": "<table><tr><td><b>Acid Burns</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Scoring a Nature Critical Strike grants you a stack of Acidfang, increasing the Quickness of your next Facemelter by 1%.</span></td></tr></table><!--?806604:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

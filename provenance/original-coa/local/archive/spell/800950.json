@@ -1,0 +1,15 @@
+{
+  "name_enus": "Deathmatch",
+  "icon": "5_warriorskill10_border",
+  "tooltip_enus": "<table><tr><td><b>Deathmatch</b><br />999 Energy<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">You select a target enemy for a <span style=\"color: #FFFFFF;\">Deathmatch</span>, banishing both you and the enemy so that you can only see each other and causing each of you to have an effective Armor value of 0<!--sp520137:0--><!--sp520137--> for the next 6&nbsp;sec.</span></td></tr></table><!--?800950:1:1:80-->",
+  "spells_enus": {
+    "520137": [
+      [
+        "",
+        " and the enemy will take 10% increased Physical Damage"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

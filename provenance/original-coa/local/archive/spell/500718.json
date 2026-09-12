@@ -1,0 +1,8 @@
+{
+  "name_enus": "Instill Despair",
+  "icon": "ability_rogue_nightblade",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Instill Despair</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>9% of base mana<br /><table width=\"100%\"><tr><td>1.5 sec cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Defile an ally's weapon for 30&nbsp;sec, granting 5% increased haste and giving them a 15% chance to steal 16+(PL*0.5)+SP*0.226 health from enemies they damage, healing for half of the amount stolen.</span></td></tr></table><!--?500718:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,1236 @@
+{
+ "build": {
+  "id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+  "title": "Cultist HEAL CAC PVE",
+  "description": "[overview]\n### Cultist / Heretic Build Summary\n\n#### Build Philosophy\nThe gameplay relies on a constant synergy between damage and healing. You convert your aggression into survival for your group, with the absolute priority of keeping the tank alive via *Abyssal Covenant*.\n\n#### Stat Priority and Gear Optimization\n* **Primary Stats:** Your absolute priorities are Intellect and Spell Power. Intellect is the most critical stat (\"the heart of the war\").\n* **Leveling Gear:** During the leveling phase, ignore armor types (cloth, leather, etc.). Focus solely on upgrades if an item offers more Intellect or Spell Power. If you have to choose between the two, find a balance based on your preferences (for example, losing 1 Intellect to gain 5 Spell Power is a worthwhile trade).\n* **Weaponry:** Aim for the slowest possible attack speed and the highest base damage range. Using a two-handed weapon with Intellect and Attack Power is excellent, as Attack Power is converted into Spell Power for this build.\n\n#### Priority Order and Combat Rotation\n* **Tank Management:** Cast *Abyssal Covenant* at the start of the donjon to redirect the majority of your healing toward the tank.\n* **Insanity Generation:** \n  * *Blade of the Empire* is your primary source of healing and insanity generation.\n  * When you run out of *Blade of the Empire* charges, use *Malevolence* to continue generating insanity.\n  * Combined with *Eldritch Eye*, aim to maximize critical strikes to make your spells instant and maintain maximum fluidity.\n* **Damage Phase:** As soon as you have the required insanity, trigger *Entropic Slam* to deal maximum damage.\n* **\"Black Blood\" Synergy:** Powered by your auto-attacks (at 100%) and your tentacles' damage (at 30%).\n\n#### Group Management and Emergencies\n* **Leveling:** Use *Tentacles of Yogg-Saron* for support. Once both charges are obtained, they become essential.\n* **Emergency Healing:** **Gaze of C'thun** is your immediate relief resource for the group. If you see health getting critical, drop a **Gaze of C'thun** and be done with it.\n* **Healing Rotation:** Alternate between 3 damage abilities, then use an instant heal to stabilize the group without interruption.\n* **Bouncing Heal:** Use *Dark Infusion* (similar to a \"Prayer of Mending\") to heal by bouncing heals between allies.\n\n#### Optimization and Survival\n* **Stats:** Prioritize *Whisper of Fate* (12% stats) over pure mana regeneration.\n* **Threat Management:** Reduce your threat with *Isolate* or *Hallucination* to avoid pulling aggro.\n* **Presence:** Use the presence of *Y'shaarj* or **Gaze of C'thun**.\n\n[talents]\n#### Talent Synergies\n* **Malevolence (Talent):** This is the starting point of your talent tree. It defines your group healer role. Its synergy is direct with other talents that amplify the impact of this spell to maintain allies' health under all circumstances.\n* **Blade of Yogg-Saron (Talent):** This talent is the catalyst of your rotation. It directly enhances *Blade of the Empire*. Its synergy with your build is essential: it transforms a standard spell into your primary single-target healing tool (for the tank), while guaranteeing the resource generation needed to fuel the rest of your cycle.\n* **Eldritch Eye (Talent):** This talent modifies the casting mechanic of your spells. By making your group heals instant, it creates a perfect synergy with your need for responsiveness. It allows you to bypass cast times to react to spike damage on the group.\n* **Forbidden Ritual (Talent):** This talent adds an extra layer of survivability. It is designed to be the \"panic button\" that stabilizes the group when your other healing synergies are under pressure.\n\n#### Overall Synergy Synthesis\nThe build relies on the interaction between *Blade of Yogg-Saron* (which optimizes your single-target healing by improving your spells) and *Eldritch Eye* (which makes your group healing more fluid by removing cast times). Everything is supported by your offensive cycles, creating a loop where every talent point is invested to optimize either responsiveness (instant cast) or raw power (single-target/group healing).\n\n[rotation]\n#### Core Mechanics (Combat Loop)\n* **Fight Entry:** Use *Malevolence* right at the start of the fight to cast your first spells and apply group effects.\n* **Blade of the Empire:** This is the engine of your build. It is your primary single-target healing source, essential for prioritizing the tank's health. Its cooldown is reset by your numerous critical strikes, making your crit score vital for rotation fluidity.\n* **Eldritch Eye:** Use instantly whenever you can for your group spells to maintain responsiveness.\n* **Dark Infusion:** Use as a bouncing heal if needed.\n* **Forbidden Ritual:** Anticipate and cast if you feel heavy damage coming, as it requires cast time.\n* **Insanity Generation:** Use this resource to power your offensive and utility spells throughout the combat.\n\n#### Offensive and Healing Synergies\n* **Malevolence:** Simply applies *Black Blood*.\n* **Black Blood (Buff):** This effect is directly powered by your **auto-attacks (at 100%)** and **damage dealt by your tentacles (at 30%)**. Your melee gameplay and summons keep this buff alive and progressing.\n* **Group Recovery:** To efficiently recover the group's health, using **Gaze of C'thun** remains the best option.\n* **Eldritch Eye:** This talent allows you to cast your spells instantly to guarantee maximum responsiveness during group healing.\nMana and Sanity Tap Management\n\n* Combat opening: At the start of the dungeon or when pulling a group, while your pool is full, cast your spells freely to immediately set up your synergy and secure the initial damage and healing.\n* The target threshold (30% - 50%): Your permanent goal is to keep your mana reserve between 30% and 50% minimum. Do not remain passive waiting to run low. As soon as your consumption starts dragging your gauge down toward this zone, weave Sanity Tap directly into your cycle to stabilize your resource.\n* Anticipating emergencies: Why aim for this 30% to 50% bracket? Because a dungeon fight can sometimes turn sour: the group will take heavy unexpected damage, and you will need to chain continuous emergency heals (Gaze of C'thun, instant spells, etc.). During these critical windows, you simply won't have time to cast Sanity Tap.\n* Golden rule: Maintaining this 30% to 50% mana safety cushion guarantees that you can weather a spike in group damage without running out of resources at the worst possible moment.\n\n[gear]\n#### Gear and Stat Priority\n* **Stat Priority (Intellect vs. Spell Power):** My priority is to maximize Intellect on every piece of gear. Intellect is the central stat because it directly increases your critical strike score. I only replace Intellect with Spell Power (SP) if the trade-off is minimal (for example, losing 3 to 5 Intellect for +10 SP). Any larger change is not worth the loss in critical strike potential and mana pool.\n* **Weapon Selection (Leveling):** During the leveling phase, a staff is mandatory to get the necessary amount of Intellect. You should look for a staff offering the maximum possible Intellect and Spell Power.\n* **Damage Mechanics:** On your weapon, priority is given to the damage range. Since healing is converted from damage dealt, a higher damage range directly translates to more powerful heals.\n* **Weapon Speed:** Always aim for the slowest possible attack speed. A slower attack speed guarantees higher damage per hit, which maximizes your total healing done.",
+  "class_id": 25,
+  "spec_id": 66,
+  "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+  "talent_string": "W1siMjUtODctMS0wIiwxXSxbIjI1LTg3LTctMCIsMV0sWyIyNS04Ny03LTEiLDNdLFsiMjUtODctOC0yIiwxXSxbIjI1LTg3LTctMyIsMV0sWyIyNS04Ny0xLTEiLDFdLFsiMjUtODctMC0yIiwxXSxbIjI1LTg3LTEtMyIsMV0sWyIyNS04Ny0xLTQiLDFdLFsiMjUtODctNy00IiwxXSxbIjI1LTg3LTItNSIsMV0sWyIyNS04Ny0wLTYiLDFdLFsiMjUtODctNC02IiwxXSxbIjI1LTg3LTgtNiIsMV0sWyIyNS04Ny01LTdhIiwxXSxbIjI1LTg3LTEtNyIsMl0sWyIyNS04Ny03LTdhIiwxXSxbIjI1LTg3LTMtMiIsMV0sWyIyNS04Ny00LTNiIiwxXSxbIjI1LTg3LTMtNCIsMV0sWyIyNS04Ny02LTUiLDFdLFsiMjUtODctMi04IiwxXSxbIjI1LTg3LTItOSIsMV0sWyIyNS02Ni00LTAiLDFdLFsiMjUtNjYtMi0xIiwyXSxbIjI1LTY2LTYtMSIsMl0sWyIyNS02Ni0yLTIiLDFdLFsiMjUtNjYtMi0zIiwxXSxbIjI1LTY2LTQtMiIsMV0sWyIyNS02Ni00LTNhIiwxXSxbIjI1LTY2LTEtNCIsMV0sWyIyNS02Ni00LTQiLDFdLFsiMjUtNjYtNS01IiwxXSxbIjI1LTY2LTQtNiIsMV0sWyIyNS02Ni0zLTciLDFdLFsiMjUtNjYtNS03IiwxXSxbIjI1LTY2LTAtNWEiLDFdLFsiMjUtNjYtMS02IiwxXSxbIjI1LTY2LTYtMiIsMV0sWyIyNS02Ni02LTMiLDFdLFsiMjUtNjYtNy00IiwxXSxbIjI1LTY2LTEwLTAiLDFdLFsiMjUtNjYtMTAtMiIsMV0sWyIyNS02Ni0xMC00IiwxXSxbIjI1LTY2LTEwLTYiLDFdLFsiMjUtNjYtMTAtOCIsMV0sWyIyNS02Ni02LTViIiwxXSxbIjI1LTY2LTctNmIiLDFdLFsiMjUtNjYtNy03IiwxXSxbIjI1LTY2LTYtOCIsMV0sWyIyNS02Ni02LTkiLDFdXQ",
+  "tags": [],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 11,
+  "downvotes": 5,
+  "comment_count": 29,
+  "created_at": "2026-07-16T01:14:06.635229+00:00",
+  "updated_at": "2026-07-28T19:07:26.81+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 6987,
+  "net_score": 6,
+  "has_talents": true,
+  "guide_section_count": 4,
+  "author": {
+   "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "username": "Hortiss Shariff",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "c4633a12-cb36-47cb-a5b6-58af0ea97839",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "290e9939-b080-4365-9373-ca093ee4b5d6",
+   "parent_id": null,
+   "body": "Thank you for the build! Just wondering, do you try to use Herald of the Depths on cooldown?",
+   "upvotes": 0,
+   "created_at": "2026-07-16T01:50:02.514508+00:00",
+   "updated_at": "2026-07-16T01:50:02.514508+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "290e9939-b080-4365-9373-ca093ee4b5d6",
+    "username": "Chomble",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "527e358d-b537-4f62-83fd-1c2c8437cd3c",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "c4633a12-cb36-47cb-a5b6-58af0ea97839",
+   "body": "hello yes i use on cd",
+   "upvotes": 0,
+   "created_at": "2026-07-16T17:37:51.792918+00:00",
+   "updated_at": "2026-07-16T17:37:51.792918+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "deba3e36-d81e-4a2c-b669-285e20793cd2",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "8564563b-f6ce-4c05-a04e-37eb805a6d81",
+   "parent_id": null,
+   "body": "Do you need spirit? Or just focus on intellect?",
+   "upvotes": 0,
+   "created_at": "2026-07-18T15:28:17.271911+00:00",
+   "updated_at": "2026-07-18T15:28:17.271911+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "8564563b-f6ce-4c05-a04e-37eb805a6d81",
+    "username": "Menno Kruyt",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocI0HeLAAyLBhkilQbnAIM50paZ6XOq94DJCoaIhsoFHTVIRTmHA=s96-c"
+   }
+  },
+  {
+   "id": "7304aede-0aa7-43aa-8abd-aee2194dc1ed",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "deba3e36-d81e-4a2c-b669-285e20793cd2",
+   "body": "no need spirit focus 1 intel 2 power spell 3 crit",
+   "upvotes": 0,
+   "created_at": "2026-07-18T17:06:53.460611+00:00",
+   "updated_at": "2026-07-18T17:06:53.460611+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "3f7dee53-eefb-4f4b-9296-ae57c51e1a8a",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "27a898d1-e5fc-443c-ba93-6edd3a7d4d3c",
+   "parent_id": null,
+   "body": "This is very bad advice, you dont need int and sp, your damage and spells scale mostly with AP, you need a lot of CRIT/AP, the mana sustian is easy with Sanity Tap",
+   "upvotes": 1,
+   "created_at": "2026-07-18T23:05:12.410075+00:00",
+   "updated_at": "2026-07-21T08:16:35.792234+00:00",
+   "downvotes": 4,
+   "hidden": false,
+   "author": {
+    "id": "27a898d1-e5fc-443c-ba93-6edd3a7d4d3c",
+    "username": "Carlos Lucas",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJk9G_n7ndLlzMu5TFcNXckxPgctUbTSnwyG_KB8LtIEx9h_g=s96-c"
+   }
+  },
+  {
+   "id": "76f0ef8f-d76c-4de2-98f2-ff2a0938856b",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "4a14cb66-e131-4e52-acac-662d259d227b",
+   "parent_id": "3f7dee53-eefb-4f4b-9296-ae57c51e1a8a",
+   "body": "The AP scaling is pretty bad, it isn't that far from SP scaling, but without a decent mana pool, you'll have to Sanity tap every 3 GCD and that's neither enjoyable nor viable on big pulls to have to use GCD on Sanity tap",
+   "upvotes": 1,
+   "created_at": "2026-07-18T23:22:22.773312+00:00",
+   "updated_at": "2026-07-19T04:34:57.61203+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "4a14cb66-e131-4e52-acac-662d259d227b",
+    "username": "elodie.44",
+    "avatar_url": "https://cdn.discordapp.com/avatars/676258917080104994/ccdeef60c8e841cd78fe738620247413.png"
+   }
+  },
+  {
+   "id": "57900068-00c2-40b9-ade7-b012a2ad7105",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "3f7dee53-eefb-4f4b-9296-ae57c51e1a8a",
+   "body": "Thanks for your feedback, but I disagree. My build is primarily designed to act as a solid healer capable of sustaining a group over the long term, and for that, Spell Power (SP) is essential to ensure my heals are effective enough.\n\nRegarding Sanity Tap, I already use it very regularly, as often as needed. However, with my current cycle being very mana-intensive, my mana already fluctuates between 30% and 50% despite a comfortable pool of 5,000 to 6,000. If I followed your advice to reduce Intellect in favor of AP, I would have to use Sanity Tap three to four times more often to compensate for that loss, which just wouldn't be viable: I would spend more time recharging than healing. In long fights, that would mean leaving the group without heals and would inevitably lead to my allies' deaths. Switching to AP would therefore sacrifice the group's survival for the sake of stats that don't fit my role.",
+   "upvotes": 0,
+   "created_at": "2026-07-19T01:04:40.91825+00:00",
+   "updated_at": "2026-07-19T01:04:40.91825+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "806c3f8a-22f4-4aa2-9bcb-41358fb418f0",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "b6cc4dbf-21d1-4d8f-89a3-5c887314b1ff",
+   "parent_id": null,
+   "body": "What presence do u usually use?",
+   "upvotes": 1,
+   "created_at": "2026-07-19T14:23:26.904391+00:00",
+   "updated_at": "2026-07-19T15:06:04.995849+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "b6cc4dbf-21d1-4d8f-89a3-5c887314b1ff",
+    "username": "Cholo",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "de32336d-ec06-4dde-ab04-f0bf384fceaa",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "806c3f8a-22f4-4aa2-9bcb-41358fb418f0",
+   "body": "Y'saarj for oae damage or C'tun for haste",
+   "upvotes": 1,
+   "created_at": "2026-07-19T15:35:39.355588+00:00",
+   "updated_at": "2026-07-19T16:01:36.59041+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "fefa6cee-df05-4588-af15-c303675169a9",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "c38ba932-aada-4a57-94ac-8041afd9a686",
+   "parent_id": null,
+   "body": "Okay wow, I’ve been building as a melee dps (strength, etc.) and finding a lot of success, I do a lot of damage and I can heal everyone just fine playing the way you outlined. Plus I can usually wear plate because it is more regularly itemized for melee dps stats. I wonder if I will need to change my itemization to something like this at some point because I will drop off (in healing or dps)?",
+   "upvotes": 0,
+   "created_at": "2026-07-19T17:17:12.553289+00:00",
+   "updated_at": "2026-07-19T17:17:12.553289+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "c38ba932-aada-4a57-94ac-8041afd9a686",
+    "username": "Kevin Carter",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKck4i1BPWte_W0CuNUdvtJohn4mKgJmK-XMDsqR_i3pIQn8bPQ=s96-c"
+   }
+  },
+  {
+   "id": "4e40576b-a80a-4ecc-9ebe-066bac5b7453",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "fefa6cee-df05-4588-af15-c303675169a9",
+   "body": "Hello, thank you for your feedback! Your current success with a Strength/Melee DPS build in plate armor is excellent, as that gear is very well-optimized for offensive stats.\n\nHere are a few points to consider regarding a potential drop off later on:\n\n* **Scaling vs. Utility**: While your build works perfectly during the leveling process, keep a close eye on your healing output as you tackle higher-level dungeons. Instance difficulty often increases exponentially, and healing needs can quickly exceed the capabilities of a pure Strength build.\n* **Performance Indicator**: If you observe that the damage taken by your group is increasing significantly while your healing output remains stagnant, that is the primary sign that your scaling is hitting its limits. It is crucial to evaluate whether your survivability is keeping pace with the bosses you face.\n* **Real-World Testing**: Since you track your progress and team compositions, use your dungeons as a laboratory. If you can still keep everyone alive while maintaining high DPS, then your balance is good. Do not hesitate to adjust your strategy only when you realize that your role as a \"hybrid healer\" is becoming insufficient to ensure your partners' survival.\"",
+   "upvotes": 1,
+   "created_at": "2026-07-19T19:57:27.038894+00:00",
+   "updated_at": "2026-07-20T02:12:47.446938+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "3b4ba5f2-1a00-451c-9e9c-472f1be01ae4",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "45bbbbb8-d2d0-4ad8-b369-841a3a81ca56",
+   "parent_id": "3f7dee53-eefb-4f4b-9296-ae57c51e1a8a",
+   "body": "Agree with Carlos, this build is not one you want to waste investing into. Crit/AP scales all of your abilities better.",
+   "upvotes": 1,
+   "created_at": "2026-07-19T23:33:53.945073+00:00",
+   "updated_at": "2026-07-20T14:48:17.392902+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "45bbbbb8-d2d0-4ad8-b369-841a3a81ca56",
+    "username": "barrygaming",
+    "avatar_url": "https://cdn.discordapp.com/avatars/102200510710288384/04dc3f98e977e3259f48f106ad8af9e9.png"
+   }
+  },
+  {
+   "id": "69d1eb62-f149-459b-a4df-7e7bca247c6f",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "4a03095c-4953-4ccb-be83-0e324f4fe890",
+   "parent_id": null,
+   "body": "Nice build. In endgame do you prioritize AP or healing power?",
+   "upvotes": 2,
+   "created_at": "2026-07-19T23:57:57.12785+00:00",
+   "updated_at": "2026-07-20T17:02:39.173873+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "4a03095c-4953-4ccb-be83-0e324f4fe890",
+    "username": "hgf hf",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIKEdeTo9C494wYNxYrJhcJExf-QKuBp0CpiSk24BuLMEy-XA=s96-c"
+   }
+  },
+  {
+   "id": "bcaf18c0-0447-41e3-a65c-db3037a65669",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "3f7dee53-eefb-4f4b-9296-ae57c51e1a8a",
+   "body": "agree with you in principle. You are absolutely correct that at max level and when progressing into high-level content (Mythic), the final goal is to transition into a Crit/AP-focused build to maximize performance.\n\nHowever, during the current leveling phase, my priority is maintaining group stability. The transition to a damage-centric AP build relies on specific high-level passives like *Void Power* and *Blessing of Yogg-Saron*, which are not fully available yet. Until I have those tools, maintaining a solid mana pool through Intellect and SP is the only way to ensure I can keep the group alive without constantly spamming *Sanity Tap*.\"",
+   "upvotes": 0,
+   "created_at": "2026-07-20T00:07:00.025298+00:00",
+   "updated_at": "2026-07-20T00:07:00.025298+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "13ddb2c5-94c7-418d-8993-9f5044195e46",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "c38ba932-aada-4a57-94ac-8041afd9a686",
+   "parent_id": "fefa6cee-df05-4588-af15-c303675169a9",
+   "body": "Perfect, I’ve been saving caster gear for a second spec so I’m going to swap back and forth while leveling and see how it feels. I will def keep an eye on how healing feels in dungeons as I get higher. I’m glad I found this site / the guide so that I can try the talents and gearing strategy out!",
+   "upvotes": 1,
+   "created_at": "2026-07-20T02:14:46.994155+00:00",
+   "updated_at": "2026-07-20T08:38:51.562818+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "c38ba932-aada-4a57-94ac-8041afd9a686",
+    "username": "Kevin Carter",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKck4i1BPWte_W0CuNUdvtJohn4mKgJmK-XMDsqR_i3pIQn8bPQ=s96-c"
+   }
+  },
+  {
+   "id": "2da541a3-443f-41c7-80fd-c708a4ef91f4",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "69d1eb62-f149-459b-a4df-7e7bca247c6f",
+   "body": "That's a great question, especially with *Healing Power* being a factor in *Conquest of Azeroth*. I'm currently testing both. My goal for end game is to compare the efficiency of AP (since it scales certain passives so well) versus a pure *Spell/Healing Power* build. I'm actively gathering Strength/AP gear to test the difference in dungeons, so these tests are ongoing and will take a few days to complete. Once I've finished gathering the necessary gear and running enough dungeons to get a clear picture, I’ll be adjusting my build accordingly to whatever proves to be the most effective. »",
+   "upvotes": 0,
+   "created_at": "2026-07-20T10:38:12.190017+00:00",
+   "updated_at": "2026-07-20T10:38:12.190017+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "d969606d-4470-4dc0-bbaa-60c9bf9abdfc",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "c4db93e8-7276-4aaa-84c8-2c55212b89c4",
+   "parent_id": null,
+   "body": "Hello thanks for the guide, I'll try to increase my intellect (currently leveling and i guessed SP was more important).\nI still have a question, i don't understand when you are talking about the \"Entropic Slam (Talent)\", isn't Entropic Slam a spell that every cultist has at a certain level regardless of their talent ? I do not understand the synergy with Black blood too. For what I understood, black blood is not a debuff on enemies but a buff on allies that receive periodic healing and more healing with auto-attack and tentacles.",
+   "upvotes": 0,
+   "created_at": "2026-07-20T17:19:23.777447+00:00",
+   "updated_at": "2026-07-20T17:19:23.777447+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "c4db93e8-7276-4aaa-84c8-2c55212b89c4",
+    "username": "Loro",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "16cd4f28-2110-4a7e-90ae-28e7d478f97b",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "d969606d-4470-4dc0-bbaa-60c9bf9abdfc",
+   "body": "Hi! Thank you so much for pointing this out and bringing it to my attention!\n\nYou are completely right, and that was a mistake on my part in the guide's explanation. **Entropic Slam** is indeed a baseline spell for the Cultist, and it does not trigger or apply the **Black Blood** periodic healing (which is applied through spells like *Malevolence*).\n\nI mixed up the wording and mechanics while writing down the build. Thank you again for your sharp eyes and for helping make the guide accurate!",
+   "upvotes": 0,
+   "created_at": "2026-07-20T23:35:56.964273+00:00",
+   "updated_at": "2026-07-20T23:35:56.964273+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "b7ff1366-3f95-4d93-a0dd-35a13008de84",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "222b1221-82dc-436e-8c1e-c0e4728a28be",
+   "parent_id": null,
+   "body": "Hi I have a question regarding Abyssal Covenant. When I startet leveling I got passive killed by the dmg it redirects from the tank to me on big pulls and opted out of it. I have not tried it since and wanted to ask if that is just a problem on lower level or is this a general Limit for cultist on big pulls?",
+   "upvotes": 0,
+   "created_at": "2026-07-21T08:51:07.176155+00:00",
+   "updated_at": "2026-07-21T08:51:07.176155+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "222b1221-82dc-436e-8c1e-c0e4728a28be",
+    "username": "JB#27",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "2e670422-53d2-4af7-ad3b-dd552901cebc",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "dc49296c-bd9d-46bd-b26c-4585294e9e91",
+   "parent_id": null,
+   "body": "I have a question, which tentacle do you mainly use? C'Thun or Yogg-Saron? I saw you mentioned Yogg-Saron, but I haven't seen it deal damage, and I dont know if the bonus % healing is better than the damage-to-healing conversion from C'thun one.",
+   "upvotes": 0,
+   "created_at": "2026-07-21T14:57:47.699257+00:00",
+   "updated_at": "2026-07-21T14:57:47.699257+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "dc49296c-bd9d-46bd-b26c-4585294e9e91",
+    "username": "Baltxa",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLsXuOOFuNPcH-qCviS65Uobdtn_s2kOFi2GzrowEXjrNmJ1v8=s96-c"
+   }
+  },
+  {
+   "id": "82dcffbf-bd88-48db-89f3-b6d96348a847",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "b7ff1366-3f95-4d93-a0dd-35a13008de84",
+   "body": "Hi! Thanks for the question.\n\nTo clear things up, Abyssal Covenant simply redirects 10% of the damage taken by your target to you, while converting 30% of all the damage you deal back into healing for them.\n\nHonestly, I haven't run into any particular issues with it while leveling or doing big pulls. The 10% damage transfer is completely manageable because your entire offensive kit acts as a passive heal engine:\n* Gaze of C'thun keeps a steady stream of healing rolling.\n* Blade of the Empire outputs massive damage that instantly converts into strong healing via the covenant effect.\n* Malevolence applies the Black Blood debuff, which also contributes heavily to sustaining the group.\n\nIf things get a bit too spicy on a massive pull, you can easily weave in an Eldritch Eye to chain/spam Malevolence, or throw a quick Void Shield on the tank to mitigate incoming burst damage while you catch up.",
+   "upvotes": 1,
+   "created_at": "2026-07-21T18:50:20.929167+00:00",
+   "updated_at": "2026-07-21T19:05:22.376284+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "015bf51a-65a8-478a-ba7d-e121584af469",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "2e670422-53d2-4af7-ad3b-dd552901cebc",
+   "body": "Hey! It really comes down to a situational choice. \n\nIf the group is stable and taking manageable damage, I mostly use Tentacle of C'thun. It deals active shadow damage that scales with your stats (like your attack power or spell power), which then converts into continuous healing through Abyssal Covenant. \n\nOn the other hand, if the group starts taking heavy, sudden damage—like massive boss AOEs hitting everyone—Tentacle of Yogg-Saron shines. The 6% increased healing aura and pushback protection provide a really nice utility boost to help stabilize and top off the group much more easily when things get intense.",
+   "upvotes": 1,
+   "created_at": "2026-07-21T18:57:29.877071+00:00",
+   "updated_at": "2026-07-21T19:10:19.483026+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "6fa8e735-6ca2-47c3-87f2-5318311d8bd2",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "222b1221-82dc-436e-8c1e-c0e4728a28be",
+   "parent_id": "b7ff1366-3f95-4d93-a0dd-35a13008de84",
+   "body": "Hi Thanks for your answer and the whole guide! That was just my experience on big pulls on like super early level (not even 20 i think). I will give it a try again!",
+   "upvotes": 0,
+   "created_at": "2026-07-21T19:08:02.944976+00:00",
+   "updated_at": "2026-07-21T19:08:02.944976+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "222b1221-82dc-436e-8c1e-c0e4728a28be",
+    "username": "JB#27",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "beccc76a-e17d-4888-919c-9b602015c63e",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "c38ba932-aada-4a57-94ac-8041afd9a686",
+   "parent_id": null,
+   "body": "Bisbeard is suggesting BiS gear that has +Hit on it. Is that just a mistake in how Bisbeard is itemizing (not taking into account our level 20 passive) or do we actually need some +Hit for raid bosses?",
+   "upvotes": 0,
+   "created_at": "2026-07-21T23:25:33.783758+00:00",
+   "updated_at": "2026-07-21T23:25:33.783758+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "c38ba932-aada-4a57-94ac-8041afd9a686",
+    "username": "Kevin Carter",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKck4i1BPWte_W0CuNUdvtJohn4mKgJmK-XMDsqR_i3pIQn8bPQ=s96-c"
+   }
+  },
+  {
+   "id": "5573c153-0f90-40cb-9431-9cddea391197",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+   "parent_id": null,
+   "body": "Hi, how's it going? Great guide! I have a quick question about it—I'd like to know what kind of armor you use, and whether it's better to have 3 dungeon sets or just a few mismatched pieces.",
+   "upvotes": 0,
+   "created_at": "2026-07-24T17:30:47.361418+00:00",
+   "updated_at": "2026-07-24T17:30:47.361418+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+    "username": "bvflowers.",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1445260398474432556/5f38aa6b11650a30cf3ddfe52dd91486.png"
+   }
+  },
+  {
+   "id": "50efa057-f753-4116-8d36-4f3a9454d7c3",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "5573c153-0f90-40cb-9431-9cddea391197",
+   "body": "Hi! I'm good. To answer your question, I don't pay attention to the type of pieces I equip, I focus purely on the stats!",
+   "upvotes": 0,
+   "created_at": "2026-07-25T14:49:23.660589+00:00",
+   "updated_at": "2026-07-25T14:49:23.660589+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "d2fcbd85-aa5a-4db9-b5d6-f33e80cc7dd2",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "2e670422-53d2-4af7-ad3b-dd552901cebc",
+   "body": "Also, regarding the +Hit that Bisbeard suggests, it's just a mistake in how they itemize. With our level 20 passive, we have 100% hit chance and cannot be parried, dodged, or blocked anymore. So there is no reason to stack hit, whether it's for raid bosses or not—especially since raids aren't even out yet on Conquest of Azeroth.",
+   "upvotes": 0,
+   "created_at": "2026-07-25T14:51:40.021412+00:00",
+   "updated_at": "2026-07-25T14:51:40.021412+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  },
+  {
+   "id": "9310885c-7b7e-4ae0-acf9-35020c50beee",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "d1cfb49c-81ec-4090-b56e-16fc4df92f17",
+   "parent_id": null,
+   "body": "I appreciate the time you put into the build, but I would encourage you to avoid AI to write guides like this.  It adds a lot of fluff that isn't really relevant and doesn't understand basic mechanics of the game.  For instance, you don't need to \"Cast Abyssal Covenant at the start of the fight\" because its an 30 minute buff.  You cast it once at the beginning of a dungeon, and then you don't need to cast it again.\n\nPlease just re-read the entire guide you're posting before you post it, this contains a lot of bad information on how to play the class.  \"When you run out of Blade of the Empire charges, use Malevolence to continue generating insanity\" is clearly incorrect; you should cast Malevolence when Black Blood isn't applied to keep up healing from Black Blood and the tentacles talent.  If you're just using it for insanity generation, you're playing the class incorrectly.\n\nAlso, please stop using AI to reply to comments; it makes it look like you don't care about the feedback being given.",
+   "upvotes": 0,
+   "created_at": "2026-07-27T04:19:41.292423+00:00",
+   "updated_at": "2026-07-27T04:19:41.292423+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "d1cfb49c-81ec-4090-b56e-16fc4df92f17",
+    "username": "Tyler Wardle",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKAu486uLnwf2QAjWiWQtN6l-esxfANce4Dk0CGGXnp6_3AaRKr=s96-c"
+   }
+  },
+  {
+   "id": "fc242631-d145-4524-ae00-490579edf140",
+   "build_id": "1b123e59-a47c-4b3d-98c4-f53116655269",
+   "author_id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+   "parent_id": "9310885c-7b7e-4ae0-acf9-35020c50beee",
+   "body": "Hi! I'm good, how about you? Thanks for your feedback. To be honest, I did use AI to translate and rephrase my thoughts. But using AI to help me express myself doesn't mean I don't care about the feedback—quite the opposite, otherwise I wouldn't be so diligent and responsive. \n\nAnd for Abyssal Covenant, that was indeed a transcription mistake on my part: it's not at the start of every fight, it's at the beginning of the dungeon. \n\nAnd for Blade of the Empire, when I run out of charges, I actually use Malevolence a lot to avoid being passive and having to rely solely on auto-attacks, just so I can use more spells.",
+   "upvotes": 0,
+   "created_at": "2026-07-28T19:02:30.742623+00:00",
+   "updated_at": "2026-07-28T19:02:30.742623+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ae7f7978-3f99-4157-8ca6-a3cafc3d3900",
+    "username": "Hortiss Shariff",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL6A8RaaKBhmvodFBKUtEKAwQAK8YTyWCipF7np69gkULSpCKU=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "ec218df4-9104-4880-b0c9-0f598ab65898",
+   "title": "Corruption pvp theory craft",
+   "class_id": 25,
+   "spec_id": 65,
+   "author_id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 228,
+   "featured": false,
+   "created_at": "2026-07-28T21:21:51.039658+00:00",
+   "updated_at": "2026-07-28T21:21:51.039658+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+    "username": "nschof",
+    "avatar_url": "https://cdn.discordapp.com/avatars/213470960936812544/a231295977f4f589bff6fb6a41fc857d.png"
+   }
+  },
+  {
+   "id": "d96cb605-9752-43ba-b071-2b0e30ef8ddc",
+   "title": "Good Blade PVE DPS",
+   "class_id": 25,
+   "spec_id": 64,
+   "author_id": "6d3f96b7-62e9-44f9-9ea2-6627730e8c25",
+   "tags": [
+    "Good Blade",
+    "PVE",
+    "DPS",
+    "OpenWorld"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 890,
+   "featured": false,
+   "created_at": "2026-07-25T01:00:51.546512+00:00",
+   "updated_at": "2026-07-25T01:00:51.546512+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "6d3f96b7-62e9-44f9-9ea2-6627730e8c25",
+    "username": "friofrio Clima",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocI77wt-n4x-B_LxDjOWa9rXSRi6g5g5YG8ZX4cAemeogjJrOA=s96-c"
+   }
+  },
+  {
+   "id": "e2935c2d-8cfe-46a5-91d1-b9ed79adf658",
+   "title": "BIG DPS PVE GODBLAD BUILD",
+   "class_id": 25,
+   "spec_id": 64,
+   "author_id": "0428e975-e8fe-4a2b-9bc5-e5ecb8b1d85f",
+   "tags": [
+    "Mythic"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 668,
+   "featured": false,
+   "created_at": "2026-07-25T00:53:56.020227+00:00",
+   "updated_at": "2026-07-25T00:53:56.020227+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "0428e975-e8fe-4a2b-9bc5-e5ecb8b1d85f",
+    "username": "Oliver Delabaye",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ29SM0KEbbP6uRCEQSH-GIYIMQjG14fuAHrUXFvPUM176QeSw=s96-c"
+   }
+  }
+ ],
+ "class": "Cultist",
+ "spec": "Heretic",
+ "allocations": [
+  [
+   "25-87-1-0",
+   1
+  ],
+  [
+   "25-87-7-0",
+   1
+  ],
+  [
+   "25-87-7-1",
+   3
+  ],
+  [
+   "25-87-8-2",
+   1
+  ],
+  [
+   "25-87-7-3",
+   1
+  ],
+  [
+   "25-87-1-1",
+   1
+  ],
+  [
+   "25-87-0-2",
+   1
+  ],
+  [
+   "25-87-1-3",
+   1
+  ],
+  [
+   "25-87-1-4",
+   1
+  ],
+  [
+   "25-87-7-4",
+   1
+  ],
+  [
+   "25-87-2-5",
+   1
+  ],
+  [
+   "25-87-0-6",
+   1
+  ],
+  [
+   "25-87-4-6",
+   1
+  ],
+  [
+   "25-87-8-6",
+   1
+  ],
+  [
+   "25-87-5-7a",
+   1
+  ],
+  [
+   "25-87-1-7",
+   2
+  ],
+  [
+   "25-87-7-7a",
+   1
+  ],
+  [
+   "25-87-3-2",
+   1
+  ],
+  [
+   "25-87-4-3b",
+   1
+  ],
+  [
+   "25-87-3-4",
+   1
+  ],
+  [
+   "25-87-6-5",
+   1
+  ],
+  [
+   "25-87-2-8",
+   1
+  ],
+  [
+   "25-87-2-9",
+   1
+  ],
+  [
+   "25-66-4-0",
+   1
+  ],
+  [
+   "25-66-2-1",
+   2
+  ],
+  [
+   "25-66-6-1",
+   2
+  ],
+  [
+   "25-66-2-2",
+   1
+  ],
+  [
+   "25-66-2-3",
+   1
+  ],
+  [
+   "25-66-4-2",
+   1
+  ],
+  [
+   "25-66-4-3a",
+   1
+  ],
+  [
+   "25-66-1-4",
+   1
+  ],
+  [
+   "25-66-4-4",
+   1
+  ],
+  [
+   "25-66-5-5",
+   1
+  ],
+  [
+   "25-66-4-6",
+   1
+  ],
+  [
+   "25-66-3-7",
+   1
+  ],
+  [
+   "25-66-5-7",
+   1
+  ],
+  [
+   "25-66-0-5a",
+   1
+  ],
+  [
+   "25-66-1-6",
+   1
+  ],
+  [
+   "25-66-6-2",
+   1
+  ],
+  [
+   "25-66-6-3",
+   1
+  ],
+  [
+   "25-66-7-4",
+   1
+  ],
+  [
+   "25-66-10-0",
+   1
+  ],
+  [
+   "25-66-10-2",
+   1
+  ],
+  [
+   "25-66-10-4",
+   1
+  ],
+  [
+   "25-66-10-6",
+   1
+  ],
+  [
+   "25-66-10-8",
+   1
+  ],
+  [
+   "25-66-6-5b",
+   1
+  ],
+  [
+   "25-66-7-6b",
+   1
+  ],
+  [
+   "25-66-7-7",
+   1
+  ],
+  [
+   "25-66-6-8",
+   1
+  ],
+  [
+   "25-66-6-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "25-87-1-0",
+   "points": 1,
+   "name": "Void Shield",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 500715
+  },
+  {
+   "id": "25-87-7-0",
+   "points": 1,
+   "name": "Abyssal Ward",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 804670
+  },
+  {
+   "id": "25-87-7-1",
+   "points": 3,
+   "name": "Empire Commander",
+   "maxPoints": 3,
+   "tree": "Cultist (class tree)",
+   "spellId": 704887
+  },
+  {
+   "id": "25-87-8-2",
+   "points": 1,
+   "name": "Shroud of Pride",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805126
+  },
+  {
+   "id": "25-87-7-3",
+   "points": 1,
+   "name": "Wicked Thoughts",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706190
+  },
+  {
+   "id": "25-87-1-1",
+   "points": 1,
+   "name": "Empire's Blessing",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 704895
+  },
+  {
+   "id": "25-87-0-2",
+   "points": 1,
+   "name": "Shadow Words",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706928
+  },
+  {
+   "id": "25-87-1-3",
+   "points": 1,
+   "name": "Gift of C'Thun",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706189
+  },
+  {
+   "id": "25-87-1-4",
+   "points": 1,
+   "name": "Hallucination",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560301
+  },
+  {
+   "id": "25-87-7-4",
+   "points": 1,
+   "name": "Embrace the Void",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 582591
+  },
+  {
+   "id": "25-87-2-5",
+   "points": 1,
+   "name": "Embodied Presences",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 803283
+  },
+  {
+   "id": "25-87-0-6",
+   "points": 1,
+   "name": "Mind Games",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 582589
+  },
+  {
+   "id": "25-87-4-6",
+   "points": 1,
+   "name": "Void Hunger",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 524879
+  },
+  {
+   "id": "25-87-8-6",
+   "points": 1,
+   "name": "Improved Sermon of Dread",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706177
+  },
+  {
+   "id": "25-87-5-7a",
+   "points": 1,
+   "name": "Eldritch Command",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 302015
+  },
+  {
+   "id": "25-87-1-7",
+   "points": 2,
+   "name": "Darkward",
+   "maxPoints": 2,
+   "tree": "Cultist (class tree)",
+   "spellId": 706180
+  },
+  {
+   "id": "25-87-7-7a",
+   "points": 1,
+   "name": "Ungodly Blessing",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 301241
+  },
+  {
+   "id": "25-87-3-2",
+   "points": 1,
+   "name": "Mass Nightmare",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805114
+  },
+  {
+   "id": "25-87-4-3b",
+   "points": 1,
+   "name": "Rapid Incantations",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 301181
+  },
+  {
+   "id": "25-87-3-4",
+   "points": 1,
+   "name": "Overwhelming Void",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 707429
+  },
+  {
+   "id": "25-87-6-5",
+   "points": 1,
+   "name": "Dark Calling",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560715
+  },
+  {
+   "id": "25-87-2-8",
+   "points": 1,
+   "name": "Crystalline Reflection",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 525060
+  },
+  {
+   "id": "25-87-2-9",
+   "points": 1,
+   "name": "Split Mind",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 572064
+  },
+  {
+   "id": "25-66-4-0",
+   "points": 1,
+   "name": "Malevolence",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 500714
+  },
+  {
+   "id": "25-66-2-1",
+   "points": 2,
+   "name": "Blade of Yogg-Saron",
+   "maxPoints": 2,
+   "tree": "Heretic",
+   "spellId": 524887
+  },
+  {
+   "id": "25-66-6-1",
+   "points": 2,
+   "name": "Shadow Pennant",
+   "maxPoints": 2,
+   "tree": "Heretic",
+   "spellId": 706926
+  },
+  {
+   "id": "25-66-2-2",
+   "points": 1,
+   "name": "Malevolent Power",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 301183
+  },
+  {
+   "id": "25-66-2-3",
+   "points": 1,
+   "name": "Eldritch Eye",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 802049
+  },
+  {
+   "id": "25-66-4-2",
+   "points": 1,
+   "name": "Abyssal Covenant",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 500751
+  },
+  {
+   "id": "25-66-4-3a",
+   "points": 1,
+   "name": "Dark Protection",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 704897
+  },
+  {
+   "id": "25-66-1-4",
+   "points": 1,
+   "name": "Saronite Mind",
+   "maxPoints": 2,
+   "tree": "Heretic",
+   "spellId": 806266
+  },
+  {
+   "id": "25-66-4-4",
+   "points": 1,
+   "name": "As The Prophecy Foretold",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 504642
+  },
+  {
+   "id": "25-66-5-5",
+   "points": 1,
+   "name": "Yogg-Saron's Embrace",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 301984
+  },
+  {
+   "id": "25-66-4-6",
+   "points": 1,
+   "name": "Dark Veil",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 520345
+  },
+  {
+   "id": "25-66-3-7",
+   "points": 1,
+   "name": "Dark Reservoir",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 300284
+  },
+  {
+   "id": "25-66-5-7",
+   "points": 1,
+   "name": "Visions of the Empire",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 806384
+  },
+  {
+   "id": "25-66-0-5a",
+   "points": 1,
+   "name": "Protection From Light",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 704434
+  },
+  {
+   "id": "25-66-1-6",
+   "points": 1,
+   "name": "Dark Infusion",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 500721
+  },
+  {
+   "id": "25-66-6-2",
+   "points": 1,
+   "name": "Twisted Sanity",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 706187
+  },
+  {
+   "id": "25-66-6-3",
+   "points": 1,
+   "name": "Forbidden Ritual",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 800105
+  },
+  {
+   "id": "25-66-7-4",
+   "points": 1,
+   "name": "Prophetic Compulsion",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 300264
+  },
+  {
+   "id": "25-66-10-0",
+   "points": 1,
+   "name": "Herald of the Depths",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 92131
+  },
+  {
+   "id": "25-66-10-2",
+   "points": 1,
+   "name": "Shadow Training",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 805607
+  },
+  {
+   "id": "25-66-10-4",
+   "points": 1,
+   "name": "Void-Touched",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 300286
+  },
+  {
+   "id": "25-66-10-6",
+   "points": 1,
+   "name": "Void Power",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 574147
+  },
+  {
+   "id": "25-66-10-8",
+   "points": 1,
+   "name": "Blessing of Yogg-Saron",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 806264
+  },
+  {
+   "id": "25-66-6-5b",
+   "points": 1,
+   "name": "Forbidden Strength",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 301258
+  },
+  {
+   "id": "25-66-7-6b",
+   "points": 1,
+   "name": "Devour Curse",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 800402
+  },
+  {
+   "id": "25-66-7-7",
+   "points": 1,
+   "name": "Dark Chants",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 712471
+  },
+  {
+   "id": "25-66-6-8",
+   "points": 1,
+   "name": "Void Barrier",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 300291
+  },
+  {
+   "id": "25-66-6-9",
+   "points": 1,
+   "name": "Dark Prophet",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 301209
+  }
+ ]
+}

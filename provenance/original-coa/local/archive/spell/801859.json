@@ -1,0 +1,8 @@
+{
+  "name_enus": "Stormcloud",
+  "icon": "custom_t_snowwhirlwind_border",
+  "tooltip_enus": "<table><tr><td><b>Stormcloud</b><br />42% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Summon a cloud above an enemy target's head for 15&nbsp;sec, causing them to take 20% additional damage from your spells.<br /><br />Using <span style=\"color: #ffffff;\">Torrential Wrath</span> on an enemy affected by <span style=\"color: #ffffff;\">Stormcloud</span> causes a <span style=\"color: #ffffff;\">Geyser</span> to erupt beneath them, dealing 537+98.1 Points Per Level+FroP*.25 Frost damage and knocking them up slightly.</span></td></tr></table><!--?801859:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

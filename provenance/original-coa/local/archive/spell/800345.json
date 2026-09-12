@@ -1,0 +1,8 @@
+{
+  "name_enus": "Snipe",
+  "icon": "inv_firearm_2h_rifle_pvppandarias1_c_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Snipe</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>6% of base mana<br />5 sec cast</td></tr></table><table><tr><td>Requires Guns<br /><span class=\"q\">Fires a gunshot, dealing Weapon Damage plus 18, reducing the target's movement speed by 40% for 5&nbsp;sec.</span></td></tr></table><!--?800345:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

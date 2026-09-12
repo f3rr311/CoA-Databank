@@ -1,0 +1,8 @@
+{
+  "name_enus": "Black Prayer",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Black Prayer</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">All direct damage dealt now has a 5% chance to unleash a <span style=\"color: #ffffff;\">Black Prayer</span> on all enemies near the target for 9&nbsp;sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_misc_questionmark.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=806039'> Black Prayer </a> <br />\n                            <span> Deals 136*$<scalingbp>+ShaP*.12+AP*.005 Shadow Damage every 3 sec and reduces attack speed by 20%.</span><br /></span></td></tr></table><!--?805110:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

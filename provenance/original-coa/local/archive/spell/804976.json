@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lair Guard",
+  "icon": "_websight",
+  "tooltip_enus": "<table><tr><td><b>Lair Guard</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Spider Form Jump</span> now generates an additional 10 Rage and <span style=\"color: #ffffff;\">Shadra's Lair</span> now reduces all damage taken by 10% and their cooldowns are reduced by 15 sec.</span></td></tr></table><!--?804976:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

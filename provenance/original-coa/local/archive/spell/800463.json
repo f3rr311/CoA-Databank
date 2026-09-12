@@ -1,0 +1,8 @@
+{
+  "name_enus": "Void Reaver",
+  "icon": "sha_spell_shadow_shadesofdarkness",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Void Reaver</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Avoiding or absorbing an attack now has a 20% chance to make your next <span style=\"color: #FFFFFF;\">Blade of the Empire</span> deal 20% more damage and hit an additional nearby enemy.</span></td></tr></table><!--?800463:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

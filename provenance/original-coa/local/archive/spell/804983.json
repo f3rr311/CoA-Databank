@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spore",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spore</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>15% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Inject an enemy with parasitic spores, dealing 20+0+NatP*.175 Shadow damage, plus an additional 210 to 224 over 21&nbsp;sec.<br /><br />After 10 sec, drop a <span style=\"color: #ffffff;\">Mushroom</span> below the target that explodes after 2 sec, dealing 303*$<scalingbp>+NatP*.25 Nature damage to nearby enemies.</span></td></tr></table><!--?804983:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hammer of Life",
+  "icon": "inv_mace_1h_draenorraid_d_04green",
+  "tooltip_enus": "<table><tr><td><b>Hammer of Life</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Melee abilities now heal 10 nearby allies for 0, scaling with attack power.<br /><br />Cannot occur more than once every 5 sec.</span></td></tr></table><!--?801233:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

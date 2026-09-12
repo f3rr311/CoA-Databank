@@ -1,0 +1,8 @@
+{
+  "name_enus": "Censure",
+  "icon": "spell_holy_holysmite",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Censure</b></td><th><b class=\"q0\">Spreader</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Shackle an enemy with chains of light, preventing mounting, fleeing, or increasing their movement speed above normal movement speed for 15&nbsp;sec.</span></td></tr></table><!--?801582:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

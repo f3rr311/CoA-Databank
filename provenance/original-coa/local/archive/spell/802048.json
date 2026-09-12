@@ -1,0 +1,8 @@
+{
+  "name_enus": "Corruptor's Gaze",
+  "icon": "inv_eyeofnzothpet",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Corruptor's Gaze</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the damage of your <span style=\"color: #ffffff;\">Tentacles</span> by 20%.</span></td></tr></table><!--?802048:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

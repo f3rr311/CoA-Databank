@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ammo Clip",
+  "icon": "inv_ammo_bullet_08",
+  "tooltip_enus": "<table><tr><td><b>Ammo Clip</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #FFFFFF;\">Boomshot</span> by 0 sec.</span></td></tr></table><!--?800348:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

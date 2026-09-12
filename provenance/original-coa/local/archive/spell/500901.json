@@ -1,0 +1,8 @@
+{
+  "name_enus": "Create Distance",
+  "icon": "ability_skyreach_dismount",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Create Distance</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Daring Escape</span> now makes the next ability used within 3&nbsp;sec knock your target back.</span></td></tr></table><!--?500901:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Babify",
+  "icon": "inv_snowkid",
+  "tooltip_enus": "<table><tr><td><b>Babify</b><br />17% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Transform the enemy into a baby, preventing it from acting for 40&nbsp;sec (8 sec vs players), damage dealt will interrupt this effect.<br /><br />Removes harmful magic effects from the target, and can only affect 1 target at a time.<br /><br />Only works on Humanoids and Beasts.</span></td></tr></table><!--?804461:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

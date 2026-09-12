@@ -1,0 +1,8 @@
+{
+  "name_enus": "Soulrot",
+  "icon": "nhi_souldrain_border",
+  "tooltip_enus": "<table><tr><td><b>Soulrot</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Rot the soul of your target, cursing them for 15&nbsp;sec. At the end of the duration the enemy will take damage based on the number of stacks accrued. <br /><br />Each instance of damage from <span style=\"color: #FFFFFF;\">Deathchaser</span> adds 1 stack to this effect, up to 20 stacks. Dispelling this effect causes the dispeller to instantly take 1200+AP*2 Shadow Damage.</span></td></tr></table><!--?804660:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

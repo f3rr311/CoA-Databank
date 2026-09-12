@@ -1,0 +1,19 @@
+{
+  "name_enus": "Deliverance",
+  "icon": "inv_belt_plate_raidpaladinmythic_q_01",
+  "tooltip_enus": "<table><tr><td><b>Deliverance</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cast time of <span style=\"color: #ffffff;\">Sunflare</span><!--sp500207:0--><!--sp500207--> by 0.25 sec and increases<!--sp500207:0--> its<!--sp500207--> damage by 5%.</span></td></tr></table><!--?806114:1:1:80-->",
+  "spells_enus": {
+    "500207": [
+      [
+        "",
+        " and <span style=\"color: #ffffff\">Dawnsear</span>"
+      ],
+      [
+        " its",
+        " their"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Curse of Xoroth",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Curse of Xoroth</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Curse an enemy for 15&nbsp;sec, dealing (15*1000/3)*(315+0+AP*0.2) Shadowflame Damage over 15&nbsp;sec.<br /><br />Your next <span style=\"color: #ffffff;\">Shieldgore</span> within 12&nbsp;sec grants you <span style=\"color: #ffffff;\">Black Shield</span>, absorbing 500+9.0 Points Per Level+Sta*2 damage for 30&nbsp;sec.</span></td></tr></table><!--?804169:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

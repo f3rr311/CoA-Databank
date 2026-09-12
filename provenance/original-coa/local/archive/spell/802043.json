@@ -1,0 +1,8 @@
+{
+  "name_enus": "Entropic Retaliation",
+  "icon": "nhi_shadowbarrier_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Entropic Retaliation</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Blocking an attack now increases your critical strike chance by 2% for 6&nbsp;sec, stacking up to 5 times.</span></td></tr></table><!--?802043:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bringer of Fire",
+  "icon": "inv_belt_cloth_raidwarlock_r_01",
+  "tooltip_enus": "<table><tr><td><b>Bringer of Fire</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Increases your maximum Demonfire stacks by 2, and increases the bonus your Demonfire consuming abilities gain for each stack by 20%.</span></td></tr></table><!--?805667:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

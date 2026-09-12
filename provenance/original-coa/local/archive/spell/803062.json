@@ -1,0 +1,8 @@
+{
+  "name_enus": "Summon: Mindbender",
+  "icon": "inv_hivemind",
+  "tooltip_enus": "<table><tr><td><b>Summon: Mindbender</b><br />40% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Summons a <span style=\"color: #ffffff;\">Mindbender</span> to aid you in battle until dismissed.<br /><br />This minion excels at supporting allies and can periodically heal allies within 40 yds.</span></td></tr></table><!--?803062:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

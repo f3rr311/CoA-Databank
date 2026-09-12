@@ -1,0 +1,8 @@
+{
+  "name_enus": "Solstice",
+  "icon": "_time_3_sunset",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Solstice</b></td><th><b class=\"q0\">Talent</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the power of <span style=\"color: #FF9800;\">Dawn</span> effects on your spells by 25%.</span></td></tr></table><!--?704950:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

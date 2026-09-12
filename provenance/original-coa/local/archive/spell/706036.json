@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vile Fangs",
+  "icon": "_soulfire_shadow",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Vile Fangs</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Periodic damage dealt now has a 10% chance to generate a <span style=\"color: #66ff66;\">Brood Mark</span>.</span></td></tr></table><!--?706036:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

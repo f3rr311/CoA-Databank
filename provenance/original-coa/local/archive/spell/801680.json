@@ -1,0 +1,8 @@
+{
+  "name_enus": "Step of the Panther",
+  "icon": "ability_hunter_survivalinstincts",
+  "tooltip_enus": "<table><tr><td><b>Step of the Panther</b><br /><table width=\"100%\"><tr><td>Instant</td><th>40&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Invokes Bethekk</span><br />You transform into a Panther, increasing your movement speed by 30% for 6&nbsp;sec and clearing any root effects and making you immune to root effects.<br /><br />For the first 3&nbsp;sec of this effect, you cannot be hit by any attacks or spells, but causing any direct damage or healing will end the effect.</span></td></tr></table><!--?801680:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

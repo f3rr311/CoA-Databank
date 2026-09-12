@@ -1,0 +1,8 @@
+{
+  "name_enus": "Primal Defusion",
+  "icon": "spell_nature_abolishmagic",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Primal Defusion</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces mana cost of <span style=\"color: #FFFFFF;\">Primal Infusion</span> and increases healing by 20%.</span></td></tr></table><!--?706144:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Zealous Conquest",
+  "icon": "spell_holy_divinepurpose",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Zealous Conquest</b></td><th><b class=\"q0\">Passive.</b></th></tr></table></td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\">Gives your off-hand attacks a 5% chance to generate a <span style=\"color: #ffffff;\">Daybreak</span> stack.</span></td></tr></table><!--?560077:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

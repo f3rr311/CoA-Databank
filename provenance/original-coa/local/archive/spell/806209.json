@@ -1,0 +1,8 @@
+{
+  "name_enus": "Threads of Eternity",
+  "icon": "inv_tailoring_80_nylonthread",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Threads of Eternity</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Discordance</span> now applies <span style=\"color: #ffffff;\">Thread of Eternity</span> to enemies.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_tailoring_80_nylonthread.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=572127'> Thread of Eternity </a> <br />\n                            <span> Marked for 6&nbsp;sec. Damage taken from <span style=\"color: #ffffff;\">Wand of Time</span> is increased by 30%.<br /><br />You may consume this debuff with <span style=\"color: #ffffff;\">Wand of Time</span> to gain an additional effect based on your active <span style=\"color: #C49A6C;\">Continuum Spell</span>.<br /><br /><span style=\"color: #FFFFFF;\">Singularity Core</span>: Triggers 3 instances of <span style=\"color: #FFFFFF;\">Singularity Core</span> damage.<br /><br /><span style=\"color: #FFFFFF;\">Flux Emitter</span>: Explodes on the enemy, dealing 50% of the damage dealt to all enemies within 8 yds.<br /><br /><span style=\"color: #FFFFFF;\">Paradox Cannon</span>: Increases the damage of your next <span style=\"color: #FFFFFF;\">Shatter Echo</span> within 6 sec by 25%.</span><br /></span></td></tr></table><!--?806209:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

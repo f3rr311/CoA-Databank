@@ -1,0 +1,15 @@
+{
+  "name_enus": "Meatsaw",
+  "icon": "ability_butcher_whirl",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Meatsaw</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>45 Rage<br />Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\"><span style=\"color: #ff9933;\">Generates 2 Demonfire</span><br />Quickly swing a massive blade at up to 5 nearby enemies, dealing 50% Weapon Damage plus 8<!--sp514169:0--><!--sp514169-->.</span></td></tr></table><!--?800340:1:1:80-->",
+  "spells_enus": {
+    "514169": [
+      [
+        "",
+        " and applies <span style=\"color: #ffffff\">Torn Flesh</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

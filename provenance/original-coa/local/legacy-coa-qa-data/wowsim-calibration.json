@@ -1,0 +1,21 @@
+{
+ "spec": "fire mage",
+ "buffs": false,
+ "targets": 1,
+ "duration_s": 180,
+ "sim_dps_by_phase": {
+  "preraid": 2524,
+  "p1": 3485,
+  "p2": 4653,
+  "p3": 5487,
+  "p4": 7687
+ },
+ "gear_spellpower": {
+  "preraid": 680,
+  "p1": null,
+  "p2": 1957,
+  "p3": 2295,
+  "p4": 2758
+ },
+ "coa_target_80": 1842
+}

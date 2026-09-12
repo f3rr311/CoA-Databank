@@ -1,0 +1,8 @@
+{
+  "name_enus": "Enduring Exoskeleton",
+  "icon": "spell_nature_skinofearth",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Enduring Exoskeleton</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases Armor contribution from items by 10% and grants direct damage dealt and taken a 15% chance to generate 2 Rage.<br /><br />Can only occur once per sec.</span></td></tr></table><!--?706004:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

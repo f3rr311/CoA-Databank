@@ -1,0 +1,8 @@
+{
+  "name_enus": "Summoning Ritual",
+  "icon": "nhi_deathgolem_border",
+  "tooltip_enus": "<table><tr><td><b>Summoning Ritual</b><br />15% of base mana<br /><table width=\"100%\"><tr><td>1 sec cast</td><th>5&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Summon a ritual circle at your location for 1&nbsp;min. While active, you may cast <span style=\"color: #ffffff;\">Ritual Return</span> to return to it.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_necro_undyingrelentlessness.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=807098'> Ritual Return </a> <br />\n                            <span> Teleport back to the position of your <span style=\"color: #ffffff;\">Scourge Transporter</span> and remove all movement slowing effects from you.</span><br /></span></td></tr></table><!--?805038:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

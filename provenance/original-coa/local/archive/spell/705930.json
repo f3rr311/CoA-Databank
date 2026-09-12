@@ -1,0 +1,8 @@
+{
+  "name_enus": "Raptor Pens",
+  "icon": "ability_hunter_beastmastery",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Raptor Pens</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldowns of <span style=\"color: #ffffff;\">Raptor's Call</span>, <span style=\"color: #ffffff;\">Raptor Ambush</span> and <span style=\"color: #ffffff;\">Saurid Swarm</span> by 20%.</span></td></tr></table><!--?705930:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

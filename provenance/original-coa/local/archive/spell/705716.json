@@ -1,0 +1,8 @@
+{
+  "name_enus": "Unrelenting Gale",
+  "icon": "spell_frost_stun",
+  "tooltip_enus": "<table><tr><td><b>Unrelenting Gale</b><br /></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Gale</span> by 0 sec and increases its damage by 0%.</span></td></tr></table><!--?705716:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

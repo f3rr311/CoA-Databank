@@ -1,0 +1,8 @@
+{
+  "name_enus": "Infernal Shield",
+  "icon": "inv_misc_enggizmos_04",
+  "tooltip_enus": "<table><tr><td><b>Infernal Shield</b><br /><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces damage taken by 10%. Lasts 0.05 sec for each stack consumed.<br /><br />While the shield holds, enemies who strike you will take Fire damage, scaling with each <span style=\"color: #ff9933;\">Demonfire</span> stack consumed.</span></td></tr></table><!--?801001:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

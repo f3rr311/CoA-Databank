@@ -1,0 +1,8 @@
+{
+  "name_enus": "Binding Scripture",
+  "icon": "_d3breathofheaven",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Binding Scripture</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Healing an ally now redirects 10% of their damage taken to you and reduces your damage taken by 5% for 10&nbsp;sec, stacking 3 times.<br /><br /> Healing yourself does not trigger this effect.<br /></span></td></tr></table><!--?801457:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

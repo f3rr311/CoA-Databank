@@ -1,0 +1,15 @@
+{
+  "name_enus": "Sargeron Smite",
+  "icon": "uico_unholy_spell_03_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Sargeron Smite</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #32cd32;\">Consumes 2 Felfury</span> <br />Blast an enemy for COND(GT(FireP, ShaP), 21+0+FireP*.6+AP*.19, 21+0+ShaP*.6+AP*.19) Shadowflame Damage and generate 20 Energy.<!--sp804216:0--><!--sp804216--></span></td></tr></table><!--?802060:1:1:80-->",
+  "spells_enus": {
+    "804216": [
+      [
+        "",
+        " <br /><br /><span style=\"color: #ff32cd\">Inner Demon</span>: This spell casts an additional time free of cost."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

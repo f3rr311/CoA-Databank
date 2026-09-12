@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lingering Lightning",
+  "icon": "shaman_pvp_staticcling",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lingering Lightning</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the durations of <span style=\"color: #ffffff;\">Thunder Orbs</span>, <span style=\"color: #ffffff;\">Conjure Storm</span> and <span style=\"color: #ffffff;\">Body of Lightning</span> by 3 sec.</span></td></tr></table><!--?705651:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Call Avatar: Pterrordax",
+  "icon": "ability_racial_embraceoftheloa_paku",
+  "tooltip_enus": "<table><tr><td><b>Call Avatar: Pterrordax</b><br />14% of base mana<br /><table width=\"100%\"><tr><td>3 sec cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">[Pterrordax]Call forth an Avatar: <span style=\"color: #FFFFFF;\">Pterrodax</span>.<br /><br /><span style=\"color: #FFFFFF;\">Pterodax</span> are capable of supporting allies and casting a <span style=\"color: #ffffff;\">Devotion</span> will also apply it to them, allowing them to <span style=\"color: #ffffff;\">Invoke</span> Loa with their abilities.</span></td></tr></table><!--?801609:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

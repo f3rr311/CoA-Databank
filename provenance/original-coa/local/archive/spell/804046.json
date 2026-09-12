@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bulwark",
+  "icon": "inv_shield_06",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bulwark</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 20 Passive</span><br />Increases your block value by 25% and your hit rating by 5% of your Stamina.</span></td></tr></table><!--?804046:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

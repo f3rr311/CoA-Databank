@@ -1,0 +1,8 @@
+{
+  "name_enus": "Aspect of the Goddess",
+  "icon": "achievement_leader_tyrande_whisperwind",
+  "tooltip_enus": "<table><tr><td><b>Aspect of the Goddess</b><br />5% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">While active, your healing done is increased by 10% and your spells and abilities will not be able to miss.<br /><br />In addition, consuming <span style=\"color: #66ccff;\">Scattered Stars</span> now heals up to 5 allies around the target for 31+2.9 Points Per Level+Heal*0.149749.<br /><br />Shares a cooldown with other <span style=\"color: #ffffff;\">Aspects</span>.</span></td></tr></table><!--?802203:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

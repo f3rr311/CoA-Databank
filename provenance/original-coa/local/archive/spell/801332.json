@@ -1,0 +1,15 @@
+{
+  "name_enus": "Shrieker",
+  "icon": "nhi_reaperscythe_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Shrieker</b></td><th><b class=\"q0\">Heal</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Shred the enemy with a shadowy scythe, dealing 1 Shadow Damage<!--sp705448:0--><!--sp705448--></span></td></tr></table><!--?801332:1:1:80-->",
+  "spells_enus": {
+    "705448": [
+      [
+        "",
+        " and silencing them for 3.5&nbsp;sec. <br /><br />If the target is silenced successfully, you also deal additional Weapon Damage as Shadow based on how low your Health is."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

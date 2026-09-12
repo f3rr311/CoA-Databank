@@ -1,0 +1,8 @@
+{
+  "name_enus": "Magic Erosion",
+  "icon": "spell_shadow_charm",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Magic Erosion</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Decomposition</span> now deals 10% more damage and applies <span style=\"color: #ffffff;\">Magic Erosion</span> to the target, increasing attackers chance to hit the target with spells by 3% for 30&nbsp;sec.</span></td></tr></table><!--?706046:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

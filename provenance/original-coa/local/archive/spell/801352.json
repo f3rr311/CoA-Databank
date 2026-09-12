@@ -1,0 +1,8 @@
+{
+  "name_enus": "Body of Magma",
+  "icon": "inv_firerevenant",
+  "tooltip_enus": "<table><tr><td><b>Body of Magma</b><br /><table width=\"100%\"><tr><td>2 sec cast</td><th>1&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Imbue your body with magma, increasing spell haste by 15% of your Intellect, and your spell critical strike chance by 20% of your Intellect.<br /><br />Reduces the duration of silence effects used against you by 20% and increases the range of <span style=\"color: #ffffff;\">Cave In</span> by 10 yds.</span></td></tr></table><!--?801352:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

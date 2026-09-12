@@ -1,0 +1,15 @@
+{
+  "name_enus": "Build: Restorative Beacon",
+  "icon": "spell_mekkatorque_bot_greenspring",
+  "tooltip_enus": "<table><tr><td><b>Build: Restorative Beacon</b><br />25% of base mana<br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">3 Charges, 15 sec recharge</span><br />Throw down a restorative beacon for 15&nbsp;sec which projects a field that heals raid and party members in the area for 18+3.5 Points Per Level+SP*0.12 every 3 sec.<!--sp524834:0--><!--sp524834--><br /><br />Shares a cooldown with other <span style=\"color: #ffffff;\">Beacons</span></span></td></tr></table><!--?801801:1:1:80-->",
+  "spells_enus": {
+    "524834": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #ffffff\">Overcharge</span>: Heals all allies within 15 yds for 10% of their maximum health plus 260+25.0 Points Per Level+Heal*.8."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sintorcher",
+  "icon": "spell_fire_lavaspawn",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Sintorcher</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your damage and healing done by 3% and your critical strike chance against Undead by 2%.</span></td></tr></table><!--?704909:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

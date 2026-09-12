@@ -1,0 +1,8 @@
+{
+  "name_enus": "Void-Enchanted Armor",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Void-Enchanted Armor</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases your chance to resist dispel effects by 20%.</span></td></tr></table><!--?804633:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

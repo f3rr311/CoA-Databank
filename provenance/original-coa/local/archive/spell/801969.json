@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vengeance of Elune",
+  "icon": "inv_staff_2h_ardenweald_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Vengeance of Elune</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>3% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>5&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Causes 19 to 29 Arcane damage to up to 4 enemies within $a1yd of the target, scaling with attack power and Intellect.<br /><br />Can only be used after parrying an attack. This attack cannot be avoided.</span></td></tr></table><!--?801969:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

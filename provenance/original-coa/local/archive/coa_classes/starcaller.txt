@@ -1,0 +1,53 @@
+Starcaller Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Starcaller Overview
+ Starcallers bring celestial power to CoA with four specializations spanning every role. Warden tanks as an Elune avatar, Sentinel delivers moonbow DPS or healing, Moon Priest focuses on restoration, and Moon Guard protects with arcane barriers. Few classes match this role flexibility.
+ Astral knight infused with Elune's lunar power, adapting to any role with blade, bow, or moon magic.
+ Class Mechanic — Constellation
+ Starcallers align with celestial patterns, gaining bonuses based on active constellation configurations.
+ Starcaller uses Starlight as its primary resource and wears Mail / Plate armor.
+ Specializations
+ At level 10, Starcaller players choose one of three specializations, each offering a distinct playstyle:
+ Warden: Walk Maiev's path as an arcane-empowered avatar of Elune charging into battle.
+ Sentinel: Priestess of the Moon enhancing bows with astral magic — ranged DPS or healer with warsaber mounted combat.
+ Moon Priest: Weave moonlight to restore allies, using enchanted arrows and lunar phases for mana and healing.
+ Moon Guard: Elite Kaldorei sorcerer using arcane barriers that gain strength from mana flow to protect allies.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Four specs covering tank, DPS, and heal
+ Strength: Unique cosmic theme
+ Strength: Sentinel and Moon Priest fill Support roles
+ Weakness: Constellation management overhead
+ Weakness: Complex for new players
+ Weakness: Mail/plate hybrid gearing
+ Leveling Tips
+ Sentinel Moonbow works for solo ranged content. Moon Priest becomes essential in dungeon groups. Track constellation timers during boss fights.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Moon Priest healers anchor battleground teams. Warden tanks hold objectives with arcane-enhanced durability.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Starcaller in Conquest of Azeroth? Starcaller is a Tank / DPS / Healer class wearing Mail / Plate armor with Starlight as its resource.
+ What is the Constellation mechanic? Starcallers align with celestial patterns, gaining bonuses based on active constellation configurations.
+ When do Starcaller specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Starcaller good for beginners? Starcaller has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Starcaller have? Starcaller has three specializations: Warden, Sentinel, Moon Priest, Moon Guard.

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Javelin Toss",
+  "icon": "inv_misc_2h_harpoon_b_01",
+  "tooltip_enus": "<table><tr><td><b>Javelin Toss</b><br />30 Focus<br /><table width=\"100%\"><tr><td>Instant</td><th>4&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Toss a javelin, dealing 17 to 18 Physical damage to an enemy and causes them to bleed for an additional 3 damage every 2 sec for 16&nbsp;sec. Stacks 3 times.<br /><br />Direct damage increased by 20% for each stack of <span style=\"color: #8fff7a;\">Advantage</span>.</span></td></tr></table><!--?801081:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

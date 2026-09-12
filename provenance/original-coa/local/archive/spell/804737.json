@@ -1,0 +1,8 @@
+{
+  "name_enus": "Clanlord's Totem",
+  "icon": "inv_belt_armor_orcclan_d_01",
+  "tooltip_enus": "<table><tr><td><b>Clanlord's Totem</b><br />20 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Drop the <span style=\"color: #FFFFFF;\">Clanlord's Totem</span> at the target location where it will remain for 15&nbsp;sec.<br /><br />The totem emanates an aura for 15&nbsp;sec, causing allied players within 100 yds to deal AP*0.35 additional damage as Frost damage when they deal direct damage and gain 50% increased honor.<br /><br />Applies <span style=\"color: #FFFFFF;\">Exhaustion</span>, preventing you from benefiting from similar effects for 1&nbsp;min.</span></td></tr></table><!--?804737:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

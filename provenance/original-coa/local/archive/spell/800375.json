@@ -1,0 +1,8 @@
+{
+  "name_enus": "Aegis of Neptulon",
+  "icon": "ability_shaman_fortifyingwaters",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Aegis of Neptulon</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>9% of base mana<br /><table width=\"100%\"><tr><td>1.5 sec cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Places a protective bubble around the target ally for 12&nbsp;sec, absorbing up to 85+(PL*6-1*6) damage.<br /><br /><span style=\"color: #ffffff;\">High Tide</span>: This is instant.<br /><br /><span style=\"color: #ffffff;\">Low Tide</span>: Incurs a reduced cooldown.</span></td></tr></table><!--?800375:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

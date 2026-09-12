@@ -1,0 +1,8 @@
+{
+  "name_enus": "Unholy Frenzy",
+  "icon": "_frenzy_greenorange",
+  "tooltip_enus": "<table><tr><td><b>Unholy Frenzy</b><br />15% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Enrage your Undead minions for 15&nbsp;sec, increasing their haste by 30% and movement speed by 50%.</span></td></tr></table><!--?805029:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

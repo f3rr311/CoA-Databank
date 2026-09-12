@@ -1,0 +1,15 @@
+{
+  "name_enus": "Pestilence of Conquest",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Pestilence of Conquest</b><br /><table width=\"100%\"><tr><td>Instant</td><th>4&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Emanate a pestilence, slowing the casting speed of all enemies within 12 yds by 10%.<!--sp801002:0--><!--sp801002--></span></td></tr></table><!--?801053:1:1:80-->",
+  "spells_enus": {
+    "801002": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #ffffff\">Unleash</span>: Interrupts all enemy casts within 10 yds, preventing any spell from that school of magic from being cast for 2&nbsp;sec."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

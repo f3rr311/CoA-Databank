@@ -1,0 +1,15 @@
+{
+  "name_enus": "Infernal Whipcrack",
+  "icon": "ability_warlock_whiplash",
+  "tooltip_enus": "<table><tr><td><b>Infernal Whipcrack</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Enrage <!--sp800220:0-->up to 8<!--sp800220--> allies within 20 yds, reducing their damage taken by 15% and increasing their haste by 10% for 10&nbsp;sec.</span></td></tr></table><!--?805243:1:1:80-->",
+  "spells_enus": {
+    "800220": [
+      [
+        "up to 8",
+        "all"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

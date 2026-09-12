@@ -1,0 +1,8 @@
+{
+  "name_enus": "Veiled Knight",
+  "icon": "inv_sword_61",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Veiled Knight</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage dealt by <span style=\"color: #FFFFFF;\">Psychic Burst</span> by 25%.</span></td></tr></table><!--?706183:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

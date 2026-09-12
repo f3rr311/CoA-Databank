@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dambala's Rage",
+  "icon": "spell_holy_sealofrighteousness",
+  "tooltip_enus": "<table><tr><td><b>Dambala's Rage</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the damage of your <span style=\"color: #ffffff;\">Wards</span> and summoned creatures by 10%, and gives their damage dealt a 10% chance to trigger a <span style=\"color: #ffffff;\">Serpent Ward Attack</span>.</span></td></tr></table><!--?802264:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

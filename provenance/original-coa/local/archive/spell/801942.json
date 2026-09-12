@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lich Bolt",
+  "icon": "_d3spiritbarrage",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lich Bolt</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>40 Runic Power<br /><table width=\"100%\"><tr><td>Instant cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Fire a <span style=\"color: #ffffff;\">Lich Bolt</span> at an enemy, dealing 64+0+ShaP*.785 Shadow Damage, dealing 50% more damage and applying <span style=\"color: #FFFFFF;\">Crypt Plague</span> for each disease you have active on them.</span></td></tr></table><!--?801942:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

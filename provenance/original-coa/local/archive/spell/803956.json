@@ -1,0 +1,8 @@
+{
+  "name_enus": "Song of Battle",
+  "icon": "achievement_pvp_legion04",
+  "tooltip_enus": "<table><tr><td><b>Song of Battle</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Every 1.5 sec you emanate <span style=\"color: #ffffff;\">Sounds of War</span>, dealing 71+1.0 Points Per Level+AP*0.127449 Physical damage to all enemies within 8 yds. Lasts 15&nbsp;sec.<br /><br />Upon expiration, stun all enemies within 8 yds for 4&nbsp;sec.<br /><br />Does not work with <span style=\"color: #ffffff;\">Into The Fray</span>.</span></td></tr></table><!--?803956:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Glory",
+  "icon": "_d3innersanctuary",
+  "tooltip_enus": "<table><tr><td><b>Glory</b><br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Bring glory to the holy light, increasing your attack speed by 30% for 5&nbsp;sec.<br /><br />After the duration, you gain <span style=\"color: #FFFFFF;\">Downfall</span>. <br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_holy_avengersshield.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=801482'> Downfall </a> <br />\n                            <span> You heal for 50% of all damage dealt for 5&nbsp;sec. After the duration, you gain <span style=\"color: #ffffff;\">Redemption</span>.</span><br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_holy_holyguidance.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=801483'> Redemption </a> <br />\n                            <span> Increases attack speed by 30% and you heal for 50% of all damage dealt for 5&nbsp;sec.</span><br /></span></td></tr></table><!--?801481:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

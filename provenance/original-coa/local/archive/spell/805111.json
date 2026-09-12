@@ -1,0 +1,8 @@
+{
+  "name_enus": "Entropic Strike",
+  "icon": "_execution_purple",
+  "tooltip_enus": "<table><tr><td><b>Entropic Strike</b><br /><table width=\"100%\"><tr><td>Instant</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Strike an enemy dealing Weapon Damage plus 20, applying <span style=\"color: #ffffff;\">Seething Void</span>, and generating 2 <span style=\"color: #ffffff;\">Void Runes</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_fire_twilighthellfire.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=805113'> Seething Void </a> <br />\n                            <span> Curse an enemy, inflicting AP*0.2+0+1 Eldritch Damage every 0 sec for until cancelled.<br /><br />Melee critical strikes refresh this effect's duration and spread it to a nearby enemy.</span><br /></span></td></tr></table><!--?805111:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

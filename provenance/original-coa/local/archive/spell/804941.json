@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ranger's Guile",
+  "icon": "ability_rogue_vigor",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ranger's Guile</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage and critical damage of <span style=\"color: #ffffff;\">Wild Strike</span> by 10%.</span></td></tr></table><!--?804941:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

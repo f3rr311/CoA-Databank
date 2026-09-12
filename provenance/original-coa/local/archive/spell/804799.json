@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vampire Hunt",
+  "icon": "inv_helm_leather_revendrethraid_d_01_mythic",
+  "tooltip_enus": "<table><tr><td><b>Vampire Hunt</b><br />8% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Curse an enemy for 12&nbsp;sec, reducing all healing they take by 50%, and causing them to suffer Shadow damage whenever they are healed, scaling with their own spell power.</span></td></tr></table><!--?804799:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

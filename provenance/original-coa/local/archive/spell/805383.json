@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shrouded Hand",
+  "icon": "nhi_magicinyourhands_border",
+  "tooltip_enus": "<table><tr><td><b>Shrouded Hand</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Teaches you <span style=\"color: #ffffff;\">Imbue Flame</span>, <span style=\"color: #ffffff;\">Imbue Frost</span>, and <span style=\"color: #ffffff;\">Imbue Arcane</span>.<br /><br />These 3 spells share a cooldown, and are only usable during <span style=\"color: #ffffff;\">Runeshroud</span>. <br /><br />They each generate 1 <span style=\"color: #ffffff;\">Sigil</span> of their respective type and activate the matching <span style=\"color: #ffffff;\">Attunement</span>.</span></td></tr></table><!--?805383:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

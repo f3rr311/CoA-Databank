@@ -1,0 +1,8 @@
+{
+  "name_enus": "Burning Brand",
+  "icon": "nhi_firerune_%282%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Burning Brand</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>17% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Brands an enemy for 5&nbsp;sec. After the duration expires they explode, dealing 10 Fire Damage to them and 8 nearby enemies, plus additional Fire Damage over 12&nbsp;sec.<br /><br /><span style=\"color: #ffffff;\">Overheat:</span> Instant cast.</span></td></tr></table><!--?800809:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

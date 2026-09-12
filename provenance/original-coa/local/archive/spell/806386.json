@@ -1,0 +1,8 @@
+{
+  "name_enus": "Necrotic Armor",
+  "icon": "ability_creature_disease_03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Necrotic Armor</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces your periodic damage taken by 10%.</span></td></tr></table><!--?806386:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

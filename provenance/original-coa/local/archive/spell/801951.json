@@ -1,0 +1,8 @@
+{
+  "name_enus": "Onslaught",
+  "icon": "spell_nature_focusedmind",
+  "tooltip_enus": "<table><tr><td><b>Onslaught</b><br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Your senses heighten, causing you to instantly generate 5 <span style=\"color: #8fff7a;\">Advantage</span> and allowing the use of abilities that require <span style=\"color: #ffffff;\">Elude</span> for 15&nbsp;sec.</span></td></tr></table><!--?801951:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

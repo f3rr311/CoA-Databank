@@ -1,0 +1,8 @@
+{
+  "name_enus": "Serpent Lord",
+  "icon": "inv_giantsnake_green",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Serpent Lord</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Augments <span style=\"color: #ffffff;\">Spider Form</span> into a <span style=\"color: #ffffff;\">Serpent Lord</span>, giving some of your Spider Form abilities a 1 second cast time and 10 yds of increased range.<br /><br />Damage is increased when attacking an enemy past 10 yds by 30% and spell pushback from enemy attacks is reduced by 50%.<br /><br />Increases the damage of <span style=\"color: #ffffff;\">Withering Venom</span> by 50% and causes it to create a <span style=\"color: #ffffff;\">Miasma</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/_curse_green.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=570208'> Miasma </a> <br />\n                            <span> Create an 8 yd cloud of poison at a location for 12&nbsp;sec, causing 57*$<scalingbp>+NatP*0.125 Nature Damage to 8 enemies within it every 2 sec<!--sp573307:0--><!--sp573307-->.</span><br /></span></td></tr></table><!--?805104:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

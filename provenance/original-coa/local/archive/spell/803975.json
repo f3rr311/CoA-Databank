@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mountain Giant",
+  "icon": "ability_racial_avatar",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Mountain Giant</b></td><th><b class=\"q0\">Spec Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Auto attacks now have a 20% chance to grant you <span style=\"color: #ffffff;\">Aftershock</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_misc_questionmark.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=301086'> Aftershock </a> <br />\n                            <span> Your next <span style=\"color: #ffffff;\">Geode Barrage</span> or <span style=\"color: #ffffff;\">Earthquake</span> within 15&nbsp;sec is now instant cast and costs 75% less.</span><br /></span></td></tr></table><!--?803975:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

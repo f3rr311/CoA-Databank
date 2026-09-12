@@ -1,0 +1,8 @@
+{
+  "name_enus": "Primal Weapon: Stone",
+  "icon": "inv_mace_1h_draenorraid_d_04yellow",
+  "tooltip_enus": "<table><tr><td><b>Primal Weapon: Stone</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Increases block rating by 15% of Strength and causes blocks grant <span style=\"color: #ffffff;\">Earth's Rage</span>.<br /><br />Also grants Armor equal to 25% of Spirit and 1.5 Magic Resistance per level.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_archaeology_70_tauren_handsmoothedpyrestone.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=806068'> Earth's Rage </a> <br />\n                            <span> Increases movement speed by 4% and haste by 2% for 8&nbsp;sec, stacking 5 times.</span><br /></span></td></tr></table><!--?801351:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

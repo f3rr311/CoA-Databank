@@ -1,0 +1,8 @@
+{
+  "name_enus": "Psychic Leech",
+  "icon": "spell_priest_voidshift",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Psychic Leech</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #93ccea;\">Consumes 2 Void Runes</span><br />Applies a dark curse to an enemy, dealing 33+0+SP*.5 Eldritch damage plus an additional 13+0+SP*.285 Eldritch damage and leeching 30% of it's damage dealt every 1 sec for 14&nbsp;sec.</span></td></tr></table><!--?800452:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

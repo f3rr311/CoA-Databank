@@ -1,0 +1,8 @@
+{
+  "name_enus": "Witchmail",
+  "icon": "novart_bodyarmor_%286%29_border",
+  "tooltip_enus": "<table><tr><td><b>Witchmail</b><br />255% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases your Armor contribution from items by 50%, but reduces damage dealt by 0%.</span></td></tr></table><!--?804797:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

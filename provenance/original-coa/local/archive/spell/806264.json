@@ -1,0 +1,8 @@
+{
+  "name_enus": "Power of Yogg-Saron",
+  "icon": "spell_holy_devotion",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Power of Yogg-Saron</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 50 Passive</span><br />Increases your attack power by an amount equal to 3 times your spell critical strike rating.</span></td></tr></table><!--?806264:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,34 @@
+{
+ "necromancer": {
+  "modelled": 1337,
+  "pets": 1078,
+  "total": 2415,
+  "vs_peers": 33.6,
+  "current_discount": 0.82,
+  "implied_discount": 0.55
+ },
+ "tinker": {
+  "modelled": 1444,
+  "pets": 272,
+  "total": 1716,
+  "vs_peers": -5.1,
+  "current_discount": 0.85,
+  "implied_discount": 0.84
+ },
+ "witch-doctor": {
+  "modelled": 1270,
+  "pets": 149,
+  "total": 1419,
+  "vs_peers": 11.8,
+  "current_discount": 0.85,
+  "implied_discount": 0.89
+ },
+ "ranger": {
+  "modelled": 1753,
+  "pets": 134,
+  "total": 1887,
+  "vs_peers": 4.4,
+  "current_discount": 0.95,
+  "implied_discount": 0.93
+ }
+}

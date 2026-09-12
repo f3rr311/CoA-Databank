@@ -1,0 +1,164 @@
+{
+ "build": {
+  "id": "d71ca39b-3b9b-46f5-a733-85945c2a54d8",
+  "title": "How to play the game well",
+  "description": "[overview]\nhello i am here to show you how to play the game well\n\nskip the guides\n\npress w\n\ntalents matter about 25% of the time so stop asking for builds\n\nstop standing still in cities for 20 minutes, that adds up\n\nskip quests that aren't worth your time\n\ninvite people in the area to groups so you can get quests done faster\n\nif you do rdf get a good group of friends to blast it\n\nat the end of the day, you too can level to 60 in under 48 hours played time if you stop wasting time on this website and start playing the game. thank you.",
+  "class_id": 14,
+  "spec_id": 18,
+  "author_id": "ef6afe40-089e-4148-8c62-7491e1101bc1",
+  "talent_string": "W1siMTQtODctNi0wIiwxXV0",
+  "tags": [
+   "beginner",
+   "medium",
+   "experienced",
+   "vet"
+  ],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 3,
+  "comment_count": 1,
+  "created_at": "2026-07-20T13:22:09.280085+00:00",
+  "updated_at": "2026-07-20T13:22:09.280085+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 855,
+  "net_score": -3,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "ef6afe40-089e-4148-8c62-7491e1101bc1",
+   "username": "iguana.charles",
+   "avatar_url": "https://cdn.discordapp.com/avatars/143273942793060353/cfbaad5e73c3558d9545a0dc2c4d144b.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "568aece8-d24b-4ce1-b6e4-77c0f8152068",
+   "build_id": "d71ca39b-3b9b-46f5-a733-85945c2a54d8",
+   "author_id": "bdee4b1f-45fa-4fe1-8dd8-706206bad1d8",
+   "parent_id": null,
+   "body": "A pointless post about “what not to do and what to do,” lacking any reasoning, also disrespecting people who want to learn more about builds and the game",
+   "upvotes": 0,
+   "created_at": "2026-07-29T17:24:58.588751+00:00",
+   "updated_at": "2026-07-29T17:24:58.588751+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "bdee4b1f-45fa-4fe1-8dd8-706206bad1d8",
+    "username": "Lifuss",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL0A58heK6dwMLsd-a_UQHAZZ6cfCKDJ9aoCMJBUFARd4Vf-mYV=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "1a6322fc-c55a-421f-9b21-4a814f5cba58",
+   "title": "JURAPENAS / FELSWORN PVP MELE BROKEN",
+   "class_id": 14,
+   "spec_id": 37,
+   "author_id": "77f2221d-a187-444d-92c3-5e484d96c77c",
+   "tags": [
+    "EL MEJOR FELSWORN"
+   ],
+   "role": "tank",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 443,
+   "featured": false,
+   "created_at": "2026-07-29T04:25:51.130418+00:00",
+   "updated_at": "2026-07-29T04:25:51.130418+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "77f2221d-a187-444d-92c3-5e484d96c77c",
+    "username": "Elmija",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIF6bDKyC9UrIMNKUkEGDez91FUeyj_R8zO1d1qItSwfOda7Q=s96-c"
+   }
+  },
+  {
+   "id": "31ac5eb2-4521-44ba-931a-f6512b3d9e55",
+   "title": "Felsworn Slayer all round build",
+   "class_id": 14,
+   "spec_id": 37,
+   "author_id": "26ae3a35-911d-4a3c-b2eb-3c3027ed8d5d",
+   "tags": [
+    "AoE and single target pvp"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 1,
+   "comment_count": 1,
+   "view_count": 361,
+   "featured": false,
+   "created_at": "2026-07-27T00:51:07.335458+00:00",
+   "updated_at": "2026-07-27T00:51:07.335458+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "26ae3a35-911d-4a3c-b2eb-3c3027ed8d5d",
+    "username": "ahda lubis",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIusCQMPupff3RMEV3UQzsonVh7oRrIDKPZeD2ljhPrPJYXHA=s96-c"
+   }
+  },
+  {
+   "id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "title": "IMMORTAL TYRANT - Walking Fortress",
+   "class_id": 14,
+   "spec_id": 18,
+   "author_id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+   "tags": [
+    "Fortress"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 7,
+   "downvotes": 1,
+   "comment_count": 17,
+   "view_count": 5877,
+   "featured": false,
+   "created_at": "2026-07-20T20:28:56.106063+00:00",
+   "updated_at": "2026-07-24T10:39:20.69+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+    "username": "hesediel",
+    "avatar_url": "https://cdn.discordapp.com/avatars/476774265908363295/57fa9331edae235acb7ca74b9fde686e.png"
+   }
+  }
+ ],
+ "class": "Felsworn",
+ "spec": "Tyrant",
+ "allocations": [
+  [
+   "14-87-6-0",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "14-87-6-0",
+   "points": 1,
+   "name": "Hateforged Barrier",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 705129
+  }
+ ]
+}

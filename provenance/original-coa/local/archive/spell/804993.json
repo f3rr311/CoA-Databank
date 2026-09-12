@@ -1,0 +1,8 @@
+{
+  "name_enus": "Empowered Exoskeleton",
+  "icon": "inv_antorus_green",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Empowered Exoskeleton</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Removes the Rage cost of <span style=\"color: #ffffff;\">Chitin Rush</span> and increases its range by 5 yds.</span></td></tr></table><!--?804993:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

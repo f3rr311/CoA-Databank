@@ -1,0 +1,15 @@
+{
+  "name_enus": "Amped Flow",
+  "icon": "inv_staff_94",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Amped Flow</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">While channeling <span style=\"color: #FFFFFF;\">Stormflow</span>, your <!--sp560020:0--><span style=\"color: #ffffff;\">Shock</span><!--sp560020--> now strikes 1 additional target at 75% value.</span></td></tr></table><!--?806411:1:1:80-->",
+  "spells_enus": {
+    "560020": [
+      [
+        "<span style=\"color: #ffffff\">Shock</span>",
+        "<span style=\"color: #ffffff\">Brine</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

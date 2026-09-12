@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ancestral Keg",
+  "icon": "archaeology_5_0_emptykegofbrewfatherxinwoyin",
+  "tooltip_enus": "<table><tr><td><b>Ancestral Keg</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Place a keg on the ground for 30&nbsp;sec that allies can use to restore their health and mana.<br /><br />Entering combat or moving while drinking from the keg will end the effect.</span></td></tr></table><!--?804748:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

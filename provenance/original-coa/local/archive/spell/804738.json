@@ -1,0 +1,8 @@
+{
+  "name_enus": "Siren's Song",
+  "icon": "inv_misc_nagafemale",
+  "tooltip_enus": "<table><tr><td><b>Siren's Song</b><br />24% of base mana<br /><table width=\"100%\"><tr><td>Channeled</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Seduces the target, preventing all actions for up to 15&nbsp;sec (8 sec vs players). Any damage caused has a high chance to end the effect. This is a channeled spell.</span></td></tr></table><!--?804738:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

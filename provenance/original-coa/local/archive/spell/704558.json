@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dark Passage",
+  "icon": "inv_artifact_stolenpower",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dark Passage</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Dealing direct critical strikes with Shadow damage reduce the cooldown of <span style=\"color: #ffffff;\">Limbo</span> by 2 sec.</span></td></tr></table><!--?704558:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

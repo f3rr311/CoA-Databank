@@ -1,0 +1,8 @@
+{
+  "name_enus": "Arm of Thorim",
+  "icon": "epic_rpg_icon_pack_wind_icon_0002s_0000_lightning_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Arm of Thorim</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>1 sec cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cc99ff;\">Depletes All Static</span><br />Call down a terrible beam of lightning upon an enemy, dealing 135+0+NatP*1.2 Nature damage and stunning them for 1&nbsp;sec.<br /><br />Damage and cast time increased based on <span style=\"color: #cc99ff;\">Static</span> level.</span></td></tr></table><!--?801847:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

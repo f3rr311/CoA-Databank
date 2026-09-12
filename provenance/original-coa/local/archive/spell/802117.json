@@ -1,0 +1,8 @@
+{
+  "name_enus": "Draconic Aspect",
+  "icon": "achievement_boss_generaldrakkisath",
+  "tooltip_enus": "<table><tr><td><b>Draconic Aspect</b><br />30% of base mana<br />0.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Unleash your <span style=\"color: #FFFFFF;\">Draconic Aspect</span>, increasing your spell damage by 30% of your Intellect and your critical damage with spells by 50%.<br /><br />While active, dealing direct damage to an enemy inflicts the target with <span style=\"color: #FFFFFF;\">Dragon's Wrath</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/achievement_dungeon_bastion_of_twilight_ladysinestra.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=802173'> Dragon's Wrath </a> <br />\n                            <span> Unleash your wrath, dealing 9+0+FireP*0.3 Fire Damage to your target, piercing all resistances and absorption effects.</span><br /></span></td></tr></table><!--?802117:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

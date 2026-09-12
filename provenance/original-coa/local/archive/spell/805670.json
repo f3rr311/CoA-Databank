@@ -1,0 +1,8 @@
+{
+  "name_enus": "Calamity",
+  "icon": "_d3disintegrate",
+  "tooltip_enus": "<table><tr><td><b>Calamity</b><br />50 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Obliterates an enemy with hellfire, dealing 266 to 313 Shadowflame Damage, scaling with Intellect.<br /><br />Ignores Immunities and Resistances.</span></td></tr></table><!--?805670:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Modular Charges",
+  "icon": "inv_misc_ammo_bullet_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Modular Charges</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Blasting Charge</span> by 0%.</span></td></tr></table><!--?705766:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

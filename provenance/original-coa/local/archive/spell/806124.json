@@ -1,0 +1,8 @@
+{
+  "name_enus": "Aerodynamics",
+  "icon": "_monkability_renewingmists_xuenwhite",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Aerodynamics</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cc99ff;\">Depletes 40 Static</span><br />Envelop party and raid members within 40 yds in magical mist, increasing their attack or spell power by 95 for 15&nbsp;sec.<br /><br />Does not stack with similar effects.</span></td></tr></table><!--?806124:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

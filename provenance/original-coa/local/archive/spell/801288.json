@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chronicles of History",
+  "icon": "inv_inscription_weaponscroll02",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Chronicles of History</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>17% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">You begin magically documenting the actions of an ally for 7&nbsp;sec.<br /><br />At the end of the duration, they will recast all spells abilities that they cast during the documentation period upon their current target.</span></td></tr></table><!--?801288:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

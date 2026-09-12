@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ultra Instinct",
+  "icon": "ability_druid_predatoryinstincts",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ultra Instinct</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Direct ability critical strikes now increase your spell and ability critical strike chance and critical damage by 3% for 10 sec, stacking up to 10 times.<br /><br />Each additional critical strike increases this by an additional 3%, but reduces its duration by 1 sec.</span></td></tr></table><!--?704654:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

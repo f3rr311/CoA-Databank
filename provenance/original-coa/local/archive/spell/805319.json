@@ -1,0 +1,15 @@
+{
+  "name_enus": "Battery Swap",
+  "icon": "inv_mechagnome_powercell_full",
+  "tooltip_enus": "<table><tr><td><b>Battery Swap</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Instantly regenerate 20% of your maximum mana<!--sp505327:0--><!--sp505327-->.</span></td></tr></table><!--?805319:1:1:80-->",
+  "spells_enus": {
+    "505327": [
+      [
+        "",
+        " and an additional 2% base mana every 1 sec over 30 sec"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

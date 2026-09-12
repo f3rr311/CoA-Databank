@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rumbler",
+  "icon": "inv_elementalearth2",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Rumbler</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Gives Nature damage dealt a 12% chance to grant <span style=\"color: #ffffff;\">Groundshaker</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_nature_earthelemental_totem.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804355'> Rumbler </a> <br />\n                            <span> </span><br /></span></td></tr></table><!--?560144:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

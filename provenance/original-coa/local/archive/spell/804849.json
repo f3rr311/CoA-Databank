@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blood Shards",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blood Shards</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 30 Passive</span><br />Shadow Damage dealt now generates 1 <span style=\"color: #ffffff;\">Blood Shard</span>, plus 1 additional if it critically strikes, for 10&nbsp;min, up to 8.<br /><br />Dealing damage with <span style=\"color: #ffffff;\">Veinburst</span> will now expend all stacks of <span style=\"color: #ffffff;\">Blood Shards</span>, each dealing 18+1.0 Points Per Level+AP*0.09+SP*.15 Arcane damage to your target.</span></td></tr></table><!--?804849:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

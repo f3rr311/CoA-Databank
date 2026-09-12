@@ -1,0 +1,8 @@
+{
+  "name_enus": "Timeless",
+  "icon": "spell_nature_mentalquickness",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Timeless</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">While <span style=\"color: #ffffff;\">Endless Sands</span> is active, the mana costs of your spells and abilities is reduced by 3% per stack.</span></td></tr></table><!--?706131:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

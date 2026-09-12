@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cindergrip",
+  "icon": "ability_rhyolith_lavapool",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Cindergrip</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>19% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Raise a lava crag from beneath an enemy, rooting them in place, dealing 4 Fire damage every 3 sec for 12&nbsp;sec (8 sec vs players).<br /><br />Damage caused may interrupt the effect. Only 1 enemy may be affected at a time.</span></td></tr></table><!--?805476:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

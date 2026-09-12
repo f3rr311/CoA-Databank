@@ -1,0 +1,8 @@
+{
+  "name_enus": "Testament of Will",
+  "icon": "_d3mystically",
+  "tooltip_enus": "<table><tr><td><b>Testament of Will</b><br />50 Energy<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Break an ally free of worldly constraints, making them immune to all movement impairing effects for 10&nbsp;sec.<br /><br />Applies <span style=\"color: #ffffff;\">Sacred Restraint</span> for 1&nbsp;min.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_holy_sealoffury.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=102208'> Sacred Restraint </a> <br />\n                            <span> Cannot be targeted by <span style=\"color: #FFFFFF;\">Testaments</span>.</span><br /></span></td></tr></table><!--?801455:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

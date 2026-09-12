@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ancient of Lore",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Ancient of Lore</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Funnel nature's energies into yourself, transforming into an <span style=\"color: #FFFFFF;\">Ancient of Lore</span> for 20&nbsp;sec.<br /><br />While active, your stats are increased by 20% and nearby party members have their costs reduced by 30%.<br /><br />While transformed, your movement speed is reduced by 30%.</span></td></tr></table><!--?805105:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

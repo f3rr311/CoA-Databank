@@ -1,0 +1,2993 @@
+{
+ "class": {
+  "id": 12,
+  "name": "Barbarian",
+  "slug": "barbarian",
+  "color": "#C79C6E"
+ },
+ "specs": [
+  {
+   "id": 31,
+   "name": "Brutality",
+   "tabId": 31
+  },
+  {
+   "id": 32,
+   "name": "Headhunting",
+   "tabId": 32
+  },
+  {
+   "id": 33,
+   "name": "Ancestry",
+   "tabId": 33
+  }
+ ],
+ "classTabId": 87,
+ "nodeCount": 161,
+ "trees": [
+  {
+   "tabId": 87,
+   "name": "Barbarian (class tree)",
+   "nodeCount": 41,
+   "nodes": [
+    {
+     "id": "12-87-1-0",
+     "name": "Maiming Spear",
+     "x": 1,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "maiming_spear",
+     "spellId": 804139,
+     "description": "Throw your ranged weapon at your enemy's legs, dealing 100% Ranged Weapon Damage plus 2 and slowing their movement speed by -50% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "12-87-4-0",
+     "name": "Jawbreaker",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_dungeon_bastion_of_twilight_halfus_wyrmbreaker",
+     "spellId": 802792,
+     "description": "Attempt to break an enemy's jaw, interrupting them and preventing any spell from that school from being cast for 4 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "12-87-7-0",
+     "name": "Ancestral Roar",
+     "x": 7,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_d3threateningshout",
+     "spellId": 500918,
+     "description": "Requires EnragedRoar with ancestral fervor, healing you for 100 + 50% AP.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "12-87-1-1",
+     "name": "Unrelenting",
+     "x": 1,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "spell_deathknight_runetap",
+     "spellId": 705169,
+     "description": "Increases your Physical damage dealt and taken by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-1-0"
+     ]
+    },
+    {
+     "id": "12-87-4-1",
+     "name": "Savage Strength",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_character_orc_male",
+     "spellId": 560886,
+     "description": "Increases your Agility by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-4-0"
+     ]
+    },
+    {
+     "id": "12-87-7-1",
+     "name": "One With The Ancestors",
+     "x": 7,
+     "y": 1,
+     "maxPoints": 2,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_helm_plate_pvpwarrior_d_01",
+     "spellId": 560452,
+     "description": "Increases your critical strike chance by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-7-0"
+     ]
+    },
+    {
+     "id": "12-87-0-2",
+     "name": "Athleticism",
+     "x": 0,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_run_border",
+     "spellId": 560456,
+     "description": "Increases your Energy regeneration by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-1-1"
+     ]
+    },
+    {
+     "id": "12-87-2-2",
+     "name": "Strength of Goria",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_boss_highmaul_butcher",
+     "spellId": 705202,
+     "description": "Casting Unbridled Rage now grants you Born in Blood.Born in BloodBattle fuels your vitality, restoring 18 health and 12 Energy over 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-4-1",
+      "12-87-1-1"
+     ]
+    },
+    {
+     "id": "12-87-6-2",
+     "name": "Unstoppable Rage",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_innerrage",
+     "spellId": 706353,
+     "description": "Increases the duration of Unbridled Rage by 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-7-1",
+      "12-87-4-1"
+     ]
+    },
+    {
+     "id": "12-87-8-2",
+     "name": "War Tales",
+     "x": 8,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_head_dwarf_01",
+     "spellId": 706352,
+     "description": "Increases your chance to resist fear and horrify effects by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-7-1"
+     ]
+    },
+    {
+     "id": "12-87-1-3",
+     "name": "Headhunter's Spear",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "headhunting_spear",
+     "spellId": 804137,
+     "description": "Hurl a light spear at an enemy dealing 140% Ranged Weapon Damage plus 21 and restores 30% of your maximum Energy.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-87-2-2",
+      "12-87-0-2"
+     ]
+    },
+    {
+     "id": "12-87-4-3",
+     "name": "Defiance",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_warrior_bloodsurge",
+     "spellId": 806228,
+     "description": "Attempt to defy death, reducing all damage taken by 30% to 80% based on your current missing health for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-87-6-2",
+      "12-87-2-2"
+     ]
+    },
+    {
+     "id": "12-87-7-3",
+     "name": "Warband",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "warrior_skullbanner",
+     "spellId": 560883,
+     "description": "Bring all nearby allies into the warband for 12 seconds, granting them Born in Blood, repeating every 3 sec.Born in BloodBattle fuels your vitality, restoring 18 health and 12 Energy over 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-87-6-2",
+      "12-87-8-2"
+     ]
+    },
+    {
+     "id": "12-87-0-4",
+     "name": "Dauntless",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "sha_ability_rogue_sturdyrecuperate_nightmare",
+     "spellId": 804746,
+     "description": "Dealing damage with Whirling Advance now dispels 1 movement slowing effect from you and refunds 2 Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-1-3"
+     ]
+    },
+    {
+     "id": "12-87-2-4",
+     "name": "Savagery",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_garrosh_hellscreams_warsong",
+     "spellId": 800943,
+     "description": "While below 35% health, your auto attacks, Ancestral Strike, and Throw Weapon now grant Born in Blood. Can only occur once every 2 sec.Born in BloodBattle fuels your vitality, restoring 18 health and 12 Energy over 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-1-3",
+      "12-87-4-3"
+     ]
+    },
+    {
+     "id": "12-87-4-4",
+     "name": "Savage Cadence",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_offhand_1h_artifactskulloferedar_d_05",
+     "spellId": 807861,
+     "description": "Direct critical strikes now extend the duration of your Unbridled Rage by 0.5 sec. This effect can occur only once per sec.Killing blows extend the duration of your Unbridled Rage by 0.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-4-3"
+     ]
+    },
+    {
+     "id": "12-87-6-4",
+     "name": "Knockout Artist",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "item_onepunch",
+     "spellId": 705196,
+     "description": "Successfully interrupting a target with Jawbreaker now increases your haste by 30% for 4 seconds and refunds half its Energy cost.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-7-3",
+      "12-87-4-3"
+     ]
+    },
+    {
+     "id": "12-87-8-4",
+     "name": "Bloodbound",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_d3gargantuan",
+     "spellId": 801767,
+     "description": "Reduces the cooldown of your Warband by -30 sec and Ancestral Roar by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-7-3"
+     ]
+    },
+    {
+     "id": "12-87-0-5a",
+     "name": "Forward Advance",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_ascend_whirlpool_b_01",
+     "spellId": 707207,
+     "description": "Increases the range of your Whirling Advance by 3 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-0-4"
+     ]
+    },
+    {
+     "id": "12-87-0-5b",
+     "name": "Rage Whirling",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_druideskill45_border",
+     "spellId": 561321,
+     "description": "Increases the critical strike chance of Whirling Advance by 50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "12-87-2-5",
+     "name": "Skull Smash",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "skullsmash2",
+     "spellId": 560532,
+     "description": "Pick up a rock and hurl it at an enemy's skull, disorienting them for 40 seconds (8 sec vs players). Damage taken will end this effect.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-87-2-4"
+     ]
+    },
+    {
+     "id": "12-87-4-5a",
+     "name": "Rapid Recovery",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_warriorskill_11_border",
+     "spellId": 705171,
+     "description": "Your Onslaught's effect now occurs -50% faster.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-2-4",
+      "12-87-6-4",
+      "12-87-4-4"
+     ]
+    },
+    {
+     "id": "12-87-4-5b",
+     "name": "Bloody Onslaught",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_fishing_bait_spinefinpiranha",
+     "spellId": 707583,
+     "description": "Increases the duration of Onslaught by 6 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "12-87-6-5",
+     "name": "Thick Skull",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_helm_laughingskull_01",
+     "spellId": 801549,
+     "description": "Your thick skull makes you immune to all stun effects for 10 seconds and while active taking direct damage grants you Born in Blood.Usable while stunned.Born in BloodBattle fuels your vitality, restoring 18 health and 12 Energy over 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-87-6-4"
+     ]
+    },
+    {
+     "id": "12-87-8-5",
+     "name": "Bellowing Voice",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_fomor_boss_shout",
+     "spellId": 561322,
+     "description": "Increases the effectiveness of your Shouts by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-8-4"
+     ]
+    },
+    {
+     "id": "12-87-1-6",
+     "name": "Blood and Glory",
+     "x": 1,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_boss_operator_thogar",
+     "spellId": 805821,
+     "description": "While at or below 35% maximum health, you now gain 20% increased healing received and take -10% reduced damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-2-5",
+      "12-87-0-5a",
+      "12-87-0-5b"
+     ]
+    },
+    {
+     "id": "12-87-2-6a",
+     "name": "Plugging the Hole",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_t_bloodfog_border",
+     "spellId": 561314,
+     "description": "Your Skull Smash now removes all bleed effects on the enemy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-2-5"
+     ]
+    },
+    {
+     "id": "12-87-2-6b",
+     "name": "Smasher",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_rogue_eviscerate",
+     "spellId": 561394,
+     "description": "Removes the Energy cost from Skull Smash.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "12-87-4-6",
+     "name": "Ogre's Endurance",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_boss_highmaul_king",
+     "spellId": 705206,
+     "description": "Increases your healing received by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-4-5a",
+      "12-87-4-5b"
+     ]
+    },
+    {
+     "id": "12-87-6-6",
+     "name": "Face Smasher",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "warrior_talent_icon_innerrage",
+     "spellId": 706354,
+     "description": "Your ability critical strikes now reduce the cooldown of your Battle Vigor and Thick Skull by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-6-5"
+     ]
+    },
+    {
+     "id": "12-87-7-6a",
+     "name": "Drunken Brawler",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_monkspecialattack_dodgepandaren",
+     "spellId": 560364,
+     "description": "Taking direct damage now increases your chance to dodge by 1% for 3 seconds, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-6-5",
+      "12-87-8-5"
+     ]
+    },
+    {
+     "id": "12-87-7-6b",
+     "name": "Powerful Grip",
+     "x": 7,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "custom_warriorskill_03_border",
+     "spellId": 804728,
+     "description": "Reduces the duration of disarm effects by -30%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "12-87-1-7",
+     "name": "Born Killer",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_misc_trinket6oih_ironskull1",
+     "spellId": 800131,
+     "description": "Killing an enemy that yields experience or honor now grants you 5% increased armor penetration and movement speed for 5 seconds, stacking 20 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-2-6a",
+      "12-87-1-6",
+      "12-87-2-6b"
+     ]
+    },
+    {
+     "id": "12-87-4-7",
+     "name": "Battle Rhythm",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "inv_axe_2h_orcwarrior_c_01",
+     "spellId": 800193,
+     "description": "Critical strikes with abilities now generate 5 Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-2-6a",
+      "12-87-6-6",
+      "12-87-4-6",
+      "12-87-2-6b"
+     ]
+    },
+    {
+     "id": "12-87-7-7",
+     "name": "Iron Gut",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "5_warriorskill44_border",
+     "spellId": 707721,
+     "description": "Reduces the duration of poison effects on you by -40%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-7-6a",
+      "12-87-6-6",
+      "12-87-7-6b"
+     ]
+    },
+    {
+     "id": "12-87-2-8",
+     "name": "Outrage",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "_d3frenzy",
+     "spellId": 801759,
+     "description": "Requires EnragedIncreases your haste and critical strike chance by 20%, but increases your damage taken by 30% for 10 seconds. Physical critical strikes extend this effect by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-87-1-7",
+      "12-87-4-7"
+     ]
+    },
+    {
+     "id": "12-87-4-8",
+     "name": "First Blood",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "warrior_talent_icon_skirmisher",
+     "spellId": 560906,
+     "description": "Increases all damage dealt to enemies above 80% health by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-4-7"
+     ]
+    },
+    {
+     "id": "12-87-6-8",
+     "name": "Hodir's Wrath",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_dungeon_ulduarraid_icegiant_01",
+     "spellId": 800152,
+     "description": "Erupt with the power of Hodir, dealing 1361 + 120% AP Frost damage to nearby enemies and restoring 100% of your maximum Energy.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-87-4-7",
+      "12-87-7-7"
+     ]
+    },
+    {
+     "id": "12-87-2-9",
+     "name": "Bloodthirsty",
+     "x": 2,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "ability_bullrush",
+     "spellId": 300497,
+     "description": "Increases the effectiveness of your Outrage by 100%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-2-8"
+     ]
+    },
+    {
+     "id": "12-87-4-9",
+     "name": "Mak'Gora",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "achievement_leader_thrall",
+     "spellId": 561360,
+     "description": "Critical strikes on enemies above 80% or below 20% health now challenges them to a Mak'Gora. Only 1 enemy can be challenged at a time.Mak&#39;gora (20%)Challenge an enemy to a duel to the death for 10 seconds, reducing their healing received by -20% and absorbing the next 1244 + 100% AP healing done to them.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-2-8",
+      "12-87-4-8",
+      "12-87-6-8"
+     ]
+    },
+    {
+     "id": "12-87-6-9",
+     "name": "Frozen Warlord",
+     "x": 6,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 1,
+     "tabId": 87,
+     "icon": "nhi_frost_knight_border",
+     "spellId": 560939,
+     "description": "Damage dealt by Hodir's Wrath now freezes enemies in place for 0 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-87-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 31,
+   "name": "Brutality",
+   "nodeCount": 39,
+   "nodes": [
+    {
+     "id": "12-31-4-0",
+     "name": "Decapitate",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "novart_physical_ability_(47)_border",
+     "spellId": 804414,
+     "description": "Attempt to decapitate an injured enemy, dealing 200% Weapon Damage plus 27, and converting each extra point of Energy to deal additional damage (up to a maximum cost of 100 Energy).Only usable on enemies below 35% health.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "12-31-10-0",
+     "name": "Excessive Power",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "_orc_06",
+     "spellId": 92081,
+     "description": "Level 10 PassiveIncreases your maximum Energy by 100%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 1
+    },
+    {
+     "id": "12-31-4-1",
+     "name": "Beheader",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "inv_archaeology_ogres_warmaul_chieftain",
+     "spellId": 705222,
+     "description": "Scoring a kill blow with Decapitate now refunds 100% of your maximum Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-4-0"
+     ]
+    },
+    {
+     "id": "12-31-2-2",
+     "name": "Reckless Movements",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "achievement_boss_blackhand",
+     "spellId": 705204,
+     "description": "Increases the damage of Ancestral Strike and Barbaric Whirl by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-4-1"
+     ]
+    },
+    {
+     "id": "12-31-4-2",
+     "name": "Killing Spree",
+     "x": 4,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "_d3leapattack",
+     "spellId": 850021,
+     "description": "Charge at an enemy, dealing 25 + 30% AP Physical damage.Can only be used within 6 seconds of scoring a killing blow or applying Born in Blood.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-31-4-1"
+     ]
+    },
+    {
+     "id": "12-31-6-2",
+     "name": "Pure Power",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "ability_revendreth_rogue",
+     "spellId": 705173,
+     "description": "Increases the damage of Smash by 15% and your expertise by 5.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-4-1"
+     ]
+    },
+    {
+     "id": "12-31-10-2",
+     "name": "Relentless",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "5_warriorskill07_border",
+     "spellId": 300505,
+     "description": "Level 20 PassiveCritical strikes with Ancestral Strike and Brutal Swing now refund 10 Energy.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "12-31-10-0"
+     ]
+    },
+    {
+     "id": "12-31-1-3",
+     "name": "Brutal Swing",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "5_axe_border",
+     "spellId": 500913,
+     "description": "Your next attack causes you to swing violently at an enemy and up to 2 nearby enemies, dealing 120% Weapon Damage plus 10.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-31-2-2"
+     ]
+    },
+    {
+     "id": "12-31-4-3",
+     "name": "Overkill",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "novart_magicspell_(16)_border",
+     "spellId": 560444,
+     "description": "Increases the critical strike chance of Decapitate and Headhunter's Spear by 30% against targets below 20% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-6-2",
+      "12-31-4-2",
+      "12-31-2-2"
+     ]
+    },
+    {
+     "id": "12-31-7-3",
+     "name": "Crush",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "inv_mace_69",
+     "spellId": 500915,
+     "description": "Crush enemies in a frontal cone, dealing 250% Weapon Damage plus 30, knocking them down briefly and stunning them for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-31-6-2"
+     ]
+    },
+    {
+     "id": "12-31-1-4",
+     "name": "Bloody Fighter",
+     "x": 1,
+     "y": 4,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "inv_mace_1h_pvpcataclysms3_c_02",
+     "spellId": 705167,
+     "description": "Increases the critical strike chance of Brutal Swing and Smash by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-1-3"
+     ]
+    },
+    {
+     "id": "12-31-3-4",
+     "name": "Headlopper",
+     "x": 3,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "novart_physical_ability_(10)_border",
+     "spellId": 300499,
+     "description": "Your critical strikes with Decapitate now cause the enemy to bleed, dealing an additional 30% of the damage dealt over 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-4-3"
+     ]
+    },
+    {
+     "id": "12-31-5-4",
+     "name": "Spiked Weapons",
+     "x": 5,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "inv_mace_1h_draenorhonors2_c_01",
+     "spellId": 705186,
+     "description": "Increases the critical damage of Crush, Brutal Swing, and Decapitate by 20%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-4-3"
+     ]
+    },
+    {
+     "id": "12-31-7-4a",
+     "name": "Horde Breaker",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "warrior_skullbanner",
+     "spellId": 804745,
+     "description": "Your Crush now applies Wounded to enemies for 1 minute and is now guaranteed to critically strike enemies affected by Headbutt.Wounded (Proc)Increases Physical Damage taken by 4% for 1 minute.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-7-3"
+     ]
+    },
+    {
+     "id": "12-31-7-4b",
+     "name": "Power Swings",
+     "x": 7,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "ability_warrior_offensivestance",
+     "spellId": 707762,
+     "description": "Reduces the cooldown of Crush by -5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "12-31-10-4",
+     "name": "Thirst for Battle",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "ability_racial_bloodrage",
+     "spellId": 570236,
+     "description": "Your Smash now regenerate 25% of your maximum Energy.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "12-31-10-2"
+     ]
+    },
+    {
+     "id": "12-31-2-5",
+     "name": "Rancor",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "trade_archaeology_generalbeauregardslaststand",
+     "spellId": 704876,
+     "description": "Your Brutal Swing now triggers an additional auto attack on the primary target.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-1-4"
+     ]
+    },
+    {
+     "id": "12-31-4-5",
+     "name": "Battering Ram",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "5_engineerskill03_border",
+     "spellId": 561326,
+     "description": "Increases your Armor penetration by 10% while wielding a two-handed mace or axe.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-3-4",
+      "12-31-5-4"
+     ]
+    },
+    {
+     "id": "12-31-6-5",
+     "name": "Hail of Hammers",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "custom_iron_hammer_b_border",
+     "spellId": 807047,
+     "description": "Reduces the cast time of Crush by -25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-7-4a",
+      "12-31-7-4b"
+     ]
+    },
+    {
+     "id": "12-31-0-6",
+     "name": "Anger Issues",
+     "x": 0,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "epic_rpg_icon_pack_brutal_icon_0005s_0000_characterb_border",
+     "spellId": 560450,
+     "description": "Scoring a critical strike against an enemy now reduces the cooldown of Carnage by -4 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-1-4"
+     ]
+    },
+    {
+     "id": "12-31-2-6",
+     "name": "Whirling Assault",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "ability_butcher_whirl",
+     "spellId": 560563,
+     "description": "Increases the damage of Whirling Advance by 300% on enemies above 80% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-2-5"
+     ]
+    },
+    {
+     "id": "12-31-4-6",
+     "name": "Efficient Killer",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "5_warriorskill41_border",
+     "spellId": 803085,
+     "description": "Reduces the Energy cost of your spells and abilities by -10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-2-5",
+      "12-31-6-5",
+      "12-31-4-5"
+     ]
+    },
+    {
+     "id": "12-31-6-6a",
+     "name": "Mounting Fury",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "warrior_talent_icon_furyintheblood",
+     "spellId": 805927,
+     "description": "Increases the duration of Born in Blood by 2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-6-5"
+     ]
+    },
+    {
+     "id": "12-31-6-6b",
+     "name": "Savage",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "ability_rogue_ruthlessness",
+     "spellId": 560441,
+     "description": "Unbridled Rage now also increases your critical damage by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "12-31-8-6",
+     "name": "Ancestral Trauma",
+     "x": 8,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "uico_blood_spell_10_border",
+     "spellId": 560446,
+     "description": "Damage dealt by Ancestral Strike and Crush now scales with your Strength.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-7-4a",
+      "12-31-7-4b"
+     ]
+    },
+    {
+     "id": "12-31-10-6",
+     "name": "Ogre's Strength",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "achievement_reputation_ogre",
+     "spellId": 561160,
+     "description": "Level 40 PassiveIncreases your Strength by 25%.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "12-31-10-4"
+     ]
+    },
+    {
+     "id": "12-31-0-7",
+     "name": "Reckful",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "ability_warrior_bullrush",
+     "spellId": 681063,
+     "description": "Your Smash now has a 30% chance to not trigger a cooldown.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-0-6",
+      "12-31-2-6"
+     ]
+    },
+    {
+     "id": "12-31-2-7a",
+     "name": "Incredibly Strong",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "ability_warrior_devastate",
+     "spellId": 804749,
+     "description": "Removes the minimum range from Maiming Spear, but reduces its maximum range by -5 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-2-6"
+     ]
+    },
+    {
+     "id": "12-31-2-7b",
+     "name": "Giant Tosser",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "inv_ability_packleaderhunter_vicioushunt",
+     "spellId": 807863,
+     "description": "Your Headhunter's Spear now generates 50% additional Energy when you strike an enemy that is at least 20 yds away.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "12-31-4-7",
+     "name": "Symbol of the Warspear",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "inv_banner_warspear",
+     "spellId": 804730,
+     "description": "You are marked by the Warspear symbol, granting 10% increased attack power to party and raid members. Does not stack with similar effects.In addition, reduces the cooldown of Spears by -2 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-4-6"
+     ]
+    },
+    {
+     "id": "12-31-6-7",
+     "name": "Brutal Spirit",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "inv_helmet_08",
+     "spellId": 706653,
+     "description": "Increases the effectiveness of your Spirit spells by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-6-6a",
+      "12-31-6-6b"
+     ]
+    },
+    {
+     "id": "12-31-8-7",
+     "name": "Crusher",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "_d3seismicslam",
+     "spellId": 803817,
+     "description": "Melee auto attacks now have a 10% chance to reset the cooldown of Crush.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-6-6a",
+      "12-31-8-6",
+      "12-31-6-6b"
+     ]
+    },
+    {
+     "id": "12-31-2-8",
+     "name": "Maximum Carnage",
+     "x": 2,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "spell_warrior_paintrain",
+     "spellId": 561359,
+     "description": "Casting Unbridled Rage now causes you to begin swinging your weapon around you dealing 47 + 25% AP Physical damage to up to 5 nearby enemies over 5 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-2-7a",
+      "12-31-4-7",
+      "12-31-0-7",
+      "12-31-2-7b"
+     ]
+    },
+    {
+     "id": "12-31-6-8",
+     "name": "Storm of Steel",
+     "x": 6,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "custom_warriorskill_21_border",
+     "spellId": 800637,
+     "description": "Begin striking your target every 1 sec for 80% Weapon Damage for 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-31-8-7",
+      "12-31-4-7",
+      "12-31-6-7"
+     ]
+    },
+    {
+     "id": "12-31-10-8",
+     "name": "Body Builder",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "spell_nature_strength",
+     "spellId": 706481,
+     "description": "Level 50 PassiveIncreases your size by 5% and when your Strength is lower than your Agility your melee attack power is further increased by 75% of your Strength.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "12-31-10-6"
+     ]
+    },
+    {
+     "id": "12-31-1-9",
+     "name": "Steelslinger",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "ability_warrior_bladestorm",
+     "spellId": 804750,
+     "description": "Reduces the cooldown of Barbaric Whirl by -2 sec and increases its damage dealt by 100% on enemies below 35% health.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-2-8"
+     ]
+    },
+    {
+     "id": "12-31-3-9",
+     "name": "Utter Devastation",
+     "x": 3,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "ability_warrior_endlessrage",
+     "spellId": 560910,
+     "description": "Increases the duration of Maximum Carnage by 1 sec and it now grants Utter Devastation for 6 seconds. Utter DevastationInstantly removes all movement impairing effects, increases your movement speed by 25%, and makes you immune to slows.Can be consumed by Decapitate or Crush to guarantee them to critically strike.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-2-8"
+     ]
+    },
+    {
+     "id": "12-31-5-9",
+     "name": "Steel Fury",
+     "x": 5,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "ability_warrior_warbringer",
+     "spellId": 704240,
+     "description": "Dealing damage with Storm of Steel increases the damage of its subsequent strikes by 4%, stacking 10 times.In addition, the duration of Storm of Steel is increased by 2.5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-6-8"
+     ]
+    },
+    {
+     "id": "12-31-7-9",
+     "name": "Sustaining Swings",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 31,
+     "icon": "custom_warriorskill_42_nobg_border",
+     "spellId": 520539,
+     "description": "Melee attacks now have an 8% chance to heal you for 10% of the damage dealt and cause your next Ancestral Strike to deal 50% increased damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-31-6-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 32,
+   "name": "Headhunting",
+   "nodeCount": 38,
+   "nodes": [
+    {
+     "id": "12-32-4-0",
+     "name": "Berserker Axe",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_axe_1h_draenorcrafted_d_02_a_horde",
+     "spellId": 804138,
+     "description": "Requires Enraged3 Charges, 8 sec rechargeHurl two axes at an enemy, each dealing 16 + 40% ranged AP Physical damage and reducing their armor by -4% for 20 seconds, stacking up to 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "12-32-10-0",
+     "name": "Headhunter",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_axe_2h_artifactmaw_d_01",
+     "spellId": 92082,
+     "description": "Level 10 PassiveReduces the Energy cost of Throw Weapon, Maiming Spear, and Whirling Advance by -15.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "12-32-4-1",
+     "name": "You Want Axe?",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_axe_1h_garrison_a_01",
+     "spellId": 560564,
+     "description": "While enraged, casting Spears now refreshes 3 charges of Berserker Axe and your next 3 casts cost -50% less Energy. Lasts 12 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-4-0"
+     ]
+    },
+    {
+     "id": "12-32-2-2",
+     "name": "Barbed Spear",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "barbed_spear",
+     "spellId": 560881,
+     "description": "Throw a heavy spear with precision at an enemy, dealing 160% Ranged Weapon Damage plus 37, and reducing their healing received by -30% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-32-4-1"
+     ]
+    },
+    {
+     "id": "12-32-6-2",
+     "name": "Gutspiller",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "novart_weapon_(6)_border",
+     "spellId": 805832,
+     "description": "Launch a heavy axe at an enemy, causing them to bleed for 96 damage over 12 seconds.Every 6 sec the target has their Guts Spilled, causing them to bleed out for an additional 71 + 40% ranged AP damage.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-32-4-1"
+     ]
+    },
+    {
+     "id": "12-32-10-2",
+     "name": "Savage",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "achievement_boss_trollgore",
+     "spellId": 705242,
+     "description": "Level 20 PassiveBorn in Blood now also increases your damage dealt by 5% and its duration is increased by 3 sec.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 20,
+     "dependencies": [
+      "12-32-10-0"
+     ]
+    },
+    {
+     "id": "12-32-1-3",
+     "name": "Puncture Wounds",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_misc_boilingblood",
+     "spellId": 805997,
+     "description": "Critical strikes with Spears now causes enemies to bleed for 633 + 16.5% ranged AP over 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-2-2"
+     ]
+    },
+    {
+     "id": "12-32-2-3",
+     "name": "Strong Arm",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "ability_warrior_strengthofarms",
+     "spellId": 705176,
+     "description": "Increases the damage of Spears by 15% and your hit chance by 3%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-2-2"
+     ]
+    },
+    {
+     "id": "12-32-4-3",
+     "name": "Vital Spirit",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "spell_nature_reincarnation",
+     "spellId": 805835,
+     "description": "Increases the range of your Spirit spells by 10 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-6-2",
+      "12-32-2-2"
+     ]
+    },
+    {
+     "id": "12-32-6-3",
+     "name": "Guts Splatter",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "ability_blackhand_marked4death",
+     "spellId": 560586,
+     "description": "Your Gutspiller now allows your abilities to ignore 10% of the enemy's Armor.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-6-2"
+     ]
+    },
+    {
+     "id": "12-32-7-3",
+     "name": "Deep Fury",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "ability_warrior_warcry",
+     "spellId": 705240,
+     "description": "Direct Physical damage dealt now reduces the cooldown of Unbridled Rage by -1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-6-2"
+     ]
+    },
+    {
+     "id": "12-32-2-4",
+     "name": "Headhunting",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "5_archerskill07_border",
+     "spellId": 500060,
+     "description": "Reduces the cast time of Throw Weapon by -20% and removes your spell pushback suffered from taking damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-2-3",
+      "12-32-1-3"
+     ]
+    },
+    {
+     "id": "12-32-4-4",
+     "name": "Axe Twirling",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_axe_104",
+     "spellId": 800401,
+     "description": "Display mastery over throwing weapons for 10 seconds, causing Throw Weapon, Gutspiller, and Berserker Axe to strike 2 additional nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-32-2-3",
+      "12-32-4-3",
+      "12-32-6-3"
+     ]
+    },
+    {
+     "id": "12-32-6-4",
+     "name": "Entrails",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "spell_shadow_lifedrain",
+     "spellId": 705238,
+     "description": "Damage dealt by bleed effects now increases your Agility by 1% for 8 seconds, stacking 10 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-7-3",
+      "12-32-6-3"
+     ]
+    },
+    {
+     "id": "12-32-10-4",
+     "name": "Spear Thrower",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "asaltante-azul",
+     "spellId": 574321,
+     "description": "Level 30 PassiveCasting Throw Weapon now has a 30% chance to reset the cooldown of your Spears.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "12-32-10-2"
+     ]
+    },
+    {
+     "id": "12-32-0-5",
+     "name": "Frothing Savage",
+     "x": 0,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_bloodtrollfemalehead",
+     "spellId": 705234,
+     "description": "Increases the critical strike chance of Spears and Berserker Axe by 8% against bleeding targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-1-3",
+      "12-32-2-4"
+     ]
+    },
+    {
+     "id": "12-32-2-5",
+     "name": "Impaling Spear",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "impaling_spear",
+     "spellId": 500984,
+     "description": "Hurl a spear in a 30 yd frontal line, dealing 131% Ranged Weapon Damage plus 23, dealing less damage with each enemy struck.At the spear's impact location the spear shatters, dealing 277 + 15% ranged AP Physical damage to nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-32-2-4"
+     ]
+    },
+    {
+     "id": "12-32-4-5",
+     "name": "Time To Kill!",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "spell_hunter_focusingshot",
+     "spellId": 926591,
+     "description": "Reduces the cooldown of Axe Twirling by -15 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-4-4"
+     ]
+    },
+    {
+     "id": "12-32-6-5",
+     "name": "Berserker Rush",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "ability_hanzandfranz_chestbump",
+     "spellId": 560518,
+     "description": "Charge an enemy dealing 31 + 35% ranged AP Physical damage and rooting them for 2 seconds, then leap backwards.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-32-6-4"
+     ]
+    },
+    {
+     "id": "12-32-8-5",
+     "name": "Gruesome",
+     "x": 8,
+     "y": 5,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "ability_skeer_bloodletting",
+     "spellId": 705227,
+     "description": "Increases the damage of Throw Weapon, Gutspiller, and Guts Spilled by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-7-3",
+      "12-32-6-4"
+     ]
+    },
+    {
+     "id": "12-32-2-6",
+     "name": "Spear Shards",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_spear_06",
+     "spellId": 805893,
+     "description": "Whenever you shatter your Impaling Spear, affected enemies bleed for 100% of the damage dealt over 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-2-5"
+     ]
+    },
+    {
+     "id": "12-32-4-6a",
+     "name": "Furious Berserker",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "ability_warrior_warcry",
+     "spellId": 707389,
+     "description": "Critical strikes with Barbed Spear now grants Born in Blood.Born in BloodBattle fuels your vitality, restoring 18 health and 12 Energy over 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-6-5",
+      "12-32-2-5",
+      "12-32-4-5"
+     ]
+    },
+    {
+     "id": "12-32-4-6b",
+     "name": "Hunting for Sport",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "spell_hunter_exoticmunitions_incendiary",
+     "spellId": 706558,
+     "description": "While Unbridled Rage is active, your attacks now ignore 20% of the target's Armor.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "12-32-6-6",
+     "name": "Vengeance For Zul'jin",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "racial_troll_berserk",
+     "spellId": 560205,
+     "description": "Casting Berserker Rush now grants you Born in Blood.Born in BloodBattle fuels your vitality, restoring 18 health and 12 Energy over 3 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-6-5"
+     ]
+    },
+    {
+     "id": "12-32-10-6",
+     "name": "Bloody Fighter",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_misc_head_troll_01",
+     "spellId": 570235,
+     "description": "Level 40 PassiveBorn in Blood now stacks 1 additional time.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40,
+     "dependencies": [
+      "12-32-10-4"
+     ]
+    },
+    {
+     "id": "12-32-0-7",
+     "name": "Legacy of the Amani",
+     "x": 0,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "novart_physical_ability_(25)_border",
+     "spellId": 706804,
+     "description": "Damage dealt by your Spears now has a 25% chance to cause you to quickly throw an additional spear that strikes for 40% of the damage dealt.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-0-5",
+      "12-32-2-6"
+     ]
+    },
+    {
+     "id": "12-32-2-7",
+     "name": "Raging Spirit",
+     "x": 2,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "warrior_talent_icon_innerrage",
+     "spellId": 707410,
+     "description": "Casting Unbridled Rage now grants you 30 Energy and it now also removes the Energy cost of your Spirit spells while active.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-4-6a",
+      "12-32-2-6",
+      "12-32-4-6b"
+     ]
+    },
+    {
+     "id": "12-32-4-7",
+     "name": "No Survivors",
+     "x": 4,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "achievement_bg_interruptx_flagcapture_attempts_1game",
+     "spellId": 805864,
+     "description": "Increases the duration of Axe Twirling, Maiming Spear, and Barbed Spear by 5 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-4-6a",
+      "12-32-4-6b"
+     ]
+    },
+    {
+     "id": "12-32-6-7",
+     "name": "Manhunter",
+     "x": 6,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "spell_warrior_gladiatorstance",
+     "spellId": 300879,
+     "description": "Increases critical strike chance of all party and raid members by 3%. Does not stack with similar effects.In addition, increases your damage dealt by 10% against Humanoids.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-4-6a",
+      "12-32-6-6",
+      "12-32-4-6b"
+     ]
+    },
+    {
+     "id": "12-32-8-7",
+     "name": "To The Bone",
+     "x": 8,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "_strongbone_red",
+     "spellId": 560880,
+     "description": "Increases the critical strike chance of Guts Spilled by 10% and it now applies Break to the target and critically striking with it will apply an additional stack.BreakBreak an enemy's defenses, reducing their armor by -4% for 20 seconds, stacking 5 times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-8-5",
+      "12-32-6-6"
+     ]
+    },
+    {
+     "id": "12-32-1-8",
+     "name": "Skullseeker",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "spell_fire_enchantweapon",
+     "spellId": 560517,
+     "description": "Increases your critical strike chance against enemies above 80% health by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-0-7",
+      "12-32-2-7"
+     ]
+    },
+    {
+     "id": "12-32-3-8",
+     "name": "Brutal Form",
+     "x": 3,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_axe_1h_pvpdraenors2_d_01",
+     "spellId": 705235,
+     "description": "Increases the tick rate of Born in Blood by -25%, allows its healing to scale with your Agility, and it can now critically heal you.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-4-7",
+      "12-32-2-7"
+     ]
+    },
+    {
+     "id": "12-32-5-8",
+     "name": "Berserker",
+     "x": 5,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "_troll_03",
+     "spellId": 561397,
+     "description": "While enraged, your ranged critical strikes now grant you Berserker. Once applied it cannot be applied again.BerserkerYour ranged abilities have a 20% chance to unleash Berserker Throw, dealing 75% Ranged Weapon Damage. Lasts 15 seconds.While active, every offensive ranged ability used increases its chance to trigger by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-4-7",
+      "12-32-6-7"
+     ]
+    },
+    {
+     "id": "12-32-7-8",
+     "name": "Payback",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_axe_11",
+     "spellId": 705232,
+     "description": "Increases the damage dealt by your Guts Spilled by 75%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-8-7",
+      "12-32-6-7"
+     ]
+    },
+    {
+     "id": "12-32-10-8",
+     "name": "Power Tosser",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_thrown_1h_pvp410_c_01",
+     "spellId": 570242,
+     "description": "Level 50 PassiveDamage dealt by Throw Weapon now scales with your Agility.",
+     "isPassive": true,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 50,
+     "dependencies": [
+      "12-32-10-6"
+     ]
+    },
+    {
+     "id": "12-32-1-9",
+     "name": "Gurubashi Technique",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "inv_helm_mask_zulgurub_d_01",
+     "spellId": 705198,
+     "description": "Casting Throw Weapon now has a 25% chance to transform your next cast of it within 8 seconds into Rapid Throw.Rapid ThrowThrow your ranged weapon 3 times in quick succession, each dealing 50% Ranged Weapon Damage plus 25 Physical damage. Grants Born in Blood. Scales with damage modifiers to Throw Weapon.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-32-3-8",
+      "12-32-1-8"
+     ]
+    },
+    {
+     "id": "12-32-4-9",
+     "name": "Sen'jin's Guidance",
+     "x": 4,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "archaeology_5_0_spearofxuen",
+     "spellId": 707661,
+     "description": "Transforms your Throw Weapon into Javelin Toss and increases the critical strike chance of Javelin Toss by 5%.Javelin TossTake aim and hurl a javelin at an enemy dealing 160% Ranged Weapon Damage plus 241. Scales with damage modifiers to Throw Weapon and Spears. Usable while moving.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-32-3-8",
+      "12-32-5-8"
+     ]
+    },
+    {
+     "id": "12-32-7-9",
+     "name": "Spite",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 32,
+     "icon": "epic_rpg_icon_pack_brutal_icon_0007s_0000_warrior_border",
+     "spellId": 707584,
+     "description": "Quickly unleash 3 Berserker Throws at your target and then fling yourself back a great distance, dealing 125% Ranged Weapon Damage, scaling with modifiers to Berserker Axe.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-32-5-8",
+      "12-32-7-8"
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": 33,
+   "name": "Ancestry",
+   "nodeCount": 43,
+   "nodes": [
+    {
+     "id": "12-33-4-0",
+     "name": "Keg Smash",
+     "x": 4,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "ability_monk_elusiveale",
+     "spellId": 805808,
+     "description": "Smash an enemy for 21 + 15% AP Physical damage, plus an additional 17 + 25% AP Frost damage to up to 5 nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendSquare"
+    },
+    {
+     "id": "12-33-10-0",
+     "name": "Fill Level",
+     "x": 10,
+     "y": 0,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "spell_brew_wheat",
+     "spellId": 92083,
+     "description": "Level 10 PassiveGrants you Fill Level and the ability to manipulate a Tankard.Fill LevelYou have a magical Tankard that fills up over time, granting you 1 stack of Fill Level every 2 sec.Some of your other abilities empty your Tankard to trigger with a reduced cooldown.",
+     "isPassive": true,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "12-33-4-1",
+     "name": "Ancestor's Call",
+     "x": 4,
+     "y": 1,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "inv_helmet_158",
+     "spellId": 804729,
+     "description": "Teaches you Ancestor's Call.Ancestor&#39;s Call (Troll)Call an Honored Ancestor to aid you in battle until dismissed that scales with your Agility and attack power.Whenever you use Barbaric Whirl or Whirling Advance, your Honored Ancestor mimics it.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-33-4-0"
+     ]
+    },
+    {
+     "id": "12-33-2-2",
+     "name": "Breath of The North",
+     "x": 2,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "spell_fire_blueflamebreath",
+     "spellId": 800838,
+     "description": "Unleashes a frost breath, dealing 31 + 20% AP Frost damage to enemies in a 12 yd cone and slowing them by -30% for 5 seconds.Can only be used after emptying your Tankard.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-33-4-1"
+     ]
+    },
+    {
+     "id": "12-33-6-2",
+     "name": "Ale of The God-King",
+     "x": 6,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "aleofgodking",
+     "spellId": 805780,
+     "description": "Empower your Honored Ancestor's melee attacks to deal additional Frost damage scaling with your attack power. Lasts for 20 seconds or 10 attacks.This ability consumes Fill Level stacks and triggers a reduced cooldown based on stacks consumed.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-33-4-1"
+     ]
+    },
+    {
+     "id": "12-33-10-2a",
+     "name": "Frozen Blades",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "inv_weapon_shortblade_48",
+     "spellId": 573256,
+     "description": "Critical strikes now grant party and raid members 5% critical strike chance for 8 seconds.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 15,
+     "dependencies": [
+      "12-33-10-0"
+     ]
+    },
+    {
+     "id": "12-33-10-2b",
+     "name": "Ancestral Wisdom",
+     "x": 10,
+     "y": 2,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "achievement_dungeon_utgardekeep_normal",
+     "spellId": 803511,
+     "description": "Increases chance to hit with all spells and attacks by 1% for you and party and raid members.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 15
+    },
+    {
+     "id": "12-33-1-3",
+     "name": "Frostbite",
+     "x": 1,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "novart_magicspell_(74)_border",
+     "spellId": 705158,
+     "description": "Breath of The North now causes the target to bleed for an additional 30% of its damage over 6 seconds as Frost damage.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-2-2"
+     ]
+    },
+    {
+     "id": "12-33-2-3",
+     "name": "Ancestral Fury",
+     "x": 2,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "achievement_boss_argus_aggramar",
+     "spellId": 804731,
+     "description": "Emanate a powerful aura, granting 10% increased melee and ranged haste to party and raid members within 100 yds.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-2-2"
+     ]
+    },
+    {
+     "id": "12-33-4-3",
+     "name": "Ancestral Combat",
+     "x": 4,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "_d3calloftheancients",
+     "spellId": 801782,
+     "description": "Empower yourself, granting your Physical damage dealt a 25% chance to trigger an additional main hand attack as Frost damage on your target and grant a stack of Fill Level.Lasts until triggered 20 times.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-33-6-2",
+      "12-33-2-2"
+     ]
+    },
+    {
+     "id": "12-33-6-3",
+     "name": "Trip to the Alehouse",
+     "x": 6,
+     "y": 3,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "achievement_guildperk_bartering",
+     "spellId": 705152,
+     "description": "Increases the damage of Keg Smash by 10% and its range by 3 yds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-6-2"
+     ]
+    },
+    {
+     "id": "12-33-7-3",
+     "name": "Drinking Frenzy",
+     "x": 7,
+     "y": 3,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "inv_misc_archaeology_vrykuldrinkinghorn",
+     "spellId": 706821,
+     "description": "Your melee attacks now have a 15% chance to grant a stack of Fill Level.In addition, your chance to hit is increased by 5%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-6-2"
+     ]
+    },
+    {
+     "id": "12-33-0-4",
+     "name": "Frost Giant's Fury",
+     "x": 0,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "spell_deathknight_icetouch",
+     "spellId": 805812,
+     "description": "Casting Breath of the North now grants you 10% melee attack speed, plus an additional 20% when using a two-handed weapon, for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-1-3"
+     ]
+    },
+    {
+     "id": "12-33-2-4",
+     "name": "Frozen Tankard",
+     "x": 2,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "tankardtoss",
+     "spellId": 805815,
+     "description": "Throw one of your extra tankards at an enemy, dealing 107 Frost damage and stunning them for 4 seconds. Stunned enemies are considered Frozen.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-33-4-3",
+      "12-33-2-3",
+      "12-33-1-3"
+     ]
+    },
+    {
+     "id": "12-33-4-4",
+     "name": "Improved Ancestral Combat",
+     "x": 4,
+     "y": 4,
+     "maxPoints": 3,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "inv_axe_82",
+     "spellId": 705209,
+     "description": "Reduces the Energy cost of your Ancestral Combat by -10 and allows it to trigger 3 additional times.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-4-3"
+     ]
+    },
+    {
+     "id": "12-33-6-4",
+     "name": "Cheers!",
+     "x": 6,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "archaeology_5_0_twinsteinsetofbrewfatherquantoukuo",
+     "spellId": 805810,
+     "description": "Designate an ally as your drinking partner for 30 minutes, reducing all damage they take by -5%, and causing 10% of all damage they take to be redirected to you.You can only have 1 ally designated at a time.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-33-4-3",
+      "12-33-6-3",
+      "12-33-7-3"
+     ]
+    },
+    {
+     "id": "12-33-8-4",
+     "name": "The Finest Ale",
+     "x": 8,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "spell_misc_drink",
+     "spellId": 705218,
+     "description": "Your Ale of The God-King no longer empties your Tankard.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-7-3"
+     ]
+    },
+    {
+     "id": "12-33-10-4a",
+     "name": "Crystal Enhancements",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "inv_misc_frostemblem_01",
+     "spellId": 707541,
+     "description": "You now emanate an aura around you, increasing the Armor of party and raid members by 390.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30,
+     "dependencies": [
+      "12-33-10-2a",
+      "12-33-10-2b"
+     ]
+    },
+    {
+     "id": "12-33-10-4b",
+     "name": "Uniting Voice",
+     "x": 10,
+     "y": 4,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "inv_helm_mail_vrykuldragonrider_b_01",
+     "spellId": 705162,
+     "description": "Casting Ancestral Roar now increases haste of party and raid members by 5% for 20 seconds.Does not stack with similar effects.Critical strikes extend the duration of the buff by 1 sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 30
+    },
+    {
+     "id": "12-33-1-5",
+     "name": "Icebound Ancestry",
+     "x": 1,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "achievement_boss_forgemaster",
+     "spellId": 705216,
+     "description": "Increases the critical strike chance of Breath of the North by 10%.In addition, your attacks now ignore Armor against Frozen targets.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-0-4",
+      "12-33-2-4"
+     ]
+    },
+    {
+     "id": "12-33-2-5",
+     "name": "Hodir's Revenge",
+     "x": 2,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "spell_deathknight_iceboundfortitude",
+     "spellId": 705214,
+     "description": "Enemies damaged by your Frozen Tankard now take 50% increased damage from you for 6 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-2-4"
+     ]
+    },
+    {
+     "id": "12-33-4-5a",
+     "name": "Thane's Guard",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "achievements_zone_stormheim",
+     "spellId": 800132,
+     "description": "Gain the Shield proficiency and while wearing a shield you gain 40% increased attack speed and 100% increased Armor contribution from your shield.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-4-4"
+     ]
+    },
+    {
+     "id": "12-33-4-5b",
+     "name": "Thane's Grip",
+     "x": 4,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "5_archerskill33_border",
+     "spellId": 803798,
+     "description": "Allows you to wield a Two-Handed Axe, Mace, or Sword in each hand, but reduces your Physical Damage dealt by -8%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle"
+    },
+    {
+     "id": "12-33-6-5",
+     "name": "Liquid Courage",
+     "x": 6,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "ability_monk_fortifyingale_new",
+     "spellId": 681060,
+     "description": "Each Fill Level stack now reduces your damage taken by -2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-6-4"
+     ]
+    },
+    {
+     "id": "12-33-7-5",
+     "name": "Breaking Morale",
+     "x": 7,
+     "y": 5,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "ability_racial_avatar",
+     "spellId": 681473,
+     "description": "Reduces the Energy cost of Break by -15.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-6-4",
+      "12-33-8-4"
+     ]
+    },
+    {
+     "id": "12-33-2-6",
+     "name": "Ice Cold Bubbles",
+     "x": 2,
+     "y": 6,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "nhi_iceswirl_border",
+     "spellId": 705161,
+     "description": "Each Fill Level stack now also increases Frost damage dealt by 2%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-4-5a",
+      "12-33-1-5",
+      "12-33-2-5",
+      "12-33-4-5b"
+     ]
+    },
+    {
+     "id": "12-33-4-6",
+     "name": "Unified Rage",
+     "x": 4,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "novart_magicspell_(76)_border",
+     "spellId": 705212,
+     "description": "Your Unbridled Rage now increases your chance to trigger Ancestral Combat by 25%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-4-5a",
+      "12-33-4-5b"
+     ]
+    },
+    {
+     "id": "12-33-6-6",
+     "name": "Blind Stupor",
+     "x": 6,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "ability_monk_drunkenhaze",
+     "spellId": 805811,
+     "description": "Damage dealt by Keg Smash now reduces enemies' casting speed by -30% for 15 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-4-5a",
+      "12-33-7-5",
+      "12-33-6-5",
+      "12-33-4-5b"
+     ]
+    },
+    {
+     "id": "12-33-10-6a",
+     "name": "Splash Zone",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "inv_holiday_beerfest_darkiron",
+     "spellId": 705156,
+     "description": "Share a drink from your Tankard with all party and raid members, granting 95 increased attack or spell power for 15 seconds.Does not stack with similar effects.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 40,
+     "dependencies": [
+      "12-33-10-4a",
+      "12-33-10-4b"
+     ]
+    },
+    {
+     "id": "12-33-10-6b",
+     "name": "To The Bone",
+     "x": 10,
+     "y": 6,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "nhi_frost_bonecrack_border",
+     "spellId": 712673,
+     "description": "Damage dealt by Breath of the North now reduces enemies' resistances by 75 and increases their Magic damage taken by -2% for 8 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "requiredLevel": 40
+    },
+    {
+     "id": "12-33-1-7",
+     "name": "Drunken Frenzy",
+     "x": 1,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "inv_offhand_1h_draenordungeon_c_02",
+     "spellId": 572799,
+     "description": "Unbridled Rage now increases your Honored Ancestor's Physical damage by 15% for 10 seconds.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-1-5",
+      "12-33-2-6"
+     ]
+    },
+    {
+     "id": "12-33-3-7",
+     "name": "Ancestor's Fury",
+     "x": 3,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "achievement_boss_generalbjarngrim",
+     "spellId": 705168,
+     "description": "Unbridled Rage now also increases your Frost damage by 10%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-2-6",
+      "12-33-4-6"
+     ]
+    },
+    {
+     "id": "12-33-5-7",
+     "name": "Cold Brew",
+     "x": 5,
+     "y": 7,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "spell_monk_nimblebrew",
+     "spellId": 705211,
+     "description": "Critical strikes with Frost damage now generate a stack of Fill Level. Can only occur once per sec.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-6-6",
+      "12-33-4-6"
+     ]
+    },
+    {
+     "id": "12-33-7-7",
+     "name": "Ancestral Spirit",
+     "x": 7,
+     "y": 7,
+     "maxPoints": 2,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "5_druideskill22_border",
+     "spellId": 705153,
+     "description": "Reduces the Energy cost of your Spirit spells and increases the duration of your Shouts by -50%.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-7-5",
+      "12-33-6-6"
+     ]
+    },
+    {
+     "id": "12-33-1-8",
+     "name": "The Spins",
+     "x": 1,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "skill_icon_skill14_border",
+     "spellId": 705208,
+     "description": "Casting Keg Smash now causes your Honored Ancestor to perform an Ancestral Whirl attack upon nearby enemies.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-3-7",
+      "12-33-1-7"
+     ]
+    },
+    {
+     "id": "12-33-4-8",
+     "name": "Ramhorn Rage",
+     "x": 4,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "inv_holiday_beerfest_maghar",
+     "spellId": 805804,
+     "description": "Enrage EffectEnrage party and raid members within 8 yds for 3 seconds, regenerating 2% of their maximum health every 2 sec. Melee auto attacks extend the duration of this effect by 2 sec, up to a maximum of 15 seconds.This ability empties your Tankard, consuming Fill Level stacks and triggering with a reduced cooldown based on stacks consumed.Barbaric Rage (Passive)While enraged, the global cooldown of Barbarian abilities is reduced by 30%.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-33-5-7",
+      "12-33-3-7"
+     ]
+    },
+    {
+     "id": "12-33-7-8",
+     "name": "War Cry",
+     "x": 7,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "ability_soulrenderdormazain_hellscream",
+     "spellId": 500995,
+     "description": "Unleash a blood curdling war cry, increasing melee and ranged attack speed by 20%, and attack power by 150 of party and raid members within 25 yds for 20 seconds.Allies cannot benefit from this spell again for 5 minutes.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "dependencies": [
+      "12-33-7-7",
+      "12-33-5-7"
+     ]
+    },
+    {
+     "id": "12-33-10-8a",
+     "name": "Clanlord's Totem",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "inv_belt_armor_orcclan_d_01",
+     "spellId": 804737,
+     "description": "Drop the Clanlord's Totem at the target location where it will remain for 15 seconds.The totem emanates an aura for 15 seconds, causing allied players within 100 yds to deal 35% AP additional damage as Frost damage when they deal direct damage and gain 50% increased honor.Applies Exhaustion, preventing you from benefiting from similar effects for 1 minute.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 50,
+     "dependencies": [
+      "12-33-10-6a",
+      "12-33-10-6b"
+     ]
+    },
+    {
+     "id": "12-33-10-8b",
+     "name": "Tavern Brawl!",
+     "x": 10,
+     "y": 8,
+     "maxPoints": 1,
+     "teCost": 0,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "novart_passivemastery_(34)_border",
+     "spellId": 804456,
+     "description": "Enrage all nearby allies, increasing their haste by 30% for 20 seconds.After being affected by this spell, allies cannot benefit from similar effects for 5 minutes.",
+     "isPassive": false,
+     "nodeType": "SpendSquare",
+     "requiredLevel": 50
+    },
+    {
+     "id": "12-33-1-9",
+     "name": "Might of Utgarde",
+     "x": 1,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "achievement_dungeon_utgardepinnacle_normal",
+     "spellId": 804768,
+     "description": "Attacks from your Ancestral Combat now heal your Honored Ancestor for 5% maximum health and cause it to perform an Ancestral Whirl attack.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-1-8"
+     ]
+    },
+    {
+     "id": "12-33-3-9",
+     "name": "Rage of the North",
+     "x": 3,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "inv_banner_tolbarad_alliance",
+     "spellId": 705221,
+     "description": "Increases the amount of attacks that can trigger your Ale of The God-King by 10.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-4-8"
+     ]
+    },
+    {
+     "id": "12-33-5-9",
+     "name": "Fury of the North",
+     "x": 5,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "uico_frost_spell_10_border",
+     "spellId": 560938,
+     "description": "Increases the duration of the enrage effect from your Ramhorn Rage by 6 sec and causes it to increase your movement speed by 40% for its duration.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-4-8"
+     ]
+    },
+    {
+     "id": "12-33-7-9",
+     "name": "Rally Behind Me!",
+     "x": 7,
+     "y": 9,
+     "maxPoints": 1,
+     "teCost": 1,
+     "aeCost": 0,
+     "tabId": 33,
+     "icon": "ability_hunter_rapidkilling",
+     "spellId": 712429,
+     "description": "Increases the duration of Warband by 3 sec.In addition, your first use of Warband will incur no cooldown. Can only occur once every 1.5 min.",
+     "isPassive": false,
+     "nodeType": "SpendCircle",
+     "dependencies": [
+      "12-33-7-8"
+     ]
+    }
+   ]
+  }
+ ]
+}

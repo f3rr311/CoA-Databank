@@ -1,0 +1,8 @@
+{
+  "name_enus": "Final Verdict Reset Passive",
+  "icon": "ability_warrior_cleave",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Final Verdict Reset Passive</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Grand Entrance</span> by 5 sec and casting it now grants <span style=\"color: #ffffff;\">Slayer</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_warrior_cleave.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=504744'> Final Verdict Reset </a> <br />\n                            <span> The cooldown of your next 3 <span style=\"color: #FFFFFF;\">Rams</span> is reduced by 0% for until cancelled.</span><br /></span></td></tr></table><!--?805152:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

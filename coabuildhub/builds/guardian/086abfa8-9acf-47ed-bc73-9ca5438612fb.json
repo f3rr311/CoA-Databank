@@ -1,0 +1,719 @@
+{
+ "build": {
+  "id": "086abfa8-9acf-47ed-bc73-9ca5438612fb",
+  "title": "Guardian Gladiator PvP optimal build",
+  "description": "[overview]\nPvP Gladiator build prioritizing utility, survivability, and burst damage. Cycling through strong, low CD offensive cooldowns for big burst damage as a win con to close out sustained fights.\n\n[talents]\nClinch Brawler guarantees a Centurion Strike crit so try to play around that, using Net Shot and Chivalry for big burst damage on the opener. \n\nCalculated Strike allows your Spear Throw to do respectable damage along with the 50% MS effect which you'll usually look to take advanage of in the opener. Reprisal isn't really reliable against non-melee classes since polearm won't be proccing the ability itself very often. High weapon damage, slow swing speed weapons are preferred for Centurion Strike burst. Valiant Effort could  be replaced with something else if you don't find value in it. \n\nAlways look to root and slow people inside Glorious Arena. Comboing the with Grand Entrance is more burst on top of your Net Shot + Chivalry + Centurion Strike crit rotation. Currently the Heroism talent is bugged, so I'm taking Close Combat atm. Standard being on GCD is still very nice to swap between them as needed. In pvp Valiance is used very often, but the stun resist banner is pretty great too in teamfights. In a 1v1 melee brawl you can't go wrong with the healing banner.\n\n[rotation]\nIdeal opener is Spear Throw -> Net Shot -> Standard of Valiance -> Chivalry -> Centurion Strike -> Glorious Arena -> Grand Entrance. Keep track of Glory stacks with Heroic Effort so you don't end up with Ram on a full CD while you're sitting on 3 Glory stacks. Try not to use Battle Rush in the opener if you don't have to, it's important to trade mobility with the opponent, so if you're using it in the opener when you don't have to you're a lot more liable to being kited. \n\nDon't forget Linebreaker. It basically works like Shattering Throw, breaking immunities and has a -25% armor reduction debuff with only a 1 minute cooldown. The armor debuff can be hard to play around, only lasting 5 seconds.\n\n[stats]\nStrength = Stamina ≥ Agi  Gladiator gets a lot of raw damage from strength, but agi is also a great stat that you can't go wrong with as it gives you a lot of benefits. Your main win con is playing around the Net Shot + Centurion Strike burst which has guaranteed crits built in. Having crit is still good though, your sustained damage becomes a real threat when Grand Entrance and Ram also start dealing big numbers.\n\n[gear]\nConquest Point PvP gear can be bought at booty bay. Honor gear is bought at your main towns' (Orgimmar or Stormwind) PvP vendor. These pvp items have higher resilience and pvp power than bloodforged so make sure you get them. These vendors sell enchants too and PvP trinket as well.\n\n[leveling]\nPull big with Tower Formation and a polearm, Centurion Strike and Broad Sweeps for big groups off adds. Raise Shield will be your primary way of getting Reprisal off since slow polearms can't proc it on it's own consistently enough.\n\n[pvp]\nYou have a lot of defensives to cycle through. You're a lot better at fighting melee than ranged, so look to check those classes and use keep relevant banners up (slow, stun resist, or healing usually, sometimes disarm resist). Counter Stance is basically a full heal so long as you get parries off, you can use this against pets too for a free full heal. Turn the Blade against other melees, Brace against Barbarians in the opener is good to avoid their Stun + Crush combo.\n\nUsing a Standard of Spellwarding in the middle of a group of casters you can't go wrong with, either. It's a deceptively strong way for gladiator to find value in a teamfight.\n\n[macros]\nHere are all the macros I use, It's built to avoid having to avoid using an input on stance switching. \n\n#showtooltip Advance\n/cast [stance:2/3] Line Formation\n/cast Advance\n\n#showtooltip Unyielding Stand\n/cast [stance:1/3] Tower Formation\n/cast Unyielding Stand\n\n#showtooltip Battle Rush\n/cast [stance:1/2] Assault Formation\n/cast Battle Rush\n\n#showtooltip Brace\n/cast [stance:1/3] Tower Formation\n/cast Brace\n\n#showtooltip Turn The Blade\n/cast [stance:1/3] Tower Formation\n/cast Turn The Blade\n\n#showtooltip Shrug It Off\n/cast [stance:2/3] Line Formation\n/cast Shrug It Off\n\n#showtooltip Guard\n/cast [stance:1/3] Tower Formation\n/cast Guard\n\n#showtooltip Knight's Calling\n/cast [stance:1/3] Tower Formation\n/cast Knight's Calling\n\n#showtooltip Shield of Denial\n/cast [stance:3] Tower Formation\n/cast [stance:2] Shield of Denial\n/cast [stance:1] Shield of Denial\n\n#showtooltip Harrowing Melody\n/cast [stance:2/3] Line Formation\n/cast Harrowing Melody\n\n#showtooltip Net Throw\n/cast [stance:1/2] Assault Formation\n/cast Net Throw\n\n#showtooltip Counter Stance\n/cast [stance:1/2] Assault Formation\n/cast Counter Stance\n\n#showtooltip Reflective Shield\n/cast [stance:1/3] Tower Formation\n/cast Reflective Shield\n\n#showtooltip Linebreaker\n/cast [stance:2/3] Line Formation\n/cast Linebreaker\n\n#showtooltip Raise Shield\n/cast [stance:1/3] Tower Formation\n/cast Raise Shield\n\n#showtooltip Spear Throw\n/cast [stance:1/2] Assault Formation\n/cast Spear Throw\n\n#showtooltip Shield Challenge\n/cast [stance:1/3] Tower Formation\n/cast Shield Challenge\n\n#showtooltip Standard of Supremacy\n/cast [@player] Standard of Supremacy\n\n#showtooltip Standard of Spellwarding\n/cast [@cursor] Standard of Spellwarding\n\n#showtooltip Standard of Might\n/cast [@player] Standard of Might\n\n#showtooltip Standard of Recovery\n/cast [@player] Standard of Recovery\n\n#showtooltip Standard of Valiance\n/cast [@cursor] Standard of Valiance\n\n#showtooltip Standard of Rallying\n/cast [@player] Standard of Rallying\n\n[tips]\nTrade mobility with players, use your gap closers in response to their own mobility or CC. Don't waste advance, shrug it off, or battle rush if you don't need to. Do not Net Shot the same player immediately off cooldown; 15 seconds isn't enough time for CC DR to fade away, and they will only be rooted for 1-2 seconds. Spear Throw should be used before big bursts, as most classes have some form of sustain and will probably respond with big defensive buttons in response to your damage.\n\nStandard of Spellwarding is a great utility option in big teamfights. Throw it in the middle of the enemy backline for free value if they have a lot of casters.",
+  "class_id": 18,
+  "spec_id": 49,
+  "author_id": "9614dba2-698f-41f8-9cfe-50164820f285",
+  "talent_string": "W1siMTgtODctNy0wIiwxXSxbIjE4LTg3LTQtMCIsMV0sWyIxOC04Ny0xLTAiLDFdLFsiMTgtODctMS0xIiwxXSxbIjE4LTg3LTAtMiIsMV0sWyIxOC04Ny00LTEiLDJdLFsiMTgtODctNy0xIiwxXSxbIjE4LTg3LTYtMiIsMV0sWyIxOC04Ny00LTNhIiwxXSxbIjE4LTg3LTEtMyIsMV0sWyIxOC04Ny03LTMiLDJdLFsiMTgtODctNS00IiwxXSxbIjE4LTg3LTMtNCIsMV0sWyIxOC04Ny00LTUiLDFdLFsiMTgtODctNi01IiwxXSxbIjE4LTg3LTYtNiIsMV0sWyIxOC04Ny00LTYiLDFdLFsiMTgtODctMi02IiwxXSxbIjE4LTg3LTQtNyIsMV0sWyIxOC04Ny0xLTdhIiwxXSxbIjE4LTg3LTItNyIsMV0sWyIxOC04Ny0yLTgiLDFdLFsiMTgtODctMi05IiwxXSxbIjE4LTQ5LTQtMCIsMV0sWyIxOC00OS0yLTEiLDJdLFsiMTgtNDktMS0zIiwxXSxbIjE4LTQ5LTQtMiIsMV0sWyIxOC00OS02LTEiLDJdLFsiMTgtNDktNS0zIiwxXSxbIjE4LTQ5LTMtMyIsMV0sWyIxOC00OS0yLTQiLDFdLFsiMTgtNDktMS01IiwxXSxbIjE4LTQ5LTMtNSIsMV0sWyIxOC00OS02LTQiLDJdLFsiMTgtNDktNy01YiIsMV0sWyIxOC00OS04LTYiLDFdLFsiMTgtNDktMi02IiwxXSxbIjE4LTQ5LTEtN2EiLDFdLFsiMTgtNDktNC02IiwxXSxbIjE4LTQ5LTQtNyIsMV0sWyIxOC00OS02LTYiLDFdLFsiMTgtNDktNS01IiwxXSxbIjE4LTQ5LTItOCIsMV0sWyIxOC00OS0yLTkiLDFdLFsiMTgtNDktMTAtMCIsMV0sWyIxOC00OS0xMC0yIiwxXSxbIjE4LTQ5LTEwLTQiLDFdLFsiMTgtNDktMTAtNiIsMV0sWyIxOC00OS0xMC04IiwxXSxbIjE4LTQ5LTctNyIsMV0sWyIxOC04Ny03LTQiLDFdXQ",
+  "tags": [
+   "PvP",
+   "Guardian",
+   "Gladiator",
+   "BG",
+   "Battleground",
+   "Battlegrounds",
+   "Arena",
+   "Open World",
+   "High Risk",
+   "War Mode"
+  ],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 5,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-13T23:22:44.312209+00:00",
+  "updated_at": "2026-07-19T00:55:15.877+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 3653,
+  "net_score": 5,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "9614dba2-698f-41f8-9cfe-50164820f285",
+   "username": "hrup",
+   "avatar_url": "https://cdn.discordapp.com/avatars/92835265051136000/1edee95b14b29f70aa420a43dc716fa0.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "0f6836ab-b365-4f6d-9090-6a2d78eacda4",
+   "title": "Inspiration Guardian(PvE)",
+   "class_id": 18,
+   "spec_id": 48,
+   "author_id": "b624efc7-ef7c-4e8a-a566-0b510f658794",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 2,
+   "downvotes": 0,
+   "comment_count": 5,
+   "view_count": 1532,
+   "featured": false,
+   "created_at": "2026-07-19T18:15:22.008446+00:00",
+   "updated_at": "2026-07-30T03:52:06.129+00:00",
+   "has_talents": true,
+   "guide_section_count": 8,
+   "author": {
+    "id": "b624efc7-ef7c-4e8a-a566-0b510f658794",
+    "username": "Why Two",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKT__xFrMUPj2fQYgJyQdPdJCvpvEl6Ulxp2c0YLKhjAPp-IQ=s96-c"
+   }
+  },
+  {
+   "id": "42d434c2-50ac-4f13-96ca-d69aaf05435d",
+   "title": "reincarnated into another world and I can be hit in the face 10000 times and be fine",
+   "class_id": 18,
+   "spec_id": 7,
+   "author_id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+   "tags": [],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2222,
+   "featured": false,
+   "created_at": "2026-07-17T21:16:49.004228+00:00",
+   "updated_at": "2026-07-17T21:16:49.004228+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+    "username": "zyzx",
+    "avatar_url": "https://cdn.discordapp.com/avatars/160919726955036672/a701ead2d96f549ded297650a1b01624.png"
+   }
+  }
+ ],
+ "class": "Guardian",
+ "spec": "Gladiator",
+ "allocations": [
+  [
+   "18-87-7-0",
+   1
+  ],
+  [
+   "18-87-4-0",
+   1
+  ],
+  [
+   "18-87-1-0",
+   1
+  ],
+  [
+   "18-87-1-1",
+   1
+  ],
+  [
+   "18-87-0-2",
+   1
+  ],
+  [
+   "18-87-4-1",
+   2
+  ],
+  [
+   "18-87-7-1",
+   1
+  ],
+  [
+   "18-87-6-2",
+   1
+  ],
+  [
+   "18-87-4-3a",
+   1
+  ],
+  [
+   "18-87-1-3",
+   1
+  ],
+  [
+   "18-87-7-3",
+   2
+  ],
+  [
+   "18-87-5-4",
+   1
+  ],
+  [
+   "18-87-3-4",
+   1
+  ],
+  [
+   "18-87-4-5",
+   1
+  ],
+  [
+   "18-87-6-5",
+   1
+  ],
+  [
+   "18-87-6-6",
+   1
+  ],
+  [
+   "18-87-4-6",
+   1
+  ],
+  [
+   "18-87-2-6",
+   1
+  ],
+  [
+   "18-87-4-7",
+   1
+  ],
+  [
+   "18-87-1-7a",
+   1
+  ],
+  [
+   "18-87-2-7",
+   1
+  ],
+  [
+   "18-87-2-8",
+   1
+  ],
+  [
+   "18-87-2-9",
+   1
+  ],
+  [
+   "18-49-4-0",
+   1
+  ],
+  [
+   "18-49-2-1",
+   2
+  ],
+  [
+   "18-49-1-3",
+   1
+  ],
+  [
+   "18-49-4-2",
+   1
+  ],
+  [
+   "18-49-6-1",
+   2
+  ],
+  [
+   "18-49-5-3",
+   1
+  ],
+  [
+   "18-49-3-3",
+   1
+  ],
+  [
+   "18-49-2-4",
+   1
+  ],
+  [
+   "18-49-1-5",
+   1
+  ],
+  [
+   "18-49-3-5",
+   1
+  ],
+  [
+   "18-49-6-4",
+   2
+  ],
+  [
+   "18-49-7-5b",
+   1
+  ],
+  [
+   "18-49-8-6",
+   1
+  ],
+  [
+   "18-49-2-6",
+   1
+  ],
+  [
+   "18-49-1-7a",
+   1
+  ],
+  [
+   "18-49-4-6",
+   1
+  ],
+  [
+   "18-49-4-7",
+   1
+  ],
+  [
+   "18-49-6-6",
+   1
+  ],
+  [
+   "18-49-5-5",
+   1
+  ],
+  [
+   "18-49-2-8",
+   1
+  ],
+  [
+   "18-49-2-9",
+   1
+  ],
+  [
+   "18-49-10-0",
+   1
+  ],
+  [
+   "18-49-10-2",
+   1
+  ],
+  [
+   "18-49-10-4",
+   1
+  ],
+  [
+   "18-49-10-6",
+   1
+  ],
+  [
+   "18-49-10-8",
+   1
+  ],
+  [
+   "18-49-7-7",
+   1
+  ],
+  [
+   "18-87-7-4",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "18-87-7-0",
+   "points": 1,
+   "name": "Brace",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 800313
+  },
+  {
+   "id": "18-87-4-0",
+   "points": 1,
+   "name": "Standard of Rallying",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 500263
+  },
+  {
+   "id": "18-87-1-0",
+   "points": 1,
+   "name": "Net Throw",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802304
+  },
+  {
+   "id": "18-87-1-1",
+   "points": 1,
+   "name": "Knightly Demeanor",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 504148
+  },
+  {
+   "id": "18-87-0-2",
+   "points": 1,
+   "name": "Light Nets",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 704150
+  },
+  {
+   "id": "18-87-4-1",
+   "points": 2,
+   "name": "Gallant",
+   "maxPoints": 2,
+   "tree": "Guardian (class tree)",
+   "spellId": 705368
+  },
+  {
+   "id": "18-87-7-1",
+   "points": 1,
+   "name": "Sturdy",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 706639
+  },
+  {
+   "id": "18-87-6-2",
+   "points": 1,
+   "name": "Valiant Effort",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 706637
+  },
+  {
+   "id": "18-87-4-3a",
+   "points": 1,
+   "name": "Shrug It Off",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802198
+  },
+  {
+   "id": "18-87-1-3",
+   "points": 1,
+   "name": "Glorious Arena",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 300983
+  },
+  {
+   "id": "18-87-7-3",
+   "points": 2,
+   "name": "Shield Wall",
+   "maxPoints": 2,
+   "tree": "Guardian (class tree)",
+   "spellId": 705370
+  },
+  {
+   "id": "18-87-5-4",
+   "points": 1,
+   "name": "Heroic Deeds",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 804661
+  },
+  {
+   "id": "18-87-3-4",
+   "points": 1,
+   "name": "Unstoppable",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 704513
+  },
+  {
+   "id": "18-87-4-5",
+   "points": 1,
+   "name": "Counter Stance",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802188
+  },
+  {
+   "id": "18-87-6-5",
+   "points": 1,
+   "name": "Standard Bearer",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 806134
+  },
+  {
+   "id": "18-87-6-6",
+   "points": 1,
+   "name": "Steel Riposte",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 300534
+  },
+  {
+   "id": "18-87-4-6",
+   "points": 1,
+   "name": "Knight's Advantage",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705378
+  },
+  {
+   "id": "18-87-2-6",
+   "points": 1,
+   "name": "Energetic",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705316
+  },
+  {
+   "id": "18-87-4-7",
+   "points": 1,
+   "name": "Knight's Calling",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 504151
+  },
+  {
+   "id": "18-87-1-7a",
+   "points": 1,
+   "name": "Pit Fighter",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802296
+  },
+  {
+   "id": "18-87-2-7",
+   "points": 1,
+   "name": "Thick Shields",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 807346
+  },
+  {
+   "id": "18-87-2-8",
+   "points": 1,
+   "name": "Relentless",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 705343
+  },
+  {
+   "id": "18-87-2-9",
+   "points": 1,
+   "name": "Grand Entrance",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 802870
+  },
+  {
+   "id": "18-49-4-0",
+   "points": 1,
+   "name": "Centurion Strike",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 802286
+  },
+  {
+   "id": "18-49-2-1",
+   "points": 2,
+   "name": "Might",
+   "maxPoints": 2,
+   "tree": "Gladiator",
+   "spellId": 300538
+  },
+  {
+   "id": "18-49-1-3",
+   "points": 1,
+   "name": "Polearm Training",
+   "maxPoints": 3,
+   "tree": "Gladiator",
+   "spellId": 802299
+  },
+  {
+   "id": "18-49-4-2",
+   "points": 1,
+   "name": "Supremacy",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 504140
+  },
+  {
+   "id": "18-49-6-1",
+   "points": 2,
+   "name": "Legionnaire",
+   "maxPoints": 2,
+   "tree": "Gladiator",
+   "spellId": 504730
+  },
+  {
+   "id": "18-49-5-3",
+   "points": 1,
+   "name": "Built Different",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 300545
+  },
+  {
+   "id": "18-49-3-3",
+   "points": 1,
+   "name": "Upper Hand",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 802295
+  },
+  {
+   "id": "18-49-2-4",
+   "points": 1,
+   "name": "Double Duty",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 504184
+  },
+  {
+   "id": "18-49-1-5",
+   "points": 1,
+   "name": "Spear Throw",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 500463
+  },
+  {
+   "id": "18-49-3-5",
+   "points": 1,
+   "name": "Tactical Combat",
+   "maxPoints": 2,
+   "tree": "Gladiator",
+   "spellId": 504503
+  },
+  {
+   "id": "18-49-6-4",
+   "points": 2,
+   "name": "Crashing Force",
+   "maxPoints": 2,
+   "tree": "Gladiator",
+   "spellId": 705329
+  },
+  {
+   "id": "18-49-7-5b",
+   "points": 1,
+   "name": "Bulwark Rush",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 300536
+  },
+  {
+   "id": "18-49-8-6",
+   "points": 1,
+   "name": "Myrmidon",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 504530
+  },
+  {
+   "id": "18-49-2-6",
+   "points": 1,
+   "name": "Waste No Movement",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 704516
+  },
+  {
+   "id": "18-49-1-7a",
+   "points": 1,
+   "name": "Clinch Brawler",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 707310
+  },
+  {
+   "id": "18-49-4-6",
+   "points": 1,
+   "name": "Overwhelming Presence",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 712367
+  },
+  {
+   "id": "18-49-4-7",
+   "points": 1,
+   "name": "Deadly Blow",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 706807
+  },
+  {
+   "id": "18-49-6-6",
+   "points": 1,
+   "name": "Momentum",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 504531
+  },
+  {
+   "id": "18-49-5-5",
+   "points": 1,
+   "name": "Heroic Effort",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 301057
+  },
+  {
+   "id": "18-49-2-8",
+   "points": 1,
+   "name": "Close Combat",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 704514
+  },
+  {
+   "id": "18-49-2-9",
+   "points": 1,
+   "name": "Calculated Strike",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 705341
+  },
+  {
+   "id": "18-49-10-0",
+   "points": 1,
+   "name": "Glory",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 92106
+  },
+  {
+   "id": "18-49-10-2",
+   "points": 1,
+   "name": "Shield Training",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 524885
+  },
+  {
+   "id": "18-49-10-4",
+   "points": 1,
+   "name": "Experienced Combatant",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 707633
+  },
+  {
+   "id": "18-49-10-6",
+   "points": 1,
+   "name": "Shield Combat",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 807297
+  },
+  {
+   "id": "18-49-10-8",
+   "points": 1,
+   "name": "Favor",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 704322
+  },
+  {
+   "id": "18-49-7-7",
+   "points": 1,
+   "name": "Retiarius",
+   "maxPoints": 1,
+   "tree": "Gladiator",
+   "spellId": 705338
+  },
+  {
+   "id": "18-87-7-4",
+   "points": 1,
+   "name": "Reflective Shield",
+   "maxPoints": 1,
+   "tree": "Guardian (class tree)",
+   "spellId": 300927
+  }
+ ]
+}

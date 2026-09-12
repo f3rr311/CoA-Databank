@@ -1,0 +1,8 @@
+{
+  "name_enus": "Heartstop Bolt",
+  "icon": "inv_ammo_arrow_04",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Heartstop Bolt</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>4% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>6&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Crossbows<br /><span class=\"q\">Shoot a vicious bolt dealing RAP*0.225+SP*.4+41+0 Physical damage, and reducing healing received on the target by 30% for 8&nbsp;sec.<br /><br />Generates 15 Rage. Refreshes the duration of <span style=\"color: #ffffff;\">Tormentor Bolt</span>. Can only be used directly after <span style=\"color: #ffffff;\">Coiling Shot</span>.</span></td></tr></table><!--?800163:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

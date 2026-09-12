@@ -1,0 +1,772 @@
+{
+ "build": {
+  "id": "687811f2-5314-47a6-b19c-153d3019a071",
+  "title": "Sun Cleric - General Build",
+  "description": "[overview]\nI am using this while leveling.  It has been effective in PvE, PvP, and open world PvP/leveling.  Only level 36 but enemies die in 1-3 hits.  Need to juggle vows for mana regeneration but mana is not really an issue.\n\nAlways tops charts in aoe dungeon pulls, while still performing well in ST.  \n\nIn PvP can quickly delete backline squishies if you can avoid getting CCed to death.\n\nProbably not the best and will adjust as I continue to level, but so far this has been extremely viable.\n\n[macros]\nI macroed my main damage abilities to include\n/startattack which allows me to just spam my normal attacks and not worry about right-clicking in the middle of a fight.",
+  "class_id": 27,
+  "spec_id": 90,
+  "author_id": "3e8fd07e-30be-4c90-8d81-4aae7a7efa97",
+  "talent_string": "W1siMjctOTAtNC0wIiwxXSxbIjI3LTkwLTQtMSIsMV0sWyIyNy05MC02LTIiLDFdLFsiMjctOTAtOC0zIiwxXSxbIjI3LTkwLTItMiIsMV0sWyIyNy05MC0wLTMiLDFdLFsiMjctOTAtMy0zIiwxXSxbIjI3LTkwLTUtMyIsMV0sWyIyNy05MC04LTUiLDFdLFsiMjctOTAtMTAtMCIsMV0sWyIyNy05MC0xMC0yIiwxXSxbIjI3LTkwLTEwLTQiLDFdLFsiMjctOTAtMTAtNiIsMV0sWyIyNy05MC00LTQiLDFdLFsiMjctOTAtMC01IiwxXSxbIjI3LTkwLTEtNiIsMV0sWyIyNy05MC03LTQiLDFdLFsiMjctOTAtMi03IiwxXSxbIjI3LTkwLTctNiIsMV0sWyIyNy05MC02LTciLDJdLFsiMjctOTAtNS01YiIsMV0sWyIyNy05MC02LTYiLDFdLFsiMjctOTAtNC02IiwxXSxbIjI3LTkwLTMtNSIsMl0sWyIyNy05MC02LTgiLDFdLFsiMjctOTAtNC05IiwxXSxbIjI3LTkwLTEwLTgiLDFdLFsiMjctODctMi0wIiwxXSxbIjI3LTg3LTQtMCIsMV0sWyIyNy04Ny0yLTEiLDJdLFsiMjctODctMS0yIiwxXSxbIjI3LTg3LTQtMiIsMV0sWyIyNy04Ny02LTEiLDJdLFsiMjctODctMi0zIiwxXSxbIjI3LTg3LTEtNCIsMV0sWyIyNy05MC00LTUiLDFdLFsiMjctODctMC01IiwxXSxbIjI3LTg3LTEtNiIsMV0sWyIyNy04Ny00LTMiLDFdLFsiMjctODctNi0zIiwxXSxbIjI3LTg3LTQtNiIsMl0sWyIyNy04Ny0zLTdhIiwxXSxbIjI3LTg3LTMtNCIsMl0sWyIyNy04Ny00LTUiLDFdLFsiMjctODctNy00YSIsMV0sWyIyNy04Ny01LTQiLDFdLFsiMjctODctMi04IiwxXSxbIjI3LTg3LTEtNyIsMV0sWyIyNy04Ny0yLTUiLDFdLFsiMjctODctNy0yIiwxXV0",
+  "tags": [
+   "Beginner",
+   "Leveling"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 2,
+  "created_at": "2026-07-17T15:32:14.992877+00:00",
+  "updated_at": "2026-07-17T15:32:14.992877+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1975,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "3e8fd07e-30be-4c90-8d81-4aae7a7efa97",
+   "username": "Daniel Ritter",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIfdLZr3chC7w7s89TluSomMvzI5SnNCr4X9CH8ULSkxRTDVQ=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "1aff5de6-ca47-4c58-8c2c-b11f6d2810e7",
+   "build_id": "687811f2-5314-47a6-b19c-153d3019a071",
+   "author_id": "44c2ef42-cacb-4613-b616-6e8fbe8f0550",
+   "parent_id": null,
+   "body": "you dont need to macro the aa into your abilities. the character automatically starts aa as soon as u attack an enemy.",
+   "upvotes": 0,
+   "created_at": "2026-07-20T03:42:12.07079+00:00",
+   "updated_at": "2026-07-20T03:42:12.07079+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "44c2ef42-cacb-4613-b616-6e8fbe8f0550",
+    "username": "realhyprox",
+    "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+   }
+  },
+  {
+   "id": "80c877bf-67dc-4576-a54c-3c54f04bd6eb",
+   "build_id": "687811f2-5314-47a6-b19c-153d3019a071",
+   "author_id": "3e8fd07e-30be-4c90-8d81-4aae7a7efa97",
+   "parent_id": "1aff5de6-ca47-4c58-8c2c-b11f6d2810e7",
+   "body": "My character definitely doesn't start his AA when pressing abilities on CD",
+   "upvotes": 0,
+   "created_at": "2026-07-24T15:13:35.09986+00:00",
+   "updated_at": "2026-07-24T15:13:35.09986+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "3e8fd07e-30be-4c90-8d81-4aae7a7efa97",
+    "username": "Daniel Ritter",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIfdLZr3chC7w7s89TluSomMvzI5SnNCr4X9CH8ULSkxRTDVQ=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "7e9d9222-bd9b-46f8-b6fa-2012abfb8654",
+   "title": "Valkyrie DPS PvE Detailed Guide (Dungeons, Mythics, Raid)",
+   "class_id": 27,
+   "spec_id": 90,
+   "author_id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+   "tags": [
+    "Dungeon",
+    "Heroic",
+    "Mythic",
+    "Raid",
+    "Single Target",
+    "AoE",
+    "PvE",
+    "General",
+    "Sun Cleric",
+    "Valkyrie"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 8,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 1851,
+   "featured": false,
+   "created_at": "2026-07-27T03:35:24.600234+00:00",
+   "updated_at": "2026-07-31T19:59:23.625+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+    "username": "DarkGuardian",
+    "avatar_url": "https://cdn.discordapp.com/avatars/237645502051647488/687c5535110cac02fdc5d918d23e5e98.png"
+   }
+  },
+  {
+   "id": "e8ee75b8-8e51-4d3a-af1b-a47d6c4d13b7",
+   "title": "Blessings Sun Cleric - Dungeons",
+   "class_id": 27,
+   "spec_id": 71,
+   "author_id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+   "tags": [],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 571,
+   "featured": false,
+   "created_at": "2026-07-28T00:34:16.331076+00:00",
+   "updated_at": "2026-07-30T22:27:37.597+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+    "username": "Iyob",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "70365f6d-e8d7-481e-9192-96bc94c2316e",
+   "title": "Sun Cleric - Seraphim - Dungeon",
+   "class_id": 27,
+   "spec_id": 72,
+   "author_id": "326a05bd-ae58-4722-ab9d-22a380d3fe22",
+   "tags": [],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 362,
+   "featured": false,
+   "created_at": "2026-07-25T18:41:27.856779+00:00",
+   "updated_at": "2026-07-25T18:41:27.856779+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "326a05bd-ae58-4722-ab9d-22a380d3fe22",
+    "username": "Sorri",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKZqD5dNL8hx9StOVXHsRYBHnTTEvAK9_JP3Qp2s1W-blgwzA=s96-c"
+   }
+  }
+ ],
+ "class": "Sun Cleric",
+ "spec": "Valkyrie",
+ "allocations": [
+  [
+   "27-90-4-0",
+   1
+  ],
+  [
+   "27-90-4-1",
+   1
+  ],
+  [
+   "27-90-6-2",
+   1
+  ],
+  [
+   "27-90-8-3",
+   1
+  ],
+  [
+   "27-90-2-2",
+   1
+  ],
+  [
+   "27-90-0-3",
+   1
+  ],
+  [
+   "27-90-3-3",
+   1
+  ],
+  [
+   "27-90-5-3",
+   1
+  ],
+  [
+   "27-90-8-5",
+   1
+  ],
+  [
+   "27-90-10-0",
+   1
+  ],
+  [
+   "27-90-10-2",
+   1
+  ],
+  [
+   "27-90-10-4",
+   1
+  ],
+  [
+   "27-90-10-6",
+   1
+  ],
+  [
+   "27-90-4-4",
+   1
+  ],
+  [
+   "27-90-0-5",
+   1
+  ],
+  [
+   "27-90-1-6",
+   1
+  ],
+  [
+   "27-90-7-4",
+   1
+  ],
+  [
+   "27-90-2-7",
+   1
+  ],
+  [
+   "27-90-7-6",
+   1
+  ],
+  [
+   "27-90-6-7",
+   2
+  ],
+  [
+   "27-90-5-5b",
+   1
+  ],
+  [
+   "27-90-6-6",
+   1
+  ],
+  [
+   "27-90-4-6",
+   1
+  ],
+  [
+   "27-90-3-5",
+   2
+  ],
+  [
+   "27-90-6-8",
+   1
+  ],
+  [
+   "27-90-4-9",
+   1
+  ],
+  [
+   "27-90-10-8",
+   1
+  ],
+  [
+   "27-87-2-0",
+   1
+  ],
+  [
+   "27-87-4-0",
+   1
+  ],
+  [
+   "27-87-2-1",
+   2
+  ],
+  [
+   "27-87-1-2",
+   1
+  ],
+  [
+   "27-87-4-2",
+   1
+  ],
+  [
+   "27-87-6-1",
+   2
+  ],
+  [
+   "27-87-2-3",
+   1
+  ],
+  [
+   "27-87-1-4",
+   1
+  ],
+  [
+   "27-90-4-5",
+   1
+  ],
+  [
+   "27-87-0-5",
+   1
+  ],
+  [
+   "27-87-1-6",
+   1
+  ],
+  [
+   "27-87-4-3",
+   1
+  ],
+  [
+   "27-87-6-3",
+   1
+  ],
+  [
+   "27-87-4-6",
+   2
+  ],
+  [
+   "27-87-3-7a",
+   1
+  ],
+  [
+   "27-87-3-4",
+   2
+  ],
+  [
+   "27-87-4-5",
+   1
+  ],
+  [
+   "27-87-7-4a",
+   1
+  ],
+  [
+   "27-87-5-4",
+   1
+  ],
+  [
+   "27-87-2-8",
+   1
+  ],
+  [
+   "27-87-1-7",
+   1
+  ],
+  [
+   "27-87-2-5",
+   1
+  ],
+  [
+   "27-87-7-2",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "27-90-4-0",
+   "points": 1,
+   "name": "Glorious Execution",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 800626
+  },
+  {
+   "id": "27-90-4-1",
+   "points": 1,
+   "name": "Odyn's Vanguard",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 806699
+  },
+  {
+   "id": "27-90-6-2",
+   "points": 1,
+   "name": "Sunsworn",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 802935
+  },
+  {
+   "id": "27-90-8-3",
+   "points": 1,
+   "name": "Justice",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 520359
+  },
+  {
+   "id": "27-90-2-2",
+   "points": 1,
+   "name": "Sunslam",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 805629
+  },
+  {
+   "id": "27-90-0-3",
+   "points": 1,
+   "name": "Radiant Marks",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 704947
+  },
+  {
+   "id": "27-90-3-3",
+   "points": 1,
+   "name": "Valkyr's Grip",
+   "maxPoints": 2,
+   "tree": "Valkyrie",
+   "spellId": 807507
+  },
+  {
+   "id": "27-90-5-3",
+   "points": 1,
+   "name": "Light of the Sun",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 704941
+  },
+  {
+   "id": "27-90-8-5",
+   "points": 1,
+   "name": "Herald of Purity",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 806058
+  },
+  {
+   "id": "27-90-10-0",
+   "points": 1,
+   "name": "Valkyr's Grip",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 707072
+  },
+  {
+   "id": "27-90-10-2",
+   "points": 1,
+   "name": "Valorous Champion",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 804339
+  },
+  {
+   "id": "27-90-10-4",
+   "points": 1,
+   "name": "Sun's Gift",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 680656
+  },
+  {
+   "id": "27-90-10-6",
+   "points": 1,
+   "name": "Vow of the Valkyr",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 807749
+  },
+  {
+   "id": "27-90-4-4",
+   "points": 1,
+   "name": "Champion of the Sun",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 800612
+  },
+  {
+   "id": "27-90-0-5",
+   "points": 1,
+   "name": "Gift of the Sun",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 680618
+  },
+  {
+   "id": "27-90-1-6",
+   "points": 1,
+   "name": "Trial of Valor",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 805581
+  },
+  {
+   "id": "27-90-7-4",
+   "points": 1,
+   "name": "Fanaticism",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 805628
+  },
+  {
+   "id": "27-90-2-7",
+   "points": 1,
+   "name": "Blessed Magic",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 560111
+  },
+  {
+   "id": "27-90-7-6",
+   "points": 1,
+   "name": "Sunwalker",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 704934
+  },
+  {
+   "id": "27-90-6-7",
+   "points": 2,
+   "name": "Vindicator",
+   "maxPoints": 2,
+   "tree": "Valkyrie",
+   "spellId": 704938
+  },
+  {
+   "id": "27-90-5-5b",
+   "points": 1,
+   "name": "Arbiter of Grace",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 301313
+  },
+  {
+   "id": "27-90-6-6",
+   "points": 1,
+   "name": "March of the Valkyr",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 560534
+  },
+  {
+   "id": "27-90-4-6",
+   "points": 1,
+   "name": "Valkyr's Calling",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 520024
+  },
+  {
+   "id": "27-90-3-5",
+   "points": 2,
+   "name": "Impartial",
+   "maxPoints": 2,
+   "tree": "Valkyrie",
+   "spellId": 704942
+  },
+  {
+   "id": "27-90-6-8",
+   "points": 1,
+   "name": "Solar Empowerment",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 707081
+  },
+  {
+   "id": "27-90-4-9",
+   "points": 1,
+   "name": "Knight of Dawn",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 805647
+  },
+  {
+   "id": "27-90-10-8",
+   "points": 1,
+   "name": "Holy Giant",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 681337
+  },
+  {
+   "id": "27-87-2-0",
+   "points": 1,
+   "name": "Horusath Blast",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 500154
+  },
+  {
+   "id": "27-87-4-0",
+   "points": 1,
+   "name": "Solar Prayer",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 806479
+  },
+  {
+   "id": "27-87-2-1",
+   "points": 2,
+   "name": "Swift Justice",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300322
+  },
+  {
+   "id": "27-87-1-2",
+   "points": 1,
+   "name": "Sintorcher",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704909
+  },
+  {
+   "id": "27-87-4-2",
+   "points": 1,
+   "name": "Sun Stride",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 680700
+  },
+  {
+   "id": "27-87-6-1",
+   "points": 2,
+   "name": "Solar Might",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704916
+  },
+  {
+   "id": "27-87-2-3",
+   "points": 1,
+   "name": "Solar Invocation: Conquest",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 800764
+  },
+  {
+   "id": "27-87-1-4",
+   "points": 1,
+   "name": "Suncharged",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 804628
+  },
+  {
+   "id": "27-90-4-5",
+   "points": 1,
+   "name": "Champion's Arrival",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 704905
+  },
+  {
+   "id": "27-87-0-5",
+   "points": 1,
+   "name": "Holy Conquest",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 504248
+  },
+  {
+   "id": "27-87-1-6",
+   "points": 1,
+   "name": "Censure",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300371
+  },
+  {
+   "id": "27-87-4-3",
+   "points": 1,
+   "name": "Blessed Armor",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300334
+  },
+  {
+   "id": "27-87-6-3",
+   "points": 1,
+   "name": "Solar Invocation: Revelation",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 503651
+  },
+  {
+   "id": "27-87-4-6",
+   "points": 2,
+   "name": "Guiding Glow",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300324
+  },
+  {
+   "id": "27-87-3-7a",
+   "points": 1,
+   "name": "Final Vows",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 707528
+  },
+  {
+   "id": "27-87-3-4",
+   "points": 2,
+   "name": "Enveloped in Light",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 680652
+  },
+  {
+   "id": "27-87-4-5",
+   "points": 1,
+   "name": "Pure Light",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300314
+  },
+  {
+   "id": "27-87-7-4a",
+   "points": 1,
+   "name": "Devoted to the Light",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 681436
+  },
+  {
+   "id": "27-87-5-4",
+   "points": 1,
+   "name": "Solar Guardian",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704581
+  },
+  {
+   "id": "27-87-2-8",
+   "points": 1,
+   "name": "Nysoni's Blessing",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 520639
+  },
+  {
+   "id": "27-87-1-7",
+   "points": 1,
+   "name": "Unbreakable Focus",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704945
+  },
+  {
+   "id": "27-87-2-5",
+   "points": 1,
+   "name": "Glare",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 805583
+  },
+  {
+   "id": "27-87-7-2",
+   "points": 1,
+   "name": "Devotee",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 707767
+  }
+ ]
+}

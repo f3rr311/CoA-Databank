@@ -1,0 +1,8 @@
+{
+  "name_enus": "The Right Price",
+  "icon": "garrison_building_tradingpost",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>The Right Price</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Collect Bounty</span> deals 100% increased damage against enemies affected by <span style=\"color: #ffffff;\">Set Bounty</span>, and consumes the effect to refund 45 sec of <span style=\"color: #ffffff;\">Set Bounty</span>'s cooldown.</span></td></tr></table><!--?705503:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

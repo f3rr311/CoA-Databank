@@ -1,0 +1,8 @@
+{
+  "name_enus": "Suffuse",
+  "icon": "diabloanniversary_achievement",
+  "tooltip_enus": "<table><tr><td><b>Suffuse</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Embrace your mortal body, restoring (10+3.9 Points Per Level)+(Sta*0.1) health every 3 sec, scaling with Stamina and defense rating.<br /><br />Lasts 3 sec for each <span style=\"color: #ff9933;\">Demonfire</span> consumed.</span></td></tr></table><!--?801063:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

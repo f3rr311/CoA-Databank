@@ -1,0 +1,21 @@
+{
+  "name_enus": "Crypt Swarm",
+  "icon": "spell_shadow_carrionswarm",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Crypt Swarm</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>17% of base mana<br />Channeled</td></tr></table><table><tr><td><span class=\"q\">Channel a swarm of locusts on an enemy, dealing 24 Shadow damage<!--sp92123:0--><!--sp92123--> and generating Runic Power over 3&nbsp;sec.<!--sp500165:0--><!--sp500165--></span></td></tr></table><!--?500965:1:1:80-->",
+  "spells_enus": {
+    "92123": [
+      [
+        "",
+        " slowing their movement speed by 30%,"
+      ]
+    ],
+    "500165": [
+      [
+        "",
+        " <br /><br />Empowers nearby active Undead minions with <span style=\"color: #ffffff\">Cryptfury</span>.@s:806588:0@"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

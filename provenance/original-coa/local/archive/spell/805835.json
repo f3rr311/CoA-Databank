@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vital Spirit",
+  "icon": "spell_nature_reincarnation",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Vital Spirit</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the range of your <span style=\"color: #ffffff;\">Spirit</span> spells by 10 yds.</span></td></tr></table><!--?805835:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

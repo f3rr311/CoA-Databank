@@ -1,0 +1,787 @@
+{
+ "build": {
+  "id": "dca788b3-5300-440f-92e9-f0f6d118956a",
+  "title": "Runemaster PvE Engravement - AoE + Single Target",
+  "description": "[overview]\nBasic talent build for engravement PvE. Make sure to read the talent section for the Single Target version; you only need to switch a few talents. \n\nI am by no means an expert, just passing on what I do know because our class does not have any builds posted. I will update this build as needed. \n\nWeapon Engravings:\nAoE - Earth + Fire\nSingle Target - Frost + Fire (or Fire + Fire; with the macro in the macro section, you can apply two without swapping weapons, similar DPS though)\n\n[talents]\nClass talents are fairly loose; feel free to swap around some talents if there is something you think you'll need for the content you're doing. \n\n**Switching to Single Target: **\nRemove Sky and Stone, Fists of Power, and Stone Savant and pick up Echoes of Eternity and Runelord; the last talent point is up to you; Symbols of Power 1/2 is a small DPS increase, Guarding Rune is probably better typically, unless you know you won't need the extra defensive; it is a very strong one.\n\nIf you feel like you need Guarding Rune in AoE for your group, I'd drop Mark of Strength or Explosive Runes. I've seen people drop Magic Etchings, but unless your group has a good armor reduction, I don't think it's a great idea; it helps a lot with boss damage from the group, and bosses can take a little while to kill.\n\n[rotation]\nRotation is pretty simple, will probably get a little more complicated as we get more gear and can afford mana tax with Tattoo swapping. The goal is to get as many procs with your weapon engravings as possible. \n\nWe are very strong as funneling our damage into a main target and passively AoEing the pack off that target, make sure you have a high priority target selected when cleaving. We also have one of, if not the very best kick in the game, it has a short cast time, but don't be weird, kick. \n\n**Tattoos**\nYou'll basically sit in Water forever; if you have a little more gear and can keep up on mana regen, feel free to swap into Fire and back to Water as needed. Don't forget swapping to Air removes a slow.\n\n**AoE: **\nPop Zenith as much as possible; when Zenith is up remove Fist of Ancients from the rotation. \nRunic Brand for Marks and pop them with Runeblade; press Primordial Blast to reset Runeblade charges and hope for Runic Brand reset procs so you can keep popping marks. Weave in Fist of the Ancients when you have no Runic Brand stacks and Primordial Blast is on CD; the damage is kind of low, but the 20% engraving change is good. \n\nThe idea is to try and keep up as many Runic Brand marks as you can and pop them for explosions and Wild Steams, and then rely on earth/fire procs from weapons to fill in the rest.  \n\n**Single Target**\nThe rotation is not massively different from AoE, but the priority list shuffles a bit. Pop Zenith as much as possible; if you're the single target build, you'll have 2 charges. \nPrimordial Blast moves up in priority to the top; it hits pretty hard in single target and helps stack armor pen ASAP. From there, try to keep Runic Blade marks up as much as possible; you'll pop them with your Runeblade as filler and press Primordial Blast on cooldown. Weave in Fist of the Ancients when Runic Blade and Primordial Blast are on CD.\n\n[stats]\nWeapon Speed - As fast as possible\nExpertise/Hit Cap > Agility > Haste > Spell Power\n\n[macros]\n#showtooltip\n/cast [@none, button:1] Weapon Engraving: Fire; [@none] Weapon Engraving: Fire\n/use [button:1] 16; 17\n/click StaticPopup1Button1\n\nClicking and then right-clicking this macro will put fire engraving on both of your weapons\n\n\n#showtooltip\n/cast warpdagger\n/cast Primordial Blast \n\nThis will have you shoot off a warpdagger and go straight into combat with a primordial blast so you get max uptime on the 10% damage buff.\n\n#showtooltip\n/cast Runeblade\n/startattack\n\n#showtooltip\n/cast Primordial Blast\n/startattack\n\n#showtooltip\n/cast Runic Brand\n/startattack\n\nStandard startattack macros",
+  "class_id": 32,
+  "spec_id": 85,
+  "author_id": "1cd4413c-2d8a-430a-89ad-db77910934f4",
+  "talent_string": "W1siMzItODUtNC0wIiwxXSxbIjMyLTg1LTMtMSIsMV0sWyIzMi04NS01LTEiLDFdLFsiMzItODUtMS0yIiwyXSxbIjMyLTg1LTctMiIsMV0sWyIzMi04NS0xLTMiLDFdLFsiMzItODUtNy0zIiwxXSxbIjMyLTg1LTQtMiIsMV0sWyIzMi04NS0yLTQiLDFdLFsiMzItODUtMC01IiwxXSxbIjMyLTg1LTEtNmEiLDFdLFsiMzItODUtMi01IiwxXSxbIjMyLTg1LTMtNiIsMV0sWyIzMi04NS0zLTciLDFdLFsiMzItODUtNi00IiwxXSxbIjMyLTg1LTYtNSIsMV0sWyIzMi04NS01LTYiLDFdLFsiMzItODUtNy02IiwxXSxbIjMyLTg1LTQtMyIsMV0sWyIzMi04NS00LTQiLDFdLFsiMzItODUtNy03IiwxXSxbIjMyLTg1LTEtNyIsMV0sWyIzMi04NS03LTgiLDFdLFsiMzItODUtNy05IiwxXSxbIjMyLTg3LTItMCIsMV0sWyIzMi04Ny02LTAiLDFdLFsiMzItODctMS0xIiwxXSxbIjMyLTg3LTUtMSIsMV0sWyIzMi04Ny03LTEiLDFdLFsiMzItODctOC0zIiwxXSxbIjMyLTg3LTYtMiIsMV0sWyIzMi04Ny0yLTIiLDFdLFsiMzItODctMC0zIiwxXSxbIjMyLTg3LTAtNCIsMV0sWyIzMi04Ny0xLTUiLDJdLFsiMzItODctNC0zIiwxXSxbIjMyLTg3LTItNiIsMV0sWyIzMi04Ny04LTQiLDFdLFsiMzItODctNy01IiwxXSxbIjMyLTg3LTYtNiIsMV0sWyIzMi04Ny01LTciLDFdLFsiMzItODctMy03IiwxXSxbIjMyLTg3LTItNGIiLDFdLFsiMzItODctNi00IiwxXSxbIjMyLTg3LTUtNSIsMV0sWyIzMi04Ny0zLTEiLDJdLFsiMzItODctMi04IiwxXSxbIjMyLTg3LTItOSIsMV0sWyIzMi04NS0xMC0wIiwxXSxbIjMyLTg1LTEwLTIiLDFdLFsiMzItODUtMTAtNCIsMV0sWyIzMi04NS0xMC02IiwxXSxbIjMyLTg1LTEwLTgiLDFdXQ",
+  "tags": [
+   "aoe",
+   "single target",
+   "mythic",
+   "engravement",
+   "raid"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 3,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-22T00:24:36.606922+00:00",
+  "updated_at": "2026-07-22T00:28:13.848+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 2107,
+  "net_score": 3,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "1cd4413c-2d8a-430a-89ad-db77910934f4",
+   "username": "Feels",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLJsjQZO-JSFXz2RBWlvwL6_cx6NU_l9K4f-AXDyRsFT3CePw=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "8c73e1e4-17b0-4a02-aae9-db2be4d5a4ea",
+   "title": "Guia Glyphic Runemaster (pt-br)",
+   "class_id": 32,
+   "spec_id": 11,
+   "author_id": "717a468a-bcce-41c7-a390-348295709b31",
+   "tags": [
+    "raid",
+    "aoe",
+    "guide",
+    "leveling"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 1,
+   "view_count": 483,
+   "featured": false,
+   "created_at": "2026-07-25T00:49:31.78586+00:00",
+   "updated_at": "2026-07-25T01:46:06.08+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "717a468a-bcce-41c7-a390-348295709b31",
+    "username": "Caio Bruno Costa Loureiro",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLgihMFWtmef0VRGjvguZK5cZs-GXknb5FzvfaiU3aPyNk3bD8=s96-c"
+   }
+  },
+  {
+   "id": "00510d7a-feaa-4afd-82da-72816ae85ecd",
+   "title": "Runemaster Riftblade PvP build",
+   "class_id": 32,
+   "spec_id": 86,
+   "author_id": "9614dba2-698f-41f8-9cfe-50164820f285",
+   "tags": [
+    "PvP",
+    "High Risk",
+    "War Mode",
+    "Open World",
+    "Battleground",
+    "Battlegrounds",
+    "BG",
+    "Arena",
+    "Riftblade",
+    "Runemaster"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 3353,
+   "featured": false,
+   "created_at": "2026-07-19T01:21:56.435678+00:00",
+   "updated_at": "2026-07-29T01:00:15.242+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "9614dba2-698f-41f8-9cfe-50164820f285",
+    "username": "hrup",
+    "avatar_url": "https://cdn.discordapp.com/avatars/92835265051136000/1edee95b14b29f70aa420a43dc716fa0.png"
+   }
+  },
+  {
+   "id": "9c593168-2745-4972-aa1f-23266e0999f9",
+   "title": "THE runeGOD",
+   "class_id": 32,
+   "spec_id": 86,
+   "author_id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+   "tags": [
+    "raid",
+    "dps",
+    "pve",
+    "aoe",
+    "single-target"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 7,
+   "view_count": 7716,
+   "featured": false,
+   "created_at": "2026-07-17T19:31:10.08268+00:00",
+   "updated_at": "2026-07-24T00:10:45.702+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+    "username": "zyzx",
+    "avatar_url": "https://cdn.discordapp.com/avatars/160919726955036672/a701ead2d96f549ded297650a1b01624.png"
+   }
+  }
+ ],
+ "class": "Runemaster",
+ "spec": "Runic",
+ "allocations": [
+  [
+   "32-85-4-0",
+   1
+  ],
+  [
+   "32-85-3-1",
+   1
+  ],
+  [
+   "32-85-5-1",
+   1
+  ],
+  [
+   "32-85-1-2",
+   2
+  ],
+  [
+   "32-85-7-2",
+   1
+  ],
+  [
+   "32-85-1-3",
+   1
+  ],
+  [
+   "32-85-7-3",
+   1
+  ],
+  [
+   "32-85-4-2",
+   1
+  ],
+  [
+   "32-85-2-4",
+   1
+  ],
+  [
+   "32-85-0-5",
+   1
+  ],
+  [
+   "32-85-1-6a",
+   1
+  ],
+  [
+   "32-85-2-5",
+   1
+  ],
+  [
+   "32-85-3-6",
+   1
+  ],
+  [
+   "32-85-3-7",
+   1
+  ],
+  [
+   "32-85-6-4",
+   1
+  ],
+  [
+   "32-85-6-5",
+   1
+  ],
+  [
+   "32-85-5-6",
+   1
+  ],
+  [
+   "32-85-7-6",
+   1
+  ],
+  [
+   "32-85-4-3",
+   1
+  ],
+  [
+   "32-85-4-4",
+   1
+  ],
+  [
+   "32-85-7-7",
+   1
+  ],
+  [
+   "32-85-1-7",
+   1
+  ],
+  [
+   "32-85-7-8",
+   1
+  ],
+  [
+   "32-85-7-9",
+   1
+  ],
+  [
+   "32-87-2-0",
+   1
+  ],
+  [
+   "32-87-6-0",
+   1
+  ],
+  [
+   "32-87-1-1",
+   1
+  ],
+  [
+   "32-87-5-1",
+   1
+  ],
+  [
+   "32-87-7-1",
+   1
+  ],
+  [
+   "32-87-8-3",
+   1
+  ],
+  [
+   "32-87-6-2",
+   1
+  ],
+  [
+   "32-87-2-2",
+   1
+  ],
+  [
+   "32-87-0-3",
+   1
+  ],
+  [
+   "32-87-0-4",
+   1
+  ],
+  [
+   "32-87-1-5",
+   2
+  ],
+  [
+   "32-87-4-3",
+   1
+  ],
+  [
+   "32-87-2-6",
+   1
+  ],
+  [
+   "32-87-8-4",
+   1
+  ],
+  [
+   "32-87-7-5",
+   1
+  ],
+  [
+   "32-87-6-6",
+   1
+  ],
+  [
+   "32-87-5-7",
+   1
+  ],
+  [
+   "32-87-3-7",
+   1
+  ],
+  [
+   "32-87-2-4b",
+   1
+  ],
+  [
+   "32-87-6-4",
+   1
+  ],
+  [
+   "32-87-5-5",
+   1
+  ],
+  [
+   "32-87-3-1",
+   2
+  ],
+  [
+   "32-87-2-8",
+   1
+  ],
+  [
+   "32-87-2-9",
+   1
+  ],
+  [
+   "32-85-10-0",
+   1
+  ],
+  [
+   "32-85-10-2",
+   1
+  ],
+  [
+   "32-85-10-4",
+   1
+  ],
+  [
+   "32-85-10-6",
+   1
+  ],
+  [
+   "32-85-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "32-85-4-0",
+   "points": 1,
+   "name": "Runic Brand",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 712299
+  },
+  {
+   "id": "32-85-3-1",
+   "points": 1,
+   "name": "Eternal Magic",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 806698
+  },
+  {
+   "id": "32-85-5-1",
+   "points": 1,
+   "name": "Leystone Springs",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 300581
+  },
+  {
+   "id": "32-85-1-2",
+   "points": 2,
+   "name": "Graceful",
+   "maxPoints": 2,
+   "tree": "Runic",
+   "spellId": 806708
+  },
+  {
+   "id": "32-85-7-2",
+   "points": 1,
+   "name": "Alteration",
+   "maxPoints": 2,
+   "tree": "Runic",
+   "spellId": 705619
+  },
+  {
+   "id": "32-85-1-3",
+   "points": 1,
+   "name": "Elemental Mastery",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 806711
+  },
+  {
+   "id": "32-85-7-3",
+   "points": 1,
+   "name": "Elemental Strikes",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 806704
+  },
+  {
+   "id": "32-85-4-2",
+   "points": 1,
+   "name": "Fist of the Ancients",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 712326
+  },
+  {
+   "id": "32-85-2-4",
+   "points": 1,
+   "name": "Leyborn",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 705609
+  },
+  {
+   "id": "32-85-0-5",
+   "points": 1,
+   "name": "Mark of Strength",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 560050
+  },
+  {
+   "id": "32-85-1-6a",
+   "points": 1,
+   "name": "Devastating Flames",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 806993
+  },
+  {
+   "id": "32-85-2-5",
+   "points": 1,
+   "name": "Brandmaster",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 520524
+  },
+  {
+   "id": "32-85-3-6",
+   "points": 1,
+   "name": "Leyline Disturbance",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 560540
+  },
+  {
+   "id": "32-85-3-7",
+   "points": 1,
+   "name": "Magic Etchings",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 300582
+  },
+  {
+   "id": "32-85-6-4",
+   "points": 1,
+   "name": "Tempo",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 807172
+  },
+  {
+   "id": "32-85-6-5",
+   "points": 1,
+   "name": "Volcanic Etching",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 705615
+  },
+  {
+   "id": "32-85-5-6",
+   "points": 1,
+   "name": "Earth, Wind, and Fire",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 706531
+  },
+  {
+   "id": "32-85-7-6",
+   "points": 1,
+   "name": "Forbidden Engraving",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 705543
+  },
+  {
+   "id": "32-85-4-3",
+   "points": 1,
+   "name": "Ancient Warrior",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 520755
+  },
+  {
+   "id": "32-85-4-4",
+   "points": 1,
+   "name": "Uncovered Engravings",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 567233
+  },
+  {
+   "id": "32-85-7-7",
+   "points": 1,
+   "name": "Sky and Stone",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 560053
+  },
+  {
+   "id": "32-85-1-7",
+   "points": 1,
+   "name": "Explosive Runes",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 521219
+  },
+  {
+   "id": "32-85-7-8",
+   "points": 1,
+   "name": "Fists of Power",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 805796
+  },
+  {
+   "id": "32-85-7-9",
+   "points": 1,
+   "name": "Stone Savant",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 520917
+  },
+  {
+   "id": "32-87-2-0",
+   "points": 1,
+   "name": "Zenith",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 712325
+  },
+  {
+   "id": "32-87-6-0",
+   "points": 1,
+   "name": "Warpdagger",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500287
+  },
+  {
+   "id": "32-87-1-1",
+   "points": 1,
+   "name": "Ley Constitution",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705562
+  },
+  {
+   "id": "32-87-5-1",
+   "points": 1,
+   "name": "Runic Tattoos",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 800736
+  },
+  {
+   "id": "32-87-7-1",
+   "points": 1,
+   "name": "Warpmaster",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 560992
+  },
+  {
+   "id": "32-87-8-3",
+   "points": 1,
+   "name": "Blade Rift",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520237
+  },
+  {
+   "id": "32-87-6-2",
+   "points": 1,
+   "name": "Phase Out",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500671
+  },
+  {
+   "id": "32-87-2-2",
+   "points": 1,
+   "name": "Speed Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 801103
+  },
+  {
+   "id": "32-87-0-3",
+   "points": 1,
+   "name": "Runic Affinity",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705621
+  },
+  {
+   "id": "32-87-0-4",
+   "points": 1,
+   "name": "Ancient Teachings",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 806797
+  },
+  {
+   "id": "32-87-1-5",
+   "points": 2,
+   "name": "Speedy Attuner",
+   "maxPoints": 2,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705554
+  },
+  {
+   "id": "32-87-4-3",
+   "points": 1,
+   "name": "Granite Resolve",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520229
+  },
+  {
+   "id": "32-87-2-6",
+   "points": 1,
+   "name": "Master Engraver",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705605
+  },
+  {
+   "id": "32-87-8-4",
+   "points": 1,
+   "name": "Shroudwalker",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705563
+  },
+  {
+   "id": "32-87-7-5",
+   "points": 1,
+   "name": "Primordialism",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520054
+  },
+  {
+   "id": "32-87-6-6",
+   "points": 1,
+   "name": "Magic Feeder",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705546
+  },
+  {
+   "id": "32-87-5-7",
+   "points": 1,
+   "name": "Glyphs of Power",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520145
+  },
+  {
+   "id": "32-87-3-7",
+   "points": 1,
+   "name": "Unbound",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 806718
+  },
+  {
+   "id": "32-87-2-4b",
+   "points": 1,
+   "name": "Nomad's Scroll",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 707653
+  },
+  {
+   "id": "32-87-6-4",
+   "points": 1,
+   "name": "Prismatic Flow",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705581
+  },
+  {
+   "id": "32-87-5-5",
+   "points": 1,
+   "name": "Warding Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804232
+  },
+  {
+   "id": "32-87-3-1",
+   "points": 2,
+   "name": "Mystical Etchings",
+   "maxPoints": 2,
+   "tree": "Runemaster (class tree)",
+   "spellId": 806795
+  },
+  {
+   "id": "32-87-2-8",
+   "points": 1,
+   "name": "Decoder",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 706523
+  },
+  {
+   "id": "32-87-2-9",
+   "points": 1,
+   "name": "Power Engraving",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500296
+  },
+  {
+   "id": "32-85-10-0",
+   "points": 1,
+   "name": "Fists of Power",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 92153
+  },
+  {
+   "id": "32-85-10-2",
+   "points": 1,
+   "name": "Primordial Strength",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 301149
+  },
+  {
+   "id": "32-85-10-4",
+   "points": 1,
+   "name": "Elemental Carvings",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 705618
+  },
+  {
+   "id": "32-85-10-6",
+   "points": 1,
+   "name": "Power Overwhelming",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 707876
+  },
+  {
+   "id": "32-85-10-8",
+   "points": 1,
+   "name": "Branded",
+   "maxPoints": 1,
+   "tree": "Runic",
+   "spellId": 707717
+  }
+ ]
+}

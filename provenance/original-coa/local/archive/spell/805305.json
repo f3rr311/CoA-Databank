@@ -1,0 +1,8 @@
+{
+  "name_enus": "Combat Symbiosis",
+  "icon": "nhi_lightning_soul_border",
+  "tooltip_enus": "<table><tr><td><b>Combat Symbiosis</b><br />24% of base mana<br /><table width=\"100%\"><tr><td>1 sec cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Electrify an allies' body, increasing their haste by 20% and causing damage dealt by them to heal nearby allies for 15% of the value. Lasts for 15&nbsp;sec, or 20 attacks.</span></td></tr></table><!--?805305:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

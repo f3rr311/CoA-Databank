@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lich Essence",
+  "icon": "wc3lichreforged",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lich Essence</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cast time of <span style=\"color: #ffffff;\">Lichfrost</span> by 15% and reduces your spell pushback suffered from taking damage by 50%.</span></td></tr></table><!--?802988:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

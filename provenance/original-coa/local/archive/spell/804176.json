@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ballista Bolts",
+  "icon": "inv_weapon_bow_60",
+  "tooltip_enus": "<table><tr><td><b>Ballista Bolts</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Dealing Physical Damage has a chance to reduce the cast time of your next Ballista Shot by 1%, stacks up to 5 times.<br /><br />Also increases the Critical Strike Damage Bonus of Ballista Shot by 0%.</span></td></tr></table><!--?804176:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

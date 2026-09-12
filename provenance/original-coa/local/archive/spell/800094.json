@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bearskin",
+  "icon": "spell_druid_primaltenacity",
+  "tooltip_enus": "<table><tr><td><b>Bearskin</b><br />24% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces all damage taken by 60% and reduces the duration of root, stun, and incapacitate effects on you by 30% for 10&nbsp;sec.</span></td></tr></table><!--?800094:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

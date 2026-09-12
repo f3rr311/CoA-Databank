@@ -1,0 +1,53 @@
+Venomancer Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Venomancer Overview
+ Venomancers serve Shadra with poisonous shapeshifting forms. Rot erodes enemies with entropy poisons, Vizier heals through nerubian ritual magic, Stalking assassinates from spider burrows, and Fortitude tanks in scorpion form with molting exoskeleton defenses. Damage increases over fight duration as venom stacks accumulate.
+ Disciple of the Poison Loa Shadra, shapeshifting into poisonous insects to erode enemies or heal allies.
+ Class Mechanic — Venom Stacks
+ Venomancers apply stacking poisons and shapeshift into spider, scorpion, snake, and other toxic forms.
+ Venomancer uses Toxins as its primary resource and wears Leather / Mail armor.
+ Specializations
+ At level 10, Venomancer players choose one of three specializations, each offering a distinct playstyle:
+ Rot: Rotweaver spreading poisons and toxic mayhem that hinder and debilitate foes across the battlefield.
+ Vizier: Nerubian vizier healer mending allies through regenerative magic and Shadra's Vigil ritual chanting.
+ Stalking: Spider-form assassin burrowing underground, progressing to Serpent Lord, Nerubian, or Spider Lord forms.
+ Fortitude: Scorpion-form tank with natural armor, exoskeleton molting stages, and damage reflection.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Four specs across all roles
+ Strength: Strong DoT damage in Rot
+ Strength: Fortitude unique poison tank
+ Weakness: Ramp-up time for poison stacks
+ Weakness: Shapeshift complexity
+ Weakness: Dispel vulnerability on DoTs
+ Leveling Tips
+ Rot simplifies AoE questing with spread toxins. Stalking burrow helps with difficult elites. Vizier becomes essential in dungeon groups.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Stalking burrow ambushes catch arena opponents off guard. Fortitude scorpion reflection punishes melee attackers.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Venomancer in Conquest of Azeroth? Venomancer is a Tank / Healer / DPS class wearing Leather / Mail armor with Toxins as its resource.
+ What is the Venom Stacks mechanic? Venomancers apply stacking poisons and shapeshift into spider, scorpion, snake, and other toxic forms.
+ When do Venomancer specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Venomancer good for beginners? Venomancer has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Venomancer have? Venomancer has three specializations: Rot, Vizier, Stalking, Fortitude.

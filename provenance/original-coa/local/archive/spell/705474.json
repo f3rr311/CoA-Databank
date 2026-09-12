@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Shadowblast",
+  "icon": "spell_shadow_focusedpower",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Improved Shadowblast</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the Rage cost of <span style=\"color: #ffffff;\">Shadowblast</span> by 0 and its cooldown by 0 sec.</span></td></tr></table><!--?705474:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Finish Them!",
+  "icon": "ability_warrior_bloodfrenzy",
+  "tooltip_enus": "<table><tr><td><b>Finish Them!</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Battlemaster Strike</span> applies a bleed effect causing 13+7.3 Points Per Level Physical Damage every 1 sec for 6&nbsp;sec.</span></td></tr></table><!--?802292:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

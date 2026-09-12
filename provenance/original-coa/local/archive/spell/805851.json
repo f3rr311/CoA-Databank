@@ -1,0 +1,8 @@
+{
+  "name_enus": "Deconstruction",
+  "icon": "inv_chest_armor_voidelf_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Deconstruction</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of <span style=\"color: #ffffff;\">Unmake</span> by 5%.</span></td></tr></table><!--?805851:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

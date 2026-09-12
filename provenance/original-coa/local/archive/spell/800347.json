@@ -1,0 +1,8 @@
+{
+  "name_enus": "Med Pack",
+  "icon": "inv_first_aid_70_medicalkit",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Med Pack</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Toss a med pack to an ally, healing for (6*1000/1)*(34+SP*.2) over 6&nbsp;sec and cleanses all bleed, poison and disease effects.</span></td></tr></table><!--?800347:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

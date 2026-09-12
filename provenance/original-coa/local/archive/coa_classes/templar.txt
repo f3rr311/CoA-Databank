@@ -1,0 +1,52 @@
+Templar Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Templar Overview
+ Templars are agile martial artists mastering combo chains. Crusader delivers holy light blade vortexes, Martial eliminates enemies in flurry strikes with combo-enhanced effects, and Discipline tanks with staff deflections and stacking mitigation. Openers, Followups, and Combo Breakers define the skill ceiling.
+ Devout martial artist chaining combo strikes with blade, staff, or fists before unleashing finishing moves.
+ Class Mechanic — Combo
+ Templars weave Openers and Followups into Combat Moves, finishing foes with Combo Breaker abilities.
+ Templar uses Conviction as its primary resource and wears Mail armor.
+ Specializations
+ At level 10, Templar players choose one of three specializations, each offering a distinct playstyle:
+ Crusader: Graceful holy fighter weaving in and out of range with spiritual blade vortexes and light-infused strikes.
+ Martial: Flurry striker utilizing powerful combos to unleash devastating effects in swift successive strikes.
+ Discipline: Staff-wielding monk tank deflecting blows and maintaining a stacking mitigation buff through woven strikes.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Combo system skill expression
+ Strength: Discipline reliable staff tank
+ Strength: Crusader holy melee fantasy
+ Weakness: Combo order strictness
+ Weakness: Conviction resource management
+ Weakness: Lower burst if combos break
+ Leveling Tips
+ Martial levels efficiently with strong single-target combo chains. Learn your Opener-Followup sequences before specializing at level 10. Discipline becomes the go-to tank spec for dungeon groups.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Martial combo chains pressure arena healers when uninterrupted. Discipline staff tank holds objectives with stacking mitigation.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Templar in Conquest of Azeroth? Templar is a Tank / DPS class wearing Mail armor with Conviction as its resource.
+ What is the Combo mechanic? Templars weave Openers and Followups into Combat Moves, finishing foes with Combo Breaker abilities.
+ When do Templar specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Templar good for beginners? Templar has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Templar have? Templar has three specializations: Crusader, Martial, Discipline.

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ghast",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ghast</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">While wielding a two-handed weapon, your damage is increased by 3% and your auto attacks have an 8% chance to make your next <span style=\"color: #ffffff;\">Reap</span> guaranteed to critically strike.</span></td></tr></table><!--?705684:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

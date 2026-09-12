@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spears of Glory",
+  "icon": "nhi_fireball_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spears of Glory</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Radiant Flame</span> now has an 15% chance to grant you <span style=\"color: #ffffff;\">Spears of Glory</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/nhi_fireball_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=807299'> Spears of Glory </a> <br />\n                            <span> Your next <span style=\"color: #ffffff;\">Dawnsear</span> within 10&nbsp;sec is instant cast and deals 25% increased damage.</span><br /></span></td></tr></table><!--?804629:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mass Nightmare",
+  "icon": "inv_misc_volatileshadow",
+  "tooltip_enus": "<table><tr><td><b>Mass Nightmare</b><br />21% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Spread nightmares of the black empire to up to 5 nearby enemies, horrifying them for 5&nbsp;sec and interrupting non-player spellcasting for 3&nbsp;sec.</span></td></tr></table><!--?805114:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

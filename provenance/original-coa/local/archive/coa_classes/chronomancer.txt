@@ -1,0 +1,52 @@
+Chronomancer Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Chronomancer Overview
+ Chronomancers manipulate the timeways through three distinct paths. Duality balances Order and Chaos magic, Artificer empowers wands with Bronze Flight magic for ramping auto-attack builds, and Displacement rewinds ally health with wild utility spells. Time Warp creates dramatic reversal moments unlike anything in traditional WoW.
+ Time mage bending temporal forces to unmake foes, remake wounded allies, and alter space-time.
+ Class Mechanic — Time Warp
+ Chronomancers manipulate time flow — rewinding damage, accelerating allies, or slowing enemies.
+ Chronomancer uses Temporal Energy as its primary resource and wears Cloth armor.
+ Specializations
+ At level 10, Chronomancer players choose one of three specializations, each offering a distinct playstyle:
+ Duality: Balance Order direct/AoE damage with Chaos erosion and execution damage for devastating dual-magic combos.
+ Artificer: Bronze Flight wand specialist building attack speed for torrential auto-attack magic barrages.
+ Displacement: Support healer rewinding ally health with Aeon-modified heals and a Bronze Whelp pet assistant.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Unique time manipulation
+ Strength: Displacement powerful healer
+ Strength: Artificer ramping wand DPS
+ Weakness: Complex mechanics
+ Weakness: Duality requires dual-magic balance
+ Weakness: Cloth fragility
+ Leveling Tips
+ Artificer provides adequate solo damage once wand mechanics are understood. Displacement becomes valuable in dungeon groups. Practice Time Warp timing on elite mobs.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Displacement rewinds burst damage in arena — a premium defensive tool. Duality execution damage finishes low-health targets in battlegrounds.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Chronomancer in Conquest of Azeroth? Chronomancer is a Ranged DPS / Healer class wearing Cloth armor with Temporal Energy as its resource.
+ What is the Time Warp mechanic? Chronomancers manipulate time flow — rewinding damage, accelerating allies, or slowing enemies.
+ When do Chronomancer specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Chronomancer good for beginners? Chronomancer has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Chronomancer have? Chronomancer has three specializations: Duality, Artificer, Displacement.

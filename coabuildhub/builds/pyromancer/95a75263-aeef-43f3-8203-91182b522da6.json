@@ -1,0 +1,688 @@
+{
+ "build": {
+  "id": "95a75263-aeef-43f3-8203-91182b522da6",
+  "title": "Flameweaving: The Phoenix Healer",
+  "description": "[overview]\n🎵 🔥🔥 [Pyromania - Cascada](https://www.youtube.com/watch?v=EsdXPPp8dNk) 🔥🔥 🎵\n\nFlameweaving transforms our destructive fire magic into a force of restoration. While its core toolkit excels at sustained single-target healing, the specialization truly shines through its versatile and engaging resource management. As we heal and deal damage, we generate **Embers** - a secondary resource that fuels a variety of powerful and flexible abilities. Whether we need burst healing, team shielding, or extra damage, smart Ember management gives us the flexibility to adapt to every encounter.\n\nYou'll love the Flameweaving Pyromancer if you enjoy:\n\n- **FIRE EVERYWHERE**\n- Having a Phoenix pet\n- Nearly infinite mana\n- Secondary resource management\n- Weaving damage into your healing rotation\n\n[rotation]\n**Mana**\n\nYou'll rarely need to worry about mana after level 30 thanks to a combination of different passives and buffs.\n\n- **[Ashen Priest](https://db.ascension.gg/?spell=707432)** maintains 20% of your mana regeneration while in combat while also granting **[Replenishment](https://db.ascension.gg/?spell=1257670)** whenever you critically heal, restoring 5% mana to yourself and your party.\n\n- **[Ashen Skin](https://db.ascension.gg/?spell=504720)** increases your in-combat mana regeneration by an additional 60%.\n\n- **[Shazzrah's Boon](https://db.ascension.gg/?spell=807126)** restores 2% of your total mana whenever you spend an Ember, providing excellent passive sustain alongside **[Seal of Al'ar](https://db.ascension.gg/?spell=808012)**, a buff we can apply to ourselves and others which restores mana every 5 seconds.\n\nIf you or a teammate ever begins running low on mana, **[Essence of Malygos](https://db.ascension.gg/?spell=802120)** restores 36% of total mana over 9 seconds.\n\n---\n\n**Core Abilities & Gameplay**\n\nFlameweaving isn't built around a rigid rotation. Instead, success comes from understanding your toolkit and maintaining enough Embers to flex into whatever the situation requires.\n\nNearly every healing or damage spell that **doesn't consume an Ember** generates Heat.\n\n**100 Heat = 1 Ember**\n\nThroughout this guide, abilities that consume an Ember are marked with 🔥.\n\n---\n\n**Mana Only**\n\n**Phoenix Pet -** **[Phoenix Egg](https://db.ascension.gg/?spell=800796)**\n\nYour Phoenix should be active at all times. It lasts 60 seconds and pulses light AoE healing every 5 seconds (3 seconds with this build). Beyond its healing, several of your abilities require your Phoenix to be active.\n\n*See the **Tips** section for the WeakAura I use to track its duration and prevent it from expiring during important moments.*\n\n**Emergency Cooldown(2 Mins) -** **[Kael's Command](https://db.ascension.gg/?spell=800816)**\n\nRequires your Phoenix to be active. For 10 seconds, your Phoenix pulses powerful AoE healing, making this your strongest answer when multiple party members begin dropping quickly. Don't be afraid to use it proactively during heavy group-wide damage.\n\n**Fast Heal -** **[Kindle](https://db.ascension.gg/?spell=803825)**\n\nA quick, medium-strength heal with no Ember cost.\n\n**Slow Heal -** **[Cinderheart](https://db.ascension.gg/?spell=502052)**\n\nA slower but significantly larger heal with no Ember cost.\n\n**Shield -** **[Inferno Barrier](https://db.ascension.gg/?spell=535651)**\n\nAn instant single-target shield with a short cooldown. Best applied to the tank between pulls rather than during heavy combat.\n\n**AoE Damage / Healing -** **[Cleansing Flames](https://db.ascension.gg/?spell=681374)**\n\n**Our bread and butter.** This spell does an incredible amount of heavy lifting by dealing moderate damage while simultaneously healing and shielding allies in a cone.\n\nDon't let the small visual effect fool you - the cone is far more generous than it appears. Position yourself to hit enemies while simultaneously healing and shielding your tank and nearby allies.\n\n**Large AoE Damage -** **[Meteor](https://db.ascension.gg/?spell=500652)**\n\nAn instant-cast AoE with a cooldown. Drop this into large enemy packs before beginning your Cleansing Flames spam.\n\n**Ember Generator -** **[Lava Shard](https://db.ascension.gg/?spell=503239)**\n\nAn instant-cast ranged nuke with a 10 second cooldown that immediately generates **1 Ember**.\n\nUse this on cooldown whenever you aren't Ember capped. If you're already sitting at maximum Embers, hold it until you've spent one to avoid wasting generation.\n\n*See the **Tips** section for a basic WeakAura cooldown tracker if you'd like one.*\n---\n\n**🔥 Ember Spenders**\n\n**High Priority**\n\n**🔥 Instant Heal -** **[Ember Touch](https://db.ascension.gg/?spell=520320)**\n\nAn instant medium-strength heal with no cooldown. Excellent for saving fragile party members when there's no time to cast Kindle, or whenever you have Embers to spare. Use this liberally.\n\n**🔥 Group Shield -** **[Phoenix Dive](https://db.ascension.gg/?spell=706854)**\n\nAn instant AoE shield with no cooldown.\n\nUse this frequently between pulls or whenever you have excess Embers to cushion incoming damage before it happens. It shields allies in a medium-sized area around your target and requires your Phoenix to be active.\n\n**Lower Priority**\n\n**🔥 Single Target Damage -** **[Explode](https://db.ascension.gg/?spell=502060)**\n\nDecent nuke if you have excess embers and literally nothing else to do.\n\n**🔥 Damage over Time -** **[Blaze](https://db.ascension.gg/?spell=534604)**\n\nKeep this on bosses if healing is under control and you have spare Embers.\n\n**🔥 Line Damage / Healing -** **[Ignis Ultimatus](https://db.ascension.gg/?spell=280570)**\n\nMy class talent capstone of choice. After a short cast, unleash a massive line of fire that deals heavy damage to enemies while simultaneously providing moderate healing to allies caught in its path.\n\nWhile it's generally not worth spending an Ember on cooldown, it becomes an excellent choice whenever your positioning allows you to hit several enemies while also healing multiple allies. Think of it as a more powerful version of Cleansing Flames that looks badass.\n\n**🔥 Multi-Target Damage -** **[Flames of Neltharion](https://db.ascension.gg/?spell=535512)**\n\nHits your target and two nearby enemies.\n\nIn practice, it's usually better to be casting Cleansing Flames or almost anything else, making it a very low-priority Ember spender.\n\n---\n\n**Typical Pull Strategy**\n\nBefore each pull:\n\n- 🔥 Apply **Phoenix Dive** to shield the group before encounters.\n- Refresh **Phoenix Egg** if necessary.\n- Apply **Inferno Barrier** to the tank if you can spare the global cooldown.\n\nOnce combat begins:\n\n- Open with **Meteor** against large packs.\n- Position yourself so **Cleansing Flames** strikes enemies while covering the tank and as many party members as possible.\n- In easier content, Cleansing Flames alone will often handle the majority of your healing.\n- When heavy group damage is incoming, activate **Kael's Command** to stabilize the party.\n- As incoming damage increases, spend Embers aggressively on **🔥 Ember Touch** and **🔥 Phoenix Dive** to stabilize the group.\n\n[stats]\nSpirit + Crit are your core priorities.  Anything else is gravy.\n\nCritical heals give us many synergies like mana regeneration and free shields.\n\n[tips]\n**Phoenix Egg Duration Tracker**\n\nYour Phoenix is the cornerstone of the Flameweaving toolkit. If it expires, you lose access to several important abilities and a significant amount of passive healing.\n\nThis WeakAura displays your Phoenix's remaining duration, making it much easier to maintain 100% uptime.\n\n**Import String:**\n\n```text\n!WA:2!DA13VXXrD86CTuylGSDBmPUH2LdW406C12j5sket8DNpNZWfNJ9oBhP6kFZUZS7o492z7mZAFoOsLobOiXtXpWZi)mfjUhrQciI)agzbINXVXBi)xaFNzVZoNdviX(WUZoZ3VFNV)4Z3Fm2Mtk6FRclUqHfTltKOj7mjEs8tENJDrE7I5SKkSig)hLlxUg5MVWToXLXXeE5bhMmE5i6JFmIJTBXyrsAYrsM3EeUGYI)Y7TnV7d99fezT)8D)4)0V5F)5)2NLXF2UFf3S)cpk7BvCajzIMFCkItSxnnkYERqQKCeNeaIR1bjeNaolnza5nPpM8kjJlcbYXRYrDi1j7rIA3p74mfFSXgl3XOuziJ)WejigHf)GHkf6Pp9VV0J(1CKN5KIocjIlTktJPslxF4Ji0QNKtdcatA6z4dw(RoctCt991QeVw16nwDJ6LLA9dLYrl2tKqIIwdlSorK6c6uSSjqnTB)DQuQzRDA2QKtRYPWL4MeHoGWDIbLxy5yi1TgbfjdpJ1gCcWQtZgvRx)W04bQGvFuShyunyuGLkvxVvvNtHLeEmkAZSaWN5i8qrKChIIPDqAtSO61xvnD5ywm5zeKG0uYjXbYWx9ymO4Ak2rBgCbXJfJf900Ons1CL7GOXaVQ5ux)vvfuVVAEy5LV4o5P4Kl3iKrIPDTRgeyVwmM6HKm(HcsKVrBvZ23xhTGlhjr5onZqmbq9D52SIt1QR7cAGpnWAq0CTyiILZbfLeIYDe4BCmGcHvFASpJNzEwhPvBAwyUCedHlwgIfEt50jfaNwoEriHyk19SklaWJEXIPuC)92NVBhXU1V19V5KEt)KIUPccFNdgl7B3XuJdUB8pnvij4hG6EPZ)HgFj1e1w2zXB81(RnF5tbnHOHOX4bPn1U3)yl9ZJQDV)406N3kxYBGjcKu7Vj68Om6d7l02pPlCaP9PUNDqMGmjFx4LAQV(mQVXtEBhWp6TBzaKZoeu4D8a2KHQ3rzFI(xKRGXDFadtAFCajMWPEndz7)W4teMpvGexmB)y13r9DvxD6R8vVZv7P5tJpB3BiUiFX5nchtaeBB1vuVPRh4cyD6MRMFASjbAwuueKbjjI5Snq35S1czo7cfkCnlB4H6B2X(NVKD(mOFEBzij2CO(Hta7p22hfjiMnjXylZIigGLTtYGwnnjyRyVK9DMF(B)bf)cOyDWLc0CFImJbaPm7Os4AphNiEGaO(NPvx7p5ff5wirfKqcKKPEgkU(1Tl55X60HH1gUnM67tGKkPTPiGNMbqWPD0BLbufdze8NyB3dEoE2IT17xs4rI1PV2Eru9MdkNkky4dKHnf0HfMZ(BB0ym7mVh4E1B9H0pYEPLUOVc47l4qJBAKWG(5fSAjpLmcfUCcA3Z2rhPgjIbAZfKXi3XzGLpm)aYY)rA3)ixHgIo4QNBKd8crXbG77)2zjCwaNie6Qjab5L0oeC(rPziUgoV48JEePBcn7Ww0H4h9QzVM979ceRZ6QrXKl6F(eRlIPp74ZCqJa2HDpwNGXj6kT04GWdfddo6CsOq7gpttWWMlTvFZJh0pzJkvQ2Sz)Sestf8(gxBAIguEYzCPLLimzc9gJukOTk)rvyDCrs76SGKxxtaPl0w8C(ABUCnEw7wdpEeH2oRvLi5kBS(AGcP7vDUQvDLQRKPeSuUhzdOcqOJxiXBxvE13YYuxXudRTUGRdPtB1mwjtO7kVhPvw)oD9RF3l1d8sLIdIi)IPux7ZozyGUPrUV7vFPlPUHAw1RatE0JZKMy4kVwzFwSmz8v50hB)tsryDxh7wTuF)PNsn9XqRKZl26gsObHYAlh)2V189)0)fxeHGEQ4qxpyANDoOXlpFHBUGAPIQFOU5HAzZ7s63jJd6EPb9fmTjah95sEqL9KIRP7r7J8iBxcJHS6T3csIkbOrX2ny7t4MLpGGPOTZ2v)(gz3F3S7pzIZ7ZmuU3()l5Uqr1KWmbwQ3WsDzlhJ1oMBhkNZ4Hx0IOXHQx70H(Cz2fREpG)nntbOhiqpgqtOxHEKGf(FpUWHUrqevhBDkxV66ROUTL6lvB5sp9x(PFE1)YHg9rFQ7AR3CTvQ6SpfldRTS8pS9H)Zj(9QBM7erhgtg2yGs1(5BUU6zoPWEqf6enbHWakL11I6Pbf6jiFt1hKtDlvXJmZ(zaxJPk3NxnDtkDJqVFCdonwxcMeQ(EWOlmUUOSbA1BZQoTwRsP6Q7o9mkFOzCUE7H4ueyvoMUW8SYuI3DgN9qrPetF87OFTG5vUEG7eM3sEGQML6haGOZrmzdPMBY9(Bp6)a\n```\n\n---\n\n**Lava Shard Cooldown Tracker**\n\nSince **Lava Shard** instantly generates a whole Ember, forgetting to cast it can noticeably reduce your Ember generation over the course of a dungeon.\n\nThis WeakAura displays a moveable **Lava Shard** icon with a timer that glows when it’s off cooldown and ready to cast. \n\n**Import String:**\n\n```text\n!WA:2!1v1tVTrru8U1ifWuqPgrOfvHmL2Q2aeAtPbk9peVU2Kg5Me21LwqizpE3z3zAwpZWmZAhxjouFQcUzXNaFMEXIpa0CLlJSqiX1ERxZb4yzMzxNwk0CyZ8EZBE)53737zN6L6wkSu49p5yCaL4tt5bWJDa(oBgfjGY1(1oN43E8vFiCci8oPcjm8gGDo4tfWKdYhmZ078KN84x7N(LjasaIY3IIjYovRTrZAE7gqPjH0(KAHXqKRjsThk544yix86NINF8pCLdyqpbdMK8irAhypir6NgfH3zsRQv8B2YVzfVMSdNkGTIHeihh4JO93K0E6)sCSq)Vkj9bde77NT4qTF883QwJgJdHD0UTPoA81Q1yR63SXuJpTrEdqxy7H2Jxpuu0Z(A2rRMxcL3ItJ5qHO8P9n2CgpI(bIIUPeSSdlbmaYhzCMKdc2U9O995rM7bpCukjVwlYomiqI7bBMjFdAi8NpWEAmdYjGKVsdmyk5b7TneYQO9rG0diXu0ibmjYITQ50LHait5ajenwxNEWy9BeRVG6qt1ID0XpMttjH3)iSss4oYwceqxd3oRJ5WoQvP9teL3fOni)GlHsGJ2)6JFsgB(NXdvPju(6ooofEuM2zjLBLB2Ct2ByvcsLuTRWb3chkrUv0I7Lfl8oWqRY7XoX)jfyTK4UWwjWyqWGwrjukhTR1adPdhnqnN6qCD9z0XENx07ZKCgBVkWMVf0)nk3uDlD(6C8Dl)LPGqncck3S50mM7(WZZIzFDUYP7)El7zZB2SX13OwM2(uE4T4a2WBLFilT7Hf4ojW2S39fLRmomaB63f(FAjS8dEgtd3nlhBXYOapnD8X3fEf2zErHiCGMMIdAjrAUlstLNlVANvy)104eA)6C43Lcjbd26Lo7slFHmG2CXUMpxZW1mP5qJKbaC1tdbJnsnGKyj6n3vt9)IKCgcAI5Mzryu8m92oHnE(saxwHG7Mz6mO3ExteoyBIEsRG9L(bGeybxZrKvrdS(YdBdURgWHC09Fl1PDuVVMTQ(al7u9HQLuFK6SQZDp1Yi15nuh1hRwTGAfBoO(e1NQUOJ6ZCuFEB1vuxvDj1LvxWrvr5QQQT(AhvvBGQUtheehJKRTAJlFPF89(Hh4MqbHR4AgmxWRBAIex0libielO(MIUcDVWCGnVgnQKVS0U7e98QWe0yUDU1aNQxzQEQr3v2KzWzrXran2yX8v8egSQ(UqGa6l5w42uolonmVT0YS(KlG61RHIHg7S(Cr3UamPUkWATkubvrQf7eHjyb65vpbtYioA)v09UuAxhpqcdbkmwsd6LTw6L79ThhhYMVbOhOSpcWdl3utY4CZknDAVIQtrfQORocYItI46TF6mwpKvyVmsxDJktY1XVQxTABSCkoCI3fdVZ5Or3E9EGo6sichxKJjMqcrEpDc2RVzZXAREJsb)95R9NJnvl2g23(uEbiyW2ROE1cd7b4yGESBmLmB1Txpqsk0HhGaKyO2C133EiJt1GMCGzb6sNFjdBA4SFUQ9Jy5l7Z(HXfp2boyjXKlS0YNBPLl7cLGs9(9B)p\n\n```",
+  "class_id": 24,
+  "spec_id": 19,
+  "author_id": "19e1fa2f-5739-4da0-85b7-976cb4b374b3",
+  "talent_string": "W1siMjQtODctNy0wIiwxXSxbIjI0LTg3LTQtMCIsMV0sWyIyNC04Ny0xLTAiLDFdLFsiMjQtODctMi0xIiwxXSxbIjI0LTg3LTYtMSIsMV0sWyIyNC04Ny0wLTIiLDFdLFsiMjQtODctMi0yIiwyXSxbIjI0LTg3LTQtMiIsMV0sWyIyNC04Ny02LTIiLDFdLFsiMjQtODctNS0zIiwxXSxbIjI0LTg3LTMtMyIsMV0sWyIyNC04Ny0wLTQiLDJdLFsiMjQtODctMi00IiwxXSxbIjI0LTg3LTItNSIsMV0sWyIyNC04Ny0xLTYiLDFdLFsiMjQtODctNi00IiwxXSxbIjI0LTg3LTQtNSIsMV0sWyIyNC04Ny00LTYiLDFdLFsiMjQtODctNS03IiwyXSxbIjI0LTg3LTItNyIsMV0sWyIyNC04Ny0xLTdiIiwxXSxbIjI0LTg3LTEtOCIsMV0sWyIyNC04Ny0xLTkiLDFdLFsiMjQtMTktNC0wIiwxXSxbIjI0LTE5LTMtMSIsMV0sWyIyNC0xOS01LTEiLDFdLFsiMjQtMTktNi0yIiwxXSxbIjI0LTE5LTItMiIsMV0sWyIyNC0xOS0xLTMiLDJdLFsiMjQtMTktNS0zIiwyXSxbIjI0LTE5LTctM2EiLDFdLFsiMjQtMTktNi00IiwxXSxbIjI0LTE5LTQtNCIsMV0sWyIyNC0xOS0yLTQiLDFdLFsiMjQtMTktMS01IiwxXSxbIjI0LTE5LTQtNSIsMV0sWyIyNC0xOS03LTUiLDFdLFsiMjQtMTktNi02IiwxXSxbIjI0LTE5LTUtNiIsMV0sWyIyNC0xOS0wLTciLDJdLFsiMjQtMTktNi03IiwyXSxbIjI0LTE5LTgtNyIsMV0sWyIyNC0xOS02LTgiLDFdLFsiMjQtMTktNi05YiIsMV0sWyIyNC0xOS0xMC0wIiwxXSxbIjI0LTE5LTEwLTIiLDFdLFsiMjQtMTktMTAtNCIsMV0sWyIyNC0xOS0xMC02IiwxXSxbIjI0LTE5LTEwLTgiLDFdXQ",
+  "tags": [],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 4,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-25T17:35:53.682234+00:00",
+  "updated_at": "2026-07-26T01:33:11.904+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 2110,
+  "net_score": 4,
+  "has_talents": true,
+  "guide_section_count": 4,
+  "author": {
+   "id": "19e1fa2f-5739-4da0-85b7-976cb4b374b3",
+   "username": "Ytraz",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJGpPmtSjNoQb4xTyGDi0BM2ZMFA3uHg9vMcGYH7KXQGU_kzAvpSw=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "c3f534e6-5b44-425b-8631-da8129688e82",
+   "title": "Incineration Pyromancer Raid Build",
+   "class_id": 24,
+   "spec_id": 62,
+   "author_id": "5e20cea1-9633-4db1-aa3b-3092396789bf",
+   "tags": [
+    "raid"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1874,
+   "featured": false,
+   "created_at": "2026-07-19T16:06:13.978589+00:00",
+   "updated_at": "2026-07-19T21:21:36.787+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "5e20cea1-9633-4db1-aa3b-3092396789bf",
+    "username": "mehdij",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "ccf0c5cd-363d-4f24-9812-3d23f23fbc65",
+   "title": "Incineration - Explode ST build",
+   "class_id": 24,
+   "spec_id": 62,
+   "author_id": "e21ff528-065e-436d-a4a0-5a28810fba2c",
+   "tags": [
+    "Raid - Single target"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 1,
+   "view_count": 3313,
+   "featured": false,
+   "created_at": "2026-07-15T19:32:35.809132+00:00",
+   "updated_at": "2026-07-27T18:32:04.243+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "e21ff528-065e-436d-a4a0-5a28810fba2c",
+    "username": "snackhrot",
+    "avatar_url": "https://cdn.discordapp.com/avatars/162274425570459648/ee95600cefe935851f3860ed5d303e38.png"
+   }
+  }
+ ],
+ "class": "Pyromancer",
+ "spec": "Flameweaving",
+ "allocations": [
+  [
+   "24-87-7-0",
+   1
+  ],
+  [
+   "24-87-4-0",
+   1
+  ],
+  [
+   "24-87-1-0",
+   1
+  ],
+  [
+   "24-87-2-1",
+   1
+  ],
+  [
+   "24-87-6-1",
+   1
+  ],
+  [
+   "24-87-0-2",
+   1
+  ],
+  [
+   "24-87-2-2",
+   2
+  ],
+  [
+   "24-87-4-2",
+   1
+  ],
+  [
+   "24-87-6-2",
+   1
+  ],
+  [
+   "24-87-5-3",
+   1
+  ],
+  [
+   "24-87-3-3",
+   1
+  ],
+  [
+   "24-87-0-4",
+   2
+  ],
+  [
+   "24-87-2-4",
+   1
+  ],
+  [
+   "24-87-2-5",
+   1
+  ],
+  [
+   "24-87-1-6",
+   1
+  ],
+  [
+   "24-87-6-4",
+   1
+  ],
+  [
+   "24-87-4-5",
+   1
+  ],
+  [
+   "24-87-4-6",
+   1
+  ],
+  [
+   "24-87-5-7",
+   2
+  ],
+  [
+   "24-87-2-7",
+   1
+  ],
+  [
+   "24-87-1-7b",
+   1
+  ],
+  [
+   "24-87-1-8",
+   1
+  ],
+  [
+   "24-87-1-9",
+   1
+  ],
+  [
+   "24-19-4-0",
+   1
+  ],
+  [
+   "24-19-3-1",
+   1
+  ],
+  [
+   "24-19-5-1",
+   1
+  ],
+  [
+   "24-19-6-2",
+   1
+  ],
+  [
+   "24-19-2-2",
+   1
+  ],
+  [
+   "24-19-1-3",
+   2
+  ],
+  [
+   "24-19-5-3",
+   2
+  ],
+  [
+   "24-19-7-3a",
+   1
+  ],
+  [
+   "24-19-6-4",
+   1
+  ],
+  [
+   "24-19-4-4",
+   1
+  ],
+  [
+   "24-19-2-4",
+   1
+  ],
+  [
+   "24-19-1-5",
+   1
+  ],
+  [
+   "24-19-4-5",
+   1
+  ],
+  [
+   "24-19-7-5",
+   1
+  ],
+  [
+   "24-19-6-6",
+   1
+  ],
+  [
+   "24-19-5-6",
+   1
+  ],
+  [
+   "24-19-0-7",
+   2
+  ],
+  [
+   "24-19-6-7",
+   2
+  ],
+  [
+   "24-19-8-7",
+   1
+  ],
+  [
+   "24-19-6-8",
+   1
+  ],
+  [
+   "24-19-6-9b",
+   1
+  ],
+  [
+   "24-19-10-0",
+   1
+  ],
+  [
+   "24-19-10-2",
+   1
+  ],
+  [
+   "24-19-10-4",
+   1
+  ],
+  [
+   "24-19-10-6",
+   1
+  ],
+  [
+   "24-19-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "24-87-7-0",
+   "points": 1,
+   "name": "Dragon Leap",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 806611
+  },
+  {
+   "id": "24-87-4-0",
+   "points": 1,
+   "name": "Meteor",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 500135
+  },
+  {
+   "id": "24-87-1-0",
+   "points": 1,
+   "name": "Ember Touch",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 800818
+  },
+  {
+   "id": "24-87-2-1",
+   "points": 1,
+   "name": "Shazzrah's Boon",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 807126
+  },
+  {
+   "id": "24-87-6-1",
+   "points": 1,
+   "name": "Hellscape",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 706886
+  },
+  {
+   "id": "24-87-0-2",
+   "points": 1,
+   "name": "Inferno Barrier",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 504380
+  },
+  {
+   "id": "24-87-2-2",
+   "points": 2,
+   "name": "Fire Safety",
+   "maxPoints": 2,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 300970
+  },
+  {
+   "id": "24-87-4-2",
+   "points": 1,
+   "name": "Flamecasting",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 804300
+  },
+  {
+   "id": "24-87-6-2",
+   "points": 1,
+   "name": "Hasty Incantation",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 802169
+  },
+  {
+   "id": "24-87-5-3",
+   "points": 1,
+   "name": "Pyromancy",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 704831
+  },
+  {
+   "id": "24-87-3-3",
+   "points": 1,
+   "name": "Searing Speed",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 704800
+  },
+  {
+   "id": "24-87-0-4",
+   "points": 2,
+   "name": "Bright Flames",
+   "maxPoints": 2,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 300759
+  },
+  {
+   "id": "24-87-2-4",
+   "points": 1,
+   "name": "Volcanic Shell",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 805477
+  },
+  {
+   "id": "24-87-2-5",
+   "points": 1,
+   "name": "Magma Guardian",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 706872
+  },
+  {
+   "id": "24-87-1-6",
+   "points": 1,
+   "name": "Essence of Malygos",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 802120
+  },
+  {
+   "id": "24-87-6-4",
+   "points": 1,
+   "name": "Cataclysm",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 520218
+  },
+  {
+   "id": "24-87-4-5",
+   "points": 1,
+   "name": "Fiery Demeanor",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 525059
+  },
+  {
+   "id": "24-87-4-6",
+   "points": 1,
+   "name": "Grace of Alexstrasza",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 802167
+  },
+  {
+   "id": "24-87-5-7",
+   "points": 2,
+   "name": "Flamer",
+   "maxPoints": 2,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 680836
+  },
+  {
+   "id": "24-87-2-7",
+   "points": 1,
+   "name": "Flaming Finesse",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 706878
+  },
+  {
+   "id": "24-87-1-7b",
+   "points": 1,
+   "name": "Binding Flames",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 807686
+  },
+  {
+   "id": "24-87-1-8",
+   "points": 1,
+   "name": "Ignis Ultimatus",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 680369
+  },
+  {
+   "id": "24-87-1-9",
+   "points": 1,
+   "name": "Ignis Fatalis",
+   "maxPoints": 1,
+   "tree": "Pyromancer (class tree)",
+   "spellId": 706893
+  },
+  {
+   "id": "24-19-4-0",
+   "points": 1,
+   "name": "Phoenix Egg",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 800796
+  },
+  {
+   "id": "24-19-3-1",
+   "points": 1,
+   "name": "Phoenix Dive",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 706854
+  },
+  {
+   "id": "24-19-5-1",
+   "points": 1,
+   "name": "Cleansing Flames",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 681145
+  },
+  {
+   "id": "24-19-6-2",
+   "points": 1,
+   "name": "Ember Charm",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 704861
+  },
+  {
+   "id": "24-19-2-2",
+   "points": 1,
+   "name": "Soothing Flames",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 704855
+  },
+  {
+   "id": "24-19-1-3",
+   "points": 2,
+   "name": "Spirit of Fire",
+   "maxPoints": 2,
+   "tree": "Flameweaving",
+   "spellId": 500167
+  },
+  {
+   "id": "24-19-5-3",
+   "points": 2,
+   "name": "Scorching Spirit",
+   "maxPoints": 2,
+   "tree": "Flameweaving",
+   "spellId": 805552
+  },
+  {
+   "id": "24-19-7-3a",
+   "points": 1,
+   "name": "Concentrated Fire",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 704864
+  },
+  {
+   "id": "24-19-6-4",
+   "points": 1,
+   "name": "Burning Crescendo",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 805378
+  },
+  {
+   "id": "24-19-4-4",
+   "points": 1,
+   "name": "Sunstrider Array",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 804230
+  },
+  {
+   "id": "24-19-2-4",
+   "points": 1,
+   "name": "Kael's Command",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 800816
+  },
+  {
+   "id": "24-19-1-5",
+   "points": 1,
+   "name": "Rekindle",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 805448
+  },
+  {
+   "id": "24-19-4-5",
+   "points": 1,
+   "name": "Lifebinder's Fire",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 704862
+  },
+  {
+   "id": "24-19-7-5",
+   "points": 1,
+   "name": "Living Flame",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 704851
+  },
+  {
+   "id": "24-19-6-6",
+   "points": 1,
+   "name": "Burn Impurities",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 520149
+  },
+  {
+   "id": "24-19-5-6",
+   "points": 1,
+   "name": "Sageweaving",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 503915
+  },
+  {
+   "id": "24-19-0-7",
+   "points": 2,
+   "name": "Touched by Fire",
+   "maxPoints": 2,
+   "tree": "Flameweaving",
+   "spellId": 704848
+  },
+  {
+   "id": "24-19-6-7",
+   "points": 2,
+   "name": "Tender Touch",
+   "maxPoints": 2,
+   "tree": "Flameweaving",
+   "spellId": 704273
+  },
+  {
+   "id": "24-19-8-7",
+   "points": 1,
+   "name": "Shielded by Flames",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 704275
+  },
+  {
+   "id": "24-19-6-8",
+   "points": 1,
+   "name": "Inferno",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 806736
+  },
+  {
+   "id": "24-19-6-9b",
+   "points": 1,
+   "name": "Blessing of the Inferno",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 707451
+  },
+  {
+   "id": "24-19-10-0",
+   "points": 1,
+   "name": "Spirit of the Phoenix",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 92126
+  },
+  {
+   "id": "24-19-10-2",
+   "points": 1,
+   "name": "Flame Bonding",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 706858
+  },
+  {
+   "id": "24-19-10-4",
+   "points": 1,
+   "name": "Ashen Priest",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 707432
+  },
+  {
+   "id": "24-19-10-6",
+   "points": 1,
+   "name": "Fiery Faith",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 503913
+  },
+  {
+   "id": "24-19-10-8",
+   "points": 1,
+   "name": "Burning Passion",
+   "maxPoints": 1,
+   "tree": "Flameweaving",
+   "spellId": 504733
+  }
+ ]
+}

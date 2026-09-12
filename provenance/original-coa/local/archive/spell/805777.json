@@ -1,0 +1,8 @@
+{
+  "name_enus": "Nullifying Venom",
+  "icon": "trade_alchemy_dpotion_a27",
+  "tooltip_enus": "<table><tr><td><b>Nullifying Venom</b><br />12% of base mana<br />1 sec cast</td></tr></table><table><tr><td><span class=\"q\">Activate <span style=\"color: #ffffff;\">Nullifying Venom</span> for 2&nbsp;hr, giving your casts a 30% chance to reduce an enemy's casting speed by 30% for 8&nbsp;sec.<br /><br />You can have a maximum of 2 unique <span style=\"color: #ffffff;\">Venoms</span> active at a time.</span></td></tr></table><!--?805777:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

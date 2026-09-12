@@ -1,0 +1,53 @@
+Primalist Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Primalist Overview
+ Primalists channel primordial powers across four specializations. Geomancy devastates with earthbending, Mountain King tanks with tectonic reflection, Wildwalker summons spirit animals as a totem warrior, and Life heals as a melee rage-based juggernaut. Maintaining the natural order while empowering allies defines the class fantasy.
+ Speaker of the earth commanding geomancy, mountain spirits, wild gods, and the Earthmother's life magic.
+ Class Mechanic — Totems
+ Primalists channel earth, nature, and beast spirits, augmenting themselves and allies with primal boons.
+ Primalist uses Primal Energy as its primary resource and wears Plate armor.
+ Specializations
+ At level 10, Primalist players choose one of three specializations, each offering a distinct playstyle:
+ Geomancy: Embodiment of earthen fury shaping earth and bludgeoning enemies with shards of stone.
+ Mountain King: Defensive bastion of might and earth magic with Tectonic Shift reflecting damage — but overloading stuns you.
+ Wildwalker: Totem warrior communing with wild gods, summoning Spirit Animals and fighting with 2H or dual wield.
+ Life: Melee rage-based healer invoking the Earthmother with radiating AoE heals and animalistic boons.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Four specs covering all roles
+ Strength: Plate armor durability
+ Strength: Unique earth/nature fantasy
+ Weakness: Totem and tectonic management
+ Weakness: Mountain King self-stun risk
+ Weakness: Split stat priorities
+ Leveling Tips
+ Wildwalker provides smooth melee leveling with spirit pets. Geomancy works for ranged earth damage. Life becomes essential in dungeon groups at higher levels.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Mountain King Tectonic Shift punishes attackers in battlegrounds. Wildwalker spirit pets add constant arena pressure.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Primalist in Conquest of Azeroth? Primalist is a Tank / Healer / DPS class wearing Plate armor with Primal Energy as its resource.
+ What is the Totems mechanic? Primalists channel earth, nature, and beast spirits, augmenting themselves and allies with primal boons.
+ When do Primalist specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Primalist good for beginners? Primalist has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Primalist have? Primalist has three specializations: Geomancy, Mountain King, Wildwalker, Life.

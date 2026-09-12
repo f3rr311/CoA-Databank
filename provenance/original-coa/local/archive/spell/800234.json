@@ -1,0 +1,8 @@
+{
+  "name_enus": "Divine Vision",
+  "icon": "ability_priest_savinggrace",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Divine Vision</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>16% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>40&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Heals an ally for 11 to 15 and causes them to take 20% increased healing for 10&nbsp;sec.<br /><br /><span style=\"color: #ffffff;\">Sunet</span>: Heals increased by 25%.</span></td></tr></table><!--?800234:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Carapace Regeneration",
+  "icon": "ability_vehicle_shellshieldgenerator_green",
+  "tooltip_enus": "<table><tr><td><b>Carapace Regeneration</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">3 Charges, 20 sec recharge</span><br />Regenerate your carapace, reducing your Physical damage taken by 4% and restoring 1% maximum health every 1 sec, draining 10 Rage every tick to remain active, stacking 3 times.</span></td></tr></table><!--?805931:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

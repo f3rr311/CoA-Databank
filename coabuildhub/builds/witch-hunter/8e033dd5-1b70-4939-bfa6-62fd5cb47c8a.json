@@ -1,0 +1,730 @@
+{
+ "build": {
+  "id": "8e033dd5-1b70-4939-bfa6-62fd5cb47c8a",
+  "title": "Witch Hunter - Unleash the Hounds",
+  "description": "",
+  "class_id": 15,
+  "spec_id": 40,
+  "author_id": "fc48579a-11af-4774-897b-47fc3e56b331",
+  "talent_string": "W1siMTUtODctNi0wIiwxXSxbIjE1LTg3LTctMSIsMl0sWyIxNS04Ny00LTAiLDFdLFsiMTUtODctMi0wIiwxXSxbIjE1LTg3LTMtMSIsMl0sWyIxNS04Ny0xLTEiLDFdLFsiMTUtODctMy0yIiwxXSxbIjE1LTg3LTItMyIsMV0sWyIxNS04Ny00LTMiLDFdLFsiMTUtODctNi0zIiwxXSxbIjE1LTg3LTctNGEiLDFdLFsiMTUtODctNS00IiwxXSxbIjE1LTg3LTEtNCIsMV0sWyIxNS04Ny00LTUiLDFdLFsiMTUtODctMS01IiwxXSxbIjE1LTg3LTAtNiIsMV0sWyIxNS04Ny0yLTYiLDFdLFsiMTUtODctNi02IiwxXSxbIjE1LTg3LTUtNyIsMl0sWyIxNS04Ny03LTciLDFdLFsiMTUtODctMS03IiwxXSxbIjE1LTg3LTctOCIsMV0sWyIxNS04Ny03LTkiLDFdLFsiMTUtNDAtNC0wIiwxXSxbIjE1LTQwLTEwLTAiLDFdLFsiMTUtNDAtNC0xIiwxXSxbIjE1LTQwLTItMiIsMl0sWyIxNS00MC02LTIiLDFdLFsiMTUtNDAtMTAtMiIsMV0sWyIxNS00MC0zLTMiLDFdLFsiMTUtNDAtMS0zIiwxXSxbIjE1LTQwLTctMyIsMl0sWyIxNS00MC02LTQiLDFdLFsiMTUtNDAtNC00IiwxXSxbIjE1LTQwLTItNCIsMV0sWyIxNS00MC0wLTQiLDFdLFsiMTUtNDAtMTAtNCIsMV0sWyIxNS00MC0wLTViIiwxXSxbIjE1LTQwLTItNSIsMV0sWyIxNS00MC02LTUiLDFdLFsiMTUtNDAtNy02IiwxXSxbIjE1LTQwLTEwLTYiLDFdLFsiMTUtNDAtNS0zIiwxXSxbIjE1LTQwLTctNyIsMV0sWyIxNS00MC00LTUiLDJdLFsiMTUtNDAtNC02IiwxXSxbIjE1LTQwLTUtNyIsMV0sWyIxNS00MC02LTgiLDFdLFsiMTUtNDAtNC05IiwxXSxbIjE1LTQwLTEwLTgiLDFdXQ",
+  "tags": [],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-20T17:44:01.368526+00:00",
+  "updated_at": "2026-07-20T17:44:01.368526+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 858,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 0,
+  "author": {
+   "id": "fc48579a-11af-4774-897b-47fc3e56b331",
+   "username": "Dan Lamphear",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJC5vgkEAhxPEdpFsKSeQm57bSsc_F_xPDuNmQ974Q9C8lfPS4l=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "c2e715e7-955a-4ac2-8c63-b4a324bde5a4",
+   "title": "PvP Inquisition Witch Hunter - Flourish One Deeg",
+   "class_id": 15,
+   "spec_id": 41,
+   "author_id": "646d7b60-2024-4e0a-80bb-9d44bde93e7d",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 578,
+   "featured": false,
+   "created_at": "2026-07-27T03:50:02.290466+00:00",
+   "updated_at": "2026-07-27T03:50:02.290466+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "646d7b60-2024-4e0a-80bb-9d44bde93e7d",
+    "username": "Devin",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLlx1CcX8Kqv6IHa5gYMJ5gr_HuYND2dc8iiF4ptI7X3n3bt8c=s96-c"
+   }
+  },
+  {
+   "id": "e4e89e4c-e64d-41df-b93a-62e7a56fc887",
+   "title": "Houndmaster Deep Dive: Talents, Rotation, Macros, Tips.",
+   "class_id": 15,
+   "spec_id": 40,
+   "author_id": "8c36ddd8-f036-49e0-ab3c-83c64f77036e",
+   "tags": [
+    "leveling",
+    "aoe",
+    "dungeons"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1317,
+   "featured": false,
+   "created_at": "2026-07-25T03:07:22.148958+00:00",
+   "updated_at": "2026-07-30T09:18:21.694+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "8c36ddd8-f036-49e0-ab3c-83c64f77036e",
+    "username": "brandonenjoyer.",
+    "avatar_url": "https://cdn.discordapp.com/avatars/202225650130485248/0fd82d4536714f7dd9249a5882d9835a.png"
+   }
+  },
+  {
+   "id": "d4a7ebc9-3096-4026-987a-ac8f072d7562",
+   "title": "\"..and stay down!\" vibe build",
+   "class_id": 15,
+   "spec_id": 41,
+   "author_id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+   "tags": [
+    "raid",
+    "testing"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 357,
+   "featured": false,
+   "created_at": "2026-07-26T11:58:04.498286+00:00",
+   "updated_at": "2026-07-28T15:59:21.56+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+    "username": "bruttus_",
+    "avatar_url": "https://cdn.discordapp.com/avatars/716955228729245781/98ec4037a0a68fd624f2a4ad6069555b.png"
+   }
+  }
+ ],
+ "class": "Witch Hunter",
+ "spec": "Houndmaster",
+ "allocations": [
+  [
+   "15-87-6-0",
+   1
+  ],
+  [
+   "15-87-7-1",
+   2
+  ],
+  [
+   "15-87-4-0",
+   1
+  ],
+  [
+   "15-87-2-0",
+   1
+  ],
+  [
+   "15-87-3-1",
+   2
+  ],
+  [
+   "15-87-1-1",
+   1
+  ],
+  [
+   "15-87-3-2",
+   1
+  ],
+  [
+   "15-87-2-3",
+   1
+  ],
+  [
+   "15-87-4-3",
+   1
+  ],
+  [
+   "15-87-6-3",
+   1
+  ],
+  [
+   "15-87-7-4a",
+   1
+  ],
+  [
+   "15-87-5-4",
+   1
+  ],
+  [
+   "15-87-1-4",
+   1
+  ],
+  [
+   "15-87-4-5",
+   1
+  ],
+  [
+   "15-87-1-5",
+   1
+  ],
+  [
+   "15-87-0-6",
+   1
+  ],
+  [
+   "15-87-2-6",
+   1
+  ],
+  [
+   "15-87-6-6",
+   1
+  ],
+  [
+   "15-87-5-7",
+   2
+  ],
+  [
+   "15-87-7-7",
+   1
+  ],
+  [
+   "15-87-1-7",
+   1
+  ],
+  [
+   "15-87-7-8",
+   1
+  ],
+  [
+   "15-87-7-9",
+   1
+  ],
+  [
+   "15-40-4-0",
+   1
+  ],
+  [
+   "15-40-10-0",
+   1
+  ],
+  [
+   "15-40-4-1",
+   1
+  ],
+  [
+   "15-40-2-2",
+   2
+  ],
+  [
+   "15-40-6-2",
+   1
+  ],
+  [
+   "15-40-10-2",
+   1
+  ],
+  [
+   "15-40-3-3",
+   1
+  ],
+  [
+   "15-40-1-3",
+   1
+  ],
+  [
+   "15-40-7-3",
+   2
+  ],
+  [
+   "15-40-6-4",
+   1
+  ],
+  [
+   "15-40-4-4",
+   1
+  ],
+  [
+   "15-40-2-4",
+   1
+  ],
+  [
+   "15-40-0-4",
+   1
+  ],
+  [
+   "15-40-10-4",
+   1
+  ],
+  [
+   "15-40-0-5b",
+   1
+  ],
+  [
+   "15-40-2-5",
+   1
+  ],
+  [
+   "15-40-6-5",
+   1
+  ],
+  [
+   "15-40-7-6",
+   1
+  ],
+  [
+   "15-40-10-6",
+   1
+  ],
+  [
+   "15-40-5-3",
+   1
+  ],
+  [
+   "15-40-7-7",
+   1
+  ],
+  [
+   "15-40-4-5",
+   2
+  ],
+  [
+   "15-40-4-6",
+   1
+  ],
+  [
+   "15-40-5-7",
+   1
+  ],
+  [
+   "15-40-6-8",
+   1
+  ],
+  [
+   "15-40-4-9",
+   1
+  ],
+  [
+   "15-40-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "15-87-6-0",
+   "points": 1,
+   "name": "Burrow Bolt",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802269
+  },
+  {
+   "id": "15-87-7-1",
+   "points": 2,
+   "name": "Combat Training",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680529
+  },
+  {
+   "id": "15-87-4-0",
+   "points": 1,
+   "name": "Shadow Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680238
+  },
+  {
+   "id": "15-87-2-0",
+   "points": 1,
+   "name": "Vault",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 500085
+  },
+  {
+   "id": "15-87-3-1",
+   "points": 2,
+   "name": "Night Stalker",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 300792
+  },
+  {
+   "id": "15-87-1-1",
+   "points": 1,
+   "name": "Night Walker",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 789256
+  },
+  {
+   "id": "15-87-3-2",
+   "points": 1,
+   "name": "Brimming Hatred",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705496
+  },
+  {
+   "id": "15-87-2-3",
+   "points": 1,
+   "name": "Inquisitor's Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681445
+  },
+  {
+   "id": "15-87-4-3",
+   "points": 1,
+   "name": "Evil Never Sleeps",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 804185
+  },
+  {
+   "id": "15-87-6-3",
+   "points": 1,
+   "name": "Witchblood Tonic",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802278
+  },
+  {
+   "id": "15-87-7-4a",
+   "points": 1,
+   "name": "Just A Sip",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705533
+  },
+  {
+   "id": "15-87-5-4",
+   "points": 1,
+   "name": "Vengeful Intent",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705534
+  },
+  {
+   "id": "15-87-1-4",
+   "points": 1,
+   "name": "Trap Card",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680253
+  },
+  {
+   "id": "15-87-4-5",
+   "points": 1,
+   "name": "Brand of the Unworthy",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 501380
+  },
+  {
+   "id": "15-87-1-5",
+   "points": 1,
+   "name": "Death Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681450
+  },
+  {
+   "id": "15-87-0-6",
+   "points": 1,
+   "name": "Three Sevens",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 300572
+  },
+  {
+   "id": "15-87-2-6",
+   "points": 1,
+   "name": "Strategist",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681156
+  },
+  {
+   "id": "15-87-6-6",
+   "points": 1,
+   "name": "Dark Intuition",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 806195
+  },
+  {
+   "id": "15-87-5-7",
+   "points": 2,
+   "name": "Alchemical Research",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705498
+  },
+  {
+   "id": "15-87-7-7",
+   "points": 1,
+   "name": "Dark Souls",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802011
+  },
+  {
+   "id": "15-87-1-7",
+   "points": 1,
+   "name": "Resilient to Darkness",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681092
+  },
+  {
+   "id": "15-87-7-8",
+   "points": 1,
+   "name": "Vampiric Tonic",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802276
+  },
+  {
+   "id": "15-87-7-9",
+   "points": 1,
+   "name": "Tonic Supply",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705497
+  },
+  {
+   "id": "15-40-4-0",
+   "points": 1,
+   "name": "Unleash the Hounds",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 807918
+  },
+  {
+   "id": "15-40-10-0",
+   "points": 1,
+   "name": "Houndmaster",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 92093
+  },
+  {
+   "id": "15-40-4-1",
+   "points": 1,
+   "name": "Houndmaster's Call",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 802273
+  },
+  {
+   "id": "15-40-2-2",
+   "points": 2,
+   "name": "Expert Shot",
+   "maxPoints": 2,
+   "tree": "Houndmaster",
+   "spellId": 705467
+  },
+  {
+   "id": "15-40-6-2",
+   "points": 1,
+   "name": "Shadow Rage",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705455
+  },
+  {
+   "id": "15-40-10-2",
+   "points": 1,
+   "name": "Sharpshooter ",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705456
+  },
+  {
+   "id": "15-40-3-3",
+   "points": 1,
+   "name": "Trapper",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 681180
+  },
+  {
+   "id": "15-40-1-3",
+   "points": 1,
+   "name": "Quickdraw",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 804193
+  },
+  {
+   "id": "15-40-7-3",
+   "points": 2,
+   "name": "Dark Ranger",
+   "maxPoints": 2,
+   "tree": "Houndmaster",
+   "spellId": 705465
+  },
+  {
+   "id": "15-40-6-4",
+   "points": 1,
+   "name": "Houndfeeder",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705477
+  },
+  {
+   "id": "15-40-4-4",
+   "points": 1,
+   "name": "Decimate",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 804194
+  },
+  {
+   "id": "15-40-2-4",
+   "points": 1,
+   "name": "Darkrider",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705453
+  },
+  {
+   "id": "15-40-0-4",
+   "points": 1,
+   "name": "Pure Agony",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 300789
+  },
+  {
+   "id": "15-40-10-4",
+   "points": 1,
+   "name": "Dark Mind",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 574148
+  },
+  {
+   "id": "15-40-0-5b",
+   "points": 1,
+   "name": "Reload",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 804190
+  },
+  {
+   "id": "15-40-2-5",
+   "points": 1,
+   "name": "Hail of Gunfire",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 804187
+  },
+  {
+   "id": "15-40-6-5",
+   "points": 1,
+   "name": "Defender of Darkshire",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705531
+  },
+  {
+   "id": "15-40-7-6",
+   "points": 1,
+   "name": "Loksey's Journal",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 504903
+  },
+  {
+   "id": "15-40-10-6",
+   "points": 1,
+   "name": "Daredevil",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 681173
+  },
+  {
+   "id": "15-40-5-3",
+   "points": 1,
+   "name": "Expulsion of Evil",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 139778
+  },
+  {
+   "id": "15-40-7-7",
+   "points": 1,
+   "name": "Rampaging Hounds",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 570726
+  },
+  {
+   "id": "15-40-4-5",
+   "points": 2,
+   "name": "Kennel Master",
+   "maxPoints": 2,
+   "tree": "Houndmaster",
+   "spellId": 706365
+  },
+  {
+   "id": "15-40-4-6",
+   "points": 1,
+   "name": "Houndmaster",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705450
+  },
+  {
+   "id": "15-40-5-7",
+   "points": 1,
+   "name": "Scent of Magic",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 706260
+  },
+  {
+   "id": "15-40-6-8",
+   "points": 1,
+   "name": "Coordinated Killing",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705463
+  },
+  {
+   "id": "15-40-4-9",
+   "points": 1,
+   "name": "Lethal Pursuit",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 572530
+  },
+  {
+   "id": "15-40-10-8",
+   "points": 1,
+   "name": "Sixfold Shot",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 500567
+  }
+ ]
+}

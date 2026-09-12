@@ -1,0 +1,8 @@
+{
+  "name_enus": "Axe Volley",
+  "icon": "inv_axe_35",
+  "tooltip_enus": "<table><tr><td><b>Axe Volley</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the Energy cost of <span style=\"color: #ffffff;\">Axe Throw</span> by up to 20% based on missing Energy.</span></td></tr></table><!--?804666:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

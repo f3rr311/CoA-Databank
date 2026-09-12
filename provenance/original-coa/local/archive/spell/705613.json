@@ -1,0 +1,8 @@
+{
+  "name_enus": "Symbols of Power",
+  "icon": "novart_magicspell_%2817%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Symbols of Power</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Fist of the Ancients</span> while you have <span style=\"color: #ffffff;\">Weapon Engraving: Fire</span> active by 15%.</span></td></tr></table><!--?705613:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

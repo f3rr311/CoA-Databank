@@ -1,0 +1,795 @@
+{
+ "build": {
+  "id": "6861f8ca-3e80-44c4-9d10-9969d29710f6",
+  "title": "Venomancer (Vizier) - Healing leveling/dungeons build",
+  "description": "[overview]\nTalents are built around mana regen, critical strike heals and extra healing for HoT spells.\n\n[stats]\nStack as much INT and Spell Power as possible with some Spirit if possible.\nINT = more mana.\nSpell power = better heals.\nSpirit helps with mana regen.\n\n[gear]\nMail if possible, but I would get the gear based on stats and not on type. If a cloth items has better stats, then use it.",
+  "class_id": 29,
+  "spec_id": 92,
+  "author_id": "22e1c7dc-6ae6-4158-a392-de106c22bfab",
+  "talent_string": "W1siMjktOTItNC0wIiwxXSxbIjI5LTkyLTEwLTAiLDFdLFsiMjktOTItMTAtMiIsMV0sWyIyOS05Mi00LTEiLDFdLFsiMjktOTItNi0yIiwyXSxbIjI5LTkyLTItMiIsMV0sWyIyOS05Mi03LTMiLDFdLFsiMjktOTItMy0zIiwyXSxbIjI5LTkyLTEtNGIiLDFdLFsiMjktOTItMy00IiwyXSxbIjI5LTkyLTEwLTQiLDFdLFsiMjktOTItNC01IiwxXSxbIjI5LTkyLTQtNiIsMV0sWyIyOS05Mi00LTciLDFdLFsiMjktOTItMTAtNiIsMV0sWyIyOS05Mi0xLTUiLDFdLFsiMjktOTItMC02IiwyXSxbIjI5LTkyLTEwLTgiLDFdLFsiMjktODctNy0wIiwxXSxbIjI5LTg3LTUtMSIsMV0sWyIyOS04Ny01LTIiLDFdLFsiMjktODctNy0zIiwxXSxbIjI5LTg3LTgtMiIsMl0sWyIyOS04Ny00LTAiLDFdLFsiMjktODctMy0xIiwyXSxbIjI5LTg3LTMtMiIsMV0sWyIyOS04Ny02LTQiLDFdLFsiMjktODctNy01IiwxXSxbIjI5LTg3LTgtNiIsMV0sWyIyOS04Ny03LTciLDFdLFsiMjktODctNC0zIiwxXSxbIjI5LTg3LTQtNCIsMV0sWyIyOS04Ny0zLTUiLDFdLFsiMjktODctMi02IiwxXSxbIjI5LTg3LTUtNSIsMV0sWyIyOS04Ny0xLTdhIiwxXSxbIjI5LTg3LTgtNCIsMV0sWyIyOS04Ny00LTciLDFdLFsiMjktODctMi00IiwyXSxbIjI5LTg3LTYtOCIsMV0sWyIyOS04Ny03LTkiLDFdLFsiMjktOTItNy00YiIsMV0sWyIyOS05Mi03LTUiLDJdLFsiMjktOTItNi02IiwxXSxbIjI5LTkyLTUtMyIsMV0sWyIyOS05Mi03LTdhIiwxXSxbIjI5LTkyLTYtOCIsMV0sWyIyOS05Mi02LTkiLDFdXQ",
+  "tags": [
+   "leveling",
+   "dungeon"
+  ],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 9,
+  "downvotes": 0,
+  "comment_count": 5,
+  "created_at": "2026-07-14T14:01:51.196941+00:00",
+  "updated_at": "2026-07-20T21:55:26.873+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 4848,
+  "net_score": 9,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "22e1c7dc-6ae6-4158-a392-de106c22bfab",
+   "username": "MJ .C.H.",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocI7A72O7qNQrB_WvG5GDFzkGOEKmztZHuakIugcBWS2H_uaxHRN=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "33d1618c-a7df-4040-819b-b4fef2910071",
+   "build_id": "6861f8ca-3e80-44c4-9d10-9969d29710f6",
+   "author_id": "f58a47c7-abef-4b30-b31a-0c6d180d98bb",
+   "parent_id": null,
+   "body": "Thank you for making this. As a newer player, this helps me have a baseline reference without handing me a whole guide to the class. Still leaves room for me to figure some things out on my own.",
+   "upvotes": 0,
+   "created_at": "2026-07-17T13:56:47.803867+00:00",
+   "updated_at": "2026-07-17T13:56:47.803867+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "f58a47c7-abef-4b30-b31a-0c6d180d98bb",
+    "username": "Nizvora",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "f70de396-71b0-47a8-a74f-048932775702",
+   "build_id": "6861f8ca-3e80-44c4-9d10-9969d29710f6",
+   "author_id": "ca12ec88-f341-442a-a23d-8768b89ac127",
+   "parent_id": null,
+   "body": "There is currently a bug, Vizier Form makes you heal around 30% less.  So until that is fixed don't use it.",
+   "upvotes": 0,
+   "created_at": "2026-07-17T16:10:24.482961+00:00",
+   "updated_at": "2026-07-17T16:10:24.482961+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ca12ec88-f341-442a-a23d-8768b89ac127",
+    "username": "Yasha",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJMB6LeeFgAz1e7aQJxr6IWnVbleK9bvxtjOhoO8XNgKdDF7z8X=s96-c"
+   }
+  },
+  {
+   "id": "464d5f51-6fd8-4c52-90e0-1c5798f83b09",
+   "build_id": "6861f8ca-3e80-44c4-9d10-9969d29710f6",
+   "author_id": "58fca509-fa5d-4e53-9a7a-016519ca59d6",
+   "parent_id": null,
+   "body": "Is there any good working weak aura for this spec? I can’t find one",
+   "upvotes": 0,
+   "created_at": "2026-07-19T04:31:00.432758+00:00",
+   "updated_at": "2026-07-20T21:56:02.691065+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "58fca509-fa5d-4e53-9a7a-016519ca59d6",
+    "username": "Jason Martinez",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-QpEUfqKTABzehhKJFxIqRKzcmB0VWLuAyOeFrBtgQWHO75NO=s96-c"
+   }
+  },
+  {
+   "id": "1ed6f31a-64f3-4a4b-88b8-bd5ab5ee4e6d",
+   "build_id": "6861f8ca-3e80-44c4-9d10-9969d29710f6",
+   "author_id": "993a2c55-2007-4e92-91f0-21078d370291",
+   "parent_id": null,
+   "body": "You can’t run Shadra’s Aid, Serpent Lord’s Amulet, and Cycle of Rebirth together. Cycle of Rebirth is great when the tank is taking heavy damage, but Serpent Lord’s Ritual lets you fire off Shadra’s Prayer much faster, this should let you keep both the tank and the group alive and give plenty of free cast from Tome of Ahn'kanet. \n\nI consider Sublime Extraction essential because Serpent’s Fang is your emergency button, and being able to use it twice can save the entire party. I also like to play with fewer cooldown abilities, and would skip Extraction and take Ophidian Renewal instead for quality‑of‑life. The rest of the tree looks solid.\n\nWith Vizier Form, mana is never an issue, you can spam your spells freely without ever needing to drink. If you are low on Mana (like after a Battle Rez or from Mana Drain), Shadra's Prayer should assure you Free Heal and with Replenishment you will be back to full mana.",
+   "upvotes": 1,
+   "created_at": "2026-07-20T16:11:07.458371+00:00",
+   "updated_at": "2026-07-20T21:56:05.712228+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "993a2c55-2007-4e92-91f0-21078d370291",
+    "username": ".xzoltar",
+    "avatar_url": "https://cdn.discordapp.com/avatars/474162812789194753/4f976e2e185b38e4b1d02f8920e23a66.png"
+   }
+  },
+  {
+   "id": "74879185-b284-480f-bd25-400e9812e6d3",
+   "build_id": "6861f8ca-3e80-44c4-9d10-9969d29710f6",
+   "author_id": "22e1c7dc-6ae6-4158-a392-de106c22bfab",
+   "parent_id": "1ed6f31a-64f3-4a4b-88b8-bd5ab5ee4e6d",
+   "body": "Thanks! Im not 60 yet so I didnt noticed the talents on the bottom couldn't be selected like that. Now its fixed :)",
+   "upvotes": 1,
+   "created_at": "2026-07-20T21:57:03.129848+00:00",
+   "updated_at": "2026-07-20T21:57:16.676461+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "22e1c7dc-6ae6-4158-a392-de106c22bfab",
+    "username": "MJ .C.H.",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocI7A72O7qNQrB_WvG5GDFzkGOEKmztZHuakIugcBWS2H_uaxHRN=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "8a699a3b-7b56-4c2e-b377-056550e943da",
+   "title": "Venomancer spaider pvp HR",
+   "class_id": 29,
+   "spec_id": 77,
+   "author_id": "7acc8832-e435-4336-ad7c-12df3acd4503",
+   "tags": [
+    "PVP    1V1    HR"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 2,
+   "view_count": 425,
+   "featured": false,
+   "created_at": "2026-07-28T17:33:39.566795+00:00",
+   "updated_at": "2026-07-29T13:17:32.619+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "7acc8832-e435-4336-ad7c-12df3acd4503",
+    "username": "hanselduck",
+    "avatar_url": "https://cdn.discordapp.com/avatars/278988578824912896/343e90e1f7578a4c7a79cda593b6d092.png"
+   }
+  },
+  {
+   "id": "ef1b937f-05be-41b5-85c8-289ceb816d31",
+   "title": "Venomencer Stalker",
+   "class_id": 29,
+   "spec_id": 77,
+   "author_id": "b64cdf8a-1b04-41db-bd9f-d701cc06949a",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1104,
+   "featured": false,
+   "created_at": "2026-07-22T17:36:54.158109+00:00",
+   "updated_at": "2026-07-22T17:36:54.158109+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "b64cdf8a-1b04-41db-bd9f-d701cc06949a",
+    "username": "drafras",
+    "avatar_url": "https://cdn.discordapp.com/avatars/552239173713788939/7bfdd82e711f53b8995d2ab4b11db3d6.png"
+   }
+  },
+  {
+   "id": "e33d7ed1-5f79-45e4-9527-5f3e3246cda7",
+   "title": "Venomancer Spider Lord Tank (End Game Tank Spec)",
+   "class_id": 29,
+   "spec_id": 78,
+   "author_id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+   "tags": [
+    "Venomancer",
+    "Fortitude",
+    "Beetle",
+    "Tank"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 2,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 1533,
+   "featured": false,
+   "created_at": "2026-07-21T18:18:12.502705+00:00",
+   "updated_at": "2026-07-28T13:20:33.211+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+    "username": "ironhorse2",
+    "avatar_url": "https://cdn.discordapp.com/avatars/113811060129005572/bafc4c8b6e838f22795d63c6f089e207.png"
+   }
+  }
+ ],
+ "class": "Venomancer",
+ "spec": "Vizier",
+ "allocations": [
+  [
+   "29-92-4-0",
+   1
+  ],
+  [
+   "29-92-10-0",
+   1
+  ],
+  [
+   "29-92-10-2",
+   1
+  ],
+  [
+   "29-92-4-1",
+   1
+  ],
+  [
+   "29-92-6-2",
+   2
+  ],
+  [
+   "29-92-2-2",
+   1
+  ],
+  [
+   "29-92-7-3",
+   1
+  ],
+  [
+   "29-92-3-3",
+   2
+  ],
+  [
+   "29-92-1-4b",
+   1
+  ],
+  [
+   "29-92-3-4",
+   2
+  ],
+  [
+   "29-92-10-4",
+   1
+  ],
+  [
+   "29-92-4-5",
+   1
+  ],
+  [
+   "29-92-4-6",
+   1
+  ],
+  [
+   "29-92-4-7",
+   1
+  ],
+  [
+   "29-92-10-6",
+   1
+  ],
+  [
+   "29-92-1-5",
+   1
+  ],
+  [
+   "29-92-0-6",
+   2
+  ],
+  [
+   "29-92-10-8",
+   1
+  ],
+  [
+   "29-87-7-0",
+   1
+  ],
+  [
+   "29-87-5-1",
+   1
+  ],
+  [
+   "29-87-5-2",
+   1
+  ],
+  [
+   "29-87-7-3",
+   1
+  ],
+  [
+   "29-87-8-2",
+   2
+  ],
+  [
+   "29-87-4-0",
+   1
+  ],
+  [
+   "29-87-3-1",
+   2
+  ],
+  [
+   "29-87-3-2",
+   1
+  ],
+  [
+   "29-87-6-4",
+   1
+  ],
+  [
+   "29-87-7-5",
+   1
+  ],
+  [
+   "29-87-8-6",
+   1
+  ],
+  [
+   "29-87-7-7",
+   1
+  ],
+  [
+   "29-87-4-3",
+   1
+  ],
+  [
+   "29-87-4-4",
+   1
+  ],
+  [
+   "29-87-3-5",
+   1
+  ],
+  [
+   "29-87-2-6",
+   1
+  ],
+  [
+   "29-87-5-5",
+   1
+  ],
+  [
+   "29-87-1-7a",
+   1
+  ],
+  [
+   "29-87-8-4",
+   1
+  ],
+  [
+   "29-87-4-7",
+   1
+  ],
+  [
+   "29-87-2-4",
+   2
+  ],
+  [
+   "29-87-6-8",
+   1
+  ],
+  [
+   "29-87-7-9",
+   1
+  ],
+  [
+   "29-92-7-4b",
+   1
+  ],
+  [
+   "29-92-7-5",
+   2
+  ],
+  [
+   "29-92-6-6",
+   1
+  ],
+  [
+   "29-92-5-3",
+   1
+  ],
+  [
+   "29-92-7-7a",
+   1
+  ],
+  [
+   "29-92-6-8",
+   1
+  ],
+  [
+   "29-92-6-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "29-92-4-0",
+   "points": 1,
+   "name": "Alkahest",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 504342
+  },
+  {
+   "id": "29-92-10-0",
+   "points": 1,
+   "name": "Shadra's Vigil",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 680800
+  },
+  {
+   "id": "29-92-10-2",
+   "points": 1,
+   "name": "Spiritual Healing",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 706211
+  },
+  {
+   "id": "29-92-4-1",
+   "points": 1,
+   "name": "Mycelial Healing",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 806449
+  },
+  {
+   "id": "29-92-6-2",
+   "points": 2,
+   "name": "Shadra's Gift",
+   "maxPoints": 2,
+   "tree": "Vizier",
+   "spellId": 706937
+  },
+  {
+   "id": "29-92-2-2",
+   "points": 1,
+   "name": "Mending Mist",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 800899
+  },
+  {
+   "id": "29-92-7-3",
+   "points": 1,
+   "name": "Ritualistic",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 503918
+  },
+  {
+   "id": "29-92-3-3",
+   "points": 2,
+   "name": "Fang Blessing",
+   "maxPoints": 2,
+   "tree": "Vizier",
+   "spellId": 503970
+  },
+  {
+   "id": "29-92-1-4b",
+   "points": 1,
+   "name": "Good Venom",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 680797
+  },
+  {
+   "id": "29-92-3-4",
+   "points": 2,
+   "name": "Soothing Venoms",
+   "maxPoints": 2,
+   "tree": "Vizier",
+   "spellId": 707726
+  },
+  {
+   "id": "29-92-10-4",
+   "points": 1,
+   "name": "Vizier Form",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 504798
+  },
+  {
+   "id": "29-92-4-5",
+   "points": 1,
+   "name": "Mycelial Replenishment",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 706021
+  },
+  {
+   "id": "29-92-4-6",
+   "points": 1,
+   "name": "Shadra's Presence",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 504348
+  },
+  {
+   "id": "29-92-4-7",
+   "points": 1,
+   "name": "Extraction",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 805884
+  },
+  {
+   "id": "29-92-10-6",
+   "points": 1,
+   "name": "Occultist",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 504339
+  },
+  {
+   "id": "29-92-1-5",
+   "points": 1,
+   "name": "Spirit of the Jungle",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 681048
+  },
+  {
+   "id": "29-92-0-6",
+   "points": 2,
+   "name": "Advisor's Perfidy",
+   "maxPoints": 2,
+   "tree": "Vizier",
+   "spellId": 300684
+  },
+  {
+   "id": "29-92-10-8",
+   "points": 1,
+   "name": "Ritual Healing",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 681047
+  },
+  {
+   "id": "29-87-7-0",
+   "points": 1,
+   "name": "Green Salve",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800902
+  },
+  {
+   "id": "29-87-5-1",
+   "points": 1,
+   "name": "Playing With Poison",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 707563
+  },
+  {
+   "id": "29-87-5-2",
+   "points": 1,
+   "name": "Hallucinogenic Venom",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 560188
+  },
+  {
+   "id": "29-87-7-3",
+   "points": 1,
+   "name": "Shadra's Balm",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800901
+  },
+  {
+   "id": "29-87-8-2",
+   "points": 2,
+   "name": "Tranquil Essence",
+   "maxPoints": 2,
+   "tree": "Venomancer (class tree)",
+   "spellId": 504799
+  },
+  {
+   "id": "29-87-4-0",
+   "points": 1,
+   "name": "Envenomed Weapons",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 300855
+  },
+  {
+   "id": "29-87-3-1",
+   "points": 2,
+   "name": "Acute Senses",
+   "maxPoints": 2,
+   "tree": "Venomancer (class tree)",
+   "spellId": 300664
+  },
+  {
+   "id": "29-87-3-2",
+   "points": 1,
+   "name": "Genesis",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705962
+  },
+  {
+   "id": "29-87-6-4",
+   "points": 1,
+   "name": "Tome of Ahn'kahet",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705993
+  },
+  {
+   "id": "29-87-7-5",
+   "points": 1,
+   "name": "Adrenal Venom",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 805775
+  },
+  {
+   "id": "29-87-8-6",
+   "points": 1,
+   "name": "Venomizer",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 680794
+  },
+  {
+   "id": "29-87-7-7",
+   "points": 1,
+   "name": "Lifeblood",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 804963
+  },
+  {
+   "id": "29-87-4-3",
+   "points": 1,
+   "name": "Spindlebind",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800887
+  },
+  {
+   "id": "29-87-4-4",
+   "points": 1,
+   "name": "Skin Shedder",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705949
+  },
+  {
+   "id": "29-87-3-5",
+   "points": 1,
+   "name": "Fury of Anub'Rekhan",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800894
+  },
+  {
+   "id": "29-87-2-6",
+   "points": 1,
+   "name": "Venomancy Expert",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 706027
+  },
+  {
+   "id": "29-87-5-5",
+   "points": 1,
+   "name": "Empowering Pheromones",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705996
+  },
+  {
+   "id": "29-87-1-7a",
+   "points": 1,
+   "name": "Relentless",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 578320
+  },
+  {
+   "id": "29-87-8-4",
+   "points": 1,
+   "name": "Blightcap Injestion",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 560282
+  },
+  {
+   "id": "29-87-4-7",
+   "points": 1,
+   "name": "Burrow",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 806154
+  },
+  {
+   "id": "29-87-2-4",
+   "points": 2,
+   "name": "Versatile and Deadly",
+   "maxPoints": 2,
+   "tree": "Venomancer (class tree)",
+   "spellId": 681052
+  },
+  {
+   "id": "29-87-6-8",
+   "points": 1,
+   "name": "Surprise Strategy",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 706035
+  },
+  {
+   "id": "29-87-7-9",
+   "points": 1,
+   "name": "Toxic Stride",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 504347
+  },
+  {
+   "id": "29-92-7-4b",
+   "points": 1,
+   "name": "Venomcult Scrolls",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 707574
+  },
+  {
+   "id": "29-92-7-5",
+   "points": 2,
+   "name": "Bountiful Gifts",
+   "maxPoints": 2,
+   "tree": "Vizier",
+   "spellId": 706009
+  },
+  {
+   "id": "29-92-6-6",
+   "points": 1,
+   "name": "Blight Antidote",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 520153
+  },
+  {
+   "id": "29-92-5-3",
+   "points": 1,
+   "name": "Fangbinder",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 560195
+  },
+  {
+   "id": "29-92-7-7a",
+   "points": 1,
+   "name": "Sublime Extraction",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 681320
+  },
+  {
+   "id": "29-92-6-8",
+   "points": 1,
+   "name": "Serpent Lord's Amulet",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 800914
+  },
+  {
+   "id": "29-92-6-9",
+   "points": 1,
+   "name": "Serpent Lord's Ritual",
+   "maxPoints": 1,
+   "tree": "Vizier",
+   "spellId": 706018
+  }
+ ]
+}

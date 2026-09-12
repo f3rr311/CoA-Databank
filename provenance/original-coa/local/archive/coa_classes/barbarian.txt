@@ -1,0 +1,52 @@
+Barbarian Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Barbarian Overview
+ Barbarians are CoA's most approachable class with Unbridled Rage driving enraged burst windows. Brutality delivers satisfying melee cleave, Headhunting throws axes and spears from range, and Ancestry buffs allies through Vrykul heritage. Share drinks with allies for temporary group buffs in a raging good time.
+ Savage berserker cleaving foes with axes and spears, sharing ale with allies for temporary buffs.
+ Class Mechanic — Unbridled Rage
+ Barbarians build rage in combat and become Enraged after critical strikes — certain abilities require enraged state.
+ Barbarian uses Rage as its primary resource and wears Leather armor.
+ Specializations
+ At level 10, Barbarian players choose one of three specializations, each offering a distinct playstyle:
+ Ancestry: Call on Vrykul divine ancestors to buff allies while carving foes with a frost axe and ale-fueled celebrations.
+ Brutality: Unstoppable savage fighter tearing through foes with massive cleave using 2H weapons or dual wield.
+ Headhunting: Throw axes and spears from distance, unleashing deadly bleeds before enemies reach you.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Simplest class to learn
+ Strength: Brutality strong AoE cleave
+ Strength: Ancestry Support buffs for groups
+ Weakness: Limited crowd control
+ Weakness: Headhunting requires kiting skill
+ Weakness: Lower sustain than other melee
+ Leveling Tips
+ Brutality is the recommended beginner spec — simple rotation, strong AoE, leather armor. Build rage on packs before using enraged abilities.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Brutality cleave dominates battleground team fights. Headhunting kiting frustrates melee opponents in arena.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Barbarian in Conquest of Azeroth? Barbarian is a Melee DPS / Support class wearing Leather armor with Rage as its resource.
+ What is the Unbridled Rage mechanic? Barbarians build rage in combat and become Enraged after critical strikes — certain abilities require enraged state.
+ When do Barbarian specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Barbarian good for beginners? Yes, Barbarian is considered beginner-friendly with approachable mechanics.
+ What specs does Barbarian have? Barbarian has three specializations: Ancestry, Brutality, Headhunting.

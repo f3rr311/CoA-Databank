@@ -1,0 +1,8 @@
+{
+  "name_enus": "Collect Bounty",
+  "icon": "inv_misc_coin_01",
+  "tooltip_enus": "<table><tr><td><b>Collect Bounty</b><br />20 Rage<br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Weapon<br /><span class=\"q\">Deals 100% Weapon Damage plus 40+(PL*4.66-15*4.66) to an enemy.<br /><br />Only usable on enemies below 20% health and when used it enables abilities that requires <span style=\"color: #ffffff;\">Coiling Shot</span>.</span></td></tr></table><!--?805761:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

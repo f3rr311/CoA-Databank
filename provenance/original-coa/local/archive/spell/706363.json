@@ -1,0 +1,8 @@
+{
+  "name_enus": "Casting Cuffs",
+  "icon": "inv_bracer_25",
+  "tooltip_enus": "<table><tr><td><b>Casting Cuffs</b><br />8% of base mana<br />1&nbsp;min cooldown</td></tr></table><table><tr><td><span class=\"q\">Increases spell haste by 20% and makes you immune to silence and interrupt effects for 6&nbsp;sec.</span></td></tr></table><!--?706363:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

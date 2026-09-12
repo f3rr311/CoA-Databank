@@ -1,0 +1,8 @@
+{
+  "name_enus": "Immolation Aura",
+  "icon": "spell_fire_felimmolation",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Immolation Aura</b></td><th><b class=\"q0\">Power Burn</b></th></tr></table>0 Energy, plus 10 per sec<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Wreathe yourself in fire for up to until cancelled, dealing 1+0+FireP*.3+AP*.23 Fire Damage to nearby enemies every 1 sec.</span></td></tr></table><!--?800218:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

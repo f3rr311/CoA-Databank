@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dark Effigy",
+  "icon": "nhi_magicvoodoo_border",
+  "tooltip_enus": "<table><tr><td><b>Dark Effigy</b><br />9% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Summon an effigy at target location for 20&nbsp;sec that causes any damage dealt to it by you to be radiated around it to enemies within 6 yds.</span></td></tr></table><!--?805361:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

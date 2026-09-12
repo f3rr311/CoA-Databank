@@ -1,0 +1,8 @@
+{
+  "name_enus": "Nature's Call",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Nature's Call</b><br />3% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Call upon the aggressive nature within, leading up to 3 enemies attacking the ally target to attack the Primalist instead for 3&nbsp;sec.</span></td></tr></table><!--?800146:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

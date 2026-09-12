@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sun Gate",
+  "icon": "ability_paladin_blindinglight2",
+  "tooltip_enus": "<table><tr><td><b>Sun Gate</b><br />27% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Shift 25 yds forward at light speed, removing all root effects.<br /><br />This leaves behind a <span style=\"color: #ffffff;\">Sun Gate</span> for 15&nbsp;sec that allies can interact with to blink themselves the same distance forward. Allies can only use <span style=\"color: #ffffff;\">Sun Gate</span> every 1&nbsp;min.</span></td></tr></table><!--?802161:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

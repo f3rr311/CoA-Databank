@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shrink Ally",
+  "icon": "ability_creature_cursed_01",
+  "tooltip_enus": "<table><tr><td><b>Shrink Ally</b><br />15% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Shrink an ally for 8&nbsp;sec, increasing their dodge chance by 50%. </span></td></tr></table><!--?806282:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

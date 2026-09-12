@@ -1,0 +1,8 @@
+{
+  "name_enus": "Alteration",
+  "icon": "nhi_arcanesmoke_border",
+  "tooltip_enus": "<table><tr><td><b>Alteration</b><br />8% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Mark an enemy for 4&nbsp;sec, after this duration deal 93+PL*2.5+FroP*0.548609 Frost damage and root them for 6&nbsp;sec.<br /><br />When the root occurs, your <span style=\"color: #ffffff;\">Runic Familiar</span> teleports behind them.</span></td></tr></table><!--?800308:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

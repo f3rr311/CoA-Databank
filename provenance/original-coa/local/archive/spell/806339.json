@@ -1,0 +1,8 @@
+{
+  "name_enus": "Archaeology",
+  "icon": "inv_pick_05",
+  "tooltip_enus": "<table><tr><td><b>Archaeology</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Causes wand attacks to grant <span style=\"color: #ffffff;\">Sands of Time</span>.</span></td></tr></table><!--?806339:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

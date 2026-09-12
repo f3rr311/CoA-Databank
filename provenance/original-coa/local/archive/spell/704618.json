@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vicious Maw",
+  "icon": "inv_misc_monsterfang_02",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Vicious Maw</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown <span style=\"color: #FFFFFF;\">Monstrous Hunter</span> by 30 sec.</span></td></tr></table><!--?704618:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

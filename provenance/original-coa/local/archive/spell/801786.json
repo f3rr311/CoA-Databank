@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rampage",
+  "icon": "spell_warrior_barbarian",
+  "tooltip_enus": "<table><tr><td><b>Rampage</b><br />10% of base <br />Instant</td></tr></table><table><tr><td><span class=\"q\">Instantly strikes an enemy for 4 to 5 Physical damage based on Agility and applies <span style=\"color: #ffffff;\">Carnage</span>.<br /><br />Only usable while Enraged.</span></td></tr></table><!--?801786:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

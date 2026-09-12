@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dusk Blade",
+  "icon": "novart_passivemastery_%286%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dusk Blade</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Rage<br />Instant</td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\">Strike an enemy with both weapons, dealing Weapon Damage plus 10+ShaP*0.15 Shadow damage, piercing resistances. Heals for 25% of damage dealt.</span></td></tr></table><!--?802020:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

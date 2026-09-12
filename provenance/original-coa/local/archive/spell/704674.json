@@ -1,0 +1,8 @@
+{
+  "name_enus": "Frigid Ward",
+  "icon": "spell_mage_temporalshield",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Frigid Ward</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Command: Grave Mage</span> now casts <span style=\"color: #ffffff;\">Frigid Ward</span> on you and all of your Undead minions.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_mage_temporalshield.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=501982'> Frigid Ward </a> <br />\n                            <span> Shield an ally with a glacial ward, absorbing 193+0+SP*0.2 damage for up to 20&nbsp;sec.<br /><br />Damage taken applies <span style=\"color: #ffffff;\">Deathchill</span> to attackers and reduces their movement speed by 30% for 2&nbsp;sec.</span><br /></span></td></tr></table><!--?704674:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

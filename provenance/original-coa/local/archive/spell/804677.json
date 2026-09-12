@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wailing Soul",
+  "icon": "achievement_halloween_ghost_01",
+  "tooltip_enus": "<table><tr><td><b>Wailing Soul</b><br /><table width=\"100%\"><tr><td>Channeled</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Summon a <span style=\"color: #ffffff;\">Wailing Soul</span> that you can directly control for 10&nbsp;sec. <br /><br />The soul can see stealthed enemies, and will possess the first enemy it makes contact with, stunning them for a short time and dealing massive Shadow damage.<br /><br />Summoning the soul will not remove you from <span style=\"color: #ffffff;\">Underwalk</span>, but if it makes contact with an enemy <span style=\"color: #ffffff;\">Underwalk</span> will fade.</span></td></tr></table><!--?804677:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

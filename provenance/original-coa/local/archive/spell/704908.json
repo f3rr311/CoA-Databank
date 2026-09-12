@@ -1,0 +1,8 @@
+{
+  "name_enus": "Burning Heat",
+  "icon": "spell_holy_devineaegis",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Burning Heat</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Sunflare</span> now has a 30% chance to  transform your next <span style=\"color: #ffffff;\">Sunflare</span> into <span style=\"color: #ffffff;\">Sun Ray</span>.<br /><br />Casting <span style=\"color: #ffffff;\">Horusath Blast</span> is now guaranteed to transform your next <span style=\"color: #ffffff;\">Sunflare</span> into <span style=\"color: #ffffff;\">Sun Ray</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/paladin_icon_speedoflight.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=504764'> Sun Ray </a> <br />\n                            <span> Shine the light of the sun on an enemy, dealing 773+0+HolP*1 Holy Damage and granting you <span style=\"color: #ffffff;\">Scorch Marks</span>.</span><br /></span></td></tr></table><!--?704908:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

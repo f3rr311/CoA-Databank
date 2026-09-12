@@ -1,0 +1,8 @@
+{
+  "name_enus": "Halt",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Halt</b><br />11% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Interrupt an enemy's current spellcast and prevents any spell in that school from being cast for 3&nbsp;sec.</span></td></tr></table><!--?805432:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

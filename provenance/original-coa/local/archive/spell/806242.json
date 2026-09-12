@@ -1,0 +1,8 @@
+{
+  "name_enus": "Insulate",
+  "icon": "_monkability_uplift_xuenwhite",
+  "tooltip_enus": "<table><tr><td><b>Insulate</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cc99ff;\">Depletes 20 Static</span><br />Shields an ally's spellcasting for 8&nbsp;sec, granting immunity to interrupt effects and silence effects, removing any such effects when used.</span></td></tr></table><!--?806242:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

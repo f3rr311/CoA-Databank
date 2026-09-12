@@ -1,0 +1,8 @@
+{
+  "name_enus": "Weaver Form",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Weaver Form</b></td><th><b class=\"q0\">Shapeshift</b></th></tr></table>30% of base mana<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Shapeshift into <span style=\"color: #ffffff;\">Weaver Form</span>, allowing your periodic effects to benefit from spell haste, reducing spell pushback suffered from damaging attacks by 70%, and giving periodic damage dealt a 5% chance to restore 5% of your missing mana.<br /><br />Cannot use healing spells while in <span style=\"color: #ffffff;\">Weaver Form</span>.</span></td></tr></table><!--?804980:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

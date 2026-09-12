@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Ancestral Combat",
+  "icon": "inv_axe_82",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Improved Ancestral Combat</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the Energy cost of your <span style=\"color: #ffffff;\">Ancestral Combat</span> by 10 and allows it to trigger 3 additional times.</span></td></tr></table><!--?705209:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

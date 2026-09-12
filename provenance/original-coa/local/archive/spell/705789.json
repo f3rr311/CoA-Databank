@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bombs? BOMBS!",
+  "icon": "inv_misc_bomb_04",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bombs? BOMBS!</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the detonation speed of <span style=\"color: #ffffff;\">Sticky Bomb</span> by 1 sec and reduces its cooldown by 2 sec.</span></td></tr></table><!--?705789:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Volcanic Shell",
+  "icon": "nhi_firestone_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Volcanic Shell</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>15% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ff7f7f;\">Generates 50 Heat</span><br />Conjure a shield of magma and fire around you, absorbing 500+0+FireP*2 damage. Lasts 10&nbsp;sec.</span></td></tr></table><!--?805477:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

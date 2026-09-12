@@ -1,0 +1,8 @@
+{
+  "name_enus": "Standard of Supremacy",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Standard of Supremacy</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">A nearby Standard of Supremacy is granting additional damage dealt on attacks.</span></td></tr></table><!--?500299:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

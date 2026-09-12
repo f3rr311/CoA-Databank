@@ -1,0 +1,667 @@
+{
+ "build": {
+  "id": "1d87071f-fb69-4034-8864-0126032d4e69",
+  "title": "Boltslinger - Twilight Frenzy AoE",
+  "description": "[overview]\nThis build specialises in AoE dungeon settings and is primarily using Twilight Frenzy for AoE and Witchbane for Single Target. If you've played Diablo III and enjoyed Demon Hunter, this could feel very familiar.\nBuild is highly effective provided the tank is pulling large packs of at least 3-4 mobs. Any less, and you won't have infinite rage to use Twilight Frenzy. \n\n**Pros:**\n+High AoE capability\n+Easy rotation\n+High mobility\n+AoE Stun/Silence\n\n**Cons:**\n-Spinning constantly\n-Requires tank behaviour\n-Poor survivability\n\n## Abilities\n**Spells used to deal damage: AoE**\n1. Twilight Frenzy\n2. Tormentor (with talent to spread it)\n3. Caltrops\n4. Shadow Trap\n5. Scourge Frenzy\n\n**Spells used to deal damage: Single Target**\n1. Witchbane\n2. Heartseeking Bolt\n3. Tormentor\n4. Scourge Trap\n5. Shadow Trap\n6. Death Trap\n7. Brand of the Damned\n8. Darkslayer\n\n**Utility Spells:**\n1. Shadow Trap - AoE stun (use to stabilise damage on tank)\n2. Inquisitor's Trap - AoE silence (use on casters out of the pack) \n3. Caltrops - AoE slow (use to stabilise damage on tank)\n4. Burrow Bolt - Drag that loose caster into the blender pack\n\n**How to get more rage:**\n1. Dark Regeneration\n2. Tonics + Regenerative Elixirs talent in class tree\n3. Darkslayer\n\n[talents]\nThere are no Capstone talents for this build. The 25th point will go into Contract Killing. The majority of your casts will be Twilight Frenzy, and none of the Capstones play well with it during AoE sequences. You could pick up Bounty Hunter or Heavy Crossbows in its place for single target, but you'll get more out of Contract Killing overall in a dungeon setting.\n\n**Tormentor + Strafing Shot:**\nYou can spread the Tormentor DoT to nearby enemies when you critically strike. This includes Twilight Frenzy. During AoE set up/the pull you can Darkslayer/Rage CD > Tormentor and then start Twilight Frenzy to spread. This will become even better when you hit level 50 (Tormenting the Tormented) and as you get more crit.\n\n**Crossbow Frenzy:**\nYou will want the movement speed to keep up with certain tanks in a dungeon. Being able to catch up and use frenzy while the tank grabs more mobs to throw into the blender has very high potential damage.\n\n**Everything you Have:**\nMore damage on Twilight Frenzy.\n\n**Arbalest Mastery:**\nOn single target Witchbane is your main damage dealer. This will put a stacking debuff up to 10 on the target. Probably works with other WHs as well because it's a debuff on a target (ie Sunder). Get 50 rage and spam it. You can use Dark Regeneration/Tonics (with Regenerative Elixirs talent) to keep firing infinitely.\n\n**Rapid:**\nYou don't need Witchbane to do AoE when you have Twilight Frenzy. Instead, make it Rapid so you can boost your boss and single target damage.\n\n**Bane of Witches:**\nBoth Witchbane and Twilight Frenzy are physical damage. Heartseeking Arrow is primarily used on CD during Single Target for the +10% physical damage dealt. You may also get some use out of it as an effective filler cast while the tank is rounding up mobs and it isn't safe to Twilight Frenzy yet.\n\n[rotation]\n## AoE Rotation\nWhile the tank grabs the mobs use Darkslayer once for rage or Heartseeking Bolt if you have more than 50 rage. Use Tormentor and then get ready to blend. Use Scourge/Shadow Trap once everything is stacked tight. Use Scourge Trap/Holy Water Tonic for undead/demons.\n\n- Darkslayer/Heartseeking Bolt > Tormentor > Dark Regeneration/Holy Water Tonic > Twilight Frenzy until everything stacked > Scourge/Shadow Trap > Twilight Frenzy (until only 1 mob left)\n\n\n## Single Target Rotation\nYou are keeping the Heartseeking Bolt +10% phys damage buff up on yourself, ensuring Tormentor is always ticking and using Witchbane as much as possible. Use your rage generators (tonics/Dark Regen) to avoid having to Darkslayer as required.\n\n- Heartseeking Bolt > Tormentor > Dark Regeneration/Holy Water Tonic > Witchbane x6 > Refresh Tormentor + Caltrops > Refresh Heartseeking Bolt > Witchbane x6 > Refresh Tormentor\n\n[macros]\n**Twilight Frenzy:**\n#showtooltip\n/stopmacro [channeling:Twilight Frenzy]\n/cast Twilight Frenzy\n/stopcasting\n\n**Caltrops:**\n#showtooltip\n/cast [mod:alt]Bola Throw;[@cursor]Caltrops\n\n[tips]\nFeeling overwhelmed by the amount of abilities? You can basically take Shadowblast off your bars.\n\nYou can cancel your Twilight Frenzy channel by using an instant cast.\n\nUse your traps! The Scourge Trap is actually insane damage on Undead mobs and Brand of the Damned is basically a better Shadow Word: Death.\n\nSome tanks get shitty when you start attacking before they've hit the mob. Just be aware and try to space yourself. If it's unsafe, don't Twilight Frenzy yet. Build some rage, get a Heartseeking buff. Ideally, the tank should be hitting the mobs as they run by so you can Twilight Frenzy almost immediately even as they continue to gather mobs up.",
+  "class_id": 15,
+  "spec_id": 39,
+  "author_id": "cd5aad93-fb21-4bba-bca5-05eebfc031cd",
+  "talent_string": "W1siMTUtODctMi0wIiwxXSxbIjE1LTg3LTMtMSIsMl0sWyIxNS04Ny0zLTIiLDFdLFsiMTUtODctNC0zIiwxXSxbIjE1LTg3LTQtMCIsMV0sWyIxNS04Ny02LTAiLDFdLFsiMTUtODctNy0xIiwyXSxbIjE1LTg3LTYtMyIsMV0sWyIxNS04Ny01LTQiLDFdLFsiMTUtODctMS0xIiwxXSxbIjE1LTg3LTItMyIsMV0sWyIxNS04Ny0zLTQiLDFdLFsiMTUtODctNy00YiIsMV0sWyIxNS04Ny00LTUiLDFdLFsiMTUtODctMi02IiwxXSxbIjE1LTg3LTMtNyIsMV0sWyIxNS04Ny02LTYiLDFdLFsiMTUtODctNS03IiwyXSxbIjE1LTg3LTEtNCIsMV0sWyIxNS04Ny0xLTUiLDFdLFsiMTUtODctNy03IiwxXSxbIjE1LTg3LTUtOCIsMV0sWyIxNS04Ny00LTkiLDFdLFsiMTUtMzktNC0wIiwxXSxbIjE1LTM5LTYtMSIsMl0sWyIxNS0zOS03LTMiLDFdLFsiMTUtMzktMi0xIiwxXSxbIjE1LTM5LTQtMiIsMV0sWyIxNS0zOS00LTMiLDNdLFsiMTUtMzktOC00IiwxXSxbIjE1LTM5LTctNSIsMV0sWyIxNS0zOS02LTRhIiwxXSxbIjE1LTM5LTgtNmIiLDFdLFsiMTUtMzktNi02IiwxXSxbIjE1LTM5LTUtNCIsMV0sWyIxNS0zOS00LTUiLDJdLFsiMTUtMzktMi02IiwxXSxbIjE1LTM5LTMtNyIsMV0sWyIxNS0zOS01LTciLDFdLFsiMTUtMzktNy03IiwyXSxbIjE1LTM5LTctOCIsMV0sWyIxNS0zOS0xLTgiLDFdLFsiMTUtMzktMy00IiwxXV0",
+  "tags": [
+   "Dungeons",
+   "Leveling"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 1,
+  "created_at": "2026-07-18T22:11:25.994838+00:00",
+  "updated_at": "2026-07-19T12:07:03.503+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1600,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "cd5aad93-fb21-4bba-bca5-05eebfc031cd",
+   "username": "Sol",
+   "avatar_url": "https://cdn.discordapp.com/avatars/427470056763686922/bced0e1991aace1829a448e93a356bfd.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "0decff2f-e17d-4d3b-a503-afbfd49af50b",
+   "build_id": "1d87071f-fb69-4034-8864-0126032d4e69",
+   "author_id": "56245248-83a6-4a00-b49e-29ad46939907",
+   "parent_id": null,
+   "body": "Hey how does the stats priority work for boltslinger ?",
+   "upvotes": 0,
+   "created_at": "2026-07-21T16:02:48.123247+00:00",
+   "updated_at": "2026-07-21T16:02:48.123247+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "56245248-83a6-4a00-b49e-29ad46939907",
+    "username": "Marques sebastien",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLRhDUA1sdGu9_6MYjQcdFtLH0jVcDBWshcIsCGcwFVcjgA7-8=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "c2e715e7-955a-4ac2-8c63-b4a324bde5a4",
+   "title": "PvP Inquisition Witch Hunter - Flourish One Deeg",
+   "class_id": 15,
+   "spec_id": 41,
+   "author_id": "646d7b60-2024-4e0a-80bb-9d44bde93e7d",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 578,
+   "featured": false,
+   "created_at": "2026-07-27T03:50:02.290466+00:00",
+   "updated_at": "2026-07-27T03:50:02.290466+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "646d7b60-2024-4e0a-80bb-9d44bde93e7d",
+    "username": "Devin",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLlx1CcX8Kqv6IHa5gYMJ5gr_HuYND2dc8iiF4ptI7X3n3bt8c=s96-c"
+   }
+  },
+  {
+   "id": "e4e89e4c-e64d-41df-b93a-62e7a56fc887",
+   "title": "Houndmaster Deep Dive: Talents, Rotation, Macros, Tips.",
+   "class_id": 15,
+   "spec_id": 40,
+   "author_id": "8c36ddd8-f036-49e0-ab3c-83c64f77036e",
+   "tags": [
+    "leveling",
+    "aoe",
+    "dungeons"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1316,
+   "featured": false,
+   "created_at": "2026-07-25T03:07:22.148958+00:00",
+   "updated_at": "2026-07-30T09:18:21.694+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "8c36ddd8-f036-49e0-ab3c-83c64f77036e",
+    "username": "brandonenjoyer.",
+    "avatar_url": "https://cdn.discordapp.com/avatars/202225650130485248/0fd82d4536714f7dd9249a5882d9835a.png"
+   }
+  },
+  {
+   "id": "d4a7ebc9-3096-4026-987a-ac8f072d7562",
+   "title": "\"..and stay down!\" vibe build",
+   "class_id": 15,
+   "spec_id": 41,
+   "author_id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+   "tags": [
+    "raid",
+    "testing"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 357,
+   "featured": false,
+   "created_at": "2026-07-26T11:58:04.498286+00:00",
+   "updated_at": "2026-07-28T15:59:21.56+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+    "username": "bruttus_",
+    "avatar_url": "https://cdn.discordapp.com/avatars/716955228729245781/98ec4037a0a68fd624f2a4ad6069555b.png"
+   }
+  }
+ ],
+ "class": "Witch Hunter",
+ "spec": "Boltslinger",
+ "allocations": [
+  [
+   "15-87-2-0",
+   1
+  ],
+  [
+   "15-87-3-1",
+   2
+  ],
+  [
+   "15-87-3-2",
+   1
+  ],
+  [
+   "15-87-4-3",
+   1
+  ],
+  [
+   "15-87-4-0",
+   1
+  ],
+  [
+   "15-87-6-0",
+   1
+  ],
+  [
+   "15-87-7-1",
+   2
+  ],
+  [
+   "15-87-6-3",
+   1
+  ],
+  [
+   "15-87-5-4",
+   1
+  ],
+  [
+   "15-87-1-1",
+   1
+  ],
+  [
+   "15-87-2-3",
+   1
+  ],
+  [
+   "15-87-3-4",
+   1
+  ],
+  [
+   "15-87-7-4b",
+   1
+  ],
+  [
+   "15-87-4-5",
+   1
+  ],
+  [
+   "15-87-2-6",
+   1
+  ],
+  [
+   "15-87-3-7",
+   1
+  ],
+  [
+   "15-87-6-6",
+   1
+  ],
+  [
+   "15-87-5-7",
+   2
+  ],
+  [
+   "15-87-1-4",
+   1
+  ],
+  [
+   "15-87-1-5",
+   1
+  ],
+  [
+   "15-87-7-7",
+   1
+  ],
+  [
+   "15-87-5-8",
+   1
+  ],
+  [
+   "15-87-4-9",
+   1
+  ],
+  [
+   "15-39-4-0",
+   1
+  ],
+  [
+   "15-39-6-1",
+   2
+  ],
+  [
+   "15-39-7-3",
+   1
+  ],
+  [
+   "15-39-2-1",
+   1
+  ],
+  [
+   "15-39-4-2",
+   1
+  ],
+  [
+   "15-39-4-3",
+   3
+  ],
+  [
+   "15-39-8-4",
+   1
+  ],
+  [
+   "15-39-7-5",
+   1
+  ],
+  [
+   "15-39-6-4a",
+   1
+  ],
+  [
+   "15-39-8-6b",
+   1
+  ],
+  [
+   "15-39-6-6",
+   1
+  ],
+  [
+   "15-39-5-4",
+   1
+  ],
+  [
+   "15-39-4-5",
+   2
+  ],
+  [
+   "15-39-2-6",
+   1
+  ],
+  [
+   "15-39-3-7",
+   1
+  ],
+  [
+   "15-39-5-7",
+   1
+  ],
+  [
+   "15-39-7-7",
+   2
+  ],
+  [
+   "15-39-7-8",
+   1
+  ],
+  [
+   "15-39-1-8",
+   1
+  ],
+  [
+   "15-39-3-4",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "15-87-2-0",
+   "points": 1,
+   "name": "Vault",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 500085
+  },
+  {
+   "id": "15-87-3-1",
+   "points": 2,
+   "name": "Night Stalker",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 300792
+  },
+  {
+   "id": "15-87-3-2",
+   "points": 1,
+   "name": "Brimming Hatred",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705496
+  },
+  {
+   "id": "15-87-4-3",
+   "points": 1,
+   "name": "Evil Never Sleeps",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 804185
+  },
+  {
+   "id": "15-87-4-0",
+   "points": 1,
+   "name": "Shadow Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680238
+  },
+  {
+   "id": "15-87-6-0",
+   "points": 1,
+   "name": "Burrow Bolt",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802269
+  },
+  {
+   "id": "15-87-7-1",
+   "points": 2,
+   "name": "Combat Training",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680529
+  },
+  {
+   "id": "15-87-6-3",
+   "points": 1,
+   "name": "Witchblood Tonic",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802278
+  },
+  {
+   "id": "15-87-5-4",
+   "points": 1,
+   "name": "Vengeful Intent",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705534
+  },
+  {
+   "id": "15-87-1-1",
+   "points": 1,
+   "name": "Night Walker",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 789256
+  },
+  {
+   "id": "15-87-2-3",
+   "points": 1,
+   "name": "Inquisitor's Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681445
+  },
+  {
+   "id": "15-87-3-4",
+   "points": 1,
+   "name": "Follow The Edict",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 503698
+  },
+  {
+   "id": "15-87-7-4b",
+   "points": 1,
+   "name": "Regenerative Elixirs",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705528
+  },
+  {
+   "id": "15-87-4-5",
+   "points": 1,
+   "name": "Brand of the Unworthy",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 501380
+  },
+  {
+   "id": "15-87-2-6",
+   "points": 1,
+   "name": "Strategist",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681156
+  },
+  {
+   "id": "15-87-3-7",
+   "points": 1,
+   "name": "Renegade",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 524812
+  },
+  {
+   "id": "15-87-6-6",
+   "points": 1,
+   "name": "Dark Intuition",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 806195
+  },
+  {
+   "id": "15-87-5-7",
+   "points": 2,
+   "name": "Alchemical Research",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705498
+  },
+  {
+   "id": "15-87-1-4",
+   "points": 1,
+   "name": "Trap Card",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680253
+  },
+  {
+   "id": "15-87-1-5",
+   "points": 1,
+   "name": "Death Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681450
+  },
+  {
+   "id": "15-87-7-7",
+   "points": 1,
+   "name": "Dark Souls",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802011
+  },
+  {
+   "id": "15-87-5-8",
+   "points": 1,
+   "name": "Slayer of Darkness",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 804024
+  },
+  {
+   "id": "15-87-4-9",
+   "points": 1,
+   "name": "Slayer's Mark",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 804068
+  },
+  {
+   "id": "15-39-4-0",
+   "points": 1,
+   "name": "Witchbane",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 800165
+  },
+  {
+   "id": "15-39-6-1",
+   "points": 2,
+   "name": "My Trusty Arbalest",
+   "maxPoints": 2,
+   "tree": "Boltslinger",
+   "spellId": 503682
+  },
+  {
+   "id": "15-39-7-3",
+   "points": 1,
+   "name": "Tormentor",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 800162
+  },
+  {
+   "id": "15-39-2-1",
+   "points": 1,
+   "name": "Mechanized Crossbows",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 705514
+  },
+  {
+   "id": "15-39-4-2",
+   "points": 1,
+   "name": "Heartseeking Bolt",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 805754
+  },
+  {
+   "id": "15-39-4-3",
+   "points": 3,
+   "name": "Rapid Reload",
+   "maxPoints": 3,
+   "tree": "Boltslinger",
+   "spellId": 705512
+  },
+  {
+   "id": "15-39-8-4",
+   "points": 1,
+   "name": "Strafing Shot",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 705515
+  },
+  {
+   "id": "15-39-7-5",
+   "points": 1,
+   "name": "Twilight Frenzy",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 805751
+  },
+  {
+   "id": "15-39-6-4a",
+   "points": 1,
+   "name": "Rapid",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 680323
+  },
+  {
+   "id": "15-39-8-6b",
+   "points": 1,
+   "name": "Crossbow Frenzy",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 705499
+  },
+  {
+   "id": "15-39-6-6",
+   "points": 1,
+   "name": "Enchanted Bolts",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 520548
+  },
+  {
+   "id": "15-39-5-4",
+   "points": 1,
+   "name": "Bane of Witches",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 500055
+  },
+  {
+   "id": "15-39-4-5",
+   "points": 2,
+   "name": "Heartless",
+   "maxPoints": 2,
+   "tree": "Boltslinger",
+   "spellId": 680326
+  },
+  {
+   "id": "15-39-2-6",
+   "points": 1,
+   "name": "Bringing the Law",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 705500
+  },
+  {
+   "id": "15-39-3-7",
+   "points": 1,
+   "name": "Arbalest Mastery",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 706240
+  },
+  {
+   "id": "15-39-5-7",
+   "points": 1,
+   "name": "Slayer",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 300968
+  },
+  {
+   "id": "15-39-7-7",
+   "points": 2,
+   "name": "Crossbow Expert",
+   "maxPoints": 2,
+   "tree": "Boltslinger",
+   "spellId": 680384
+  },
+  {
+   "id": "15-39-7-8",
+   "points": 1,
+   "name": "Everything You Have",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 503680
+  },
+  {
+   "id": "15-39-1-8",
+   "points": 1,
+   "name": "Contract Killing",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 705506
+  },
+  {
+   "id": "15-39-3-4",
+   "points": 1,
+   "name": "One Shot",
+   "maxPoints": 1,
+   "tree": "Boltslinger",
+   "spellId": 680331
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Hammer of Kings",
+  "icon": "custom_t_nhance_rpg_icons_holyhammer_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hammer of Kings</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>40 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\"><span style=\"color: #66ccff;\">Grants Motivation</span><br />Slam the ground, dealing 76+0+AP*0.4 Physical Damage, scaling with defense rating to nearby enemies<!--sp572714:0--><!--sp572714-->.<br /><br />Deals 0% increased damage to enemies affected by <span style=\"color: #ffffff;\">Line Formation</span>.</span></td></tr></table><!--?803132:1:1:80-->",
+  "spells_enus": {
+    "572714": [
+      [
+        "",
+        " and reducing their casting speed by 3% for 15&nbsp;sec"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

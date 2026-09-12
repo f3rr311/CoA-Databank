@@ -1,0 +1,8 @@
+{
+  "name_enus": "Eternal Hunt",
+  "icon": "inv_helm_cloth_raidpriest_l_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Eternal Hunt</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases your maximum health and reduces the cost of your spells and abilities by 5%.</span></td></tr></table><!--?804201:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

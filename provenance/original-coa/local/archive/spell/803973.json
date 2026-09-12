@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hammer of Life",
+  "icon": "inv_mace_1h_draenorraid_d_04green",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hammer of Life</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your melee attacks and abilities now heal up to 3 nearby allies and damage up to 3 nearby enemies equal to 20% of the damage dealt.</span></td></tr></table><!--?803973:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

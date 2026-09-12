@@ -1,0 +1,15 @@
+{
+  "name_enus": "Wreck Formation",
+  "icon": "6bf_explosive_shard",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Wreck Formation</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Melee critical strikes now have a 50% chance to reset the cooldown of <span style=\"color: #ffffff;\">Hammer of the Law</span>.<br /><br />Casting<!--sp803420:0--> <span style=\"color: #ffffff;\">Standard of Valiance</span><!--sp803420--> now increases your attack power by 10% for 6&nbsp;sec.</span></td></tr></table><!--?803126:1:1:80-->",
+  "spells_enus": {
+    "803420": [
+      [
+        " <span style=\"color: #ffffff\">Standard of Valiance</span>",
+        " <span style=\"color: #ffffff\">Hammer of Kings</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

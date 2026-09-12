@@ -1,0 +1,8 @@
+{
+  "name_enus": "Glimpse of Madness",
+  "icon": "ability_hunter_mastertactitian",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Glimpse of Madness</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Obliteration Beam</span> by 20% and it now applies <span style=\"color: #FFFFFF;\">Madness</span> to all targets struck. <br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_nzinsanity_chasedbyshadows.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804369'> Madness </a> <br />\n                            <span> Your <span style=\"color: #ffffff;\">Gaze of C'thun</span><!--sp805606:0--><!--sp805606--> causes 3% increased damage, stacks up to 5 times.</span><br /></span></td></tr></table><!--?500719:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

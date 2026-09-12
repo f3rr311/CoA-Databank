@@ -1,0 +1,8 @@
+{
+  "name_enus": "Witchblaster",
+  "icon": "_bigarcanegun_purple",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Witchblaster</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>999.9 Rage<br />1.5 sec cast</td></tr></table><table><tr><td>Requires Guns<br /><span class=\"q\">Blast an enemy for 140% Ranged Weapon Damage plus 35+0+RAP*0.2 as Shadow damage, ignoring absorption effects and resistances.</span></td></tr></table><!--?804184:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

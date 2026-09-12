@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bloodthirsty Rage",
+  "icon": "spell_winston_rage",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bloodthirsty Rage</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ec8201;\">Enrage Effect</span><br />Your melee auto attacks now have a 10% chance to enrage you for 8&nbsp;sec, increasing your Physical Damage dealt by 5%.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_warrior_focusedrage.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804337'> Barbaric Rage </a> <br />\n                            <span> While enraged, the global cooldown of Barbarian abilities is reduced by 30%.</span><br /></span></td></tr></table><!--?801766:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

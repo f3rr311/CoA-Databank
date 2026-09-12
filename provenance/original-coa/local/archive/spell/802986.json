@@ -1,0 +1,8 @@
+{
+  "name_enus": "Plague Horde",
+  "icon": "inv_belt_pvpwarlock_e_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Plague Horde</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by your Undead minions now has a 10% chance to cast <span style=\"color: #FFFFFF;\">Plague Horde</span> on themselves for 5&nbsp;sec and emit <span style=\"color: #ffffff;\">Zombie Plague</span>, dealing 79*$<scalingbp>+SP*0.1 Plague damage to their target.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_belt_pvpwarlock_e_01.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=807653'> Plague Horde </a> <br />\n                            <span> Enrage for 5&nbsp;sec, increasing their critical strike chance by 10%.</span><br /></span></td></tr></table><!--?802986:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

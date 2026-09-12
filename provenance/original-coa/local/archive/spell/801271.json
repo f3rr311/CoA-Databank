@@ -1,0 +1,8 @@
+{
+  "name_enus": "Continuum Restoration",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Continuum Restoration</b><br />60% of base mana<br /><table width=\"100%\"><tr><td>1.5 sec cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Restore the continuum at target location for all allies and enemies, removing all beneficial magic effects from enemies and harmful magic effects from allies.<br /><br />This dispel is potent enough to remove magic effects that are normally undispellable</span></td></tr></table><!--?801271:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

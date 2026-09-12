@@ -1,0 +1,8 @@
+{
+  "name_enus": "Leyline Rider",
+  "icon": "inv_enchanting_70_leylightcrystal",
+  "tooltip_enus": "<table><tr><td><b>Leyline Rider</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Warplink</span> and <span style=\"color: #ffffff;\">Warp Shift</span> by 20%.</span></td></tr></table><!--?805616:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

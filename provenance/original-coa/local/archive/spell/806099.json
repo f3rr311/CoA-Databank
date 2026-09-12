@@ -1,0 +1,8 @@
+{
+  "name_enus": "Aneurysm",
+  "icon": "spell_argus_psychic_scarring",
+  "tooltip_enus": "<table><tr><td><b>Aneurysm</b><br />10% of base <br /><table width=\"100%\"><tr><td>Instant cast</td><th>24&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Counter the enemy's spellcast, preventing any spell from that school of magic from being cast for 4&nbsp;sec. <br /><br />Successfully interrupting an enemy heals you for 5% of your maximum health.</span></td></tr></table><!--?806099:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

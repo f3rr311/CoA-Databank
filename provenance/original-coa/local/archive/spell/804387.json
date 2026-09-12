@@ -1,0 +1,8 @@
+{
+  "name_enus": "Choking Water",
+  "icon": "ability_suffocate",
+  "tooltip_enus": "<table><tr><td><b>Choking Water</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Dealing Frost damage to an enemy now reduces their spell power by 0.25*PL+1 and their spell haste by 1% for until cancelled. Stacks 4 times.</span></td></tr></table><!--?804387:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

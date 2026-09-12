@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hex of Night",
+  "icon": "spell_nature_removedisease",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hex of Night</b></td><th><b class=\"q0\">Rank 1 DEPRECATED</b></th></tr></table>18% of base mana<br /><table width=\"100%\"><tr><td>1 sec cast</td><th>14&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Invokes Hir'eek</span><br />Apply an evil <span style=\"color: #ffffff;\">Hex</span> to an enemy, reducing healing received by 0% for 18&nbsp;sec.<br /><br />Every 0 seconds, the target takes 44 to 48 Shadow Damage.</span></td></tr></table><!--?801691:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

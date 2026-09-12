@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ingredient: Frog Bones",
+  "icon": "ability_deathknight_boneshield",
+  "tooltip_enus": "<table><tr><td><b>Ingredient: Frog Bones</b><br />5% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>0.5&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Brew <span style=\"color: #ffffff;\">Frog Bones</span> into your <span style=\"color: #ffffff;\">Cauldron</span>.<br /><br /><span style=\"color: #ffffff;\">Cauldron</span>: Grants allies within 40 yds 3% reduced damage taken.<br /><br /><span style=\"color: #ffffff;\">Potion</span>: Grants target ally an absorption shield, absorbing 100+Spi*.35+Heal*.8 damage, scaling with Spirit.</span></td></tr></table><!--?801663:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

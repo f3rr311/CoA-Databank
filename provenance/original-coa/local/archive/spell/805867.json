@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dreamslip",
+  "icon": "inv_legion_faction_dreamweavers",
+  "tooltip_enus": "<table><tr><td><b>Dreamslip</b><br />33% of base mana<br /><table width=\"100%\"><tr><td>2 sec cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Shifts a party member into the <span style=\"color: #FFFFFF;\">Emerald Dream</span> for 15&nbsp;sec, making them immune to damage and unable to attack or cast spells.<br /><br />While active, the target quickly regenerates health and mana and cannot be seen by other players or creatures.<br /><br />Cannot be used on self.</span></td></tr></table><!--?805867:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

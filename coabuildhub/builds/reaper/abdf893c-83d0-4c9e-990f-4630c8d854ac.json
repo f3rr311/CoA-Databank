@@ -1,0 +1,753 @@
+{
+ "build": {
+  "id": "abdf893c-83d0-4c9e-990f-4630c8d854ac",
+  "title": "Harvest PvP King",
+  "description": "[overview]\nHi, I'm NxS and I've been playing WoW for a decades especially in BG's / RBG's and Arenas.\nAlso played at top level on Arena Tournament back in the days.\nHere's my PvP Guide for the Reaper Class based on my experience. Feel free to leave a review ;)\n\n**Wanna be a PvP King ?**\n\n⭐ Video showcase of the build : https://www.youtube.com/watch?v=FlNBIeJ2zJs\n\nThis build is a two-handed melee and Shadow hybrid that turns aggression into survivability. Harvester passive restores health equal to 20% of the damage you deal, while Crimson Thirst adds even more sustain, creating a straightforward rhythm : \nKeep attacking to keep yourself healthy.\n\nSoul Fragments are generated primarily through Reap and Murder providing additional sources. Reaped Souls, meanwhile, are accumulated through Slaughter and critical hits from Doomrend and also Wraithblade. Most engagements begin with Murder or Reap, followed by Doomrend. Doomrend places a dark anti-healing barrier on the target and, when paired with Darkrend Scythe (if used in skill tree which isn't in this build), also applies a continuously refreshing bleed.\n\nHold onto your Souls to empower your upcoming basic attacks through Souls for the Slaughter. Use Harvesting Grounds to slow grouped enemies, then spend Slaughter as a finishing tool once the target drops below 35% health or whenever it procs with the Extinction passive.\n\nWhile this build is more focused about Battleground's, I can assure you that it's still viable in High Risk, Open World PvP and Arenas *(I strongly suggest to respec Soul spec if you want to play Reaper in Arenas)*\n\n[rotation]\n**Souls management = Harvest King**\n\n1) Open with Reap or Murder and harvest up to 3 Soul Fragments. \n2) Wraithblade if up and if you don't have any souls ready (use it on CD).\n3) Doomrend to apply its anti-heal shield.\n4) Reap as your basic filler between cooldowns. It feeds Soul Fragment generation.\n5) Murder on cooldown while closing, or on a second target, for free extra Soul Fragments and to apply Ruin (Shudder Scythe upgrades it into a bigger fragment-generating hit). \n6) Keep Souls for the Slaughter rolling so your autos add Shadow damage. \n7) Slaughter the moment a target drops below 35% HP for the execute plus a Reaped Soul. \n8) Harvesting Grounds on a fleeing target, or a pack you want slowed. \n9) Sever to interrupt a dangerous cast. \n10) Harvest Time is your burst window when you can commit to a heavy trade.\n11) Use Soul Strike if you need to survive combine with your defensives CD's such as Jailer's Bargain for example.\n\n[stats]\nHit (melee/special, until your specials stop missing a +3-level target) > Expertise (until your attacks stop being dodged/parried) > Strength > Armor Penetration > Critical Strike > Haste\n\n[pvp]\n**Strenghts** :\n\n- A lot of sustain\n- Constant damage \n- Executioner, once someone is under 35% Hp it's pretty much a kill\n- Can close gap effectively throught Spectre Stride & Scythe Rush\n\n**Weaknesses**\n- Can get kitted easily once off CD\n- No big defensive CD such as Vanish, Bubble etc\n\n[tips]\n- Do not over cap your souls meaning if you're one fragment soul aways from Doomrend for example, then don't use Murder as it generate 1 Reaped Soul.\n- Everything is about the good handling of your souls.\n- You can make a mouseover macro for your Scythe Rush and quickly escape from fights by dashing from a person to another.",
+  "class_id": 30,
+  "spec_id": 79,
+  "author_id": "fe93b8d9-5bb6-4b72-a1bb-29e62638a07a",
+  "talent_string": "W1siMzAtODctNC0wIiwxXSxbIjMwLTg3LTItMCIsMV0sWyIzMC04Ny02LTAiLDFdLFsiMzAtODctOC0xIiwxXSxbIjMwLTg3LTMtMSIsMV0sWyIzMC04Ny0xLTIiLDFdLFsiMzAtODctMS0zIiwxXSxbIjMwLTg3LTctMiIsMV0sWyIzMC04Ny03LTMiLDFdLFsiMzAtODctMi00IiwxXSxbIjMwLTg3LTEtNSIsMV0sWyIzMC04Ny04LTQiLDFdLFsiMzAtODctNy01IiwxXSxbIjMwLTg3LTQtNSIsMl0sWyIzMC04Ny0yLTYiLDFdLFsiMzAtODctOC02IiwxXSxbIjMwLTg3LTYtNyIsMV0sWyIzMC04Ny00LTYiLDFdLFsiMzAtODctNC03IiwxXSxbIjMwLTg3LTItN2EiLDFdLFsiMzAtODctNi02IiwxXSxbIjMwLTg3LTQtMiIsMl0sWyIzMC04Ny02LTgiLDFdLFsiMzAtODctNi05IiwxXSxbIjMwLTc5LTQtMCIsMV0sWyIzMC03OS0yLTEiLDJdLFsiMzAtNzktNi0xIiwxXSxbIjMwLTc5LTQtMiIsMV0sWyIzMC03OS0xLTIiLDFdLFsiMzAtNzktNi0zIiwxXSxbIjMwLTc5LTItMyIsMV0sWyIzMC03OS0zLTQiLDFdLFsiMzAtNzktNC00IiwxXSxbIjMwLTc5LTUtNCIsMV0sWyIzMC03OS00LTUiLDFdLFsiMzAtNzktMS01IiwyXSxbIjMwLTc5LTctNSIsMV0sWyIzMC03OS00LTZiIiwxXSxbIjMwLTc5LTYtNiIsMV0sWyIzMC03OS0yLTYiLDFdLFsiMzAtNzktMS03YiIsMV0sWyIzMC03OS0zLTciLDFdLFsiMzAtNzktNy03YiIsMV0sWyIzMC03OS03LTQiLDJdLFsiMzAtNzktNi04IiwxXSxbIjMwLTc5LTYtOWEiLDFdLFsiMzAtNzktMTAtMCIsMV0sWyIzMC03OS0xMC0yIiwxXSxbIjMwLTc5LTEwLTQiLDFdLFsiMzAtNzktMTAtNiIsMV0sWyIzMC03OS0xMC04IiwxXV0",
+  "tags": [
+   "PvP",
+   "BG"
+  ],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 5,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-22T10:25:42.042729+00:00",
+  "updated_at": "2026-07-26T11:46:10.651+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 3025,
+  "net_score": 5,
+  "has_talents": true,
+  "guide_section_count": 5,
+  "author": {
+   "id": "fe93b8d9-5bb6-4b72-a1bb-29e62638a07a",
+   "username": "NxSqq",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKrz-EmNorutr7-9j0uI0vcrbY282S24-Dy0V7XT3hl8M27sAZE=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "2c5d077a-6cec-4793-a39a-6b872ea55690",
+   "title": "Reaper PVP BIS",
+   "class_id": 30,
+   "spec_id": 80,
+   "author_id": "e877936a-f28e-45ed-ae43-af06520e0733",
+   "tags": [
+    "pvp"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1230,
+   "featured": false,
+   "created_at": "2026-07-23T06:35:07.072239+00:00",
+   "updated_at": "2026-07-28T02:43:33.674+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "e877936a-f28e-45ed-ae43-af06520e0733",
+    "username": "ataraxiex",
+    "avatar_url": "https://cdn.discordapp.com/avatars/263704149642706946/85e702a8a350831a54d9159438a40ad7.png"
+   }
+  },
+  {
+   "id": "88596de6-f880-4259-81d5-df050640d357",
+   "title": "Reaper Tank Dungs/Raid/Hit/Parry/ST",
+   "class_id": 30,
+   "spec_id": 81,
+   "author_id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+   "tags": [
+    "Tank",
+    "reaper",
+    "sustain",
+    "damage",
+    "aoe",
+    "shield",
+    "kazzak",
+    "raid"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 3,
+   "view_count": 3545,
+   "featured": false,
+   "created_at": "2026-07-18T20:36:27.817689+00:00",
+   "updated_at": "2026-07-21T22:44:52.863+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+    "username": "bvflowers.",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1445260398474432556/5f38aa6b11650a30cf3ddfe52dd91486.png"
+   }
+  },
+  {
+   "id": "46b725b6-bad9-4fc8-9e58-c7318d67c154",
+   "title": "Harvest pve",
+   "class_id": 30,
+   "spec_id": 79,
+   "author_id": "ba8210af-259c-441e-b8b2-cad9ec91e102",
+   "tags": [
+    "raid",
+    "leveling",
+    "aoe"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 1,
+   "comment_count": 3,
+   "view_count": 3450,
+   "featured": false,
+   "created_at": "2026-07-18T17:55:41.425815+00:00",
+   "updated_at": "2026-07-18T17:55:41.425815+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "ba8210af-259c-441e-b8b2-cad9ec91e102",
+    "username": "Khazer",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK8tcbkRb2wgNac2QYJGwBUu2wJlKRzRiViJHpJOjz4c_m5cPIizA=s96-c"
+   }
+  }
+ ],
+ "class": "Reaper",
+ "spec": "Harvest",
+ "allocations": [
+  [
+   "30-87-4-0",
+   1
+  ],
+  [
+   "30-87-2-0",
+   1
+  ],
+  [
+   "30-87-6-0",
+   1
+  ],
+  [
+   "30-87-8-1",
+   1
+  ],
+  [
+   "30-87-3-1",
+   1
+  ],
+  [
+   "30-87-1-2",
+   1
+  ],
+  [
+   "30-87-1-3",
+   1
+  ],
+  [
+   "30-87-7-2",
+   1
+  ],
+  [
+   "30-87-7-3",
+   1
+  ],
+  [
+   "30-87-2-4",
+   1
+  ],
+  [
+   "30-87-1-5",
+   1
+  ],
+  [
+   "30-87-8-4",
+   1
+  ],
+  [
+   "30-87-7-5",
+   1
+  ],
+  [
+   "30-87-4-5",
+   2
+  ],
+  [
+   "30-87-2-6",
+   1
+  ],
+  [
+   "30-87-8-6",
+   1
+  ],
+  [
+   "30-87-6-7",
+   1
+  ],
+  [
+   "30-87-4-6",
+   1
+  ],
+  [
+   "30-87-4-7",
+   1
+  ],
+  [
+   "30-87-2-7a",
+   1
+  ],
+  [
+   "30-87-6-6",
+   1
+  ],
+  [
+   "30-87-4-2",
+   2
+  ],
+  [
+   "30-87-6-8",
+   1
+  ],
+  [
+   "30-87-6-9",
+   1
+  ],
+  [
+   "30-79-4-0",
+   1
+  ],
+  [
+   "30-79-2-1",
+   2
+  ],
+  [
+   "30-79-6-1",
+   1
+  ],
+  [
+   "30-79-4-2",
+   1
+  ],
+  [
+   "30-79-1-2",
+   1
+  ],
+  [
+   "30-79-6-3",
+   1
+  ],
+  [
+   "30-79-2-3",
+   1
+  ],
+  [
+   "30-79-3-4",
+   1
+  ],
+  [
+   "30-79-4-4",
+   1
+  ],
+  [
+   "30-79-5-4",
+   1
+  ],
+  [
+   "30-79-4-5",
+   1
+  ],
+  [
+   "30-79-1-5",
+   2
+  ],
+  [
+   "30-79-7-5",
+   1
+  ],
+  [
+   "30-79-4-6b",
+   1
+  ],
+  [
+   "30-79-6-6",
+   1
+  ],
+  [
+   "30-79-2-6",
+   1
+  ],
+  [
+   "30-79-1-7b",
+   1
+  ],
+  [
+   "30-79-3-7",
+   1
+  ],
+  [
+   "30-79-7-7b",
+   1
+  ],
+  [
+   "30-79-7-4",
+   2
+  ],
+  [
+   "30-79-6-8",
+   1
+  ],
+  [
+   "30-79-6-9a",
+   1
+  ],
+  [
+   "30-79-10-0",
+   1
+  ],
+  [
+   "30-79-10-2",
+   1
+  ],
+  [
+   "30-79-10-4",
+   1
+  ],
+  [
+   "30-79-10-6",
+   1
+  ],
+  [
+   "30-79-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "30-87-4-0",
+   "points": 1,
+   "name": "Scythe Rush",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 500359
+  },
+  {
+   "id": "30-87-2-0",
+   "points": 1,
+   "name": "Wraithblade",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805258
+  },
+  {
+   "id": "30-87-6-0",
+   "points": 1,
+   "name": "Tormented Souls",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 500483
+  },
+  {
+   "id": "30-87-8-1",
+   "points": 1,
+   "name": "Soulfused Constitution",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 561100
+  },
+  {
+   "id": "30-87-3-1",
+   "points": 1,
+   "name": "Backswing",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 706790
+  },
+  {
+   "id": "30-87-1-2",
+   "points": 1,
+   "name": "Veilwalk",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 803990
+  },
+  {
+   "id": "30-87-1-3",
+   "points": 1,
+   "name": "Ghastly Form",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 704357
+  },
+  {
+   "id": "30-87-7-2",
+   "points": 1,
+   "name": "Jailer's Bargain",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805718
+  },
+  {
+   "id": "30-87-7-3",
+   "points": 1,
+   "name": "Harvester's Scythe",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805188
+  },
+  {
+   "id": "30-87-2-4",
+   "points": 1,
+   "name": "From the Shadows",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 561099
+  },
+  {
+   "id": "30-87-1-5",
+   "points": 1,
+   "name": "Ghastly Screech",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 806146
+  },
+  {
+   "id": "30-87-8-4",
+   "points": 1,
+   "name": "Burial Rites",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 560422
+  },
+  {
+   "id": "30-87-7-5",
+   "points": 1,
+   "name": "Limbo",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 800845
+  },
+  {
+   "id": "30-87-4-5",
+   "points": 2,
+   "name": "Spectre Strength",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 804671
+  },
+  {
+   "id": "30-87-2-6",
+   "points": 1,
+   "name": "Damned",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 706786
+  },
+  {
+   "id": "30-87-8-6",
+   "points": 1,
+   "name": "Dark Passage",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 704558
+  },
+  {
+   "id": "30-87-6-7",
+   "points": 1,
+   "name": "Essence Invigoration",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805186
+  },
+  {
+   "id": "30-87-4-6",
+   "points": 1,
+   "name": "Soul Tap",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 807397
+  },
+  {
+   "id": "30-87-4-7",
+   "points": 1,
+   "name": "Mawborn",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805203
+  },
+  {
+   "id": "30-87-2-7a",
+   "points": 1,
+   "name": "Between Shadows",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 560412
+  },
+  {
+   "id": "30-87-6-6",
+   "points": 1,
+   "name": "Soul Protector",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 300553
+  },
+  {
+   "id": "30-87-4-2",
+   "points": 2,
+   "name": "Soul Warden",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 560419
+  },
+  {
+   "id": "30-87-6-8",
+   "points": 1,
+   "name": "Soul Harvest",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 504012
+  },
+  {
+   "id": "30-87-6-9",
+   "points": 1,
+   "name": "Soul Furnace",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805184
+  },
+  {
+   "id": "30-79-4-0",
+   "points": 1,
+   "name": "Doomrend",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 800172
+  },
+  {
+   "id": "30-79-2-1",
+   "points": 2,
+   "name": "Maw Knight",
+   "maxPoints": 2,
+   "tree": "Harvest",
+   "spellId": 805204
+  },
+  {
+   "id": "30-79-6-1",
+   "points": 1,
+   "name": "Bountiful Harvest",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 706576
+  },
+  {
+   "id": "30-79-4-2",
+   "points": 1,
+   "name": "Slaughter",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 500373
+  },
+  {
+   "id": "30-79-1-2",
+   "points": 1,
+   "name": "Crow's Harvest",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 504011
+  },
+  {
+   "id": "30-79-6-3",
+   "points": 1,
+   "name": "Crimson Death",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705414
+  },
+  {
+   "id": "30-79-2-3",
+   "points": 1,
+   "name": "Red Wake",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 707707
+  },
+  {
+   "id": "30-79-3-4",
+   "points": 1,
+   "name": "Blood Fueled",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705416
+  },
+  {
+   "id": "30-79-4-4",
+   "points": 1,
+   "name": "Genocide",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 560924
+  },
+  {
+   "id": "30-79-5-4",
+   "points": 1,
+   "name": "Hemorrhage",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705432
+  },
+  {
+   "id": "30-79-4-5",
+   "points": 1,
+   "name": "Harvest Time",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 803995
+  },
+  {
+   "id": "30-79-1-5",
+   "points": 2,
+   "name": "Crimson Wraith",
+   "maxPoints": 2,
+   "tree": "Harvest",
+   "spellId": 504560
+  },
+  {
+   "id": "30-79-7-5",
+   "points": 1,
+   "name": "Souls for the Slaughter",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705428
+  },
+  {
+   "id": "30-79-4-6b",
+   "points": 1,
+   "name": "The Time Has Come",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 572879
+  },
+  {
+   "id": "30-79-6-6",
+   "points": 1,
+   "name": "Sever",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 806125
+  },
+  {
+   "id": "30-79-2-6",
+   "points": 1,
+   "name": "Harvesting Grounds",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705413
+  },
+  {
+   "id": "30-79-1-7b",
+   "points": 1,
+   "name": "Blood Wraith",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 707305
+  },
+  {
+   "id": "30-79-3-7",
+   "points": 1,
+   "name": "Doomer",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 704556
+  },
+  {
+   "id": "30-79-7-7b",
+   "points": 1,
+   "name": "Ravenous Thirst",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705409
+  },
+  {
+   "id": "30-79-7-4",
+   "points": 2,
+   "name": "Sanguine Harvester",
+   "maxPoints": 2,
+   "tree": "Harvest",
+   "spellId": 560892
+  },
+  {
+   "id": "30-79-6-8",
+   "points": 1,
+   "name": "Ruin",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 805198
+  },
+  {
+   "id": "30-79-6-9a",
+   "points": 1,
+   "name": "Shudder Scythe",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 805708
+  },
+  {
+   "id": "30-79-10-0",
+   "points": 1,
+   "name": "Harvester",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 92145
+  },
+  {
+   "id": "30-79-10-2",
+   "points": 1,
+   "name": "Extinction",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 573039
+  },
+  {
+   "id": "30-79-10-4",
+   "points": 1,
+   "name": "Mortal's End",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705437
+  },
+  {
+   "id": "30-79-10-6",
+   "points": 1,
+   "name": "Executioner",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 500542
+  },
+  {
+   "id": "30-79-10-8",
+   "points": 1,
+   "name": "This Is My Domain",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 500584
+  }
+ ]
+}

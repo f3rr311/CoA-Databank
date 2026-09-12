@@ -1,0 +1,15 @@
+{
+  "name_enus": "Scythe Rush",
+  "icon": "ability_demonhunter_bladedance",
+  "tooltip_enus": "<table><tr><td><b>Scythe Rush</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Rush towards an enemy and generate <!--sp704547:0-->15<!--sp704547--> Runic Power.<br /><br />Cannot be used on the same target more than once every 20&nbsp;sec.</span></td></tr></table><!--?500359:1:1:80-->",
+  "spells_enus": {
+    "704547": [
+      [
+        15,
+        15
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Not On MY Turf!",
+  "icon": "inv_firearm_2h_rifle_archaeology_d_01",
+  "tooltip_enus": "<table><tr><td><b>Not On MY Turf!</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Every 4th <span style=\"color: #ffffff;\">Round</span> consumed now increases the damage or healing of your next <span style=\"color: #ffffff;\">Buckshot Round</span> or <span style=\"color: #ffffff;\">Repair Shot</span> with <span style=\"color: #FFFFFF;\">Buckshot Rounds</span> by 25%.</span></td></tr></table><!--?805321:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

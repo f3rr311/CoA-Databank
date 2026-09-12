@@ -1,0 +1,8 @@
+{
+  "name_enus": "Martial Training",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Martial Training</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 50 Passive</span><br />Your <span style=\"color: #FFFFFF;\">Chastise</span> now deals an additional 50% Weapon Damage.</span></td></tr></table><!--?806525:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

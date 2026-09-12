@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vengeance Is Mine",
+  "icon": "ability_demonhunter_brandofthehunt",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Vengeance Is Mine</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Dodging or parrying an attack now gives you a 10% chance to make your next 10 instances of damage with <span style=\"color: #ffffff;\">Twin Slice</span> deal 30% increased damage and generate 1 <span style=\"color: #32cd32;\">Felfury</span>.</span></td></tr></table><!--?804822:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

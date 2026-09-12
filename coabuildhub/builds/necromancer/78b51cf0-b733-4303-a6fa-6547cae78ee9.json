@@ -1,0 +1,789 @@
+{
+ "build": {
+  "id": "78b51cf0-b733-4303-a6fa-6547cae78ee9",
+  "title": "Natormancer Animation",
+  "description": "[overview]\nUnder Construction/Testing\n\n[stats]\nHit to cap (17% without buff) > Spell Power > Crit >= Haste > Int",
+  "class_id": 23,
+  "spec_id": 61,
+  "author_id": "cdebb35b-526f-4638-bd6a-dd0b55b4e465",
+  "talent_string": "W1siMjMtNjEtNC0wIiwxXSxbIjIzLTYxLTItMSIsMV0sWyIyMy02MS0yLTIiLDFdLFsiMjMtNjEtNi0xIiwxXSxbIjIzLTYxLTYtMiIsMV0sWyIyMy02MS00LTIiLDJdLFsiMjMtNjEtMS0zIiwxXSxbIjIzLTYxLTctMyIsMV0sWyIyMy02MS02LTQiLDJdLFsiMjMtNjEtMi00YSIsMV0sWyIyMy02MS00LTUiLDFdLFsiMjMtNjEtMy02YSIsMV0sWyIyMy02MS01LTZhIiwxXSxbIjIzLTYxLTQtNyIsMV0sWyIyMy02MS03LTUiLDFdLFsiMjMtNjEtNy02IiwxXSxbIjIzLTYxLTYtNyIsMl0sWyIyMy02MS04LTdhIiwxXSxbIjIzLTYxLTQtOCIsMV0sWyIyMy04Ny02LTAiLDFdLFsiMjMtODctMi0wIiwxXSxbIjIzLTg3LTMtMSIsMl0sWyIyMy04Ny01LTEiLDFdLFsiMjMtODctNy0xIiwyXSxbIjIzLTg3LTQtMiIsMl0sWyIyMy04Ny02LTIiLDFdLFsiMjMtODctMi0yIiwxXSxbIjIzLTg3LTYtMyIsMV0sWyIyMy04Ny00LTRiIiwxXSxbIjIzLTg3LTYtNSIsMl0sWyIyMy04Ny03LTQiLDFdLFsiMjMtODctOC01IiwxXSxbIjIzLTg3LTctNmIiLDFdLFsiMjMtODctNC01IiwxXSxbIjIzLTg3LTMtNmIiLDFdLFsiMjMtODctMi03IiwxXSxbIjIzLTg3LTQtNyIsMV0sWyIyMy04Ny02LTciLDFdLFsiMjMtODctMi0zIiwxXSxbIjIzLTg3LTctOCIsMV0sWyIyMy04Ny03LTkiLDFdLFsiMjMtNjEtMS01IiwxXSxbIjIzLTYxLTEtNmIiLDFdLFsiMjMtNjEtMi05IiwxXSxbIjIzLTYxLTEwLTAiLDFdLFsiMjMtNjEtMTAtMiIsMV0sWyIyMy02MS0xMC00IiwxXSxbIjIzLTYxLTEwLTYiLDFdLFsiMjMtNjEtMTAtOCIsMV1d",
+  "tags": [
+   "pve",
+   "necromancer",
+   "animation",
+   "dungeon"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 3,
+  "downvotes": 0,
+  "comment_count": 3,
+  "created_at": "2026-07-20T17:56:22.958356+00:00",
+  "updated_at": "2026-07-21T19:22:05.226+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 984,
+  "net_score": 3,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "cdebb35b-526f-4638-bd6a-dd0b55b4e465",
+   "username": "Nator",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJa3PXXzEWCM437Qu_eBXL_8fBw4F0ZSfh3DOXMssT0vrIp3BFE=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "3620395f-80dc-4ca2-b9dd-355e42278b9e",
+   "build_id": "78b51cf0-b733-4303-a6fa-6547cae78ee9",
+   "author_id": "2815b462-b830-4389-8e99-15eb71efd8c6",
+   "parent_id": null,
+   "body": "Good one. What pets do you use for pve/dungs?",
+   "upvotes": 1,
+   "created_at": "2026-07-21T09:29:08.813512+00:00",
+   "updated_at": "2026-07-21T19:01:37.538995+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "2815b462-b830-4389-8e99-15eb71efd8c6",
+    "username": "Moarte",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJNXwBQvjy8Ujw3jTmTk6HhD5djEv3BkmgtKnawW65pSfU0jq8=s96-c"
+   }
+  },
+  {
+   "id": "adc629e6-d032-469b-8bc8-78e37c786239",
+   "build_id": "78b51cf0-b733-4303-a6fa-6547cae78ee9",
+   "author_id": "cdebb35b-526f-4638-bd6a-dd0b55b4e465",
+   "parent_id": "3620395f-80dc-4ca2-b9dd-355e42278b9e",
+   "body": "1 abomination, 1 skeletal warrior for armor debuff, everything else assassin",
+   "upvotes": 1,
+   "created_at": "2026-07-21T19:29:11.954512+00:00",
+   "updated_at": "2026-07-23T15:42:46.94657+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "cdebb35b-526f-4638-bd6a-dd0b55b4e465",
+    "username": "Nator",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJa3PXXzEWCM437Qu_eBXL_8fBw4F0ZSfh3DOXMssT0vrIp3BFE=s96-c"
+   }
+  },
+  {
+   "id": "7671eeed-7af1-4cf3-bc2b-9efffee6840c",
+   "build_id": "78b51cf0-b733-4303-a6fa-6547cae78ee9",
+   "author_id": "56037c7b-1d71-4560-9618-608ca9e802c1",
+   "parent_id": null,
+   "body": "When you say \"everything else assassin,\" do you mean the Skeletal Rogues?",
+   "upvotes": 0,
+   "created_at": "2026-07-24T03:13:11.549733+00:00",
+   "updated_at": "2026-07-24T03:13:11.549733+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "56037c7b-1d71-4560-9618-608ca9e802c1",
+    "username": "juanmorrison",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1046495503254294578/dea7779075252fe29f99fcaa472e9486.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "863b65de-958d-4395-b494-b9aa1351fb0f",
+   "title": "The Frozen soul by \" Exagelado\" The troll Litch",
+   "class_id": 23,
+   "spec_id": 60,
+   "author_id": "4bf49e05-9ce3-4749-b996-00b550215909",
+   "tags": [
+    "Beginer",
+    "Leveling and some Tips"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 6,
+   "view_count": 898,
+   "featured": false,
+   "created_at": "2026-07-23T17:54:54.266782+00:00",
+   "updated_at": "2026-07-28T06:18:19.303+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "4bf49e05-9ce3-4749-b996-00b550215909",
+    "username": "Gabriel Furtado",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIZ0L6nJm3FNaxshkZGznqVfIzN6pn6ZHsEsvJ84ZyAcRFjQda-=s96-c"
+   }
+  },
+  {
+   "id": "8d9620a1-137b-41dc-8147-6e1a800b2682",
+   "title": "5 Ghoul Animation AoE Guide",
+   "class_id": 23,
+   "spec_id": 61,
+   "author_id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+   "tags": [
+    "AoE",
+    "Dungeons",
+    "Mythic+",
+    "Open World",
+    "Questing",
+    "Leveling"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 1,
+   "comment_count": 1,
+   "view_count": 2252,
+   "featured": false,
+   "created_at": "2026-07-22T13:02:06.678323+00:00",
+   "updated_at": "2026-07-23T05:20:38.57+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+    "username": "Miseral",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "f268b2a3-20e4-49df-bf9e-9c85ff7ae167",
+   "title": "3 Crypt Fiend Animation Single Target Guide",
+   "class_id": 23,
+   "spec_id": 61,
+   "author_id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+   "tags": [
+    "Single Target",
+    "Raid",
+    "2 Target Cleave",
+    "World Bosses",
+    "General Purpose",
+    "Guide",
+    "PvE",
+    "Dungeons",
+    "Bosses",
+    "Mythic+"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1341,
+   "featured": false,
+   "created_at": "2026-07-22T13:15:03.350058+00:00",
+   "updated_at": "2026-07-23T05:19:29.939+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+    "username": "Miseral",
+    "avatar_url": null
+   }
+  }
+ ],
+ "class": "Necromancer",
+ "spec": "Animation",
+ "allocations": [
+  [
+   "23-61-4-0",
+   1
+  ],
+  [
+   "23-61-2-1",
+   1
+  ],
+  [
+   "23-61-2-2",
+   1
+  ],
+  [
+   "23-61-6-1",
+   1
+  ],
+  [
+   "23-61-6-2",
+   1
+  ],
+  [
+   "23-61-4-2",
+   2
+  ],
+  [
+   "23-61-1-3",
+   1
+  ],
+  [
+   "23-61-7-3",
+   1
+  ],
+  [
+   "23-61-6-4",
+   2
+  ],
+  [
+   "23-61-2-4a",
+   1
+  ],
+  [
+   "23-61-4-5",
+   1
+  ],
+  [
+   "23-61-3-6a",
+   1
+  ],
+  [
+   "23-61-5-6a",
+   1
+  ],
+  [
+   "23-61-4-7",
+   1
+  ],
+  [
+   "23-61-7-5",
+   1
+  ],
+  [
+   "23-61-7-6",
+   1
+  ],
+  [
+   "23-61-6-7",
+   2
+  ],
+  [
+   "23-61-8-7a",
+   1
+  ],
+  [
+   "23-61-4-8",
+   1
+  ],
+  [
+   "23-87-6-0",
+   1
+  ],
+  [
+   "23-87-2-0",
+   1
+  ],
+  [
+   "23-87-3-1",
+   2
+  ],
+  [
+   "23-87-5-1",
+   1
+  ],
+  [
+   "23-87-7-1",
+   2
+  ],
+  [
+   "23-87-4-2",
+   2
+  ],
+  [
+   "23-87-6-2",
+   1
+  ],
+  [
+   "23-87-2-2",
+   1
+  ],
+  [
+   "23-87-6-3",
+   1
+  ],
+  [
+   "23-87-4-4b",
+   1
+  ],
+  [
+   "23-87-6-5",
+   2
+  ],
+  [
+   "23-87-7-4",
+   1
+  ],
+  [
+   "23-87-8-5",
+   1
+  ],
+  [
+   "23-87-7-6b",
+   1
+  ],
+  [
+   "23-87-4-5",
+   1
+  ],
+  [
+   "23-87-3-6b",
+   1
+  ],
+  [
+   "23-87-2-7",
+   1
+  ],
+  [
+   "23-87-4-7",
+   1
+  ],
+  [
+   "23-87-6-7",
+   1
+  ],
+  [
+   "23-87-2-3",
+   1
+  ],
+  [
+   "23-87-7-8",
+   1
+  ],
+  [
+   "23-87-7-9",
+   1
+  ],
+  [
+   "23-61-1-5",
+   1
+  ],
+  [
+   "23-61-1-6b",
+   1
+  ],
+  [
+   "23-61-2-9",
+   1
+  ],
+  [
+   "23-61-10-0",
+   1
+  ],
+  [
+   "23-61-10-2",
+   1
+  ],
+  [
+   "23-61-10-4",
+   1
+  ],
+  [
+   "23-61-10-6",
+   1
+  ],
+  [
+   "23-61-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "23-61-4-0",
+   "points": 1,
+   "name": "Animate: Skeletal Archer",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 805040
+  },
+  {
+   "id": "23-61-2-1",
+   "points": 1,
+   "name": "Bone King",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 707175
+  },
+  {
+   "id": "23-61-2-2",
+   "points": 1,
+   "name": "Summoning Prodigy",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 704682
+  },
+  {
+   "id": "23-61-6-1",
+   "points": 1,
+   "name": "Graverobber",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 503757
+  },
+  {
+   "id": "23-61-6-2",
+   "points": 1,
+   "name": "Forbidden Technique",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 561215
+  },
+  {
+   "id": "23-61-4-2",
+   "points": 2,
+   "name": "Sepulchral Might",
+   "maxPoints": 2,
+   "tree": "Animation",
+   "spellId": 706472
+  },
+  {
+   "id": "23-61-1-3",
+   "points": 1,
+   "name": "Scourge Disciple",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 531126
+  },
+  {
+   "id": "23-61-7-3",
+   "points": 1,
+   "name": "Runic Animation",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 707445
+  },
+  {
+   "id": "23-61-6-4",
+   "points": 2,
+   "name": "Skeletal Artillery",
+   "maxPoints": 2,
+   "tree": "Animation",
+   "spellId": 302518
+  },
+  {
+   "id": "23-61-2-4a",
+   "points": 1,
+   "name": "Animate: Tomb King",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 805044
+  },
+  {
+   "id": "23-61-4-5",
+   "points": 1,
+   "name": "Animate: Plaguefather",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 805048
+  },
+  {
+   "id": "23-61-3-6a",
+   "points": 1,
+   "name": "Crypt Keeper",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 560596
+  },
+  {
+   "id": "23-61-5-6a",
+   "points": 1,
+   "name": "Unstoppable Frenzy",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 573426
+  },
+  {
+   "id": "23-61-4-7",
+   "points": 1,
+   "name": "Corpse Wagon",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 503738
+  },
+  {
+   "id": "23-61-7-5",
+   "points": 1,
+   "name": "March of the Dead",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 707007
+  },
+  {
+   "id": "23-61-7-6",
+   "points": 1,
+   "name": "Lich's Prodigy",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 302519
+  },
+  {
+   "id": "23-61-6-7",
+   "points": 2,
+   "name": "Plague Protection",
+   "maxPoints": 2,
+   "tree": "Animation",
+   "spellId": 570046
+  },
+  {
+   "id": "23-61-8-7a",
+   "points": 1,
+   "name": "Fetid Mark",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 706948
+  },
+  {
+   "id": "23-61-4-8",
+   "points": 1,
+   "name": "Plague Horde",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 802986
+  },
+  {
+   "id": "23-87-6-0",
+   "points": 1,
+   "name": "Glacial Tap",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 805369
+  },
+  {
+   "id": "23-87-2-0",
+   "points": 1,
+   "name": "Raise: Abomination",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 500335
+  },
+  {
+   "id": "23-87-3-1",
+   "points": 2,
+   "name": "Hulking Hordes",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300748
+  },
+  {
+   "id": "23-87-5-1",
+   "points": 1,
+   "name": "Lich Essence",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 802988
+  },
+  {
+   "id": "23-87-7-1",
+   "points": 2,
+   "name": "Icecrown Scriptures",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300234
+  },
+  {
+   "id": "23-87-4-2",
+   "points": 2,
+   "name": "Living Dead",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 302888
+  },
+  {
+   "id": "23-87-6-2",
+   "points": 1,
+   "name": "Create Frozen Reliquary",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 803772
+  },
+  {
+   "id": "23-87-2-2",
+   "points": 1,
+   "name": "Vampiric Aura",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300241
+  },
+  {
+   "id": "23-87-6-3",
+   "points": 1,
+   "name": "Ner'zhul's Blessing",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 704729
+  },
+  {
+   "id": "23-87-4-4b",
+   "points": 1,
+   "name": "Overwhelming Force",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 531128
+  },
+  {
+   "id": "23-87-6-5",
+   "points": 2,
+   "name": "Disciple of Kel'thuzad",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 560615
+  },
+  {
+   "id": "23-87-7-4",
+   "points": 1,
+   "name": "Death's Due",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 807796
+  },
+  {
+   "id": "23-87-8-5",
+   "points": 1,
+   "name": "Improved Mandates",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 560613
+  },
+  {
+   "id": "23-87-7-6b",
+   "points": 1,
+   "name": "Cobalt-Plated Armor",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300945
+  },
+  {
+   "id": "23-87-4-5",
+   "points": 1,
+   "name": "Mass Grave",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 803741
+  },
+  {
+   "id": "23-87-3-6b",
+   "points": 1,
+   "name": "Lich Commander",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 704713
+  },
+  {
+   "id": "23-87-2-7",
+   "points": 1,
+   "name": "Putrid Summoner",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 560595
+  },
+  {
+   "id": "23-87-4-7",
+   "points": 1,
+   "name": "Deadly Defense",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300580
+  },
+  {
+   "id": "23-87-6-7",
+   "points": 1,
+   "name": "Winds of Northrend",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 301333
+  },
+  {
+   "id": "23-87-2-3",
+   "points": 1,
+   "name": "Life For Power",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 705746
+  },
+  {
+   "id": "23-87-7-8",
+   "points": 1,
+   "name": "Frost Runes",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 705750
+  },
+  {
+   "id": "23-87-7-9",
+   "points": 1,
+   "name": "Animate: Frost Wyrm",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 805428
+  },
+  {
+   "id": "23-61-1-5",
+   "points": 1,
+   "name": "Unrelenting Army",
+   "maxPoints": 2,
+   "tree": "Animation",
+   "spellId": 705747
+  },
+  {
+   "id": "23-61-1-6b",
+   "points": 1,
+   "name": "Depravity",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 638403
+  },
+  {
+   "id": "23-61-2-9",
+   "points": 1,
+   "name": "Master Animator",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 504431
+  },
+  {
+   "id": "23-61-10-0",
+   "points": 1,
+   "name": "Summoning Adept",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 92123
+  },
+  {
+   "id": "23-61-10-2",
+   "points": 1,
+   "name": "Deadly Bond",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 704724
+  },
+  {
+   "id": "23-61-10-4",
+   "points": 1,
+   "name": "Summoning Expert",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 807494
+  },
+  {
+   "id": "23-61-10-6",
+   "points": 1,
+   "name": "Diabolical",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 704723
+  },
+  {
+   "id": "23-61-10-8",
+   "points": 1,
+   "name": "Grave Mastery",
+   "maxPoints": 1,
+   "tree": "Animation",
+   "spellId": 504439
+  }
+ ]
+}

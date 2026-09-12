@@ -1,0 +1,8 @@
+{
+  "name_enus": "Pillar of Flame",
+  "icon": "nhi_fireblow_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Pillar of Flame</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>19% of base mana<br /><table width=\"100%\"><tr><td>1.5 sec cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ff7f7f;\">Generates 20 Heat Per Target</span><br />Create a pillar of lava beneath an enemy, dealing 36+0+FireP*0.3124 Fire damage.<br /><br />Deals an additional 92+0+FireP*0.34364 Fire damage to enemies near the primary target.</span></td></tr></table><!--?805496:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hunting Shot",
+  "icon": "uico_arrow_spell_01_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hunting Shot</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>40 Focus<br />Instant</td></tr></table><table><tr><td>Requires Bows, Crossbows<br /><span class=\"q\">Fire a shot that ricochets between 3 enemies, dealing Ranged Weapon Damage plus 6 to each enemy.<br /><br />Generates 1 stack of <span style=\"color: #8fff7a;\">Advantage</span> for each enemy hit.</span></td></tr></table><!--?801191:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

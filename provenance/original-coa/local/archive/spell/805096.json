@@ -1,0 +1,8 @@
+{
+  "name_enus": "Nullifying Toxin",
+  "icon": "ability_rogue_deviouspoisons",
+  "tooltip_enus": "<table><tr><td><b>Nullifying Toxin</b><br />9% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>16&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Inject an enemy with nullifying toxin, interrupting them and preventing any spell from that school from being cast for 3&nbsp;sec.</span></td></tr></table><!--?805096:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

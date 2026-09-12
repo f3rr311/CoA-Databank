@@ -1,0 +1,295 @@
+{
+  "trees": [
+    {
+      "display_name": "Animation",
+      "key": "tree.necromancer.animation",
+      "max_points": 5,
+      "nodes": [
+        {
+          "choice_group": null,
+          "column": 4,
+          "description": "Accepted M15.C13 Animate: Skeletal Archer mechanic.",
+          "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+          "key": "talent.necromancer.animation.animate-skeletal-archer",
+          "level_gate": 10,
+          "max_rank": 1,
+          "name": "Animate: Skeletal Archer",
+          "point_gate": 0,
+          "prerequisite_node_keys": [],
+          "prerequisite_ranks": [],
+          "provenance": {
+            "authoring_rationale": "Authored only from the accepted C13 selection and closure.",
+            "kind": "reconstructed",
+            "source_references": [
+              "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=805040"
+            ]
+          },
+          "purchase_kind": "point",
+          "rank_spell_keys": [
+            "spell.necromancer.animation.animate-skeletal-archer"
+          ],
+          "role_tags": [
+            "dps"
+          ],
+          "rotation_tags": [
+            "summon"
+          ],
+          "row": 0,
+          "tree_key": "tree.necromancer.animation"
+        },
+        {
+          "choice_group": "animation-elite",
+          "column": 2,
+          "description": "Accepted M15.C13 Tomb King mechanic.",
+          "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+          "key": "talent.necromancer.animation.tomb-king",
+          "level_gate": 10,
+          "max_rank": 1,
+          "name": "Tomb King",
+          "point_gate": 1,
+          "prerequisite_node_keys": [
+            "talent.necromancer.animation.animate-skeletal-archer"
+          ],
+          "prerequisite_ranks": [
+            1
+          ],
+          "provenance": {
+            "authoring_rationale": "Authored only from the accepted C13 selection and closure.",
+            "kind": "reconstructed",
+            "source_references": [
+              "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=805044"
+            ]
+          },
+          "purchase_kind": "point",
+          "rank_spell_keys": [
+            "spell.necromancer.animation.animate-tomb-king"
+          ],
+          "role_tags": [
+            "dps"
+          ],
+          "rotation_tags": [
+            "summon"
+          ],
+          "row": 4,
+          "tree_key": "tree.necromancer.animation"
+        },
+        {
+          "choice_group": "animation-elite",
+          "column": 2,
+          "description": "Accepted M15.C13 Bone Wraith mechanic.",
+          "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+          "key": "talent.necromancer.animation.bone-wraith",
+          "level_gate": 10,
+          "max_rank": 1,
+          "name": "Bone Wraith",
+          "point_gate": 1,
+          "prerequisite_node_keys": [
+            "talent.necromancer.animation.animate-skeletal-archer"
+          ],
+          "prerequisite_ranks": [
+            1
+          ],
+          "provenance": {
+            "authoring_rationale": "Authored only from the accepted C13 selection and closure.",
+            "kind": "reconstructed",
+            "source_references": [
+              "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=805032"
+            ]
+          },
+          "purchase_kind": "point",
+          "rank_spell_keys": [
+            "spell.necromancer.animation.animate-bone-wraith"
+          ],
+          "role_tags": [
+            "dps"
+          ],
+          "rotation_tags": [
+            "summon"
+          ],
+          "row": 4,
+          "tree_key": "tree.necromancer.animation"
+        },
+        {
+          "choice_group": null,
+          "column": 6,
+          "description": "Accepted M15.C13 Skeletal Artillery mechanic.",
+          "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+          "key": "talent.necromancer.animation.skeletal-artillery",
+          "level_gate": 10,
+          "max_rank": 2,
+          "name": "Skeletal Artillery",
+          "point_gate": 1,
+          "prerequisite_node_keys": [
+            "talent.necromancer.animation.animate-skeletal-archer"
+          ],
+          "prerequisite_ranks": [
+            1
+          ],
+          "provenance": {
+            "authoring_rationale": "Authored only from the accepted C13 selection and closure.",
+            "kind": "reconstructed",
+            "source_references": [
+              "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=302518"
+            ]
+          },
+          "purchase_kind": "point",
+          "rank_spell_keys": [
+            "spell.necromancer.animation.skeletal-artillery.rank-1",
+            "spell.necromancer.animation.skeletal-artillery.rank-2"
+          ],
+          "role_tags": [
+            "dps"
+          ],
+          "rotation_tags": [
+            "summon"
+          ],
+          "row": 4,
+          "tree_key": "tree.necromancer.animation"
+        },
+        {
+          "choice_group": null,
+          "column": 1,
+          "description": "Accepted M15.C13 Mindless Fury mechanic.",
+          "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+          "key": "talent.necromancer.animation.mindless-fury",
+          "level_gate": 10,
+          "max_rank": 1,
+          "name": "Mindless Fury",
+          "point_gate": 1,
+          "prerequisite_node_keys": [
+            "talent.necromancer.animation.animate-skeletal-archer"
+          ],
+          "prerequisite_ranks": [
+            1
+          ],
+          "provenance": {
+            "authoring_rationale": "Authored only from the accepted C13 selection and closure.",
+            "kind": "reconstructed",
+            "source_references": [
+              "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=805674"
+            ]
+          },
+          "purchase_kind": "point",
+          "rank_spell_keys": [
+            "spell.necromancer.animation.mindless-fury"
+          ],
+          "role_tags": [
+            "dps"
+          ],
+          "rotation_tags": [
+            "summon"
+          ],
+          "row": 6,
+          "tree_key": "tree.necromancer.animation"
+        },
+        {
+          "choice_group": null,
+          "column": 10,
+          "description": "Accepted M15.C13 Summoning Adept mechanic.",
+          "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+          "key": "essence.necromancer.animation.summoning-adept",
+          "level_gate": 30,
+          "max_rank": 1,
+          "name": "Summoning Adept",
+          "point_gate": 0,
+          "prerequisite_node_keys": [],
+          "prerequisite_ranks": [],
+          "provenance": {
+            "authoring_rationale": "Authored only from the accepted C13 selection and closure.",
+            "kind": "reconstructed",
+            "source_references": [
+              "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=92123"
+            ]
+          },
+          "purchase_kind": "essence",
+          "rank_spell_keys": [
+            "spell.necromancer.animation.summoning-adept"
+          ],
+          "role_tags": [
+            "dps"
+          ],
+          "rotation_tags": [
+            "summon"
+          ],
+          "row": 0,
+          "tree_key": "tree.necromancer.animation"
+        },
+        {
+          "choice_group": null,
+          "column": 10,
+          "description": "Accepted M15.C13 Summoning Expert mechanic.",
+          "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+          "key": "essence.necromancer.animation.summoning-expert",
+          "level_gate": 50,
+          "max_rank": 1,
+          "name": "Summoning Expert",
+          "point_gate": 0,
+          "prerequisite_node_keys": [],
+          "prerequisite_ranks": [],
+          "provenance": {
+            "authoring_rationale": "Authored only from the accepted C13 selection and closure.",
+            "kind": "reconstructed",
+            "source_references": [
+              "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=807494"
+            ]
+          },
+          "purchase_kind": "essence",
+          "rank_spell_keys": [
+            "spell.necromancer.animation.summoning-expert"
+          ],
+          "role_tags": [
+            "dps"
+          ],
+          "rotation_tags": [
+            "summon"
+          ],
+          "row": 4,
+          "tree_key": "tree.necromancer.animation"
+        },
+        {
+          "choice_group": null,
+          "column": 10,
+          "description": "Accepted M15.C13 Grave Mastery mechanic.",
+          "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+          "key": "essence.necromancer.animation.grave-mastery",
+          "level_gate": 70,
+          "max_rank": 1,
+          "name": "Grave Mastery",
+          "point_gate": 0,
+          "prerequisite_node_keys": [],
+          "prerequisite_ranks": [],
+          "provenance": {
+            "authoring_rationale": "Authored only from the accepted C13 selection and closure.",
+            "kind": "reconstructed",
+            "source_references": [
+              "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=504439"
+            ]
+          },
+          "purchase_kind": "essence",
+          "rank_spell_keys": [
+            "spell.necromancer.animation.grave-mastery"
+          ],
+          "role_tags": [
+            "dps"
+          ],
+          "rotation_tags": [
+            "summon"
+          ],
+          "row": 8,
+          "tree_key": "tree.necromancer.animation"
+        }
+      ],
+      "owner_key": "spec.necromancer.animation",
+      "owner_kind": "spec",
+      "provenance": {
+        "authoring_rationale": "Five ordinary ranks and three Essences form the accepted partial Animation pilot.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "schema_version": "1.0.0",
+      "status": "compiles"
+    }
+  ]
+}

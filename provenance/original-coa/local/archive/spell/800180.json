@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sacred Grove",
+  "icon": "achievement_reputation_guardiansofcenarius",
+  "tooltip_enus": "<table><tr><td><b>Sacred Grove</b><br />35% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Create a <span style=\"color: #ffffff;\">Sacred Grove</span> in a 15 yd radius around you for 16&nbsp;sec, instantly healing all nearby party and raid members for 2002+0+AP*1.<br /><br />While active, up to 12 allies in the grove receive 25% increased healing, and regain 3% of their missing health, Rage, and mana every 2 sec.</span></td></tr></table><!--?800180:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

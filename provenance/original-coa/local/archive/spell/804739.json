@@ -1,0 +1,15 @@
+{
+  "name_enus": "Moonwell",
+  "icon": "ability_shawaterelemental_swirl",
+  "tooltip_enus": "<table><tr><td><b>Moonwell</b><br />35% of base mana<br /><table width=\"100%\"><tr><td>2 sec cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Creates a zone blessed by moonwell waters for 15&nbsp;sec at the target location. <br /><br />All allied players standing within the well receive 25% more healing, and their mana regeneration is increased by 100%.<!--sp500206:0--><!--sp500206--></span></td></tr></table><!--?804739:1:1:80-->",
+  "spells_enus": {
+    "500206": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #ffffff\">Full Moon</span>: This is instant.<br /><br /><span style=\"color: #ffffff\">New Moon</span>: Triggers a 30 sec reduced cooldown."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

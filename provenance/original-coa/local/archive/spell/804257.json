@@ -1,0 +1,8 @@
+{
+  "name_enus": "Glaring Rays",
+  "icon": "spell_holy_power",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Glaring Rays</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the spell haste of all party and raid members by 3% and your spell haste by an additional 3%.<br /><br />Does not stack with similar effects.</span></td></tr></table><!--?804257:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spiritual Healing",
+  "icon": "priest_icon_chakra_green",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spiritual Healing</b></td><th><b class=\"q0\">Specialization</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 20 Passive</span><br />Increases your spell critical strike rating and your healing power by 20% of your Intellect.</span></td></tr></table><!--?706211:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

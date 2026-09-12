@@ -1,0 +1,8 @@
+{
+  "name_enus": "Smoke Grenade",
+  "icon": "inv_misc_pyriumgrenade",
+  "tooltip_enus": "<table><tr><td><b>Smoke Grenade</b><br />11% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Throw down a smoke grenade, enemies are unable to target into or out of the <span style=\"color: #ffffff;\">Smoke</span> for 8&nbsp;sec. <br /><br />Any damage caused will remove the effect.<br /><br />All allies in the <span style=\"color: #ffffff;\">Smoke</span> area gain 40% increased movement speed and all enemies have their movement speed slowed by 60%.</span></td></tr></table><!--?805756:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

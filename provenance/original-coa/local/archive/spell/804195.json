@@ -1,0 +1,15 @@
+{
+  "name_enus": "Apotheosis",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Apotheosis</b><br />50 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">For 15&nbsp;sec, all Shadow Damage you deal will heal you equal to the damage dealt.<!--sp681078:0--><!--sp681078--></span></td></tr></table><!--?804195:1:1:80-->",
+  "spells_enus": {
+    "681078": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #FFE539\">Empowered</span>: Costs 100% less Rage."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

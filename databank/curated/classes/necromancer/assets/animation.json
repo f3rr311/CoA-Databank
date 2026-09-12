@@ -1,0 +1,199 @@
+{
+  "assets": [
+    {
+      "key": "asset.animation.animation.bone-wraith",
+      "kind": "animation",
+      "provenance": {
+        "authoring_rationale": "Hash-bound recovered model animation sequences accepted by the playable presentation closure.",
+        "kind": "recovered",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "9102d66a1e8160e5aba8934c985618e5bdbca9c8592ab0b499392c561f88f7af",
+      "source_path": "creature\\banshee\\banshee.m2"
+    },
+    {
+      "key": "asset.animation.animation.skeletal-archer",
+      "kind": "animation",
+      "provenance": {
+        "authoring_rationale": "Hash-bound CoA-custom model animation sequences accepted by the playable presentation closure.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "5dd1fd553d2aebc2563c746281f6664becf3af3e33bdc7cba15070961e4784ae",
+      "source_path": "creature\\maldraxxusskeleton\\maldraxxusskeleton.m2"
+    },
+    {
+      "key": "asset.animation.animation.tomb-king",
+      "kind": "animation",
+      "provenance": {
+        "authoring_rationale": "Hash-bound CoA-custom model animation sequences accepted by the playable presentation closure.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "dba27284345373a06a841a5e3132892f580eb9b1e3ca29ab649404b1e3e18fe6",
+      "source_path": "creature\\lich2\\lich2_coa.m2"
+    },
+    {
+      "key": "asset.display.animation.bone-wraith",
+      "kind": "display",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "recovered",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "813ade2f7d908ea761d0437d1c21498159041b562c37476d7037c7c8582c935b",
+      "source_path": "dbc:CreatureDisplayInfo:8782"
+    },
+    {
+      "key": "asset.display.animation.skeletal-archer",
+      "kind": "display",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "b6d70b43c966058671a699a23820ae390ffa5508ada35d13fc9794a25ce3b2aa",
+      "source_path": "dbc:CreatureDisplayInfo:158"
+    },
+    {
+      "key": "asset.display.animation.tomb-king",
+      "kind": "display",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "a46b95a69c56634e4dbb36f2c2504e69bfa907fd4026b01e4e790c7fb4d349da",
+      "source_path": "dbc:CreatureDisplayInfo:24654"
+    },
+    {
+      "key": "asset.icon.animation.bone-wraith",
+      "kind": "icon",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "recovered",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "1c9c1baa017b70f3026826b16b4e9d97d4b0a22b57032623f8d903f29bff93cb",
+      "source_path": "interface\\icons\\achievement_boss_lordmarrowgar.blp"
+    },
+    {
+      "key": "asset.icon.animation.skeletal-archer",
+      "kind": "icon",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "721a8765e739705da8265b21a3a8cb73601e71ccc251f05e3e9bbafa75f2b1fb",
+      "source_path": "interface\\icons\\skeletalarcher.blp"
+    },
+    {
+      "key": "asset.icon.animation.tomb-king",
+      "kind": "icon",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "e2556e978d177faad0c3440629b0449f4e47a810f50a4597b8256e15be52272c",
+      "source_path": "interface\\icons\\spell_shadow_animatedead.blp"
+    },
+    {
+      "key": "asset.model.animation.bone-wraith",
+      "kind": "model",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "recovered",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "9102d66a1e8160e5aba8934c985618e5bdbca9c8592ab0b499392c561f88f7af",
+      "source_path": "creature\\banshee\\banshee.m2"
+    },
+    {
+      "key": "asset.model.animation.skeletal-archer",
+      "kind": "model",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "5dd1fd553d2aebc2563c746281f6664becf3af3e33bdc7cba15070961e4784ae",
+      "source_path": "creature\\maldraxxusskeleton\\maldraxxusskeleton.m2"
+    },
+    {
+      "key": "asset.model.animation.tomb-king",
+      "kind": "model",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "dba27284345373a06a841a5e3132892f580eb9b1e3ca29ab649404b1e3e18fe6",
+      "source_path": "creature\\lich2\\lich2_coa.m2"
+    },
+    {
+      "key": "asset.texture.animation.bone-wraith",
+      "kind": "texture",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "recovered",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "05cdf39a0ac9066ad5ed6adf48ff364ad425e4b1f26960099a7026b9f5a1c88f",
+      "source_path": "creature\\banshee\\banshee00.skin"
+    },
+    {
+      "key": "asset.texture.animation.skeletal-archer",
+      "kind": "texture",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "9e0a6f9fbfdad436e3d2a1b16eb17aa1315596b6c25392c69b865257c48d8460",
+      "source_path": "creature\\maldraxxusskeleton\\maldraxxusskeleton00.skin"
+    },
+    {
+      "key": "asset.texture.animation.tomb-king",
+      "kind": "texture",
+      "provenance": {
+        "authoring_rationale": "Hash-bound playable presentation selection; no donor or stock row is mutated.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "sha256": "11f80f0cf8a838b0e7a5732d7403ab1e2cfafac96e6725204bb208e1b3eb97c6",
+      "source_path": "creature\\lich2\\lich2_coa00.skin"
+    }
+  ]
+}

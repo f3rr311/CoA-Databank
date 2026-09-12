@@ -1,0 +1,8 @@
+{
+  "name_enus": "Awaken Plagued Zombies",
+  "icon": "spell_shadow_raisedead",
+  "tooltip_enus": "<table><tr><td><b>Awaken Plagued Zombies</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Summons 1 Plague Zombie to assist the caster.</span></td></tr></table><!--?71159:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

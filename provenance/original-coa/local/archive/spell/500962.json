@@ -1,0 +1,8 @@
+{
+  "name_enus": "Base: Crystal Water",
+  "icon": "custom_t_nhance_rpg_icons_icewaterblast_border",
+  "tooltip_enus": "<table><tr><td><b>Base: Crystal Water</b><br />30% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Infuse your <span style=\"color: #ffffff;\">Cauldron</span> with <span style=\"color: #ffffff;\">Crystal Water</span> for 10&nbsp;sec, causing party and raid members within 40 yds to be shielded for 20% of their healing taken for 5&nbsp;sec.<br /><br />Only 1 <span style=\"color: #ffffff;\">Base</span> can be active at a time.</span></td></tr></table><!--?500962:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

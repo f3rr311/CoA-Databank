@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blade of N'zoth",
+  "icon": "spell_warlock_demonsoul",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blade of N'zoth</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Blade of the Empire</span> deals 0% increased damage and it now has a 10% chance to summon a <span style=\"color: #FFFFFF;\">Tentacle of the Old Gods</span> for 8 sec.</span></td></tr></table><!--?806253:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Earth's Embrace",
+  "icon": "custom_amber_stone_border",
+  "tooltip_enus": "<table><tr><td><b>Earth's Embrace</b><br />33% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Encapsulate your body in amber, becoming immune to all Physical attacks and spells for 8&nbsp;sec, and healing you for 300+0+SP*.5 every 2 sec, but making you unable to move or act.<br /><br />Usable while stunned, feared, or polymorphed.</span></td></tr></table><!--?806143:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

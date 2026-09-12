@@ -1,0 +1,8 @@
+{
+  "name_enus": "Alignment",
+  "icon": "inv_7_0raid_trinket_07a",
+  "tooltip_enus": "<table><tr><td><b>Alignment</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Instantly regenerates 100% of your maximum mana, but reduces damage dealt by 50% for 12&nbsp;sec.<br /><br />While active, your threat against all enemies is nullified.</span></td></tr></table><!--?805507:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

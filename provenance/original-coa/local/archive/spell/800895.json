@@ -1,0 +1,8 @@
+{
+  "name_enus": "Catalyst",
+  "icon": "ability_deathknight_deathsiphon2",
+  "tooltip_enus": "<table><tr><td><b>Catalyst</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Generates 15 Rage plus 5 every 1 sec and reduces the cost of all of your spells and abilities by 25% for 10&nbsp;sec.<br /><br />Prevents out of combat Rage decay for its duration.</span></td></tr></table><!--?800895:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

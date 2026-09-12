@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dynamite Stacks",
+  "icon": "inv_misc_bomb_05",
+  "tooltip_enus": "<table><tr><td><b>Dynamite Stacks</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Causes <span style=\"color: #ffffff;\">Throw Dynamite</span> to reduce the Fire Resistance of affected enemies based on your spell power for 10 sec, and increases its damage by 10%.</span></td></tr></table><!--?805312:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

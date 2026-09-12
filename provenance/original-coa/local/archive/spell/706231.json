@@ -1,0 +1,8 @@
+{
+  "name_enus": "Moonblessed Aspects",
+  "icon": "inv_shoulder_leather_raiddruid_q_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Moonblessed Aspects</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the effectiveness by 4% and chance to trigger your <span style=\"color: #ffffff;\">Aspects</span> by 8%.</span></td></tr></table><!--?706231:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

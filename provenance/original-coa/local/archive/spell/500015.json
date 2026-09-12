@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shadow Puppets",
+  "icon": "custom_45_voodoo_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Shadow Puppets</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>15% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>18&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Summon a <span style=\"color: #ffffff;\">Shadow Puppet</span> that collects a <span style=\"color: #ffffff;\">Spirit</span> and rushes towards your target, dealing 25+0+ShaP*.22 Shadow damage, repeating every 0.75 sec for 3&nbsp;sec.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_elemental_primal_shadow.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=561136'> Spirit </a> <br />\n                            <span> Regenerates 2+<UNK: $ppl2> health and mana, repeating every 4 sec<!--sp707335:0--><!--sp707335--> for 12&nbsp;sec, stacking 5 times.</span><br /></span></td></tr></table><!--?500015:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

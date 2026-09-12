@@ -1,0 +1,8 @@
+{
+  "name_enus": "Plentiful Orbs",
+  "icon": "inv_7_0raid_trinket_06a",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Plentiful Orbs</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Allows <span style=\"color: #ffffff;\">Echo</span> to stack 0 additional times.</span></td></tr></table><!--?706070:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

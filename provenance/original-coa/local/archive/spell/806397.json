@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bursting",
+  "icon": "custom_t_waterbomb_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bursting</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the stack value of <span style=\"color: #FFFFFF;\">Drowning</span> by 20%.</span></td></tr></table><!--?806397:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

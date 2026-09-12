@@ -1,0 +1,8 @@
+{
+  "name_enus": "Molten Storm",
+  "icon": "inv_offhand_1h_artifactdoomhammer_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Molten Storm</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance and damage of <span style=\"color: #ffffff;\">Lava Shard</span> by 10%.</span></td></tr></table><!--?805483:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

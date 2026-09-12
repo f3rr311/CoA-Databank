@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hulking Demon",
+  "icon": "ability_warlock_avoidance",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hulking Demon</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 20 Passive</span><br />Increases your attack power by 30% of your Stamina and your hit rating by 6% of your Agility.</span></td></tr></table><!--?805246:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

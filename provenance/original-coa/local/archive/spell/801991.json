@@ -1,0 +1,8 @@
+{
+  "name_enus": "Moonwell Dipped Arrows",
+  "icon": "spell_frost_frostward",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Moonwell Dipped Arrows</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Causes <span style=\"color: #ffffff;\">Moon Arrow</span> to restore <span style=\"color: #feff9e;\">3%</span> of your Maximum <span style=\"color: #01cdfe;\">Mana</span> and increase the duration of <span style=\"color: #ffffff;\">Lunar Resplendence</span> by 2 sec.</span></td></tr></table><!--?801991:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

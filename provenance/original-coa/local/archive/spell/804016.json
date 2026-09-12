@@ -1,0 +1,8 @@
+{
+  "name_enus": "Violent Monsoon",
+  "icon": "ability_druid_typhoon",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Violent Monsoon</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Conjure Storm</span> and <span style=\"color: #ffffff;\">Arm of Thorim</span> now applies <span style=\"color: #ffffff;\">Violent Monsoon</span> to enemies for 4&nbsp;sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_druid_typhoon.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=704225'> Violent Monsoon </a> <br />\n                            <span> Movement speed reduced by 50%.</span><br /></span></td></tr></table><!--?804016:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

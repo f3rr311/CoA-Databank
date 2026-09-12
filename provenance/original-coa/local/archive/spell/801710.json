@@ -1,0 +1,15 @@
+{
+  "name_enus": "Upgrade Mechsuit: Spider Tank",
+  "icon": "inv_mechagonspidertank_junker",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Upgrade Mechsuit: Spider Tank</b></td><th><b class=\"q0\">Mechsuit</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><!--sp801384:0--><span style=\"color: #ff3232;\"><!--sp801384-->Requires Mechsuit</span><br />Upgrade your <span style=\"color: #FFFFFF;\">Mechsuit</span> to the <span style=\"color: #ffffff;\">Spider Tank</span> model, allowing the use of your <span style=\"color: #ffffff;\">Spider Tank</span> suit abilities. <br /><br />Also increases movement speed by 8% and critical strike chance by 5%.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_mechanicalspiderpet.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=801818'> Spider Tank: Scurry </a> <br />\n                            <span> The <span style=\"color: #ffffff;\">Spidertank</span> gains 20% increased movement speed for 6&nbsp;sec, stacking 4 times, and automatically <span style=\"color: #ffffff;\">Reloads</span> at the beginning and end of this duration.</span><br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_misc_enggizmos_02.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=801817'> Spidertank: Stomp </a> <br />\n                            <span> Inflicts 19 to 23 Physical damage to nearby enemies and knocks them back.</span><br /></span></td></tr></table><!--?801710:1:1:80-->",
+  "spells_enus": {
+    "801384": [
+      [
+        "|cffff3232",
+        "|cffffffff"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

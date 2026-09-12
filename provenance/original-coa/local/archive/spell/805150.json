@@ -1,0 +1,8 @@
+{
+  "name_enus": "Broad Sweep",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Broad Sweep</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>50 Energy<br />Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Swing at up to 4 enemies in front of you, dealing 70% Weapon Damage plus 6 and reduces their attack power by 25 for 10&nbsp;sec.</span></td></tr></table><!--?805150:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

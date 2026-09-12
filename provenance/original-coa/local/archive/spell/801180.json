@@ -1,0 +1,8 @@
+{
+  "name_enus": "Battle Priest",
+  "icon": "_book5_white",
+  "tooltip_enus": "<table><tr><td><b>Battle Priest</b><br /><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Cloth Armor<br /><span class=\"q\">Increases your Armor contribution by 300% of your Spirit, your block value by 25% and reduces all Magic damage taken by 10%.</span></td></tr></table><!--?801180:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

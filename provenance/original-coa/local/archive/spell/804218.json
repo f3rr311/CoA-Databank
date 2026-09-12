@@ -1,0 +1,8 @@
+{
+  "name_enus": "Demonscale",
+  "icon": "ability_demonhunter_fierybrand",
+  "tooltip_enus": "<table><tr><td><b>Demonscale</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Demon Form now boosts Armor and Magic Resistance based on Dodge Rating.<br /><br />It also increases healing received by 0%, and threat generation by 0%.</span></td></tr></table><!--?804218:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

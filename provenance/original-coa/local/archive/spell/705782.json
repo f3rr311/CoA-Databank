@@ -1,0 +1,8 @@
+{
+  "name_enus": "Refined Gunpowder",
+  "icon": "inv_misc_ammo_gunpowder_02",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Refined Gunpowder</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your haste and your damage dealt against Mechanical creatures by 6%.</span></td></tr></table><!--?705782:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

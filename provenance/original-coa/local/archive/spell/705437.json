@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mortal's End",
+  "icon": "ability_hunter_murderofcrows",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Mortal's End</b></td><th><b class=\"q0\">Specialization</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 30 Passive</span><br />Allows <span style=\"color: #ffffff;\">Extinction</span> to stack an additional time and allows <span style=\"color: #ffffff;\">Wraithblade</span> to grant you <span style=\"color: #ffffff;\">Extinction</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/novart_physical_ability_(2)_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=560414'> Extinction </a> <br />\n                            <span> Your next <span style=\"color: #ffffff;\">Slaughter</span> is usable regardless of the target's health and costs 10 less Runic Power.</span><br /></span></td></tr></table><!--?705437:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

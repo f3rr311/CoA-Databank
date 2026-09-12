@@ -1,0 +1,8 @@
+{
+  "name_enus": "Net Throw",
+  "icon": "ability_ensnare",
+  "tooltip_enus": "<table><tr><td><b>Net Throw</b><br />15 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Armor<br /><span class=\"q\">Toss a weighted net at an enemy that roots them for 4&nbsp;sec. While active, the target cannot dodge attacks.</span></td></tr></table><!--?802304:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

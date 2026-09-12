@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ritual Hexing",
+  "icon": "_spellcasting_shadow",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ritual Hexing</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Bad Juju</span>, <span style=\"color: #FFFFFF;\">Malefic Wrath</span> and <span style=\"color: #ffffff;\">Hexfire</span> by 20% against enemies affected by <span style=\"color: #FFFFFF;\">Hex of Malice</span>.</span></td></tr></table><!--?705841:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

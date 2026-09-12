@@ -1,0 +1,15 @@
+{
+  "name_enus": "Felglare",
+  "icon": "artifactability_havocdemonhunter_anguishofthedeceiver",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Felglare</b></td><th><b class=\"q0\">DEPRECATED</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Curse an enemy for 12&nbsp;sec, causing 1 Shadowflame Damage every 0 sec and increasing Shadow and Fire Damage they take by 0%<!--sp300480:0--><!--sp300480-->.</span></td></tr></table><!--?801897:1:1:80-->",
+  "spells_enus": {
+    "300480": [
+      [
+        "",
+        " and the damage of <span style=\"color: #ffffff\">Nether Lance</span> by 0%"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

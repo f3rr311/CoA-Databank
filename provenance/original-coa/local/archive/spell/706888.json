@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wildfire",
+  "icon": "nhi_firehands_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Wildfire</b></td><th><b class=\"q0\">Damage</b></th></tr></table>12% of base mana<br /></td></tr></table><table><tr><td><span class=\"q\">Burn an enemy alive, dealing 301+0+FireP*.5 Fire Damage plus an additional 135+0+FireP*.21 over 6&nbsp;sec. <br /><br />At the end of the duration, <span style=\"color: #ffffff;\">Wildfire</span> will spread to an additional nearby enemy. <br /><br /><span style=\"color: #ffffff;\">Wildfire</span> cannot be reapplied to the same enemy for 10&nbsp;sec.</span></td></tr></table><!--?706888:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Houndmaster's Call",
+  "icon": "nhi_shadowroar_border",
+  "tooltip_enus": "<table><tr><td><b>Houndmaster's Call</b><br />15% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Command your <span style=\"color: #ffffff;\">Shadow Hounds</span> to leap upon an enemy target, dealing two strikes for 97*$<scalingbp>2+RAP*0.3 Shadow damage.</span></td></tr></table><!--?802273:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

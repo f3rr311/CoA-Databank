@@ -1,0 +1,566 @@
+{
+ "build": {
+  "id": "c5d075a0-4f69-4476-b84f-246dc67d40fb",
+  "title": "Corruption Cultist PvP bg Leveling - Top DMG Every Time",
+  "description": "[overview]\nCorruption Cultist is a DoT and burst caster with insane BG pressure, strong ST burst, good AoE, with crazy survivability\n\nThe basic playstyle is simple: DoT everything with Darkwither, spam Obliteration Beam and Gaze of C’Thun on CD, then delete priority targets with Psychic Suppression.\n\nBecause you have DoTs ticking on half the enemy team at the same time, this build almost always tops the dmg meter. It is especially broken in low-lvl BGs since you get strong defensives, healing, and AoE CC very early.\n\nThe talents shown in the build are the important core talents. The leftover points do not matter that much for leveling PvP, so you can move them around depending on what you prefer.\n\n[rotation]\nYour normal teamfight rotation in bg is:\n\nApply Darkwither to every enemy you see\nSpam Obliteration Beam on CD\nUse Gaze of C’Thun on CD\nDrop your tentacle near enemy players\nUse Psychic Suppression on a dotted target for huge burst\nKeep tab-targeting and refreshing DoTs\nIf there are 3 or more enemies close together, use Eldrich Devastation\nSpam sanity tap to get mana if needed or to reduce insanity.\nNOTE (Update 2026/07/16) - new spell Eldrich Shock, use this on cd to reduce sanity\n\n\nDo not tunnel one player too hard unless they are about to die. Your biggest strength is spreading pressure across the entire enemy team. Get your DoTs rolling first, then use your burst.\n\nFor your main ST burst:\nDarkwither → Tentacle → Obliteration Beam → Gaze of C’Thun → Psychic Suppression \n\nPsychic Suppression is OP when the target is already dotted and your tentacle is down. It can take around 80% of someone’s HP and sometimes just kill them. Do not waste it on a target with no setup unless your team is near.\n\nIn a 1v1, you want to kite while your DoTs and tentacle do the work.\n\nApply Darkwither\nSlow them with Grasp of Zek’voz - super op slow\nDrop your tentacle\nSpam Obliteration Beam and Gaze of C’Thun on CD\nKeep moving and kite them\nUse Psychic Suppression once everything is set up\nIf you get low, fear them and heal with Eldritch Mending\n\nAgainst melee, do not just stand still. Slow, fear, kite, shield, and heal while your DoTs keep ticking.\n\nWrath of the Black Empire can also be worth casting in a 1v1 when the enemy is feared, heavily slowed, or unable to interrupt you. The normal cast time is very long, so do not try to hardcast it while someone is hitting you.\n\nDEFENSIVES:\n\nSpam Void Shield on CD!\nDo not wait until you are almost dead. Keeping it active constantly makes you much harder to kill and stops a lot of random chip dmg.\n\nCorrupt Mind is an insanely strong AoE fear. It can fear up to three players for eight seconds, which is completely broken in BGs.\nAn eight-second AoE fear can win an entire fight by itself.\n\nAbyssal Ward is one of your big emergency defensives.\nIt has a long CD, so use it when you are getting focused or expect a large burst combo. Do not waste it on random low dmg.\n\nEmbrace the Void is another strong panic button with a long CD.\nThe problem is that it sometimes bugs, and you can still die through it. Do not rely on it.\n\nHallucination is best used to break out of slows, confuse enemy players and to get enemy pets or minions off you.\nIt is especially good when classes with pets or summoned minions are sitting on you, since it makes them drop target.\n\nEldritch Mending gives you really strong sustain.\nIf you get low, fear the enemy and heal. With correct use of Void Shield, fear, emergency defensives, and Eldritch Mending, you are basically unkillable unless several enemies jump you at once.\n\n[stats]\nSpell Power > Intellect > Haste > Stamina\n\nAt lower levels mana is a big issues so you might want prioritize int over spellpower.\n\n[leveling]\nWhen leveling try to rush all your darkwither talents then psychic suppression and glimpse of madness.\n\nAt lvl 18,28,38 and so on go to the capital PvP vendors to get honor gear. \n\nTo level fast in bg try to stay close to teamfights and dot everything. You can easily kill efc with suppression and slow.\n\n[tips]\nYou generally want to hit 60 Insanity because this gives you the 10% dmg increase.\nThis is easy to maintain since Darkwither, Obliteration Beam, and Gaze of C’Thun generate a lot of Insanity.\nThe important part is not accidentally going all the way to 100 Insanity.\n\nObliteration Beam is aoe so try to hit as many people as you can with it.\n\nBelow around lvl 40, you will probably have mana issues. This is where Sanity Tap becomes really useful.\nSanity Tap fixes both your mana problems and your Insanity management, so use it often.\n\nWrath of the Black Empire also lowers Insanity, but the cast time is normally way too long to use in the middle of a fight.\nAt 100 Insanity. When you hit 100, Wrath of the Black Empire cd is reduces a lot because you gain a lot of haste when at 100 insanity, even though this haste increase is not explained in-game or online from what I can tell.\nSo if you accidentally hit 100 Insanity, start spamming Wrath of the Black Empire if you are safe, otherwise pop defensive cd and run away untill it resets. \n\nWhen you unlock presence of yog, use that instead of presence of c'thun, it does quite a lot of dmg and is a pain against casters, and it works super well when you dot the entire enemy team. (Use servant of C'thun talent if you use c'thun)\n\nIf you like this guide and want me to do a corruption cultist PvE dungeon guide give this a fat thumbs or arrow up and let me know.",
+  "class_id": 25,
+  "spec_id": 65,
+  "author_id": "55acf02a-148e-46a1-bd3d-13d11f7b8560",
+  "talent_string": "W1siMjUtODctNC0wIiwxXSxbIjI1LTg3LTEtMCIsMV0sWyIyNS04Ny03LTAiLDFdLFsiMjUtODctNC0xYSIsMV0sWyIyNS04Ny0zLTIiLDFdLFsiMjUtODctNS0yIiwxXSxbIjI1LTg3LTctMSIsM10sWyIyNS04Ny04LTIiLDFdLFsiMjUtODctMS0zIiwxXSxbIjI1LTg3LTEtNCIsMV0sWyIyNS04Ny01LTRhIiwxXSxbIjI1LTg3LTctMyIsMV0sWyIyNS04Ny03LTQiLDFdLFsiMjUtODctNi01IiwxXSxbIjI1LTg3LTQtNSIsMV0sWyIyNS02NS00LTAiLDFdLFsiMjUtNjUtMi0xIiwxXSxbIjI1LTY1LTYtMSIsMl0sWyIyNS02NS00LTJiIiwxXSxbIjI1LTY1LTEtMiIsMV0sWyIyNS02NS0yLTMiLDFdLFsiMjUtNjUtNi0zIiwxXSxbIjI1LTY1LTItNSIsMV0sWyIyNS02NS0xLTRhIiwxXSxbIjI1LTY1LTQtNCIsMV0sWyIyNS02NS00LTUiLDFdLFsiMjUtNjUtNC02IiwxXSxbIjI1LTY1LTYtNSIsMV0sWyIyNS02NS04LTYiLDJdLFsiMjUtNjUtMi02IiwxXSxbIjI1LTY1LTItNyIsMV0sWyIyNS02NS0xMC0wIiwxXSxbIjI1LTY1LTEwLTIiLDFdLFsiMjUtNjUtMTAtNCIsMV0sWyIyNS02NS0xMC02IiwxXSxbIjI1LTg3LTItNSIsMV1d",
+  "tags": [
+   "pvp",
+   "leveling",
+   "bg"
+  ],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-08-01T00:33:40.491547+00:00",
+  "updated_at": "2026-08-01T01:30:22.116+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 6,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 5,
+  "author": {
+   "id": "55acf02a-148e-46a1-bd3d-13d11f7b8560",
+   "username": "fake konto",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLj0Jg2J7tGjvbfkvRixNH-1WWeLoU1bdO7dS2aLXd_MurwCA=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "ec218df4-9104-4880-b0c9-0f598ab65898",
+   "title": "Corruption pvp theory craft",
+   "class_id": 25,
+   "spec_id": 65,
+   "author_id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 231,
+   "featured": false,
+   "created_at": "2026-07-28T21:21:51.039658+00:00",
+   "updated_at": "2026-07-28T21:21:51.039658+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+    "username": "nschof",
+    "avatar_url": "https://cdn.discordapp.com/avatars/213470960936812544/a231295977f4f589bff6fb6a41fc857d.png"
+   }
+  },
+  {
+   "id": "d96cb605-9752-43ba-b071-2b0e30ef8ddc",
+   "title": "Good Blade PVE DPS",
+   "class_id": 25,
+   "spec_id": 64,
+   "author_id": "6d3f96b7-62e9-44f9-9ea2-6627730e8c25",
+   "tags": [
+    "Good Blade",
+    "PVE",
+    "DPS",
+    "OpenWorld"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 892,
+   "featured": false,
+   "created_at": "2026-07-25T01:00:51.546512+00:00",
+   "updated_at": "2026-07-25T01:00:51.546512+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "6d3f96b7-62e9-44f9-9ea2-6627730e8c25",
+    "username": "friofrio Clima",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocI77wt-n4x-B_LxDjOWa9rXSRi6g5g5YG8ZX4cAemeogjJrOA=s96-c"
+   }
+  },
+  {
+   "id": "e2935c2d-8cfe-46a5-91d1-b9ed79adf658",
+   "title": "BIG DPS PVE GODBLAD BUILD",
+   "class_id": 25,
+   "spec_id": 64,
+   "author_id": "0428e975-e8fe-4a2b-9bc5-e5ecb8b1d85f",
+   "tags": [
+    "Mythic"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 670,
+   "featured": false,
+   "created_at": "2026-07-25T00:53:56.020227+00:00",
+   "updated_at": "2026-07-25T00:53:56.020227+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "0428e975-e8fe-4a2b-9bc5-e5ecb8b1d85f",
+    "username": "Oliver Delabaye",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ29SM0KEbbP6uRCEQSH-GIYIMQjG14fuAHrUXFvPUM176QeSw=s96-c"
+   }
+  }
+ ],
+ "class": "Cultist",
+ "spec": "Corruption",
+ "allocations": [
+  [
+   "25-87-4-0",
+   1
+  ],
+  [
+   "25-87-1-0",
+   1
+  ],
+  [
+   "25-87-7-0",
+   1
+  ],
+  [
+   "25-87-4-1a",
+   1
+  ],
+  [
+   "25-87-3-2",
+   1
+  ],
+  [
+   "25-87-5-2",
+   1
+  ],
+  [
+   "25-87-7-1",
+   3
+  ],
+  [
+   "25-87-8-2",
+   1
+  ],
+  [
+   "25-87-1-3",
+   1
+  ],
+  [
+   "25-87-1-4",
+   1
+  ],
+  [
+   "25-87-5-4a",
+   1
+  ],
+  [
+   "25-87-7-3",
+   1
+  ],
+  [
+   "25-87-7-4",
+   1
+  ],
+  [
+   "25-87-6-5",
+   1
+  ],
+  [
+   "25-87-4-5",
+   1
+  ],
+  [
+   "25-65-4-0",
+   1
+  ],
+  [
+   "25-65-2-1",
+   1
+  ],
+  [
+   "25-65-6-1",
+   2
+  ],
+  [
+   "25-65-4-2b",
+   1
+  ],
+  [
+   "25-65-1-2",
+   1
+  ],
+  [
+   "25-65-2-3",
+   1
+  ],
+  [
+   "25-65-6-3",
+   1
+  ],
+  [
+   "25-65-2-5",
+   1
+  ],
+  [
+   "25-65-1-4a",
+   1
+  ],
+  [
+   "25-65-4-4",
+   1
+  ],
+  [
+   "25-65-4-5",
+   1
+  ],
+  [
+   "25-65-4-6",
+   1
+  ],
+  [
+   "25-65-6-5",
+   1
+  ],
+  [
+   "25-65-8-6",
+   2
+  ],
+  [
+   "25-65-2-6",
+   1
+  ],
+  [
+   "25-65-2-7",
+   1
+  ],
+  [
+   "25-65-10-0",
+   1
+  ],
+  [
+   "25-65-10-2",
+   1
+  ],
+  [
+   "25-65-10-4",
+   1
+  ],
+  [
+   "25-65-10-6",
+   1
+  ],
+  [
+   "25-87-2-5",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "25-87-4-0",
+   "points": 1,
+   "name": "Corrupt Mind",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560109
+  },
+  {
+   "id": "25-87-1-0",
+   "points": 1,
+   "name": "Void Shield",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 500715
+  },
+  {
+   "id": "25-87-7-0",
+   "points": 1,
+   "name": "Abyssal Ward",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 804670
+  },
+  {
+   "id": "25-87-4-1a",
+   "points": 1,
+   "name": "Stare Into The Abyss",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 525019
+  },
+  {
+   "id": "25-87-3-2",
+   "points": 1,
+   "name": "Mass Nightmare",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805114
+  },
+  {
+   "id": "25-87-5-2",
+   "points": 1,
+   "name": "Grasp of Zek'voz",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 573028
+  },
+  {
+   "id": "25-87-7-1",
+   "points": 3,
+   "name": "Empire Commander",
+   "maxPoints": 3,
+   "tree": "Cultist (class tree)",
+   "spellId": 704887
+  },
+  {
+   "id": "25-87-8-2",
+   "points": 1,
+   "name": "Shroud of Pride",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805126
+  },
+  {
+   "id": "25-87-1-3",
+   "points": 1,
+   "name": "Gift of C'Thun",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706189
+  },
+  {
+   "id": "25-87-1-4",
+   "points": 1,
+   "name": "Hallucination",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560301
+  },
+  {
+   "id": "25-87-5-4a",
+   "points": 1,
+   "name": "Dismay",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 704885
+  },
+  {
+   "id": "25-87-7-3",
+   "points": 1,
+   "name": "Wicked Thoughts",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706190
+  },
+  {
+   "id": "25-87-7-4",
+   "points": 1,
+   "name": "Embrace the Void",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 582591
+  },
+  {
+   "id": "25-87-6-5",
+   "points": 1,
+   "name": "Dark Calling",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560715
+  },
+  {
+   "id": "25-87-4-5",
+   "points": 1,
+   "name": "Entropic Singularity",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 800430
+  },
+  {
+   "id": "25-65-4-0",
+   "points": 1,
+   "name": "Darkwither",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 800446
+  },
+  {
+   "id": "25-65-2-1",
+   "points": 1,
+   "name": "Absolute Horror",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300309
+  },
+  {
+   "id": "25-65-6-1",
+   "points": 2,
+   "name": "Feeding Darkness",
+   "maxPoints": 2,
+   "tree": "Corruption",
+   "spellId": 300302
+  },
+  {
+   "id": "25-65-4-2b",
+   "points": 1,
+   "name": "Call of N'Zoth",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300306
+  },
+  {
+   "id": "25-65-1-2",
+   "points": 1,
+   "name": "Moment of Clarity",
+   "maxPoints": 2,
+   "tree": "Corruption",
+   "spellId": 706179
+  },
+  {
+   "id": "25-65-2-3",
+   "points": 1,
+   "name": "Eldritch Devastation",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 802727
+  },
+  {
+   "id": "25-65-6-3",
+   "points": 1,
+   "name": "Obliteration Beam",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 805572
+  },
+  {
+   "id": "25-65-2-5",
+   "points": 1,
+   "name": "Dread",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 301315
+  },
+  {
+   "id": "25-65-1-4a",
+   "points": 1,
+   "name": "Unrelenting Void",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 704527
+  },
+  {
+   "id": "25-65-4-4",
+   "points": 1,
+   "name": "Cunning Nature",
+   "maxPoints": 2,
+   "tree": "Corruption",
+   "spellId": 706915
+  },
+  {
+   "id": "25-65-4-5",
+   "points": 1,
+   "name": "Visions",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 560526
+  },
+  {
+   "id": "25-65-4-6",
+   "points": 1,
+   "name": "Psychic Suppression",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 800432
+  },
+  {
+   "id": "25-65-6-5",
+   "points": 1,
+   "name": "Worrysome Idol",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 706917
+  },
+  {
+   "id": "25-65-8-6",
+   "points": 2,
+   "name": "Glimpse of Madness",
+   "maxPoints": 2,
+   "tree": "Corruption",
+   "spellId": 500719
+  },
+  {
+   "id": "25-65-2-6",
+   "points": 1,
+   "name": "Terror",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300304
+  },
+  {
+   "id": "25-65-2-7",
+   "points": 1,
+   "name": "Embrace the Void",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300307
+  },
+  {
+   "id": "25-65-10-0",
+   "points": 1,
+   "name": "Corrupting Whispers",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 92130
+  },
+  {
+   "id": "25-65-10-2",
+   "points": 1,
+   "name": "Dark Magician",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 563123
+  },
+  {
+   "id": "25-65-10-4",
+   "points": 1,
+   "name": "Whispers of C'Thun",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 807512
+  },
+  {
+   "id": "25-65-10-6",
+   "points": 1,
+   "name": "Dark Revelation",
+   "maxPoints": 1,
+   "tree": "Corruption",
+   "spellId": 300313
+  },
+  {
+   "id": "25-87-2-5",
+   "points": 1,
+   "name": "Embodied Presences",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 803283
+  }
+ ]
+}

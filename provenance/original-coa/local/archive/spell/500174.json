@@ -1,0 +1,8 @@
+{
+  "name_enus": "Motivating Strike",
+  "icon": "novart_physical_ability_%2823%29_border",
+  "tooltip_enus": "<table><tr><td><b>Motivating Strike</b><br />50 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\">An instant strike that causes Weapon Damage plus 9, granting <span style=\"color: #66ccff;\">Motivation</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/achievement_win_wintergrasp.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=500256'> Motivation </a> <br />\n                            <span> Some of your abilities consume <span style=\"color: #66ccff;\">Motivation</span> to perform an additional effect.</span><br /></span></td></tr></table><!--?500174:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

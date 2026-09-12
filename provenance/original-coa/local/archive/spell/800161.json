@@ -1,0 +1,15 @@
+{
+  "name_enus": "Crippling Bolt",
+  "icon": "inv_misc_ammo_arrow_01",
+  "tooltip_enus": "<table><tr><td><b>Crippling Bolt</b><br />8% of base mana<br />Instant</td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\"><!--sp800665:0--><span style=\"color: #ff3232;\"><!--sp800665-->Requires Crossbow Stance</span><br />Fires a crossbow bolt at an enemy, dealing Off-hand Damage plus 3+(PL*0.8), scaling with ranged attack power.<br /><br />Reduces the target's movement speed by 50% for 5&nbsp;sec.<br /><br />Generates 8 Rage. Can only be used directly after <span style=\"color: #ffffff;\">Coiling Shot</span>.</span></td></tr></table><!--?800161:1:1:80-->",
+  "spells_enus": {
+    "800665": [
+      [
+        "|cffff3232",
+        "|cffffffff"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

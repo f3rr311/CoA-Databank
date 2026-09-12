@@ -1,0 +1,8 @@
+{
+  "name_enus": "Celerity",
+  "icon": "spell_lifegivingspeed",
+  "tooltip_enus": "<table><tr><td><b>Celerity</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your movement speed by 60% for 10&nbsp;sec.<br /><br />Leaving <span style=\"color: #ffffff;\">Spider Form</span> will cancel this effect.<br /><br />Usable while <span style=\"color: #ffffff;\">Skulking</span>.</span></td></tr></table><!--?804962:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

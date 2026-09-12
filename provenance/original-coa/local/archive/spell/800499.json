@@ -1,0 +1,8 @@
+{
+  "name_enus": "Astral Flare",
+  "icon": "spell_shadow_manaburn",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Astral Flare</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>2 sec cast</td></tr></table><table><tr><td><span class=\"q\">You call an Astral Flare down from the sky, dealing 1 Arcane Damage to an enemy and regenerating 5% of your Maximum <span style=\"color: #01cdfe;\">Mana</span>.</span></td></tr></table><!--?800499:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

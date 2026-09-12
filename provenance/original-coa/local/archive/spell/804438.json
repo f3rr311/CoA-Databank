@@ -1,0 +1,8 @@
+{
+  "name_enus": "Singularity Core",
+  "icon": "inv_staff_2h_jaina_d_01",
+  "tooltip_enus": "<table><tr><td><b>Singularity Core</b><br />11% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #C49A6C;\">Continuum Spell</span><br />Empower your Wand attacks to deal an additional 50% Ranged Weapon Damage plus 2+ 1.0 Points Per Level+SP*0.25+RAP*0.12 additional Arcane damage for 3 sec plus 5 sec per <span style=\"color: #ffffff;\">Echo Fragment</span>.<br /><br />Can only have 1 <span style=\"color: #C49A6C;\">Continuum</span> spell active at a time.</span></td></tr></table><!--?804438:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

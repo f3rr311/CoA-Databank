@@ -1,0 +1,837 @@
+{
+ "build": {
+  "id": "1caf4376-e491-4896-a12e-bcddfb926158",
+  "title": "Nanobots, Explosions and Zap!",
+  "description": "[overview]\n**Help your group overcome challenges with your Nanobots, Beacons, Explosions and Zap!**\n*Don't be a healbot*\n\nAlways rotate your Augment, use explosive on 2+ targets, piercing during single target fights and stim when your group requires more green numbers from you. Keep your Nanobot Reconstruction and Nanobot Swarm on tank, mana regenerating bots on self and refresh all each minute. Position yourself a few yards from the tank, so the whole group benefits from your beacons. Keep one Replenishment Beacon up at all times. If you know there will be group damage incoming, you can prepare the group with shielding beacon and overcharge it for a group wide shield.\n\n**PET**\nRemember to put your Sentry Turret when the fight starts (beware it auto shots your target, so don't do it too early if you have the boss/trash targetted). You can cast Sentry Turret while casting something else.\nUse ZIGGI-6K (your signature pet) at all times. It does a lot of damage compared to other pets and passively heals with that damage. Even when you're running solo, it's not worth to use the bear, instead, throw your misdirect nanobots (Swarm) on your Sentry Turret and let it tank for you, once it's down just put a new one and repeat.\nIf your pet dies or decides to go on its own journey somewhere, you can resummon it instantly after using Basic Intuition.\nWatch your pet's mana from time to time, if it's getting low, pop its recharge ability, preferably during downtime. If you find yourself forgetting about pet's mana recharge, macro it with Air Strike, it's less optimal, but you can forget about that chore.\nDon't use your pet's Revitalizing Aura, the healing provided is not worth the mana used.\n\n**DPS**\nFor aoe don't waste your mana on Scrap Shot, but use Sticky Bomb on cooldown and make sure you have your explosive augment on for aoe auto shots. Pop an airstrike when you know the fight will be long enough. Use battle turret for big pulls if you know the group can stay alive while you're in it or have someone else control it.\nFor single target use piercing augment, throw a Sticky Bomb on cooldown and spam Scrap Shots as long as mana is not an issue.\nRemember that you don't auto shoot while moving, so try to find a comfortable place and stay there. If you need to reposition yourself, do a few steps and stop for a shot, distance depends on the attack speed of your weapon, you'll get to feel it.\n\n**Healing**\nAs previously mentioned, keep your nanobots on the tank, they will heal the whole group when they are in range. Zapping someone with nanobots is a guaranteed crit that leads to more aoe healing. Always prioritize Zap! for direct healing, if the tank takes heavy constant damage throw them a Med Pack (remember it has a pretty short range, so you might want to position yourself close enough to the tank, but far enough from the enemies to shoot them). Use beacons and overcharge them whenever needed (more details in Rotation). If somehow the group requires more healing, or someone is spread too much and stays out of range of beacons or nanobots (you can pull them with pet's active ability - see macros), shoot em with Repair Shot. For healing heavy fights swap to Stim Augmentation over explosive/piercing one.\n\n**Resources**\nKeep mana nanobots on yourself at all times and position yourself in replenishment beacon. Overcharge in a single Replenishment Beacon might not give you much mana (based on your total, if recharge costs more than 10% of your mana, it's even gonna drain you), so try to overcharge 2 or more whenever you can.\nYou should be fine without Mana Module, so use Power Module on yourself - it increases your dps by a lot. *Don't be a healbot*\n\n**Crowd Control**\nYour main two sources of important CC are\n- Macro Gravity Zone - 2 min cooldown aoe slow leading to a 6s stun. Very strong on big pulls, it's also always good to use it after calling an air strike, so the mobs don't leave the zone before it crashes.\n- Noise Box - 1.5 min cooldown aoe interrupt, it's close range unfortunately, but if you see a group of casters far away and the group doesn't LoS them, use your Rocket Boots and interrupt them.\n\nAll other tools are very situational. \nDiscombobulate! can be used to interupt an important cast, but it won't prevent from casting after the cc ends and even if you're the only person targetting that enemy, your turret will l likely shoot them and end the disorient, unless you macro a mouseover.\nI strongly suggest not using Deploy Blast Mine in a stack of mobs, as it knocks back both them and your group, messing up what the tank has prepared. The only good use of it is to bring stray enemies back to the stack, but the preperation part makes it usually not worth it.\n\n[talents]\nIf you notice that you rarely use an Air Strike, try using it, really. If you still don't and have that one player in your group (or yourself) going down all the time, put 2 last points of Tinker to the right side of the tree.\n\n[rotation]\nIf the tank stops to gather a pack or engages a boss, pop an air strike, throw sticky bomb, put down your sentry turret and start placing beacons. Remember that all beacons except Shield can stack, both their passive and overcharge effect, so never stack two shielding ones.\n\n- Shield Beacon - start with it, in an emergency situation your overcharge will apply a shield\n- Replenishment Beacon - always aim to have at least one up (you can have more than 1, they will stack, both passively and after an overcharge)\n- Restorative Beacon - only if the group takes constant damage higher than your nanobots output, or your Zap! is far from getting off cooldown and you know you will need more aoe healing. If that's not the case, it's better to hold 1 beacon stack off cooldown for Alarm Beacon, or if it's not needed - throw down another Replenishment Beacon.\n\nIf the pull looks scary, pop your Macro-Gravity Zone on tank, it will slow the mobs and lead to an aoe stun.\nIf there are lots of casters, or any of the mobs has an important cast (eg. Hex), cast your Noise Box.\nIf you notice someone gets Charm, Fear or Sleep, or you know enemies are going to throw those at you, pop an Alarm Beacon.\n\n[stats]\nAlways prioritize intellect as it boosts your ranged attack power, healing power, crit strike rating and mana (the more mana you have the more you regenerate with beacons!)\n\nIntellect > Spellpower > Crit Chance > Haste > MP5\n\n[gear]\nWhile leveling, don't force yourself into using mail armor only. If a cloth with more intellect drops, be happy about it!\nTreat your melee weapon as a stat stick for int and try to pair it with a shield for more survivability.\nThe attack speed on your gun matters the most, as you proc your agumentations with each shot. My suggestion would be [Precisely Calibrated Boomstick](https://db.ascension.gg/?item=2100)\n\n[leveling]\nOn low levels mana is your biggest problem. Overcharge might cost more than it returns with a single beacon. Until level 40 use Clockwork Pet for 20% mana back every minute, then Ziggi comes shining with your Graftbolts passive, but if you keep getting mana starved, feel free to keep Clockwork until you notice you don't need its extra mana.\n\n[macros]\nPet controlling macro (I use it on scrap shot, so your pet won't do a first hit if macro'ed on Sticky Bomb):\n#showtooltip\n/use Scrap Shot\n/petattack\n\nPet's instant heal + pull (I have it bound with Clique):\n#show Minicopter-Z\n/use [@mouseover, help, nodead] Minicopter-Z\n\nThere's my weakaura in the comments that shows:\n- active Augmentation \n- Nanobot Recharger on you\n- Zap! off cooldown \n- Module buff missing\n\n[tips]\nIf you start to hate the sound of a gun (fast firing auto shots + sentry turret), put a crossbow transmog on it. Less tinker vibe, but more sanity preserved.",
+  "class_id": 28,
+  "spec_id": 74,
+  "author_id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+  "talent_string": "W1siMjgtODctMi0wIiwxXSxbIjI4LTg3LTMtMSIsMl0sWyIyOC04Ny02LTAiLDFdLFsiMjgtODctNy0yIiwxXSxbIjI4LTg3LTQtMiIsMV0sWyIyOC04Ny00LTMiLDJdLFsiMjgtODctMi0zIiwxXSxbIjI4LTg3LTYtMyIsMV0sWyIyOC04Ny03LTRiIiwxXSxbIjI4LTg3LTgtNSIsMV0sWyIyOC04Ny03LTYiLDFdLFsiMjgtODctMy00IiwxXSxbIjI4LTg3LTUtNCIsMV0sWyIyOC04Ny00LTUiLDFdLFsiMjgtODctMy02IiwxXSxbIjI4LTg3LTUtNmIiLDFdLFsiMjgtODctNC03IiwxXSxbIjI4LTg3LTItNyIsMV0sWyIyOC04Ny01LTEiLDJdLFsiMjgtODctNi01IiwxXSxbIjI4LTg3LTEtNCIsMV0sWyIyOC04Ny00LTgiLDFdLFsiMjgtODctNC05IiwxXSxbIjI4LTc0LTQtMCIsMV0sWyIyOC03NC0xMC0wIiwxXSxbIjI4LTc0LTYtMSIsMV0sWyIyOC03NC04LTIiLDJdLFsiMjgtNzQtMi0xIiwyXSxbIjI4LTc0LTAtMiIsMV0sWyIyOC03NC0xLTMiLDFdLFsiMjgtNzQtMC00IiwxXSxbIjI4LTc0LTEtNSIsMV0sWyIyOC03NC00LTIiLDFdLFsiMjgtNzQtNC0zIiwxXSxbIjI4LTc0LTUtNGIiLDFdLFsiMjgtNzQtNC01IiwxXSxbIjI4LTc0LTItNiIsMV0sWyIyOC03NC03LTMiLDFdLFsiMjgtNzQtNy01IiwxXSxbIjI4LTc0LTgtNiIsMV0sWyIyOC03NC02LTYiLDFdLFsiMjgtNzQtNy03IiwxXSxbIjI4LTc0LTUtNiIsMV0sWyIyOC03NC02LTgiLDFdLFsiMjgtNzQtNy05IiwxXSxbIjI4LTc0LTEwLTIiLDFdLFsiMjgtNzQtMTAtNCIsMV0sWyIyOC03NC0xMC02IiwxXSxbIjI4LTc0LTEwLTgiLDFdLFsiMjgtNzQtNS03IiwyXV0",
+  "tags": [
+   "aoe",
+   "dungeon",
+   "weakaura"
+  ],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 6,
+  "downvotes": 4,
+  "comment_count": 6,
+  "created_at": "2026-07-16T12:07:04.034212+00:00",
+  "updated_at": "2026-07-24T13:25:28.829+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 4212,
+  "net_score": 2,
+  "has_talents": true,
+  "guide_section_count": 8,
+  "author": {
+   "id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+   "username": "barbastellus",
+   "avatar_url": "https://cdn.discordapp.com/avatars/303246343454064643/0aa82c673b4696bbcc0985a0e426cb37.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "4cfb046d-f06e-4789-abb4-cfc746d9622a",
+   "build_id": "1caf4376-e491-4896-a12e-bcddfb926158",
+   "author_id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+   "parent_id": null,
+   "body": "Mentioned weakaura:\n!WA:2!nJvxSXXvv4SmjnjdLw7nPjnHuyIde86w7yVU(N0FsI3nRJTJx7nZU2o24KSZSZD3zINDMj3zw)hTnGbQI43IBHslsqLfcHuBrL9H(apvfHqG4LJSeVaiaLhYdqKa5xkVGeN79oRZ6FAinpXi5DM5o3Z5EVFFNVZ9CDKXJ6xTR2I3rBXvsqc0IwoQruJBOSQUwHzmOUEjDTDPdjjjLrQ926YlAbxNaQRTnXiPPLTbL4S4YJ4QK21OInXRXr0CC1Dduujfm1OLiuVdTLMusB57B5uYRHuZ7z76Bnlrr1TIJHF1SbwLdFETmweAbSBHVVYuAEhvHs0mw4w6Uudcnr4u0RHe2wlUOg1qjNRRDGL3kbUfMLq9TCD2ZStVQwLatx6OEb47(Y64sOOvjzDHxmPlmAXI(KGiv1CkG9lJRLtGEYuJKlL6kI(K1ArYU8AWhN)eJ(PALjdtMLyNVQ4ZcmksKis05d9vOHPmkHGs2RvbnuP)k22ktyAfqOAf4ZLUv9d0ObY6fTCS8nLtG3cKxkGAvcXj)dFCA4JV8kge9kflMBbpcDGudNP)Xgora(IQwfQw8L89i22dA4lFl)k64uZjil2BR5RELK9Ln3vYMRp1CQo482xorfCm09S1wGqv5DvFaIMDG56MMHsqtvZMj1WdVCfNWPG8kusjCsZMcQLOUv8UPynkwX7v1VGMnrAzFIDroec7RjldVgg0H5t0qLCwoZqORHFIqD0ShxqqVB1ImanBavlqtAnbhWXy2iPNnPAQuJSSMJvznMx6g(09FtIMpZaItPaZDdnLWX1HSQbIeSECfgUq9jinB4VeRRmhbpBIYAwo9dpdAa8SWZbppCk8(r2ClXRyzun(KQxZCMbsn0jBwvZ2ZutAfeDu5aacH2UAgDNab9chqTCfmItwTGTMV)bG(Lt4JblShwHnbSeXCvTCk6sfRa5WOMbDqytkAH38gkWNcdtxlGmFqfkzcQMhkNiE7p5W9LotUrtmCFjpFFN9SdMBWXtbdjdNKbcBEHC6BefJSXarvPLR4tUcNoYlAkHK4(5q6H1mNd9Qy7tyMQZBB(msD0wh6EucoTGSqIicB6tk6crIoFeDQBGwajcoOJXh0Nz3cdxGBOWX9xXPG3TlI)YwPn7rDlH(Z)Pu4X5xm8(K4DwVVy49jJjRGx2U4lkAoLSjkpVY6gR0IsC8pe8mBZZkMsRknh(SYjuIlmLsqKZjCuuEsLMBw0hmntZChgdBSJyNiEm0tnlgC0rDelwTP09NrtkmsM4yiV1qh4GrqDQVwalsKyQx2IsDPMqJdCMz)J74B93VDw4e0qwwTGiX6aNgAGD9OdC6xH)qdslRBJ(NfcehzDikSp4rK19WuiOO6PHdJSpo4YWtidxY74dYKtf1kqMoZ4z46g2dTMqZXHqBnvz0zLBTt4Z8ihh(S)gC2Emw0r2am3PV5YSSh80cd5T)ZH5wrxPKXDowoAEc9Bw)lvtJ9TwM(9vR7114Qi8vWK4N10DUrDw1NFlmzp0c8KWtbTcFoz4ZdhhAgIbFbzkoxgbh)8GcCuOnzVgzzgNLKtKZHHbVZoGUExyqzOtEcfyNq3sqcjOhO3L4HKyGwe4mvPtvPyYR(0fs62N6CwgbMFThgsE4danTkQCz7MXYz5yOBsSkzgGFCct4SDdPysv4C8FhG)7JkhkiHHH0F0YT)3zsqwJnxNMhaO9Aro6XtDw4eWLGlpuKbo9FHF9xLKGRa55K8bh4dEH3xs5SrFlqBt8mN9(zWm5bJdd7A7Xsg3gcJGnIAxYR37gB0NHbMhA6jiAZ0hY5(tZjw(JPjgwAtlAL9BhX7AJi(Uq0T3CtS4SDnMzQX9Gez2z7T1t3Wx0ekhbHlWTgudEW1Uhilsz1dTBBFWXKV6rNVrGBtied0yyjIXxEijCR3q86j4qghVEFgEXWhl4Q1dzCiKbwiMXGU6XmGYw74cqq6m2ej11j9X5z)ovihJFzSv4BpKHNl9iB2ag69qSLnlGLHsc8cdkQhUqKgJYot1INFERY9CoVoUq67ly6YSSh)jX1aN(p8ySRdWfgHqxXME7FvMyv5qhdtRdZqKm4x)E)()5VyYTgNDJgXmnyTAy2MD71iBVKsemxIvbHUo)QB41BjK5jXkVmCNZPkR)HMNFf2lZr08CDek8MsGv)uMrk8pjmnp0YTMG3jLucdVj7JSEkYnGCgsD6IEFtXT(45jcPqDXyOJjZkrmURaO1Tj54GfycHTMIS3odJ6FqL7mYE3mIgPxH04mvV4iZgR0c907j9tdUyS8h(FEDZV(p5USp20)Ehh6oOryi3qBtUN6mIrz35TFP1i3Qok2y535iVv(3OgTwlvcJTV8qysMFm)cJt(BTZV2Om5JhcfpET4dywypWC5H5Hf4IQVui7cVaxV9IiJcVeCDoZXuyFz4RalMNrwlbF1A0Z9sNTLw2wP1E4YG6G7f7x1SI9il0zAvMoBBGzKF3w9ucP7nWhQvwpRunP12I7iCFNNJFH4(7XU(LBg3JMLvXU)0QKaRc2KR0r8ERdC37)haU7Tg4Yc24OBSGmD0ZSQPsF1j)4IUSDm6Q7BCuqQLedtkgOQY2eg(KWdJ1mbngHdEpwE4a8trTXushgrLxoecowTT8ctDxlRoUQXv8d8g1j)iM3FI1p4lexcAWeEC4qiL3oS)DbDSxE8cdQK58UOMew0W5Ly4ZzQo15RCUXnShE4XANdMIe9DlTn1xG0(KWuWO5HmsWfKGM0luXpWTmCkD2jyg0bUiVmBSSCih)jrv5W4sWiy2Ji1ypvS0D8OayJlv7arr7OMtXL6PGVtOdQZJQR6Jh)Irjzzv5g6A0PmpIJa6BCMnP3R(awz)wkpVUA7VB14IpVXsY3shNSwhN8Eug(aFW1)P706F9Z)Tqpln2Gz6tfpmVq4(bx)dZ1uNh73vRomuQ(p4BG(NLQtelZyXhK6S7siIVn0Kk)i5RX2itC09KSdikQhHjURk2gtL9)ZGhcJb4RY3tKz3677fwAxlEhQ2gSkzQbjnZZHeJFApK(kmt(Lx34hxMOwxUawXC6jgnxUrtZcy)g8AOzb2DVEUtN0tfmtVeZl0FL77c6242vBBxyU6GzEOUAV72W6kz5pZxpnioCZ6vMWG(nXkBPSoeCHxd((3fkHFadIyjiE91XmgI2c8dH3ip8M1JfxcE1WCJDc)igu8nRj)qvuOUOMy5BZfl1PsGS3v0XuRyyxOgbvhcr3M9HqWnj89QZpJMp0nO9QWRW8wOB(UOuDljJRru9allyk9tAMyUUOQtfpXgYdVEPKDlfD2D(I)3d",
+   "upvotes": 1,
+   "created_at": "2026-07-21T23:59:24.039543+00:00",
+   "updated_at": "2026-07-24T14:10:01.430378+00:00",
+   "downvotes": 1,
+   "hidden": false,
+   "author": {
+    "id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+    "username": "barbastellus",
+    "avatar_url": "https://cdn.discordapp.com/avatars/303246343454064643/0aa82c673b4696bbcc0985a0e426cb37.png"
+   }
+  },
+  {
+   "id": "3a647210-e835-456c-9111-baf48f7e9c66",
+   "build_id": "1caf4376-e491-4896-a12e-bcddfb926158",
+   "author_id": "e6249b90-f2c9-442a-90f7-58d358aa8964",
+   "parent_id": null,
+   "body": "https://www.youtube.com/watch?v=jWU4Yh1o1i4\nVideo proof that Replenishment Beacon overcharge doesn't work on tinker itself :)",
+   "upvotes": 1,
+   "created_at": "2026-07-23T18:03:12.087665+00:00",
+   "updated_at": "2026-07-24T14:10:06.363031+00:00",
+   "downvotes": 1,
+   "hidden": false,
+   "author": {
+    "id": "e6249b90-f2c9-442a-90f7-58d358aa8964",
+    "username": "Noobheal",
+    "avatar_url": "https://cdn.discordapp.com/avatars/181744520944156672/e33261577c5b67d3b3bc03fa6f055541.png"
+   }
+  },
+  {
+   "id": "d0d3cb03-d61d-479e-9cf0-84660b4acece",
+   "build_id": "1caf4376-e491-4896-a12e-bcddfb926158",
+   "author_id": "fa2d703b-e052-4122-a04d-2f32d3d2143e",
+   "parent_id": null,
+   "body": "Bro got exposed.",
+   "upvotes": 1,
+   "created_at": "2026-07-23T18:07:36.369833+00:00",
+   "updated_at": "2026-07-23T22:41:07.073703+00:00",
+   "downvotes": 1,
+   "hidden": false,
+   "author": {
+    "id": "fa2d703b-e052-4122-a04d-2f32d3d2143e",
+    "username": ".karzo",
+    "avatar_url": "https://cdn.discordapp.com/avatars/293475948068601876/c0310cf80718db3c57c460196abb2f9a.png"
+   }
+  },
+  {
+   "id": "1c02d5be-eeee-4b54-a5a4-7ecb9072de43",
+   "build_id": "1caf4376-e491-4896-a12e-bcddfb926158",
+   "author_id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+   "parent_id": "d0d3cb03-d61d-479e-9cf0-84660b4acece",
+   "body": "Yeah I'm really sorry for Noobheal, but a lesson learned at least!",
+   "upvotes": 1,
+   "created_at": "2026-07-23T22:41:37.076426+00:00",
+   "updated_at": "2026-07-30T16:03:11.916824+00:00",
+   "downvotes": 1,
+   "hidden": false,
+   "author": {
+    "id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+    "username": "barbastellus",
+    "avatar_url": "https://cdn.discordapp.com/avatars/303246343454064643/0aa82c673b4696bbcc0985a0e426cb37.png"
+   }
+  },
+  {
+   "id": "04b0c74d-9f0f-4e0d-895c-02fda66b2614",
+   "build_id": "1caf4376-e491-4896-a12e-bcddfb926158",
+   "author_id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+   "parent_id": "3a647210-e835-456c-9111-baf48f7e9c66",
+   "body": "Oh boy, I did not expect your fragile ego to push you to so much effort, to post a video and downvote my guide, kinda impressed.\nI need to admit that I got exposed. Instead of ending my journey at 40, I’ve reached 60 and ran multiple mythic dungeons while writing a guide. My mistake!\nNow I know why you don’t use ZIGGI-6K, it’s not that good at lower levels (I’m so glad I didn’t point it out, it could lead to another video).\nNow that you’re so good at tooltips, notice the 307 mana cost on Overcharge? Notice it did not take your mana on the video? My guess is due to low level and intellect, that % mana gained back from Overcharge barely compensates the cost of Overcharge, then yeah, in your case it’s not that good (altho it’s awesome for teammates and mitigates high cost of Overcharge).\nIn my case with 326 int and 6436 mana, the overcharge cost of 401 mana makes it return 643 mana with one beacon, 1287 mana with 2 and 1930 mana with 3. After subtracting the mana cost of Overcharge it gives accordingly 242, 886 and 1529.\nSo again, I’m sorry I assumed you scratched the endgame before writing a guide or arguing with others. Good luck with your YouTube career and life, hope both are going well.\nI took the effort to record that:\nhttps://youtu.be/YdClPnRJtmw\nPS: Sorry if the video isn’t of the highest standards, I’m not a professional youtuber, please don’t record another one regarding that issue.",
+   "upvotes": 1,
+   "created_at": "2026-07-23T22:41:45.411118+00:00",
+   "updated_at": "2026-07-23T22:41:50.341475+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+    "username": "barbastellus",
+    "avatar_url": "https://cdn.discordapp.com/avatars/303246343454064643/0aa82c673b4696bbcc0985a0e426cb37.png"
+   }
+  },
+  {
+   "id": "7898eaed-652d-4609-9d4b-7729a9d08e95",
+   "build_id": "1caf4376-e491-4896-a12e-bcddfb926158",
+   "author_id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+   "parent_id": "3a647210-e835-456c-9111-baf48f7e9c66",
+   "body": "you forgot to sweep under carpet in here, removing the downvotes would be appreciated too",
+   "upvotes": 0,
+   "created_at": "2026-07-27T10:09:19.537749+00:00",
+   "updated_at": "2026-07-27T10:09:19.537749+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+    "username": "barbastellus",
+    "avatar_url": "https://cdn.discordapp.com/avatars/303246343454064643/0aa82c673b4696bbcc0985a0e426cb37.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "102d9cf7-095d-4fb4-80e7-c0949104d65c",
+   "title": "Noobheal Invention Tinker Build",
+   "class_id": 28,
+   "spec_id": 74,
+   "author_id": "e6249b90-f2c9-442a-90f7-58d358aa8964",
+   "tags": [
+    "raid",
+    "leveling",
+    "dungeon",
+    "beginner"
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 1,
+   "comment_count": 3,
+   "view_count": 1097,
+   "featured": false,
+   "created_at": "2026-07-21T13:59:40.426257+00:00",
+   "updated_at": "2026-07-25T15:06:45.1+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "e6249b90-f2c9-442a-90f7-58d358aa8964",
+    "username": "Noobheal",
+    "avatar_url": "https://cdn.discordapp.com/avatars/181744520944156672/e33261577c5b67d3b3bc03fa6f055541.png"
+   }
+  },
+  {
+   "id": "367f91fe-9108-4d77-9994-054ff4dd090c",
+   "title": "Tinker Demolition PvE",
+   "class_id": 28,
+   "spec_id": 73,
+   "author_id": "574155cb-df15-424b-bb48-2eb7cbb56521",
+   "tags": [
+    "PvE Dungeon Raid AoE Guide"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 3,
+   "view_count": 4963,
+   "featured": false,
+   "created_at": "2026-07-19T14:50:23.181203+00:00",
+   "updated_at": "2026-07-22T07:58:40.686+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "574155cb-df15-424b-bb48-2eb7cbb56521",
+    "username": "disturbedmirror",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJgW2sw_uPjGbkjQ9RXY9o-ak16pMDimJir4JeYoQF6MuYKHA=s96-c"
+   }
+  },
+  {
+   "id": "b5c3caf9-df2b-4629-9a35-e65f940069ed",
+   "title": "Tinker Demo PVP",
+   "class_id": 28,
+   "spec_id": 73,
+   "author_id": "247b79e3-0f93-4a8f-842e-c55c19c7f2da",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 966,
+   "featured": false,
+   "created_at": "2026-07-20T18:33:05.991506+00:00",
+   "updated_at": "2026-07-20T18:36:05.397+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "247b79e3-0f93-4a8f-842e-c55c19c7f2da",
+    "username": "mang0782",
+    "avatar_url": "https://cdn.discordapp.com/avatars/233807059919962112/42ed0f48c6ae22ba1b51a3a08846af13.png"
+   }
+  }
+ ],
+ "class": "Tinker",
+ "spec": "Invention",
+ "allocations": [
+  [
+   "28-87-2-0",
+   1
+  ],
+  [
+   "28-87-3-1",
+   2
+  ],
+  [
+   "28-87-6-0",
+   1
+  ],
+  [
+   "28-87-7-2",
+   1
+  ],
+  [
+   "28-87-4-2",
+   1
+  ],
+  [
+   "28-87-4-3",
+   2
+  ],
+  [
+   "28-87-2-3",
+   1
+  ],
+  [
+   "28-87-6-3",
+   1
+  ],
+  [
+   "28-87-7-4b",
+   1
+  ],
+  [
+   "28-87-8-5",
+   1
+  ],
+  [
+   "28-87-7-6",
+   1
+  ],
+  [
+   "28-87-3-4",
+   1
+  ],
+  [
+   "28-87-5-4",
+   1
+  ],
+  [
+   "28-87-4-5",
+   1
+  ],
+  [
+   "28-87-3-6",
+   1
+  ],
+  [
+   "28-87-5-6b",
+   1
+  ],
+  [
+   "28-87-4-7",
+   1
+  ],
+  [
+   "28-87-2-7",
+   1
+  ],
+  [
+   "28-87-5-1",
+   2
+  ],
+  [
+   "28-87-6-5",
+   1
+  ],
+  [
+   "28-87-1-4",
+   1
+  ],
+  [
+   "28-87-4-8",
+   1
+  ],
+  [
+   "28-87-4-9",
+   1
+  ],
+  [
+   "28-74-4-0",
+   1
+  ],
+  [
+   "28-74-10-0",
+   1
+  ],
+  [
+   "28-74-6-1",
+   1
+  ],
+  [
+   "28-74-8-2",
+   2
+  ],
+  [
+   "28-74-2-1",
+   2
+  ],
+  [
+   "28-74-0-2",
+   1
+  ],
+  [
+   "28-74-1-3",
+   1
+  ],
+  [
+   "28-74-0-4",
+   1
+  ],
+  [
+   "28-74-1-5",
+   1
+  ],
+  [
+   "28-74-4-2",
+   1
+  ],
+  [
+   "28-74-4-3",
+   1
+  ],
+  [
+   "28-74-5-4b",
+   1
+  ],
+  [
+   "28-74-4-5",
+   1
+  ],
+  [
+   "28-74-2-6",
+   1
+  ],
+  [
+   "28-74-7-3",
+   1
+  ],
+  [
+   "28-74-7-5",
+   1
+  ],
+  [
+   "28-74-8-6",
+   1
+  ],
+  [
+   "28-74-6-6",
+   1
+  ],
+  [
+   "28-74-7-7",
+   1
+  ],
+  [
+   "28-74-5-6",
+   1
+  ],
+  [
+   "28-74-6-8",
+   1
+  ],
+  [
+   "28-74-7-9",
+   1
+  ],
+  [
+   "28-74-10-2",
+   1
+  ],
+  [
+   "28-74-10-4",
+   1
+  ],
+  [
+   "28-74-10-6",
+   1
+  ],
+  [
+   "28-74-10-8",
+   1
+  ],
+  [
+   "28-74-5-7",
+   2
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "28-87-2-0",
+   "points": 1,
+   "name": "Rocket Boots",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 500241
+  },
+  {
+   "id": "28-87-3-1",
+   "points": 2,
+   "name": "Explosive Personality",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 704111
+  },
+  {
+   "id": "28-87-6-0",
+   "points": 1,
+   "name": "Nanobot Reconstruction",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 801809
+  },
+  {
+   "id": "28-87-7-2",
+   "points": 1,
+   "name": "Hasty Tech",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705805
+  },
+  {
+   "id": "28-87-4-2",
+   "points": 1,
+   "name": "Clockwork Ingenuity",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 505336
+  },
+  {
+   "id": "28-87-4-3",
+   "points": 2,
+   "name": "Flexible Thinking",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 705825
+  },
+  {
+   "id": "28-87-2-3",
+   "points": 1,
+   "name": "Macro-Gravity Zone",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 707104
+  },
+  {
+   "id": "28-87-6-3",
+   "points": 1,
+   "name": "Med Pack",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 800347
+  },
+  {
+   "id": "28-87-7-4b",
+   "points": 1,
+   "name": "Enhanced Procedures",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 506819
+  },
+  {
+   "id": "28-87-8-5",
+   "points": 1,
+   "name": "Modulator",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 707832
+  },
+  {
+   "id": "28-87-7-6",
+   "points": 1,
+   "name": "Build: Alarm Beacon",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 560754
+  },
+  {
+   "id": "28-87-3-4",
+   "points": 1,
+   "name": "Maniacal",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 706375
+  },
+  {
+   "id": "28-87-5-4",
+   "points": 1,
+   "name": "Efficiency",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705806
+  },
+  {
+   "id": "28-87-4-5",
+   "points": 1,
+   "name": "Kinetic Shield",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 806224
+  },
+  {
+   "id": "28-87-3-6",
+   "points": 1,
+   "name": "I'm The Creator Now",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 503534
+  },
+  {
+   "id": "28-87-5-6b",
+   "points": 1,
+   "name": "Cutting Edge Technology",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 707398
+  },
+  {
+   "id": "28-87-4-7",
+   "points": 1,
+   "name": "Mechanosoldier",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705827
+  },
+  {
+   "id": "28-87-2-7",
+   "points": 1,
+   "name": "Ventilation",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 572367
+  },
+  {
+   "id": "28-87-5-1",
+   "points": 2,
+   "name": "Refined Gunpowder",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 705781
+  },
+  {
+   "id": "28-87-6-5",
+   "points": 1,
+   "name": "Mechaplating",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705831
+  },
+  {
+   "id": "28-87-1-4",
+   "points": 1,
+   "name": "Frozen Bomb Launcher",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 707265
+  },
+  {
+   "id": "28-87-4-8",
+   "points": 1,
+   "name": "Air Strike",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 801744
+  },
+  {
+   "id": "28-87-4-9",
+   "points": 1,
+   "name": "Goblin Depravity",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 806762
+  },
+  {
+   "id": "28-74-4-0",
+   "points": 1,
+   "name": "Build: Restorative Beacon",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 801801
+  },
+  {
+   "id": "28-74-10-0",
+   "points": 1,
+   "name": "Build: ZIGGI-6K",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 92140
+  },
+  {
+   "id": "28-74-6-1",
+   "points": 1,
+   "name": "Field Medic",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560789
+  },
+  {
+   "id": "28-74-8-2",
+   "points": 2,
+   "name": "Technician",
+   "maxPoints": 2,
+   "tree": "Invention",
+   "spellId": 560735
+  },
+  {
+   "id": "28-74-2-1",
+   "points": 2,
+   "name": "Over-Repaired",
+   "maxPoints": 2,
+   "tree": "Invention",
+   "spellId": 807498
+  },
+  {
+   "id": "28-74-0-2",
+   "points": 1,
+   "name": "Master Builder",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 807966
+  },
+  {
+   "id": "28-74-1-3",
+   "points": 1,
+   "name": "Macro Designer",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 505230
+  },
+  {
+   "id": "28-74-0-4",
+   "points": 1,
+   "name": "Nanobot Swarm",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 801709
+  },
+  {
+   "id": "28-74-1-5",
+   "points": 1,
+   "name": "Healing Radiator",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705846
+  },
+  {
+   "id": "28-74-4-2",
+   "points": 1,
+   "name": "Stim Augmentation",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 653239
+  },
+  {
+   "id": "28-74-4-3",
+   "points": 1,
+   "name": "Inventor's Tool Belt",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560742
+  },
+  {
+   "id": "28-74-5-4b",
+   "points": 1,
+   "name": "Bandage Gun",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705780
+  },
+  {
+   "id": "28-74-4-5",
+   "points": 1,
+   "name": "Fine Tuning",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 300877
+  },
+  {
+   "id": "28-74-2-6",
+   "points": 1,
+   "name": "Cybernetic Revivification",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705811
+  },
+  {
+   "id": "28-74-7-3",
+   "points": 1,
+   "name": "Eureka!",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 503552
+  },
+  {
+   "id": "28-74-7-5",
+   "points": 1,
+   "name": "Zap!",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 680196
+  },
+  {
+   "id": "28-74-8-6",
+   "points": 1,
+   "name": "Trust the Science!",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 300653
+  },
+  {
+   "id": "28-74-6-6",
+   "points": 1,
+   "name": "Rejuvenating Gadget",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 805306
+  },
+  {
+   "id": "28-74-7-7",
+   "points": 1,
+   "name": "Resourceful Tech",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560791
+  },
+  {
+   "id": "28-74-5-6",
+   "points": 1,
+   "name": "Build: Noise Box",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 807723
+  },
+  {
+   "id": "28-74-6-8",
+   "points": 1,
+   "name": "Emergency Circumvented",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 805303
+  },
+  {
+   "id": "28-74-7-9",
+   "points": 1,
+   "name": "Emergency Enhancer",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560787
+  },
+  {
+   "id": "28-74-10-2",
+   "points": 1,
+   "name": "Scientific Nature",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705802
+  },
+  {
+   "id": "28-74-10-4",
+   "points": 1,
+   "name": "Beacon Charging",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 524834
+  },
+  {
+   "id": "28-74-10-6",
+   "points": 1,
+   "name": "Graftbolts",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560785
+  },
+  {
+   "id": "28-74-10-8",
+   "points": 1,
+   "name": "Improved Graftbolts",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 807748
+  },
+  {
+   "id": "28-74-5-7",
+   "points": 2,
+   "name": "Mana Capacitors",
+   "maxPoints": 2,
+   "tree": "Invention",
+   "spellId": 506818
+  }
+ ]
+}

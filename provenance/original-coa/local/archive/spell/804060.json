@@ -1,0 +1,8 @@
+{
+  "name_enus": "Permafrost Rune",
+  "icon": "nhi_icestone_border",
+  "tooltip_enus": "<table><tr><td><b>Permafrost Rune</b><br />39% of base mana<br /><table width=\"100%\"><tr><td>1 sec cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #3399ff;\">Requires Frozen Target</span><br />Inscribe a rune of permafrost and unleash it on an enemy, incapacitating them for 40&nbsp;sec (10 sec vs players). Damage taken will end the effect. <br /><br />Affected enemies are considered <span style=\"color: #3399ff;\">Frozen</span>.<br /><br />Using this while in <span style=\"color: #ffffff;\">Runeshroud</span> causes it to incur an 80% reduced cooldown. </span></td></tr></table><!--?804060:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

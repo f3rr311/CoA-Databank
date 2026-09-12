@@ -1,0 +1,6 @@
+{
+  "name_enus": "Thunderfury, Blessed Blade of the Windseeker",
+  "quality": 5,
+  "icon": "inv_misc_bandana_01",
+  "tooltip_enus": "<table><tr><td><b class=\"q5\">Thunderfury, Blessed Blade of the Windseeker</b><br /><!--bo-->Binds when picked up<br />Unique-Equipped<table width=\"100%\"><tr><td>One-Hand</td><th>Sword</th></tr></table><table width=\"100%\"><tr><td><!--dmg-->44 - 115 Damage</td><th>Speed <!--spd-->1.90</th></tr></table>+16 - 30 Nature Damage<br /><!--dps-->(53.9 damage per second)<br /><span><!--stat3-->+12 Agility</span><br /><span><!--stat7-->+16 Stamina</span><br />+8 Fire Resistance<br />+9 Nature Resistance<br /><!--e--><!--ps-->Durability 125 / 125<br />Requires Level 60<br />Item Level 80<br /></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"?spell=101648\">Increases PvE Power by 48.</a></span><br /><span class=\"q2\">Chance on hit: <a href=\"?spell=821993\">Blasts your enemy with lightning, dealing SP*0.225+AP*0.1462+300 Nature damage and then jumping to additional nearby enemies.  Each jump reduces that victim's Nature resistance by 25. Affects 5 targets. Your primary target is also consumed by a cyclone, slowing its attack speed by 20% for 12&nbsp;sec.</a> (4 procs per minute)</span><br /></td></tr></table><!--?19019:1:1:60-->"
+}

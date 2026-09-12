@@ -1,0 +1,15 @@
+{
+  "name_enus": "Draconic Heritage",
+  "icon": "ability_monk_breathoffire",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Draconic Heritage</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of<!--sp500173:0--><!--sp500173--> <span style=\"color: #ffffff;\">Flare Bolt</span> by 5%.</span></td></tr></table><!--?704810:1:1:80-->",
+  "spells_enus": {
+    "500173": [
+      [
+        "",
+        " <span style=\"color: #ffffff\">Breaths</span> and"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

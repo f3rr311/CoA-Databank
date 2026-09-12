@@ -1,0 +1,19 @@
+{
+  "name_enus": "Legion March",
+  "icon": "_warlock_rueeardenteverte",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Legion March</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the range of <!--sp520853:0--><span style=\"color: #ffffff;\">Chaos Rush</span><!--sp520853--> by 3 yds<!--sp520853:0--><!--sp520853-->.</span></td></tr></table><!--?805244:1:1:80-->",
+  "spells_enus": {
+    "520853": [
+      [
+        "<span style=\"color: #ffffff\">Chaos Rush</span>",
+        "<span style=\"color: #ffffff\">Fel Torpedo</span>"
+      ],
+      [
+        "",
+        " and its critical strike chance by 10%"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

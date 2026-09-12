@@ -1,0 +1,8 @@
+{
+  "name_enus": "Abyssal Decay",
+  "icon": "spell_priest_void_blast",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Abyssal Decay</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>9% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Applies an Eldritch curse to an enemy, causing 9+(PL*0.6) Shadow damage every 3 sec for 18&nbsp;sec.<br /><br />Generates 5 Insanity.</span></td></tr></table><!--?500705:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

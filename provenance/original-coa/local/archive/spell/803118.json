@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ranger General's Command",
+  "icon": "_highelf_04",
+  "tooltip_enus": "<table><tr><td><b>Ranger General's Command</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #8fff7a;\">Consumes Advantage</span><br />Empower an ally for 4 seconds, increasing their critical strike chance by 0+Agi*0.04%, and their movement speed by 0%, scaling with Agility.<br /><br />Duration increased for each stack of <span style=\"color: #8fff7a;\">Advantage</span> exhausted.</span></td></tr></table><!--?803118:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

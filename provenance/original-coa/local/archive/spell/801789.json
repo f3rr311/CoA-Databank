@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ancestral Might",
+  "icon": "ability_warrior_bloodsurge",
+  "tooltip_enus": "<table><tr><td><b>Ancestral Might</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ec8201;\">Enrage Effect</span><br />Enrage for 10&nbsp;sec, reducing the Energy cost of your Physical abilities by 25% and reducing damage taken by 50%.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_warrior_focusedrage.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804337'> Barbaric Rage </a> <br />\n                            <span> While enraged, the global cooldown of Barbarian abilities is reduced by 30%.</span><br /></span></td></tr></table><!--?801789:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

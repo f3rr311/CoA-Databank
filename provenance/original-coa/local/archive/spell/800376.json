@@ -1,0 +1,8 @@
+{
+  "name_enus": "Silvercurrent",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Silvercurrent</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>8% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66ccff;\">Unleashes 1 Scattered Star</span><br /><span style=\"color: #ffffff;\">Drains 20% Maximum Mana</span><br />Douse an enemy with enchanted water. <br /><br />After 6&nbsp;sec, they will take 37 Spellfrost Damage and up to 8 enemies around them take 18 Spellfrost Damage, increased further by your maximum mana.</span></td></tr></table><!--?800376:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

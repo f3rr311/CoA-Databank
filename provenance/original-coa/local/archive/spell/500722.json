@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blade of C'thun",
+  "icon": "sha_spell_warlock_demonsoul_nightmare",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blade of C'thun</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Blade of the Empire</span> now has a 0 sec cooldown and deals an additional 7+6.0 Points Per Level+ShaP*0.15 Shadow Damage, generates 10 <span style=\"color: #cfa6ff;\">Insanity</span>, and its range is increased by 100 yds.<br /><br />Additionally, its damage is increased by 1% for each stack of <span style=\"color: #cfa6ff;\">Insanity</span>.</span></td></tr></table><!--?500722:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

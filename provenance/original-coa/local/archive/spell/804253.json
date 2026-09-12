@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blessing of Purity",
+  "icon": "ability_priest_angelicbulwark",
+  "tooltip_enus": "<table><tr><td><b>Blessing of Purity</b><br />45% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Protect a <span style=\"color: #ffffff;\">Blessed</span> ally, making them immune to all damage for 4&nbsp;sec but reducing their damage and healing done by 25%.<br /><br />Only usable on your ally with <span style=\"color: #ffffff;\">Bless</span> active.</span></td></tr></table><!--?804253:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

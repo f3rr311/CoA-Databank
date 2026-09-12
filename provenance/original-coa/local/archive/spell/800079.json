@@ -1,0 +1,8 @@
+{
+  "name_enus": "Deepwood Poison",
+  "icon": "nhi_poisonedhand_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Deepwood Poison</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Flank</span> and <span style=\"color: #ffffff;\">Exploit</span> apply <span style=\"color: #ffffff;\">Deepwood Poison</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_gouge.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=801472'> Barbed Quills </a> <br />\n                            <span> Deals 69 to 75 Nature Damage every 3 sec and reduces their periodic healing received by 0% for 9&nbsp;sec, stacking 4 times.</span><br /></span></td></tr></table><!--?800079:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

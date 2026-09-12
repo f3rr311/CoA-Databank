@@ -1,0 +1,1447 @@
+{
+  "reason": "M15.C13 replaces inert Animation pilot scaffolds with the accepted five-rank playable pilot.",
+  "records": {
+    "nodes": [
+      {
+        "choice_group": null,
+        "column": 0,
+        "description": "Mechanically closes the recovered Skeletal Archer formation.",
+        "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+        "key": "talent.necromancer.animation.skeletal-archer-cadre",
+        "level_gate": 10,
+        "max_rank": 1,
+        "name": "Skeletal Archer Cadre",
+        "point_gate": 0,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Recovered spell 805040 and helper 500330 close this node's summon behavior.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "content/provenance/original-coa/local/archive/spell/805040.json"
+          ]
+        },
+        "purchase_kind": "point",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.animate-skeletal-archer"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "summon"
+        ],
+        "row": 0,
+        "tree_key": "tree.necromancer.animation"
+      },
+      {
+        "choice_group": null,
+        "column": 2,
+        "description": "Structural allocation scaffold only; no summon or command mechanic is claimed.",
+        "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+        "key": "talent.necromancer.animation.grave-legion",
+        "level_gate": 10,
+        "max_rank": 5,
+        "name": "Grave Legion",
+        "point_gate": 0,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Source placement is retained, but this node is explicitly structural and claims no recovered mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=503770"
+          ]
+        },
+        "purchase_kind": "point",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.scaffold.rank-1",
+          "spell.necromancer.animation.scaffold.rank-2",
+          "spell.necromancer.animation.scaffold.rank-3",
+          "spell.necromancer.animation.scaffold.rank-4",
+          "spell.necromancer.animation.scaffold.rank-5"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "scaffold"
+        ],
+        "row": 0,
+        "tree_key": "tree.necromancer.animation"
+      },
+      {
+        "choice_group": null,
+        "column": 4,
+        "description": "Structural allocation scaffold only; no summon or command mechanic is claimed.",
+        "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+        "key": "talent.necromancer.animation.ossuary-ranks",
+        "level_gate": 10,
+        "max_rank": 5,
+        "name": "Ossuary Ranks",
+        "point_gate": 0,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Source placement is retained, but this node is explicitly structural and claims no recovered mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "content/provenance/original-coa/local/archive/spell/500978.json"
+          ]
+        },
+        "purchase_kind": "point",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.scaffold.rank-1",
+          "spell.necromancer.animation.scaffold.rank-2",
+          "spell.necromancer.animation.scaffold.rank-3",
+          "spell.necromancer.animation.scaffold.rank-4",
+          "spell.necromancer.animation.scaffold.rank-5"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "scaffold"
+        ],
+        "row": 0,
+        "tree_key": "tree.necromancer.animation"
+      },
+      {
+        "choice_group": null,
+        "column": 6,
+        "description": "Structural allocation scaffold only; no summon or command mechanic is claimed.",
+        "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+        "key": "talent.necromancer.animation.bone-chorus",
+        "level_gate": 10,
+        "max_rank": 5,
+        "name": "Bone Chorus",
+        "point_gate": 0,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Source placement is retained, but this node is explicitly structural and claims no recovered mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=504868"
+          ]
+        },
+        "purchase_kind": "point",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.scaffold.rank-1",
+          "spell.necromancer.animation.scaffold.rank-2",
+          "spell.necromancer.animation.scaffold.rank-3",
+          "spell.necromancer.animation.scaffold.rank-4",
+          "spell.necromancer.animation.scaffold.rank-5"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "scaffold"
+        ],
+        "row": 0,
+        "tree_key": "tree.necromancer.animation"
+      },
+      {
+        "choice_group": "animation-sovereign",
+        "column": 0,
+        "description": "Structural allocation scaffold only; no summon or command mechanic is claimed.",
+        "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+        "key": "talent.necromancer.animation.tomb-kings-muster",
+        "level_gate": 10,
+        "max_rank": 5,
+        "name": "Tomb King's Muster",
+        "point_gate": 5,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Source placement is retained, but this node is explicitly structural and claims no recovered mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "content/provenance/original-coa/local/archive/spell/805044.json"
+          ]
+        },
+        "purchase_kind": "point",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.scaffold.rank-1",
+          "spell.necromancer.animation.scaffold.rank-2",
+          "spell.necromancer.animation.scaffold.rank-3",
+          "spell.necromancer.animation.scaffold.rank-4",
+          "spell.necromancer.animation.scaffold.rank-5"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "scaffold"
+        ],
+        "row": 1,
+        "tree_key": "tree.necromancer.animation"
+      },
+      {
+        "choice_group": "animation-sovereign",
+        "column": 1,
+        "description": "Structural allocation scaffold only; no summon or command mechanic is claimed.",
+        "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+        "key": "talent.necromancer.animation.bone-wraith-muster",
+        "level_gate": 10,
+        "max_rank": 5,
+        "name": "Bone Wraith Muster",
+        "point_gate": 5,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Source placement is retained, but this node is explicitly structural and claims no recovered mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "content/provenance/original-coa/local/archive/spell/805032.json"
+          ]
+        },
+        "purchase_kind": "point",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.scaffold.rank-1",
+          "spell.necromancer.animation.scaffold.rank-2",
+          "spell.necromancer.animation.scaffold.rank-3",
+          "spell.necromancer.animation.scaffold.rank-4",
+          "spell.necromancer.animation.scaffold.rank-5"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "scaffold"
+        ],
+        "row": 1,
+        "tree_key": "tree.necromancer.animation"
+      },
+      {
+        "choice_group": null,
+        "column": 2,
+        "description": "Structural allocation scaffold only; no summon or command mechanic is claimed.",
+        "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+        "key": "talent.necromancer.animation.plaguefather-procession",
+        "level_gate": 10,
+        "max_rank": 5,
+        "name": "Plaguefather Procession",
+        "point_gate": 5,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Source placement is retained, but this node is explicitly structural and claims no recovered mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "content/provenance/original-coa/local/archive/spell/805048.json"
+          ]
+        },
+        "purchase_kind": "point",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.scaffold.rank-1",
+          "spell.necromancer.animation.scaffold.rank-2",
+          "spell.necromancer.animation.scaffold.rank-3",
+          "spell.necromancer.animation.scaffold.rank-4",
+          "spell.necromancer.animation.scaffold.rank-5"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "scaffold"
+        ],
+        "row": 1,
+        "tree_key": "tree.necromancer.animation"
+      },
+      {
+        "choice_group": null,
+        "column": 4,
+        "description": "Structural allocation scaffold only; no summon or command mechanic is claimed.",
+        "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+        "key": "talent.necromancer.animation.relentless-dead",
+        "level_gate": 10,
+        "max_rank": 5,
+        "name": "Relentless Dead",
+        "point_gate": 5,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Source placement is retained, but this node is explicitly structural and claims no recovered mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=800037"
+          ]
+        },
+        "purchase_kind": "point",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.scaffold.rank-1",
+          "spell.necromancer.animation.scaffold.rank-2",
+          "spell.necromancer.animation.scaffold.rank-3",
+          "spell.necromancer.animation.scaffold.rank-4",
+          "spell.necromancer.animation.scaffold.rank-5"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "scaffold"
+        ],
+        "row": 1,
+        "tree_key": "tree.necromancer.animation"
+      },
+      {
+        "choice_group": null,
+        "column": 6,
+        "description": "Structural allocation scaffold only; no summon or command mechanic is claimed.",
+        "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+        "key": "talent.necromancer.animation.necrotic-volley",
+        "level_gate": 10,
+        "max_rank": 5,
+        "name": "Necrotic Volley",
+        "point_gate": 5,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Source placement is retained, but this node is explicitly structural and claims no recovered mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=801516"
+          ]
+        },
+        "purchase_kind": "point",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.scaffold.rank-1",
+          "spell.necromancer.animation.scaffold.rank-2",
+          "spell.necromancer.animation.scaffold.rank-3",
+          "spell.necromancer.animation.scaffold.rank-4",
+          "spell.necromancer.animation.scaffold.rank-5"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "scaffold"
+        ],
+        "row": 1,
+        "tree_key": "tree.necromancer.animation"
+      },
+      {
+        "choice_group": null,
+        "column": 0,
+        "description": "Animate and Command casts grant stacking melee, ranged, and spell haste.",
+        "icon": "Interface\\Icons\\Ability_Fiegndead",
+        "key": "talent.necromancer.animation.mindless-fury",
+        "level_gate": 50,
+        "max_rank": 1,
+        "name": "Graveborn Fury",
+        "point_gate": 10,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Recovered 805674 supplies the exact 1% haste, 10-second, five-stack behavior. ByteCOA's compact proof tree maps this recovered point talent into the replaced Archer General Essence slot; this is a progression reconstruction, not a claim about the original currency.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#node=23-61-1-6a",
+            "content/provenance/original-coa/local/archive/spell/805674.json"
+          ]
+        },
+        "purchase_kind": "essence",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.mindless-fury"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "animate",
+          "command",
+          "haste"
+        ],
+        "row": 2,
+        "tree_key": "tree.necromancer.animation"
+      },
+      {
+        "choice_group": null,
+        "column": 2,
+        "description": "Structural Essence scaffold; Tomb King runtime behavior is not claimed.",
+        "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+        "key": "talent.necromancer.animation.tomb-sovereign",
+        "level_gate": 50,
+        "max_rank": 1,
+        "name": "Tomb Sovereign",
+        "point_gate": 10,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Source placement is retained, but this node is explicitly structural and claims no recovered mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "content/provenance/original-coa/local/archive/spell/805044.json"
+          ]
+        },
+        "purchase_kind": "essence",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.scaffold.rank-1"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "scaffold"
+        ],
+        "row": 2,
+        "tree_key": "tree.necromancer.animation"
+      },
+      {
+        "choice_group": null,
+        "column": 4,
+        "description": "Structural Essence scaffold; Plaguefather runtime behavior is not claimed.",
+        "icon": "Interface\\Icons\\Spell_Shadow_RaiseDead",
+        "key": "talent.necromancer.animation.plaguefather-crown",
+        "level_gate": 50,
+        "max_rank": 1,
+        "name": "Plaguefather Crown",
+        "point_gate": 10,
+        "prerequisite_node_keys": [],
+        "prerequisite_ranks": [],
+        "provenance": {
+          "authoring_rationale": "Source placement is retained, but this node is explicitly structural and claims no recovered mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "content/provenance/original-coa/local/archive/spell/805048.json"
+          ]
+        },
+        "purchase_kind": "essence",
+        "rank_spell_keys": [
+          "spell.necromancer.animation.scaffold.rank-1"
+        ],
+        "role_tags": [
+          "dps"
+        ],
+        "rotation_tags": [
+          "scaffold"
+        ],
+        "row": 2,
+        "tree_key": "tree.necromancer.animation"
+      }
+    ],
+    "spells": [
+      {
+        "aura_text": {
+          "not_applicable_reason": "No persistent aura is authored."
+        },
+        "casting_time_index": 1,
+        "cooldown_ms": 30000,
+        "description": "Animate three Skeletal Archers for 15 seconds.",
+        "dispel_type": null,
+        "duration_index": 0,
+        "effects": [
+          {
+            "aura_period_ms": 0,
+            "aura_type": {
+              "not_applicable_reason": "This effect applies no aura."
+            },
+            "base_points": 1,
+            "coefficient": 0,
+            "dependencies": [
+              {
+                "key": "spell.necromancer.animation.skeletal-archer-summon",
+                "kind": "spell"
+              }
+            ],
+            "effect_type": "trigger-spell",
+            "index": 0,
+            "misc_value": 524287,
+            "misc_value_b": 0,
+            "real_points_per_level": 0,
+            "targets": [
+              "self"
+            ]
+          }
+        ],
+        "family": {
+          "flag_bits": [
+            33
+          ],
+          "name": "bytecoa.necromancer"
+        },
+        "key": "spell.necromancer.animation.animate-skeletal-archer",
+        "learn_level": 30,
+        "name": "Animate: Skeletal Archer",
+        "power_cost": {
+          "amount": 0,
+          "engine_key": "resource.necromancer.runic-power",
+          "percent_base": 27,
+          "reservation": 0
+        },
+        "proc_data": {
+          "not_applicable_reason": "No random proc is authored for this Animation micro-slice."
+        },
+        "provenance": {
+          "authoring_rationale": "Recovered spell 805040 supplies the 30-second root and trigger into 500330; the authored 27 percent cost is applied to ByteCOA Runic Power as a compatible resource reconstruction.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "content/provenance/original-coa/local/archive/spell/805040.json",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=805040"
+          ]
+        },
+        "range": {
+          "maximum": 30,
+          "minimum": 0
+        },
+        "schema_version": "1.0.0",
+        "school": "shadow",
+        "source_template": {
+          "clone_required": true,
+          "source_kind": "recovered-ascension",
+          "source_name": "Animate: Skeletal Archer",
+          "source_spell_id": 805040
+        },
+        "stack_limit": null,
+        "status": "compiles",
+        "tags": [
+          "talent-active",
+          "summon",
+          "animation"
+        ],
+        "targets": [
+          "self"
+        ],
+        "tests": [
+          {
+            "assertion": "Emits the exact recovered Animation micro-slice spell shape.",
+            "id": "spell-necromancer-animation-animate-skeletal-archer",
+            "kind": "dbc"
+          }
+        ],
+        "trigger_chain": [],
+        "visual_kit_key": "visual.necromancer.grave-bolt"
+      },
+      {
+        "aura_text": {
+          "not_applicable_reason": "No persistent aura is authored."
+        },
+        "casting_time_index": 1,
+        "cooldown_ms": 0,
+        "description": "Summon three Skeletal Archers behind the caster for 15 seconds.",
+        "dispel_type": null,
+        "duration_index": 8,
+        "effects": [
+          {
+            "aura_period_ms": 0,
+            "aura_type": {
+              "not_applicable_reason": "The effect creates controlled guardians rather than an aura."
+            },
+            "base_points": 3,
+            "coefficient": 0,
+            "dependencies": [
+              {
+                "key": "summon.necromancer.skeletal-archer",
+                "kind": "summon"
+              }
+            ],
+            "effect_type": "summon",
+            "index": 0,
+            "misc_value": 0,
+            "misc_value_b": 61,
+            "real_points_per_level": 0,
+            "targets": [
+              "caster-back-right",
+              "caster-back-left"
+            ]
+          }
+        ],
+        "family": {
+          "flag_bits": [
+            70
+          ],
+          "name": "bytecoa.necromancer"
+        },
+        "key": "spell.necromancer.animation.skeletal-archer-summon",
+        "learn_level": 30,
+        "name": "Animate Skeletal Archer Formation",
+        "power_cost": {
+          "amount": 0,
+          "engine_key": "resource.necromancer.runic-power",
+          "percent_base": 0,
+          "reservation": 0
+        },
+        "proc_data": {
+          "not_applicable_reason": "No random proc is authored for this Animation micro-slice."
+        },
+        "provenance": {
+          "authoring_rationale": "Recovered helper 500330 supplies duration index 8, three summons, spawn targets 42/43, creature 50076, and SummonProperties 61.",
+          "kind": "reconstructed",
+          "source_references": [
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=500330"
+          ]
+        },
+        "range": {
+          "maximum": 30,
+          "minimum": 0
+        },
+        "schema_version": "1.0.0",
+        "school": "shadow",
+        "source_template": {
+          "clone_required": true,
+          "source_kind": "recovered-ascension",
+          "source_name": "Animate: Skeletal Archer",
+          "source_spell_id": 500330
+        },
+        "stack_limit": null,
+        "status": "compiles",
+        "tags": [
+          "helper",
+          "summon",
+          "three-guardians"
+        ],
+        "targets": [
+          "self"
+        ],
+        "tests": [
+          {
+            "assertion": "Emits the exact recovered Animation micro-slice spell shape.",
+            "id": "spell-necromancer-animation-skeletal-archer-summon",
+            "kind": "dbc"
+          }
+        ],
+        "trigger_chain": [],
+        "visual_kit_key": "visual.necromancer.grave-bolt"
+      },
+      {
+        "aura_text": {
+          "not_applicable_reason": "No persistent aura is authored."
+        },
+        "casting_time_index": 1,
+        "cooldown_ms": 0,
+        "description": "Order each living owned Skeletal Archer to fire at the selected enemy.",
+        "dispel_type": null,
+        "duration_index": 0,
+        "effects": [
+          {
+            "aura_period_ms": 0,
+            "aura_type": {
+              "not_applicable_reason": "The command dispatcher is script-bound."
+            },
+            "base_points": 0,
+            "coefficient": 0,
+            "dependencies": [],
+            "effect_type": "dummy-effect",
+            "index": 0,
+            "misc_value": 0,
+            "misc_value_b": 0,
+            "real_points_per_level": 0,
+            "targets": [
+              "enemy"
+            ]
+          }
+        ],
+        "family": {
+          "flag_bits": [
+            70
+          ],
+          "name": "bytecoa.necromancer"
+        },
+        "key": "spell.necromancer.animation.command-skeletal-archers",
+        "learn_level": 30,
+        "name": "Command: Skeletal Archers",
+        "power_cost": {
+          "amount": 40,
+          "engine_key": "resource.necromancer.runic-power",
+          "percent_base": 0,
+          "reservation": 0
+        },
+        "proc_data": {
+          "not_applicable_reason": "No random proc is authored for this Animation micro-slice."
+        },
+        "provenance": {
+          "authoring_rationale": "Recovered player command 504319 supplies the 40 Runic Power cost and enemy-targeted dummy dispatch. Its secondary 2-point player damage is intentionally omitted in this compatibility reconstruction because the script dispatch makes each owned Archer cast 801516; retaining both paths would double-hit the target. Runtime ownership dispatch is reserved for spell_bytecoa_necromancer_command_skeletal_archers.",
+          "kind": "reconstructed",
+          "source_references": [
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=504319"
+          ]
+        },
+        "range": {
+          "maximum": 30,
+          "minimum": 0
+        },
+        "schema_version": "1.0.0",
+        "school": "shadow",
+        "source_template": {
+          "clone_required": true,
+          "source_kind": "recovered-ascension",
+          "source_name": "Command: Skeletal Archers",
+          "source_spell_id": 504319
+        },
+        "stack_limit": null,
+        "status": "compiles",
+        "tags": [
+          "command",
+          "runic-power-spender",
+          "script-bound"
+        ],
+        "targets": [
+          "enemy"
+        ],
+        "tests": [
+          {
+            "assertion": "Emits the exact recovered Animation micro-slice spell shape.",
+            "id": "spell-necromancer-animation-command-skeletal-archers",
+            "kind": "dbc"
+          }
+        ],
+        "trigger_chain": [],
+        "visual_kit_key": "visual.necromancer.grave-bolt"
+      },
+      {
+        "aura_text": {
+          "not_applicable_reason": "No persistent aura is authored."
+        },
+        "casting_time_index": 1,
+        "cooldown_ms": 0,
+        "description": "Deal scaling Shadow damage followed by normalized ranged weapon damage.",
+        "dispel_type": null,
+        "duration_index": 0,
+        "effects": [
+          {
+            "aura_period_ms": 0,
+            "aura_type": {
+              "not_applicable_reason": "Immediate damage has no aura."
+            },
+            "base_points": 10,
+            "coefficient": 0.35,
+            "dependencies": [],
+            "effect_type": "school-damage",
+            "index": 0,
+            "misc_value": 0,
+            "misc_value_b": 0,
+            "real_points_per_level": 1.25,
+            "targets": [
+              "enemy"
+            ]
+          },
+          {
+            "aura_period_ms": 0,
+            "aura_type": {
+              "not_applicable_reason": "Normalized weapon damage has no aura."
+            },
+            "base_points": 1,
+            "coefficient": 0,
+            "dependencies": [],
+            "effect_type": "normalized-weapon-damage",
+            "index": 1,
+            "misc_value": 0,
+            "misc_value_b": 0,
+            "real_points_per_level": 0,
+            "targets": [
+              "enemy"
+            ]
+          }
+        ],
+        "family": {
+          "flag_bits": [
+            70
+          ],
+          "name": "bytecoa.necromancer"
+        },
+        "key": "spell.necromancer.animation.skeletal-archer-shot",
+        "learn_level": 30,
+        "name": "Skeletal Archer Necrotic Shot",
+        "power_cost": {
+          "amount": 0,
+          "engine_key": "resource.necromancer.runic-power",
+          "percent_base": 0,
+          "reservation": 0
+        },
+        "proc_data": {
+          "not_applicable_reason": "No random proc is authored for this Animation micro-slice."
+        },
+        "provenance": {
+          "authoring_rationale": "Recovered shot 801516 supplies raw base 9, 1.25 points per level, and normalized weapon damage. The 0.35 spell-power coefficient is a compatible reconstruction from 504319's exact recovered formula, not a claim that 801516 stores that coefficient in its row.",
+          "kind": "reconstructed",
+          "source_references": [
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=801516",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=504319"
+          ]
+        },
+        "range": {
+          "maximum": 30,
+          "minimum": 0
+        },
+        "schema_version": "1.0.0",
+        "school": "shadow",
+        "source_template": {
+          "clone_required": true,
+          "source_kind": "recovered-ascension",
+          "source_name": "Command: Skeletal Archer",
+          "source_spell_id": 801516
+        },
+        "stack_limit": null,
+        "status": "compiles",
+        "tags": [
+          "helper",
+          "shadow-damage",
+          "normalized-weapon-damage"
+        ],
+        "targets": [
+          "enemy"
+        ],
+        "tests": [
+          {
+            "assertion": "Emits the exact recovered Animation micro-slice spell shape.",
+            "id": "spell-necromancer-animation-skeletal-archer-shot",
+            "kind": "dbc"
+          }
+        ],
+        "trigger_chain": [],
+        "visual_kit_key": "visual.necromancer.grave-bolt"
+      },
+      {
+        "aura_text": {
+          "text": "Casting Animate or Command spells increases your haste by 1% for 10 seconds, stacking 5 times."
+        },
+        "casting_time_index": 1,
+        "cooldown_ms": 0,
+        "description": "Learn the recovered Mindless Fury behavior for supported Animate and Command spells.",
+        "dispel_type": null,
+        "duration_index": 21,
+        "effects": [
+          {
+            "aura_period_ms": 0,
+            "aura_type": {
+              "text": "dummy"
+            },
+            "base_points": 0,
+            "coefficient": 0,
+            "dependencies": [],
+            "effect_type": "apply-aura",
+            "index": 0,
+            "misc_value": 0,
+            "misc_value_b": 0,
+            "real_points_per_level": 0,
+            "targets": [
+              "self"
+            ]
+          }
+        ],
+        "family": {
+          "flag_bits": [
+            33
+          ],
+          "name": "bytecoa.necromancer"
+        },
+        "key": "spell.necromancer.animation.mindless-fury",
+        "learn_level": 50,
+        "name": "Mindless Fury",
+        "power_cost": {
+          "amount": 0,
+          "engine_key": "resource.necromancer.runic-power",
+          "percent_base": 0,
+          "reservation": 0
+        },
+        "proc_data": {
+          "not_applicable_reason": "Runtime uses the known passive as a semantic gate and dispatches only supported Animate and Command casts."
+        },
+        "provenance": {
+          "authoring_rationale": "Recovered 805674 supplies the exact tooltip contract. This authored passive is an ownership marker; the dedicated Animate binding and existing Command handler apply the resolved haste helper, avoiding the donor row's broader unresolved proc behavior.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#node=23-61-1-6a",
+            "content/provenance/original-coa/local/archive/spell/805674.json",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=805674"
+          ]
+        },
+        "range": {
+          "maximum": 0,
+          "minimum": 0
+        },
+        "schema_version": "1.0.0",
+        "school": "physical",
+        "source_template": {
+          "clone_required": true,
+          "source_kind": "recovered-ascension",
+          "source_name": "Mindless Fury",
+          "source_spell_id": 805674
+        },
+        "stack_limit": null,
+        "status": "compiles",
+        "tags": [
+          "talent-passive",
+          "animation",
+          "haste-trigger"
+        ],
+        "targets": [
+          "self"
+        ],
+        "tests": [
+          {
+            "assertion": "Acts only as the semantic ownership gate for the recovered Mindless Fury trigger.",
+            "id": "spell-necromancer-animation-mindless-fury",
+            "kind": "content"
+          }
+        ],
+        "trigger_chain": [],
+        "visual_kit_key": "visual.necromancer.grave-bolt"
+      },
+      {
+        "aura_text": {
+          "text": "Increases melee, ranged, and spell haste by 1% for 10 seconds. Stacks up to 5 times."
+        },
+        "casting_time_index": 1,
+        "cooldown_ms": 0,
+        "description": "Gain 1% melee, ranged, and spell haste for 10 seconds, stacking 5 times.",
+        "dispel_type": null,
+        "duration_index": 1,
+        "effects": [
+          {
+            "aura_period_ms": 0,
+            "aura_type": {
+              "text": "melee-ranged-haste"
+            },
+            "base_points": 1,
+            "coefficient": 0,
+            "dependencies": [],
+            "effect_type": "apply-aura",
+            "index": 0,
+            "misc_value": 0,
+            "misc_value_b": 0,
+            "real_points_per_level": 0,
+            "targets": [
+              "self"
+            ]
+          },
+          {
+            "aura_period_ms": 0,
+            "aura_type": {
+              "text": "spell-haste"
+            },
+            "base_points": 1,
+            "coefficient": 0,
+            "dependencies": [],
+            "effect_type": "apply-aura",
+            "index": 1,
+            "misc_value": 0,
+            "misc_value_b": 0,
+            "real_points_per_level": 0,
+            "targets": [
+              "self"
+            ]
+          }
+        ],
+        "family": {
+          "flag_bits": [
+            70
+          ],
+          "name": "bytecoa.necromancer"
+        },
+        "key": "spell.necromancer.animation.mindless-fury-haste",
+        "learn_level": 50,
+        "name": "Mindless Fury Haste",
+        "power_cost": {
+          "amount": 0,
+          "engine_key": "resource.necromancer.runic-power",
+          "percent_base": 0,
+          "reservation": 0
+        },
+        "proc_data": {
+          "not_applicable_reason": "The helper is applied deterministically by the supported semantic runtime triggers."
+        },
+        "provenance": {
+          "authoring_rationale": "Compatibility reconstruction of the recovered 805674 tooltip using helper row 805786's 10-second duration, five-stack limit, and aura types 192 and 216. Both effects are authored at exactly +1 with no scaling or additional effects.",
+          "kind": "reconstructed",
+          "source_references": [
+            "content/provenance/original-coa/local/archive/spell/805674.json",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=805674",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=805786"
+          ]
+        },
+        "range": {
+          "maximum": 0,
+          "minimum": 0
+        },
+        "schema_version": "1.0.0",
+        "school": "physical",
+        "source_template": {
+          "clone_required": true,
+          "source_kind": "recovered-ascension",
+          "source_name": "Mindless Fury",
+          "source_spell_id": 805786
+        },
+        "stack_limit": 5,
+        "status": "compiles",
+        "tags": [
+          "helper",
+          "haste",
+          "stacking-buff"
+        ],
+        "targets": [
+          "self"
+        ],
+        "tests": [
+          {
+            "assertion": "Emits exactly two +1 self haste auras for 10 seconds with five stacks.",
+            "id": "spell-necromancer-animation-mindless-fury-haste",
+            "kind": "dbc"
+          }
+        ],
+        "trigger_chain": [],
+        "visual_kit_key": "visual.necromancer.grave-bolt"
+      },
+      {
+        "aura_text": {
+          "text": "This inert authored aura marks an unimplemented Animation rank."
+        },
+        "cooldown_ms": 0,
+        "description": "Structural allocation scaffold only; no Animation mechanic is adjudicated or claimed by this rank.",
+        "effects": [
+          {
+            "aura_type": {
+              "text": "dummy"
+            },
+            "base_points": 0,
+            "coefficient": 0,
+            "dependencies": [],
+            "effect_type": "apply-aura",
+            "index": 0,
+            "targets": [
+              "enemy"
+            ]
+          }
+        ],
+        "family": {
+          "flag_bits": [
+            33
+          ],
+          "name": "bytecoa.necromancer"
+        },
+        "key": "spell.necromancer.animation.scaffold.rank-1",
+        "learn_level": 1,
+        "name": "Animation Structural Scaffold 1",
+        "power_cost": {
+          "amount": 0,
+          "engine_key": "resource.necromancer.runic-power",
+          "percent_base": 0,
+          "reservation": 0
+        },
+        "proc_data": {
+          "not_applicable_reason": "No random proc in this first production slice."
+        },
+        "provenance": {
+          "authoring_rationale": "Structural allocation scaffold only. Darkstalker 500091 is used as an inert compiler chassis and does not preserve or claim any recovered Animation mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=500091"
+          ]
+        },
+        "range": {
+          "maximum": 30,
+          "minimum": 0
+        },
+        "schema_version": "1.0.0",
+        "school": "shadow",
+        "source_template": {
+          "clone_required": true,
+          "source_kind": "recovered-ascension",
+          "source_name": "Darkstalker",
+          "source_spell_id": 500091
+        },
+        "status": "compiles",
+        "tags": [
+          "scaffold",
+          "no-runtime-mechanic"
+        ],
+        "targets": [
+          "enemy"
+        ],
+        "tests": [
+          {
+            "assertion": "Remains explicitly labeled as non-mechanical scaffold.",
+            "id": "necromancer-animation-scaffold-rank-1",
+            "kind": "content"
+          }
+        ],
+        "trigger_chain": [],
+        "visual_kit_key": "visual.necromancer.grave-bolt"
+      },
+      {
+        "aura_text": {
+          "text": "This inert authored aura marks an unimplemented Animation rank."
+        },
+        "cooldown_ms": 0,
+        "description": "Structural allocation scaffold only; no Animation mechanic is adjudicated or claimed by this rank.",
+        "effects": [
+          {
+            "aura_type": {
+              "text": "dummy"
+            },
+            "base_points": 0,
+            "coefficient": 0,
+            "dependencies": [],
+            "effect_type": "apply-aura",
+            "index": 0,
+            "targets": [
+              "enemy"
+            ]
+          }
+        ],
+        "family": {
+          "flag_bits": [
+            33
+          ],
+          "name": "bytecoa.necromancer"
+        },
+        "key": "spell.necromancer.animation.scaffold.rank-2",
+        "learn_level": 1,
+        "name": "Animation Structural Scaffold 2",
+        "power_cost": {
+          "amount": 0,
+          "engine_key": "resource.necromancer.runic-power",
+          "percent_base": 0,
+          "reservation": 0
+        },
+        "proc_data": {
+          "not_applicable_reason": "No random proc in this first production slice."
+        },
+        "provenance": {
+          "authoring_rationale": "Structural allocation scaffold only. Darkstalker 500091 is used as an inert compiler chassis and does not preserve or claim any recovered Animation mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=500091"
+          ]
+        },
+        "range": {
+          "maximum": 30,
+          "minimum": 0
+        },
+        "schema_version": "1.0.0",
+        "school": "shadow",
+        "source_template": {
+          "clone_required": true,
+          "source_kind": "recovered-ascension",
+          "source_name": "Darkstalker",
+          "source_spell_id": 500091
+        },
+        "status": "compiles",
+        "tags": [
+          "scaffold",
+          "no-runtime-mechanic"
+        ],
+        "targets": [
+          "enemy"
+        ],
+        "tests": [
+          {
+            "assertion": "Remains explicitly labeled as non-mechanical scaffold.",
+            "id": "necromancer-animation-scaffold-rank-2",
+            "kind": "content"
+          }
+        ],
+        "trigger_chain": [],
+        "visual_kit_key": "visual.necromancer.grave-bolt"
+      },
+      {
+        "aura_text": {
+          "text": "This inert authored aura marks an unimplemented Animation rank."
+        },
+        "cooldown_ms": 0,
+        "description": "Structural allocation scaffold only; no Animation mechanic is adjudicated or claimed by this rank.",
+        "effects": [
+          {
+            "aura_type": {
+              "text": "dummy"
+            },
+            "base_points": 0,
+            "coefficient": 0,
+            "dependencies": [],
+            "effect_type": "apply-aura",
+            "index": 0,
+            "targets": [
+              "enemy"
+            ]
+          }
+        ],
+        "family": {
+          "flag_bits": [
+            33
+          ],
+          "name": "bytecoa.necromancer"
+        },
+        "key": "spell.necromancer.animation.scaffold.rank-3",
+        "learn_level": 1,
+        "name": "Animation Structural Scaffold 3",
+        "power_cost": {
+          "amount": 0,
+          "engine_key": "resource.necromancer.runic-power",
+          "percent_base": 0,
+          "reservation": 0
+        },
+        "proc_data": {
+          "not_applicable_reason": "No random proc in this first production slice."
+        },
+        "provenance": {
+          "authoring_rationale": "Structural allocation scaffold only. Darkstalker 500091 is used as an inert compiler chassis and does not preserve or claim any recovered Animation mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=500091"
+          ]
+        },
+        "range": {
+          "maximum": 30,
+          "minimum": 0
+        },
+        "schema_version": "1.0.0",
+        "school": "shadow",
+        "source_template": {
+          "clone_required": true,
+          "source_kind": "recovered-ascension",
+          "source_name": "Darkstalker",
+          "source_spell_id": 500091
+        },
+        "status": "compiles",
+        "tags": [
+          "scaffold",
+          "no-runtime-mechanic"
+        ],
+        "targets": [
+          "enemy"
+        ],
+        "tests": [
+          {
+            "assertion": "Remains explicitly labeled as non-mechanical scaffold.",
+            "id": "necromancer-animation-scaffold-rank-3",
+            "kind": "content"
+          }
+        ],
+        "trigger_chain": [],
+        "visual_kit_key": "visual.necromancer.grave-bolt"
+      },
+      {
+        "aura_text": {
+          "text": "This inert authored aura marks an unimplemented Animation rank."
+        },
+        "cooldown_ms": 0,
+        "description": "Structural allocation scaffold only; no Animation mechanic is adjudicated or claimed by this rank.",
+        "effects": [
+          {
+            "aura_type": {
+              "text": "dummy"
+            },
+            "base_points": 0,
+            "coefficient": 0,
+            "dependencies": [],
+            "effect_type": "apply-aura",
+            "index": 0,
+            "targets": [
+              "enemy"
+            ]
+          }
+        ],
+        "family": {
+          "flag_bits": [
+            33
+          ],
+          "name": "bytecoa.necromancer"
+        },
+        "key": "spell.necromancer.animation.scaffold.rank-4",
+        "learn_level": 1,
+        "name": "Animation Structural Scaffold 4",
+        "power_cost": {
+          "amount": 0,
+          "engine_key": "resource.necromancer.runic-power",
+          "percent_base": 0,
+          "reservation": 0
+        },
+        "proc_data": {
+          "not_applicable_reason": "No random proc in this first production slice."
+        },
+        "provenance": {
+          "authoring_rationale": "Structural allocation scaffold only. Darkstalker 500091 is used as an inert compiler chassis and does not preserve or claim any recovered Animation mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=500091"
+          ]
+        },
+        "range": {
+          "maximum": 30,
+          "minimum": 0
+        },
+        "schema_version": "1.0.0",
+        "school": "shadow",
+        "source_template": {
+          "clone_required": true,
+          "source_kind": "recovered-ascension",
+          "source_name": "Darkstalker",
+          "source_spell_id": 500091
+        },
+        "status": "compiles",
+        "tags": [
+          "scaffold",
+          "no-runtime-mechanic"
+        ],
+        "targets": [
+          "enemy"
+        ],
+        "tests": [
+          {
+            "assertion": "Remains explicitly labeled as non-mechanical scaffold.",
+            "id": "necromancer-animation-scaffold-rank-4",
+            "kind": "content"
+          }
+        ],
+        "trigger_chain": [],
+        "visual_kit_key": "visual.necromancer.grave-bolt"
+      },
+      {
+        "aura_text": {
+          "text": "This inert authored aura marks an unimplemented Animation rank."
+        },
+        "cooldown_ms": 0,
+        "description": "Structural allocation scaffold only; no Animation mechanic is adjudicated or claimed by this rank.",
+        "effects": [
+          {
+            "aura_type": {
+              "text": "dummy"
+            },
+            "base_points": 0,
+            "coefficient": 0,
+            "dependencies": [],
+            "effect_type": "apply-aura",
+            "index": 0,
+            "targets": [
+              "enemy"
+            ]
+          }
+        ],
+        "family": {
+          "flag_bits": [
+            33
+          ],
+          "name": "bytecoa.necromancer"
+        },
+        "key": "spell.necromancer.animation.scaffold.rank-5",
+        "learn_level": 1,
+        "name": "Animation Structural Scaffold 5",
+        "power_cost": {
+          "amount": 0,
+          "engine_key": "resource.necromancer.runic-power",
+          "percent_base": 0,
+          "reservation": 0
+        },
+        "proc_data": {
+          "not_applicable_reason": "No random proc in this first production slice."
+        },
+        "provenance": {
+          "authoring_rationale": "Structural allocation scaffold only. Darkstalker 500091 is used as an inert compiler chassis and does not preserve or claim any recovered Animation mechanic.",
+          "kind": "reconstructed",
+          "source_references": [
+            "coabuildhub/talents/necromancer.json#tab=61",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=500091"
+          ]
+        },
+        "range": {
+          "maximum": 30,
+          "minimum": 0
+        },
+        "schema_version": "1.0.0",
+        "school": "shadow",
+        "source_template": {
+          "clone_required": true,
+          "source_kind": "recovered-ascension",
+          "source_name": "Darkstalker",
+          "source_spell_id": 500091
+        },
+        "status": "compiles",
+        "tags": [
+          "scaffold",
+          "no-runtime-mechanic"
+        ],
+        "targets": [
+          "enemy"
+        ],
+        "tests": [
+          {
+            "assertion": "Remains explicitly labeled as non-mechanical scaffold.",
+            "id": "necromancer-animation-scaffold-rank-5",
+            "kind": "content"
+          }
+        ],
+        "trigger_chain": [],
+        "visual_kit_key": "visual.necromancer.grave-bolt"
+      }
+    ],
+    "summons": [
+      {
+        "ai_mode": "controlled-ranged-guardian",
+        "animations": [
+          {
+            "manifest_key": "asset.animation.skeletal-mage-spawn"
+          }
+        ],
+        "bounding_radius": 0.35,
+        "combat_reach": 1.5,
+        "control_mode": "specific-command-spell",
+        "corpse_rule": "Leave no persistent lootable corpse.",
+        "creature_template": {
+          "key": "system.creature.skeleton-template",
+          "kind": "system"
+        },
+        "despawn_rule": "Native duration index 8 despawns the formation after 15 seconds.",
+        "display": {
+          "manifest_key": "asset.display.skeletal-mage"
+        },
+        "duration_rule": "Temporary 15-second formation.",
+        "faction_rule": "Guardian ownership supplies faction and hostility.",
+        "key": "summon.necromancer.skeletal-archer",
+        "level_formula": "owner_level",
+        "model": {
+          "manifest_key": "asset.model.skeletal-mage"
+        },
+        "movement_rule": "Guardian follow and combat movement are delegated to AzerothCore.",
+        "owner_rule": "The summoning player remains the authoritative owner.",
+        "pet_bar_spell_keys": [
+          "spell.necromancer.animation.command-skeletal-archers"
+        ],
+        "provenance": {
+          "authoring_rationale": "Creature 50076 and display 26079 come from a prior local recovery snapshot. This is explicitly compatible/reconstructed data, not accepted Original-CoA authority; no generic fallback is selected at compile time.",
+          "kind": "reconstructed",
+          "source_references": [
+            ".recovery/2026-07-29/database/acore_world.sql#creature_template=50076",
+            ".recovery/2026-07-29/database/acore_world.sql#creature_template_model=50076",
+            "sha256:ad01247a6500aa930db53600b7f2283f29f69562ba9f4ab7134ccb75b4ac4aec",
+            "C:/CoA/extracted/patch-T/DBFilesClient/Spell.dbc#sha256=5109a1148f314f955e27210c1209f50e85170d8b7f1042ad15b7a67734d18343#spell-id=500330"
+          ]
+        },
+        "relog_rule": "Do not restore this temporary formation after logout.",
+        "reservation_rule": "No Life Force reservation is claimed in this micro-slice.",
+        "scale": 1,
+        "schema_version": "1.0.0",
+        "sounds": [
+          {
+            "manifest_key": "asset.sound.necromancer-shadow-cast"
+          }
+        ],
+        "spawn_rule": "Three guardians spawn through recovered targets 42 and 43.",
+        "stat_formula": "compatible_reconstructed_skeletal_archer_50076",
+        "status": "compiles",
+        "texture": {
+          "manifest_key": "asset.texture.skeletal-mage"
+        }
+      }
+    ]
+  },
+  "schema_version": 1,
+  "status": "retired"
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Noxious Corpserot",
+  "icon": "spell_deathknight_necroticplague",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Noxious Corpserot</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Runic Power<br /><table width=\"100%\"><tr><td>Instant cast</td><th>5&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Disease an enemy, dealing 11+0+SP*0.14 Plague Damage every 1 sec for 5&nbsp;sec.<br /><br />After 5&nbsp;sec, the target explodes, dealing 40+0+SP*0.38 Plague damage to all enemies within 10 yards.</span></td></tr></table><!--?802129:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

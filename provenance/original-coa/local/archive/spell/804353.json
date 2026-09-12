@@ -1,0 +1,15 @@
+{
+  "name_enus": "Shieldgore",
+  "icon": "inv_shield_draenorraid_d_02",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Shieldgore</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>35 Rage<br />Instant</td></tr></table><table><tr><td>Requires Shields<br /><span class=\"q\"><span style=\"color: #ff9933;\">Generates 2 Demonfire</span><br />Gore the target with your spiked shield, causing 21+0+AP*.35 High Threat Fire Damage, scaling with your block value<!--sp300388:0--><!--sp300388-->.</span></td></tr></table><!--?804353:1:1:80-->",
+  "spells_enus": {
+    "300388": [
+      [
+        "",
+        ", and applying <span style=\"color: #FFFFFF\">Torn Flesh</span> to them@s:800341:0@"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

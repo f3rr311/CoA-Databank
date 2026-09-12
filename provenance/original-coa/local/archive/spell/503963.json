@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bugweaving",
+  "icon": "inv_misc_head_nerubian_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bugweaving</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage dealt with Fortitude and Spider Form melee abilities has a 20% chance to apply your <span style=\"color: #ffffff;\">Fang Venom</span> effects.</span></td></tr></table><!--?503963:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

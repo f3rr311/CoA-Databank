@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dark Intuition",
+  "icon": "ability_priest_darkness",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dark Intuition</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Whenever you parry or dodge an attack, your attack speed is increased by 5%, and your parry chance by 2% for 15&nbsp;sec, stacking 2 times.</span></td></tr></table><!--?806195:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

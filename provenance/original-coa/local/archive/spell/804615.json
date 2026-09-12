@@ -1,0 +1,8 @@
+{
+  "name_enus": "Demonic Attunement",
+  "icon": "inv_archaeology_70_demon_malformedabyssal",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Demonic Attunement</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage of your <span style=\"color: #FFFFFF;\">Ragefire</span> by 15%.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_fire_ragnaros_lavaboltgreen.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=802676'> Chaos </a> <br />\n                            <span> Unleash an immense amount of felfire at an enemy, dealing 13+0+SP*0.067031 Fire Damage.</span><br /></span></td></tr></table><!--?804615:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

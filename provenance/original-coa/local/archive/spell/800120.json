@@ -1,0 +1,8 @@
+{
+  "name_enus": "Warp Shift",
+  "icon": "spell_nature_massteleport",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Warp Shift</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>12% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Deal 45 Arcane damage to an enemy, swapping you and your familiar's position with theirs.</span></td></tr></table><!--?800120:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

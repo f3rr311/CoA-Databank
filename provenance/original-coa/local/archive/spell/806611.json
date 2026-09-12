@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dragon Leap",
+  "icon": "nhi_dragonwing_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dragon Leap</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>14% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Leap to a target location and come crashing down, dealing 29+0+FireP*.3 Fire damage to up to 10 nearby enemies.</span></td></tr></table><!--?806611:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

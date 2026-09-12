@@ -1,0 +1,8 @@
+{
+  "name_enus": "Quickscope",
+  "icon": "inv_engineering_snipingscope",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Quickscope</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Gives <span style=\"color: #ffffff;\">Scrap Shot</span> and <span style=\"color: #ffffff;\">Gunsling</span> a 15% chance to make your next <span style=\"color: #ffffff;\">Snipe</span> instant, deal 0% increased damage, and guaranteed to critically strike.</span></td></tr></table><!--?805686:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

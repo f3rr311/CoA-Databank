@@ -1,0 +1,8 @@
+{
+  "name_enus": "Build: Spider Bomb Factory",
+  "icon": "inv_mechagonspidertank_brass",
+  "tooltip_enus": "<table><tr><td><b>Build: Spider Bomb Factory</b><br />35% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Build a <span style=\"color: #ffffff;\">Spider Bomb Factory</span> in front of you for 20&nbsp;sec.<br /><br />For the duration, <span style=\"color: #ffffff;\">Bomb Toss</span> and <span style=\"color: #ffffff;\">Rocket Launcher</span> will summon 3 <span style=\"color: #ffffff;\">Spider Bombs</span>, that will immediately run towards your target and detonate dealing 29+5.5 Points Per Level+RAP*.3 Fire damage.<br /><br />Using <span style=\"color: #FFFFFF;\">Scrap Shot</span> will redirect the <span style=\"color: #ffffff;\">Spider Bombs</span> to your new target.</span></td></tr></table><!--?802052:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

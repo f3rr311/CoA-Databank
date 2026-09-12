@@ -1,0 +1,8 @@
+{
+  "name_enus": "Eclipsing Arrows",
+  "icon": "artifactability_balancedruid_newmoon",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Eclipsing Arrows</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Healing done by <span style=\"color: #ffffff;\">Hand of Elune</span> or <span style=\"color: #FFFFFF;\">Touch of Moonlight</span> now marks allies for 20&nbsp;sec.<br /><br />Casting <span style=\"color: #ffffff;\">Huntress Shot</span> now heals marked allies for 55+5.0 Points Per Level+SP*.3.</span></td></tr></table><!--?800504:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Plague Horde",
+  "icon": "ivn_helm_cloth_warfrontshorde_b_01",
+  "tooltip_enus": "<table><tr><td><b>Plague Horde</b><br />200 Mana<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the duration of the Rotlings created by your Animate: Rotling spell by 50%.<br /><br />In addition, dealing Periodic Damage to an enemy now has a small chance to summon a Rotling.</span></td></tr></table><!--?804246:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

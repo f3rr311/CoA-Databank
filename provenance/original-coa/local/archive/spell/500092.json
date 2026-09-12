@@ -1,0 +1,8 @@
+{
+  "name_enus": "Darkfeast",
+  "icon": "sha_ability_rogue_sturdyrecuperate_nightborne",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Darkfeast</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Feast on the darkness that surrounds you, healing yourself for 24+(PL*3.84-1*3.84).</span></td></tr></table><!--?500092:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

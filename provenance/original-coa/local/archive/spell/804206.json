@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blood Debt",
+  "icon": "spell_shadow_lifedrain",
+  "tooltip_enus": "<table><tr><td><b>Blood Debt</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Removes the cooldown from <span style=\"color: #ffffff;\">Bloodfang Bite</span>, but increases its Rage cost by 25.</span></td></tr></table><!--?804206:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

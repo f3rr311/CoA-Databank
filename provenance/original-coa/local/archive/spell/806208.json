@@ -1,0 +1,8 @@
+{
+  "name_enus": "Disenchant Weapon",
+  "icon": "inv_enchant_disenchant",
+  "tooltip_enus": "<table><tr><td><b>Disenchant Weapon</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Fray Magic</span> by 5 sec and causes it to also Disarm the target for .</span></td></tr></table><!--?806208:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

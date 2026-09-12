@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chrono Herald",
+  "icon": "spell_holy_mindvision",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Chrono Herald</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Aeons</span> by 5 sec.</span></td></tr></table><!--?706103:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

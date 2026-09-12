@@ -1,0 +1,8 @@
+{
+  "name_enus": "Brutal Swing",
+  "icon": "5_axe_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Brutal Swing</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>45 Energy<br />Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Your next attack causes you to swing violently at an enemy and up to 2 nearby enemies, dealing 120% Weapon Damage plus 10.</span></td></tr></table><!--?500913:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

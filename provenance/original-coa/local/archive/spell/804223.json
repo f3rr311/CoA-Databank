@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blood Scent",
+  "icon": "ability_physical_taunt",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blood Scent</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">While in <span style=\"color: #ffffff;\">Accursed Form</span>, you now deal 15% increased damage to targets below 35% maximum health.<br /><br />Dealing direct damage to enemies below 35% maximum health now leeches health equal to 10% of the damage dealt.</span></td></tr></table><!--?804223:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Grimshade Arbalest",
+  "icon": "inv_bow_2h_crossbow_orgrimmarraid_d_01",
+  "tooltip_enus": "<table><tr><td><b>Grimshade Arbalest</b><br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\">Fire a mighty crossbow bolt at an enemy that knocks them back and removes absorption and invulnerability effects.<br /><br />For the next 3&nbsp;sec, the target is unable to benefit from such effects.</span></td></tr></table><!--?500900:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

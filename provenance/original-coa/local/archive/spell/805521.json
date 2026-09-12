@@ -1,0 +1,8 @@
+{
+  "name_enus": "Celestial Knight",
+  "icon": "inv_glaive_1h_tyrande_d_01",
+  "tooltip_enus": "<table><tr><td><b>Celestial Knight</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Gives effective healing on you a 10% chance and any damage dealt by <span style=\"color: #ffffff;\">Starsunder</span> a 25% chance to enable you to use <span style=\"color: #ffffff;\">Vengeance of Elune</span> for a short time.</span></td></tr></table><!--?805521:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

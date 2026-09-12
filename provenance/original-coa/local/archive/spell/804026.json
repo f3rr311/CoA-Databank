@@ -1,0 +1,8 @@
+{
+  "name_enus": "Silver Bolts",
+  "icon": "ability_ironmaidens_ironshot",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Silver Bolts</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Heartseeking Bolt</span> and <span style=\"color: #ffffff;\">Damnation</span> is increased by 15%, doubled against Undead or Demons or enemies affected by <span style=\"color: #ffffff;\">Shadow Trap</span>.</span></td></tr></table><!--?804026:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

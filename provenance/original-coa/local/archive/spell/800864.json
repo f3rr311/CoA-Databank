@@ -1,0 +1,8 @@
+{
+  "name_enus": "Timewalking",
+  "icon": "spell_holy_divineprovidence",
+  "tooltip_enus": "<table><tr><td><b>Timewalking</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Every 40 sec you will leave behind an <span style=\"color: #ffffff;\">Infinite Clone</span> that will save your health, mana and physical location at that time.<br /><br />You can rewind back to your clones with the <span style=\"color: #ffffff;\">Rewind</span> ability.</span></td></tr></table><!--?800864:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

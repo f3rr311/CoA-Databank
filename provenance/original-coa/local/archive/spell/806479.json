@@ -1,0 +1,8 @@
+{
+  "name_enus": "Solar Prayer",
+  "icon": "spell_holy_devineaegis",
+  "tooltip_enus": "<table><tr><td><b>Solar Prayer</b><br />20% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Recite a solar prayer, instantly healing you for 25% of your maximum health plus an additional 100+0+SP*1, scaling with spell power.<br /><br />Usable while stunned.</span></td></tr></table><!--?806479:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

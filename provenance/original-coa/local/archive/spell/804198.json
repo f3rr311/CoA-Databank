@@ -1,0 +1,8 @@
+{
+  "name_enus": "Terrify",
+  "icon": "spell_shadow_deathscream",
+  "tooltip_enus": "<table><tr><td><b>Terrify</b><br />999.9 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">You terrify enemies within 8 yds with your horrific form, causing them to tremble in horror for until cancelled. </span></td></tr></table><!--?804198:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

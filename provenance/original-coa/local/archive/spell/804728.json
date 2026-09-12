@@ -1,0 +1,8 @@
+{
+  "name_enus": "Powerful Grip",
+  "icon": "custom_warriorskill_03_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Powerful Grip</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the duration of disarm effects by 30%.</span></td></tr></table><!--?804728:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

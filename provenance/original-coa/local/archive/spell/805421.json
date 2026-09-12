@@ -1,0 +1,8 @@
+{
+  "name_enus": "Reckoning",
+  "icon": "custom_t_nhance_rpg_icons_holyrod_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Reckoning</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\">Unleash a powerful <span style=\"color: #ffffff;\">Oath Breaker</span>, dealing 27+0+AP*0.175+Sta*0.5 Holy damage and restoring 15 Energy for each enemy struck.<br /><br />Consumes your <span style=\"color: #ffffff;\">Oaths</span>, dealing additional damage for each consumed.</span></td></tr></table><!--?805421:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

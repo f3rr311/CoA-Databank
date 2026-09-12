@@ -1,0 +1,8 @@
+{
+  "name_enus": "Gleaming Armor",
+  "icon": "inv_legion_faction_valarjar",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Gleaming Armor</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces your spell damage taken by 5%, plus an additional 5% while above 80% health.</span></td></tr></table><!--?805267:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

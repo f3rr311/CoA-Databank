@@ -1,0 +1,8 @@
+{
+  "name_enus": "Warpath",
+  "icon": "ability_warrior_intensifyrage",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Warpath</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">While <span style=\"color: #ffffff;\">Unleash Pestilence</span> is active it now protects your movement speed from being reduced below 90% of normal speed.</span></td></tr></table><!--?805793:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

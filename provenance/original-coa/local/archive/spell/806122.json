@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sunlight Refraction",
+  "icon": "spell_paladin_holyprism",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Sunlight Refraction</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the healing of <span style=\"color: #ffffff;\">Illumination</span> by 20%.</span></td></tr></table><!--?806122:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

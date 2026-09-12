@@ -1,0 +1,8 @@
+{
+  "name_enus": "Temporal Anomaly",
+  "icon": "novart_magicspell_%2839%29_border",
+  "tooltip_enus": "<table><tr><td><b>Temporal Anomaly</b><br />24% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Augment reality for 10&nbsp;sec, causing 50% of the damage taken to be stored and converted into healing at the end of the duration.</span></td></tr></table><!--?806315:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Harmony",
+  "icon": "spell_priest_vowofunity",
+  "tooltip_enus": "<table><tr><td><b>Harmony</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the range at which enemy creatures will detect you or your party members by 15 yds for 15&nbsp;sec. Affected allies also gain 30% increased movement speed and can walk on water.</span></td></tr></table><!--?804680:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

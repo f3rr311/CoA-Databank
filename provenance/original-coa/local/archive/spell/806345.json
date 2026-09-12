@@ -1,0 +1,8 @@
+{
+  "name_enus": "Falconstrike",
+  "icon": "ability_felarakkoa_focusedblast",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Falconstrike</b></td><th><b class=\"q0\">Transform</b></th></tr></table>30 Focus<br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #8fff7a;\">Generates 2 Advantage</span><br />Call a cast of falcons to strike an enemy, dealing 121% Ranged Weapon Damage plus 10 Nature damage and calling 1 <span style=\"color: #ffffff;\">War Falcon</span> to your aid for 6&nbsp;sec.<br /><br />Redirects all active summons to attack your target.</span></td></tr></table><!--?806345:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

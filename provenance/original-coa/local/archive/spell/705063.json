@@ -1,0 +1,8 @@
+{
+  "name_enus": "Highwayman",
+  "icon": "ability_rogue_slicedice",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Highwayman</b></td><th><b class=\"q0\">proc</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the chance that critical strikes will apply <span style=\"color: #ffffff;\">Roughed Up</span> while <span style=\"color: #ffffff;\">Adaptation: Bandit</span> is active by 10%.</span></td></tr></table><!--?705063:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

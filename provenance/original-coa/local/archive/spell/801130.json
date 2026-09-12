@@ -1,0 +1,8 @@
+{
+  "name_enus": "Celestial Resonance",
+  "icon": "ability_druid_dreamstate",
+  "tooltip_enus": "<table><tr><td><b>Celestial Resonance</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Drains 30% Maximum Mana</span><br />Emanate an aura for 15&nbsp;sec, causing allied players to deal ArcP*.7 additional damage as Arcane Damage when they deal direct damage.<br /><br />Applies <span style=\"color: #FFFFFF;\">Exhaustion</span>, preventing you from benefiting from similar effects for 1&nbsp;min.</span></td></tr></table><!--?801130:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

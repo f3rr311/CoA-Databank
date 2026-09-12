@@ -1,0 +1,8 @@
+{
+  "name_enus": "Essence Invigoration",
+  "icon": "inv_misc_lesseressence",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Essence Invigoration</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting abilities that require <span style=\"color: #5ee2ff;\">Soul Infusion</span> now has a 50% chance to restore 5% of your missing health.</span></td></tr></table><!--?805186:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

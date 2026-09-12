@@ -1,0 +1,8 @@
+{
+  "name_enus": "Archery Training",
+  "icon": "inv_bow_1h_draenorcrafted_d_01_a_horde",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Archery Training</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Skullpiercer</span> by 6% and your critical strike chance by 2%.</span></td></tr></table><!--?705037:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

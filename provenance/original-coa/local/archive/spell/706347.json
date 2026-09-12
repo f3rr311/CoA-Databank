@@ -1,0 +1,8 @@
+{
+  "name_enus": "Empty Kegs",
+  "icon": "inv_misc_beer_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Empty Kegs</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the Energy cost of <span style=\"color: #ffffff;\">Keg Smash</span> by 20 and increases its range by $s2yd.</span></td></tr></table><!--?706347:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

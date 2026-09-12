@@ -1,0 +1,8 @@
+{
+  "name_enus": "Netherstrike",
+  "icon": "nhi_arcanearrow_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Netherstrike</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>10% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>6&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\"><span style=\"color: #cfa6ff;\">Generates 10 Insanity</span><br />Strike an enemy quickly for 125% Weapon Damage plus 48 Shadow damage, purging 1 beneficial magic effect from them.<br /><br />Only usable on enemies below 35% health.</span></td></tr></table><!--?806222:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Build: Battery Recharge Station",
+  "icon": "inv_engineering_815_uberspanner",
+  "tooltip_enus": "<table><tr><td><b>Build: Battery Recharge Station</b><br />30% of base mana<br /><table width=\"100%\"><tr><td>1.5 sec cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Build a <span style=\"color: #FFFFFF;\">Battery Recharge Station</span> for 30&nbsp;sec that allies can interact with once to replenish 15% maximum health and mana, and 50% maximum Rage, Energy, Focus, and Runic Power.<br /><br />Applies <span style=\"color: #ffffff;\">Depleting Battery</span> to party and raid members within 40 yds.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_battery_02.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=560774'> Depleting Battery </a> <br />\n                            <span> Movement speed increased by 10% for 30&nbsp;sec. Run to the <span style=\"color: #ffffff;\">Battery Recharge Station</span> and charge your battery!</span><br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/_create_managem.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=570716'> Charged Battery </a> <br />\n                            <span> Movement speed increased by 30% for 12&nbsp;sec.</span><br /></span></td></tr></table><!--?805308:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

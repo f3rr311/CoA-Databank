@@ -1,0 +1,8 @@
+{
+  "name_enus": "Acidfang",
+  "icon": "inv_misc_herb_fellotus",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Acidfang</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 30 Passive</span><br />Periodic damage dealt now has a 40% chance, and critical strikes a 100% chance, to grant a stack of <span style=\"color: #ffffff;\">Acidfang</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_misc_herb_fellotus.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=806602'> Acidfang </a> <br />\n                            <span> The next <span style=\"color: #ffffff;\">Rotfang</span>, <span style=\"color: #ffffff;\">Withering Venom</span>, or <span style=\"color: #FFFFFF;\">Facemelter</span> within 15&nbsp;sec has 1% reduced duration and ticks 2% faster, stacking 10 times.</span><br /></span></td></tr></table><!--?806603:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

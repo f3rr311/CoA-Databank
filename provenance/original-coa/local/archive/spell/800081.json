@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chainwhip",
+  "icon": "_enslavespell_fire",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Chainwhip</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>10 Rage<br /><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Swing a chain at an enemy dealing 8+0+AP*0.45+SP*0.25 Physical damage and silencing them for 2&nbsp;sec, generating a large amount of threat.<br /><br />If you successfully interrupt an enemy, this will refund 20% of the cooldown.</span></td></tr></table><!--?800081:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

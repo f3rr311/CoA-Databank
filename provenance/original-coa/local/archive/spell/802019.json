@@ -1,0 +1,8 @@
+{
+  "name_enus": "Purifier's Edge",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Purifier's Edge</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>9% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>6&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\">Strike an enemy with searing blades, dealing Weapon Damage plus 20 with both weapons as Fire damage.<br /><br />Grants <span style=\"color: #ff7a24;\">Flames of Sin</span> or increases the duration by 3 sec.</span></td></tr></table><!--?802019:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

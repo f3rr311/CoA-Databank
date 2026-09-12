@@ -1,0 +1,15 @@
+{
+  "name_enus": "Explode",
+  "icon": "spell_fire_felflamering_red",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Explode</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>10% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Blast an enemy, dealing 35+0+FireP*1.13 Fire damage<!--sp520884:0--><!--sp520884-->.</span></td></tr></table><!--?800792:1:1:80-->",
+  "spells_enus": {
+    "520884": [
+      [
+        "",
+        ", increased by 15% for each of your Pyromancer periodic effects on the target"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Time Is A Circle",
+  "icon": "inv_wand_1h_maldraxxusquest_b_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Time Is A Circle</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 40 Passive</span><br />Casting <span style=\"color: #ffffff;\">Wand of Time</span> now extends the duration of your <span style=\"color: #C49A6C;\">Continuum</span> spells by 3 sec.<br /><br /><span style=\"color: #C49A6C;\">Continuum</span> spells cannot be extended beyond their maximum duration.</span></td></tr></table><!--?806206:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

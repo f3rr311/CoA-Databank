@@ -1,0 +1,8 @@
+{
+  "name_enus": "Volcanocannon",
+  "icon": "spell_mage_unstablemagic",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Volcanocannon</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Flare Bolt</span> now reduces the cooldown of <span style=\"color: #ffffff;\">Explode</span> by 1 sec.</span></td></tr></table><!--?806501:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

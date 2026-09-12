@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wizened",
+  "icon": "inv_staff_26",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Wizened</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your maximum mana by 5% and reduces the mana cost of spells and abilities by 3%.</span></td></tr></table><!--?705903:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Supercharge",
+  "icon": "inv_engineering_intradalaranwormholegenerator",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Supercharge</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>8% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Supercharge your <span style=\"color: #ffffff;\">Clockwork Assistant</span> for 15&nbsp;sec, increasing all damage it deals by 50%, and healing it for 27 every 1 sec.</span></td></tr></table><!--?801708:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

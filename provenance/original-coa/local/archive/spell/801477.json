@@ -1,0 +1,8 @@
+{
+  "name_enus": "Grace of Aman'Thul",
+  "icon": "_d3waveoflight",
+  "tooltip_enus": "<table><tr><td><b>Grace of Aman'Thul</b><br />20 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Unleash a defensive <span style=\"color: #ffffff;\">Oath Breaker</span>, causing damage taken from melee attacks to heal yourself and allies within 10 yds for 0+1.9 Points Per Level. <br /><br />Lasts until cancelled or until you are struck 10 times.</span></td></tr></table><!--?801477:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

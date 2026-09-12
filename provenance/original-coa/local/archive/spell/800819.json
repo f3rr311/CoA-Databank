@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flames of the Firelord",
+  "icon": "achievement_firelands_raid_ragnaros",
+  "tooltip_enus": "<table><tr><td><b>Flames of the Firelord</b><br />13% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Enter a supreme spellcasting state for 15&nbsp;sec, immobilizing you and increasing the damage of your <span style=\"color: #ff7f7f;\">Ember</span> spenders by 20% and causing them to strike up to 3 additional enemies.</span></td></tr></table><!--?800819:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

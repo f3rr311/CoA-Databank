@@ -1,0 +1,8 @@
+{
+  "name_enus": "Witching Shroud",
+  "icon": "_sylvanas_warlock",
+  "tooltip_enus": "<table><tr><td><b>Witching Shroud</b><br />15% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Enter a powerful stealth mode for 3&nbsp;sec, granting immunity to all harmful magic effects.<br /><br />Only usable for 10&nbsp;sec after being hit by a magical critical strike. Usable while stunned or feared.</span></td></tr></table><!--?805770:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

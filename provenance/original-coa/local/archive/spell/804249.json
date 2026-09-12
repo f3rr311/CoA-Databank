@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blessing of Absolution",
+  "icon": "spell_paladin_lightofdawn",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blessing of Absolution</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>18% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empower a <span style=\"color: #ffffff;\">Blessed</span> ally to unleash a burst of holy energy in front of them, dealing 32+0+Heal*1.5 Holy damage enemies in a 10 yd frontal cone and generating additional threat.<br /><br />Only usable on your ally with <span style=\"color: #ffffff;\">Bless</span> active.</span></td></tr></table><!--?804249:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

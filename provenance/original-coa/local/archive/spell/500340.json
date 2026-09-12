@@ -1,0 +1,8 @@
+{
+  "name_enus": "Plaguebomb",
+  "icon": "ability_vehicle_plaguebarrel",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Plaguebomb</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>999.9 Runic Power<br /><table width=\"100%\"><tr><td>1.5 sec cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Throw a plague bomb at the target location, dealing 134+0+SP*0.3 Plague Damage to up to 8 enemies. <br /><br />Enemies in the area incur a stack of <span style=\"color: #ffffff;\">Crypt Plague</span> every 1.5 sec for 15&nbsp;sec.</span></td></tr></table><!--?500340:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

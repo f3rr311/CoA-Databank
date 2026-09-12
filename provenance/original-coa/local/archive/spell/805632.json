@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blade of The Sun",
+  "icon": "ability_paladin_sheathoflight",
+  "tooltip_enus": "<table><tr><td><b>Blade of The Sun</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Glorious Execution</span> now increases your Holy and Fire damage dealt to the target by 8% for 10 sec.</span></td></tr></table><!--?805632:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

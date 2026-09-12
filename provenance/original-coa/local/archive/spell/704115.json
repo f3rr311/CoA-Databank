@@ -1,0 +1,8 @@
+{
+  "name_enus": "Clotting",
+  "icon": "inv_hand_1h_pvpdraenors2_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Clotting</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">At the end of <span style=\"color: #ffffff;\">Aortic Assault</span>'s duration, all enemies in a 10 yd frontal cone suffer 600*$<scalingbp>+AP*0.5 Physical damage.<br /><br />Damage dealt by this effect is increased by 25% against bleeding targets.</span></td></tr></table><!--?704115:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

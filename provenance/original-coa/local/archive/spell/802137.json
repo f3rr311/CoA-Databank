@@ -1,0 +1,8 @@
+{
+  "name_enus": "Warrior of the Night",
+  "icon": "spell_shadow_impphaseshift",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Warrior of the Night</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the damage dealt by <span style=\"color: #ffffff;\">Purifier's Edge</span> and <span style=\"color: #FFFFFF;\">Smite Evil</span> by 15%.</span></td></tr></table><!--?802137:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

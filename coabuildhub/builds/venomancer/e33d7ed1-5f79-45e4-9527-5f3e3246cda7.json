@@ -1,0 +1,775 @@
+{
+ "build": {
+  "id": "e33d7ed1-5f79-45e4-9527-5f3e3246cda7",
+  "title": "Venomancer Spider Lord Tank (End Game Tank Spec)",
+  "description": "[overview]\nI'll add more info when I get more time.\n\nThis is my current Venomancer Tank build.\n\nYou can only use two vemon's at once. As a tank you'll use Weakening Venom and Blight Venom.\n- Weakening Venom ( 35% chance to deal 80 shadow damage and reduce the enemy's attack power by 241 for 12 sec)\n- Blight Venom ( 30% chance to poison an enemy dealing 1852 shadow damage over 9 sec)\n\nYou have a choice to use Greater Spider Pheromones (+92 Agil) or Greater Beetle Pheromones ( + Armor 343 and all primary stats by 14). For mythics, I just use spider pheromones as you get more attack power, 3crit hit, increased armor, and increased Dodge chance.\n\n\n#1- In the Class tree- when picking talents do not pick Shadra's Lair. As a tank when you use Burrow or the Lair you lose agro and the mobs go straight to the highest threat which is normally the healer.  The only reason to use this is to hide from a big one-shot boss ability. I picked up burrow only because I didn't see another useful talent to pick.\n\n#2- In the class tree - I picked Chitinous Spikes over the only other viable pick which is Venomizer.  With Venomizer I don't have any issues with my current proc chance, so I'm thinking the extra reflective damage is best for threat and dps.\n\n#3- In the Fortitude Tree pick Impale, this is not only useful but I find it fun to position the mobs in a line and then impale them. It does a ton of damage and stuns the mobs, bonus it looks cool.\n\n#4- In the Fortitdue tree- although the Barbed stinger looks good, I don't find it useful enough to waste a talent point on it. I do have 1 point in wicked barbs because it applies Wicked poison when you use Chitin Rush which i use when it is up.\n\n[talents]\nI explained in the overview but here are my key points.\n\nOn the Fortitude Tree:\n1- I only used 1 point in Vile Fury because I'm already over the hit cap and with all the big pulls I'm rarely starved for rage so I chose to put the other point elsewhere.\n2- I picked Pendo's Charm over Catalyst because your dots are always doing damage and filling your rage.\n3- I picked Slimy Stingers over Slimy because you should be constantly using Carapace Crash to generate threat and DPS. There is no cooldown so every time you hit Carapace Crash and hit an enemy it puts a poison pool on the ground.\n4-I picked Chitinous Surge over Empowered Exoskeleton because the reduced Cooldown and increased DPS is better than a 5-yard range increase.\n5- I picked Impale because it's my favorite skill and extremely useful. You can use it to do a ton of AOE damage or another interrupt.\n\nFor the Venomancer Tree:\n#1 -Never pick Shadra's Lair- completely useless for a tank. When you use those all the agro goes to whoever is next on the threat meter, which could be the healer... Burrow is similar but I picked it last because there wasn't a better talent to take. Burrow is very situational, hiding for a boss's one-shot mechanic. I haven't yet find a useful use for burrow but maybe for raids.\n#2- Pick up Lifeblood, you will use this for the 20% damage deduction. I use this all the time in big pulls.\n#3- Pick up Tome of Ahn\"Kahet- This procs all the time, giving you a free attack.\n#4- I had one point left over, so I picked Adrenal Venom. I'm still testing this out but normally I use Weakening Venom and Blight Venom.\n\n[rotation]\nPull: Use Hive Instinct if you have no rage.\nChitin Rush, Carapace Crash, Claw Strike, Venomtip Poison, Carapace Regeneration\n\nWhen your rage gets low, use Claw Strike. As long as you never run out of range, your Carapace Regeneration will stay active. Best practice is to never get to 3 stacks as it drains rage 10 rage every second per stack. 1 stack only 10 rage per second, which is easy to maintain. 3 stacks is 30 rage per second, and you'll be empty before you know it. For big AOE groups, you can stack to 2, and you should be good.\n\nLine up the mobs and use Impale.\n\nUse Chitin rush to do more damage and threat. Be careful not to agro another group or use it to get more mobs to tank,\n\nUse vile sting whenever it is up. This is a free Venom trigger.\n\nIf you have no health concerns, use expulsion for extra DPS. If your healer is having issues keeping you topped off, then save your stacks of exposed flesh for your defensive cooldowns.\n\nIf you run out of rage, hit Hive Instinct for 100 rage (2 min cooldown)\n\nIf your health starts to drop use use your Defensive Cooldown\n- if you have high exposed flesh stack use Regrow Exoskeleton - reduce damage by 20% and an additional 1 sec per stack.\n- if below 50% use Harden- reduce damage by 45%, decaying quickly over 10 sec and healing for 1% maximum health each time a stack is removed(3 minute cooldown)\n- Use lifeblood- reduce damage 20%. \nTry to alternate your defensive cooldowns; try not to blow them all at once.\n\nFor spell interruption, you have two options:\n1- Nullifying Toxin (16 sec cooldown)\n2- Impale (40 sec cooldown )\n\n[stats]\nStamina>Agility>Attack power>Spell Power>Intel\n\nStamina gives you Health and increases the damage of Claw Strike. The key to this build is stacking Stamina. When you use Carapace Regeneration, that means you restore 1% of maximum health every 1 sec. The more health, the more regeneration. For example, I'm at around 12K health right now. When I have 2 stacks of Carapace regeneration up then I'm healing myself 240 health per sec. \n\nAgility gives you attack power, Critical hit Chance, increases Armor, and Increases Dodge\n\nIntelligence increases Spell Damage. Intellect directly scales your Nature damage and deadly poisons, allowing your Damage-over-Time (DoT) effects and venom strikes to hit significantly harder.\n\nSpell power increases Damage-over-Time (DoT) Spells: Scales the damage of your toxic poisons\n\nStrength does give you attack power, but not as much as Agility.\n\n[gear]\nBIS right now is not set in stone. The game is too new, but this is my best swing at it.\n\nFocus on getting the Scalemail of Tenacity set. This is Defense and dodge-focused.\nhttps://db.ascension.gg/?itemset=-1289\n\nYou can try swaping in 3 piece set for the set bonus of the Beaststalker's Armor\nhttps://db.ascension.gg/?itemset=-45\n\nWeapon:\nUrsine Woodstaff- Timbermaw Hold- Exalted\n\nNeck:\nTalisman of the Furbolg Warder- Timbermaw hold- Exalted\nhttps://db.ascension.gg/?itemset=-45\n\nBack/Cloak-\nUrsinefur Cloak- Mark of Triumph vendor\n\nFinger:\n#1 -The \"Prized\" Possession - Timbermaw Hold - Exalted\n#2- Ironguard Signet- Marks or Triumph vendor (60 marks)\n#3- Band of Vigor - DireMaul East- Lethtendris\n\nBow:\nDark instinct-(mythic)\n\nTrinket:\nDefender of the Timbermaw- Timbermaw hold- Exalted\nHeart of Noxxion- Mythic \n\nFor more dps use this option:\nHand of Justice\n\nI'm still researching which trinket may be BIS. There are a couple worldforged options.\nLookout Scope- +10 Agil , Gut rating by 4,  +200 Armor\nSnaggle's Engage Whistle +15 Agil, +14 Stam\nFisherman's Last Wish- +15 agil, +12 Stam\nUrsangous' Claw- +10 Stam, Crit rating by 13, Attack power by 8, summon a Mama Bear\n\n[enchants]\nWeapon:\nEnchant 2H Weapon- Agility - Two hand = 25 Agility\n\nAnother option is Ninja's Focus - Chance to increase agility by 110 for 15 seconds\n\nI recommend using the permanent 25 agility versus a procing enchant. The uptime and procing of Ninja's Focus is not consistent enough for a tank.\n\nHands:\nEnchant Gloves Agility. +7 Agility \n\nFeet:\nEnchant Boots- Greater Agility. +7 Agility \n\nWrist:\nEchant Bracer - Superior Stamina.  +9 Stamina \n\nChest:\nAll stats. the +4 \nor the cheaper +3- Enchant Chest = Stats\n\nBack: Tailoring Enhancement \nNible Cloak Lining. 6 Agility and 5 Stamina to cloak\n\nLegs: PVP enchant sold at the pvp merchant or bought from the auction house.\nArcanum of Triumph- 18 attack power, 10 Stamina, and 8 Resilience\n\nHead:  PVP enchant sold at the pvp merchant or bought from the auction house.\nArcanum of Triumph- 18 attack power, 10 Stamina, and 8 Resilience",
+  "class_id": 29,
+  "spec_id": 78,
+  "author_id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+  "talent_string": "W1siMjktODctMS0wIiwxXSxbIjI5LTg3LTQtMCIsMV0sWyIyOS04Ny01LTEiLDFdLFsiMjktODctMy0xIiwyXSxbIjI5LTg3LTAtMiIsMV0sWyIyOS04Ny0xLTMiLDFdLFsiMjktODctMy0yIiwxXSxbIjI5LTg3LTQtMyIsMV0sWyIyOS04Ny00LTQiLDFdLFsiMjktODctMi00IiwyXSxbIjI5LTg3LTAtNCIsMV0sWyIyOS04Ny02LTQiLDFdLFsiMjktODctMS01IiwxXSxbIjI5LTg3LTMtNSIsMV0sWyIyOS04Ny01LTUiLDFdLFsiMjktODctMi02IiwxXSxbIjI5LTg3LTAtNiIsMV0sWyIyOS04Ny02LTYiLDFdLFsiMjktODctNC02YSIsMV0sWyIyOS04Ny03LTciLDFdLFsiMjktODctMS03YiIsMV0sWyIyOS03OC00LTAiLDFdLFsiMjktNzgtNC0xIiwxXSxbIjI5LTc4LTYtMiIsMl0sWyIyOS03OC0yLTIiLDJdLFsiMjktNzgtNC0zIiwxXSxbIjI5LTc4LTctMyIsMV0sWyIyOS03OC0xLTMiLDFdLFsiMjktNzgtMi00YSIsMV0sWyIyOS03OC0wLTRiIiwxXSxbIjI5LTc4LTQtNGIiLDFdLFsiMjktNzgtNi00IiwxXSxbIjI5LTc4LTUtNSIsMV0sWyIyOS03OC0zLTUiLDFdLFsiMjktNzgtMS01IiwxXSxbIjI5LTc4LTAtNiIsMV0sWyIyOS03OC0yLTYiLDFdLFsiMjktNzgtNC02IiwxXSxbIjI5LTc4LTUtNiIsMV0sWyIyOS03OC02LTYiLDFdLFsiMjktNzgtNC03IiwxXSxbIjI5LTc4LTEtNyIsMV0sWyIyOS03OC00LTIiLDFdLFsiMjktODctMi04IiwxXSxbIjI5LTg3LTQtOSIsMV0sWyIyOS03OC00LTgiLDFdLFsiMjktNzgtNC05IiwxXSxbIjI5LTg3LTQtNyIsMV1d",
+  "tags": [
+   "Venomancer",
+   "Fortitude",
+   "Beetle",
+   "Tank"
+  ],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 2,
+  "downvotes": 0,
+  "comment_count": 4,
+  "created_at": "2026-07-21T18:18:12.502705+00:00",
+  "updated_at": "2026-07-28T13:20:33.211+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1531,
+  "net_score": 2,
+  "has_talents": true,
+  "guide_section_count": 6,
+  "author": {
+   "id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+   "username": "ironhorse2",
+   "avatar_url": "https://cdn.discordapp.com/avatars/113811060129005572/bafc4c8b6e838f22795d63c6f089e207.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "9d69558a-ca8b-495b-9294-50b5a5065f03",
+   "build_id": "e33d7ed1-5f79-45e4-9527-5f3e3246cda7",
+   "author_id": "60d3f96e-c992-4355-adc8-e84744167bf8",
+   "parent_id": null,
+   "body": "you bring up not wanting to use burrow as to not draw aggro to the healers/squishys they why still pick it? additionally 10 more rage isnt that beneficial.\nit seems better in test and theory to put those to points into \"Adrenal Venom\" and \"Venomizer\"",
+   "upvotes": 0,
+   "created_at": "2026-07-26T18:43:26.397352+00:00",
+   "updated_at": "2026-07-26T18:43:26.397352+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "60d3f96e-c992-4355-adc8-e84744167bf8",
+    "username": "ja_bunter22",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1153267571160776714/7ad30c03b175a38acd983d635b863751.png"
+   }
+  },
+  {
+   "id": "891c4995-01ec-4037-bf3a-3542e0c6fc5a",
+   "build_id": "e33d7ed1-5f79-45e4-9527-5f3e3246cda7",
+   "author_id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+   "parent_id": "9d69558a-ca8b-495b-9294-50b5a5065f03",
+   "body": "Adrenal venom  (35% chance to increase haste for 6% for 9 sec).is not for tanking. It is for a casting spec (rot or Vizier). For tanking, you'll be using  Blight Venom ( 30% chance to poison an enemy dealing 1852 shadow damage over 9 sec) for dps and threat, and Weakening Venom ( 35% chance to deal 80 shadow damage and reduce the enemy's attack power by 241 for 12 sec) for dps and weakening the enemy's attack power.  Remember you can only use two venoms at once.  Haste is good for dps/ healing but how much is a proc chance to get only  6% haste... not that beneficial as a tank.\n\nYes, 10 rage is very beneficial, definitely more important than an extra 10% proc chance. Remember you're a tank, you focus on survivability over dps. How much is a 10% proc chance going to increase your DPS? Not much, and not worth wasting 2 talent points to get to it.\n\nBurrow was my last talent pick as there is nothing better to pick.  You'll use burrow,  useful to avoid boss one shot spells. You can pop right back up and get back on the boss.",
+   "upvotes": 1,
+   "created_at": "2026-07-27T02:23:00.536236+00:00",
+   "updated_at": "2026-07-27T02:23:03.639683+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+    "username": "ironhorse2",
+    "avatar_url": "https://cdn.discordapp.com/avatars/113811060129005572/bafc4c8b6e838f22795d63c6f089e207.png"
+   }
+  },
+  {
+   "id": "1c86b0d0-735e-423b-9b0b-8e5f93fa38d6",
+   "build_id": "e33d7ed1-5f79-45e4-9527-5f3e3246cda7",
+   "author_id": "a88d5787-739d-4e4d-b7f9-d8246b0441f1",
+   "parent_id": null,
+   "body": "Is there a reason why Top Veno Tanks dont go for Defense rating?",
+   "upvotes": 0,
+   "created_at": "2026-07-28T18:31:30.442391+00:00",
+   "updated_at": "2026-07-28T18:31:30.442391+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "a88d5787-739d-4e4d-b7f9-d8246b0441f1",
+    "username": "adamchen95",
+    "avatar_url": "https://cdn.discordapp.com/avatars/217281225310732288/0c1f2c38904074251589a1e47c342a7a.png"
+   }
+  },
+  {
+   "id": "5e4f264f-2128-4970-8e16-f64a049b4b60",
+   "build_id": "e33d7ed1-5f79-45e4-9527-5f3e3246cda7",
+   "author_id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+   "parent_id": "1c86b0d0-735e-423b-9b0b-8e5f93fa38d6",
+   "body": "They do... they are probably using dps gear in mythics so they can pump out more dps. In raids, they will put on the pure tanking gear.",
+   "upvotes": 0,
+   "created_at": "2026-07-29T01:25:50.158615+00:00",
+   "updated_at": "2026-07-29T01:25:50.158615+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "b558dacc-a81b-4e9e-9e41-c8f4b6c2355b",
+    "username": "ironhorse2",
+    "avatar_url": "https://cdn.discordapp.com/avatars/113811060129005572/bafc4c8b6e838f22795d63c6f089e207.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "8a699a3b-7b56-4c2e-b377-056550e943da",
+   "title": "Venomancer spaider pvp HR",
+   "class_id": 29,
+   "spec_id": 77,
+   "author_id": "7acc8832-e435-4336-ad7c-12df3acd4503",
+   "tags": [
+    "PVP    1V1    HR"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 2,
+   "view_count": 423,
+   "featured": false,
+   "created_at": "2026-07-28T17:33:39.566795+00:00",
+   "updated_at": "2026-07-29T13:17:32.619+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "7acc8832-e435-4336-ad7c-12df3acd4503",
+    "username": "hanselduck",
+    "avatar_url": "https://cdn.discordapp.com/avatars/278988578824912896/343e90e1f7578a4c7a79cda593b6d092.png"
+   }
+  },
+  {
+   "id": "ef1b937f-05be-41b5-85c8-289ceb816d31",
+   "title": "Venomencer Stalker",
+   "class_id": 29,
+   "spec_id": 77,
+   "author_id": "b64cdf8a-1b04-41db-bd9f-d701cc06949a",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1103,
+   "featured": false,
+   "created_at": "2026-07-22T17:36:54.158109+00:00",
+   "updated_at": "2026-07-22T17:36:54.158109+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "b64cdf8a-1b04-41db-bd9f-d701cc06949a",
+    "username": "drafras",
+    "avatar_url": "https://cdn.discordapp.com/avatars/552239173713788939/7bfdd82e711f53b8995d2ab4b11db3d6.png"
+   }
+  },
+  {
+   "id": "b2a5c047-8ad5-4506-ba81-f11d7643975e",
+   "title": "FORTITUDE venomancer (tank)",
+   "class_id": 29,
+   "spec_id": 78,
+   "author_id": "d0030cfd-4db8-42aa-8223-007c6f5f55f4",
+   "tags": [],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 728,
+   "featured": false,
+   "created_at": "2026-07-17T19:46:06.663932+00:00",
+   "updated_at": "2026-07-17T19:46:06.663932+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "d0030cfd-4db8-42aa-8223-007c6f5f55f4",
+    "username": "te lo",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJTE0QkKc9tBwRR2RICw84SgVSNk_JqpPBj8UHgylZw8wEioWep=s96-c"
+   }
+  }
+ ],
+ "class": "Venomancer",
+ "spec": "Fortitude",
+ "allocations": [
+  [
+   "29-87-1-0",
+   1
+  ],
+  [
+   "29-87-4-0",
+   1
+  ],
+  [
+   "29-87-5-1",
+   1
+  ],
+  [
+   "29-87-3-1",
+   2
+  ],
+  [
+   "29-87-0-2",
+   1
+  ],
+  [
+   "29-87-1-3",
+   1
+  ],
+  [
+   "29-87-3-2",
+   1
+  ],
+  [
+   "29-87-4-3",
+   1
+  ],
+  [
+   "29-87-4-4",
+   1
+  ],
+  [
+   "29-87-2-4",
+   2
+  ],
+  [
+   "29-87-0-4",
+   1
+  ],
+  [
+   "29-87-6-4",
+   1
+  ],
+  [
+   "29-87-1-5",
+   1
+  ],
+  [
+   "29-87-3-5",
+   1
+  ],
+  [
+   "29-87-5-5",
+   1
+  ],
+  [
+   "29-87-2-6",
+   1
+  ],
+  [
+   "29-87-0-6",
+   1
+  ],
+  [
+   "29-87-6-6",
+   1
+  ],
+  [
+   "29-87-4-6a",
+   1
+  ],
+  [
+   "29-87-7-7",
+   1
+  ],
+  [
+   "29-87-1-7b",
+   1
+  ],
+  [
+   "29-78-4-0",
+   1
+  ],
+  [
+   "29-78-4-1",
+   1
+  ],
+  [
+   "29-78-6-2",
+   2
+  ],
+  [
+   "29-78-2-2",
+   2
+  ],
+  [
+   "29-78-4-3",
+   1
+  ],
+  [
+   "29-78-7-3",
+   1
+  ],
+  [
+   "29-78-1-3",
+   1
+  ],
+  [
+   "29-78-2-4a",
+   1
+  ],
+  [
+   "29-78-0-4b",
+   1
+  ],
+  [
+   "29-78-4-4b",
+   1
+  ],
+  [
+   "29-78-6-4",
+   1
+  ],
+  [
+   "29-78-5-5",
+   1
+  ],
+  [
+   "29-78-3-5",
+   1
+  ],
+  [
+   "29-78-1-5",
+   1
+  ],
+  [
+   "29-78-0-6",
+   1
+  ],
+  [
+   "29-78-2-6",
+   1
+  ],
+  [
+   "29-78-4-6",
+   1
+  ],
+  [
+   "29-78-5-6",
+   1
+  ],
+  [
+   "29-78-6-6",
+   1
+  ],
+  [
+   "29-78-4-7",
+   1
+  ],
+  [
+   "29-78-1-7",
+   1
+  ],
+  [
+   "29-78-4-2",
+   1
+  ],
+  [
+   "29-87-2-8",
+   1
+  ],
+  [
+   "29-87-4-9",
+   1
+  ],
+  [
+   "29-78-4-8",
+   1
+  ],
+  [
+   "29-78-4-9",
+   1
+  ],
+  [
+   "29-87-4-7",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "29-87-1-0",
+   "points": 1,
+   "name": "Hive Instinct",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 804968
+  },
+  {
+   "id": "29-87-4-0",
+   "points": 1,
+   "name": "Envenomed Weapons",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 300855
+  },
+  {
+   "id": "29-87-5-1",
+   "points": 1,
+   "name": "Playing With Poison",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 707563
+  },
+  {
+   "id": "29-87-3-1",
+   "points": 2,
+   "name": "Acute Senses",
+   "maxPoints": 2,
+   "tree": "Venomancer (class tree)",
+   "spellId": 300664
+  },
+  {
+   "id": "29-87-0-2",
+   "points": 1,
+   "name": "Reinforced Shell",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705966
+  },
+  {
+   "id": "29-87-1-3",
+   "points": 1,
+   "name": "Weakening Venom",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 805778
+  },
+  {
+   "id": "29-87-3-2",
+   "points": 1,
+   "name": "Genesis",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705962
+  },
+  {
+   "id": "29-87-4-3",
+   "points": 1,
+   "name": "Spindlebind",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800887
+  },
+  {
+   "id": "29-87-4-4",
+   "points": 1,
+   "name": "Skin Shedder",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705949
+  },
+  {
+   "id": "29-87-2-4",
+   "points": 2,
+   "name": "Versatile and Deadly",
+   "maxPoints": 2,
+   "tree": "Venomancer (class tree)",
+   "spellId": 681052
+  },
+  {
+   "id": "29-87-0-4",
+   "points": 1,
+   "name": "Chitinous Spikes",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 504406
+  },
+  {
+   "id": "29-87-6-4",
+   "points": 1,
+   "name": "Tome of Ahn'kahet",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705993
+  },
+  {
+   "id": "29-87-1-5",
+   "points": 1,
+   "name": "Pinch",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 704235
+  },
+  {
+   "id": "29-87-3-5",
+   "points": 1,
+   "name": "Fury of Anub'Rekhan",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 800894
+  },
+  {
+   "id": "29-87-5-5",
+   "points": 1,
+   "name": "Empowering Pheromones",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705996
+  },
+  {
+   "id": "29-87-2-6",
+   "points": 1,
+   "name": "Venomancy Expert",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 706027
+  },
+  {
+   "id": "29-87-0-6",
+   "points": 1,
+   "name": "Runed Carapace",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 705961
+  },
+  {
+   "id": "29-87-6-6",
+   "points": 1,
+   "name": "Master of Venoms",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 504326
+  },
+  {
+   "id": "29-87-4-6a",
+   "points": 1,
+   "name": "Mamba Mentality",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 503976
+  },
+  {
+   "id": "29-87-7-7",
+   "points": 1,
+   "name": "Lifeblood",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 804963
+  },
+  {
+   "id": "29-87-1-7b",
+   "points": 1,
+   "name": "Enduring Exoskeleton",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 503960
+  },
+  {
+   "id": "29-78-4-0",
+   "points": 1,
+   "name": "Expulsion",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 805094
+  },
+  {
+   "id": "29-78-4-1",
+   "points": 1,
+   "name": "Carapace Regeneration",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 805931
+  },
+  {
+   "id": "29-78-6-2",
+   "points": 2,
+   "name": "Enchanted Chitin",
+   "maxPoints": 2,
+   "tree": "Fortitude",
+   "spellId": 706955
+  },
+  {
+   "id": "29-78-2-2",
+   "points": 2,
+   "name": "Reinforced Exoskeleton",
+   "maxPoints": 2,
+   "tree": "Fortitude",
+   "spellId": 706002
+  },
+  {
+   "id": "29-78-4-3",
+   "points": 1,
+   "name": "Regrow Exoskeleton",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 803197
+  },
+  {
+   "id": "29-78-7-3",
+   "points": 1,
+   "name": "Venomtip Poison",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 803195
+  },
+  {
+   "id": "29-78-1-3",
+   "points": 1,
+   "name": "Agitation",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 705969
+  },
+  {
+   "id": "29-78-2-4a",
+   "points": 1,
+   "name": "Pendo's Charm",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 504400
+  },
+  {
+   "id": "29-78-0-4b",
+   "points": 1,
+   "name": "Slimy Stingers",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 706001
+  },
+  {
+   "id": "29-78-4-4b",
+   "points": 1,
+   "name": "Chitinous Surge",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 705973
+  },
+  {
+   "id": "29-78-6-4",
+   "points": 1,
+   "name": "Natural Weapons",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 504393
+  },
+  {
+   "id": "29-78-5-5",
+   "points": 1,
+   "name": "Wicked Poison",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 705982
+  },
+  {
+   "id": "29-78-3-5",
+   "points": 1,
+   "name": "Charmed Plating",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 300974
+  },
+  {
+   "id": "29-78-1-5",
+   "points": 1,
+   "name": "Deadly Sting",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 560264
+  },
+  {
+   "id": "29-78-0-6",
+   "points": 1,
+   "name": "Potent Expulsion",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 560266
+  },
+  {
+   "id": "29-78-2-6",
+   "points": 1,
+   "name": "Charm of Warding",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 705967
+  },
+  {
+   "id": "29-78-4-6",
+   "points": 1,
+   "name": "Impale",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 560248
+  },
+  {
+   "id": "29-78-5-6",
+   "points": 1,
+   "name": "Beetle Poison",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 705876
+  },
+  {
+   "id": "29-78-6-6",
+   "points": 1,
+   "name": "Wicked Barbs",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 504402
+  },
+  {
+   "id": "29-78-4-7",
+   "points": 1,
+   "name": "Cover",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 300680
+  },
+  {
+   "id": "29-78-1-7",
+   "points": 1,
+   "name": "Venomics",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 705975
+  },
+  {
+   "id": "29-78-4-2",
+   "points": 1,
+   "name": "Vile Fury",
+   "maxPoints": 2,
+   "tree": "Fortitude",
+   "spellId": 706006
+  },
+  {
+   "id": "29-87-2-8",
+   "points": 1,
+   "name": "Fury of Shadra",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 503850
+  },
+  {
+   "id": "29-87-4-9",
+   "points": 1,
+   "name": "Avatar of Shadra",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 503856
+  },
+  {
+   "id": "29-78-4-8",
+   "points": 1,
+   "name": "Locust Swarm",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 560247
+  },
+  {
+   "id": "29-78-4-9",
+   "points": 1,
+   "name": "Spider Lord",
+   "maxPoints": 1,
+   "tree": "Fortitude",
+   "spellId": 704264
+  },
+  {
+   "id": "29-87-4-7",
+   "points": 1,
+   "name": "Burrow",
+   "maxPoints": 1,
+   "tree": "Venomancer (class tree)",
+   "spellId": 806154
+  }
+ ]
+}

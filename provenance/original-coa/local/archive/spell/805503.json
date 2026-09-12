@@ -1,0 +1,8 @@
+{
+  "name_enus": "Moonstone",
+  "icon": "inv_holiday_hearthstonelunarfestival",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Moonstone</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Lunar Lance</span> by 20%.</span></td></tr></table><!--?805503:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

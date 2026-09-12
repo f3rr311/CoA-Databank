@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wildfire",
+  "icon": "spell_fire_selfdestruct",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Wildfire</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Blaze</span> now strikes an additional enemy near the primary target.</span></td></tr></table><!--?802113:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

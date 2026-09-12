@@ -1,0 +1,8 @@
+{
+  "name_enus": "Magmasteel",
+  "icon": "inv_sword_2h_pvpcataclysms3_c_01",
+  "tooltip_enus": "<table><tr><td><b>Magmasteel</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Every 3rd <span style=\"color: #ffffff;\">Blademaster Strike</span> now deals 20% increased damage.</span></td></tr></table><!--?804931:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Windsurf",
+  "icon": "ability_druid_galewinds",
+  "tooltip_enus": "<table><tr><td><b>Windsurf</b><br />21% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Command your <span style=\"color: #ffffff;\">Air Elemental</span> to windsurf to you, intercepting the next melee or ranged attack made against you, and allowing you to cast <span style=\"color: #ffffff;\">Shock</span> and <!--sp707615:0--><span style=\"color: #ffffff;\">Call Lightning</span><!--sp707615--> while moving for 15&nbsp;sec.</span></td></tr></table><!--?500042:1:1:80-->",
+  "spells_enus": {
+    "707615": [
+      [
+        "<span style=\"color: #ffffff\">Call Lightning</span>",
+        "<span style=\"color: #FFFFFF\">Aeroblast</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

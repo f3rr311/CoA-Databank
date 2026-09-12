@@ -1,0 +1,806 @@
+{
+ "build": {
+  "id": "7e9d9222-bd9b-46f8-b6fa-2012abfb8654",
+  "title": "Valkyrie DPS PvE Detailed Guide (Dungeons, Mythics, Raid)",
+  "description": "[overview]\nHi! I made this guide because I have really been enjoying the spec and wanted to share some of my thoughts and learn from the community, I welcome any and all feedback! This is a hand-written guide that I update on a daily basis as I play the class. Any Information presented here is of free-use to the community I simply compile it and post. (otherwise I'd keep it to myself 😛)\n\n☀️**Sun Cleric Valkyrie**☀️ is a **Melee Titan's grip** spec that plays like a mix between classic ☩**Retribution Paladin**☩ and ⚔️**Fury Warrior**⚔️ with some mechanics unique to the class itself. Sun Cleric Valkyrie utilizes an arsenal of both defensive and offensive cooldowns ranging from 45 seconds to 8 minutes. This culminates into a class with tremendous **burst damage** potential, incredible **AoE** clear, and very respectable **single-target** damage.\n\nPlease understand I'm just a player like you, I will never claim to be the end-all be-all of knowledge for this class, if you feel my opinion is wrong please feel free to share and I will try my best to respond in respect :)\n\nThis is a comprehensive guide and is designed around players who may be entirely new to Sun Cleric - Valkyrie or need help understanding the basics. If you want a more **Mythic+** centric guide I **highly reccommend** checking out **Leonardo Calegário**'s guide here: **https://coabuildhub.com/build/01175a7b-9331-48b6-98a0-fc2ce22ce560**\nHe is a content creator and prolific Sun Cleric player who understands the class well and is making video guides for the class. Please show your support!\n\n**Also please check out and upvote my bug report, I am trying to get attention from the AscensionWoW team about a suggestion that MANY players who have played the spec feel is necessary for smoother more meaningful gameplay for the class**\n\n**https://ascension.gg/en/bugtracker/view/197302**\n\n[talents]\nThis is just my rationale for picking these talents. if you disagree with me, feel free to pick whatever you'd like. This Build utilizes cooldown reduction talents such as **It's Always Sunny**, **Blessed Magic**, and **Trial of Valor** which will be useful for maintaining more consistent DPS through a mythic run and deal more damage in longer fights in Raids, however, may suffer in fights with short kill-times where you don't get the opportunity to utilize these cooldowns more than once.\n\nIf you feel you need more single target damage, I would suggest switching **It's Always Sunny** for **Atone, Or Else** however this will also require you to build these stacks by casting other abilities while **Dawn** is active, delaying **Sunslam** in your rotation.\n\nIdeally, **Divine Retribution** should be **MORE DPS** overall than **Knight of Dawn** however since this class already has so many cooldowns to manage I wanted to pick something that would be a decent damage increase without adding any stress to the already cluttered playstyle and this just felt better 😛\n\nI also did not choose **Valkyr's Calling** because I feel our AoE burst is already so powerful and because of the delay in the ability when up in the air, it's use in single target is also very limited. It's great for a bit more AoE burst damge but instead of that I opt'd for the 3% raid-wide buff (your raid will love you) and the cooldown reduction to **Judgement Day**. \n\n--**Class Talents**--\n**Devoted to the Sun**: YOU NEED THIS FOR SMOOTH GAMEPLAY. Reduces the cooldown of Solar Invocation: Conquest!\n**Guiding Glow**: Grants up to 5 additional casts with the Dawn buff active, this is INCREDIBLY useful.\n**Hegemony**: Increases the duration of Radiance which = more dps.\n**Fortuitous**: Removed the cast-time of glare when above 80% health, making it an instant cast damage/CC.\n**Unbreakable Focus**: Reduces the cooldown of Gavels and Horusath blast by 20% = more DPS.\n**Nysoni's Blessing**: gives a nice 6 second haste buff from activating Dawn.\n**New Day**: Major Cooldown that refreshes other Major Cooldowns.\n\n--**Valkyrie Talent's**--\n**Champion of the Sun**: Major CD for increasing DPS.\n**Fanaticism**: Increases Gavel and Horusath Blast Damage.\n**Judgement of the Valkyrie**: Reduced cooldown for Judgement Day\n**It's Always Sunny**: Reduced Cooldowns for some of our best CDs.\n**Trial of Valor**: Reduces cooldown for Horusath Blast one of our strongest abilities.\n**Blessed Hammer**: required for smooth gameplay and reducing the cooldown of Solar Invocation: Conquest.\n**Blessed Magic**: Casting Horusath Blast now resets the Cooldown of Glorious Execution. = more DPS.\n**March of the Valkyr**: Great little raid buff and flat damage increase.\n**Solar Empowerment**: One of your strongest AoE effects. Will deal incredible amounts of damage in large groups.\n**Knight of Dawn**: EVEN More Glorious Execution buffs.\n\n[rotation]\nThe Rotation when waiting on cooldowns is less of a \"Rotation\" and more of a \"Priority List\".\n\nPre-plan which **Vow** you'll need **before starting combat**, switching Vows in combat feels quite awful, it's on the global cooldown.\n\n**Solar Power** is your main resource to manage, you ideally should never run out of **Mana** at 60 you should have **Replenishment** active from casting **Horusath Blast**. Casting our cooldowns can be very Mana hungry but your mana regain should effectively counter it.\n\n-☀️**Dawn Buff Priority**☀️-\nMaintain the [Dawn](coa-skill:sun-cleric:804584) buff this will be your **NUMBER ONE** priority. \n\n- This buff is activated by storing **20 Solar Power** generated from **Vows**. At **20 Solar Power** you can activate **Dawn**, which will give you a different effect depending on the active **Vow**.\n\n- Activating **Dawn** will then give you **15 stacks** of **Dawn**. Every time you cast an ability it will **consume a stack of Dawn.**\n\n- The **Dawn** ability will now be called **Radiant Conversion**, this ability will take all your REMAINING stacks of **Dawn** and turn them back into **Solar Power**.\n\n- When **Dawn** stacks reach **~8 stacks** you will cast **Radiant Conversion > Solar Invocation: Conquest** which will put you at **~18 stacks** of **Solar Power**, \n\n- Follow up with a couple ability casts or auto attacks (depending on your active **Vow**) will once again max out your **Solar Power** allowing you to almost **immediately reactivate Dawn.**\n\nThere will always be \"downtime\" when you will be waiting for **Solar Invocation: Conquest's** cooldown or be starved of **Solar Power** from having **consumed too many stacks of Dawn**. This usually occurs after having used **Sunslam** since this ability uses **4** stacks of **Dawn**, quicker than our normal priority rotation will spend them.\n\nI have linked a simple little **Weakaura** I made that will show you your stacks of **Dawn** when the buff is active and alert you when to refund them (default is 8 stacks however this can be edited in WA) \n\n**https://wago.io/UtvGNLPwc**\n\nWhen **out of combat** use **Vow of Grace** to passively regain **Solar Power** and top yourself off before going into a fight. You can also spam **Solar Invocation: Conquest**. I often use a combination of both if there's nothing around to hit for a couple seconds.\n\n-🕙**Rotation**🕙-\n\n-The **Cooldowns** you use as your opener-\n-1. Activate **Vow** of choice                                            - (Dawn for AOE / Valkyrie for Single-Target)\n\n-2. Activate **Dawn**                                                        - Activate RIGHT BEFORE engaging in combat for the buff it provides.\n-3. **Paragon**                                                    - 5-min CD - I keep this on a separate button so i can use it specifically for bosses, everything else I personally macro for convenience\n\n-4. **Dawnfall**                                                   - 2-min CD   -  \\\n-5. **Radiance**                                                  - 2-min CD   - These 3 spells can be macro'd together to cast at the same time.\n-6. **Champion of the Sun**                              - 2-min CD   -  /\n\n-7. **Judgement Day**                                        - 45 sec CD   **AoE damage skip if Single Target**\n-8. **Glare** (if above 80% health)                   - 2-min CD    **AoE damage skip if Single Target**\n\n-9. **Sunslam**                                                   - **Major Damage Dealing Ability Always Use when off Cooldown!**\n\n-10. **Radiant Conversion**                               - **Convert** Remaining Stacks of **Dawn** to **Solar Power**\n-11. **Solar Invocation: Conquest**                    - Immediately Gain **10** Stacks of **Solar Power**\n-12. **Dawn**                                                       - Refresh **Dawn** Buff\n\n**Regular Priority-List Begins**\n-1. **Glorious Execution**\n-2. **Horusath Blast** - Since we picked **Blessed Magic** it will reset the cooldown of **Glorious Execution** so always make sure **Glorious Execution** is on cooldown before casting **Horusath Blast**.\n-3. **Gavel**\n-4. **Justice**\n\n**Trial of Valor will reduce the cooldown of Horusath blast every time you FULFILL your oath, I.E. cast an ability with Dawn active**\n\n**Repeat the Priority-List until you have Cooldowns again.**\n\n**Sunslam** uses up to **4 stacks of Dawn** if all hits land, I would suggest only using this ability at **12 stacks of Dawn** or higher so that you aren't severly under when you convert. Sometimes I will cancel the cast and convert my stacks over in the middle of a **Sunslam** channel to **Solar Power** to maintain **Dawn** uptime. There's a balance to it.\n\n[stats]\n-📊**Primary Stats**📊-\n**Strength** > Agility > Intelligence\n\nIdeally, **Strength is all that really matters** however Agility gives us melee crit and Intelligence gives spell crit so if nothing else they provide some kind of a bonus to overall damage.\n\n-📊**Secondary Stats**📊-\n**Our Tier sets will likely have much of these stats locked in. Do not focus on chasing too much of any one stat, as long as you're Hit/Expertise Capped!**\n\n\n- **Hit** **(9% cap Technically only 8% with a Draenei in Raid)** we get 6% passively. \nYou technically want AS MUCH AS POSSIBLE under the 27% hit cap for your off-hand but **you will likely NEVER reach hit cap for off-hand** don't worry about it past the 8-9% you need to cap your mainhand hit. (Depending on raid buffs)\n\n- **Expertise** **(26 is Expertise Cap)** This will prevent your attacks from being dodged or parried.\n (Less with certain racials i.e. Human/Dwarf)\n\n- **Haste**  According to the Ascension Wiki, There is no \"Softcap\" BUT I'm going to assume we're using WoTLK's version of haste here SO You can reduce GCD down to 1 second and Haste will lower your Auto Attack speed, that being said, you should **never sacrifice primary stats like strength to chase this stat.**\n\n- **Critical Strike**, fairly self explanatory, more crit = more damage. You kind of take this stat where you can get it as long as you're capped on Hit/Expertise.\n\n- **Armor Penetration**, not entirely sure about this stat in particular, will depend on how much armor bosses have and the contribution this stat will provide overall.\n\n- **Spell Power**, Not useless, but not entirely useful. Horusath Blast scales with Attack Power so don't focus on chasing Spell power in my personal opinion.\nMost of our damage will come from melee abilities and auto attacks.\n\n[gear]\nNo tier sets yet and I haven't played enough to get enough gear to test everything out.\n\nI would suggest just looking for iLvl upgrades that correspond to the **Stat Priority**.\n\n**Strength** > **8-9% Hit** > **26 Expertise** > **Haste** > **Critical Strike** > **Armor Penetration**\n\nFor now, i'd suggest sticking to doing **Heroic Dungeons** and working your way up to **Mythic.** Try to gear up and prepare for World Boss raids.\n\nOnce ZG, Tier Content, and other raids release I will update the Gear/BiS list accordingly, for now use this gear planner to see what items you want from the current available content and itemize how you feel best.\n\n**https://coa.bisbeard.com/**\n\nI've linked an example gearset of the stat balance I would look for while acquiring dungeon gear, its set to \"heroic\" but it works for mythic dungeon gear too.\n\n**https://coa.bisbeard.com/b/mtJqfDHZR0e75g**\n\nHowever you can also just spam dungeons and buy the dungeon gear you need/want from the Triumph badge vendor in your Factions Throne Room. (Orgrimmar/Stormwind) They don't have everything, but they have more than you'd expect.\n\n[enchants]\n**Head**: (Depends on if Expertise Capped)\n**Warrior's Might** (Strength, Stamina, Armor Penetration) \nor \n**Death's Embrace** (Attack power, Stamina, Expertise)\n\n\n**Shoulder**: \n**Zandalar Signet of Might** (Attack Power)\n\n\n**Cloak**: \n**Rampager's Cloak Lining** (Strength + Stamina)\n\n\n**Chest**: \n**Greater Stats** (All Stats)\n\n\n**Wrist**: \n**Superior Strength** (Strength)\n\n\n**Weapon**: \n**Brutal Crusader** (Chance on hit Strength Buff)\n\n\n**Ranged**: \n**Iron Sights Scope** (Attack Power)\n\n\n**Gloves**: (Depends on if Expertise Capped)\n**Greater Strength** (Strength) \nor\n** Lesser Expertise** (Expertise)\n\n\n**Belt**: \n**Warlord's Belt Buckle** (Strength)\n\n\n**Legs**: (Depends on if Expertise Capped)\n**Warrior's Might** (Strength, Stamina, Armor Penetration) \nor \n**Death's Embrace** (Attack power, Stamina, Expertise)\n\n\n**Boots**: (Depends on if Hit Capped)\n**Greater Agility** (Agility) \nor \n**Lesser Accuracy** (Hit rating)\n\n[leveling]\nThis is largely an endgame guide, I feel like leveling is really an individual experience and unfortunately this guide is not centric to \"how to level\", I suggest doing quests in whatever zone you like and the occasional dungeon and you should be just fine.\n\n[pvp]\nNot a PvP guide sorry. :(\n\n[macros]\n**Melee Abilites Macro:**\n#showtooltip\n/targetenemy [noexists][dead]\n/cast **Placeholder**\n/startattack\n\n(Just replace **Placeholder** with your melee ability i.e. **Justice**, **Glorious Execution**, **Gavel of Light**)\n\n\n**Lazy 2-minute Cooldowns Macro:**\n#showtooltip\n/cast Radiance\n/cast Champion of the Sun\n/cast [@player] Dawnfall\n/use 13\n/use 14\n\n\n**Solar Invocation: Revelation (Self Cast Only) Macro:**\n#showtooltip\n/cast [@player] Solar Invocation: Revelation\n\n\n**Judgement day / Glare Cast Sequence Macro:**\n#showtooltip\n/castsequence reset=10 Judgement Day, Glare\n\n\n\n**Weakauras:**\n\n**Dawn buff Weakaura** (Tells you when to press Radiant Conversion) (Default is 8 stacks remaining or lower)\n\n**https://wago.io/UtvGNLPwc**\n\n\n\n**Sunslam / Radiance Cooldown Tracker** (Since we have talents that reduce the Cooldown of these abilities)\n\n**https://wago.io/eus_YcGMk**\n\n[tips]\nMaintain **Dawn** Buff Uptime\n\nMake sure you're using the correct **Vow**\n\nNever Eat Soggy Waffles.\n\n**CONS**\n\n**Vows** are on the GCD which makes for very unsatifying gameplay when you need to switch Vows mid-fight.\n\n**Vow of the Valkyrie** is very weak without the **Dawn** buff active and there is no way to maintain 100% uptime on the Dawn buff.\n\n**Suggestions for the Devs**\n-Firstly, **Take Vows off the GCD**.\n-Secondly, **Increase Knight of Dawn's proc chance from 20% to 40%**\n\nThen any **ONE** of the following would greatly improve the flow of gameplay and Dawn uptime.\n\n-**Vow of the Valkyr** / **Vow of Dawn** grant **2** Solar power up from **1**.\n-Change the **Devoted to the Sun** Talent from a **5** second reduction to a **7** second reduction.\n-Change **Solar Invocation: Conquest** from granting **10** Solar power to **12** Solar power.\n-Change the **Guiding Glow** talent to grant **7** additional charges instead of **5**",
+  "class_id": 27,
+  "spec_id": 90,
+  "author_id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+  "talent_string": "W1siMjctODctNC0wIiwxXSxbIjI3LTg3LTItMCIsMV0sWyIyNy04Ny0yLTEiLDJdLFsiMjctODctNi0xIiwyXSxbIjI3LTg3LTctMiIsMV0sWyIyNy04Ny02LTMiLDFdLFsiMjctODctNC0yIiwxXSxbIjI3LTg3LTEtMiIsMV0sWyIyNy04Ny0yLTMiLDFdLFsiMjctODctNC0zIiwxXSxbIjI3LTg3LTUtNCIsMV0sWyIyNy04Ny03LTRiIiwxXSxbIjI3LTg3LTYtNSIsMV0sWyIyNy04Ny02LTZiIiwxXSxbIjI3LTg3LTQtNSIsMV0sWyIyNy04Ny0xLTQiLDFdLFsiMjctODctMC01IiwxXSxbIjI3LTg3LTItNSIsMV0sWyIyNy04Ny0yLTZhIiwxXSxbIjI3LTg3LTEtNyIsMV0sWyIyNy04Ny00LTYiLDJdLFsiMjctODctMi04IiwxXSxbIjI3LTg3LTItOSIsMV0sWyIyNy05MC00LTAiLDFdLFsiMjctOTAtNC0xIiwxXSxbIjI3LTkwLTYtMiIsMV0sWyIyNy05MC04LTMiLDFdLFsiMjctOTAtMi0yIiwxXSxbIjI3LTkwLTAtMyIsMV0sWyIyNy05MC0zLTMiLDJdLFsiMjctOTAtNC00IiwxXSxbIjI3LTkwLTEtNCIsMV0sWyIyNy05MC03LTQiLDFdLFsiMjctOTAtNy01YSIsMV0sWyIyNy05MC02LTYiLDFdLFsiMjctOTAtNC01IiwxXSxbIjI3LTkwLTMtNSIsMl0sWyIyNy05MC0yLTYiLDFdLFsiMjctOTAtMC01IiwxXSxbIjI3LTkwLTEtNWIiLDFdLFsiMjctOTAtMS02IiwxXSxbIjI3LTkwLTItNyIsMV0sWyIyNy05MC02LTciLDJdLFsiMjctOTAtNi04IiwxXSxbIjI3LTkwLTQtOSIsMV0sWyIyNy05MC0xMC0wIiwxXSxbIjI3LTkwLTEwLTIiLDFdLFsiMjctOTAtMTAtNCIsMV0sWyIyNy05MC0xMC02IiwxXSxbIjI3LTkwLTEwLTgiLDFdXQ",
+  "tags": [
+   "Dungeon",
+   "Heroic",
+   "Mythic",
+   "Raid",
+   "Single Target",
+   "AoE",
+   "PvE",
+   "General",
+   "Sun Cleric",
+   "Valkyrie"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 8,
+  "downvotes": 0,
+  "comment_count": 4,
+  "created_at": "2026-07-27T03:35:24.600234+00:00",
+  "updated_at": "2026-07-31T19:59:23.625+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1834,
+  "net_score": 8,
+  "has_talents": true,
+  "guide_section_count": 10,
+  "author": {
+   "id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+   "username": "DarkGuardian",
+   "avatar_url": "https://cdn.discordapp.com/avatars/237645502051647488/687c5535110cac02fdc5d918d23e5e98.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "430e7828-dad0-4490-ab2e-c2469ef80639",
+   "build_id": "7e9d9222-bd9b-46f8-b6fa-2012abfb8654",
+   "author_id": "e84189a7-7d6d-4ac6-9548-d6680c958c87",
+   "parent_id": null,
+   "body": "Good guide covers alot",
+   "upvotes": 1,
+   "created_at": "2026-07-29T07:13:49.899614+00:00",
+   "updated_at": "2026-07-29T07:18:24.768913+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "e84189a7-7d6d-4ac6-9548-d6680c958c87",
+    "username": "Ordealz",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJssSkmrxOo-cyhqkUFy4N80OIPncG7DZJE_ImKXsbQLSkt5w=s96-c"
+   }
+  },
+  {
+   "id": "b5f766b2-bd6e-4252-bf72-d9d652d987f4",
+   "build_id": "7e9d9222-bd9b-46f8-b6fa-2012abfb8654",
+   "author_id": "3ebf67f1-ea74-4fe2-956a-ecc6fc72a538",
+   "parent_id": null,
+   "body": "isne mujhe yah samajhne mein madad ki ki spec ke saath kaise khelna hai.",
+   "upvotes": 0,
+   "created_at": "2026-07-29T07:15:17.828695+00:00",
+   "updated_at": "2026-07-29T07:15:17.828695+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "3ebf67f1-ea74-4fe2-956a-ecc6fc72a538",
+    "username": "Tungesh Farawan",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL9A2nYdlx6_NLGmXbWgsyWqF0rFSVt-mAi_EHYToV9sS6Lrw=s96-c"
+   }
+  },
+  {
+   "id": "adcb5e8b-d188-4913-972e-0c56461ad0fa",
+   "build_id": "7e9d9222-bd9b-46f8-b6fa-2012abfb8654",
+   "author_id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+   "parent_id": "430e7828-dad0-4490-ab2e-c2469ef80639",
+   "body": "Thank you!",
+   "upvotes": 0,
+   "created_at": "2026-07-29T07:18:30.728008+00:00",
+   "updated_at": "2026-07-29T07:18:30.728008+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+    "username": "DarkGuardian",
+    "avatar_url": "https://cdn.discordapp.com/avatars/237645502051647488/687c5535110cac02fdc5d918d23e5e98.png"
+   }
+  },
+  {
+   "id": "05becb2d-4c67-4dd0-ae3d-42d59562cf43",
+   "build_id": "7e9d9222-bd9b-46f8-b6fa-2012abfb8654",
+   "author_id": "455ec9c3-382b-4a1b-af3a-f2a7c6f52edb",
+   "parent_id": null,
+   "body": "Thank you for mention, i appreciate the consider. Let's help each other to make everything good for everyone to understand more the class :D.",
+   "upvotes": 1,
+   "created_at": "2026-07-30T00:53:18.247756+00:00",
+   "updated_at": "2026-07-31T19:59:44.241757+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "455ec9c3-382b-4a1b-af3a-f2a7c6f52edb",
+    "username": "Leonardo Calegário",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIv8MZmFkfFFZgI9pteUz7xEkxKLkdYMPr60Yy0AmKYL-W083KS=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "e8ee75b8-8e51-4d3a-af1b-a47d6c4d13b7",
+   "title": "Blessings Sun Cleric - Dungeons",
+   "class_id": 27,
+   "spec_id": 71,
+   "author_id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+   "tags": [],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 562,
+   "featured": false,
+   "created_at": "2026-07-28T00:34:16.331076+00:00",
+   "updated_at": "2026-07-30T22:27:37.597+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+    "username": "Iyob",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "70365f6d-e8d7-481e-9192-96bc94c2316e",
+   "title": "Sun Cleric - Seraphim - Dungeon",
+   "class_id": 27,
+   "spec_id": 72,
+   "author_id": "326a05bd-ae58-4722-ab9d-22a380d3fe22",
+   "tags": [],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 360,
+   "featured": false,
+   "created_at": "2026-07-25T18:41:27.856779+00:00",
+   "updated_at": "2026-07-25T18:41:27.856779+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "326a05bd-ae58-4722-ab9d-22a380d3fe22",
+    "username": "Sorri",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKZqD5dNL8hx9StOVXHsRYBHnTTEvAK9_JP3Qp2s1W-blgwzA=s96-c"
+   }
+  },
+  {
+   "id": "7d4fd6f5-4c69-4d25-8e94-322419b80281",
+   "title": "JHE - Just Heal Everything - Top Heal Build for Clerics",
+   "class_id": 27,
+   "spec_id": 71,
+   "author_id": "c8328f29-4234-45af-aa95-bba0d898c001",
+   "tags": [
+    "Raid",
+    "Leveling & Dungeons"
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1740,
+   "featured": false,
+   "created_at": "2026-07-21T20:12:00.416317+00:00",
+   "updated_at": "2026-07-26T17:58:26.42+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "c8328f29-4234-45af-aa95-bba0d898c001",
+    "username": "Lieni",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKO1kT0OsmoulrbXWRLpBSahBiFl5HiL5jzVtT6-dn_VdAX6w=s96-c"
+   }
+  }
+ ],
+ "class": "Sun Cleric",
+ "spec": "Valkyrie",
+ "allocations": [
+  [
+   "27-87-4-0",
+   1
+  ],
+  [
+   "27-87-2-0",
+   1
+  ],
+  [
+   "27-87-2-1",
+   2
+  ],
+  [
+   "27-87-6-1",
+   2
+  ],
+  [
+   "27-87-7-2",
+   1
+  ],
+  [
+   "27-87-6-3",
+   1
+  ],
+  [
+   "27-87-4-2",
+   1
+  ],
+  [
+   "27-87-1-2",
+   1
+  ],
+  [
+   "27-87-2-3",
+   1
+  ],
+  [
+   "27-87-4-3",
+   1
+  ],
+  [
+   "27-87-5-4",
+   1
+  ],
+  [
+   "27-87-7-4b",
+   1
+  ],
+  [
+   "27-87-6-5",
+   1
+  ],
+  [
+   "27-87-6-6b",
+   1
+  ],
+  [
+   "27-87-4-5",
+   1
+  ],
+  [
+   "27-87-1-4",
+   1
+  ],
+  [
+   "27-87-0-5",
+   1
+  ],
+  [
+   "27-87-2-5",
+   1
+  ],
+  [
+   "27-87-2-6a",
+   1
+  ],
+  [
+   "27-87-1-7",
+   1
+  ],
+  [
+   "27-87-4-6",
+   2
+  ],
+  [
+   "27-87-2-8",
+   1
+  ],
+  [
+   "27-87-2-9",
+   1
+  ],
+  [
+   "27-90-4-0",
+   1
+  ],
+  [
+   "27-90-4-1",
+   1
+  ],
+  [
+   "27-90-6-2",
+   1
+  ],
+  [
+   "27-90-8-3",
+   1
+  ],
+  [
+   "27-90-2-2",
+   1
+  ],
+  [
+   "27-90-0-3",
+   1
+  ],
+  [
+   "27-90-3-3",
+   2
+  ],
+  [
+   "27-90-4-4",
+   1
+  ],
+  [
+   "27-90-1-4",
+   1
+  ],
+  [
+   "27-90-7-4",
+   1
+  ],
+  [
+   "27-90-7-5a",
+   1
+  ],
+  [
+   "27-90-6-6",
+   1
+  ],
+  [
+   "27-90-4-5",
+   1
+  ],
+  [
+   "27-90-3-5",
+   2
+  ],
+  [
+   "27-90-2-6",
+   1
+  ],
+  [
+   "27-90-0-5",
+   1
+  ],
+  [
+   "27-90-1-5b",
+   1
+  ],
+  [
+   "27-90-1-6",
+   1
+  ],
+  [
+   "27-90-2-7",
+   1
+  ],
+  [
+   "27-90-6-7",
+   2
+  ],
+  [
+   "27-90-6-8",
+   1
+  ],
+  [
+   "27-90-4-9",
+   1
+  ],
+  [
+   "27-90-10-0",
+   1
+  ],
+  [
+   "27-90-10-2",
+   1
+  ],
+  [
+   "27-90-10-4",
+   1
+  ],
+  [
+   "27-90-10-6",
+   1
+  ],
+  [
+   "27-90-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "27-87-4-0",
+   "points": 1,
+   "name": "Solar Prayer",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 806479
+  },
+  {
+   "id": "27-87-2-0",
+   "points": 1,
+   "name": "Horusath Blast",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 500154
+  },
+  {
+   "id": "27-87-2-1",
+   "points": 2,
+   "name": "Swift Justice",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300322
+  },
+  {
+   "id": "27-87-6-1",
+   "points": 2,
+   "name": "Solar Might",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704916
+  },
+  {
+   "id": "27-87-7-2",
+   "points": 1,
+   "name": "Devotee",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 707767
+  },
+  {
+   "id": "27-87-6-3",
+   "points": 1,
+   "name": "Solar Invocation: Revelation",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 503651
+  },
+  {
+   "id": "27-87-4-2",
+   "points": 1,
+   "name": "Sun Stride",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 680700
+  },
+  {
+   "id": "27-87-1-2",
+   "points": 1,
+   "name": "Sintorcher",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704909
+  },
+  {
+   "id": "27-87-2-3",
+   "points": 1,
+   "name": "Solar Invocation: Conquest",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 800764
+  },
+  {
+   "id": "27-87-4-3",
+   "points": 1,
+   "name": "Blessed Armor",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300334
+  },
+  {
+   "id": "27-87-5-4",
+   "points": 1,
+   "name": "Solar Guardian",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704581
+  },
+  {
+   "id": "27-87-7-4b",
+   "points": 1,
+   "name": "Devoted to the Sun",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 681066
+  },
+  {
+   "id": "27-87-6-5",
+   "points": 1,
+   "name": "Radiance",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 800054
+  },
+  {
+   "id": "27-87-6-6b",
+   "points": 1,
+   "name": "Hegemony",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 561204
+  },
+  {
+   "id": "27-87-4-5",
+   "points": 1,
+   "name": "Pure Light",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300314
+  },
+  {
+   "id": "27-87-1-4",
+   "points": 1,
+   "name": "Suncharged",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 804628
+  },
+  {
+   "id": "27-87-0-5",
+   "points": 1,
+   "name": "Holy Conquest",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 504248
+  },
+  {
+   "id": "27-87-2-5",
+   "points": 1,
+   "name": "Glare",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 805583
+  },
+  {
+   "id": "27-87-2-6a",
+   "points": 1,
+   "name": "Fortuitous",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 561328
+  },
+  {
+   "id": "27-87-1-7",
+   "points": 1,
+   "name": "Unbreakable Focus",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704945
+  },
+  {
+   "id": "27-87-4-6",
+   "points": 2,
+   "name": "Guiding Glow",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300324
+  },
+  {
+   "id": "27-87-2-8",
+   "points": 1,
+   "name": "Nysoni's Blessing",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 520639
+  },
+  {
+   "id": "27-87-2-9",
+   "points": 1,
+   "name": "New Day",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 800600
+  },
+  {
+   "id": "27-90-4-0",
+   "points": 1,
+   "name": "Glorious Execution",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 800626
+  },
+  {
+   "id": "27-90-4-1",
+   "points": 1,
+   "name": "Odyn's Vanguard",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 806699
+  },
+  {
+   "id": "27-90-6-2",
+   "points": 1,
+   "name": "Sunsworn",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 802935
+  },
+  {
+   "id": "27-90-8-3",
+   "points": 1,
+   "name": "Justice",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 520359
+  },
+  {
+   "id": "27-90-2-2",
+   "points": 1,
+   "name": "Sunslam",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 805629
+  },
+  {
+   "id": "27-90-0-3",
+   "points": 1,
+   "name": "Radiant Marks",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 704947
+  },
+  {
+   "id": "27-90-3-3",
+   "points": 2,
+   "name": "Valkyr's Grip",
+   "maxPoints": 2,
+   "tree": "Valkyrie",
+   "spellId": 807507
+  },
+  {
+   "id": "27-90-4-4",
+   "points": 1,
+   "name": "Champion of the Sun",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 800612
+  },
+  {
+   "id": "27-90-1-4",
+   "points": 1,
+   "name": "Fervor of the Sun",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 680622
+  },
+  {
+   "id": "27-90-7-4",
+   "points": 1,
+   "name": "Fanaticism",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 805628
+  },
+  {
+   "id": "27-90-7-5a",
+   "points": 1,
+   "name": "Judgement of the Valkyrie",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 300315
+  },
+  {
+   "id": "27-90-6-6",
+   "points": 1,
+   "name": "March of the Valkyr",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 560534
+  },
+  {
+   "id": "27-90-4-5",
+   "points": 1,
+   "name": "Champion's Arrival",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 704905
+  },
+  {
+   "id": "27-90-3-5",
+   "points": 2,
+   "name": "Impartial",
+   "maxPoints": 2,
+   "tree": "Valkyrie",
+   "spellId": 704942
+  },
+  {
+   "id": "27-90-2-6",
+   "points": 1,
+   "name": "Blessed Hammer",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 804032
+  },
+  {
+   "id": "27-90-0-5",
+   "points": 1,
+   "name": "Gift of the Sun",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 680618
+  },
+  {
+   "id": "27-90-1-5b",
+   "points": 1,
+   "name": "It's Always Sunny",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 707414
+  },
+  {
+   "id": "27-90-1-6",
+   "points": 1,
+   "name": "Trial of Valor",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 805581
+  },
+  {
+   "id": "27-90-2-7",
+   "points": 1,
+   "name": "Blessed Magic",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 560111
+  },
+  {
+   "id": "27-90-6-7",
+   "points": 2,
+   "name": "Vindicator",
+   "maxPoints": 2,
+   "tree": "Valkyrie",
+   "spellId": 704938
+  },
+  {
+   "id": "27-90-6-8",
+   "points": 1,
+   "name": "Solar Empowerment",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 707081
+  },
+  {
+   "id": "27-90-4-9",
+   "points": 1,
+   "name": "Knight of Dawn",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 805647
+  },
+  {
+   "id": "27-90-10-0",
+   "points": 1,
+   "name": "Valkyr's Grip",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 707072
+  },
+  {
+   "id": "27-90-10-2",
+   "points": 1,
+   "name": "Valorous Champion",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 804339
+  },
+  {
+   "id": "27-90-10-4",
+   "points": 1,
+   "name": "Sun's Gift",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 680656
+  },
+  {
+   "id": "27-90-10-6",
+   "points": 1,
+   "name": "Vow of the Valkyr",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 807749
+  },
+  {
+   "id": "27-90-10-8",
+   "points": 1,
+   "name": "Holy Giant",
+   "maxPoints": 1,
+   "tree": "Valkyrie",
+   "spellId": 681337
+  }
+ ]
+}

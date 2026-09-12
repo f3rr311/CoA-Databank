@@ -1,0 +1,8 @@
+{
+  "name_enus": "Reload",
+  "icon": "inv_bountyhunting",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Reload</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Quickdraw</span> by 4 sec.</span></td></tr></table><!--?804190:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

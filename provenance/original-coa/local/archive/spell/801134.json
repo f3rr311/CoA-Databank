@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cosmic Shift",
+  "icon": "ability_hunter_displacement",
+  "tooltip_enus": "<table><tr><td><b>Cosmic Shift</b><br />35% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Shift the target ally out of the physical plane, granting improved stealth for 10&nbsp;sec.<br /><br />Does not break on damage taken.</span></td></tr></table><!--?801134:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

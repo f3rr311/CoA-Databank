@@ -1,0 +1,15 @@
+{
+  "name_enus": "Clasp of Infinity",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Clasp of Infinity</b><br />23% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Conjure a magical binding upon an enemy that bounces to nearby enemies, rooting them in place for 4&nbsp;sec. <!--sp805844:0--><!--sp805844--></span></td></tr></table><!--?805847:1:1:80-->",
+  "spells_enus": {
+    "805844": [
+      [
+        "",
+        "<br /><br />While rooted, targets take 0% increased damage."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,292 @@
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:HL["/_next/static/css/be1bb6e3e84ee672.css?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","style"]
+3:I[2846,[],""]
+6:I[4707,[],""]
+8:I[5367,["1656","static/chunks/app/build/%5Bid%5D/error-5c7b138efab3f3f8.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35"],"default"]
+9:I[6423,[],""]
+b:I[9356,["9762","static/chunks/44530001-282332e113d51967.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2972","static/chunks/2972-62128b49a0ed77e4.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","924","static/chunks/924-1bb27dd09ffe0fd9.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","9730","static/chunks/9730-9ccc6394599013f7.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3145","static/chunks/3145-71e064074478a212.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2390","static/chunks/2390-83b9706bbb0175d8.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3185","static/chunks/app/layout-501219a27f55cb4c.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35"],"ToastProvider"]
+c:I[8767,["9762","static/chunks/44530001-282332e113d51967.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2972","static/chunks/2972-62128b49a0ed77e4.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","924","static/chunks/924-1bb27dd09ffe0fd9.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","9730","static/chunks/9730-9ccc6394599013f7.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3145","static/chunks/3145-71e064074478a212.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2390","static/chunks/2390-83b9706bbb0175d8.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3185","static/chunks/app/layout-501219a27f55cb4c.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35"],"SupportBanner"]
+d:I[1662,["9762","static/chunks/44530001-282332e113d51967.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2972","static/chunks/2972-62128b49a0ed77e4.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","924","static/chunks/924-1bb27dd09ffe0fd9.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","9730","static/chunks/9730-9ccc6394599013f7.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3145","static/chunks/3145-71e064074478a212.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2390","static/chunks/2390-83b9706bbb0175d8.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3185","static/chunks/app/layout-501219a27f55cb4c.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35"],"Header"]
+e:I[2658,["9762","static/chunks/44530001-282332e113d51967.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2972","static/chunks/2972-62128b49a0ed77e4.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","924","static/chunks/924-1bb27dd09ffe0fd9.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","9730","static/chunks/9730-9ccc6394599013f7.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3145","static/chunks/3145-71e064074478a212.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2390","static/chunks/2390-83b9706bbb0175d8.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3185","static/chunks/app/layout-501219a27f55cb4c.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35"],"SidebarAds"]
+f:I[376,["7601","static/chunks/app/error-28e77e43ce445deb.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35"],"default"]
+10:I[2972,["9762","static/chunks/44530001-282332e113d51967.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2972","static/chunks/2972-62128b49a0ed77e4.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","924","static/chunks/924-1bb27dd09ffe0fd9.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","9730","static/chunks/9730-9ccc6394599013f7.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3145","static/chunks/3145-71e064074478a212.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2390","static/chunks/2390-83b9706bbb0175d8.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3185","static/chunks/app/layout-501219a27f55cb4c.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35"],""]
+12:I[6753,["9762","static/chunks/44530001-282332e113d51967.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2972","static/chunks/2972-62128b49a0ed77e4.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","924","static/chunks/924-1bb27dd09ffe0fd9.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","9730","static/chunks/9730-9ccc6394599013f7.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3145","static/chunks/3145-71e064074478a212.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2390","static/chunks/2390-83b9706bbb0175d8.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","3185","static/chunks/app/layout-501219a27f55cb4c.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35"],"GoogleAnalytics"]
+14:I[1060,[],""]
+7:["id","7e9d9222-bd9b-46f8-b6fa-2012abfb8654","d"]
+a:T427,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is Conquest of Azeroth?","acceptedAnswer":{"@type":"Answer","text":"Conquest of Azeroth (CoA) is a classless expansion for Project Ascension (Ascension WoW). It features 21 unique classes, each with 3-4 specializations and hundreds of talent nodes."}},{"@type":"Question","name":"How do I plan a Conquest of Azeroth build?","acceptedAnswer":{"@type":"Answer","text":"Use the CoA Build Hub talent calculator to allocate Archetype Essence (AE) and Talent Essence (TE) points across your class and spec trees. Save, share, and export builds directly to the game."}},{"@type":"Question","name":"How many classes are in Conquest of Azeroth?","acceptedAnswer":{"@type":"Answer","text":"Conquest of Azeroth has 21 classes: Barbarian, Witch Doctor, Demon Hunter, Witch Hunter, Stormbringer, Fleshwarden, Guardian, Monk, Son of Arugal, Ranger, Chronomancer, Necromancer, Pyromancer, Cultist, Starcaller, Sun Cleric, Tinker, Prophet, Reaper, Wildwalker, and Spirit Mage."}}]}11:T43c,M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z15:[]
+0:["$","$L3",null,{"buildId":"mDhok_vSXUrJPTdGVQ3Ap","assetPrefix":"","urlParts":["","build","7e9d9222-bd9b-46f8-b6fa-2012abfb8654"],"initialTree":["",{"children":["build",{"children":[["id","7e9d9222-bd9b-46f8-b6fa-2012abfb8654","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"initialSeedData":["",{"children":["build",{"children":[["id","7e9d9222-bd9b-46f8-b6fa-2012abfb8654","d"],{"children":["__PAGE__",{},[["$L4","$L5",null],null],null]},[[null,["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","build","children","$7","children"],"error":"$8","errorStyles":[],"errorScripts":[],"template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],[["$","div",null,{"className":"min-h-screen page-bg page-bg-dungeon","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 animate-pulse","children":[["$","div",null,{"className":"h-4 w-24 rounded bg-surface-2 mb-3"}],["$","div",null,{"className":"h-9 w-72 rounded bg-surface-2 mb-2"}],["$","div",null,{"className":"flex gap-3 mb-6","children":[["$","div",null,{"className":"h-6 w-16 rounded-full bg-surface-2"}],["$","div",null,{"className":"h-6 w-16 rounded-full bg-surface-2"}],["$","div",null,{"className":"h-6 w-20 rounded-full bg-surface-2"}]]}],["$","div",null,{"className":"h-[400px] rounded-xl border border-white/[0.06] bg-[#1a1a2e] mb-6"}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"h-6 w-40 rounded bg-surface-2"}],["$","div",null,{"className":"h-4 w-full rounded bg-surface-2"}],["$","div",null,{"className":"h-4 w-3/4 rounded bg-surface-2"}]]}]]}]}],[],[]]]},[null,["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","build","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/be1bb6e3e84ee672.css?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","link",null,{"rel":"stylesheet","href":"/coa-icons.css"}],["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7263875643952751","crossOrigin":"anonymous"}],[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"CoA Build Hub\",\"alternateName\":[\"Conquest of Azeroth Builds\",\"CoA Builds\"],\"url\":\"https://coabuildhub.com\",\"description\":\"Browse, create, and share talent builds for all 21 Conquest of Azeroth classes. Interactive talent calculator and community build guides for Project Ascension.\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://coabuildhub.com/?search={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$a"}}]]]}],["$","body",null,{"className":"min-h-screen bg-[var(--surface-0)] text-[var(--text-primary)] antialiased","children":[["$","$Lb",null,{"children":[["$","$Lc",null,{}],["$","$Ld",null,{}],["$","main",null,{"children":["$","$Le",null,{"leftSlot":"","rightSlot":"","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$f","errorStyles":[],"errorScripts":[],"template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"mx-auto max-w-md px-4 py-24 text-center","children":[["$","div",null,{"className":"text-6xl mb-4 opacity-20","children":"⚔"}],["$","h1",null,{"className":"text-2xl font-bold text-text-primary mb-2","children":"Page Not Found"}],["$","p",null,{"className":"text-sm text-text-muted mb-6","children":"The page you're looking for doesn't exist or has been moved."}],["$","div",null,{"className":"flex justify-center gap-3","children":[["$","$L10",null,{"href":"/","className":"rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white hover:bg-accent-hover transition-colors","children":"Browse Builds"}],["$","$L10",null,{"href":"/calculator","className":"rounded-lg border border-border-subtle bg-surface-1 px-5 py-2.5 text-sm font-medium text-text-secondary hover:bg-surface-2 transition-colors","children":"Calculator"}]]}]]}],"notFoundStyles":[]}]}]}],["$","footer",null,{"className":"border-t border-border-subtle bg-surface-1/60 mt-12","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"flex items-center gap-2 text-base font-extrabold text-text-primary","children":[["$","span",null,{"className":"text-accent","children":"⚔"}],"CoA Build Hub"]}],["$","p",null,{"className":"mt-1 max-w-xs text-xs text-text-muted leading-relaxed","children":"Community builds and talent calculator for all 21 Conquest of Azeroth classes."}],["$","div",null,{"className":"mt-3 flex flex-wrap items-center gap-2","children":[["$","$L10",null,{"href":"/feedback","className":"inline-flex items-center gap-1.5 rounded-md border border-border-subtle bg-surface-2 px-3 py-1.5 text-xs font-medium text-text-muted hover:text-accent hover:border-accent/30 transition-colors","children":[["$","svg",null,{"className":"h-3.5 w-3.5","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","children":["$","path",null,{"d":"M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"}]}],"Send Feedback"]}],["$","a",null,{"href":"https://ko-fi.com/coabuildhub","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-2 rounded-lg bg-amber-600/80 px-4 py-2 text-xs font-bold text-white/90 shadow-lg shadow-amber-600/15 hover:bg-amber-500/80 hover:shadow-amber-500/20 transition-all duration-200 hover:scale-[1.03]","children":[["$","svg",null,{"className":"h-4 w-4","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.023 11.966-.049c2.438-.426 2.683-2.566 2.658-3.734 4.352.24 7.422-2.831 6.649-6.916zm-11.062 3.511c-1.246 1.453-4.011 3.976-4.011 3.976s-.121.119-.31.023c-.076-.057-.108-.09-.108-.09-.443-.441-3.368-3.049-4.034-3.954-.709-.965-1.041-2.7-.091-3.71.951-1.01 3.005-1.086 4.363.407 0 0 1.565-1.782 3.468-.963 1.904.82 1.832 3.011.723 4.311z"}]}],"Support on Ko-fi"]}]]}]]}],["$","div",null,{"className":"flex flex-wrap gap-12 text-sm","children":[["$","div",null,{"children":[["$","h4",null,{"className":"mb-2 text-xs font-semibold uppercase tracking-wider text-text-muted","children":"Browse"}],["$","nav",null,{"className":"flex flex-col gap-1.5","children":[["$","$L10",null,{"href":"/","className":"text-text-secondary hover:text-text-primary transition-colors","children":"Builds"}],["$","$L10",null,{"href":"/tier-list","className":"text-text-secondary hover:text-text-primary transition-colors","children":"Rankings"}],["$","$L10",null,{"href":"/calculator","className":"text-text-secondary hover:text-text-primary transition-colors","children":"Calculator"}],["$","$L10",null,{"href":"/create","className":"text-text-secondary hover:text-text-primary transition-colors","children":"Create Build"}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"mb-2 text-xs font-semibold uppercase tracking-wider text-text-muted","children":"Community"}],["$","nav",null,{"className":"flex flex-col gap-1.5","children":[["$","a",null,{"href":"https://ascension.gg","target":"_blank","rel":"noopener noreferrer","className":"text-text-secondary hover:text-text-primary transition-colors","children":"Ascension.gg"}],["$","a",null,{"href":"https://discord.gg/ascension","target":"_blank","rel":"noopener noreferrer","className":"text-text-secondary hover:text-text-primary transition-colors flex items-center gap-1.5","children":[["$","svg",null,{"className":"h-3.5 w-3.5 text-[#5865F2]","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"$11"}]}],"Discord"]}],["$","a",null,{"href":"https://ko-fi.com/coabuildhub","target":"_blank","rel":"noopener noreferrer","className":"text-text-secondary hover:text-text-primary transition-colors flex items-center gap-1.5","children":[["$","svg",null,{"className":"h-3.5 w-3.5 text-[#FF5E5B]","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.023 11.966-.049c2.438-.426 2.683-2.566 2.658-3.734 4.352.24 7.422-2.831 6.649-6.916zm-11.062 3.511c-1.246 1.453-4.011 3.976-4.011 3.976s-.121.119-.31.023c-.076-.057-.108-.09-.108-.09-.443-.441-3.368-3.049-4.034-3.954-.709-.965-1.041-2.7-.091-3.71.951-1.01 3.005-1.086 4.363.407 0 0 1.565-1.782 3.468-.963 1.904.82 1.832 3.011.723 4.311z"}]}],"Ko-fi"]}],["$","$L10",null,{"href":"/feedback","className":"text-text-secondary hover:text-text-primary transition-colors","children":"Feedback"}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"mb-2 text-xs font-semibold uppercase tracking-wider text-text-muted","children":"Legal"}],["$","nav",null,{"className":"flex flex-col gap-1.5","children":[["$","$L10",null,{"href":"/privacy","className":"text-text-secondary hover:text-text-primary transition-colors","children":"Privacy Policy"}],["$","$L10",null,{"href":"/terms","className":"text-text-secondary hover:text-text-primary transition-colors","children":"Terms of Service"}],["$","$L10",null,{"href":"/about","className":"text-text-secondary hover:text-text-primary transition-colors","children":"About"}],["$","$L10",null,{"href":"/contact","className":"text-text-secondary hover:text-text-primary transition-colors","children":"Contact"}]]}]]}]]}]]}],["$","div",null,{"className":"mt-6 border-t border-border-subtle pt-5","children":[["$","h4",null,{"className":"mb-2.5 text-xs font-semibold uppercase tracking-wider text-text-muted","children":"Builds by class"}],["$","nav",null,{"className":"grid grid-cols-2 gap-x-4 gap-y-1.5 text-xs sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6","children":[["$","$L10","barbarian",{"href":"/builds/barbarian","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Barbarian"}],["$","$L10","bloodmage",{"href":"/builds/bloodmage","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Bloodmage"}],["$","$L10","chronomancer",{"href":"/builds/chronomancer","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Chronomancer"}],["$","$L10","cultist",{"href":"/builds/cultist","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Cultist"}],["$","$L10","felsworn",{"href":"/builds/felsworn","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Felsworn"}],["$","$L10","guardian",{"href":"/builds/guardian","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Guardian"}],["$","$L10","knight-of-xoroth",{"href":"/builds/knight-of-xoroth","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Knight of Xoroth"}],["$","$L10","necromancer",{"href":"/builds/necromancer","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Necromancer"}],["$","$L10","primalist",{"href":"/builds/primalist","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Primalist"}],["$","$L10","pyromancer",{"href":"/builds/pyromancer","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Pyromancer"}],["$","$L10","ranger",{"href":"/builds/ranger","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Ranger"}],["$","$L10","reaper",{"href":"/builds/reaper","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Reaper"}],["$","$L10","runemaster",{"href":"/builds/runemaster","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Runemaster"}],["$","$L10","starcaller",{"href":"/builds/starcaller","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Starcaller"}],["$","$L10","stormbringer",{"href":"/builds/stormbringer","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Stormbringer"}],["$","$L10","sun-cleric",{"href":"/builds/sun-cleric","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Sun Cleric"}],["$","$L10","templar",{"href":"/builds/templar","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Templar"}],["$","$L10","tinker",{"href":"/builds/tinker","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Tinker"}],["$","$L10","venomancer",{"href":"/builds/venomancer","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Venomancer"}],["$","$L10","witch-doctor",{"href":"/builds/witch-doctor","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Witch Doctor"}],["$","$L10","witch-hunter",{"href":"/builds/witch-hunter","className":"text-text-secondary transition-colors hover:text-text-primary","children":"Witch Hunter"}]]}]]}],["$","div",null,{"className":"mt-6 border-t border-border-subtle pt-4 text-center text-[10px] text-text-muted","children":"CoA Build Hub is a fan-made community tool. Not affiliated with Ascension WoW."}]]}]}]]}],["$","$L12",null,{}]]}]]}]],null],[["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-12","children":["$","div",null,{"className":"space-y-6 animate-pulse","children":[["$","div",null,{"className":"h-8 w-48 rounded bg-surface-2"}],["$","div",null,{"className":"h-4 w-96 rounded bg-surface-2"}],["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4","children":[["$","div","0",{"className":"h-48 rounded-xl border border-white/[0.06] bg-[#1a1a2e]"}],["$","div","1",{"className":"h-48 rounded-xl border border-white/[0.06] bg-[#1a1a2e]"}],["$","div","2",{"className":"h-48 rounded-xl border border-white/[0.06] bg-[#1a1a2e]"}],["$","div","3",{"className":"h-48 rounded-xl border border-white/[0.06] bg-[#1a1a2e]"}],["$","div","4",{"className":"h-48 rounded-xl border border-white/[0.06] bg-[#1a1a2e]"}],["$","div","5",{"className":"h-48 rounded-xl border border-white/[0.06] bg-[#1a1a2e]"}]]}]]}]}],[],[]]],"couldBeIntercepted":false,"initialHead":[null,"$L13"],"globalErrorComponent":"$14","missingSlots":"$W15"}]
+16:I[7270,["9762","static/chunks/44530001-282332e113d51967.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","2972","static/chunks/2972-62128b49a0ed77e4.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","924","static/chunks/924-1bb27dd09ffe0fd9.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","9730","static/chunks/9730-9ccc6394599013f7.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","9473","static/chunks/9473-809fe901f37bff70.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","8505","static/chunks/8505-d2ee8626898ce1ff.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35","8623","static/chunks/app/build/%5Bid%5D/page-d805a68e67d5f4e4.js?dpl=dpl_86r45bT2JRRmtY5dt9n3TVR6zH35"],"BuildDetailClient"]
+17:T3cd6,[overview]
+Hi! I made this guide because I have really been enjoying the spec and wanted to share some of my thoughts and learn from the community, I welcome any and all feedback! This is a hand-written guide that I update on a daily basis as I play the class. Any Information presented here is of free-use to the community I simply compile it and post. (otherwise I'd keep it to myself 😛)
+
+☀️**Sun Cleric Valkyrie**☀️ is a **Melee Titan's grip** spec that plays like a mix between classic ☩**Retribution Paladin**☩ and ⚔️**Fury Warrior**⚔️ with some mechanics unique to the class itself. Sun Cleric Valkyrie utilizes an arsenal of both defensive and offensive cooldowns ranging from 45 seconds to 8 minutes. This culminates into a class with tremendous **burst damage** potential, incredible **AoE** clear, and very respectable **single-target** damage.
+
+Please understand I'm just a player like you, I will never claim to be the end-all be-all of knowledge for this class, if you feel my opinion is wrong please feel free to share and I will try my best to respond in respect :)
+
+This is a comprehensive guide and is designed around players who may be entirely new to Sun Cleric - Valkyrie or need help understanding the basics. If you want a more **Mythic+** centric guide I **highly reccommend** checking out **Leonardo Calegário**'s guide here: **https://coabuildhub.com/build/01175a7b-9331-48b6-98a0-fc2ce22ce560**
+He is a content creator and prolific Sun Cleric player who understands the class well and is making video guides for the class. Please show your support!
+
+**Also please check out and upvote my bug report, I am trying to get attention from the AscensionWoW team about a suggestion that MANY players who have played the spec feel is necessary for smoother more meaningful gameplay for the class**
+
+**https://ascension.gg/en/bugtracker/view/197302**
+
+[talents]
+This is just my rationale for picking these talents. if you disagree with me, feel free to pick whatever you'd like. This Build utilizes cooldown reduction talents such as **It's Always Sunny**, **Blessed Magic**, and **Trial of Valor** which will be useful for maintaining more consistent DPS through a mythic run and deal more damage in longer fights in Raids, however, may suffer in fights with short kill-times where you don't get the opportunity to utilize these cooldowns more than once.
+
+If you feel you need more single target damage, I would suggest switching **It's Always Sunny** for **Atone, Or Else** however this will also require you to build these stacks by casting other abilities while **Dawn** is active, delaying **Sunslam** in your rotation.
+
+Ideally, **Divine Retribution** should be **MORE DPS** overall than **Knight of Dawn** however since this class already has so many cooldowns to manage I wanted to pick something that would be a decent damage increase without adding any stress to the already cluttered playstyle and this just felt better 😛
+
+I also did not choose **Valkyr's Calling** because I feel our AoE burst is already so powerful and because of the delay in the ability when up in the air, it's use in single target is also very limited. It's great for a bit more AoE burst damge but instead of that I opt'd for the 3% raid-wide buff (your raid will love you) and the cooldown reduction to **Judgement Day**. 
+
+--**Class Talents**--
+**Devoted to the Sun**: YOU NEED THIS FOR SMOOTH GAMEPLAY. Reduces the cooldown of Solar Invocation: Conquest!
+**Guiding Glow**: Grants up to 5 additional casts with the Dawn buff active, this is INCREDIBLY useful.
+**Hegemony**: Increases the duration of Radiance which = more dps.
+**Fortuitous**: Removed the cast-time of glare when above 80% health, making it an instant cast damage/CC.
+**Unbreakable Focus**: Reduces the cooldown of Gavels and Horusath blast by 20% = more DPS.
+**Nysoni's Blessing**: gives a nice 6 second haste buff from activating Dawn.
+**New Day**: Major Cooldown that refreshes other Major Cooldowns.
+
+--**Valkyrie Talent's**--
+**Champion of the Sun**: Major CD for increasing DPS.
+**Fanaticism**: Increases Gavel and Horusath Blast Damage.
+**Judgement of the Valkyrie**: Reduced cooldown for Judgement Day
+**It's Always Sunny**: Reduced Cooldowns for some of our best CDs.
+**Trial of Valor**: Reduces cooldown for Horusath Blast one of our strongest abilities.
+**Blessed Hammer**: required for smooth gameplay and reducing the cooldown of Solar Invocation: Conquest.
+**Blessed Magic**: Casting Horusath Blast now resets the Cooldown of Glorious Execution. = more DPS.
+**March of the Valkyr**: Great little raid buff and flat damage increase.
+**Solar Empowerment**: One of your strongest AoE effects. Will deal incredible amounts of damage in large groups.
+**Knight of Dawn**: EVEN More Glorious Execution buffs.
+
+[rotation]
+The Rotation when waiting on cooldowns is less of a "Rotation" and more of a "Priority List".
+
+Pre-plan which **Vow** you'll need **before starting combat**, switching Vows in combat feels quite awful, it's on the global cooldown.
+
+**Solar Power** is your main resource to manage, you ideally should never run out of **Mana** at 60 you should have **Replenishment** active from casting **Horusath Blast**. Casting our cooldowns can be very Mana hungry but your mana regain should effectively counter it.
+
+-☀️**Dawn Buff Priority**☀️-
+Maintain the [Dawn](coa-skill:sun-cleric:804584) buff this will be your **NUMBER ONE** priority. 
+
+- This buff is activated by storing **20 Solar Power** generated from **Vows**. At **20 Solar Power** you can activate **Dawn**, which will give you a different effect depending on the active **Vow**.
+
+- Activating **Dawn** will then give you **15 stacks** of **Dawn**. Every time you cast an ability it will **consume a stack of Dawn.**
+
+- The **Dawn** ability will now be called **Radiant Conversion**, this ability will take all your REMAINING stacks of **Dawn** and turn them back into **Solar Power**.
+
+- When **Dawn** stacks reach **~8 stacks** you will cast **Radiant Conversion > Solar Invocation: Conquest** which will put you at **~18 stacks** of **Solar Power**, 
+
+- Follow up with a couple ability casts or auto attacks (depending on your active **Vow**) will once again max out your **Solar Power** allowing you to almost **immediately reactivate Dawn.**
+
+There will always be "downtime" when you will be waiting for **Solar Invocation: Conquest's** cooldown or be starved of **Solar Power** from having **consumed too many stacks of Dawn**. This usually occurs after having used **Sunslam** since this ability uses **4** stacks of **Dawn**, quicker than our normal priority rotation will spend them.
+
+I have linked a simple little **Weakaura** I made that will show you your stacks of **Dawn** when the buff is active and alert you when to refund them (default is 8 stacks however this can be edited in WA) 
+
+**https://wago.io/UtvGNLPwc**
+
+When **out of combat** use **Vow of Grace** to passively regain **Solar Power** and top yourself off before going into a fight. You can also spam **Solar Invocation: Conquest**. I often use a combination of both if there's nothing around to hit for a couple seconds.
+
+-🕙**Rotation**🕙-
+
+-The **Cooldowns** you use as your opener-
+-1. Activate **Vow** of choice                                            - (Dawn for AOE / Valkyrie for Single-Target)
+
+-2. Activate **Dawn**                                                        - Activate RIGHT BEFORE engaging in combat for the buff it provides.
+-3. **Paragon**                                                    - 5-min CD - I keep this on a separate button so i can use it specifically for bosses, everything else I personally macro for convenience
+
+-4. **Dawnfall**                                                   - 2-min CD   -  \
+-5. **Radiance**                                                  - 2-min CD   - These 3 spells can be macro'd together to cast at the same time.
+-6. **Champion of the Sun**                              - 2-min CD   -  /
+
+-7. **Judgement Day**                                        - 45 sec CD   **AoE damage skip if Single Target**
+-8. **Glare** (if above 80% health)                   - 2-min CD    **AoE damage skip if Single Target**
+
+-9. **Sunslam**                                                   - **Major Damage Dealing Ability Always Use when off Cooldown!**
+
+-10. **Radiant Conversion**                               - **Convert** Remaining Stacks of **Dawn** to **Solar Power**
+-11. **Solar Invocation: Conquest**                    - Immediately Gain **10** Stacks of **Solar Power**
+-12. **Dawn**                                                       - Refresh **Dawn** Buff
+
+**Regular Priority-List Begins**
+-1. **Glorious Execution**
+-2. **Horusath Blast** - Since we picked **Blessed Magic** it will reset the cooldown of **Glorious Execution** so always make sure **Glorious Execution** is on cooldown before casting **Horusath Blast**.
+-3. **Gavel**
+-4. **Justice**
+
+**Trial of Valor will reduce the cooldown of Horusath blast every time you FULFILL your oath, I.E. cast an ability with Dawn active**
+
+**Repeat the Priority-List until you have Cooldowns again.**
+
+**Sunslam** uses up to **4 stacks of Dawn** if all hits land, I would suggest only using this ability at **12 stacks of Dawn** or higher so that you aren't severly under when you convert. Sometimes I will cancel the cast and convert my stacks over in the middle of a **Sunslam** channel to **Solar Power** to maintain **Dawn** uptime. There's a balance to it.
+
+[stats]
+-📊**Primary Stats**📊-
+**Strength** > Agility > Intelligence
+
+Ideally, **Strength is all that really matters** however Agility gives us melee crit and Intelligence gives spell crit so if nothing else they provide some kind of a bonus to overall damage.
+
+-📊**Secondary Stats**📊-
+**Our Tier sets will likely have much of these stats locked in. Do not focus on chasing too much of any one stat, as long as you're Hit/Expertise Capped!**
+
+
+- **Hit** **(9% cap Technically only 8% with a Draenei in Raid)** we get 6% passively. 
+You technically want AS MUCH AS POSSIBLE under the 27% hit cap for your off-hand but **you will likely NEVER reach hit cap for off-hand** don't worry about it past the 8-9% you need to cap your mainhand hit. (Depending on raid buffs)
+
+- **Expertise** **(26 is Expertise Cap)** This will prevent your attacks from being dodged or parried.
+ (Less with certain racials i.e. Human/Dwarf)
+
+- **Haste**  According to the Ascension Wiki, There is no "Softcap" BUT I'm going to assume we're using WoTLK's version of haste here SO You can reduce GCD down to 1 second and Haste will lower your Auto Attack speed, that being said, you should **never sacrifice primary stats like strength to chase this stat.**
+
+- **Critical Strike**, fairly self explanatory, more crit = more damage. You kind of take this stat where you can get it as long as you're capped on Hit/Expertise.
+
+- **Armor Penetration**, not entirely sure about this stat in particular, will depend on how much armor bosses have and the contribution this stat will provide overall.
+
+- **Spell Power**, Not useless, but not entirely useful. Horusath Blast scales with Attack Power so don't focus on chasing Spell power in my personal opinion.
+Most of our damage will come from melee abilities and auto attacks.
+
+[gear]
+No tier sets yet and I haven't played enough to get enough gear to test everything out.
+
+I would suggest just looking for iLvl upgrades that correspond to the **Stat Priority**.
+
+**Strength** > **8-9% Hit** > **26 Expertise** > **Haste** > **Critical Strike** > **Armor Penetration**
+
+For now, i'd suggest sticking to doing **Heroic Dungeons** and working your way up to **Mythic.** Try to gear up and prepare for World Boss raids.
+
+Once ZG, Tier Content, and other raids release I will update the Gear/BiS list accordingly, for now use this gear planner to see what items you want from the current available content and itemize how you feel best.
+
+**https://coa.bisbeard.com/**
+
+I've linked an example gearset of the stat balance I would look for while acquiring dungeon gear, its set to "heroic" but it works for mythic dungeon gear too.
+
+**https://coa.bisbeard.com/b/mtJqfDHZR0e75g**
+
+However you can also just spam dungeons and buy the dungeon gear you need/want from the Triumph badge vendor in your Factions Throne Room. (Orgrimmar/Stormwind) They don't have everything, but they have more than you'd expect.
+
+[enchants]
+**Head**: (Depends on if Expertise Capped)
+**Warrior's Might** (Strength, Stamina, Armor Penetration) 
+or 
+**Death's Embrace** (Attack power, Stamina, Expertise)
+
+
+**Shoulder**: 
+**Zandalar Signet of Might** (Attack Power)
+
+
+**Cloak**: 
+**Rampager's Cloak Lining** (Strength + Stamina)
+
+
+**Chest**: 
+**Greater Stats** (All Stats)
+
+
+**Wrist**: 
+**Superior Strength** (Strength)
+
+
+**Weapon**: 
+**Brutal Crusader** (Chance on hit Strength Buff)
+
+
+**Ranged**: 
+**Iron Sights Scope** (Attack Power)
+
+
+**Gloves**: (Depends on if Expertise Capped)
+**Greater Strength** (Strength) 
+or
+** Lesser Expertise** (Expertise)
+
+
+**Belt**: 
+**Warlord's Belt Buckle** (Strength)
+
+
+**Legs**: (Depends on if Expertise Capped)
+**Warrior's Might** (Strength, Stamina, Armor Penetration) 
+or 
+**Death's Embrace** (Attack power, Stamina, Expertise)
+
+
+**Boots**: (Depends on if Hit Capped)
+**Greater Agility** (Agility) 
+or 
+**Lesser Accuracy** (Hit rating)
+
+[leveling]
+This is largely an endgame guide, I feel like leveling is really an individual experience and unfortunately this guide is not centric to "how to level", I suggest doing quests in whatever zone you like and the occasional dungeon and you should be just fine.
+
+[pvp]
+Not a PvP guide sorry. :(
+
+[macros]
+**Melee Abilites Macro:**
+#showtooltip
+/targetenemy [noexists][dead]
+/cast **Placeholder**
+/startattack
+
+(Just replace **Placeholder** with your melee ability i.e. **Justice**, **Glorious Execution**, **Gavel of Light**)
+
+
+**Lazy 2-minute Cooldowns Macro:**
+#showtooltip
+/cast Radiance
+/cast Champion of the Sun
+/cast [@player] Dawnfall
+/use 13
+/use 14
+
+
+**Solar Invocation: Revelation (Self Cast Only) Macro:**
+#showtooltip
+/cast [@player] Solar Invocation: Revelation
+
+
+**Judgement day / Glare Cast Sequence Macro:**
+#showtooltip
+/castsequence reset=10 Judgement Day, Glare
+
+
+
+**Weakauras:**
+
+**Dawn buff Weakaura** (Tells you when to press Radiant Conversion) (Default is 8 stacks remaining or lower)
+
+**https://wago.io/UtvGNLPwc**
+
+
+
+**Sunslam / Radiance Cooldown Tracker** (Since we have talents that reduce the Cooldown of these abilities)
+
+**https://wago.io/eus_YcGMk**
+
+[tips]
+Maintain **Dawn** Buff Uptime
+
+Make sure you're using the correct **Vow**
+
+Never Eat Soggy Waffles.
+
+**CONS**
+
+**Vows** are on the GCD which makes for very unsatifying gameplay when you need to switch Vows mid-fight.
+
+**Vow of the Valkyrie** is very weak without the **Dawn** buff active and there is no way to maintain 100% uptime on the Dawn buff.
+
+**Suggestions for the Devs**
+-Firstly, **Take Vows off the GCD**.
+-Secondly, **Increase Knight of Dawn's proc chance from 20% to 40%**
+
+Then any **ONE** of the following would greatly improve the flow of gameplay and Dawn uptime.
+
+-**Vow of the Valkyr** / **Vow of Dawn** grant **2** Solar power up from **1**.
+-Change the **Devoted to the Sun** Talent from a **5** second reduction to a **7** second reduction.
+-Change **Solar Invocation: Conquest** from granting **10** Solar power to **12** Solar power.
+-Change the **Guiding Glow** talent to grant **7** additional charges instead of **5**18:T43a,W1siMjctODctNC0wIiwxXSxbIjI3LTg3LTItMCIsMV0sWyIyNy04Ny0yLTEiLDJdLFsiMjctODctNi0xIiwyXSxbIjI3LTg3LTctMiIsMV0sWyIyNy04Ny02LTMiLDFdLFsiMjctODctNC0yIiwxXSxbIjI3LTg3LTEtMiIsMV0sWyIyNy04Ny0yLTMiLDFdLFsiMjctODctNC0zIiwxXSxbIjI3LTg3LTUtNCIsMV0sWyIyNy04Ny03LTRiIiwxXSxbIjI3LTg3LTYtNSIsMV0sWyIyNy04Ny02LTZiIiwxXSxbIjI3LTg3LTQtNSIsMV0sWyIyNy04Ny0xLTQiLDFdLFsiMjctODctMC01IiwxXSxbIjI3LTg3LTItNSIsMV0sWyIyNy04Ny0yLTZhIiwxXSxbIjI3LTg3LTEtNyIsMV0sWyIyNy04Ny00LTYiLDJdLFsiMjctODctMi04IiwxXSxbIjI3LTg3LTItOSIsMV0sWyIyNy05MC00LTAiLDFdLFsiMjctOTAtNC0xIiwxXSxbIjI3LTkwLTYtMiIsMV0sWyIyNy05MC04LTMiLDFdLFsiMjctOTAtMi0yIiwxXSxbIjI3LTkwLTAtMyIsMV0sWyIyNy05MC0zLTMiLDJdLFsiMjctOTAtNC00IiwxXSxbIjI3LTkwLTEtNCIsMV0sWyIyNy05MC03LTQiLDFdLFsiMjctOTAtNy01YSIsMV0sWyIyNy05MC02LTYiLDFdLFsiMjctOTAtNC01IiwxXSxbIjI3LTkwLTMtNSIsMl0sWyIyNy05MC0yLTYiLDFdLFsiMjctOTAtMC01IiwxXSxbIjI3LTkwLTEtNWIiLDFdLFsiMjctOTAtMS02IiwxXSxbIjI3LTkwLTItNyIsMV0sWyIyNy05MC02LTciLDJdLFsiMjctOTAtNi04IiwxXSxbIjI3LTkwLTQtOSIsMV0sWyIyNy05MC0xMC0wIiwxXSxbIjI3LTkwLTEwLTIiLDFdLFsiMjctOTAtMTAtNCIsMV0sWyIyNy05MC0xMC02IiwxXSxbIjI3LTkwLTEwLTgiLDFdXQ5:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Valkyrie DPS PvE Detailed Guide (Dungeons, Mythics, Raid)\",\"author\":{\"@type\":\"Person\",\"name\":\"DarkGuardian\",\"url\":\"https://coabuildhub.com/profile/8b53f890-4411-40b1-a9a5-2c53f1f08df1\"},\"datePublished\":\"2026-07-27T03:35:24.600234+00:00\",\"dateModified\":\"2026-07-31T19:59:23.625+00:00\",\"description\":\"DPS pve build for Sun Cleric Valkyrie in Conquest of Azeroth. 8 community upvotes.\",\"url\":\"https://coabuildhub.com/build/7e9d9222-bd9b-46f8-b6fa-2012abfb8654\",\"mainEntityOfPage\":\"https://coabuildhub.com/build/7e9d9222-bd9b-46f8-b6fa-2012abfb8654\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"CoA Build Hub\",\"url\":\"https://coabuildhub.com\"},\"about\":{\"@type\":\"VideoGame\",\"name\":\"Conquest of Azeroth\"},\"keywords\":[\"Sun Cleric build\",\"CoA Sun Cleric\",\"Valkyrie spec\",\"conquest of azeroth dps\",\"coa pve\"],\"interactionStatistic\":{\"@type\":\"InteractionCounter\",\"interactionType\":\"https://schema.org/LikeAction\",\"userInteractionCount\":8}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://coabuildhub.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Sun Cleric Builds\",\"item\":\"https://coabuildhub.com/builds/sun-cleric\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Valkyrie DPS PvE Detailed Guide (Dungeons, Mythics, Raid)\",\"item\":\"https://coabuildhub.com/build/7e9d9222-bd9b-46f8-b6fa-2012abfb8654\"}]}"}}],["$","$L16",null,{"initialBuild":{"id":"7e9d9222-bd9b-46f8-b6fa-2012abfb8654","title":"Valkyrie DPS PvE Detailed Guide (Dungeons, Mythics, Raid)","description":"$17","class_id":27,"spec_id":90,"author_id":"8b53f890-4411-40b1-a9a5-2c53f1f08df1","talent_string":"$18","tags":["Dungeon","Heroic","Mythic","Raid","Single Target","AoE","PvE","General","Sun Cleric","Valkyrie"],"role":"dps","content_type":"pve","patch_version":"1.0","upvotes":8,"downvotes":0,"comment_count":4,"created_at":"2026-07-27T03:35:24.600234+00:00","updated_at":"2026-07-31T19:59:23.625+00:00","status":"published","hidden":false,"featured":false,"featured_at":null,"view_count":1834,"net_score":8,"has_talents":true,"guide_section_count":10,"author":{"id":"8b53f890-4411-40b1-a9a5-2c53f1f08df1","username":"DarkGuardian","avatar_url":"https://cdn.discordapp.com/avatars/237645502051647488/687c5535110cac02fdc5d918d23e5e98.png"}},"initialComments":[{"id":"430e7828-dad0-4490-ab2e-c2469ef80639","build_id":"7e9d9222-bd9b-46f8-b6fa-2012abfb8654","author_id":"e84189a7-7d6d-4ac6-9548-d6680c958c87","parent_id":null,"body":"Good guide covers alot","upvotes":1,"created_at":"2026-07-29T07:13:49.899614+00:00","updated_at":"2026-07-29T07:18:24.768913+00:00","downvotes":0,"hidden":false,"author":{"id":"e84189a7-7d6d-4ac6-9548-d6680c958c87","username":"Ordealz","avatar_url":"https://lh3.googleusercontent.com/a/ACg8ocJssSkmrxOo-cyhqkUFy4N80OIPncG7DZJE_ImKXsbQLSkt5w=s96-c"}},{"id":"b5f766b2-bd6e-4252-bf72-d9d652d987f4","build_id":"7e9d9222-bd9b-46f8-b6fa-2012abfb8654","author_id":"3ebf67f1-ea74-4fe2-956a-ecc6fc72a538","parent_id":null,"body":"isne mujhe yah samajhne mein madad ki ki spec ke saath kaise khelna hai.","upvotes":0,"created_at":"2026-07-29T07:15:17.828695+00:00","updated_at":"2026-07-29T07:15:17.828695+00:00","downvotes":0,"hidden":false,"author":{"id":"3ebf67f1-ea74-4fe2-956a-ecc6fc72a538","username":"Tungesh Farawan","avatar_url":"https://lh3.googleusercontent.com/a/ACg8ocL9A2nYdlx6_NLGmXbWgsyWqF0rFSVt-mAi_EHYToV9sS6Lrw=s96-c"}},{"id":"adcb5e8b-d188-4913-972e-0c56461ad0fa","build_id":"7e9d9222-bd9b-46f8-b6fa-2012abfb8654","author_id":"8b53f890-4411-40b1-a9a5-2c53f1f08df1","parent_id":"430e7828-dad0-4490-ab2e-c2469ef80639","body":"Thank you!","upvotes":0,"created_at":"2026-07-29T07:18:30.728008+00:00","updated_at":"2026-07-29T07:18:30.728008+00:00","downvotes":0,"hidden":false,"author":{"id":"8b53f890-4411-40b1-a9a5-2c53f1f08df1","username":"DarkGuardian","avatar_url":"https://cdn.discordapp.com/avatars/237645502051647488/687c5535110cac02fdc5d918d23e5e98.png"}},{"id":"05becb2d-4c67-4dd0-ae3d-42d59562cf43","build_id":"7e9d9222-bd9b-46f8-b6fa-2012abfb8654","author_id":"455ec9c3-382b-4a1b-af3a-f2a7c6f52edb","parent_id":null,"body":"Thank you for mention, i appreciate the consider. Let's help each other to make everything good for everyone to understand more the class :D.","upvotes":1,"created_at":"2026-07-30T00:53:18.247756+00:00","updated_at":"2026-07-31T19:59:44.241757+00:00","downvotes":0,"hidden":false,"author":{"id":"455ec9c3-382b-4a1b-af3a-f2a7c6f52edb","username":"Leonardo Calegário","avatar_url":"https://lh3.googleusercontent.com/a/ACg8ocIv8MZmFkfFFZgI9pteUz7xEkxKLkdYMPr60Yy0AmKYL-W083KS=s96-c"}}],"initialSimilar":[{"id":"e8ee75b8-8e51-4d3a-af1b-a47d6c4d13b7","title":"Blessings Sun Cleric - Dungeons","class_id":27,"spec_id":71,"author_id":"20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106","tags":[],"role":"healer","content_type":"pve","status":"published","hidden":false,"patch_version":"1.0","upvotes":1,"downvotes":0,"comment_count":0,"view_count":562,"featured":false,"created_at":"2026-07-28T00:34:16.331076+00:00","updated_at":"2026-07-30T22:27:37.597+00:00","has_talents":true,"guide_section_count":7,"author":{"id":"20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106","username":"Iyob","avatar_url":null}},{"id":"70365f6d-e8d7-481e-9192-96bc94c2316e","title":"Sun Cleric - Seraphim - Dungeon","class_id":27,"spec_id":72,"author_id":"326a05bd-ae58-4722-ab9d-22a380d3fe22","tags":[],"role":"tank","content_type":"pve","status":"published","hidden":false,"patch_version":"1.0","upvotes":0,"downvotes":0,"comment_count":0,"view_count":360,"featured":false,"created_at":"2026-07-25T18:41:27.856779+00:00","updated_at":"2026-07-25T18:41:27.856779+00:00","has_talents":true,"guide_section_count":1,"author":{"id":"326a05bd-ae58-4722-ab9d-22a380d3fe22","username":"Sorri","avatar_url":"https://lh3.googleusercontent.com/a/ACg8ocKZqD5dNL8hx9StOVXHsRYBHnTTEvAK9_JP3Qp2s1W-blgwzA=s96-c"}},{"id":"7d4fd6f5-4c69-4d25-8e94-322419b80281","title":"JHE - Just Heal Everything - Top Heal Build for Clerics","class_id":27,"spec_id":71,"author_id":"c8328f29-4234-45af-aa95-bba0d898c001","tags":["Raid","Leveling & Dungeons"],"role":"healer","content_type":"pve","status":"published","hidden":false,"patch_version":"1.0","upvotes":1,"downvotes":0,"comment_count":0,"view_count":1740,"featured":false,"created_at":"2026-07-21T20:12:00.416317+00:00","updated_at":"2026-07-26T17:58:26.42+00:00","has_talents":true,"guide_section_count":0,"author":{"id":"c8328f29-4234-45af-aa95-bba0d898c001","username":"Lieni","avatar_url":"https://lh3.googleusercontent.com/a/ACg8ocKO1kT0OsmoulrbXWRLpBSahBiFl5HiL5jzVtT6-dn_VdAX6w=s96-c"}}]}]]
+13:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Valkyrie DPS PvE Detailed Guide (Dungeons, Mythics, Raid) | CoA Build Hub"}],["$","meta","3",{"name":"description","content":"DPS pve build by DarkGuardian. Sun Cleric Valkyrie spec. 8 upvotes. Browse the full talent tree and guide on CoA Build Hub."}],["$","meta","4",{"name":"application-name","content":"CoA Build Hub"}],["$","link","5",{"rel":"manifest","href":"/manifest.json","crossOrigin":"use-credentials"}],["$","meta","6",{"name":"keywords","content":"Conquest of Azeroth,CoA,CoA builds,CoA build,conquest of azeroth builds,conquest of azeroth build,conquest of azeroth talent calculator,coa talent calculator,Project Ascension,ascension wow,ascension wow builds,classless wow,talent calculator,talent tree,build guide,coa guide,coa leveling guide"}],["$","meta","7",{"name":"google-site-verification","content":"ydaEJzAHZA2LbX_wuCOShy-OB7lAYjcjkLbR2mFT4ZM"}],["$","meta","8",{"name":"theme-color","content":"#FFD700"}],["$","link","9",{"rel":"canonical","href":"https://coabuildhub.com/build/7e9d9222-bd9b-46f8-b6fa-2012abfb8654"}],["$","meta","10",{"property":"og:title","content":"Valkyrie DPS PvE Detailed Guide (Dungeons, Mythics, Raid) — CoA Build Hub"}],["$","meta","11",{"property":"og:description","content":"DPS pve build by DarkGuardian. Sun Cleric Valkyrie spec. 8 upvotes. Browse the full talent tree and guide on CoA Build Hub."}],["$","meta","12",{"property":"og:site_name","content":"CoA Build Hub"}],["$","meta","13",{"property":"og:image","content":"https://coabuildhub.com/api/og?title=Valkyrie+DPS+PvE+Detailed+Guide+%28Dungeons%2C+Mythics%2C+Raid%29&role=dps&author=DarkGuardian&classId=27&type=build&spec=Valkyrie"}],["$","meta","14",{"property":"og:type","content":"article"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Valkyrie DPS PvE Detailed Guide (Dungeons, Mythics, Raid)"}],["$","meta","17",{"name":"twitter:description","content":"DPS pve build by DarkGuardian. Sun Cleric Valkyrie spec. 8 upvotes. Browse the full talent tree and guide on CoA Build Hub."}],["$","meta","18",{"name":"twitter:image","content":"https://coabuildhub.com/api/og?title=Valkyrie+DPS+PvE+Detailed+Guide+%28Dungeons%2C+Mythics%2C+Raid%29&role=dps&author=DarkGuardian&classId=27&type=build&spec=Valkyrie"}],["$","link","19",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","20",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","21",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","22",{"rel":"icon","href":"/icon-512.png","sizes":"512x512","type":"image/png"}],["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180","type":"image/png"}],["$","meta","24",{"name":"next-size-adjust"}]]
+4:null

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vizier Form",
+  "icon": "achievement_boss_eldernadox",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Vizier Form</b></td><th><b class=\"q0\">Shapeshift</b></th></tr></table>30% of base mana<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Shapeshift into <span style=\"color: #ffffff;\">Vizier Form</span>, allowing you to cast <span style=\"color: #ffffff;\">Shadra's Prayer</span> while moving and causing your periodic healing to have a 20% chance to grant allies <span style=\"color: #ffffff;\">Replenishment</span>. <br /><br />Allows your heal over time effects to critically strike.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/novart_drinkable_(9)_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=560582'> Replenishment </a> <br />\n                            <span> Restores 1% maximum mana every 5 sec to allies within 100 yds for 15&nbsp;sec.</span><br /></span></td></tr></table><!--?800912:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

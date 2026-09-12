@@ -1,0 +1,8 @@
+{
+  "name_enus": "Restore Sanity",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Restore Sanity</b><br />10% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Removes the <span style=\"color: #ffffff;\">Madness</span> debuff from you or an allied Cultist, resetting the target's <span style=\"color: #cfa6ff;\">Insanity</span> to 0.</span></td></tr></table><!--?801157:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

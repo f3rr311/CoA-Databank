@@ -1,0 +1,15 @@
+{
+  "name_enus": "Spirit Glaive",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spirit Glaive</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>10% of base mana<br /><table width=\"100%\"><tr><td>2 sec cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Ranged Weapon<br /><span class=\"q\">Toss spectral glaives that strikes enemies it passes through, dealing 66+0+RAP*.5+ShaP*.5 Shadow damage, and reducing their Shadow Resistance by 1*PL+1 for 5&nbsp;sec.<!--sp802714:0--><!--sp802714--><br /><br />Usable while moving. Cast time scales with your Agility.</span></td></tr></table><!--?806289:1:1:80-->",
+  "spells_enus": {
+    "802714": [
+      [
+        "",
+        " <br /><br />At the end of the duration, deal 24+1.7 Points Per Level+RAP*0.35+ShaP*0.75 Shadow damage to the enemy and all enemies within 8 yds."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

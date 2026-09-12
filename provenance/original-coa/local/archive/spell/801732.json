@@ -1,0 +1,8 @@
+{
+  "name_enus": "Frost Ghast",
+  "icon": "epic_rpg_icon_pack_frost_0000s_0000_figure_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Frost Ghast</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of <span style=\"color: #ffffff;\">Ice Barrage</span> by 20% against <span style=\"color: #3399ff;\">Frozen</span> targets.</span></td></tr></table><!--?801732:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

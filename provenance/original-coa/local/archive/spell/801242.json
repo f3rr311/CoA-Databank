@@ -1,0 +1,8 @@
+{
+  "name_enus": "Primal Weapon: Bestial Might",
+  "icon": "inv_hand_1h_bwdraid_d_01",
+  "tooltip_enus": "<table><tr><td><b>Primal Weapon: Bestial Might</b><br />15% of base mana<br />Instant</td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\">While wielding a one-handed weapon, your Physical critical strikes enrage you and any active pet for 8&nbsp;sec, increasing the haste of your next 2 attacks by 10% and their next 2 attacks by 80%.</span></td></tr></table><!--?801242:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

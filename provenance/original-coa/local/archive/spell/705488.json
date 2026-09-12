@@ -1,0 +1,8 @@
+{
+  "name_enus": "Enchanted Armor",
+  "icon": "spell_magic_magearmor",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Enchanted Armor</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Witchmail</span> increases Armor contribution from items by 60%.</span></td></tr></table><!--?705488:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

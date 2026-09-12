@@ -1,0 +1,8 @@
+{
+  "name_enus": "Calm",
+  "icon": "spell_priest_burningwill",
+  "tooltip_enus": "<table><tr><td><b>Calm</b><br />18% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Calm an enemy, disarming their melee and ranged weapons for 6&nbsp;sec.<br /><br />If your target is an Undead or Demon, they are also unable to attack or move for 6&nbsp;sec. <br /><br />Enemies that are immune to silence effects cannot be affected by this.</span></td></tr></table><!--?804057:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

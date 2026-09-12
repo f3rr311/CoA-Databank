@@ -1,0 +1,8 @@
+{
+  "name_enus": "Reave",
+  "icon": "inv_weapon_shortblade_40",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Reave</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>35 Rage<br /><table width=\"100%\"><tr><td>Instant</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Lacerate an enemy, dealing 125% Weapon Damage plus 26.<br /><br />If the enemy is bleeding, below 35% health, or if you are behind them, deal 100% additional Shadow damage for each condition met.</span></td></tr></table><!--?800490:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mojo: Fish Bones",
+  "icon": "inv_ascend_fish_bone",
+  "tooltip_enus": "<table><tr><td><b>Mojo: Fish Bones</b><br />45&nbsp;sec cooldown</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Potion Toss</span> and <span style=\"color: #ffffff;\">Splash Potion</span> cooldown is reset, and the next use within 5&nbsp;sec now applies <span style=\"color: #ffffff;\">Fish Bones</span> to affected allies.<br /><br />Instantly swaps your <span style=\"color: #ffffff;\">Ingredients</span> to <span style=\"color: #ffffff;\">Fish Oil</span> and <span style=\"color: #ffffff;\">Frog Bones</span>.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_ascend_fish_bone.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=500594'> Fish Bones </a> <br />\n                            <span> Heals for 10% of the targets maximum health and dispels 1 magic effect.</span><br /></span></td></tr></table><!--?705850:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

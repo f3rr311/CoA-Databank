@@ -1,0 +1,8 @@
+{
+  "name_enus": "Light of the Sun",
+  "icon": "ability_paladin_artofwar",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Light of the Sun</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Parrying an attack now restores 3% of your maximum health and increases your chance to parry the next attack by 30%.</span></td></tr></table><!--?704941:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

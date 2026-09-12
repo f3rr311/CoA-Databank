@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bot: C.U.R.B Stomp",
+  "icon": "ability_warrior_throwdown",
+  "tooltip_enus": "<table><tr><td><b>Bot: C.U.R.B Stomp</b><br />6% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>50&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Commands your <span style=\"color: #ffffff;\">Clockwork Assistant</span> to deal 19 to 25 Physical damage to all enemies within 10 yds, stunning them for 3&nbsp;sec.</span></td></tr></table><!--?800581:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

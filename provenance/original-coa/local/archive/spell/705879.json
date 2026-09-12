@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Serpent Ward",
+  "icon": "ability_hunter_serpentswiftness",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Improved Serpent Ward</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the mana cost of your <span style=\"color: #ffffff;\">Wards</span>, <span style=\"color: #ffffff;\">Idols</span>, and <span style=\"color: #ffffff;\">Effigies</span> by 0%.</span></td></tr></table><!--?705879:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

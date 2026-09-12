@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fury of the Wild",
+  "icon": "druid_stagstatue01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Fury of the Wild</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">When you cast a <span style=\"color: #ffffff;\">Boon</span>, you cast the same <span style=\"color: #ffffff;\">Boon</span> on your pet at 50% effectiveness.</span></td></tr></table><!--?801234:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

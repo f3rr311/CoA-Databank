@@ -1,0 +1,8 @@
+{
+  "name_enus": "Steam Conjurer",
+  "icon": "novart_magicspell_%2877%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Steam Conjurer</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Weapon Engraving: Earth</span> now has a 5% chance to cast <span style=\"color: #ffffff;\">Wild Steam</span>. Can only occur once every 3 sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_misc_questionmark.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=803737'> Wild Steam </a> <br />\n                            <span> Stomp the ground in a 5 yd radius around you and release steam, dealing 128*$<scalingbp>+AP*.25 Frostfire Damage to nearby enemies.</span><br /></span></td></tr></table><!--?805743:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

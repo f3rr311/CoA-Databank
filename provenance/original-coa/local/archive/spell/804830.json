@@ -1,0 +1,8 @@
+{
+  "name_enus": "Skyfall",
+  "icon": "inv_tradeskill_81_breath_of_bwonsamdi_raid",
+  "tooltip_enus": "<table><tr><td><b>Skyfall</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cc99ff;\">Depletes 40 Static</span><br />Command your <span style=\"color: #ffffff;\">Air Elemental</span>, causing its next instance of damage within 8&nbsp;sec to strike an enemy, dealing 1334+16.0 Points Per Level+ArcP*1 Nature damage and increasing the movement speed of all nearby allies by 30% for 15&nbsp;sec.</span></td></tr></table><!--?804830:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

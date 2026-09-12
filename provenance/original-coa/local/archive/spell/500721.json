@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dark Infusion",
+  "icon": "spell_mage_thermalvoid",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dark Infusion</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">3 Charges, 30 sec recharge</span><br />Infuse an ally with dark energy, healing them for 66 the next time they take damage. When the heal occurs, Dark Infusion is consumed and expands to the two lowest-health nearby party or raid members. Each secondary infusion heals when triggered, then expands to three nearby allies.</span></td></tr></table><!--?500721:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

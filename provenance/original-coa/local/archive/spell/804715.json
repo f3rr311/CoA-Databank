@@ -1,0 +1,15 @@
+{
+  "name_enus": "Falcon's Call",
+  "icon": "ability_skyreach_castdown",
+  "tooltip_enus": "<table><tr><td><b>Falcon's Call</b><br />30 Focus<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Call down war falcons upon a targeted area, slowing up to <!--sp705068:0-->8<!--sp705068--> enemies within the area by 60% for 5&nbsp;sec.<br /><br />A <span style=\"color: #FFFFFF;\">Falcon</span> is summoned for each enemy affected for 12&nbsp;sec.</span></td></tr></table><!--?804715:1:1:80-->",
+  "spells_enus": {
+    "705068": [
+      [
+        8,
+        10
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

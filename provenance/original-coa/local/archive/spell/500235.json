@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rocket Launcher",
+  "icon": "ability_racial_rocketbarrage",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Rocket Launcher</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>8% of base mana<br />3 sec cast</td></tr></table><table><tr><td><span class=\"q\">Fire a powerful rocket at an enemy that deals 126+0+RAP*0.35+FireP*.35 Fire damage.</span></td></tr></table><!--?500235:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

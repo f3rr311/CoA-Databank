@@ -1,0 +1,8 @@
+{
+  "name_enus": "Venom Blade",
+  "icon": "nhi_poison_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Venom Blade</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Focus<br />Instant</td></tr></table><table><tr><td>Requires Daggers<br /><span class=\"q\">Stab an enemy with a venom-dipped blade, dealing (4*1000/3)*(14+0+AP*0.15) Nature Damage over 4&nbsp;sec.<br /><br />Duration increased by 4 sec for each stack of <span style=\"color: #8fff7a;\">Advantage</span>.</span></td></tr></table><!--?803116:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

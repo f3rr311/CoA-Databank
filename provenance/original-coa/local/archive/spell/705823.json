@@ -1,0 +1,8 @@
+{
+  "name_enus": "Demolition",
+  "icon": "inv_firearm_2h_rifle_draenorraid_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Demolition</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Bomb Launcher</span> shots by 4% and the critical strike chance of <span style=\"color: #ffffff;\">Rocket Launcher</span> by 5%.</span></td></tr></table><!--?705823:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

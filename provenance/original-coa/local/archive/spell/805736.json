@@ -1,0 +1,8 @@
+{
+  "name_enus": "Adaptation: Farstrider",
+  "icon": "achievement_character_nightelf_female",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Adaptation: Farstrider</b></td><th><b class=\"q0\">Adaptation</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases critical strike chance by 0%, and increases maximum Focus by 0%. <br /><br />In addition, causes melee critical strikes with abilities to generate 15 Focus.</span></td></tr></table><!--?805736:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

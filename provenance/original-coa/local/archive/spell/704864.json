@@ -1,0 +1,8 @@
+{
+  "name_enus": "Concentrated Fire",
+  "icon": "inv_6_2raid_trinket_1c",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Concentrated Fire</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage and healing of <span style=\"color: #FFFFFF;\">Cleansing Flames</span> by 20%.</span></td></tr></table><!--?704864:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

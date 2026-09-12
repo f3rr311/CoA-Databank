@@ -1,0 +1,769 @@
+{
+ "build": {
+  "id": "00b41ac2-7b7f-4a28-87ad-1d5f78204ab9",
+  "title": "WD - Cocktail Cauldron Shenaningans",
+  "description": "[overview]\nWitch doctor: Brewing is not an easy healer. It has a lot of instants and HOTs, you require A LOT of spirit to feel your heal and your mana really well. You'll struggle leveling but at the end its worth it\n\nthe main ingredients are usually jungle shrooms and frog bones for the HOT and absorbs on allies while also providing with healing over time near you,\n\n[talents]\ni prefer this set of talents since it provides a hell of a lot of heals. The cauldron gives a totem like heal that basically makes them unkillable\n\nbut you could go for the bases instead if you feel like  you want to spam spirit in a bottle (atm of writting this tiki splash feels bugged)\n\n[rotation]\njust make sure to not spam your abilities such a throw potion or splash potion and use your mojos (Mojo: Jungle Thistle and Mojo: Frog Shrooms) as an emergency in case people are dying.\n\ncauldron is good to be used in constant damage zones or as an oopsie button\n\nmojo beam to aoe heal and spirit in a bottle to get spirit and heal\n\nalso your loa's brew is good for a few buffs\n\n[stats]\nSpirit (ofc) > Intellect > Spell power >Haste > etc\n\n[leveling]\nat the beginning you can take Mojo Addiction if you feel like you dont have enough mana, but once at a comfortable level just take it out since theres better uses for those 2 talent points\n\n[pvp]\ni dont do pvp :sob:",
+  "class_id": 13,
+  "spec_id": 35,
+  "author_id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+  "talent_string": "W1siMTMtODctNy0wIiwxXSxbIjEzLTg3LTEtMCIsMV0sWyIxMy04Ny0yLTEiLDJdLFsiMTMtODctNi0xIiwxXSxbIjEzLTg3LTgtMiIsMV0sWyIxMy04Ny01LTIiLDJdLFsiMTMtODctNi0zIiwxXSxbIjEzLTg3LTMtMiIsMV0sWyIxMy04Ny0yLTMiLDFdLFsiMTMtODctNC00IiwxXSxbIjEzLTg3LTctNCIsMV0sWyIxMy04Ny00LTVhIiwxXSxbIjEzLTg3LTYtNSIsMV0sWyIxMy04Ny01LTYiLDFdLFsiMTMtODctNC03YSIsMV0sWyIxMy04Ny03LTYiLDFdLFsiMTMtODctOC01IiwxXSxbIjEzLTg3LTctNyIsMV0sWyIxMy04Ny0yLTUiLDFdLFsiMTMtODctMS02IiwxXSxbIjEzLTg3LTEtN2IiLDFdLFsiMTMtODctNi04IiwxXSxbIjEzLTg3LTctOSIsMV0sWyIxMy04Ny0wLTJhIiwxXSxbIjEzLTM1LTMtMCIsMV0sWyIxMy0zNS01LTAiLDFdLFsiMTMtMzUtNC0xIiwxXSxbIjEzLTM1LTItMiIsMl0sWyIxMy0zNS02LTIiLDJdLFsiMTMtMzUtNy0zIiwxXSxbIjEzLTM1LTQtMyIsMV0sWyIxMy0zNS0xLTMiLDFdLFsiMTMtMzUtNy00IiwxXSxbIjEzLTM1LTUtNCIsMV0sWyIxMy0zNS00LTUiLDFdLFsiMTMtMzUtMS00IiwxXSxbIjEzLTM1LTEtNiIsMV0sWyIxMy0zNS0yLTVhIiwxXSxbIjEzLTM1LTctNiIsMV0sWyIxMy0zNS01LTZhIiwxXSxbIjEzLTM1LTMtNiIsMV0sWyIxMy0zNS0zLTciLDFdLFsiMTMtMzUtNS03IiwxXSxbIjEzLTM1LTEtN2IiLDFdLFsiMTMtMzUtMTAtMCIsMV0sWyIxMy0zNS0xMC0yIiwxXSxbIjEzLTM1LTEwLTQiLDFdLFsiMTMtMzUtMTAtNiIsMV0sWyIxMy0zNS04LTVhIiwxXSxbIjEzLTM1LTMtNCIsMV0sWyIxMy0zNS0yLTgiLDFdLFsiMTMtMzUtMC01IiwxXSxbIjEzLTM1LTItOSIsMV1d",
+  "tags": [
+   "AOE",
+   "Raid",
+   "Mythic"
+  ],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-23T16:26:12.939071+00:00",
+  "updated_at": "2026-07-28T16:01:48.181+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 578,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 6,
+  "author": {
+   "id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+   "username": "bruttus_",
+   "avatar_url": "https://cdn.discordapp.com/avatars/716955228729245781/98ec4037a0a68fd624f2a4ad6069555b.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "a254757b-8afd-45a9-b6bd-93dd4bf49d9d",
+   "title": "WD Shadowhunter PvE",
+   "class_id": 13,
+   "spec_id": 36,
+   "author_id": "428f5bf2-8db9-42db-a655-0215916cb624",
+   "tags": [
+    "AoE",
+    "Dungeon",
+    "Single Target"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 427,
+   "featured": false,
+   "created_at": "2026-07-29T19:22:39.59715+00:00",
+   "updated_at": "2026-07-29T19:30:52.961+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "428f5bf2-8db9-42db-a655-0215916cb624",
+    "username": "Martin T. L. (Malleren)",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJOVHmFSEN6QzZdqvH_Lu6ce3wr7zGxdIaw5-n9kVyIElnHLGVW=s96-c"
+   }
+  },
+  {
+   "id": "05e9cd81-6697-4220-91c5-d1872fc44a29",
+   "title": "Who do your voodoo",
+   "class_id": 13,
+   "spec_id": 34,
+   "author_id": "8617fe92-c43b-44c7-9a4e-9e371d18f0fa",
+   "tags": [
+    "Aoe"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 2,
+   "downvotes": 0,
+   "comment_count": 1,
+   "view_count": 2504,
+   "featured": false,
+   "created_at": "2026-07-23T07:38:39.28031+00:00",
+   "updated_at": "2026-07-23T07:40:37.987+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "8617fe92-c43b-44c7-9a4e-9e371d18f0fa",
+    "username": "skadi2552",
+    "avatar_url": "https://cdn.discordapp.com/avatars/169451519345819649/6890df9855fd7a4d11b292d1c61e0810.png"
+   }
+  },
+  {
+   "id": "33954858-3a1e-4d27-8c00-316cf9172b46",
+   "title": "HEAL LVL THEO",
+   "class_id": 13,
+   "spec_id": 35,
+   "author_id": "1182cfc1-0ac1-47c9-84ba-2e3ff6a24753",
+   "tags": [],
+   "role": "healer",
+   "content_type": "leveling",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 67,
+   "featured": false,
+   "created_at": "2026-07-29T10:50:51.588207+00:00",
+   "updated_at": "2026-07-29T10:50:51.588207+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "1182cfc1-0ac1-47c9-84ba-2e3ff6a24753",
+    "username": "Pedro Segura",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLv5wc79fP5dg4-iPeoO0XiBnE6cb9Eujx1Pc1U0oWbg-vI9tzJ=s96-c"
+   }
+  }
+ ],
+ "class": "Witch Doctor",
+ "spec": "Brewing",
+ "allocations": [
+  [
+   "13-87-7-0",
+   1
+  ],
+  [
+   "13-87-1-0",
+   1
+  ],
+  [
+   "13-87-2-1",
+   2
+  ],
+  [
+   "13-87-6-1",
+   1
+  ],
+  [
+   "13-87-8-2",
+   1
+  ],
+  [
+   "13-87-5-2",
+   2
+  ],
+  [
+   "13-87-6-3",
+   1
+  ],
+  [
+   "13-87-3-2",
+   1
+  ],
+  [
+   "13-87-2-3",
+   1
+  ],
+  [
+   "13-87-4-4",
+   1
+  ],
+  [
+   "13-87-7-4",
+   1
+  ],
+  [
+   "13-87-4-5a",
+   1
+  ],
+  [
+   "13-87-6-5",
+   1
+  ],
+  [
+   "13-87-5-6",
+   1
+  ],
+  [
+   "13-87-4-7a",
+   1
+  ],
+  [
+   "13-87-7-6",
+   1
+  ],
+  [
+   "13-87-8-5",
+   1
+  ],
+  [
+   "13-87-7-7",
+   1
+  ],
+  [
+   "13-87-2-5",
+   1
+  ],
+  [
+   "13-87-1-6",
+   1
+  ],
+  [
+   "13-87-1-7b",
+   1
+  ],
+  [
+   "13-87-6-8",
+   1
+  ],
+  [
+   "13-87-7-9",
+   1
+  ],
+  [
+   "13-87-0-2a",
+   1
+  ],
+  [
+   "13-35-3-0",
+   1
+  ],
+  [
+   "13-35-5-0",
+   1
+  ],
+  [
+   "13-35-4-1",
+   1
+  ],
+  [
+   "13-35-2-2",
+   2
+  ],
+  [
+   "13-35-6-2",
+   2
+  ],
+  [
+   "13-35-7-3",
+   1
+  ],
+  [
+   "13-35-4-3",
+   1
+  ],
+  [
+   "13-35-1-3",
+   1
+  ],
+  [
+   "13-35-7-4",
+   1
+  ],
+  [
+   "13-35-5-4",
+   1
+  ],
+  [
+   "13-35-4-5",
+   1
+  ],
+  [
+   "13-35-1-4",
+   1
+  ],
+  [
+   "13-35-1-6",
+   1
+  ],
+  [
+   "13-35-2-5a",
+   1
+  ],
+  [
+   "13-35-7-6",
+   1
+  ],
+  [
+   "13-35-5-6a",
+   1
+  ],
+  [
+   "13-35-3-6",
+   1
+  ],
+  [
+   "13-35-3-7",
+   1
+  ],
+  [
+   "13-35-5-7",
+   1
+  ],
+  [
+   "13-35-1-7b",
+   1
+  ],
+  [
+   "13-35-10-0",
+   1
+  ],
+  [
+   "13-35-10-2",
+   1
+  ],
+  [
+   "13-35-10-4",
+   1
+  ],
+  [
+   "13-35-10-6",
+   1
+  ],
+  [
+   "13-35-8-5a",
+   1
+  ],
+  [
+   "13-35-3-4",
+   1
+  ],
+  [
+   "13-35-2-8",
+   1
+  ],
+  [
+   "13-35-0-5",
+   1
+  ],
+  [
+   "13-35-2-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "13-87-7-0",
+   "points": 1,
+   "name": "Healing Ward",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 500957
+  },
+  {
+   "id": "13-87-1-0",
+   "points": 1,
+   "name": "Mirage",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 501136
+  },
+  {
+   "id": "13-87-2-1",
+   "points": 2,
+   "name": "Juju Injection",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503608
+  },
+  {
+   "id": "13-87-6-1",
+   "points": 1,
+   "name": "Spiritual Traditions",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705911
+  },
+  {
+   "id": "13-87-8-2",
+   "points": 1,
+   "name": "Seeker",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705880
+  },
+  {
+   "id": "13-87-5-2",
+   "points": 2,
+   "name": "Wizened",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705903
+  },
+  {
+   "id": "13-87-6-3",
+   "points": 1,
+   "name": "Cleansing Idol",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504840
+  },
+  {
+   "id": "13-87-3-2",
+   "points": 1,
+   "name": "Mojo Madness",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705871
+  },
+  {
+   "id": "13-87-2-3",
+   "points": 1,
+   "name": "Death Draught",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 602220
+  },
+  {
+   "id": "13-87-4-4",
+   "points": 1,
+   "name": "Amphibimorph",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 500952
+  },
+  {
+   "id": "13-87-7-4",
+   "points": 1,
+   "name": "Spirit Warden",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503774
+  },
+  {
+   "id": "13-87-4-5a",
+   "points": 1,
+   "name": "Krag'wa's Blessing",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 807855
+  },
+  {
+   "id": "13-87-6-5",
+   "points": 1,
+   "name": "Vol'jin's Vigil",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504465
+  },
+  {
+   "id": "13-87-5-6",
+   "points": 1,
+   "name": "Potent Mixes",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503748
+  },
+  {
+   "id": "13-87-4-7a",
+   "points": 1,
+   "name": "Blatant Curse",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 301297
+  },
+  {
+   "id": "13-87-7-6",
+   "points": 1,
+   "name": "Spirit Walker",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504459
+  },
+  {
+   "id": "13-87-8-5",
+   "points": 1,
+   "name": "Swift Idol",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 804226
+  },
+  {
+   "id": "13-87-7-7",
+   "points": 1,
+   "name": "Hastened",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705899
+  },
+  {
+   "id": "13-87-2-5",
+   "points": 1,
+   "name": "Alchemical Enhancement",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705921
+  },
+  {
+   "id": "13-87-1-6",
+   "points": 1,
+   "name": "Slither",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 500947
+  },
+  {
+   "id": "13-87-1-7b",
+   "points": 1,
+   "name": "Dark Mojo",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 712396
+  },
+  {
+   "id": "13-87-6-8",
+   "points": 1,
+   "name": "One Armed Waltz",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705909
+  },
+  {
+   "id": "13-87-7-9",
+   "points": 1,
+   "name": "For Da Loa!",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705906
+  },
+  {
+   "id": "13-87-0-2a",
+   "points": 1,
+   "name": "Sen'jin's Wisdom",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504774
+  },
+  {
+   "id": "13-35-3-0",
+   "points": 1,
+   "name": "Ingredient: Jungle Shrooms",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 801660
+  },
+  {
+   "id": "13-35-5-0",
+   "points": 1,
+   "name": "Potion Toss",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 801661
+  },
+  {
+   "id": "13-35-4-1",
+   "points": 1,
+   "name": "Mixologist",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 561069
+  },
+  {
+   "id": "13-35-2-2",
+   "points": 2,
+   "name": "Potent Mixes",
+   "maxPoints": 2,
+   "tree": "Brewing",
+   "spellId": 503748
+  },
+  {
+   "id": "13-35-6-2",
+   "points": 2,
+   "name": "Brewmaster",
+   "maxPoints": 2,
+   "tree": "Brewing",
+   "spellId": 704512
+  },
+  {
+   "id": "13-35-7-3",
+   "points": 1,
+   "name": "Plentiful Potions",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 803463
+  },
+  {
+   "id": "13-35-4-3",
+   "points": 1,
+   "name": "Splash Potion",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 802710
+  },
+  {
+   "id": "13-35-1-3",
+   "points": 1,
+   "name": "Presence of the Loa",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 572871
+  },
+  {
+   "id": "13-35-7-4",
+   "points": 1,
+   "name": "Ingredient: Bloodthistle",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 801664
+  },
+  {
+   "id": "13-35-5-4",
+   "points": 1,
+   "name": "Splash On 'Em",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 802219
+  },
+  {
+   "id": "13-35-4-5",
+   "points": 1,
+   "name": "Mojo Beam",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 500950
+  },
+  {
+   "id": "13-35-1-4",
+   "points": 1,
+   "name": "Ingredient: Frog Bones",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 801663
+  },
+  {
+   "id": "13-35-1-6",
+   "points": 1,
+   "name": "Mojo: Frog Shrooms",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 705851
+  },
+  {
+   "id": "13-35-2-5a",
+   "points": 1,
+   "name": "Spirit Out Of The Bottle",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 301175
+  },
+  {
+   "id": "13-35-7-6",
+   "points": 1,
+   "name": "Mojo: Jungle Thistle",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 500472
+  },
+  {
+   "id": "13-35-5-6a",
+   "points": 1,
+   "name": "Rage Brew",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 503750
+  },
+  {
+   "id": "13-35-3-6",
+   "points": 1,
+   "name": "Jungle Secrets",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 707212
+  },
+  {
+   "id": "13-35-3-7",
+   "points": 1,
+   "name": "Sen'jin's Presence",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 560544
+  },
+  {
+   "id": "13-35-5-7",
+   "points": 1,
+   "name": "Disciple of Sseratus",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 300660
+  },
+  {
+   "id": "13-35-1-7b",
+   "points": 1,
+   "name": "Doctor of the Jungle",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 706545
+  },
+  {
+   "id": "13-35-10-0",
+   "points": 1,
+   "name": "Cauldron Brewer",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 92085
+  },
+  {
+   "id": "13-35-10-2",
+   "points": 1,
+   "name": "Spirit Healer",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 560280
+  },
+  {
+   "id": "13-35-10-4",
+   "points": 1,
+   "name": "Loa's Blessing",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 705848
+  },
+  {
+   "id": "13-35-10-6",
+   "points": 1,
+   "name": "Mojo Wave",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 707617
+  },
+  {
+   "id": "13-35-8-5a",
+   "points": 1,
+   "name": "Spice: Earthroot",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 504424
+  },
+  {
+   "id": "13-35-3-4",
+   "points": 1,
+   "name": "Potion Boss",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 561072
+  },
+  {
+   "id": "13-35-2-8",
+   "points": 1,
+   "name": "Voodoo Cauldron",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 804684
+  },
+  {
+   "id": "13-35-0-5",
+   "points": 1,
+   "name": "Fresh Ingredients",
+   "maxPoints": 2,
+   "tree": "Brewing",
+   "spellId": 705856
+  },
+  {
+   "id": "13-35-2-9",
+   "points": 1,
+   "name": "Unstable Concoction",
+   "maxPoints": 1,
+   "tree": "Brewing",
+   "spellId": 802487
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Arbalest Mastery",
+  "icon": "artifactability_marksmanhunter_legacyofthewindrunners",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Arbalest Mastery</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Each subsequent shot of a <span style=\"color: #FFFFFF;\">Witchbane</span> cast deals 15% more damage, up to a maximum of 150%.</span></td></tr></table><!--?706240:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

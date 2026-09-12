@@ -1,0 +1,15 @@
+{
+  "name_enus": "Libram of Tenacity",
+  "icon": "_book2motif_lordaeroncorrupted",
+  "tooltip_enus": "<table><tr><td><b>Libram of Tenacity</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Read from your <span style=\"color: #FFFFFF;\">Libram of Tenacity</span>, reducing your Physical Damage taken by 30% for 20&nbsp;sec<!--sp707385:0--><!--sp707385-->.<br /><br />Only 1 <span style=\"color: #ffffff;\">Libram</span> spell can be active at a time.</span></td></tr></table><!--?801461:1:1:80-->",
+  "spells_enus": {
+    "707385": [
+      [
+        "",
+        " and instantly healing you for 0% maximum health"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

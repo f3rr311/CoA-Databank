@@ -1,0 +1,8 @@
+{
+  "name_enus": "Warden's Fury",
+  "icon": "inv_sword_11",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Warden's Fury</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Umbral Blade</span> now tethers enemies to you for 0 sec. If the tether is broken, they are gripped back towards you, taking 75+7.2 Points Per Level+ArcP*0.285 Arcane Damage.</span></td></tr></table><!--?706236:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

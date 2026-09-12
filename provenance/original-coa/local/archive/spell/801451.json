@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flaming Blade",
+  "icon": "epic_rpg_icon_pack_fire_0000s_0000_sword_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flaming Blade</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\">Unleash a <span style=\"color: #ffffff;\">Oath Breaker</span>, dealing Weapon Damage plus 50+PL*0.5+(FireP+AP)*0.67 and causing the target to bleed for an additional 27 Fire Damage over 18&nbsp;sec.<br /><br />Gains the <span style=\"color: #ffffff;\">Oaths</span> of each <span style=\"color: #ffffff;\">Follow Up</span> used in the chain.</span></td></tr></table><!--?801451:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

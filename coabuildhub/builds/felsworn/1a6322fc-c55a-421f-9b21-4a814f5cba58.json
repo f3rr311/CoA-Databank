@@ -1,0 +1,765 @@
+{
+ "build": {
+  "id": "1a6322fc-c55a-421f-9b21-4a814f5cba58",
+  "title": "JURAPENAS / FELSWORN PVP MELE BROKEN",
+  "description": "[overview]\nCon esta build seras una bestia parda en PVP y te sirve para tanquearte las dungs.",
+  "class_id": 14,
+  "spec_id": 37,
+  "author_id": "77f2221d-a187-444d-92c3-5e484d96c77c",
+  "talent_string": "W1siMTQtODctMi0wIiwxXSxbIjE0LTg3LTYtMCIsMV0sWyIxNC04Ny00LTEiLDJdLFsiMTQtODctNC0yIiwxXSxbIjE0LTg3LTYtMSIsMV0sWyIxNC04Ny03LTIiLDFdLFsiMTQtODctNi0zIiwxXSxbIjE0LTg3LTQtMyIsMV0sWyIxNC04Ny0yLTMiLDFdLFsiMTQtODctMS00IiwxXSxbIjE0LTg3LTEtNSIsMV0sWyIxNC04Ny0yLTYiLDFdLFsiMTQtODctMi03IiwxXSxbIjE0LTg3LTQtNyIsMV0sWyIxNC04Ny03LTQiLDFdLFsiMTQtODctNy01IiwxXSxbIjE0LTg3LTYtNiIsMV0sWyIxNC04Ny04LTZhIiwxXSxbIjE0LTg3LTgtNyIsMV0sWyIxNC04Ny02LTdiIiwxXSxbIjE0LTg3LTUtNCIsMV0sWyIxNC04Ny01LTUiLDFdLFsiMTQtODctNC04IiwxXSxbIjE0LTg3LTEtOCIsMV0sWyIxNC04Ny0yLTkiLDFdLFsiMTQtMTgtNC0wIiwxXSxbIjE0LTE4LTQtMSIsMV0sWyIxNC0xOC0yLTJhIiwxXSxbIjE0LTE4LTEwLTAiLDFdLFsiMTQtMTgtMTAtMiIsMV0sWyIxNC0xOC00LTIiLDFdLFsiMTQtMTgtNC0zIiwxXSxbIjE0LTE4LTYtMiIsMl0sWyIxNC0xOC03LTMiLDFdLFsiMTQtMTgtNi00IiwxXSxbIjE0LTE4LTctNSIsMV0sWyIxNC0xOC02LTZhIiwxXSxbIjE0LTE4LTQtNCIsMV0sWyIxNC0xOC00LTUiLDFdLFsiMTQtMTgtNC02IiwxXSxbIjE0LTE4LTQtN2IiLDFdLFsiMTQtMTgtMi00YSIsMV0sWyIxNC0xOC0yLTUiLDFdLFsiMTQtMTgtMi02YSIsMV0sWyIxNC0xOC0xLTUiLDFdLFsiMTQtMTgtMS03IiwxXSxbIjE0LTE4LTEwLTQiLDFdLFsiMTQtMTgtMTAtNiIsMV0sWyIxNC0xOC03LTciLDFdLFsiMTQtMTgtOC02IiwxXSxbIjE0LTE4LTAtNiIsMV0sWyIxNC0xOC0yLTgiLDFdLFsiMTQtMTgtMi05IiwxXV0",
+  "tags": [
+   "EL MEJOR FELSWORN"
+  ],
+  "role": "tank",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-29T04:25:51.130418+00:00",
+  "updated_at": "2026-07-29T04:25:51.130418+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 433,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "77f2221d-a187-444d-92c3-5e484d96c77c",
+   "username": "Elmija",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIF6bDKyC9UrIMNKUkEGDez91FUeyj_R8zO1d1qItSwfOda7Q=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "31ac5eb2-4521-44ba-931a-f6512b3d9e55",
+   "title": "Felsworn Slayer all round build",
+   "class_id": 14,
+   "spec_id": 37,
+   "author_id": "26ae3a35-911d-4a3c-b2eb-3c3027ed8d5d",
+   "tags": [
+    "AoE and single target pvp"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 1,
+   "comment_count": 1,
+   "view_count": 358,
+   "featured": false,
+   "created_at": "2026-07-27T00:51:07.335458+00:00",
+   "updated_at": "2026-07-27T00:51:07.335458+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "26ae3a35-911d-4a3c-b2eb-3c3027ed8d5d",
+    "username": "ahda lubis",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIusCQMPupff3RMEV3UQzsonVh7oRrIDKPZeD2ljhPrPJYXHA=s96-c"
+   }
+  },
+  {
+   "id": "ae283725-5e17-4da9-b724-6729e0729a54",
+   "title": "IMMORTAL TYRANT - Walking Fortress",
+   "class_id": 14,
+   "spec_id": 18,
+   "author_id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+   "tags": [
+    "Fortress"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 7,
+   "downvotes": 1,
+   "comment_count": 17,
+   "view_count": 5852,
+   "featured": false,
+   "created_at": "2026-07-20T20:28:56.106063+00:00",
+   "updated_at": "2026-07-24T10:39:20.69+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "57aab71b-28c3-4a63-acbb-ed0bd37da163",
+    "username": "hesediel",
+    "avatar_url": "https://cdn.discordapp.com/avatars/476774265908363295/57fa9331edae235acb7ca74b9fde686e.png"
+   }
+  },
+  {
+   "id": "674eb288-1d80-42a5-842c-e8ea4c643177",
+   "title": "felboy",
+   "class_id": 14,
+   "spec_id": 38,
+   "author_id": "0f8e4512-d078-4bd6-bf1b-78c3849e5433",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1702,
+   "featured": false,
+   "created_at": "2026-07-21T20:25:32.795774+00:00",
+   "updated_at": "2026-07-22T10:06:29.14+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "0f8e4512-d078-4bd6-bf1b-78c3849e5433",
+    "username": "michael montgomery",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLmZ2nHjGhxpAGpuX_ne5P_t-xeqdcFAkQOmMtH1iEYtblngg=s96-c"
+   }
+  }
+ ],
+ "class": "Felsworn",
+ "spec": "Slayer",
+ "allocations": [
+  [
+   "14-87-2-0",
+   1
+  ],
+  [
+   "14-87-6-0",
+   1
+  ],
+  [
+   "14-87-4-1",
+   2
+  ],
+  [
+   "14-87-4-2",
+   1
+  ],
+  [
+   "14-87-6-1",
+   1
+  ],
+  [
+   "14-87-7-2",
+   1
+  ],
+  [
+   "14-87-6-3",
+   1
+  ],
+  [
+   "14-87-4-3",
+   1
+  ],
+  [
+   "14-87-2-3",
+   1
+  ],
+  [
+   "14-87-1-4",
+   1
+  ],
+  [
+   "14-87-1-5",
+   1
+  ],
+  [
+   "14-87-2-6",
+   1
+  ],
+  [
+   "14-87-2-7",
+   1
+  ],
+  [
+   "14-87-4-7",
+   1
+  ],
+  [
+   "14-87-7-4",
+   1
+  ],
+  [
+   "14-87-7-5",
+   1
+  ],
+  [
+   "14-87-6-6",
+   1
+  ],
+  [
+   "14-87-8-6a",
+   1
+  ],
+  [
+   "14-87-8-7",
+   1
+  ],
+  [
+   "14-87-6-7b",
+   1
+  ],
+  [
+   "14-87-5-4",
+   1
+  ],
+  [
+   "14-87-5-5",
+   1
+  ],
+  [
+   "14-87-4-8",
+   1
+  ],
+  [
+   "14-87-1-8",
+   1
+  ],
+  [
+   "14-87-2-9",
+   1
+  ],
+  [
+   "14-18-4-0",
+   1
+  ],
+  [
+   "14-18-4-1",
+   1
+  ],
+  [
+   "14-18-2-2a",
+   1
+  ],
+  [
+   "14-18-10-0",
+   1
+  ],
+  [
+   "14-18-10-2",
+   1
+  ],
+  [
+   "14-18-4-2",
+   1
+  ],
+  [
+   "14-18-4-3",
+   1
+  ],
+  [
+   "14-18-6-2",
+   2
+  ],
+  [
+   "14-18-7-3",
+   1
+  ],
+  [
+   "14-18-6-4",
+   1
+  ],
+  [
+   "14-18-7-5",
+   1
+  ],
+  [
+   "14-18-6-6a",
+   1
+  ],
+  [
+   "14-18-4-4",
+   1
+  ],
+  [
+   "14-18-4-5",
+   1
+  ],
+  [
+   "14-18-4-6",
+   1
+  ],
+  [
+   "14-18-4-7b",
+   1
+  ],
+  [
+   "14-18-2-4a",
+   1
+  ],
+  [
+   "14-18-2-5",
+   1
+  ],
+  [
+   "14-18-2-6a",
+   1
+  ],
+  [
+   "14-18-1-5",
+   1
+  ],
+  [
+   "14-18-1-7",
+   1
+  ],
+  [
+   "14-18-10-4",
+   1
+  ],
+  [
+   "14-18-10-6",
+   1
+  ],
+  [
+   "14-18-7-7",
+   1
+  ],
+  [
+   "14-18-8-6",
+   1
+  ],
+  [
+   "14-18-0-6",
+   1
+  ],
+  [
+   "14-18-2-8",
+   1
+  ],
+  [
+   "14-18-2-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "14-87-2-0",
+   "points": 1,
+   "name": "Annihilation",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 803904
+  },
+  {
+   "id": "14-87-6-0",
+   "points": 1,
+   "name": "Hateforged Barrier",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 705129
+  },
+  {
+   "id": "14-87-4-1",
+   "points": 2,
+   "name": "Demonborn",
+   "maxPoints": 2,
+   "tree": "Felsworn (class tree)",
+   "spellId": 705102
+  },
+  {
+   "id": "14-87-4-2",
+   "points": 1,
+   "name": "Felwracked",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 704374
+  },
+  {
+   "id": "14-87-6-1",
+   "points": 1,
+   "name": "Demonic Evasion",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 705108
+  },
+  {
+   "id": "14-87-7-2",
+   "points": 1,
+   "name": "Infernal Armor",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 300467
+  },
+  {
+   "id": "14-87-6-3",
+   "points": 1,
+   "name": "Skull of Gul'dan",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 800225
+  },
+  {
+   "id": "14-87-4-3",
+   "points": 1,
+   "name": "Embracing Evil",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 800352
+  },
+  {
+   "id": "14-87-2-3",
+   "points": 1,
+   "name": "Whispers of the Pit",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 805235
+  },
+  {
+   "id": "14-87-1-4",
+   "points": 1,
+   "name": "Felgorged",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 560573
+  },
+  {
+   "id": "14-87-1-5",
+   "points": 1,
+   "name": "Illidan's Guile",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 806109
+  },
+  {
+   "id": "14-87-2-6",
+   "points": 1,
+   "name": "Cunning",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 300465
+  },
+  {
+   "id": "14-87-2-7",
+   "points": 1,
+   "name": "Magic Fiend",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 704613
+  },
+  {
+   "id": "14-87-4-7",
+   "points": 1,
+   "name": "Fel Communion",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 705105
+  },
+  {
+   "id": "14-87-7-4",
+   "points": 1,
+   "name": "Demonic Embrace",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 520257
+  },
+  {
+   "id": "14-87-7-5",
+   "points": 1,
+   "name": "Felbane",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 525001
+  },
+  {
+   "id": "14-87-6-6",
+   "points": 1,
+   "name": "Pact Hunter",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 704612
+  },
+  {
+   "id": "14-87-8-6a",
+   "points": 1,
+   "name": "Suffering",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 807430
+  },
+  {
+   "id": "14-87-8-7",
+   "points": 1,
+   "name": "Armaments of the Legion",
+   "maxPoints": 2,
+   "tree": "Felsworn (class tree)",
+   "spellId": 706266
+  },
+  {
+   "id": "14-87-6-7b",
+   "points": 1,
+   "name": "Felstrider",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 707513
+  },
+  {
+   "id": "14-87-5-4",
+   "points": 1,
+   "name": "Doomstride",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 804613
+  },
+  {
+   "id": "14-87-5-5",
+   "points": 1,
+   "name": "Legion March",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 805244
+  },
+  {
+   "id": "14-87-4-8",
+   "points": 1,
+   "name": "Chaotic",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 681376
+  },
+  {
+   "id": "14-87-1-8",
+   "points": 1,
+   "name": "Warlock Training",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 560641
+  },
+  {
+   "id": "14-87-2-9",
+   "points": 1,
+   "name": "Reckoning",
+   "maxPoints": 1,
+   "tree": "Felsworn (class tree)",
+   "spellId": 802058
+  },
+  {
+   "id": "14-18-4-0",
+   "points": 1,
+   "name": "Carve",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 800206
+  },
+  {
+   "id": "14-18-4-1",
+   "points": 1,
+   "name": "Demonic Will",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 800209
+  },
+  {
+   "id": "14-18-2-2a",
+   "points": 1,
+   "name": "Annihilan Rituals",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 520831
+  },
+  {
+   "id": "14-18-10-0",
+   "points": 1,
+   "name": "Burning Commander",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 92089
+  },
+  {
+   "id": "14-18-10-2",
+   "points": 1,
+   "name": "Hulking Demon",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 805246
+  },
+  {
+   "id": "14-18-4-2",
+   "points": 1,
+   "name": "Nether Disciple",
+   "maxPoints": 2,
+   "tree": "Tyrant",
+   "spellId": 560576
+  },
+  {
+   "id": "14-18-4-3",
+   "points": 1,
+   "name": "Pure Hatred",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 803478
+  },
+  {
+   "id": "14-18-6-2",
+   "points": 2,
+   "name": "Demon Hide",
+   "maxPoints": 2,
+   "tree": "Tyrant",
+   "spellId": 520252
+  },
+  {
+   "id": "14-18-7-3",
+   "points": 1,
+   "name": "Burning Legionnaire",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 520885
+  },
+  {
+   "id": "14-18-6-4",
+   "points": 1,
+   "name": "Infernal Constitution",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 805256
+  },
+  {
+   "id": "14-18-7-5",
+   "points": 1,
+   "name": "Tyrant's Gaze",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 805240
+  },
+  {
+   "id": "14-18-6-6a",
+   "points": 1,
+   "name": "Demonic Blood",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 807438
+  },
+  {
+   "id": "14-18-4-4",
+   "points": 1,
+   "name": "Felspill",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 706267
+  },
+  {
+   "id": "14-18-4-5",
+   "points": 1,
+   "name": "Burning Hatred",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 805239
+  },
+  {
+   "id": "14-18-4-6",
+   "points": 1,
+   "name": "Nether Strength",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 520240
+  },
+  {
+   "id": "14-18-4-7b",
+   "points": 1,
+   "name": "Dark Lord",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 300470
+  },
+  {
+   "id": "14-18-2-4a",
+   "points": 1,
+   "name": "Unholy Endurance",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 300466
+  },
+  {
+   "id": "14-18-2-5",
+   "points": 1,
+   "name": "Bulwark of Azzinoth",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 705122
+  },
+  {
+   "id": "14-18-2-6a",
+   "points": 1,
+   "name": "Fel Torpedo",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 520853
+  },
+  {
+   "id": "14-18-1-5",
+   "points": 1,
+   "name": "Vengeance",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 520817
+  },
+  {
+   "id": "14-18-1-7",
+   "points": 1,
+   "name": "Doomscarring",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 685321
+  },
+  {
+   "id": "14-18-10-4",
+   "points": 1,
+   "name": "Hellfire Carver",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 707444
+  },
+  {
+   "id": "14-18-10-6",
+   "points": 1,
+   "name": "Felblade",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 574146
+  },
+  {
+   "id": "14-18-7-7",
+   "points": 1,
+   "name": "Eye of the Tyrant",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 560549
+  },
+  {
+   "id": "14-18-8-6",
+   "points": 1,
+   "name": "Expose",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 300474
+  },
+  {
+   "id": "14-18-0-6",
+   "points": 1,
+   "name": "Straight to the Nether",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 560503
+  },
+  {
+   "id": "14-18-2-8",
+   "points": 1,
+   "name": "Vengeance Is Mine",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 804822
+  },
+  {
+   "id": "14-18-2-9",
+   "points": 1,
+   "name": "Tyrannical Resolve",
+   "maxPoints": 1,
+   "tree": "Tyrant",
+   "spellId": 804823
+  }
+ ]
+}

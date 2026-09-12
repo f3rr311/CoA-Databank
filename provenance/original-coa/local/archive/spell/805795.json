@@ -1,0 +1,8 @@
+{
+  "name_enus": "Runic Quickness",
+  "icon": "inv_inscription_runescrolloffortitude_blue",
+  "tooltip_enus": "<table><tr><td><b>Runic Quickness</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Word</span> spells now activate 25% faster.</span></td></tr></table><!--?805795:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

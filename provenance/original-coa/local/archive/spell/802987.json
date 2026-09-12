@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wormskin",
+  "icon": "inv_fishing_innards_meat_ammonite",
+  "tooltip_enus": "<table><tr><td><b>Wormskin</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Whenever you or a permanent pet you control takes non-periodic damage, you have a chance to afflict the attacker with your Flesh to Worms <span style=\"color: #ff3232;\">Disease</span>. <br /><br />Only functions if you know the Flesh to Worms spell.</span></td></tr></table><!--?802987:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

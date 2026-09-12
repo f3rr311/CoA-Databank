@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mycosis",
+  "icon": "spell_druid_wildmushroom",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Mycosis</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>16% of base mana<br /><table width=\"100%\"><tr><td>2.5 sec cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Fungus grows throughout the body of an enemy, dealing 153+0+NatP*.65 Nature damage and applying a shield that absorbs the next 100+0+SP*2 healing done to them for 8&nbsp;sec.<br /><br />Deals 20% increased damage for each stack of <span style=\"color: #ffffff;\">Fungal Growth</span> on the target.</span></td></tr></table><!--?804986:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

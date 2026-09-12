@@ -1,0 +1,8 @@
+{
+  "name_enus": "End of Time",
+  "icon": "spell_priest_divinestar_shadow2",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>End of Time</b></td><th><b class=\"q0\">Specialization</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 50 Passive</span><br /><span style=\"color: #ffffff;\">Mind Melt</span> now also increases the target's periodic damage taken from you by 6% per stack.</span></td></tr></table><!--?704490:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

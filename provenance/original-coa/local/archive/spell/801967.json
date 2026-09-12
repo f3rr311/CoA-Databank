@@ -1,0 +1,8 @@
+{
+  "name_enus": "Abyssal Protection",
+  "icon": "ability_priest_darkness",
+  "tooltip_enus": "<table><tr><td><b>Abyssal Protection</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases your Stamina by 6% and reduces all magic damage taken by 4%.<br /><br />Taking melee damage has a 40% chance to heal allies within 15 yd of you for 4+(PL*0.5), scaling with Intellect and spell power. <br /><br />This effect cannot occur more than once every 10 sec.</span></td></tr></table><!--?801967:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

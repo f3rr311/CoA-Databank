@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dancing Flames",
+  "icon": "inv_misc_firedancer_01",
+  "tooltip_enus": "<table><tr><td><b>Dancing Flames</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Dealing direct Fire Damage to an enemy will spread <span style=\"color: #ffffff;\">Ignite</span>, <span style=\"color: #ffffff;\">Volcanic Burst</span> and <span style=\"color: #ffffff;\">Scalding Brand</span> from them to an additional nearby enemy.</span></td></tr></table><!--?805451:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

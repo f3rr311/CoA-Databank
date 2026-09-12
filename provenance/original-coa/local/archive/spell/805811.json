@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blind Stupor",
+  "icon": "ability_monk_drunkenhaze",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blind Stupor</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #FFFFFF;\">Keg Smash</span> now reduces enemies' casting speed by 30% for 15&nbsp;sec.</span></td></tr></table><!--?805811:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

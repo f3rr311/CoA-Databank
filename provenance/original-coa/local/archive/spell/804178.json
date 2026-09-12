@@ -1,0 +1,8 @@
+{
+  "name_enus": "Strike Where It Hurts",
+  "icon": "ability_hunter_killcommand",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Strike Where It Hurts</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your ability critical strikes now increase the damage the target takes from bleeds by 30% for 15&nbsp;sec.</span></td></tr></table><!--?804178:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

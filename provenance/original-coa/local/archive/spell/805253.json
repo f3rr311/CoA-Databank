@@ -1,0 +1,19 @@
+{
+  "name_enus": "Illidari Smite",
+  "icon": "inv_belt_leather_raiddemonhuntermythic_r_01",
+  "tooltip_enus": "<table><tr><td><b>Illidari Smite</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #93ccea;\">Consumes 1 Felfury</span><br />Blasts all enemies within $a1yd of the target for <!--sp500066:0-->AP*0.1+PL*1.44+12<!--sp500066--> Shadowflame Damage, scaling with <!--sp500066:0-->attack power<!--sp500066-->.<br /><br />Using <span style=\"color: #ffffff;\">Twin Slice</span> or <span style=\"color: #FFFFFF;\">Fel Fireball</span> on enemies recently affected by this causes bonus Shadowflame Damage and grants 0 Rage.<br /><br />Shares a cooldown with other Demon Hunter <span style=\"color: #ffffff;\">Smites</span>.</span></td></tr></table><!--?805253:1:1:80-->",
+  "spells_enus": {
+    "500066": [
+      [
+        "AP*0.1+PL*1.44+12",
+        "SP*0.35+PL*1.44+12"
+      ],
+      [
+        "attack power",
+        "spell power"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

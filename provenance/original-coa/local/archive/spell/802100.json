@@ -1,0 +1,8 @@
+{
+  "name_enus": "Veil of Darkness",
+  "icon": "spell_shadow_gathershadows",
+  "tooltip_enus": "<table><tr><td><b>Veil of Darkness</b><br />8% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Envelop a target in a shadowy voodoo veil, increasing the damage you deal to them by 15% for 15&nbsp;sec.<br /><br />If you are within 40 yds of the target you deal 194+1.7 Points Per Level+ShaP*0.1+AP*0.045 Shadow damage to them every 1.5 second.</span></td></tr></table><!--?802100:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

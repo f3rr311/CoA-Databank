@@ -1,0 +1,1813 @@
+{
+  "schema_version": "bytecoa-talent-adoption/1",
+  "snapshot": {
+    "id": "f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f",
+    "status": "REVIEW_REQUIRED",
+    "manifest_path": "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/snapshot-manifest.json",
+    "manifest_sha256": "d8802fad358b786427d4b6c7880aad1dc64294b8fcfe4ec9132f64d8e0b4a2bc",
+    "deterministic_set_sha256": "daa1147211d0ef75f6fdcc89015f967f003b5f3c5dd0fa27b71a2427ebd45a37"
+  },
+  "target": {
+    "class": "necromancer",
+    "scope": "class",
+    "tab_id": 87,
+    "key": "necromancer.class",
+    "name": "Necromancer class"
+  },
+  "source_allowlists": {
+    "source_node_keys": [
+      "23-87-0-5",
+      "23-87-1-1",
+      "23-87-1-4",
+      "23-87-1-6",
+      "23-87-1-8",
+      "23-87-1-9",
+      "23-87-2-0",
+      "23-87-2-2",
+      "23-87-2-3",
+      "23-87-2-5",
+      "23-87-2-7",
+      "23-87-3-1",
+      "23-87-3-6a",
+      "23-87-3-6b",
+      "23-87-3-9",
+      "23-87-4-0",
+      "23-87-4-2",
+      "23-87-4-3",
+      "23-87-4-4a",
+      "23-87-4-4b",
+      "23-87-4-5",
+      "23-87-4-7",
+      "23-87-4-8",
+      "23-87-5-1",
+      "23-87-5-6",
+      "23-87-5-9",
+      "23-87-6-0",
+      "23-87-6-2",
+      "23-87-6-3",
+      "23-87-6-5",
+      "23-87-6-7",
+      "23-87-7-1",
+      "23-87-7-4",
+      "23-87-7-6a",
+      "23-87-7-6b",
+      "23-87-7-8",
+      "23-87-7-9",
+      "23-87-8-5"
+    ],
+    "spell_ids": [],
+    "talent_ids": [],
+    "asset_keys": [],
+    "dependency_keys": [],
+    "dbc_record_keys": [],
+    "creature_ids": []
+  },
+  "sources": [
+    {
+      "key": "buildhub-necromancer-talents",
+      "kind": "buildhub_talent_tree",
+      "path": "coabuildhub/talents/necromancer.json",
+      "sha256": "e5a0ed486f81dd3cc9a060b2e05c2ec3a5b417115ab8a4c838df61f2a934c180",
+      "availability": "available",
+      "note": "Community topology and naming lead only; not mechanics authority."
+    },
+    {
+      "key": "original-coa-necromancer-archive",
+      "kind": "original_coa_guide",
+      "path": "content/provenance/original-coa/local/archive/coa_classes/necromancer.txt",
+      "sha256": "2a89abde742be4f352528d60c3b33b4ef6f4e2f7b7d34138f628acf9fe997235",
+      "availability": "available",
+      "note": "Archived class text is a historical design reference, not row-level mechanics authority."
+    },
+    {
+      "key": "necromancer-pilot-progression",
+      "kind": "assumption_bearing_design_guide",
+      "path": "content/provenance/original-coa/local/Necromancer-Pilot-Progression.md",
+      "sha256": "3a7616cf8eeb7e85a7612e49da025b4634014868587555443d7e80b3adaf63b1",
+      "availability": "available",
+      "note": "Assumption-bearing progression guidance; it cannot close donor mechanics."
+    },
+    {
+      "key": "necromancer-transcript-limit",
+      "kind": "transcript_inventory",
+      "path": "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/transcript-inventory.json",
+      "sha256": "a5a61e3d388580b860fc26ef2ef3976ab07211ab7b41addda1e2be85e3fdc690",
+      "availability": "available",
+      "expected_payload_path": "01-rL775c4_X2s.en.vtt",
+      "expected_payload_sha256": "307f26d28bd4df7e28a4d206ae5cc35e39dc1ac3e452600e070ca07b935a6bbf",
+      "completeness": "unverified",
+      "tail_status": "unverified",
+      "note": "The inventory entry is available, but the VTT payload is absent; no transcript-derived mechanics are claimed."
+    },
+    {
+      "key": "necromancer-selected-spell-dbc",
+      "kind": "selected_spell_dbc",
+      "path": "content/classes/necromancer/sources/Spell.selected.dbc.hex",
+      "sha256": "69e4ba36e51bd2b746c6043165b949ad1fd757bb169639b805588c52fa56affb",
+      "availability": "available",
+      "note": "Small existing curated donor WDBC; only individually allowlisted, fully closed rows are selected."
+    }
+  ],
+  "build_reference": {
+    "status": "not_cited",
+    "reason": "No donor build is cited; tab 87 is used only as a class-topology lead and has zero donor Essence rows.",
+    "cited_builds": []
+  },
+  "streams": [
+    {
+      "key": "palette-spells",
+      "kind": "spells",
+      "path": "content/provenance/original-coa/palette/spells.jsonl.gz",
+      "sha256": "24f8ec6ea839c106f2c832a3b84019a3815210e385ca8d524066ed38f0994bc4",
+      "availability": "available",
+      "key_field": "id",
+      "allowlist": "spell_ids",
+      "expected_rows": 238888
+    },
+    {
+      "key": "palette-dbc-records",
+      "kind": "dbc_records",
+      "path": "content/provenance/original-coa/palette/dbc-records.jsonl.gz",
+      "sha256": "5fb5d0e415ed17597a4d3cbed93d3b992ca81c2c2dd0f29600ac46a1b51ce52d",
+      "availability": "available",
+      "key_field": "id",
+      "allowlist": "dbc_record_keys",
+      "expected_rows": 119084
+    },
+    {
+      "key": "palette-spell-dependencies",
+      "kind": "spell_dependencies",
+      "path": "content/provenance/original-coa/palette/spell-dependencies.jsonl.gz",
+      "sha256": "1e84f7f70c659028f33ec4cddb81168091b7ac9400953f9619fc03d1a118d4cd",
+      "availability": "available",
+      "key_field": "spell_id",
+      "allowlist": "spell_ids",
+      "expected_rows": 238888
+    },
+    {
+      "key": "palette-client-assets",
+      "kind": "client_assets",
+      "path": "content/provenance/original-coa/palette/client-assets.jsonl.gz",
+      "sha256": "eb1613c924f143abe147a4352767b24c1d4bb6170fbf75e83218cbc8f7b545ce",
+      "availability": "available",
+      "key_field": "asset_path",
+      "allowlist": "asset_keys",
+      "expected_rows": 241850
+    },
+    {
+      "key": "palette-creatures",
+      "kind": "creatures",
+      "path": "content/provenance/original-coa/palette/creatures.jsonl.gz",
+      "sha256": "375f46afa682e1511a3abc37a56f08fa4242d6795a31f6040e011b926744b157",
+      "availability": "available",
+      "key_field": "id",
+      "allowlist": "creature_ids",
+      "expected_rows": 5269
+    }
+  ],
+  "decisions": [
+    {
+      "source_key": "23-87-0-5",
+      "target_key": "necromancer.class.node.23-87-0-5",
+      "source_name": "Gravedigger",
+      "target_name": "Reconstructed Class point lead: Gravedigger",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 0,
+        "y": 5,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 704715
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 6,
+        "column": 0,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-1-4"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-1-1",
+      "target_key": "necromancer.class.node.23-87-1-1",
+      "source_name": "Command: Hook",
+      "target_name": "Reconstructed Class point lead: Command: Hook",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 1,
+        "y": 1,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 504316
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 2,
+        "column": 1,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-2-0"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-1-4",
+      "target_key": "necromancer.class.node.23-87-1-4",
+      "source_name": "Phylactery",
+      "target_name": "Reconstructed Class point lead: Phylactery",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 1,
+        "y": 4,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 500933
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 5,
+        "column": 1,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-2-3"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-1-6",
+      "target_key": "necromancer.class.node.23-87-1-6",
+      "source_name": "Game of Bones",
+      "target_name": "Reconstructed Class point lead: Game of Bones",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 1,
+        "y": 6,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 301198
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 7,
+        "column": 1,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-0-5",
+          "necromancer.class.node.23-87-2-5"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-1-8",
+      "target_key": "necromancer.class.node.23-87-1-8",
+      "source_name": "Raise: Decaying Colossus",
+      "target_name": "Reconstructed Class point lead: Raise: Decaying Colossus",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 1,
+        "y": 8,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 500989
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 9,
+        "column": 1,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-2-7"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-1-9",
+      "target_key": "necromancer.class.node.23-87-1-9",
+      "source_name": "Command: Blight",
+      "target_name": "Reconstructed Class point lead: Command: Blight",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 1,
+        "y": 9,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 504050
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 10,
+        "column": 1,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-1-8"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-2-0",
+      "target_key": "necromancer.class.node.23-87-2-0",
+      "source_name": "Raise: Abomination",
+      "target_name": "Reconstructed Class Essence lead: Raise: Abomination",
+      "disposition": "reconstruct",
+      "rationale": "Selected as one of exactly three topology leads for a new ByteCOA Essence target. Its donor cost model, tooltip, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 2,
+        "y": 0,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 500335
+      },
+      "essence_target": true,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 0,
+        "column": 2,
+        "point_cost": 0,
+        "prerequisite_target_keys": [],
+        "connection_rule": "essence_root"
+      }
+    },
+    {
+      "source_key": "23-87-2-2",
+      "target_key": "necromancer.class.node.23-87-2-2",
+      "source_name": "Vampiric Aura",
+      "target_name": "Reconstructed Class point lead: Vampiric Aura",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 2,
+        "y": 2,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 300241
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 3,
+        "column": 2,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-1-1",
+          "necromancer.class.node.23-87-3-1"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-2-3",
+      "target_key": "necromancer.class.node.23-87-2-3",
+      "source_name": "Life For Power",
+      "target_name": "Reconstructed Class point lead: Life For Power",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 2,
+        "y": 3,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 705746
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 4,
+        "column": 2,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-2-2"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-2-5",
+      "target_key": "necromancer.class.node.23-87-2-5",
+      "source_name": "Reclaimed Life",
+      "target_name": "Reconstructed Class point lead: Reclaimed Life",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 2,
+        "y": 5,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 707670
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 6,
+        "column": 2,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-1-4",
+          "necromancer.class.node.23-87-4-4a",
+          "necromancer.class.node.23-87-4-4b"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-2-7",
+      "target_key": "necromancer.class.node.23-87-2-7",
+      "source_name": "Putrid Summoner",
+      "target_name": "Reconstructed Class point lead: Putrid Summoner",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 2,
+        "y": 7,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 560595
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 8,
+        "column": 2,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-1-6",
+          "necromancer.class.node.23-87-3-6a",
+          "necromancer.class.node.23-87-3-6b"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-3-1",
+      "target_key": "necromancer.class.node.23-87-3-1",
+      "source_name": "Hulking Hordes",
+      "target_name": "Reconstructed Class point lead: Hulking Hordes",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 3,
+        "y": 1,
+        "max_points": 2,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 300748
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 2,
+        "column": 3,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-2-0",
+          "necromancer.class.node.23-87-4-0"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-3-6a",
+      "target_key": "necromancer.class.node.23-87-3-6a",
+      "source_name": "Corpse Commander",
+      "target_name": "Reconstructed Class point lead: Corpse Commander",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 3,
+        "y": 6,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 707739
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 7,
+        "column": 3,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-4-5"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-3-6b",
+      "target_key": "necromancer.class.node.23-87-3-6b",
+      "source_name": "Lich Commander",
+      "target_name": "Reconstructed Class point lead: Lich Commander",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted. The donor topology leaves this node disconnected; the ByteCOA point path explicitly attaches it to necromancer.class.node.23-87-4-5 so it remains rooted in the reconstructed Essence structure without importing donor costs.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 3,
+        "y": 6,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 704713
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 7,
+        "column": 3,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-4-5"
+        ],
+        "connection_rule": "reconstructed_attachment"
+      }
+    },
+    {
+      "source_key": "23-87-3-9",
+      "target_key": "necromancer.class.node.23-87-3-9",
+      "source_name": "Study of Death",
+      "target_name": "Reconstructed Class point lead: Study of Death",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 3,
+        "y": 9,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 704721
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 10,
+        "column": 3,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-1-8",
+          "necromancer.class.node.23-87-4-8"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-4-0",
+      "target_key": "necromancer.class.node.23-87-4-0",
+      "source_name": "Fetid Ward",
+      "target_name": "Reconstructed Class Essence lead: Fetid Ward",
+      "disposition": "reconstruct",
+      "rationale": "Selected as one of exactly three topology leads for a new ByteCOA Essence target. Its donor cost model, tooltip, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 4,
+        "y": 0,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 680388
+      },
+      "essence_target": true,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 0,
+        "column": 4,
+        "point_cost": 0,
+        "prerequisite_target_keys": [],
+        "connection_rule": "essence_root"
+      }
+    },
+    {
+      "source_key": "23-87-4-2",
+      "target_key": "necromancer.class.node.23-87-4-2",
+      "source_name": "Living Dead",
+      "target_name": "Reconstructed Class point lead: Living Dead",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 4,
+        "y": 2,
+        "max_points": 2,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 302888
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 3,
+        "column": 4,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-3-1",
+          "necromancer.class.node.23-87-5-1"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-4-3",
+      "target_key": "necromancer.class.node.23-87-4-3",
+      "source_name": "Bone Tithe",
+      "target_name": "Reconstructed Class point lead: Bone Tithe",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 4,
+        "y": 3,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 802121
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 4,
+        "column": 4,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-2-2",
+          "necromancer.class.node.23-87-4-2",
+          "necromancer.class.node.23-87-6-2"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-4-4a",
+      "target_key": "necromancer.class.node.23-87-4-4a",
+      "source_name": "Tears of Lordaeron",
+      "target_name": "Reconstructed Class point lead: Tears of Lordaeron",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 4,
+        "y": 4,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 705752
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 5,
+        "column": 4,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-2-3",
+          "necromancer.class.node.23-87-4-3",
+          "necromancer.class.node.23-87-6-3"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-4-4b",
+      "target_key": "necromancer.class.node.23-87-4-4b",
+      "source_name": "Overwhelming Force",
+      "target_name": "Reconstructed Class point lead: Overwhelming Force",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted. The donor topology leaves this node disconnected; the ByteCOA point path explicitly attaches it to necromancer.class.node.23-87-4-0 so it remains rooted in the reconstructed Essence structure without importing donor costs.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 4,
+        "y": 4,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 531128
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 5,
+        "column": 4,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-4-0"
+        ],
+        "connection_rule": "reconstructed_attachment"
+      }
+    },
+    {
+      "source_key": "23-87-4-5",
+      "target_key": "necromancer.class.node.23-87-4-5",
+      "source_name": "Mass Grave",
+      "target_name": "Reconstructed Class point lead: Mass Grave",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 4,
+        "y": 5,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 803741
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 6,
+        "column": 4,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-4-4a",
+          "necromancer.class.node.23-87-4-4b"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-4-7",
+      "target_key": "necromancer.class.node.23-87-4-7",
+      "source_name": "Deadly Defense",
+      "target_name": "Reconstructed Class point lead: Deadly Defense",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 4,
+        "y": 7,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 300580
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 8,
+        "column": 4,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-3-6a",
+          "necromancer.class.node.23-87-3-6b",
+          "necromancer.class.node.23-87-5-6"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-4-8",
+      "target_key": "necromancer.class.node.23-87-4-8",
+      "source_name": "Foul Invocation",
+      "target_name": "Reconstructed Class point lead: Foul Invocation",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 4,
+        "y": 8,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 804371
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 9,
+        "column": 4,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-2-7",
+          "necromancer.class.node.23-87-4-7",
+          "necromancer.class.node.23-87-6-7"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-5-1",
+      "target_key": "necromancer.class.node.23-87-5-1",
+      "source_name": "Lich Essence",
+      "target_name": "Reconstructed Class point lead: Lich Essence",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 5,
+        "y": 1,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 802988
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 2,
+        "column": 5,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-4-0",
+          "necromancer.class.node.23-87-6-0"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-5-6",
+      "target_key": "necromancer.class.node.23-87-5-6",
+      "source_name": "Dead Man Walking",
+      "target_name": "Reconstructed Class point lead: Dead Man Walking",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 5,
+        "y": 6,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 300233
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 7,
+        "column": 5,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-4-5"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-5-9",
+      "target_key": "necromancer.class.node.23-87-5-9",
+      "source_name": "Raise: Banshee",
+      "target_name": "Reconstructed Class point lead: Raise: Banshee",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 5,
+        "y": 9,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 504861
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 10,
+        "column": 5,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-4-8",
+          "necromancer.class.node.23-87-7-8"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-6-0",
+      "target_key": "necromancer.class.node.23-87-6-0",
+      "source_name": "Glacial Tap",
+      "target_name": "Reconstructed Class Essence lead: Glacial Tap",
+      "disposition": "reconstruct",
+      "rationale": "Selected as one of exactly three topology leads for a new ByteCOA Essence target. Its donor cost model, tooltip, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 6,
+        "y": 0,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 805369
+      },
+      "essence_target": true,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 0,
+        "column": 6,
+        "point_cost": 0,
+        "prerequisite_target_keys": [],
+        "connection_rule": "essence_root"
+      }
+    },
+    {
+      "source_key": "23-87-6-2",
+      "target_key": "necromancer.class.node.23-87-6-2",
+      "source_name": "Create Frozen Reliquary",
+      "target_name": "Reconstructed Class point lead: Create Frozen Reliquary",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 6,
+        "y": 2,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 803772
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 3,
+        "column": 6,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-5-1",
+          "necromancer.class.node.23-87-7-1"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-6-3",
+      "target_key": "necromancer.class.node.23-87-6-3",
+      "source_name": "Ner'zhul's Blessing",
+      "target_name": "Reconstructed Class point lead: Ner'zhul's Blessing",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 6,
+        "y": 3,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 704729
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 4,
+        "column": 6,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-6-2"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-6-5",
+      "target_key": "necromancer.class.node.23-87-6-5",
+      "source_name": "Disciple of Kel'thuzad",
+      "target_name": "Reconstructed Class point lead: Disciple of Kel'thuzad",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 6,
+        "y": 5,
+        "max_points": 2,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 560615
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 6,
+        "column": 6,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-4-4a",
+          "necromancer.class.node.23-87-4-4b",
+          "necromancer.class.node.23-87-7-4"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-6-7",
+      "target_key": "necromancer.class.node.23-87-6-7",
+      "source_name": "Winds of Northrend",
+      "target_name": "Reconstructed Class point lead: Winds of Northrend",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 6,
+        "y": 7,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 301333
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 8,
+        "column": 6,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-5-6",
+          "necromancer.class.node.23-87-7-6a",
+          "necromancer.class.node.23-87-7-6b"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-7-1",
+      "target_key": "necromancer.class.node.23-87-7-1",
+      "source_name": "Icecrown Scriptures",
+      "target_name": "Reconstructed Class point lead: Icecrown Scriptures",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 7,
+        "y": 1,
+        "max_points": 2,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 300234
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 2,
+        "column": 7,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-6-0"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-7-4",
+      "target_key": "necromancer.class.node.23-87-7-4",
+      "source_name": "Death's Due",
+      "target_name": "Reconstructed Class point lead: Death's Due",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 7,
+        "y": 4,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 807796
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 5,
+        "column": 7,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-6-3"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-7-6a",
+      "target_key": "necromancer.class.node.23-87-7-6a",
+      "source_name": "Naxxramas Prodigy",
+      "target_name": "Reconstructed Class point lead: Naxxramas Prodigy",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 7,
+        "y": 6,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 560622
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 7,
+        "column": 7,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-6-5",
+          "necromancer.class.node.23-87-8-5"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-7-6b",
+      "target_key": "necromancer.class.node.23-87-7-6b",
+      "source_name": "Cobalt-Plated Armor",
+      "target_name": "Reconstructed Class point lead: Cobalt-Plated Armor",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted. The donor topology leaves this node disconnected; the ByteCOA point path explicitly attaches it to necromancer.class.node.23-87-6-5 so it remains rooted in the reconstructed Essence structure without importing donor costs.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 7,
+        "y": 6,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 300945
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 7,
+        "column": 7,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-6-5"
+        ],
+        "connection_rule": "reconstructed_attachment"
+      }
+    },
+    {
+      "source_key": "23-87-7-8",
+      "target_key": "necromancer.class.node.23-87-7-8",
+      "source_name": "Frost Runes",
+      "target_name": "Reconstructed Class point lead: Frost Runes",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 7,
+        "y": 8,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 705750
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 9,
+        "column": 7,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-6-7"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-7-9",
+      "target_key": "necromancer.class.node.23-87-7-9",
+      "source_name": "Animate: Frost Wyrm",
+      "target_name": "Reconstructed Class point lead: Animate: Frost Wyrm",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 7,
+        "y": 9,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 805428
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 10,
+        "column": 7,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-7-8"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    },
+    {
+      "source_key": "23-87-8-5",
+      "target_key": "necromancer.class.node.23-87-8-5",
+      "source_name": "Improved Mandates",
+      "target_name": "Reconstructed Class point lead: Improved Mandates",
+      "disposition": "reconstruct",
+      "rationale": "Reconstructed as a topology-only ByteCOA point-path lead with a unified one-point cost. Donor tooltip, rank cost, spell row, triggers, summons, and assets are not adopted.",
+      "evidence_refs": [
+        "buildhub-necromancer-talents",
+        "original-coa-necromancer-archive",
+        "necromancer-pilot-progression",
+        "necromancer-transcript-limit",
+        "necromancer-selected-spell-dbc"
+      ],
+      "source_topology": {
+        "x": 8,
+        "y": 5,
+        "max_points": 1,
+        "te_cost": 0,
+        "ae_cost": 1,
+        "spell_id": 560613
+      },
+      "essence_target": false,
+      "mechanics": {
+        "selected": false,
+        "status": "excluded",
+        "reason": "No donor mechanical row is selected; closure cannot be asserted from topology and unavailable transcript evidence.",
+        "dbc_row": null,
+        "dependency_closure": null,
+        "resolved_mechanics": null
+      },
+      "reviewer_state": "REVIEW_REQUIRED",
+      "target_topology": {
+        "tier": 6,
+        "column": 8,
+        "point_cost": 1,
+        "prerequisite_target_keys": [
+          "necromancer.class.node.23-87-7-4"
+        ],
+        "connection_rule": "source_dependency"
+      }
+    }
+  ],
+  "selected_mechanics": {
+    "spell_ids": [],
+    "talent_ids": [],
+    "asset_keys": [],
+    "dependency_keys": [],
+    "record_count": 0,
+    "spell_dbc_hex": "5744424300000000ea000000a80300000100000000",
+    "spell_dbc_sha256": "91ef5b9ef336295f810717b5dcd56f899f1bead67a22a620d484c4cbe6574574",
+    "dbc_record_keys": [],
+    "creature_ids": []
+  },
+  "counts": {
+    "source_nodes": 38,
+    "essence_targets": 3,
+    "selected_mechanical_rows": 0,
+    "adopted": 0,
+    "reconstructed": 38,
+    "rejected": 0,
+    "unknown_blocked": 0
+  },
+  "limitations": [
+    "The D069 snapshot remains REVIEW_REQUIRED and is not an accepted refresh.",
+    "No transcript-derived mechanical claim is made because the VTT payload is absent and completeness/tail are unverified.",
+    "No class source-node spell has a fully closed row in the curated selected WDBC; class decisions remain topology-only and REVIEW_REQUIRED.",
+    "Rime tab 60 is outside Task 11 and is not implied reviewed.",
+    "No donor build is cited; tab 87 is used only as a class-topology lead and has zero donor Essence rows."
+  ]
+}

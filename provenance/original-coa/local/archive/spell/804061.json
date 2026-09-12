@@ -1,0 +1,8 @@
+{
+  "name_enus": "Magebreaker",
+  "icon": "inv_magemount",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Magebreaker</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Dealing damage with <span style=\"color: #ffffff;\">Hurricane</span> now also reduces the targets Magic damage dealt by 15% for 8&nbsp;sec and dispels 1 harmful magic effect from you with each strike.</span></td></tr></table><!--?804061:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

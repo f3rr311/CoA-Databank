@@ -1,0 +1,434 @@
+{
+  "schema_version": 1,
+  "adjudications": {
+    "source-claimed-69-vs-named-70": {
+      "claimed_count": 69,
+      "adjudicated_count": 70,
+      "disposition": "preserve-all-distinct-named-specs",
+      "evidence": [
+        {
+          "source": "C:\\TrinityBots\\AscensionArchive\\CoA-Class-Roster.md",
+          "finding": "The archive summary asserts 21 classes / 69 specs but does not enumerate the specs."
+        },
+        {
+          "source": "C:\\TrinityBots\\AscensionArchive\\archive\\coa_classes\\*.txt",
+          "finding": "The 21 captured class-guide specialization blocks enumerate 70 named specs: fourteen classes list three and seven classes list four."
+        },
+        {
+          "source": "C:\\COA\\qa\\data\\branch-spec-lines.json",
+          "finding": "The recovered client DBC exposes three contiguous historical skill lines per class; it also records that seven fourth specs are absent from that older extract, so 63 DBC lines cannot disprove the later 70-name guide roster."
+        }
+      ]
+    }
+  },
+  "evidence": {
+    "archive-class-guides-2026-07": {
+      "tag": "DOCUMENTED",
+      "source": "C:\\TrinityBots\\AscensionArchive\\archive\\coa_classes\\*.txt",
+      "finding": "The captured July 2026 class-guide specialization blocks directly describe the combat job, mechanic, resource, armor affinity, and fantasy of all 70 named specs."
+    },
+    "ascension-packleader-tank": {
+      "tag": "DOCUMENTED",
+      "source": "https://ascension.gg/en/changelog/4?page=116",
+      "finding": "Ascension names Ravenous Bite Packleader among the tank-threat abilities and records Bloodmage among specs using the baseline tank threat modifier; an older changelog also records a Packleader node replacing Eternal Curse, the captured tank-stance spell."
+    },
+    "ascension-current-tank-specs": {
+      "tag": "DOCUMENTED",
+      "source": "https://ascension.gg/en/changelog/2026/04/28",
+      "finding": "The 2026-07-18 official changelog explicitly names Moon Guard, Seraphim, Mountain King, Fortitude, Defiance, Vanguard, Black Knight, and Dreadnought while adjusting their tank threat auras, and identifies Tyrant as a tank in the 2026-07-13 fix."
+    },
+    "ascension-starcaller-role-split": {
+      "tag": "DOCUMENTED",
+      "source": "https://ascension.gg/en/changelog/4?page=149",
+      "finding": "Ascension documents splitting Astral Warfare into Warden and Moon Guard; subsequent official changes place defensive and threat mechanics in Moon Guard and offensive blade mechanics in Warden."
+    },
+    "starcaller-warden-dps-adjudication": {
+      "tag": "INFERENCE",
+      "source": "https://ascension.gg/en/changelog/4?page=149 and https://ascension.gg/en/changelog/2026/04/28",
+      "finding": "Warden is adjudicated as melee DPS and Moon Guard as tank after their source tree was split.",
+      "reasoning": "The official split moves bulwark, resilience, avoidance, and later an explicit tank-threat aura into Moon Guard, while Warden receives offensive blade, precision, onslaught, and lethal-pursuit nodes. This supersedes the captured fan guide's stale sentence that calls Warden the tank."
+    },
+    "ascension-sun-cleric-role-split": {
+      "tag": "DOCUMENTED",
+      "source": "https://ascension.gg/pt/changelog/4?page=151",
+      "finding": "Ascension documents splitting the old Seraphim dual role into Seraphim and Valkyrie; the current threat-aura changelog identifies Seraphim as the tank, leaving Valkyrie as the melee DPS path described by the captured guide."
+    }
+  },
+  "classes": [
+    {
+      "id": "barbarian",
+      "source_category_id": 12,
+      "display_name": "Barbarian",
+      "source_slug": "barbarian",
+      "chassis": "warrior",
+      "resource": "Rage",
+      "armor_affinity": ["Leather"],
+      "provenance_status": "documented",
+      "roles": ["dps", "support"],
+      "specs": [
+        {"id": "barbarian.ancestry", "slug": "ancestry", "display_name": "Ancestry", "primary_role": "support", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "barbarian.brutality", "slug": "brutality", "display_name": "Brutality", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "barbarian.headhunting", "slug": "headhunting", "display_name": "Headhunting", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "witch-doctor",
+      "source_category_id": 13,
+      "display_name": "Witch Doctor",
+      "source_slug": "witch-doctor",
+      "chassis": "warlock",
+      "resource": "Mana",
+      "armor_affinity": ["Leather"],
+      "provenance_status": "documented",
+      "roles": ["dps", "healer"],
+      "specs": [
+        {"id": "witch-doctor.brewing", "slug": "brewing", "display_name": "Brewing", "primary_role": "healer", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "witch-doctor.voodoo", "slug": "voodoo", "display_name": "Voodoo", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "witch-doctor.shadowhunting", "slug": "shadowhunting", "display_name": "Shadowhunting", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "felsworn",
+      "source_category_id": 14,
+      "display_name": "Felsworn",
+      "source_slug": "felsworn",
+      "chassis": "warlock",
+      "resource": "Felfury",
+      "armor_affinity": ["Leather"],
+      "provenance_status": "documented",
+      "roles": ["dps", "tank"],
+      "specs": [
+        {"id": "felsworn.slaying", "slug": "slaying", "display_name": "Slaying", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "felsworn.infernal", "slug": "infernal", "display_name": "Infernal", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "felsworn.tyrant", "slug": "tyrant", "display_name": "Tyrant", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07", "ascension-current-tank-specs"]}
+      ]
+    },
+    {
+      "id": "witch-hunter",
+      "source_category_id": 15,
+      "display_name": "Witch Hunter",
+      "source_slug": "witch-hunter",
+      "chassis": "warrior",
+      "resource": "Focus",
+      "armor_affinity": ["Mail"],
+      "provenance_status": "documented",
+      "roles": ["dps", "tank"],
+      "specs": [
+        {"id": "witch-hunter.boltslinger", "slug": "boltslinger", "display_name": "Boltslinger", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "witch-hunter.inquisition", "slug": "inquisition", "display_name": "Inquisition", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {
+          "id": "witch-hunter.darkness",
+          "slug": "darkness",
+          "display_name": "Darkness",
+          "aliases": ["Houndmaster"],
+          "primary_role": "dps",
+          "provenance_status": "documented",
+          "role_evidence_refs": ["archive-class-guides-2026-07"]
+        },
+        {"id": "witch-hunter.black-knight", "slug": "black-knight", "display_name": "Black Knight", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07", "ascension-current-tank-specs"]}
+      ]
+    },
+    {
+      "id": "stormbringer",
+      "source_category_id": 16,
+      "display_name": "Stormbringer",
+      "source_slug": "stormbringer",
+      "chassis": "shaman",
+      "resource": "Static",
+      "armor_affinity": ["Cloth"],
+      "provenance_status": "documented",
+      "roles": ["dps", "support"],
+      "specs": [
+        {"id": "stormbringer.lightning", "slug": "lightning", "display_name": "Lightning", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "stormbringer.thunder", "slug": "thunder", "display_name": "Thunder", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "stormbringer.winds", "slug": "winds", "display_name": "Winds", "primary_role": "support", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "knight-of-xoroth",
+      "source_category_id": 17,
+      "display_name": "Knight of Xoroth",
+      "source_slug": "knight-of-xoroth",
+      "chassis": "death-knight",
+      "resource": "Deathfire",
+      "armor_affinity": ["Plate"],
+      "provenance_status": "documented",
+      "roles": ["dps", "tank"],
+      "specs": [
+        {"id": "knight-of-xoroth.war", "slug": "war", "display_name": "War", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "knight-of-xoroth.hellfire", "slug": "hellfire", "display_name": "Hellfire", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "knight-of-xoroth.defiance", "slug": "defiance", "display_name": "Defiance", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07", "ascension-current-tank-specs"]}
+      ]
+    },
+    {
+      "id": "guardian",
+      "source_category_id": 18,
+      "display_name": "Guardian",
+      "source_slug": "guardian",
+      "chassis": "paladin",
+      "resource": "Resolve",
+      "armor_affinity": ["Plate"],
+      "provenance_status": "documented",
+      "roles": ["dps", "tank", "support"],
+      "specs": [
+        {"id": "guardian.gladiator", "slug": "gladiator", "display_name": "Gladiator", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "guardian.vanguard", "slug": "vanguard", "display_name": "Vanguard", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07", "ascension-current-tank-specs"]},
+        {"id": "guardian.inspiration", "slug": "inspiration", "display_name": "Inspiration", "primary_role": "support", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "templar",
+      "source_category_id": 19,
+      "display_name": "Templar",
+      "source_slug": "templar",
+      "chassis": "warrior",
+      "resource": "Conviction",
+      "armor_affinity": ["Mail"],
+      "provenance_status": "documented",
+      "roles": ["dps", "tank"],
+      "specs": [
+        {"id": "templar.crusader", "slug": "crusader", "display_name": "Crusader", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "templar.martial", "slug": "martial", "display_name": "Martial", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "templar.discipline", "slug": "discipline", "display_name": "Discipline", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "bloodmage",
+      "source_category_id": 20,
+      "display_name": "Bloodmage",
+      "source_slug": "son-of-arugal",
+      "chassis": "mage",
+      "resource": "Rage / Vitality",
+      "armor_affinity": ["Leather"],
+      "provenance_status": "documented",
+      "roles": ["dps", "tank", "healer"],
+      "specs": [
+        {
+          "id": "bloodmage.ferocity",
+          "slug": "ferocity",
+          "display_name": "Ferocity",
+          "aliases": ["Accursed"],
+          "primary_role": "dps",
+          "provenance_status": "documented",
+          "role_evidence_refs": ["archive-class-guides-2026-07"]
+        },
+        {
+          "id": "bloodmage.blood",
+          "slug": "blood",
+          "display_name": "Blood",
+          "aliases": ["Sanguine"],
+          "primary_role": "dps",
+          "provenance_status": "documented",
+          "role_evidence_refs": ["archive-class-guides-2026-07"]
+        },
+        {"id": "bloodmage.packleader", "slug": "packleader", "display_name": "Packleader", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["ascension-packleader-tank"]},
+        {
+          "id": "bloodmage.fleshweaver",
+          "slug": "fleshweaver",
+          "display_name": "Fleshweaver",
+          "aliases": ["Eternal"],
+          "primary_role": "healer",
+          "provenance_status": "documented",
+          "role_evidence_refs": ["archive-class-guides-2026-07"]
+        }
+      ]
+    },
+    {
+      "id": "ranger",
+      "source_category_id": 21,
+      "display_name": "Ranger",
+      "source_slug": "ranger",
+      "chassis": "hunter",
+      "resource": "Focus",
+      "armor_affinity": ["Leather"],
+      "provenance_status": "documented",
+      "roles": ["dps", "support"],
+      "specs": [
+        {"id": "ranger.archery", "slug": "archery", "display_name": "Archery", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "ranger.brigand", "slug": "brigand", "display_name": "Brigand", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "ranger.farstrider", "slug": "farstrider", "display_name": "Farstrider", "primary_role": "support", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "chronomancer",
+      "source_category_id": 22,
+      "display_name": "Chronomancer",
+      "source_slug": "chronomancer",
+      "chassis": "mage",
+      "resource": "Temporal Energy",
+      "armor_affinity": ["Cloth"],
+      "provenance_status": "documented",
+      "roles": ["dps", "healer"],
+      "specs": [
+        {"id": "chronomancer.duality", "slug": "duality", "display_name": "Duality", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "chronomancer.artificer", "slug": "artificer", "display_name": "Artificer", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "chronomancer.displacement", "slug": "displacement", "display_name": "Displacement", "primary_role": "healer", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "necromancer",
+      "source_category_id": 23,
+      "display_name": "Necromancer",
+      "source_slug": "necromancer",
+      "chassis": "death-knight",
+      "resource": "Mana",
+      "armor_affinity": ["Cloth"],
+      "provenance_status": "documented",
+      "roles": ["dps"],
+      "specs": [
+        {"id": "necromancer.death", "slug": "death", "display_name": "Death", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "necromancer.animation", "slug": "animation", "display_name": "Animation", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "necromancer.rime", "slug": "rime", "display_name": "Rime", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "pyromancer",
+      "source_category_id": 24,
+      "display_name": "Pyromancer",
+      "source_slug": "pyromancer",
+      "chassis": "mage",
+      "resource": "Mana",
+      "armor_affinity": ["Cloth"],
+      "provenance_status": "documented",
+      "roles": ["dps", "healer"],
+      "specs": [
+        {"id": "pyromancer.incineration", "slug": "incineration", "display_name": "Incineration", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "pyromancer.draconic", "slug": "draconic", "display_name": "Draconic", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "pyromancer.flameweaving", "slug": "flameweaving", "display_name": "Flameweaving", "primary_role": "healer", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "cultist",
+      "source_category_id": 25,
+      "display_name": "Cultist",
+      "source_slug": "cultist",
+      "chassis": "warlock",
+      "resource": "Insanity",
+      "armor_affinity": ["Cloth", "Plate"],
+      "provenance_status": "documented",
+      "roles": ["dps", "healer", "tank"],
+      "specs": [
+        {"id": "cultist.godblade", "slug": "godblade", "display_name": "Godblade", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "cultist.corruption", "slug": "corruption", "display_name": "Corruption", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "cultist.influence", "slug": "influence", "display_name": "Influence", "primary_role": "healer", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "cultist.dreadnought", "slug": "dreadnought", "display_name": "Dreadnought", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07", "ascension-current-tank-specs"]}
+      ]
+    },
+    {
+      "id": "starcaller",
+      "source_category_id": 26,
+      "display_name": "Starcaller",
+      "source_slug": "starcaller",
+      "chassis": "priest",
+      "resource": "Starlight",
+      "armor_affinity": ["Mail", "Plate"],
+      "provenance_status": "documented",
+      "roles": ["dps", "healer", "tank"],
+      "specs": [
+        {"id": "starcaller.warden", "slug": "warden", "display_name": "Warden", "primary_role": "dps", "provenance_status": "inferred-from-documented", "role_evidence_refs": ["starcaller-warden-dps-adjudication"]},
+        {"id": "starcaller.sentinel", "slug": "sentinel", "display_name": "Sentinel", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07", "ascension-starcaller-role-split"]},
+        {"id": "starcaller.moon-priest", "slug": "moon-priest", "display_name": "Moon Priest", "primary_role": "healer", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "starcaller.moon-guard", "slug": "moon-guard", "display_name": "Moon Guard", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["ascension-starcaller-role-split", "ascension-current-tank-specs"]}
+      ]
+    },
+    {
+      "id": "sun-cleric",
+      "source_category_id": 27,
+      "display_name": "Sun Cleric",
+      "source_slug": "sun-cleric",
+      "chassis": "priest",
+      "resource": "Solar Power",
+      "armor_affinity": ["Cloth", "Plate"],
+      "provenance_status": "documented",
+      "roles": ["dps", "tank", "healer"],
+      "specs": [
+        {"id": "sun-cleric.piety", "slug": "piety", "display_name": "Piety", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "sun-cleric.seraphim", "slug": "seraphim", "display_name": "Seraphim", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["ascension-sun-cleric-role-split", "ascension-current-tank-specs"]},
+        {"id": "sun-cleric.blessings", "slug": "blessings", "display_name": "Blessings", "primary_role": "healer", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "sun-cleric.valkyrie", "slug": "valkyrie", "display_name": "Valkyrie", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07", "ascension-sun-cleric-role-split"]}
+      ]
+    },
+    {
+      "id": "tinker",
+      "source_category_id": 28,
+      "display_name": "Tinker",
+      "source_slug": "tinker",
+      "chassis": "hunter",
+      "resource": "Rounds",
+      "armor_affinity": ["Leather", "Mail"],
+      "provenance_status": "documented",
+      "roles": ["dps", "healer"],
+      "specs": [
+        {"id": "tinker.demolition", "slug": "demolition", "display_name": "Demolition", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "tinker.mechanics", "slug": "mechanics", "display_name": "Mechanics", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "tinker.invention", "slug": "invention", "display_name": "Invention", "primary_role": "healer", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "venomancer",
+      "source_category_id": 29,
+      "display_name": "Venomancer",
+      "source_slug": "venomancer",
+      "chassis": "priest",
+      "resource": "Toxins",
+      "armor_affinity": ["Leather", "Mail"],
+      "provenance_status": "documented",
+      "roles": ["dps", "healer", "tank"],
+      "specs": [
+        {"id": "venomancer.rot", "slug": "rot", "display_name": "Rot", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "venomancer.vizier", "slug": "vizier", "display_name": "Vizier", "primary_role": "healer", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "venomancer.stalking", "slug": "stalking", "display_name": "Stalking", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "venomancer.fortitude", "slug": "fortitude", "display_name": "Fortitude", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07", "ascension-current-tank-specs"]}
+      ]
+    },
+    {
+      "id": "reaper",
+      "source_category_id": 30,
+      "display_name": "Reaper",
+      "source_slug": "reaper",
+      "chassis": "death-knight",
+      "resource": "Souls",
+      "armor_affinity": ["Plate"],
+      "provenance_status": "documented",
+      "roles": ["dps", "tank"],
+      "specs": [
+        {"id": "reaper.harvest", "slug": "harvest", "display_name": "Harvest", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "reaper.soul", "slug": "soul", "display_name": "Soul", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "reaper.domination", "slug": "domination", "display_name": "Domination", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "primalist",
+      "source_category_id": 31,
+      "display_name": "Primalist",
+      "source_slug": "primalist",
+      "chassis": "paladin",
+      "resource": "Primal Energy",
+      "armor_affinity": ["Plate"],
+      "provenance_status": "documented",
+      "roles": ["dps", "tank", "healer"],
+      "specs": [
+        {"id": "primalist.geomancy", "slug": "geomancy", "display_name": "Geomancy", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "primalist.mountain-king", "slug": "mountain-king", "display_name": "Mountain King", "primary_role": "tank", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07", "ascension-current-tank-specs"]},
+        {"id": "primalist.wildwalker", "slug": "wildwalker", "display_name": "Wildwalker", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "primalist.life", "slug": "life", "display_name": "Life", "primary_role": "healer", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    },
+    {
+      "id": "runemaster",
+      "source_category_id": 32,
+      "display_name": "Runemaster",
+      "source_slug": "runemaster",
+      "chassis": "rogue",
+      "resource": "Runes",
+      "armor_affinity": ["Cloth"],
+      "provenance_status": "documented",
+      "roles": ["dps"],
+      "specs": [
+        {"id": "runemaster.spellslinger", "slug": "spellslinger", "display_name": "Spellslinger", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "runemaster.riftblade", "slug": "riftblade", "display_name": "Riftblade", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]},
+        {"id": "runemaster.conjuration", "slug": "conjuration", "display_name": "Conjuration", "primary_role": "dps", "provenance_status": "documented", "role_evidence_refs": ["archive-class-guides-2026-07"]}
+      ]
+    }
+  ]
+}

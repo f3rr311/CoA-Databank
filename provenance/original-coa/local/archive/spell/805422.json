@@ -1,0 +1,8 @@
+{
+  "name_enus": "Tome of Light",
+  "icon": "inv_misc_book_17",
+  "tooltip_enus": "<table><tr><td><b>Tome of Light</b><br /><table width=\"100%\"><tr><td>Instant</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Grants a shield equal to 100% of your maximum health for 30&nbsp;sec, resets the cooldown of <span style=\"color: #ffffff;\">Barrier of Light</span> and <span style=\"color: #ffffff;\">Tranquil Circle</span>, and grants an additional effect for each.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/misc_legionfall_paladin.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=806354'> Tome of Light: Barrier of Light </a> <br />\n                            <span> Your next <span style=\"color: #ffffff;\">Barrier of Light</span> within 30&nbsp;sec removes the <span style=\"color: #ffffff;\">Oathkeeper</span> stagger debuff.</span><br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_priest_chakra.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=807004'> Tome of Light: Tranquil Circle </a> <br />\n                            <span> Your next <span style=\"color: #ffffff;\">Tranquil Circle</span> within 30&nbsp;sec triggers instantly.</span><br /></span></td></tr></table><!--?805422:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

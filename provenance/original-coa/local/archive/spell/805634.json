@@ -1,0 +1,8 @@
+{
+  "name_enus": "Tectonic Shield",
+  "icon": "inv_shield_02",
+  "tooltip_enus": "<table><tr><td><b>Tectonic Shield</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Gives successful blocks a 35% chance to remove a stack of <span style=\"color: #ffffff;\">Tectonic Shift</span>.</span></td></tr></table><!--?805634:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

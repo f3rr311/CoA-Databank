@@ -1,0 +1,15 @@
+{
+  "name_enus": "Toxic Sludge",
+  "icon": "achievment_boss_wellofeternity",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Toxic Sludge</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>40 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>12&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Place a toxic pool on the ground for 6&nbsp;sec, instantly <span style=\"color: #ff4500;\">Burning</span> enemies inside for 37 Nature Damage.<br /><br />Enemies in the pool take 16 Nature Damage every 3 sec, and have 50% reduced movement speed.<!--sp705991:0--><!--sp705991--></span></td></tr></table><!--?803201:1:1:80-->",
+  "spells_enus": {
+    "705991": [
+      [
+        "",
+        "<br /><br />Allies in the pool are healed for 4 to 5 every 2 sec and take 5% increased healing."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hodir's Wrath",
+  "icon": "achievement_dungeon_ulduarraid_icegiant_01",
+  "tooltip_enus": "<table><tr><td><b>Hodir's Wrath</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Erupt with the power of Hodir, dealing 1361+0+AP*1.2 Frost damage to nearby enemies and restoring 100% of your maximum Energy.</span></td></tr></table><!--?800152:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Might of Aggramar",
+  "icon": "spell_holy_innerfire",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Might of Aggramar</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Physical damage dealt now has a 25% chance to increase the tick rate and reduce cooldown of your next <span style=\"color: #ffffff;\">Blade of Faith</span> by 10%, stacking 5 times.</span></td></tr></table><!--?803163:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

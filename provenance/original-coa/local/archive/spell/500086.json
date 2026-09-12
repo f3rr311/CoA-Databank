@@ -1,0 +1,21 @@
+{
+  "name_enus": "Daring Escape",
+  "icon": "_d3vault",
+  "tooltip_enus": "<table><tr><td><b>Daring Escape</b><br />21% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Jump backwards, causing all ranged attacks to miss you for 2&nbsp;sec. <!--sp500901:0--><!--sp500901--><!--sp705490:0--><!--sp705490--></span></td></tr></table><!--?500086:1:1:80-->",
+  "spells_enus": {
+    "500901": [
+      [
+        "",
+        "<br /><br />Your next <span style=\"color: #ffffff\">Bolt</span> within 3&nbsp;sec will knock your enemy back."
+      ]
+    ],
+    "705490": [
+      [
+        "",
+        "<br /><br />Resets the cooldown of <span style=\"color: #ffffff\">Vault</span> and generates 10 Rage."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

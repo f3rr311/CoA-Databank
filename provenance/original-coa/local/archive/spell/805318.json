@@ -1,0 +1,8 @@
+{
+  "name_enus": "Take Aim",
+  "icon": "ability_hunter_lockandload",
+  "tooltip_enus": "<table><tr><td><b>Take Aim</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cast time of <span style=\"color: #ffffff;\">Snipe</span> by 75%, increases its damage by 100%, and guarantees it to critically strike for 6&nbsp;sec.</span></td></tr></table><!--?805318:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

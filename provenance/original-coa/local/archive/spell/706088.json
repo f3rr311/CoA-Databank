@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Time Stop",
+  "icon": "spell_frost_stun",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Improved Time Stop</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #FFFFFF;\">Mend Timeline</span> by 5 sec.</span></td></tr></table><!--?706088:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

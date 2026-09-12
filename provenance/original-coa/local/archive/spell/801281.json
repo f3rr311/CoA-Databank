@@ -1,0 +1,15 @@
+{
+  "name_enus": "Gravity Bomb",
+  "icon": "skill_icon_skill42_border",
+  "tooltip_enus": "<table><tr><td><b>Gravity Bomb</b><br />36% of base mana<br /><table width=\"100%\"><tr><td>1.5 sec cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Place a gravity bomb on the target. After 6&nbsp;sec they explode for (967+7.0 Points Per Level+SP*1.2+RAP*0.3) Chromatic Damage in a 10 yds radius.<br /><br />Directly before the explosion occurs, all enemies within 15 yds are teleported to the initial target.<!--sp706062:0--><!--sp706062--></span></td></tr></table><!--?801281:1:1:80-->",
+  "spells_enus": {
+    "706062": [
+      [
+        "",
+        "<br /><br />The initial target takes 0% increased damage from you during the delay."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

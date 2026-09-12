@@ -1,0 +1,8 @@
+{
+  "name_enus": "Annihilation",
+  "icon": "spell_fire_felpyroblast",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Annihilation</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>2 sec cast</td><th>25&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Launch chaotic magic at an enemy over 2.5&nbsp;sec, dealing 1+1.0 Points Per Level+SP*.35 Chaos Damage every 0.5 sec. <br /><br />Your Energy regeneration is increased by 100% for the duration. <br /><br />Usable while moving.<br /><br /><span style=\"color: #32cd32;\">Inner Demon</span>: Grants you <span style=\"color: #ffffff;\">Sculptor of Doom</span>.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/achievement_boss_argus_felreaver.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=555277'> Sculptor of Doom </a> <br />\n                            <span> Your next <span style=\"color: #FFFFFF;\">Ruin</span> within 8&nbsp;sec is instant cast.</span><br /></span></td></tr></table><!--?802059:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

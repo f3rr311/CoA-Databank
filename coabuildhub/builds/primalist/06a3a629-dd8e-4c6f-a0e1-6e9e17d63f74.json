@@ -1,0 +1,914 @@
+{
+ "build": {
+  "id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+  "title": "Wildwalker AoE Dungeon Build",
+  "description": "[overview]\nThis is an AoE-focused build with decent single-target for bosses with CDs. I've only been playing Primalist since the project started and have tried min-maxing different builds for each melee spec.\n\n[talents]\nKey talents here are Pulverize, Elemental Berserker, Totemic Echoes, Torn to Shreds, Spiritual Frenzy, Wild Carnage, and Totem Warrior.\n\nFlex talents can be Wild At Heart; this talent is only good if you can keep your rage up to spam Wildclaws fast enough. If you need more single-target damage for raids, remove Wild Carnage with Rylak's Blessing.\n\n[rotation]\nKey Rotation:\n\nOpen with Grove Guardian>Totemic Smash> Primal Shred>Boulder Dash>Seismic Spike. Then spam Wildclaws until Totemic Smash is off CD.\n \nMaintain Primal Shred and Torn to Shreds on all targets for rage/procs, and keep Wild Carnage buffed up every 6s by using Seismic Spike.\n\nST: Same opener, but instead of Seismic Spike, use Seismic Crash unless you need to cleave. Pop Primal Convergence and Savage Frenzy to increase DPS. \n\n*Grove Guardians is uncapped aoe dps and should always be taken.\n\n[stats]\nAttack Power and Strength will be your top stats. \n\nCrit will be your best secondary stat since we use Wildclaws as a substitute for attack speed.\n\nBe sure to get hit capped and some expertise.*\n\n\n\n\n* Still working on bis gear list and stats.\n\n[tips]\nI highly recommend running your pet on passive and macro /petattack into your key ST abilities.\n\nBIS Pet: Wolf; it has a 20s AOE attack power buff on a 40s CD and an additional 20s 10% attack power buff on a 5-minute CD.",
+  "class_id": 31,
+  "spec_id": 82,
+  "author_id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+  "talent_string": "W1siMzEtODctNC0wIiwxXSxbIjMxLTg3LTMtMSIsMV0sWyIzMS04Ny0xLTIiLDJdLFsiMzEtODctNC0yIiwxXSxbIjMxLTg3LTQtMyIsMV0sWyIzMS04Ny02LTMiLDFdLFsiMzEtODctNS0xIiwxXSxbIjMxLTg3LTctMiIsMl0sWyIzMS04Ny03LTAiLDFdLFsiMzEtODctNy0xYiIsMV0sWyIzMS04Ny02LTRiIiwxXSxbIjMxLTg3LTQtNSIsMV0sWyIzMS04Ny0yLTRiIiwxXSxbIjMxLTg3LTMtNiIsMV0sWyIzMS04Ny0yLTdiIiwxXSxbIjMxLTg3LTQtNyIsMV0sWyIzMS04Ny01LTYiLDFdLFsiMzEtODctNi03IiwxXSxbIjMxLTg3LTctNSIsMl0sWyIzMS04Ny03LTYiLDFdLFsiMzEtODctMS01IiwxXSxbIjMxLTg3LTEtOCIsMV0sWyIzMS04Ny0yLTkiLDFdLFsiMzEtODItNC0wIiwxXSxbIjMxLTgyLTQtMSIsMV0sWyIzMS04Mi0xMC0wIiwxXSxbIjMxLTgyLTEwLTIiLDFdLFsiMzEtODItNi0yIiwxXSxbIjMxLTgyLTItMiIsMV0sWyIzMS04Mi0xLTMiLDJdLFsiMzEtODItMy0zIiwxXSxbIjMxLTgyLTUtMyIsMl0sWyIzMS04Mi03LTMiLDFdLFsiMzEtODItOC00IiwxXSxbIjMxLTgyLTgtNSIsMV0sWyIzMS04Mi03LTYiLDFdLFsiMzEtODItNC00YSIsMV0sWyIzMS04Mi00LTUiLDFdLFsiMzEtODItMy02YSIsMV0sWyIzMS04Mi0yLTUiLDFdLFsiMzEtODItMC00IiwxXSxbIjMxLTgyLTAtNSIsMV0sWyIzMS04Mi0yLTciLDFdLFsiMzEtODItNi01IiwyXSxbIjMxLTgyLTUtNmEiLDFdLFsiMzEtODItMy04IiwxXSxbIjMxLTgyLTEtOCIsMV0sWyIzMS04Mi0xMC00IiwxXSxbIjMxLTgyLTEwLTYiLDFdLFsiMzEtODItMTAtOCIsMV1d",
+  "tags": [
+   "leveling",
+   "aoe",
+   "dungeon",
+   "cleave"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 4,
+  "downvotes": 0,
+  "comment_count": 10,
+  "created_at": "2026-07-17T20:29:37.198323+00:00",
+  "updated_at": "2026-07-21T07:44:46.649+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 5772,
+  "net_score": 4,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+   "username": "Sikotics",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIzTag4zIWh4cy9dGR2YVW0pLT3YLmp8Mo6X7E4S1QPNCObnak2=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "fb58fb05-9974-4598-b0ad-27cbc06d9910",
+   "build_id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "author_id": "27c57794-7464-4f12-b003-09eec557dc42",
+   "parent_id": null,
+   "body": "DW or 2H?\n\nalso do you ever cast earth quake?",
+   "upvotes": 1,
+   "created_at": "2026-07-20T05:19:28.670883+00:00",
+   "updated_at": "2026-07-20T07:38:14.879767+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "27c57794-7464-4f12-b003-09eec557dc42",
+    "username": "Thomas Abrahams",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5bujaV-jAID2Js8dpzBVYuJWK05tTAXYbr169phJoGepqDPEN=s96-c"
+   }
+  },
+  {
+   "id": "004b75a8-fbfd-439e-adcd-270efea2b796",
+   "build_id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "author_id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+   "parent_id": "fb58fb05-9974-4598-b0ad-27cbc06d9910",
+   "body": "I’ve primarily played with 2H as it makes your Wildclaws hit harder, which is good aoe cleave. As DW, I notice that spiritual frenzy is much higher on my meter meaning our kit is putting more reliance on the pet and micro’ing it.\n\nThe only time I’d suggest casting earthquake is while leveling and mostly pre-pull. The damage is about the same as getting off a couple wildclaws or a totemic smash and the cast time is rather long since we want to prioritize crit.",
+   "upvotes": 0,
+   "created_at": "2026-07-20T07:38:10.168305+00:00",
+   "updated_at": "2026-07-20T07:38:10.168305+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+    "username": "Sikotics",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIzTag4zIWh4cy9dGR2YVW0pLT3YLmp8Mo6X7E4S1QPNCObnak2=s96-c"
+   }
+  },
+  {
+   "id": "44a09c04-8c66-47e0-bb22-6a91a8a9b523",
+   "build_id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "author_id": "5a0023e8-7686-4f95-9d29-ad9818d65fb3",
+   "parent_id": null,
+   "body": "Thanks for the build. Do you not use Rylak's Bite even in single target?",
+   "upvotes": 1,
+   "created_at": "2026-07-21T09:20:37.112651+00:00",
+   "updated_at": "2026-07-21T23:04:52.228575+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "5a0023e8-7686-4f95-9d29-ad9818d65fb3",
+    "username": "boatmurder",
+    "avatar_url": "https://cdn.discordapp.com/avatars/439183127680647169/ed32035a331e9657488925986bcb8f15.png"
+   }
+  },
+  {
+   "id": "8ac5f935-2ab0-4345-a071-7e93b5dc59fb",
+   "build_id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "author_id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+   "parent_id": "44a09c04-8c66-47e0-bb22-6a91a8a9b523",
+   "body": "I use Rylak's Bite as a rage builder in ST or for movement. In a ST build you'd get rid of Totem Warrior and Wild Carnage to take Rylak's Blessing and Rexxar's Might, then you'd use it Rylak's Bite on CD to maintain pet stacks.",
+   "upvotes": 0,
+   "created_at": "2026-07-21T23:04:48.845268+00:00",
+   "updated_at": "2026-07-21T23:04:48.845268+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+    "username": "Sikotics",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIzTag4zIWh4cy9dGR2YVW0pLT3YLmp8Mo6X7E4S1QPNCObnak2=s96-c"
+   }
+  },
+  {
+   "id": "7f5f8ff4-83f9-4a4f-b3c9-cb08a93cb43a",
+   "build_id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "author_id": "f5fd03dd-a49f-470c-9abd-e80e6d961d62",
+   "parent_id": null,
+   "body": "Why not go for Son of Ursoc? To have Savage Frenzy (20% flat dmg increase) on a shorter cd seems pretty good to me",
+   "upvotes": 0,
+   "created_at": "2026-07-25T08:49:20.53769+00:00",
+   "updated_at": "2026-07-25T08:49:20.53769+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "f5fd03dd-a49f-470c-9abd-e80e6d961d62",
+    "username": "_felixw_",
+    "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+   }
+  },
+  {
+   "id": "78023a39-1f67-4bc7-b01a-45d4149cf826",
+   "build_id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "author_id": "02b1a3ed-b5d2-426f-aeb1-b98a6de6545e",
+   "parent_id": null,
+   "body": "Do pet talents matter other than Rabid and Call of the Wild? Could you share your pet talent tree?",
+   "upvotes": 0,
+   "created_at": "2026-07-25T22:10:49.729156+00:00",
+   "updated_at": "2026-07-25T22:10:49.729156+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "02b1a3ed-b5d2-426f-aeb1-b98a6de6545e",
+    "username": ".circa",
+    "avatar_url": "https://cdn.discordapp.com/avatars/95567175045087232/4cbf3de9bf147f6ec0501524c7d47a07.png"
+   }
+  },
+  {
+   "id": "5ba04822-d6ce-4bf6-a421-8636e9dfac18",
+   "build_id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "author_id": "e45ac821-af6d-41b8-9a66-ef97e408eb35",
+   "parent_id": "78023a39-1f67-4bc7-b01a-45d4149cf826",
+   "body": "?? pets don't have talents in COA",
+   "upvotes": 0,
+   "created_at": "2026-07-27T18:40:24.670271+00:00",
+   "updated_at": "2026-07-30T18:09:02.54144+00:00",
+   "downvotes": 3,
+   "hidden": false,
+   "author": {
+    "id": "e45ac821-af6d-41b8-9a66-ef97e408eb35",
+    "username": "Kevin B",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7ogGNWyMBHvEU3zm3NISTt44u0eUM9jgMd-aWJ-n1uGyXpRND=s96-c"
+   }
+  },
+  {
+   "id": "481c4ac4-2e5a-47fd-ba07-fcc7aca5348f",
+   "build_id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "author_id": "ec87bbc7-ab73-4f78-8a92-eb1b5892a287",
+   "parent_id": null,
+   "body": "Wildwalker Pets are like Hunter pets from Wrath so they do have a talent tree, if you right click on them and click talents you can spec them they have 3 trees Cunning, Tenacity and Ferocity",
+   "upvotes": 0,
+   "created_at": "2026-07-27T23:58:21.901412+00:00",
+   "updated_at": "2026-07-27T23:58:21.901412+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ec87bbc7-ab73-4f78-8a92-eb1b5892a287",
+    "username": "Colin Greenstein",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1PXEH7u3o4E8atD5DbuA7S2e06f9tPhvUAmSXc84gfH-p_fM=s96-c"
+   }
+  },
+  {
+   "id": "e68e36b0-f6cb-4c5f-8415-17894342abe6",
+   "build_id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "author_id": "2857d72a-fd75-4f5a-922e-d4117aed8855",
+   "parent_id": "78023a39-1f67-4bc7-b01a-45d4149cf826",
+   "body": "Ignore the dude who says pets dont have talents. I go cobra reflex, its maths out to about a 10% dmg increase from the pet, culling the herd, spiders bite, call of the wild, wild hunt, dash and boars speed (the goddamn pet is always lagging behind), and one point of Stamina.  I didn't realize there was a pet tree till level 57",
+   "upvotes": 1,
+   "created_at": "2026-07-28T03:46:21.45852+00:00",
+   "updated_at": "2026-07-30T15:59:12.409666+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "2857d72a-fd75-4f5a-922e-d4117aed8855",
+    "username": "jim beam",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLfqYAweTnV2uv5PyRlBhoHVBSthq-Bmc2qAvfUfZKy4iXy1Q=s96-c"
+   }
+  },
+  {
+   "id": "2e766dd6-ad8f-4eb1-89e4-57bf6b7b180a",
+   "build_id": "06a3a629-dd8e-4c6f-a0e1-6e9e17d63f74",
+   "author_id": "c3164c6a-d4b3-4470-970b-c31563b12cd6",
+   "parent_id": null,
+   "body": "I saw you said you run 2H, does the Totem Warrior talent work then? Or should I swap that out?",
+   "upvotes": 0,
+   "created_at": "2026-07-28T04:24:21.959426+00:00",
+   "updated_at": "2026-07-28T04:24:21.959426+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "c3164c6a-d4b3-4470-970b-c31563b12cd6",
+    "username": "m.ase",
+    "avatar_url": "https://cdn.discordapp.com/avatars/213576419949805568/6f6e341f391c08c6286e194d583f2043.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "a6b42d1d-6de0-4bda-bf92-486e548cda10",
+   "title": "Grovekeeper",
+   "class_id": 31,
+   "spec_id": 84,
+   "author_id": "88f7972c-4247-47d7-86f5-5a913bfbc334",
+   "tags": [],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 329,
+   "featured": false,
+   "created_at": "2026-07-27T19:11:52.96072+00:00",
+   "updated_at": "2026-07-27T19:11:52.96072+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "88f7972c-4247-47d7-86f5-5a913bfbc334",
+    "username": "syco.0",
+    "avatar_url": "https://cdn.discordapp.com/avatars/599713139919028226/5aebe09d72c1c090f2d3908143a74309.png"
+   }
+  },
+  {
+   "id": "604248d9-5113-4057-9363-af68741259e8",
+   "title": "Optimal Build for Raids/M0",
+   "class_id": 31,
+   "spec_id": 91,
+   "author_id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+   "tags": [
+    "Primalist",
+    "Mountain King",
+    "Tank",
+    "Guide",
+    "PvE",
+    "Raids",
+    "Dungeons",
+    "World Bosses",
+    "General Purpose"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 12,
+   "downvotes": 0,
+   "comment_count": 5,
+   "view_count": 3354,
+   "featured": false,
+   "created_at": "2026-07-20T21:15:32.714729+00:00",
+   "updated_at": "2026-07-26T12:03:15.901+00:00",
+   "has_talents": true,
+   "guide_section_count": 8,
+   "author": {
+    "id": "cf5b9e2f-27eb-44a9-af53-3c28562aa589",
+    "username": "leadfootjames",
+    "avatar_url": "https://cdn.discordapp.com/avatars/126074738341707778/3775742f0199adcc2184553650a5ad07.png"
+   }
+  },
+  {
+   "id": "63ed0949-23e7-4c9b-9a51-97da32585a8b",
+   "title": "Mountain King Dungeon + AoE Farming build",
+   "class_id": 31,
+   "spec_id": 91,
+   "author_id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+   "tags": [
+    "raid",
+    "leveling",
+    "farming",
+    "dungeon"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2525,
+   "featured": false,
+   "created_at": "2026-07-17T21:01:47.64848+00:00",
+   "updated_at": "2026-07-17T21:01:47.64848+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "ce0bd217-95b6-4467-8c1e-555c2cd4289e",
+    "username": "Sikotics",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIzTag4zIWh4cy9dGR2YVW0pLT3YLmp8Mo6X7E4S1QPNCObnak2=s96-c"
+   }
+  }
+ ],
+ "class": "Primalist",
+ "spec": "Primal",
+ "allocations": [
+  [
+   "31-87-4-0",
+   1
+  ],
+  [
+   "31-87-3-1",
+   1
+  ],
+  [
+   "31-87-1-2",
+   2
+  ],
+  [
+   "31-87-4-2",
+   1
+  ],
+  [
+   "31-87-4-3",
+   1
+  ],
+  [
+   "31-87-6-3",
+   1
+  ],
+  [
+   "31-87-5-1",
+   1
+  ],
+  [
+   "31-87-7-2",
+   2
+  ],
+  [
+   "31-87-7-0",
+   1
+  ],
+  [
+   "31-87-7-1b",
+   1
+  ],
+  [
+   "31-87-6-4b",
+   1
+  ],
+  [
+   "31-87-4-5",
+   1
+  ],
+  [
+   "31-87-2-4b",
+   1
+  ],
+  [
+   "31-87-3-6",
+   1
+  ],
+  [
+   "31-87-2-7b",
+   1
+  ],
+  [
+   "31-87-4-7",
+   1
+  ],
+  [
+   "31-87-5-6",
+   1
+  ],
+  [
+   "31-87-6-7",
+   1
+  ],
+  [
+   "31-87-7-5",
+   2
+  ],
+  [
+   "31-87-7-6",
+   1
+  ],
+  [
+   "31-87-1-5",
+   1
+  ],
+  [
+   "31-87-1-8",
+   1
+  ],
+  [
+   "31-87-2-9",
+   1
+  ],
+  [
+   "31-82-4-0",
+   1
+  ],
+  [
+   "31-82-4-1",
+   1
+  ],
+  [
+   "31-82-10-0",
+   1
+  ],
+  [
+   "31-82-10-2",
+   1
+  ],
+  [
+   "31-82-6-2",
+   1
+  ],
+  [
+   "31-82-2-2",
+   1
+  ],
+  [
+   "31-82-1-3",
+   2
+  ],
+  [
+   "31-82-3-3",
+   1
+  ],
+  [
+   "31-82-5-3",
+   2
+  ],
+  [
+   "31-82-7-3",
+   1
+  ],
+  [
+   "31-82-8-4",
+   1
+  ],
+  [
+   "31-82-8-5",
+   1
+  ],
+  [
+   "31-82-7-6",
+   1
+  ],
+  [
+   "31-82-4-4a",
+   1
+  ],
+  [
+   "31-82-4-5",
+   1
+  ],
+  [
+   "31-82-3-6a",
+   1
+  ],
+  [
+   "31-82-2-5",
+   1
+  ],
+  [
+   "31-82-0-4",
+   1
+  ],
+  [
+   "31-82-0-5",
+   1
+  ],
+  [
+   "31-82-2-7",
+   1
+  ],
+  [
+   "31-82-6-5",
+   2
+  ],
+  [
+   "31-82-5-6a",
+   1
+  ],
+  [
+   "31-82-3-8",
+   1
+  ],
+  [
+   "31-82-1-8",
+   1
+  ],
+  [
+   "31-82-10-4",
+   1
+  ],
+  [
+   "31-82-10-6",
+   1
+  ],
+  [
+   "31-82-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "31-87-4-0",
+   "points": 1,
+   "name": "Primal Rush",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 500696
+  },
+  {
+   "id": "31-87-3-1",
+   "points": 1,
+   "name": "Environmentalist",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 300729
+  },
+  {
+   "id": "31-87-1-2",
+   "points": 2,
+   "name": "Bountiful Boons",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 706203
+  },
+  {
+   "id": "31-87-4-2",
+   "points": 1,
+   "name": "Keen Senses",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 806533
+  },
+  {
+   "id": "31-87-4-3",
+   "points": 1,
+   "name": "Primal Convergence",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800181
+  },
+  {
+   "id": "31-87-6-3",
+   "points": 1,
+   "name": "Rock Barrier",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 503630
+  },
+  {
+   "id": "31-87-5-1",
+   "points": 1,
+   "name": "Tectonic Flow",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 802494
+  },
+  {
+   "id": "31-87-7-2",
+   "points": 2,
+   "name": "Focus",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 680936
+  },
+  {
+   "id": "31-87-7-0",
+   "points": 1,
+   "name": "Boulder Dash",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 500692
+  },
+  {
+   "id": "31-87-7-1b",
+   "points": 1,
+   "name": "Rolling Momentum",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 680446
+  },
+  {
+   "id": "31-87-6-4b",
+   "points": 1,
+   "name": "Primal Strikes",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706171
+  },
+  {
+   "id": "31-87-4-5",
+   "points": 1,
+   "name": "Protective Roar",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 802782
+  },
+  {
+   "id": "31-87-2-4b",
+   "points": 1,
+   "name": "Untamed",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 681478
+  },
+  {
+   "id": "31-87-3-6",
+   "points": 1,
+   "name": "Earthmother's Precision",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 555723
+  },
+  {
+   "id": "31-87-2-7b",
+   "points": 1,
+   "name": "Mending Touch",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 524971
+  },
+  {
+   "id": "31-87-4-7",
+   "points": 1,
+   "name": "Therazane's Gift",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504219
+  },
+  {
+   "id": "31-87-5-6",
+   "points": 1,
+   "name": "Stonefaced",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 706201
+  },
+  {
+   "id": "31-87-6-7",
+   "points": 1,
+   "name": "Mineralization",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 520464
+  },
+  {
+   "id": "31-87-7-5",
+   "points": 2,
+   "name": "Stone Cold",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 560158
+  },
+  {
+   "id": "31-87-7-6",
+   "points": 1,
+   "name": "Bearskin",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 800094
+  },
+  {
+   "id": "31-87-1-5",
+   "points": 1,
+   "name": "Nature's Call",
+   "maxPoints": 2,
+   "tree": "Primalist (class tree)",
+   "spellId": 706150
+  },
+  {
+   "id": "31-87-1-8",
+   "points": 1,
+   "name": "Grove Guardian",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 503721
+  },
+  {
+   "id": "31-87-2-9",
+   "points": 1,
+   "name": "Protector of the Grove",
+   "maxPoints": 1,
+   "tree": "Primalist (class tree)",
+   "spellId": 504198
+  },
+  {
+   "id": "31-82-4-0",
+   "points": 1,
+   "name": "Rylak's Bite",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 706342
+  },
+  {
+   "id": "31-82-4-1",
+   "points": 1,
+   "name": "Fury of the Wild",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 801234
+  },
+  {
+   "id": "31-82-10-0",
+   "points": 1,
+   "name": "Spirit Beast Master",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 92148
+  },
+  {
+   "id": "31-82-10-2",
+   "points": 1,
+   "name": "Primal Weapons",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 537218
+  },
+  {
+   "id": "31-82-6-2",
+   "points": 1,
+   "name": "Primal Shred",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 500940
+  },
+  {
+   "id": "31-82-2-2",
+   "points": 1,
+   "name": "Totemic Smash",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 800178
+  },
+  {
+   "id": "31-82-1-3",
+   "points": 2,
+   "name": "Pulverize",
+   "maxPoints": 2,
+   "tree": "Primal",
+   "spellId": 706153
+  },
+  {
+   "id": "31-82-3-3",
+   "points": 1,
+   "name": "Wild At Heart",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 524677
+  },
+  {
+   "id": "31-82-5-3",
+   "points": 2,
+   "name": "Raptor Talons",
+   "maxPoints": 2,
+   "tree": "Primal",
+   "spellId": 704096
+  },
+  {
+   "id": "31-82-7-3",
+   "points": 1,
+   "name": "Torn to Shreds",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 500294
+  },
+  {
+   "id": "31-82-8-4",
+   "points": 1,
+   "name": "Lacerations",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 560286
+  },
+  {
+   "id": "31-82-8-5",
+   "points": 1,
+   "name": "Spiritual Frenzy",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 707367
+  },
+  {
+   "id": "31-82-7-6",
+   "points": 1,
+   "name": "Rush of the Hunt",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 300691
+  },
+  {
+   "id": "31-82-4-4a",
+   "points": 1,
+   "name": "Wild Rage",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 301280
+  },
+  {
+   "id": "31-82-4-5",
+   "points": 1,
+   "name": "Savage Frenzy",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 806549
+  },
+  {
+   "id": "31-82-3-6a",
+   "points": 1,
+   "name": "Sharpened Claws",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 504226
+  },
+  {
+   "id": "31-82-2-5",
+   "points": 1,
+   "name": "Earthshaker",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 300698
+  },
+  {
+   "id": "31-82-0-4",
+   "points": 1,
+   "name": "Pulverize",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 301087
+  },
+  {
+   "id": "31-82-0-5",
+   "points": 1,
+   "name": "Elemental Berserker",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 706338
+  },
+  {
+   "id": "31-82-2-7",
+   "points": 1,
+   "name": "Killer's Path",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 706633
+  },
+  {
+   "id": "31-82-6-5",
+   "points": 2,
+   "name": "Wild Rampage",
+   "maxPoints": 2,
+   "tree": "Primal",
+   "spellId": 504197
+  },
+  {
+   "id": "31-82-5-6a",
+   "points": 1,
+   "name": "Wild Carnage",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 503717
+  },
+  {
+   "id": "31-82-3-8",
+   "points": 1,
+   "name": "Totemic Echoes",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 500937
+  },
+  {
+   "id": "31-82-1-8",
+   "points": 1,
+   "name": "Totem Warrior",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 704099
+  },
+  {
+   "id": "31-82-10-4",
+   "points": 1,
+   "name": "Tremors",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 574323
+  },
+  {
+   "id": "31-82-10-6",
+   "points": 1,
+   "name": "Spirit Stable",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 573310
+  },
+  {
+   "id": "31-82-10-8",
+   "points": 1,
+   "name": "Empowered Boons",
+   "maxPoints": 1,
+   "tree": "Primal",
+   "spellId": 706340
+  }
+ ]
+}

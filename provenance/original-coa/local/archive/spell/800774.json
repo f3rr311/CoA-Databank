@@ -1,0 +1,21 @@
+{
+  "name_enus": "Sanguine Rupture",
+  "icon": "inv_artifact_bloodoftheassassinated",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Sanguine Rupture</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>14% of base <br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><!--sp524861:0--><span style=\"color: #ffffff;\"><!--sp524861-->Requires Mortal Form</span><br />Explode with boiling blood, dealing 17+0+ShaP*0.35 Shadow damage to enemies and generating Rage for each enemy hit.<!--sp500107:0--><!--sp500107--></span></td></tr></table><!--?800774:1:1:80-->",
+  "spells_enus": {
+    "524861": [
+      [
+        "|cffffffff",
+        "|cffff3232"
+      ]
+    ],
+    "500107": [
+      [
+        "",
+        "<br /><br />Generates 1 stack of <span style=\"color: #ffffff\">Thirst</span>."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

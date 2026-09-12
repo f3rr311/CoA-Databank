@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blood Binding",
+  "icon": "custom_t_bloodlash_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blood Binding</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Using <span style=\"color: #ffffff;\">Scythe Rush</span> directly after <span style=\"color: #ffffff;\">Cull</span> deals 24+3.3 Points Per Level+AP*0.474 Spellshadow Damage to nearby enemies and roots them for 3&nbsp;sec.</span></td></tr></table><!--?805200:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

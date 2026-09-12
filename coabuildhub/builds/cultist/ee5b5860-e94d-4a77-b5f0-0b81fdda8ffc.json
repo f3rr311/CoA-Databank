@@ -1,0 +1,733 @@
+{
+ "build": {
+  "id": "ee5b5860-e94d-4a77-b5f0-0b81fdda8ffc",
+  "title": "Heretic Cultist - Mythic build",
+  "description": "[talents]\nDark infusion didn't feel good in my opinion, also very cost inefficien. Dark veil only to be used as a last resort.\n\n[rotation]\nAlways keep 2x black blood up\nDepending on mana regen of party blanket the group in void shields, split mind makes you apply 2\nAlways keep up Void Shield on tank\nKeep up Sermon of Dread\nTentacle at 75+ sanity\nTry to time Entropic slam/ Blade of the Empire with tank dmg intake since it's your biggest spot heals\nForbidden ritual few seconds before aoe damage.\nGaze of C'thun as big instant (Due to Void-Touched) group heal.\nHallucination and Isolate to drop threat while following the tank during pull, can also Isolate a dps to save them.\nAbyssal Ward and Embrace the void as personals.\nEM doesn't heal for that much, use it maybe if you need an extra spot heal on a dps or dont have anything else.\n\nKeep mana between 20 - 60\n\nHaste Presence\n\nHand of Yogg could be a possibility later but haven't felt the need to use it because I already feel quite gcd starved.\n\nDps rotation: Slam Blade Slam Blade Slam Blade Blade Slam\n\n[stats]\nCrit > SP > STR > haste with enough INT to feel comfortable not having to sanity tap every 3 gcd's. You want a healthy balance between crit and sp.\n\n[gear]\nBest case scenario would be plate, STR/INT/STAM, crit/sp.\n\n[leveling]\nprio int/sp early, slow 2h. Run right behind the tank unless he's pulling back.",
+  "class_id": 25,
+  "spec_id": 66,
+  "author_id": "98b64b8a-8c77-4fd6-b0cc-befae71e42ad",
+  "talent_string": "W1siMjUtODctMS0wIiwxXSxbIjI1LTg3LTEtMSIsMV0sWyIyNS04Ny0wLTIiLDFdLFsiMjUtODctMS0zIiwxXSxbIjI1LTg3LTMtMiIsMV0sWyIyNS04Ny00LTNiIiwxXSxbIjI1LTg3LTctMCIsMV0sWyIyNS04Ny03LTEiLDNdLFsiMjUtODctOC0yIiwxXSxbIjI1LTg3LTctMyIsMV0sWyIyNS04Ny03LTQiLDFdLFsiMjUtODctMS00IiwxXSxbIjI1LTg3LTItNSIsMV0sWyIyNS04Ny00LTYiLDFdLFsiMjUtODctNS03YSIsMV0sWyIyNS04Ny02LTUiLDFdLFsiMjUtODctOC02IiwxXSxbIjI1LTg3LTctN2EiLDFdLFsiMjUtODctNC0wIiwxXSxbIjI1LTg3LTAtNiIsMV0sWyIyNS04Ny0xLTciLDJdLFsiMjUtODctNC04IiwxXSxbIjI1LTg3LTItOSIsMV0sWyIyNS02Ni00LTAiLDFdLFsiMjUtNjYtMi0xIiwyXSxbIjI1LTY2LTYtMSIsMl0sWyIyNS02Ni00LTIiLDFdLFsiMjUtNjYtNi0yIiwxXSxbIjI1LTY2LTItMiIsMV0sWyIyNS02Ni0yLTMiLDFdLFsiMjUtNjYtMS00IiwxXSxbIjI1LTY2LTYtMyIsMV0sWyIyNS02Ni00LTNhIiwxXSxbIjI1LTY2LTQtNCIsMV0sWyIyNS02Ni0wLTVhIiwxXSxbIjI1LTY2LTMtNSIsMl0sWyIyNS02Ni01LTUiLDFdLFsiMjUtNjYtNy00IiwxXSxbIjI1LTY2LTYtNWIiLDFdLFsiMjUtNjYtNy02YSIsMV0sWyIyNS02Ni03LTciLDFdLFsiMjUtNjYtNS03IiwxXSxbIjI1LTY2LTYtOCIsMV0sWyIyNS02Ni02LTkiLDFdLFsiMjUtNjYtMTAtMCIsMV0sWyIyNS02Ni0xMC0yIiwxXSxbIjI1LTY2LTEwLTQiLDFdLFsiMjUtNjYtMTAtNiIsMV0sWyIyNS02Ni0xMC04IiwxXSxbIjI1LTY2LTQtNiIsMV1d",
+  "tags": [
+   "max level",
+   "mythic"
+  ],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-21T20:46:51.136081+00:00",
+  "updated_at": "2026-07-21T22:51:19.046+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 797,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "98b64b8a-8c77-4fd6-b0cc-befae71e42ad",
+   "username": "hannoo",
+   "avatar_url": "https://cdn.discordapp.com/avatars/147071512724111360/28508bc2d9becd8190ff62609e8903dc.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "ec218df4-9104-4880-b0c9-0f598ab65898",
+   "title": "Corruption pvp theory craft",
+   "class_id": 25,
+   "spec_id": 65,
+   "author_id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 226,
+   "featured": false,
+   "created_at": "2026-07-28T21:21:51.039658+00:00",
+   "updated_at": "2026-07-28T21:21:51.039658+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "24c04929-c76b-421a-972d-be5f7019eb8d",
+    "username": "nschof",
+    "avatar_url": "https://cdn.discordapp.com/avatars/213470960936812544/a231295977f4f589bff6fb6a41fc857d.png"
+   }
+  },
+  {
+   "id": "d96cb605-9752-43ba-b071-2b0e30ef8ddc",
+   "title": "Good Blade PVE DPS",
+   "class_id": 25,
+   "spec_id": 64,
+   "author_id": "6d3f96b7-62e9-44f9-9ea2-6627730e8c25",
+   "tags": [
+    "Good Blade",
+    "PVE",
+    "DPS",
+    "OpenWorld"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 889,
+   "featured": false,
+   "created_at": "2026-07-25T01:00:51.546512+00:00",
+   "updated_at": "2026-07-25T01:00:51.546512+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "6d3f96b7-62e9-44f9-9ea2-6627730e8c25",
+    "username": "friofrio Clima",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocI77wt-n4x-B_LxDjOWa9rXSRi6g5g5YG8ZX4cAemeogjJrOA=s96-c"
+   }
+  },
+  {
+   "id": "e2935c2d-8cfe-46a5-91d1-b9ed79adf658",
+   "title": "BIG DPS PVE GODBLAD BUILD",
+   "class_id": 25,
+   "spec_id": 64,
+   "author_id": "0428e975-e8fe-4a2b-9bc5-e5ecb8b1d85f",
+   "tags": [
+    "Mythic"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 666,
+   "featured": false,
+   "created_at": "2026-07-25T00:53:56.020227+00:00",
+   "updated_at": "2026-07-25T00:53:56.020227+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "0428e975-e8fe-4a2b-9bc5-e5ecb8b1d85f",
+    "username": "Oliver Delabaye",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJ29SM0KEbbP6uRCEQSH-GIYIMQjG14fuAHrUXFvPUM176QeSw=s96-c"
+   }
+  }
+ ],
+ "class": "Cultist",
+ "spec": "Heretic",
+ "allocations": [
+  [
+   "25-87-1-0",
+   1
+  ],
+  [
+   "25-87-1-1",
+   1
+  ],
+  [
+   "25-87-0-2",
+   1
+  ],
+  [
+   "25-87-1-3",
+   1
+  ],
+  [
+   "25-87-3-2",
+   1
+  ],
+  [
+   "25-87-4-3b",
+   1
+  ],
+  [
+   "25-87-7-0",
+   1
+  ],
+  [
+   "25-87-7-1",
+   3
+  ],
+  [
+   "25-87-8-2",
+   1
+  ],
+  [
+   "25-87-7-3",
+   1
+  ],
+  [
+   "25-87-7-4",
+   1
+  ],
+  [
+   "25-87-1-4",
+   1
+  ],
+  [
+   "25-87-2-5",
+   1
+  ],
+  [
+   "25-87-4-6",
+   1
+  ],
+  [
+   "25-87-5-7a",
+   1
+  ],
+  [
+   "25-87-6-5",
+   1
+  ],
+  [
+   "25-87-8-6",
+   1
+  ],
+  [
+   "25-87-7-7a",
+   1
+  ],
+  [
+   "25-87-4-0",
+   1
+  ],
+  [
+   "25-87-0-6",
+   1
+  ],
+  [
+   "25-87-1-7",
+   2
+  ],
+  [
+   "25-87-4-8",
+   1
+  ],
+  [
+   "25-87-2-9",
+   1
+  ],
+  [
+   "25-66-4-0",
+   1
+  ],
+  [
+   "25-66-2-1",
+   2
+  ],
+  [
+   "25-66-6-1",
+   2
+  ],
+  [
+   "25-66-4-2",
+   1
+  ],
+  [
+   "25-66-6-2",
+   1
+  ],
+  [
+   "25-66-2-2",
+   1
+  ],
+  [
+   "25-66-2-3",
+   1
+  ],
+  [
+   "25-66-1-4",
+   1
+  ],
+  [
+   "25-66-6-3",
+   1
+  ],
+  [
+   "25-66-4-3a",
+   1
+  ],
+  [
+   "25-66-4-4",
+   1
+  ],
+  [
+   "25-66-0-5a",
+   1
+  ],
+  [
+   "25-66-3-5",
+   2
+  ],
+  [
+   "25-66-5-5",
+   1
+  ],
+  [
+   "25-66-7-4",
+   1
+  ],
+  [
+   "25-66-6-5b",
+   1
+  ],
+  [
+   "25-66-7-6a",
+   1
+  ],
+  [
+   "25-66-7-7",
+   1
+  ],
+  [
+   "25-66-5-7",
+   1
+  ],
+  [
+   "25-66-6-8",
+   1
+  ],
+  [
+   "25-66-6-9",
+   1
+  ],
+  [
+   "25-66-10-0",
+   1
+  ],
+  [
+   "25-66-10-2",
+   1
+  ],
+  [
+   "25-66-10-4",
+   1
+  ],
+  [
+   "25-66-10-6",
+   1
+  ],
+  [
+   "25-66-10-8",
+   1
+  ],
+  [
+   "25-66-4-6",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "25-87-1-0",
+   "points": 1,
+   "name": "Void Shield",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 500715
+  },
+  {
+   "id": "25-87-1-1",
+   "points": 1,
+   "name": "Empire's Blessing",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 704895
+  },
+  {
+   "id": "25-87-0-2",
+   "points": 1,
+   "name": "Shadow Words",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706928
+  },
+  {
+   "id": "25-87-1-3",
+   "points": 1,
+   "name": "Gift of C'Thun",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706189
+  },
+  {
+   "id": "25-87-3-2",
+   "points": 1,
+   "name": "Mass Nightmare",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805114
+  },
+  {
+   "id": "25-87-4-3b",
+   "points": 1,
+   "name": "Rapid Incantations",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 301181
+  },
+  {
+   "id": "25-87-7-0",
+   "points": 1,
+   "name": "Abyssal Ward",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 804670
+  },
+  {
+   "id": "25-87-7-1",
+   "points": 3,
+   "name": "Empire Commander",
+   "maxPoints": 3,
+   "tree": "Cultist (class tree)",
+   "spellId": 704887
+  },
+  {
+   "id": "25-87-8-2",
+   "points": 1,
+   "name": "Shroud of Pride",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805126
+  },
+  {
+   "id": "25-87-7-3",
+   "points": 1,
+   "name": "Wicked Thoughts",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706190
+  },
+  {
+   "id": "25-87-7-4",
+   "points": 1,
+   "name": "Embrace the Void",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 582591
+  },
+  {
+   "id": "25-87-1-4",
+   "points": 1,
+   "name": "Hallucination",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560301
+  },
+  {
+   "id": "25-87-2-5",
+   "points": 1,
+   "name": "Embodied Presences",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 803283
+  },
+  {
+   "id": "25-87-4-6",
+   "points": 1,
+   "name": "Void Hunger",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 524879
+  },
+  {
+   "id": "25-87-5-7a",
+   "points": 1,
+   "name": "Eldritch Command",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 302015
+  },
+  {
+   "id": "25-87-6-5",
+   "points": 1,
+   "name": "Dark Calling",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560715
+  },
+  {
+   "id": "25-87-8-6",
+   "points": 1,
+   "name": "Improved Sermon of Dread",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 706177
+  },
+  {
+   "id": "25-87-7-7a",
+   "points": 1,
+   "name": "Ungodly Blessing",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 301241
+  },
+  {
+   "id": "25-87-4-0",
+   "points": 1,
+   "name": "Corrupt Mind",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 560109
+  },
+  {
+   "id": "25-87-0-6",
+   "points": 1,
+   "name": "Mind Games",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 582589
+  },
+  {
+   "id": "25-87-1-7",
+   "points": 2,
+   "name": "Darkward",
+   "maxPoints": 2,
+   "tree": "Cultist (class tree)",
+   "spellId": 706180
+  },
+  {
+   "id": "25-87-4-8",
+   "points": 1,
+   "name": "Black Prayer",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 805110
+  },
+  {
+   "id": "25-87-2-9",
+   "points": 1,
+   "name": "Split Mind",
+   "maxPoints": 1,
+   "tree": "Cultist (class tree)",
+   "spellId": 572064
+  },
+  {
+   "id": "25-66-4-0",
+   "points": 1,
+   "name": "Malevolence",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 500714
+  },
+  {
+   "id": "25-66-2-1",
+   "points": 2,
+   "name": "Blade of Yogg-Saron",
+   "maxPoints": 2,
+   "tree": "Heretic",
+   "spellId": 524887
+  },
+  {
+   "id": "25-66-6-1",
+   "points": 2,
+   "name": "Shadow Pennant",
+   "maxPoints": 2,
+   "tree": "Heretic",
+   "spellId": 706926
+  },
+  {
+   "id": "25-66-4-2",
+   "points": 1,
+   "name": "Abyssal Covenant",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 500751
+  },
+  {
+   "id": "25-66-6-2",
+   "points": 1,
+   "name": "Twisted Sanity",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 706187
+  },
+  {
+   "id": "25-66-2-2",
+   "points": 1,
+   "name": "Malevolent Power",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 301183
+  },
+  {
+   "id": "25-66-2-3",
+   "points": 1,
+   "name": "Eldritch Eye",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 802049
+  },
+  {
+   "id": "25-66-1-4",
+   "points": 1,
+   "name": "Saronite Mind",
+   "maxPoints": 2,
+   "tree": "Heretic",
+   "spellId": 806266
+  },
+  {
+   "id": "25-66-6-3",
+   "points": 1,
+   "name": "Forbidden Ritual",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 800105
+  },
+  {
+   "id": "25-66-4-3a",
+   "points": 1,
+   "name": "Dark Protection",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 704897
+  },
+  {
+   "id": "25-66-4-4",
+   "points": 1,
+   "name": "As The Prophecy Foretold",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 504642
+  },
+  {
+   "id": "25-66-0-5a",
+   "points": 1,
+   "name": "Protection From Light",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 704434
+  },
+  {
+   "id": "25-66-3-5",
+   "points": 2,
+   "name": "Persistent Prayers",
+   "maxPoints": 2,
+   "tree": "Heretic",
+   "spellId": 302072
+  },
+  {
+   "id": "25-66-5-5",
+   "points": 1,
+   "name": "Yogg-Saron's Embrace",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 301984
+  },
+  {
+   "id": "25-66-7-4",
+   "points": 1,
+   "name": "Prophetic Compulsion",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 300264
+  },
+  {
+   "id": "25-66-6-5b",
+   "points": 1,
+   "name": "Forbidden Strength",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 301258
+  },
+  {
+   "id": "25-66-7-6a",
+   "points": 1,
+   "name": "Saronite Cube",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 807307
+  },
+  {
+   "id": "25-66-7-7",
+   "points": 1,
+   "name": "Dark Chants",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 712471
+  },
+  {
+   "id": "25-66-5-7",
+   "points": 1,
+   "name": "Visions of the Empire",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 806384
+  },
+  {
+   "id": "25-66-6-8",
+   "points": 1,
+   "name": "Void Barrier",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 300291
+  },
+  {
+   "id": "25-66-6-9",
+   "points": 1,
+   "name": "Dark Prophet",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 301209
+  },
+  {
+   "id": "25-66-10-0",
+   "points": 1,
+   "name": "Herald of the Depths",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 92131
+  },
+  {
+   "id": "25-66-10-2",
+   "points": 1,
+   "name": "Shadow Training",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 805607
+  },
+  {
+   "id": "25-66-10-4",
+   "points": 1,
+   "name": "Void-Touched",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 300286
+  },
+  {
+   "id": "25-66-10-6",
+   "points": 1,
+   "name": "Void Power",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 574147
+  },
+  {
+   "id": "25-66-10-8",
+   "points": 1,
+   "name": "Blessing of Yogg-Saron",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 806264
+  },
+  {
+   "id": "25-66-4-6",
+   "points": 1,
+   "name": "Dark Veil",
+   "maxPoints": 1,
+   "tree": "Heretic",
+   "spellId": 520345
+  }
+ ]
+}

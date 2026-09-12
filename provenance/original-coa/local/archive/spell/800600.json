@@ -1,0 +1,8 @@
+{
+  "name_enus": "New Day",
+  "icon": "_d3waveoflight",
+  "tooltip_enus": "<table><tr><td><b>New Day</b><br />17% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>10&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Start anew, reseting the cooldown of <span style=\"color: #ffffff;\">Paragon</span>, <span style=\"color: #ffffff;\">Chosen of the Light</span>, and <span style=\"color: #ffffff;\">Judgement Day</span>.</span></td></tr></table><!--?800600:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

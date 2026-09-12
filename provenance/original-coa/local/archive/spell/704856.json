@@ -1,0 +1,8 @@
+{
+  "name_enus": "Stoke",
+  "icon": "spell_fire_flameshock",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Stoke</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Critical strikes with <span style=\"color: #ffffff;\">Ignite</span> and <span style=\"color: #ffffff;\">Infernus</span> now extend their own duration on the target by 3 sec, up to a maximum of 12 sec.</span></td></tr></table><!--?704856:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

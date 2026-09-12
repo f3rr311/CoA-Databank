@@ -1,0 +1,8 @@
+{
+  "name_enus": "Drown",
+  "icon": "custom_element%28water%29_b_01_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Drown</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>31% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Attempt to drown an enemy, reducing their healing received by 20% for 8&nbsp;sec. At the end of the duration, unleash a creature from the depths dealing COND(GT(FroP, NatP), 83+0+FroP*1, 83+0+NatP*1) Frost Damage.<br /><br />Each time you generate a stack of <span style=\"color: #4fd1c5;\">Conductive</span> you increase their damage taken from this effect, stacking up to 5 times.</span></td></tr></table><!--?806407:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

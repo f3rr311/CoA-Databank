@@ -1,0 +1,703 @@
+{
+ "build": {
+  "id": "00510d7a-feaa-4afd-82da-72816ae85ecd",
+  "title": "Runemaster Riftblade PvP build",
+  "description": "[overview]\nRevamped my old build for this one. Turbulence but giving up the crazy one-shot for more utility. Zenith + Turbulence is your main win con. Elemental Acuity I felt was a bit too much damage to pass up, so I dropped Magebreaker for it. and Primordial Echoes is mid anyway.\n\n[talents]\nWarpdagger does not have a GCD and can be used after breaking stealth with Runic Breakout, or after Hurricane with Waveforged to not incur a cooldown with the Shroudwalker talent. The damage and Smolder resets are valuable to get big dam out and bait cooldowns.\n\n[rotation]\nDagger in stealth for damage amp. Palm Sigils and Zenith before big dam. Silences can't be trinketed so that has a lot more value then it may initially seem. Warp dagger cancel macro for extra smolders, or go in to Hurricane which usually forces something 95% of the time unless they're a Felsworn player or something. \n\nUse Cinderwake against classes that have a vanish so they can't get away from you. More experience players will vanish during your Hurricane, but with Cinderwake it will continue tracking them.\n\n[stats]\nAgility > Stamina > Intellect > Strength > Spirit. Intellect is our only source of maximum mana but Agility and Stamina are too important. Intellect is moreso just a nice stat to have if it so happens to fit in with everything else. \n\nAttack Power is highly valuable. However, with the way Riftblade scales with Agility, having Agility on your gear will be more beneficial than attack power.\n\n[gear]\nDruid 2 set legs and gauntlets. Rogue 4 set Helm, shoulders, chest, and boots. 6 set bonuses are useless so you get the extra 20 resil instead with some intellect sprinkled in. Polearm of course as main weapon, this should be your first conquest buy. Wand because there's no throwing weapon so this is the only option. Stam, int, and some spell pen ain't bad though.\n\nWrists: Bloodforged Malefic Bracers\n\nBelt: Bloodforged Belt of the Trickster\n\nBoth these wrists and belt give expertise so they're highly valuable and pretty expensive usually. With +8 expertise enchant on chest and full conquest gear you will just be able to hit 26/26 expertise cap.\n\n[enchants]\nStrider on weapon. +8 expertise (magescale gambeson) on chest. Agi, Agi/Stam, or Atk power/Stam/Resil on everything else. \n\nBelt and wand have enchants you can put on them as well but it is costly. Belt enchant gives agi so that takes prio over want imo\n\n[leveling]\nNot the best leveling class but you'll be ok just gl hf.\n\n[pvp]\nTypically you want a way out with Echo Rune or Warpdagger most of the time. Arcane Sigil silence cannot be trinketed and in many cases is a stronger opener than Earth. Look to setup Smolders with Hoarfrost freeze procs and Ice Rune for big burst damage (this is pretty important for closing out kills actually). \n\nUse cancelaura warpdagger macro to spam that shit after a stealth engage for guaranteed smolder resets when you're going for the kill on someone. Make sure they're frozen!\n\nPrimordial Fury has niche case, but important use cases. Felsworn spamming manasteal on you is a big one, primordial with water tattoos will help you with that. Using it with Air tattoos for 40% MS and 40% chance to resists snares is a good gap closer. Crit damage if you're going for the kill but I dont use this often as I usually lose track due to the mental load of pvp and run out of mana.\n\n[macros]\nI made simple macros and named every Palm Sigil and Weapon Engraving ability (ex: Palm SIgil: Frost macro is named Slow) because it's hard to see what these abilities do at a glance, since they share similiar artwork with all the other engraving and palm sigils. \n\nI also macro Zenith to whatever my current on-use trinket is for simplicity (not your PvP Insignia trinket ofc).\n\n#showtooltip Glacial Rune\n/cast [@cursor] Glacial Rune\n\nMacro to cancel warpdagger so you can use it again without warping. The daggers stay but it makes things confusing as to where you'll exactly warp to if you throw them willy nilly. \n\n#showtooltip Warpdagger\n/cancelaura warp\n/cast warpdagger\n\n[tips]\nGranite Resolve is a 1 minute cooldown 40% DR that can be used in stuns. Don't be afraid to press it if you're scared of incoming damage. Make sure you have a way out with Echo Rune or Warpdagger in most cases, unless you know you'll be winning the fight, and/or need to give chase. Keep track of abilities that cost a lot of mana since using these willy-nilly will run you OOM in no time. Riftblade has major mana problems atm and it's hard to make use of utility, you basically need to be in Water tattoo stance 95% of the time.",
+  "class_id": 32,
+  "spec_id": 86,
+  "author_id": "9614dba2-698f-41f8-9cfe-50164820f285",
+  "talent_string": "W1siMzItODctMi0wIiwxXSxbIjMyLTg3LTQtMCIsMV0sWyIzMi04Ny02LTAiLDFdLFsiMzItODctNS0xIiwxXSxbIjMyLTg3LTMtMSIsMl0sWyIzMi04Ny0xLTEiLDFdLFsiMzItODctMi0yIiwxXSxbIjMyLTg3LTctMSIsMV0sWyIzMi04Ny02LTIiLDFdLFsiMzItODctOC0zIiwxXSxbIjMyLTg3LTgtNCIsMV0sWyIzMi04Ny00LTMiLDFdLFsiMzItODctNC00IiwxXSxbIjMyLTg3LTItNGIiLDFdLFsiMzItODctMC0zIiwxXSxbIjMyLTg3LTAtNCIsMV0sWyIzMi04Ny0xLTUiLDJdLFsiMzItODctMy01IiwxXSxbIjMyLTg3LTQtNmIiLDFdLFsiMzItODctNS01IiwxXSxbIjMyLTg3LTYtNiIsMV0sWyIzMi04Ny02LTgiLDFdLFsiMzItODctNi05IiwxXSxbIjMyLTg2LTQtMCIsMV0sWyIzMi04Ni0yLTEiLDFdLFsiMzItODYtNi0xIiwyXSxbIjMyLTg2LTctMiIsMV0sWyIzMi04Ni0xLTIiLDFdLFsiMzItODYtMS0zIiwyXSxbIjMyLTg2LTctMyIsMV0sWyIzMi04Ni04LTQiLDFdLFsiMzItODYtNi00IiwyXSxbIjMyLTg2LTctNSIsMV0sWyIzMi04Ni04LTYiLDFdLFsiMzItODctNy01IiwxXSxbIjMyLTg2LTAtNGIiLDFdLFsiMzItODYtNC0yYiIsMV0sWyIzMi04Ni00LTMiLDFdLFsiMzItODYtMS01IiwxXSxbIjMyLTg2LTAtNiIsMV0sWyIzMi04Ni00LTUiLDFdLFsiMzItODYtNC02IiwxXSxbIjMyLTg2LTUtNyIsMV0sWyIzMi04Ni0zLTciLDFdLFsiMzItODYtNC04IiwxXSxbIjMyLTg2LTYtOSIsMV1d",
+  "tags": [
+   "PvP",
+   "High Risk",
+   "War Mode",
+   "Open World",
+   "Battleground",
+   "Battlegrounds",
+   "BG",
+   "Arena",
+   "Riftblade",
+   "Runemaster"
+  ],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-19T01:21:56.435678+00:00",
+  "updated_at": "2026-07-29T01:00:15.242+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 3346,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 10,
+  "author": {
+   "id": "9614dba2-698f-41f8-9cfe-50164820f285",
+   "username": "hrup",
+   "avatar_url": "https://cdn.discordapp.com/avatars/92835265051136000/1edee95b14b29f70aa420a43dc716fa0.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "8c73e1e4-17b0-4a02-aae9-db2be4d5a4ea",
+   "title": "Guia Glyphic Runemaster (pt-br)",
+   "class_id": 32,
+   "spec_id": 11,
+   "author_id": "717a468a-bcce-41c7-a390-348295709b31",
+   "tags": [
+    "raid",
+    "aoe",
+    "guide",
+    "leveling"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 1,
+   "view_count": 483,
+   "featured": false,
+   "created_at": "2026-07-25T00:49:31.78586+00:00",
+   "updated_at": "2026-07-25T01:46:06.08+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "717a468a-bcce-41c7-a390-348295709b31",
+    "username": "Caio Bruno Costa Loureiro",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLgihMFWtmef0VRGjvguZK5cZs-GXknb5FzvfaiU3aPyNk3bD8=s96-c"
+   }
+  },
+  {
+   "id": "dca788b3-5300-440f-92e9-f0f6d118956a",
+   "title": "Runemaster PvE Engravement - AoE + Single Target",
+   "class_id": 32,
+   "spec_id": 85,
+   "author_id": "1cd4413c-2d8a-430a-89ad-db77910934f4",
+   "tags": [
+    "aoe",
+    "single target",
+    "mythic",
+    "engravement",
+    "raid"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2102,
+   "featured": false,
+   "created_at": "2026-07-22T00:24:36.606922+00:00",
+   "updated_at": "2026-07-22T00:28:13.848+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "1cd4413c-2d8a-430a-89ad-db77910934f4",
+    "username": "Feels",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLJsjQZO-JSFXz2RBWlvwL6_cx6NU_l9K4f-AXDyRsFT3CePw=s96-c"
+   }
+  },
+  {
+   "id": "9c593168-2745-4972-aa1f-23266e0999f9",
+   "title": "THE runeGOD",
+   "class_id": 32,
+   "spec_id": 86,
+   "author_id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+   "tags": [
+    "raid",
+    "dps",
+    "pve",
+    "aoe",
+    "single-target"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 7,
+   "view_count": 7711,
+   "featured": false,
+   "created_at": "2026-07-17T19:31:10.08268+00:00",
+   "updated_at": "2026-07-24T00:10:45.702+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+    "username": "zyzx",
+    "avatar_url": "https://cdn.discordapp.com/avatars/160919726955036672/a701ead2d96f549ded297650a1b01624.png"
+   }
+  }
+ ],
+ "class": "Runemaster",
+ "spec": "Riftblade",
+ "allocations": [
+  [
+   "32-87-2-0",
+   1
+  ],
+  [
+   "32-87-4-0",
+   1
+  ],
+  [
+   "32-87-6-0",
+   1
+  ],
+  [
+   "32-87-5-1",
+   1
+  ],
+  [
+   "32-87-3-1",
+   2
+  ],
+  [
+   "32-87-1-1",
+   1
+  ],
+  [
+   "32-87-2-2",
+   1
+  ],
+  [
+   "32-87-7-1",
+   1
+  ],
+  [
+   "32-87-6-2",
+   1
+  ],
+  [
+   "32-87-8-3",
+   1
+  ],
+  [
+   "32-87-8-4",
+   1
+  ],
+  [
+   "32-87-4-3",
+   1
+  ],
+  [
+   "32-87-4-4",
+   1
+  ],
+  [
+   "32-87-2-4b",
+   1
+  ],
+  [
+   "32-87-0-3",
+   1
+  ],
+  [
+   "32-87-0-4",
+   1
+  ],
+  [
+   "32-87-1-5",
+   2
+  ],
+  [
+   "32-87-3-5",
+   1
+  ],
+  [
+   "32-87-4-6b",
+   1
+  ],
+  [
+   "32-87-5-5",
+   1
+  ],
+  [
+   "32-87-6-6",
+   1
+  ],
+  [
+   "32-87-6-8",
+   1
+  ],
+  [
+   "32-87-6-9",
+   1
+  ],
+  [
+   "32-86-4-0",
+   1
+  ],
+  [
+   "32-86-2-1",
+   1
+  ],
+  [
+   "32-86-6-1",
+   2
+  ],
+  [
+   "32-86-7-2",
+   1
+  ],
+  [
+   "32-86-1-2",
+   1
+  ],
+  [
+   "32-86-1-3",
+   2
+  ],
+  [
+   "32-86-7-3",
+   1
+  ],
+  [
+   "32-86-8-4",
+   1
+  ],
+  [
+   "32-86-6-4",
+   2
+  ],
+  [
+   "32-86-7-5",
+   1
+  ],
+  [
+   "32-86-8-6",
+   1
+  ],
+  [
+   "32-87-7-5",
+   1
+  ],
+  [
+   "32-86-0-4b",
+   1
+  ],
+  [
+   "32-86-4-2b",
+   1
+  ],
+  [
+   "32-86-4-3",
+   1
+  ],
+  [
+   "32-86-1-5",
+   1
+  ],
+  [
+   "32-86-0-6",
+   1
+  ],
+  [
+   "32-86-4-5",
+   1
+  ],
+  [
+   "32-86-4-6",
+   1
+  ],
+  [
+   "32-86-5-7",
+   1
+  ],
+  [
+   "32-86-3-7",
+   1
+  ],
+  [
+   "32-86-4-8",
+   1
+  ],
+  [
+   "32-86-6-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "32-87-2-0",
+   "points": 1,
+   "name": "Zenith",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 712325
+  },
+  {
+   "id": "32-87-4-0",
+   "points": 1,
+   "name": "Glacial Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 807842
+  },
+  {
+   "id": "32-87-6-0",
+   "points": 1,
+   "name": "Warpdagger",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500287
+  },
+  {
+   "id": "32-87-5-1",
+   "points": 1,
+   "name": "Runic Tattoos",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 800736
+  },
+  {
+   "id": "32-87-3-1",
+   "points": 2,
+   "name": "Mystical Etchings",
+   "maxPoints": 2,
+   "tree": "Runemaster (class tree)",
+   "spellId": 806795
+  },
+  {
+   "id": "32-87-1-1",
+   "points": 1,
+   "name": "Ley Constitution",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705562
+  },
+  {
+   "id": "32-87-2-2",
+   "points": 1,
+   "name": "Speed Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 801103
+  },
+  {
+   "id": "32-87-7-1",
+   "points": 1,
+   "name": "Warpmaster",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 560992
+  },
+  {
+   "id": "32-87-6-2",
+   "points": 1,
+   "name": "Phase Out",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500671
+  },
+  {
+   "id": "32-87-8-3",
+   "points": 1,
+   "name": "Blade Rift",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520237
+  },
+  {
+   "id": "32-87-8-4",
+   "points": 1,
+   "name": "Shroudwalker",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705563
+  },
+  {
+   "id": "32-87-4-3",
+   "points": 1,
+   "name": "Granite Resolve",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520229
+  },
+  {
+   "id": "32-87-4-4",
+   "points": 1,
+   "name": "Primal Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705636
+  },
+  {
+   "id": "32-87-2-4b",
+   "points": 1,
+   "name": "Nomad's Scroll",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 707653
+  },
+  {
+   "id": "32-87-0-3",
+   "points": 1,
+   "name": "Runic Affinity",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705621
+  },
+  {
+   "id": "32-87-0-4",
+   "points": 1,
+   "name": "Ancient Teachings",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 806797
+  },
+  {
+   "id": "32-87-1-5",
+   "points": 2,
+   "name": "Speedy Attuner",
+   "maxPoints": 2,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705554
+  },
+  {
+   "id": "32-87-3-5",
+   "points": 1,
+   "name": "Permafrost Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804060
+  },
+  {
+   "id": "32-87-4-6b",
+   "points": 1,
+   "name": "Master of Runes",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804531
+  },
+  {
+   "id": "32-87-5-5",
+   "points": 1,
+   "name": "Warding Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804232
+  },
+  {
+   "id": "32-87-6-6",
+   "points": 1,
+   "name": "Magic Feeder",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705546
+  },
+  {
+   "id": "32-87-6-8",
+   "points": 1,
+   "name": "Runic Breakout",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705583
+  },
+  {
+   "id": "32-87-6-9",
+   "points": 1,
+   "name": "Sigilist",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705586
+  },
+  {
+   "id": "32-86-4-0",
+   "points": 1,
+   "name": "Smolder",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 801087
+  },
+  {
+   "id": "32-86-2-1",
+   "points": 1,
+   "name": "Runic Omen",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705580
+  },
+  {
+   "id": "32-86-6-1",
+   "points": 2,
+   "name": "Unbound Energy",
+   "maxPoints": 2,
+   "tree": "Riftblade",
+   "spellId": 705570
+  },
+  {
+   "id": "32-86-7-2",
+   "points": 1,
+   "name": "Hoarfrost",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 801104
+  },
+  {
+   "id": "32-86-1-2",
+   "points": 1,
+   "name": "Hurricane",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 645435
+  },
+  {
+   "id": "32-86-1-3",
+   "points": 2,
+   "name": "Spellblade",
+   "maxPoints": 2,
+   "tree": "Riftblade",
+   "spellId": 705540
+  },
+  {
+   "id": "32-86-7-3",
+   "points": 1,
+   "name": "Runic Invocation",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 807204
+  },
+  {
+   "id": "32-86-8-4",
+   "points": 1,
+   "name": "Leyfrost",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 712308
+  },
+  {
+   "id": "32-86-6-4",
+   "points": 2,
+   "name": "Frost Spectre",
+   "maxPoints": 2,
+   "tree": "Riftblade",
+   "spellId": 560039
+  },
+  {
+   "id": "32-86-7-5",
+   "points": 1,
+   "name": "Elements, Heed My Call!",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706670
+  },
+  {
+   "id": "32-86-8-6",
+   "points": 1,
+   "name": "Earthen Codex",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 707460
+  },
+  {
+   "id": "32-87-7-5",
+   "points": 1,
+   "name": "Primordialism",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520054
+  },
+  {
+   "id": "32-86-0-4b",
+   "points": 1,
+   "name": "Water Runes",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 707150
+  },
+  {
+   "id": "32-86-4-2b",
+   "points": 1,
+   "name": "Cinderstorm Runes",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706458
+  },
+  {
+   "id": "32-86-4-3",
+   "points": 1,
+   "name": "Frozen Earth",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705592
+  },
+  {
+   "id": "32-86-1-5",
+   "points": 1,
+   "name": "Echo Rune",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 500270
+  },
+  {
+   "id": "32-86-0-6",
+   "points": 1,
+   "name": "Battle Engravings",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706674
+  },
+  {
+   "id": "32-86-4-5",
+   "points": 1,
+   "name": "Primordial Fury",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 806543
+  },
+  {
+   "id": "32-86-4-6",
+   "points": 1,
+   "name": "Elemental Acuity",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706671
+  },
+  {
+   "id": "32-86-5-7",
+   "points": 1,
+   "name": "Frostburn",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705594
+  },
+  {
+   "id": "32-86-3-7",
+   "points": 1,
+   "name": "Runic Power",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 300944
+  },
+  {
+   "id": "32-86-4-8",
+   "points": 1,
+   "name": "Spellfire Runes",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 801511
+  },
+  {
+   "id": "32-86-6-9",
+   "points": 1,
+   "name": "Turbulence",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705575
+  }
+ ]
+}

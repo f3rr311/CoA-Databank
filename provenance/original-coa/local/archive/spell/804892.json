@@ -1,0 +1,8 @@
+{
+  "name_enus": "Refuse To Die",
+  "icon": "sha_ability_rogue_sturdyrecuperate",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Refuse To Die</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Advance</span> now resets the cooldown of <span style=\"color: #ffffff;\">Raise Shield</span>.</span></td></tr></table><!--?804892:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

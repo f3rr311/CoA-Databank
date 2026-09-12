@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bastion Slam",
+  "icon": "custom_19_shield_border",
+  "tooltip_enus": "<table><tr><td><b>Bastion Slam</b><br /><table width=\"100%\"><tr><td>Instant</td><th>25&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Shields<br /><span class=\"q\">Slam into an enemy with your shield, dealing 189 Physical Damage to up to 3 enemies and regenerating 20% of your missing Energy.<br /><br /><span style=\"color: #66ccff;\">Motivation</span> Grants <span style=\"color: #ffffff;\">Vanguard's Grandeur</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/custom_warriorskill_23_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=520231'> Motivation: Vanguard's Grandeur </a> <br />\n                            <span> Increases the damage of <span style=\"color: #ffffff;\">Line Formation</span> by 25% and movement speed increased by 25% for 15&nbsp;sec.</span><br /></span></td></tr></table><!--?500268:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

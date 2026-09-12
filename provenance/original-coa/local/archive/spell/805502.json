@@ -1,0 +1,8 @@
+{
+  "name_enus": "Scalding Brand",
+  "icon": "inv_magemount_fire",
+  "tooltip_enus": "<table><tr><td><b>Scalding Brand</b><br />8% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Burns an enemy for 1+(PL*0.84) Fire Damage every 0 sec for 3&nbsp;sec.<br /><br />Using <span style=\"color: #ffffff;\">Firefall</span> or <span style=\"color: #ffffff;\">Lava Shard</span> against the target extends the duration of <span style=\"color: #ffffff;\">Scalding Brand</span> by 1 sec.</span></td></tr></table><!--?805502:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

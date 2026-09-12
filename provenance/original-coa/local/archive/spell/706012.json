@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wilting Away",
+  "icon": "spell_nature_naturetouchgrow",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Wilting Away</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Wilt</span> now strikes an additional nearby enemy.</span></td></tr></table><!--?706012:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

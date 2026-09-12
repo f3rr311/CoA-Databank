@@ -1,0 +1,8 @@
+{
+  "name_enus": "Freeze Ray",
+  "icon": "ability_mage_rayoffrost",
+  "tooltip_enus": "<table><tr><td><b>Freeze Ray</b><br />22% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>40&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Fire an icy ray at all enemies in a line, <span style=\"color: #ffffff;\">Freezing</span> them in place for 40&nbsp;sec (8 sec vs players). Damage dealt may end this effect.</span></td></tr></table><!--?806157:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

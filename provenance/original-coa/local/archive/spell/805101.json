@@ -1,0 +1,8 @@
+{
+  "name_enus": "Regenerative Strikes",
+  "icon": "inv_misc_scales_dragongreen01",
+  "tooltip_enus": "<table><tr><td><b>Regenerative Strikes</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Physical and Nature damage dealt now has a 15% chance to restore 33+1.0 Points Per Level+Int*.25+NatP*0.1 health.</span></td></tr></table><!--?805101:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Raise: Skeletal Mage",
+  "icon": "skeletalicemage2",
+  "tooltip_enus": "<table><tr><td><b>Raise: Skeletal Mage</b><br />40% of base mana<br />2 sec cast</td></tr></table><table><tr><td><span class=\"q\">Raise a <span style=\"color: #ffffff;\">Skeletal Mage</span> to aid you in combat, occupying <!--sp807937:0-->2<!--sp807937--> <span style=\"color: #ffffff;\">Life Force</span>.<br /><br /><span style=\"color: #90ee90;\">Command</span>: Unleashes ice at your target and enemies within 6 yds, dealing 51+1.0 Points Per Level+FroP*.8 Frost damage.</span></td></tr></table><!--?500331:1:1:80-->",
+  "spells_enus": {
+    "807937": [
+      [
+        2,
+        1
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

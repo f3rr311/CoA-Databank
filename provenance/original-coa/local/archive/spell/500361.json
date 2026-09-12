@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sanguine Orb",
+  "icon": "warlock_bloodstone",
+  "tooltip_enus": "<table><tr><td><b>Sanguine Orb</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Consumes 1 Reaped Soul</span><br />Create a Sanguine Orb for up to 10&nbsp;sec, increasing all Healing you take by 8%, and reducing the Mana Cost of your abilities by 15%. <br /><br />The next time you use an offensive ability that consumes a percentage of your Maximum Health, you will instantly be Healed for 12% of your Maximum Health.</span></td></tr></table><!--?500361:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

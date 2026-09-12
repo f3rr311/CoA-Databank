@@ -1,0 +1,8 @@
+{
+  "name_enus": "Runed Rod",
+  "icon": "inv_jewelry_trinket_02",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Runed Rod</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #FFFFFF;\">Wand of Time</span> increases your attack speed by 10% for 6&nbsp;sec.</span></td></tr></table><!--?706067:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

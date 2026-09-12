@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cutthroat",
+  "icon": "custom_archerskill_04_nobg_border",
+  "tooltip_enus": "<table><tr><td><b>Cutthroat</b><br />10 Focus<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Ranged Weapon<br /><span class=\"q\">Shoot a powerful arrow that deals Weapon Damage plus 40 and stuns the target for 1&nbsp;sec. <br /><br />Duration increased by 1 sec per stack of <span style=\"color: #8fff7a;\">Advantage</span>.</span></td></tr></table><!--?800359:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

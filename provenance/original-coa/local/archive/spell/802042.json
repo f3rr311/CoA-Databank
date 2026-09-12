@@ -1,0 +1,8 @@
+{
+  "name_enus": "Tentacle of Yogg-Saron",
+  "icon": "uico_shadow_spell_02_border",
+  "tooltip_enus": "<table><tr><td><b>Tentacle of Yogg-Saron</b><br />45% of base mana<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Summon a <span style=\"color: #ffffff;\">Tentacle of Yogg-Saron</span> near you for 30&nbsp;sec.<br /><br />Allies within 15 yds receive 6% increased healing and 50% reduced spell pushback.<br /><br />You may only have 1 <span style=\"color: #FFFFFF;\">Old God Tentacle</span> active at a time.</span></td></tr></table><!--?802042:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

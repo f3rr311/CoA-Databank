@@ -1,0 +1,809 @@
+{
+ "build": {
+  "id": "68b6daed-5abd-4227-9a4a-bc3ca1136f31",
+  "title": "BEEG Sustain Soul Reaper",
+  "description": "",
+  "class_id": 30,
+  "spec_id": 80,
+  "author_id": "44f0896a-6f5c-4019-95ff-c99794aaf948",
+  "talent_string": "W1siMzAtODctMi0wIiwxXSxbIjMwLTg3LTQtMCIsMV0sWyIzMC04Ny02LTAiLDFdLFsiMzAtODctOC0xIiwxXSxbIjMwLTg3LTctMiIsMV0sWyIzMC04Ny03LTMiLDFdLFsiMzAtODctMy0xIiwxXSxbIjMwLTg3LTEtMiIsMV0sWyIzMC04Ny00LTIiLDFdLFsiMzAtODctNC0zIiwxXSxbIjMwLTg3LTYtNCIsMV0sWyIzMC04Ny03LTUiLDFdLFsiMzAtODctOC02IiwxXSxbIjMwLTg3LTEtMyIsMV0sWyIzMC04Ny0yLTQiLDFdLFsiMzAtODctMS01IiwxXSxbIjMwLTg3LTAtNiIsMV0sWyIzMC04Ny0yLTYiLDFdLFsiMzAtODctMi03YSIsMV0sWyIzMC04Ny00LTUiLDFdLFsiMzAtODctNC02IiwxXSxbIjMwLTg3LTQtNyIsMV0sWyIzMC04Ny02LTciLDFdLFsiMzAtODctNi02IiwxXSxbIjMwLTg3LTQtOCIsMV0sWyIzMC04Ny00LTkiLDFdLFsiMzAtODAtMTAtMCIsMV0sWyIzMC04MC0xMC0yIiwxXSxbIjMwLTgwLTQtMCIsMV0sWyIzMC04MC0yLTEiLDFdLFsiMzAtODAtMS0yIiwxXSxbIjMwLTgwLTYtMSIsMV0sWyIzMC04MC03LTIiLDFdLFsiMzAtODAtNC0yIiwxXSxbIjMwLTgwLTItMyIsMV0sWyIzMC04MC00LTNiIiwxXSxbIjMwLTgwLTQtNCIsMV0sWyIzMC04MC0yLTQiLDFdLFsiMzAtODAtMC01IiwxXSxbIjMwLTgwLTEtNiIsMV0sWyIzMC04MC0yLTViIiwxXSxbIjMwLTgwLTMtNiIsMV0sWyIzMC04MC02LTQiLDFdLFsiMzAtODAtNi01IiwxXSxbIjMwLTgwLTEwLTQiLDFdLFsiMzAtODAtMTAtNiIsMV0sWyIzMC04MC04LTUiLDFdLFsiMzAtODAtNS02IiwxXSxbIjMwLTgwLTQtN2EiLDFdLFsiMzAtODAtMi03IiwxXSxbIjMwLTgwLTUtNSIsMV0sWyIzMC04MC03LTYiLDFdLFsiMzAtODAtNi03IiwxXSxbIjMwLTgwLTEwLTgiLDFdLFsiMzAtODAtNC04IiwxXSxbIjMwLTgwLTQtOSIsMV1d",
+  "tags": [],
+  "role": "dps",
+  "content_type": "pvp",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 2,
+  "comment_count": 0,
+  "created_at": "2026-07-14T17:34:17.569906+00:00",
+  "updated_at": "2026-07-14T17:34:17.569906+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 2354,
+  "net_score": -1,
+  "has_talents": true,
+  "guide_section_count": 0,
+  "author": {
+   "id": "44f0896a-6f5c-4019-95ff-c99794aaf948",
+   "username": "Vic",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJqvNwPtGhRkyNadxQASY62iRU412UctJZBhjNQ2KeFo6WKMB9LjA=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "abdf893c-83d0-4c9e-990f-4630c8d854ac",
+   "title": "Harvest PvP King",
+   "class_id": 30,
+   "spec_id": 79,
+   "author_id": "fe93b8d9-5bb6-4b72-a1bb-29e62638a07a",
+   "tags": [
+    "PvP",
+    "BG"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 3059,
+   "featured": false,
+   "created_at": "2026-07-22T10:25:42.042729+00:00",
+   "updated_at": "2026-07-26T11:46:10.651+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "fe93b8d9-5bb6-4b72-a1bb-29e62638a07a",
+    "username": "NxSqq",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKrz-EmNorutr7-9j0uI0vcrbY282S24-Dy0V7XT3hl8M27sAZE=s96-c"
+   }
+  },
+  {
+   "id": "2c5d077a-6cec-4793-a39a-6b872ea55690",
+   "title": "Reaper PVP BIS",
+   "class_id": 30,
+   "spec_id": 80,
+   "author_id": "e877936a-f28e-45ed-ae43-af06520e0733",
+   "tags": [
+    "pvp"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1242,
+   "featured": false,
+   "created_at": "2026-07-23T06:35:07.072239+00:00",
+   "updated_at": "2026-07-28T02:43:33.674+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "e877936a-f28e-45ed-ae43-af06520e0733",
+    "username": "ataraxiex",
+    "avatar_url": "https://cdn.discordapp.com/avatars/263704149642706946/85e702a8a350831a54d9159438a40ad7.png"
+   }
+  },
+  {
+   "id": "88596de6-f880-4259-81d5-df050640d357",
+   "title": "Reaper Tank Dungs/Raid/Hit/Parry/ST",
+   "class_id": 30,
+   "spec_id": 81,
+   "author_id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+   "tags": [
+    "Tank",
+    "reaper",
+    "sustain",
+    "damage",
+    "aoe",
+    "shield",
+    "kazzak",
+    "raid"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 3,
+   "view_count": 3561,
+   "featured": false,
+   "created_at": "2026-07-18T20:36:27.817689+00:00",
+   "updated_at": "2026-07-21T22:44:52.863+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+    "username": "bvflowers.",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1445260398474432556/5f38aa6b11650a30cf3ddfe52dd91486.png"
+   }
+  }
+ ],
+ "class": "Reaper",
+ "spec": "Soul",
+ "allocations": [
+  [
+   "30-87-2-0",
+   1
+  ],
+  [
+   "30-87-4-0",
+   1
+  ],
+  [
+   "30-87-6-0",
+   1
+  ],
+  [
+   "30-87-8-1",
+   1
+  ],
+  [
+   "30-87-7-2",
+   1
+  ],
+  [
+   "30-87-7-3",
+   1
+  ],
+  [
+   "30-87-3-1",
+   1
+  ],
+  [
+   "30-87-1-2",
+   1
+  ],
+  [
+   "30-87-4-2",
+   1
+  ],
+  [
+   "30-87-4-3",
+   1
+  ],
+  [
+   "30-87-6-4",
+   1
+  ],
+  [
+   "30-87-7-5",
+   1
+  ],
+  [
+   "30-87-8-6",
+   1
+  ],
+  [
+   "30-87-1-3",
+   1
+  ],
+  [
+   "30-87-2-4",
+   1
+  ],
+  [
+   "30-87-1-5",
+   1
+  ],
+  [
+   "30-87-0-6",
+   1
+  ],
+  [
+   "30-87-2-6",
+   1
+  ],
+  [
+   "30-87-2-7a",
+   1
+  ],
+  [
+   "30-87-4-5",
+   1
+  ],
+  [
+   "30-87-4-6",
+   1
+  ],
+  [
+   "30-87-4-7",
+   1
+  ],
+  [
+   "30-87-6-7",
+   1
+  ],
+  [
+   "30-87-6-6",
+   1
+  ],
+  [
+   "30-87-4-8",
+   1
+  ],
+  [
+   "30-87-4-9",
+   1
+  ],
+  [
+   "30-80-10-0",
+   1
+  ],
+  [
+   "30-80-10-2",
+   1
+  ],
+  [
+   "30-80-4-0",
+   1
+  ],
+  [
+   "30-80-2-1",
+   1
+  ],
+  [
+   "30-80-1-2",
+   1
+  ],
+  [
+   "30-80-6-1",
+   1
+  ],
+  [
+   "30-80-7-2",
+   1
+  ],
+  [
+   "30-80-4-2",
+   1
+  ],
+  [
+   "30-80-2-3",
+   1
+  ],
+  [
+   "30-80-4-3b",
+   1
+  ],
+  [
+   "30-80-4-4",
+   1
+  ],
+  [
+   "30-80-2-4",
+   1
+  ],
+  [
+   "30-80-0-5",
+   1
+  ],
+  [
+   "30-80-1-6",
+   1
+  ],
+  [
+   "30-80-2-5b",
+   1
+  ],
+  [
+   "30-80-3-6",
+   1
+  ],
+  [
+   "30-80-6-4",
+   1
+  ],
+  [
+   "30-80-6-5",
+   1
+  ],
+  [
+   "30-80-10-4",
+   1
+  ],
+  [
+   "30-80-10-6",
+   1
+  ],
+  [
+   "30-80-8-5",
+   1
+  ],
+  [
+   "30-80-5-6",
+   1
+  ],
+  [
+   "30-80-4-7a",
+   1
+  ],
+  [
+   "30-80-2-7",
+   1
+  ],
+  [
+   "30-80-5-5",
+   1
+  ],
+  [
+   "30-80-7-6",
+   1
+  ],
+  [
+   "30-80-6-7",
+   1
+  ],
+  [
+   "30-80-10-8",
+   1
+  ],
+  [
+   "30-80-4-8",
+   1
+  ],
+  [
+   "30-80-4-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "30-87-2-0",
+   "points": 1,
+   "name": "Wraithblade",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805258
+  },
+  {
+   "id": "30-87-4-0",
+   "points": 1,
+   "name": "Scythe Rush",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 500359
+  },
+  {
+   "id": "30-87-6-0",
+   "points": 1,
+   "name": "Tormented Souls",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 500483
+  },
+  {
+   "id": "30-87-8-1",
+   "points": 1,
+   "name": "Soulfused Constitution",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 561100
+  },
+  {
+   "id": "30-87-7-2",
+   "points": 1,
+   "name": "Jailer's Bargain",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805718
+  },
+  {
+   "id": "30-87-7-3",
+   "points": 1,
+   "name": "Harvester's Scythe",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805188
+  },
+  {
+   "id": "30-87-3-1",
+   "points": 1,
+   "name": "Backswing",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 706790
+  },
+  {
+   "id": "30-87-1-2",
+   "points": 1,
+   "name": "Veilwalk",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 803990
+  },
+  {
+   "id": "30-87-4-2",
+   "points": 1,
+   "name": "Soul Warden",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 560419
+  },
+  {
+   "id": "30-87-4-3",
+   "points": 1,
+   "name": "Withering Touch",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 573071
+  },
+  {
+   "id": "30-87-6-4",
+   "points": 1,
+   "name": "Dominion",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 803999
+  },
+  {
+   "id": "30-87-7-5",
+   "points": 1,
+   "name": "Limbo",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 800845
+  },
+  {
+   "id": "30-87-8-6",
+   "points": 1,
+   "name": "Dark Passage",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 704558
+  },
+  {
+   "id": "30-87-1-3",
+   "points": 1,
+   "name": "Ghastly Form",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 704357
+  },
+  {
+   "id": "30-87-2-4",
+   "points": 1,
+   "name": "From the Shadows",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 561099
+  },
+  {
+   "id": "30-87-1-5",
+   "points": 1,
+   "name": "Ghastly Screech",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 806146
+  },
+  {
+   "id": "30-87-0-6",
+   "points": 1,
+   "name": "Ghastly Advance",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 805192
+  },
+  {
+   "id": "30-87-2-6",
+   "points": 1,
+   "name": "Damned",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 706786
+  },
+  {
+   "id": "30-87-2-7a",
+   "points": 1,
+   "name": "Between Shadows",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 560412
+  },
+  {
+   "id": "30-87-4-5",
+   "points": 1,
+   "name": "Spectre Strength",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 804671
+  },
+  {
+   "id": "30-87-4-6",
+   "points": 1,
+   "name": "Soul Tap",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 807397
+  },
+  {
+   "id": "30-87-4-7",
+   "points": 1,
+   "name": "Mawborn",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805203
+  },
+  {
+   "id": "30-87-6-7",
+   "points": 1,
+   "name": "Essence Invigoration",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805186
+  },
+  {
+   "id": "30-87-6-6",
+   "points": 1,
+   "name": "Soul Protector",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 300553
+  },
+  {
+   "id": "30-87-4-8",
+   "points": 1,
+   "name": "Masochistic Rage",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 803030
+  },
+  {
+   "id": "30-87-4-9",
+   "points": 1,
+   "name": "Painbringer",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 680995
+  },
+  {
+   "id": "30-80-10-0",
+   "points": 1,
+   "name": "Weakened Souls",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 92146
+  },
+  {
+   "id": "30-80-10-2",
+   "points": 1,
+   "name": "Spirit Render",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 570338
+  },
+  {
+   "id": "30-80-4-0",
+   "points": 1,
+   "name": "Deathchaser",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 805190
+  },
+  {
+   "id": "30-80-2-1",
+   "points": 1,
+   "name": "Soulforged Weaponry",
+   "maxPoints": 2,
+   "tree": "Soul",
+   "spellId": 561127
+  },
+  {
+   "id": "30-80-1-2",
+   "points": 1,
+   "name": "Dirge",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 801328
+  },
+  {
+   "id": "30-80-6-1",
+   "points": 1,
+   "name": "Mark of Death",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 560917
+  },
+  {
+   "id": "30-80-7-2",
+   "points": 1,
+   "name": "Shattered Souls",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 705441
+  },
+  {
+   "id": "30-80-4-2",
+   "points": 1,
+   "name": "Ghostly Weapon",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 803997
+  },
+  {
+   "id": "30-80-2-3",
+   "points": 1,
+   "name": "Soul Generator",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 520056
+  },
+  {
+   "id": "30-80-4-3b",
+   "points": 1,
+   "name": "Death Dealer",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 705401
+  },
+  {
+   "id": "30-80-4-4",
+   "points": 1,
+   "name": "Ghastly Hilt",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 560927
+  },
+  {
+   "id": "30-80-2-4",
+   "points": 1,
+   "name": "Ghostly Magic",
+   "maxPoints": 2,
+   "tree": "Soul",
+   "spellId": 803998
+  },
+  {
+   "id": "30-80-0-5",
+   "points": 1,
+   "name": "Anima Ambusher",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 705424
+  },
+  {
+   "id": "30-80-1-6",
+   "points": 1,
+   "name": "Apparition",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 705389
+  },
+  {
+   "id": "30-80-2-5b",
+   "points": 1,
+   "name": "Soul Piercer",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 712484
+  },
+  {
+   "id": "30-80-3-6",
+   "points": 1,
+   "name": "Shade",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 573038
+  },
+  {
+   "id": "30-80-6-4",
+   "points": 1,
+   "name": "Soulbender",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 804004
+  },
+  {
+   "id": "30-80-6-5",
+   "points": 1,
+   "name": "Chasing Death",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 707455
+  },
+  {
+   "id": "30-80-10-4",
+   "points": 1,
+   "name": "Spectre",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 561170
+  },
+  {
+   "id": "30-80-10-6",
+   "points": 1,
+   "name": "Beyond the Veil",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 804053
+  },
+  {
+   "id": "30-80-8-5",
+   "points": 1,
+   "name": "Spirit Chaser",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 560434
+  },
+  {
+   "id": "30-80-5-6",
+   "points": 1,
+   "name": "Purgatory",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 504046
+  },
+  {
+   "id": "30-80-4-7a",
+   "points": 1,
+   "name": "Spiritual Reflexes",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 705436
+  },
+  {
+   "id": "30-80-2-7",
+   "points": 1,
+   "name": "The Jailer's Call",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 805195
+  },
+  {
+   "id": "30-80-5-5",
+   "points": 1,
+   "name": "Essence Harvest",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 707908
+  },
+  {
+   "id": "30-80-7-6",
+   "points": 1,
+   "name": "Soul Bane",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 705392
+  },
+  {
+   "id": "30-80-6-7",
+   "points": 1,
+   "name": "Spectre's Call",
+   "maxPoints": 2,
+   "tree": "Soul",
+   "spellId": 705386
+  },
+  {
+   "id": "30-80-10-8",
+   "points": 1,
+   "name": "Sepulchral Renewal",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 561102
+  },
+  {
+   "id": "30-80-4-8",
+   "points": 1,
+   "name": "The End Is Near",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 680996
+  },
+  {
+   "id": "30-80-4-9",
+   "points": 1,
+   "name": "Soulrot",
+   "maxPoints": 1,
+   "tree": "Soul",
+   "spellId": 805196
+  }
+ ]
+}

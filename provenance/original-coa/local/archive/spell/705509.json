@@ -1,0 +1,8 @@
+{
+  "name_enus": "By Royal Order",
+  "icon": "inv_misc_coin_17",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>By Royal Order</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the effectiveness of <span style=\"color: #ffffff;\">Set Bounty</span> by 0%.</span></td></tr></table><!--?705509:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

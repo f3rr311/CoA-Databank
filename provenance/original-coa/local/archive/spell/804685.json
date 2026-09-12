@@ -1,0 +1,15 @@
+{
+  "name_enus": "Bloodbolt",
+  "icon": "spell_animarevendreth_missile",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bloodbolt</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>40 Rage<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Hurl a bolt of blood at an enemy, dealing 17+0+ShaP*0.45+AP*0.2 Shadow damage, healing you equal to the damage dealt.<!--sp681078:0--><!--sp681078--></span></td></tr></table><!--?804685:1:1:80-->",
+  "spells_enus": {
+    "681078": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #FFE539\">Empowered</span>: Deals 100% increased damage to the initial target struck."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lunar Focus",
+  "icon": "ability_mage_potentspirit",
+  "tooltip_enus": "<table><tr><td><b>Lunar Focus</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your movement speed by 50% for 4&nbsp;sec.</span></td></tr></table><!--?801139:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

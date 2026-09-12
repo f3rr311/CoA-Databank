@@ -1,0 +1,8 @@
+{
+  "name_enus": "Reprisal",
+  "icon": "inv_sword_29",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Reprisal</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\"><span style=\"color: #ffffff;\">2 Charges, 6 sec recharge</span><br />Counterattack an enemy, dealing 105% Weapon Damage plus 12 and restoring 20 Energy.<br /><br />Only usable after blocking an attack.</span></td></tr></table><!--?800316:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

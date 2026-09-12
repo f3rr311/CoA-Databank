@@ -1,0 +1,8 @@
+{
+  "name_enus": "Arc Lightning",
+  "icon": "5_normal28storm2",
+  "tooltip_enus": "<table><tr><td><b>Arc Lightning</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Electrocute</span> adds 2 stacks of <span style=\"color: #ffffff;\">Flux</span> to the target and allows both spells to strike an additional nearby enemy.</span></td></tr></table><!--?804829:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,53 @@
+Sun Cleric Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Sun Cleric Overview
+ Sun Clerics worship the physical sun, augmenting the Light with raw fire. Piety casts devastating holy-fire spells, Seraphim tanks or DPSes with radiant shields, Blessings heals through solar faith, and Valkyrie carves paths of righteous destruction in melee. Sunset stacks reward timing and create explosive burst moments.
+ Paladin of the blazing sun wielding righteous fire to heal, protect, or smite enemies with divine fury.
+ Class Mechanic — Sunset
+ Certain abilities generate Solar Power; at 20 stacks, unleash it to modify spells with additional effects.
+ Sun Cleric uses Solar Power as its primary resource and wears Cloth / Plate armor.
+ Specializations
+ At level 10, Sun Cleric players choose one of three specializations, each offering a distinct playstyle:
+ Piety: Solar priest weaving burning light into powerful holy and fire spells with Sunset burst windows.
+ Seraphim: Wrathful angel dual-wielding DPS or shield tank, infusing weapons and armor with burning light.
+ Blessings: Healer using faith in flame to protect allies, building Solar Power for massive group healing.
+ Valkyrie: Val'kyr-imbued dual-wielding melee unleashing devastating flurries of flaming spear strikes.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Four roles from one class
+ Strength: Plate durability on Seraphim/Valkyrie
+ Strength: Sunset burst damage windows
+ Weakness: Solar Power resource management
+ Weakness: Complex spec selection
+ Weakness: Multiple stat priorities across specs
+ Leveling Tips
+ Valkyrie or Seraphim DPS levels fastest solo with plate durability. Switch to Blessings when joining groups. Stack Sunset before spending for optimal burst.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Seraphim shield tanks hold battleground objectives. Piety burst at 20 Sunset stacks deletes arena targets.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Sun Cleric in Conquest of Azeroth? Sun Cleric is a Tank / DPS / Healer class wearing Cloth / Plate armor with Solar Power as its resource.
+ What is the Sunset mechanic? Certain abilities generate Solar Power; at 20 stacks, unleash it to modify spells with additional effects.
+ When do Sun Cleric specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Sun Cleric good for beginners? Sun Cleric has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Sun Cleric have? Sun Cleric has three specializations: Piety, Seraphim, Blessings, Valkyrie.

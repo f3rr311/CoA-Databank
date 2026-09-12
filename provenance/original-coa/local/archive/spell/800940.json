@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cull",
+  "icon": "inv_sword_2h_artifactsoulrend_d_06",
+  "tooltip_enus": "<table><tr><td><b>Cull</b><br /><table width=\"100%\"><tr><td>Instant</td><th>25&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Leap forward through the air swinging your scythe in an arc. <br /><br />After 2&nbsp;sec, or when you land, unleash a spinning attack that deals 30% Weapon Damage to nearby enemies and generating 1 <span style=\"color: #ffffff;\">Soul Fragment</span> for each target struck.</span></td></tr></table><!--?800940:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

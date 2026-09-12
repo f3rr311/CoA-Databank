@@ -1,0 +1,753 @@
+{
+ "build": {
+  "id": "8b71e0a8-ce26-4f30-aa34-ab211967563c",
+  "title": "Moon Priest Raid Healer and Heroic Healer Build",
+  "description": "[overview]\n# 🏹 Ascension Cosmic Hunter/Healer Rotation Guide 🌕\n\nWelcome to the ultimate performance breakdown for the high-tempo **Moon Priest** build. This hybrid specialization focuses on generating **Scattered Stars** resources and detonating them via **Lunar Eclipse** windows for explosive raid healing or infinite mana sustain.\n\n---\n\n### 🔄 Core Single-Target & Boss Priority\n\nThe heart of this build revolves around a simple, high-velocity loop: **Build to 6 stacks, modify your state, and detonate.**\n\n#### 1️⃣ The Stack Engine (Building Power)\n* **`Huntress Shot` (Spam Filler):** Your primary baseline activity. Chain this **4 to 6 times** sequentially. \n* ⚠️ *Pro-Tip:* Resist the urge to pop your stars early! Maximizing your stacks to the cap of 6 ensures perfect global cooldown (GCD) efficiency and peak throughput.\n\n#### 2️⃣ The Cosmic Payoff (Unleashing the Stars)\nWhen you hit max stacks, or the raid takes a sudden chunk of damage, execute the burst engine:\n* 💎 `Lunar Eclipse` ➔ 🌊 `Moonflow`\n* *Why it works:* `Lunar Eclipse` completely resets and removes the cooldown of `Moonflow`. This allows you to instantly detonate your accumulated Scattered Stars for a massive tidal wave of raid healing without dropping a global.\n\n#### 3️⃣ Tank Maintenance\n* **`Touch of Moonlight`:** Your main priority is keeping *Eclipsing Arrow* active on the active tank at all times.\n* *The Trick:* Always activate `Lunar Eclipse` first to turn `Touch of Moonlight` into an **instant cast**, preventing any downtime on your DPS/Healing rotation.\n\n#### 4️⃣ The Mana Recovery Loop 🔋\nIf your mana pool starts dipping, immediately shift from a healing priority to a sustain priority:\n* **Weave `Moon Arrow` (Rank 2):** Swap your filler from Huntress Shot to Moon Arrow. The Rank 2 variant features a hyper-short cast time, allowing you to regen mana without stalling your momentum.\n* **The Mana Dump:** Instead of detonating your Scattered Stars with Moonflow, pop them using **`Lunar Lance`** to aggressively restore your mana bar.\n\n---\n\n### ⚡ Major Cooldown Management\n\n| Cooldown | Icon/Combo | Optimal Usage |\n| :--- | :--- | :--- |\n| **Stellar Convergence** | 🌌 | Cast 2–3 seconds *before* a massive, scripted boss AOE mechanic hits the platform. |\n| **Moonwell** | 🔮 | Drop immediately after *Stellar Convergence*. Use the mana replenishment to spam instant-cast heals during the high-stress Full Moon window. |\n\n---\n\n### 💥 AOE & Trash Pull Automation\n\nWhen the tank grabs massive packs of trash, your job is to turn enemy mobs into healing beacons for your party.\n\n1.  🛡️ **Protect:** Ensure the tank is pre-buffed with *Eclipsing Arrow* (`Lunar Eclipse` ➔ `Touch of Moonlight`).\n2.  🌱 **Seed:** Wait for the pack to cluster tightly, then drop **`Starshatter`**. This locks the pack down with a group stun and instantly paints **Scattered Stars** onto *every single enemy* in the pull.\n3.  💥 **Detonate:** Immediately unleash **`Lunar Eclipse` ➔ `Moonflow`**. Detonating Scattered Stars across a massive clump of enemies simultaneously produces an unparalleled amount of localized AOE healing.\n\n[stats]\nCrit>Int>Spellpower",
+  "class_id": 26,
+  "spec_id": 68,
+  "author_id": "eca4e600-2ce9-41fb-b0e0-f77c0b224396",
+  "talent_string": "W1siMjYtODctMS0wIiwxXSxbIjI2LTg3LTMtMCIsMV0sWyIyNi04Ny01LTAiLDFdLFsiMjYtODctMi0xIiwxXSxbIjI2LTg3LTYtMSIsMl0sWyIyNi04Ny00LTEiLDFdLFsiMjYtODctNy0yIiwxXSxbIjI2LTg3LTQtMiIsMV0sWyIyNi04Ny0xLTIiLDFdLFsiMjYtODctMC0zIiwxXSxbIjI2LTg3LTQtMyIsMl0sWyIyNi04Ny02LTMiLDFdLFsiMjYtODctNi00IiwxXSxbIjI2LTg3LTQtNGEiLDFdLFsiMjYtODctMC01IiwxXSxbIjI2LTg3LTItNSIsMV0sWyIyNi04Ny00LTUiLDFdLFsiMjYtODctNi01IiwxXSxbIjI2LTg3LTYtNiIsMV0sWyIyNi04Ny0yLTYiLDFdLFsiMjYtODctNC03IiwxXSxbIjI2LTg3LTEtNyIsMV0sWyIyNi04Ny0xLTgiLDFdLFsiMjYtODctMS05IiwxXSxbIjI2LTY4LTQtMCIsMV0sWyIyNi02OC00LTEiLDFdLFsiMjYtNjgtNi0xIiwxXSxbIjI2LTY4LTItMSIsMV0sWyIyNi02OC00LTIiLDFdLFsiMjYtNjgtNC0zIiwxXSxbIjI2LTY4LTctMyIsMV0sWyIyNi02OC0xLTMiLDFdLFsiMjYtNjgtOC00IiwxXSxbIjI2LTY4LTYtNCIsMV0sWyIyNi02OC0wLTQiLDFdLFsiMjYtNjgtMC02IiwxXSxbIjI2LTY4LTEtNSIsMV0sWyIyNi02OC00LTQiLDFdLFsiMjYtNjgtNC01YiIsMV0sWyIyNi02OC0yLTUiLDFdLFsiMjYtNjgtNy01IiwxXSxbIjI2LTY4LTQtNiIsMV0sWyIyNi02OC01LTciLDFdLFsiMjYtNjgtMi02IiwxXSxbIjI2LTY4LTYtNiIsMV0sWyIyNi02OC0zLTciLDFdLFsiMjYtNjgtNi04IiwxXSxbIjI2LTY4LTYtOSIsMV0sWyIyNi02OC0yLTQiLDFdXQ",
+  "tags": [],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 2,
+  "created_at": "2026-07-17T15:30:06.29938+00:00",
+  "updated_at": "2026-07-19T16:34:34.993+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 2169,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "eca4e600-2ce9-41fb-b0e0-f77c0b224396",
+   "username": "senzei",
+   "avatar_url": "https://cdn.discordapp.com/avatars/228259894531194893/a_ea2bbe2dd4f44704471dffb304c7e5ab.gif"
+  }
+ },
+ "comments": [
+  {
+   "id": "c448da16-277b-4e69-9ab1-4c0d88b2c252",
+   "build_id": "8b71e0a8-ce26-4f30-aa34-ab211967563c",
+   "author_id": "84e28fac-314a-48fc-adf5-239b447530ad",
+   "parent_id": null,
+   "body": "I think Aeges will be better than Wardens Blade",
+   "upvotes": 0,
+   "created_at": "2026-07-25T17:02:53.687507+00:00",
+   "updated_at": "2026-07-30T14:35:21.898889+00:00",
+   "downvotes": 1,
+   "hidden": false,
+   "author": {
+    "id": "84e28fac-314a-48fc-adf5-239b447530ad",
+    "username": "manyafels",
+    "avatar_url": "https://cdn.discordapp.com/avatars/386601389071007744/77a76e4f3bf512269178d952c35db78d.png"
+   }
+  },
+  {
+   "id": "8ce7b2cb-4e06-4d76-9b48-20843bf751ff",
+   "build_id": "8b71e0a8-ce26-4f30-aa34-ab211967563c",
+   "author_id": "05379364-3334-4f74-929a-872571818adc",
+   "parent_id": "c448da16-277b-4e69-9ab1-4c0d88b2c252",
+   "body": "Correct me if I'm wrong, but as a healer, among aegis spells that share a cooldown with each other, in what case you'd prefer to counter attack your opponent (infused aegis) instead of reducing ALL damage taken by 25% (celestial aegis)? Moreover, testing the spell with a 1H weapon on some mobs outside the capital, it seems to counterattack for 3-5 arcane damage, not preventing the hit reaching you. Either this skill is genuinely weak or bugged altogether.",
+   "upvotes": 0,
+   "created_at": "2026-07-31T10:13:34.320399+00:00",
+   "updated_at": "2026-07-31T10:13:34.320399+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "05379364-3334-4f74-929a-872571818adc",
+    "username": "drowpall",
+    "avatar_url": "https://cdn.discordapp.com/avatars/231738423503749120/27eeed1c730c0840487bebb89720f4db.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "42369f7d-6a9b-45a2-a284-892ee8d5e70d",
+   "title": "Moon Guard Tank",
+   "class_id": 26,
+   "spec_id": 67,
+   "author_id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+   "tags": [
+    "Moon Guard",
+    "aoe",
+    "tank",
+    "m+",
+    "Starcaller",
+    "goon guard"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 2,
+   "view_count": 519,
+   "featured": false,
+   "created_at": "2026-07-26T05:11:14.943558+00:00",
+   "updated_at": "2026-07-26T05:11:14.943558+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+    "username": "Augusto R.A",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL-BwAqiaXC2HCf37ylOwfadsrOg1LOqGO1Ljzqd6AU0IBsMj_t=s96-c"
+   }
+  },
+  {
+   "id": "0186feb6-32f0-46d9-8914-26261bca5475",
+   "title": "Warden PvP Skirmisher GOD Build",
+   "class_id": 26,
+   "spec_id": 89,
+   "author_id": "d65c498f-7528-404d-9e6f-ceac1f8307d7",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1929,
+   "featured": false,
+   "created_at": "2026-07-20T06:23:30.006276+00:00",
+   "updated_at": "2026-07-21T05:12:05.586+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "d65c498f-7528-404d-9e6f-ceac1f8307d7",
+    "username": "B Hw",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKvaGXyQi4bWkOVw82KF7QS9CXSqUmjiuURDfqSnrRb4BvhEw=s96-c"
+   }
+  },
+  {
+   "id": "9bf37522-d3ec-40bb-9f59-fddc92bb15fd",
+   "title": "Warden test",
+   "class_id": 26,
+   "spec_id": 89,
+   "author_id": "236c0a03-2fc1-4acd-9277-2a59e98f0f9a",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 2577,
+   "featured": false,
+   "created_at": "2026-07-19T18:17:01.725041+00:00",
+   "updated_at": "2026-07-20T13:46:27.047+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "236c0a03-2fc1-4acd-9277-2a59e98f0f9a",
+    "username": "pikachu_no_acido",
+    "avatar_url": "https://cdn.discordapp.com/avatars/756154367698010173/ff89765c6225a6887caa210e3933cade.png"
+   }
+  }
+ ],
+ "class": "Starcaller",
+ "spec": "Moon Priest",
+ "allocations": [
+  [
+   "26-87-1-0",
+   1
+  ],
+  [
+   "26-87-3-0",
+   1
+  ],
+  [
+   "26-87-5-0",
+   1
+  ],
+  [
+   "26-87-2-1",
+   1
+  ],
+  [
+   "26-87-6-1",
+   2
+  ],
+  [
+   "26-87-4-1",
+   1
+  ],
+  [
+   "26-87-7-2",
+   1
+  ],
+  [
+   "26-87-4-2",
+   1
+  ],
+  [
+   "26-87-1-2",
+   1
+  ],
+  [
+   "26-87-0-3",
+   1
+  ],
+  [
+   "26-87-4-3",
+   2
+  ],
+  [
+   "26-87-6-3",
+   1
+  ],
+  [
+   "26-87-6-4",
+   1
+  ],
+  [
+   "26-87-4-4a",
+   1
+  ],
+  [
+   "26-87-0-5",
+   1
+  ],
+  [
+   "26-87-2-5",
+   1
+  ],
+  [
+   "26-87-4-5",
+   1
+  ],
+  [
+   "26-87-6-5",
+   1
+  ],
+  [
+   "26-87-6-6",
+   1
+  ],
+  [
+   "26-87-2-6",
+   1
+  ],
+  [
+   "26-87-4-7",
+   1
+  ],
+  [
+   "26-87-1-7",
+   1
+  ],
+  [
+   "26-87-1-8",
+   1
+  ],
+  [
+   "26-87-1-9",
+   1
+  ],
+  [
+   "26-68-4-0",
+   1
+  ],
+  [
+   "26-68-4-1",
+   1
+  ],
+  [
+   "26-68-6-1",
+   1
+  ],
+  [
+   "26-68-2-1",
+   1
+  ],
+  [
+   "26-68-4-2",
+   1
+  ],
+  [
+   "26-68-4-3",
+   1
+  ],
+  [
+   "26-68-7-3",
+   1
+  ],
+  [
+   "26-68-1-3",
+   1
+  ],
+  [
+   "26-68-8-4",
+   1
+  ],
+  [
+   "26-68-6-4",
+   1
+  ],
+  [
+   "26-68-0-4",
+   1
+  ],
+  [
+   "26-68-0-6",
+   1
+  ],
+  [
+   "26-68-1-5",
+   1
+  ],
+  [
+   "26-68-4-4",
+   1
+  ],
+  [
+   "26-68-4-5b",
+   1
+  ],
+  [
+   "26-68-2-5",
+   1
+  ],
+  [
+   "26-68-7-5",
+   1
+  ],
+  [
+   "26-68-4-6",
+   1
+  ],
+  [
+   "26-68-5-7",
+   1
+  ],
+  [
+   "26-68-2-6",
+   1
+  ],
+  [
+   "26-68-6-6",
+   1
+  ],
+  [
+   "26-68-3-7",
+   1
+  ],
+  [
+   "26-68-6-8",
+   1
+  ],
+  [
+   "26-68-6-9",
+   1
+  ],
+  [
+   "26-68-2-4",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "26-87-1-0",
+   "points": 1,
+   "name": "Touch of Moonlight",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 574328
+  },
+  {
+   "id": "26-87-3-0",
+   "points": 1,
+   "name": "Shooting Star",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 800505
+  },
+  {
+   "id": "26-87-5-0",
+   "points": 1,
+   "name": "Warden's Blade",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 805508
+  },
+  {
+   "id": "26-87-2-1",
+   "points": 1,
+   "name": "Astral Projection",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300994
+  },
+  {
+   "id": "26-87-6-1",
+   "points": 2,
+   "name": "Flow of Mana",
+   "maxPoints": 2,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704604
+  },
+  {
+   "id": "26-87-4-1",
+   "points": 1,
+   "name": "Star Citizen",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704776
+  },
+  {
+   "id": "26-87-7-2",
+   "points": 1,
+   "name": "Protected by the Stars",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300258
+  },
+  {
+   "id": "26-87-4-2",
+   "points": 1,
+   "name": "Galaxy",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 800508
+  },
+  {
+   "id": "26-87-1-2",
+   "points": 1,
+   "name": "Bright Moon",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801226
+  },
+  {
+   "id": "26-87-0-3",
+   "points": 1,
+   "name": "Enchanted Well",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 680820
+  },
+  {
+   "id": "26-87-4-3",
+   "points": 2,
+   "name": "Starbarian",
+   "maxPoints": 2,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704778
+  },
+  {
+   "id": "26-87-6-3",
+   "points": 1,
+   "name": "Astral Aegis",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 806155
+  },
+  {
+   "id": "26-87-6-4",
+   "points": 1,
+   "name": "Mu'sha's Resilience",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704774
+  },
+  {
+   "id": "26-87-4-4a",
+   "points": 1,
+   "name": "Lunar Anomaly",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300989
+  },
+  {
+   "id": "26-87-0-5",
+   "points": 1,
+   "name": "The Stars Align",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300251
+  },
+  {
+   "id": "26-87-2-5",
+   "points": 1,
+   "name": "Vial of Moonwell Water",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 804652
+  },
+  {
+   "id": "26-87-4-5",
+   "points": 1,
+   "name": "Starshatter",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801135
+  },
+  {
+   "id": "26-87-6-5",
+   "points": 1,
+   "name": "Reverse Magic",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 570231
+  },
+  {
+   "id": "26-87-6-6",
+   "points": 1,
+   "name": "Constellation Barrier",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300259
+  },
+  {
+   "id": "26-87-2-6",
+   "points": 1,
+   "name": "Moonwell Tides",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 560951
+  },
+  {
+   "id": "26-87-4-7",
+   "points": 1,
+   "name": "Way of the Goddess",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801976
+  },
+  {
+   "id": "26-87-1-7",
+   "points": 1,
+   "name": "Moonblessed Aspects",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 706232
+  },
+  {
+   "id": "26-87-1-8",
+   "points": 1,
+   "name": "Cosmic Duality",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 504628
+  },
+  {
+   "id": "26-87-1-9",
+   "points": 1,
+   "name": "Moonwell",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 804739
+  },
+  {
+   "id": "26-68-4-0",
+   "points": 1,
+   "name": "Aspect of the Goddess",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 802203
+  },
+  {
+   "id": "26-68-4-1",
+   "points": 1,
+   "name": "Lunar Blessing",
+   "maxPoints": 2,
+   "tree": "Moon Priest",
+   "spellId": 704756
+  },
+  {
+   "id": "26-68-6-1",
+   "points": 1,
+   "name": "Prayer of Elune",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 801987
+  },
+  {
+   "id": "26-68-2-1",
+   "points": 1,
+   "name": "Moonflow",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 575030
+  },
+  {
+   "id": "26-68-4-2",
+   "points": 1,
+   "name": "Lunar Resplendence",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 801989
+  },
+  {
+   "id": "26-68-4-3",
+   "points": 1,
+   "name": "Eclipsing Arrows",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 800504
+  },
+  {
+   "id": "26-68-7-3",
+   "points": 1,
+   "name": "Enchanted Water",
+   "maxPoints": 2,
+   "tree": "Moon Priest",
+   "spellId": 704755
+  },
+  {
+   "id": "26-68-1-3",
+   "points": 1,
+   "name": "Lunar Swiftness",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 503779
+  },
+  {
+   "id": "26-68-8-4",
+   "points": 1,
+   "name": "Cycle of the Moon",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 500206
+  },
+  {
+   "id": "26-68-6-4",
+   "points": 1,
+   "name": "Goddess Watch Over",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 500582
+  },
+  {
+   "id": "26-68-0-4",
+   "points": 1,
+   "name": "Moonlit Slumber",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 805546
+  },
+  {
+   "id": "26-68-0-6",
+   "points": 1,
+   "name": "Blessed By The Stars",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 704741
+  },
+  {
+   "id": "26-68-1-5",
+   "points": 1,
+   "name": "Tear Drops",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 560896
+  },
+  {
+   "id": "26-68-4-4",
+   "points": 1,
+   "name": "Stellar Convergence",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 572784
+  },
+  {
+   "id": "26-68-4-5b",
+   "points": 1,
+   "name": "Mending Surge",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 704732
+  },
+  {
+   "id": "26-68-2-5",
+   "points": 1,
+   "name": "Rapid Cycle",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 300249
+  },
+  {
+   "id": "26-68-7-5",
+   "points": 1,
+   "name": "Teachings of Elune",
+   "maxPoints": 2,
+   "tree": "Moon Priest",
+   "spellId": 704759
+  },
+  {
+   "id": "26-68-4-6",
+   "points": 1,
+   "name": "Healing Prayers",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 680805
+  },
+  {
+   "id": "26-68-5-7",
+   "points": 1,
+   "name": "Flow of Waters",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 560539
+  },
+  {
+   "id": "26-68-2-6",
+   "points": 1,
+   "name": "Elune's Grace",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 504001
+  },
+  {
+   "id": "26-68-6-6",
+   "points": 1,
+   "name": "Phase Guider",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 300995
+  },
+  {
+   "id": "26-68-3-7",
+   "points": 1,
+   "name": "Enchanted Stream",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 504003
+  },
+  {
+   "id": "26-68-6-8",
+   "points": 1,
+   "name": "Lunar Cascade",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 704725
+  },
+  {
+   "id": "26-68-6-9",
+   "points": 1,
+   "name": "Rippling Moonwater",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 804733
+  },
+  {
+   "id": "26-68-2-4",
+   "points": 1,
+   "name": "Lunar Revelation",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 681521
+  }
+ ]
+}

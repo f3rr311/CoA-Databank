@@ -1,0 +1,8 @@
+{
+  "name_enus": "Elder Magi Rune",
+  "icon": "_runeorcpurple",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Elder Magi Rune</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>10% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Blasts enemies within $a1yd for 7 to 8 Arcane damage and increases all Arcane damage they take from you by 15% for 15&nbsp;sec.</span></td></tr></table><!--?500253:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

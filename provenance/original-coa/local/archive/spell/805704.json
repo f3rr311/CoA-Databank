@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flameforger",
+  "icon": "inv_leatherworking_70_flaminghoop",
+  "tooltip_enus": "<table><tr><td><b>Flameforger</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Increases your maximum <span style=\"color: #ff9933;\">Demonfire</span> stacks by 3.</span></td></tr></table><!--?805704:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

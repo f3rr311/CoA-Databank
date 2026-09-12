@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hellfire Form",
+  "icon": "ability_racial_foregedinflames",
+  "tooltip_enus": "<table><tr><td><b>Hellfire Form</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Enter your <span style=\"color: #ffffff;\">Hellfire Form</span>, increasing your Fire damage dealt by 20% and Fire critical strike chance by 15% for 15&nbsp;sec.</span></td></tr></table><!--?805696:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,1692 @@
+{
+  "schema_version": 2,
+  "captured_at": "2026-07-29T14:58:11.1450492Z",
+  "outputs": {
+    "assets": {
+      "path": "assets.jsonl.gz",
+      "records": 178795,
+      "sha256": "a8f453dc6ea471a1f62c4bc8caa0ecef729063f3c483aeed5c60120b917ed788",
+      "size": 1533003
+    },
+    "spells": {
+      "path": "spells.jsonl.gz",
+      "records": 238888,
+      "sha256": "24f8ec6ea839c106f2c832a3b84019a3815210e385ca8d524066ed38f0994bc4",
+      "size": 11412684
+    },
+    "client_assets": {
+      "path": "client-assets.jsonl.gz",
+      "records": 241850,
+      "sha256": "eb1613c924f143abe147a4352767b24c1d4bb6170fbf75e83218cbc8f7b545ce",
+      "size": 1632149
+    },
+    "creatures": {
+      "path": "creatures.jsonl.gz",
+      "records": 5269,
+      "sha256": "375f46afa682e1511a3abc37a56f08fa4242d6795a31f6040e011b926744b157",
+      "size": 65842
+    },
+    "dbc_records": {
+      "path": "dbc-records.jsonl.gz",
+      "records": 119084,
+      "sha256": "5fb5d0e415ed17597a4d3cbed93d3b992ca81c2c2dd0f29600ac46a1b51ce52d",
+      "size": 1702954
+    },
+    "spell_dependencies": {
+      "path": "spell-dependencies.jsonl.gz",
+      "records": 238888,
+      "sha256": "1e84f7f70c659028f33ec4cddb81168091b7ac9400953f9619fc03d1a118d4cd",
+      "size": 8783553
+    },
+    "ascension_assets": {
+      "path": "ascension-assets.jsonl.gz",
+      "records": 621960,
+      "sha256": "705b94e22fd6a1aa9bb4e19b493f1e9afc28e981d35a141f0b3e63664bee03f6",
+      "size": 3344144
+    },
+    "donor_dbc_records": {
+      "path": "donor-dbc-records.jsonl.gz",
+      "records": 117638,
+      "sha256": "560c52152648cfd579488a84a6ae7d56d378dd611c8eb818b53995b24d356c61",
+      "size": 2047962
+    }
+  },
+  "sources": {
+    "archive": {
+      "class_assignments": 1967,
+      "spell_records": 1960
+    },
+    "asset_index": {
+      "path": "C:\\CoA\\out\\asset_index.json",
+      "sha256": "bafa17e55fffe71f610fcbe1d6571e54b1e9856916cf54516c82ad303e0b43c9",
+      "size": 57666333
+    },
+    "database": {
+      "host": "100.96.127.127",
+      "port": 3306,
+      "schema": "coa_library",
+      "server_version": "8.4.7",
+      "table": "lib_spell",
+      "rows": 238888,
+      "selected_columns": [
+        "ID",
+        "Name_Lang_enUS",
+        "NameSubtext_Lang_enUS",
+        "Description_Lang_enUS",
+        "AuraDescription_Lang_enUS",
+        "SchoolMask",
+        "PowerType",
+        "ManaCost",
+        "RecoveryTime",
+        "CategoryRecoveryTime",
+        "RangeIndex",
+        "SpellLevel",
+        "Effect_1",
+        "Effect_2",
+        "Effect_3",
+        "EffectAura_1",
+        "EffectAura_2",
+        "EffectAura_3",
+        "EffectTriggerSpell_1",
+        "EffectTriggerSpell_2",
+        "EffectTriggerSpell_3",
+        "EffectMiscValue_1",
+        "EffectMiscValue_2",
+        "EffectMiscValue_3",
+        "EffectMiscValueB_1",
+        "EffectMiscValueB_2",
+        "EffectMiscValueB_3",
+        "ImplicitTargetA_1",
+        "ImplicitTargetA_2",
+        "ImplicitTargetA_3",
+        "ImplicitTargetB_1",
+        "ImplicitTargetB_2",
+        "ImplicitTargetB_3",
+        "SpellVisualID_1",
+        "SpellVisualID_2",
+        "SpellIconID",
+        "ActiveIconID",
+        "SpellMissileID",
+        "SpellClassSet",
+        "SpellClassMask_1",
+        "SpellClassMask_2",
+        "SpellClassMask_3",
+        "lib_source",
+        "lib_is_stock",
+        "lib_in_world",
+        "lib_castable",
+        "lib_fleshed",
+        "lib_summons"
+      ]
+    },
+    "library_dump": {
+      "path": "C:\\ByteCOA\\.recovery\\2026-07-29\\database\\coa_library.sql",
+      "sha256": "c6d19670bb6ab5221363048d945267e688a6c8bc89868194d4ee622de38287d9",
+      "size": 188759918
+    },
+    "source_manifest": {
+      "path": "C:\\ByteCOA\\content\\provenance\\original-coa\\source-manifest.json",
+      "sha256": "3dc694c84da8345d039d703144cb185b76cf2222a8d87a0b62ce514ef2e9fb52",
+      "size": 2202467
+    },
+    "client": {
+      "archives": [
+        {
+          "archive": "common-2.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "ed67d6e518abea4aa9b4f760660acc08ce28e2443deec4f7aa6574a641c08a26",
+          "listfile_size": 2489192,
+          "priority": [
+            0,
+            0,
+            "common-2.mpq"
+          ],
+          "size": 1810430608
+        },
+        {
+          "archive": "common.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "ce29fb6ef4892f26cb8965542a1631ab4251848d024c1ff1402194c8c7cc7846",
+          "listfile_size": 4976088,
+          "priority": [
+            0,
+            0,
+            "common.mpq"
+          ],
+          "size": 2881154863
+        },
+        {
+          "archive": "enUS\\backup-enus.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "7a768dbddd349b9a3d1e66aad248c17974f2c41c66864c055fa6f36ea1eb46c2",
+          "listfile_size": 9975,
+          "priority": [
+            0,
+            0,
+            "backup-enus.mpq"
+          ],
+          "size": 163372036
+        },
+        {
+          "archive": "enUS\\base-enus.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "20da93ec15d5f855b54ecc45a94201f5ca52501f178a50ba1427954d56f458a0",
+          "listfile_size": 9832,
+          "priority": [
+            0,
+            0,
+            "base-enus.mpq"
+          ],
+          "size": 29225789
+        },
+        {
+          "archive": "enUS\\expansion-locale-enus.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "26629171fc3459febaef3008e46f56a73d0f05d6bb05db0ac9908a11ba629800",
+          "listfile_size": 18610,
+          "priority": [
+            0,
+            0,
+            "expansion-locale-enus.mpq"
+          ],
+          "size": 17421123
+        },
+        {
+          "archive": "enUS\\expansion-speech-enus.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "eb4baddf2a10c79964d8c314ede24b0ac5d52b93489405df0f0f8e41f73cfc20",
+          "listfile_size": 80978,
+          "priority": [
+            0,
+            0,
+            "expansion-speech-enus.mpq"
+          ],
+          "size": 241298910
+        },
+        {
+          "archive": "enUS\\lichking-locale-enus.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "5d73baeec1952d346e0d052d59f8d5e38b4475766be1ce54a01e93553de1f43a",
+          "listfile_size": 3259,
+          "priority": [
+            0,
+            0,
+            "lichking-locale-enus.mpq"
+          ],
+          "size": 12642308
+        },
+        {
+          "archive": "enUS\\lichking-speech-enus.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "0eb5df7970053994507261a8a898b7b208d338d04348dcace824030522543915",
+          "listfile_size": 100683,
+          "priority": [
+            0,
+            0,
+            "lichking-speech-enus.mpq"
+          ],
+          "size": 354400446
+        },
+        {
+          "archive": "enUS\\locale-enus.mpq",
+          "dbc_tables": [
+            "AnimationData",
+            "CreatureDisplayInfo",
+            "CreatureModelData",
+            "CreatureSoundData",
+            "NPCSounds",
+            "SoundEntries",
+            "SpellIcon",
+            "SpellMissile",
+            "SpellVisual",
+            "SpellVisualEffectName",
+            "SpellVisualKit"
+          ],
+          "listfile_sha256": "842279fa7504e7390ce8486cc44e7898f9deb1741bb01473579eb49aa53b66d8",
+          "listfile_size": 506146,
+          "priority": [
+            0,
+            0,
+            "locale-enus.mpq"
+          ],
+          "size": 204725970
+        },
+        {
+          "archive": "enUS\\patch-enus-2.mpq",
+          "dbc_tables": [
+            "AnimationData",
+            "CreatureDisplayInfo",
+            "CreatureModelData",
+            "CreatureSoundData",
+            "NPCSounds",
+            "SoundEntries",
+            "SpellIcon",
+            "SpellMissile",
+            "SpellVisual",
+            "SpellVisualEffectName",
+            "SpellVisualKit"
+          ],
+          "listfile_sha256": "677b8acb606bb163153774fecf12e269340611e86504eb578bc179e8a3335d28",
+          "listfile_size": 119935,
+          "priority": [
+            1,
+            2,
+            "patch-enus-2.mpq"
+          ],
+          "size": 225570191
+        },
+        {
+          "archive": "enUS\\patch-enus-3.mpq",
+          "dbc_tables": [
+            "AnimationData",
+            "CreatureDisplayInfo",
+            "CreatureModelData",
+            "CreatureSoundData",
+            "NPCSounds",
+            "SoundEntries",
+            "SpellIcon",
+            "SpellMissile",
+            "SpellVisual",
+            "SpellVisualEffectName",
+            "SpellVisualKit"
+          ],
+          "listfile_sha256": "111138473aa71d8cf53ff02796dcae23347865a2f5df0742f3fbdb508dfa866d",
+          "listfile_size": 44391,
+          "priority": [
+            1,
+            3,
+            "patch-enus-3.mpq"
+          ],
+          "size": 100373935
+        },
+        {
+          "archive": "enUS\\patch-enus-a.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "5d74d90f1e5be9e116827c8f3853bc6a13a0fbbf9d620e19502a66d2aa974fba",
+          "listfile_size": 46007,
+          "priority": [
+            1,
+            10,
+            "patch-enus-a.mpq"
+          ],
+          "size": 32930769
+        },
+        {
+          "archive": "enUS\\patch-enus-c.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "8f1a9d1a1af4ffff5b8b3215ada9b06939e6b2ebd4200c2331d9e5ae05c4ce64",
+          "listfile_size": 3214,
+          "priority": [
+            1,
+            12,
+            "patch-enus-c.mpq"
+          ],
+          "size": 5019723
+        },
+        {
+          "archive": "enUS\\patch-enus-d.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "770c86c7be3ac2d27469e9416bd045b00fb2e1ea414e1c9776f9f9d8dfa833bc",
+          "listfile_size": 2164,
+          "priority": [
+            1,
+            13,
+            "patch-enus-d.mpq"
+          ],
+          "size": 1468095
+        },
+        {
+          "archive": "enUS\\patch-enus-f.mpq",
+          "dbc_tables": [
+            "CreatureDisplayInfo",
+            "CreatureModelData"
+          ],
+          "listfile_sha256": "8f5f756f2f82a78cfa4436ca2149d4c57ac3ac282192ccca0d66fd5ee4849673",
+          "listfile_size": 150,
+          "priority": [
+            1,
+            15,
+            "patch-enus-f.mpq"
+          ],
+          "size": 15830582
+        },
+        {
+          "archive": "enUS\\patch-enus-k.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "68227febf34fdfaed707c20bf45ee33ebe3854000bf7c54d4fb502d7f7d0701a",
+          "listfile_size": 3322,
+          "priority": [
+            1,
+            20,
+            "patch-enus-k.mpq"
+          ],
+          "size": 4729876
+        },
+        {
+          "archive": "enUS\\patch-enus-m.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "c0eaf236718ceb12871c7cffaaa027b27d400aedd8c0d0ca67174bf1a30421d1",
+          "listfile_size": 88226,
+          "priority": [
+            1,
+            22,
+            "patch-enus-m.mpq"
+          ],
+          "size": 53431239
+        },
+        {
+          "archive": "enUS\\patch-enus-q.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "a932b1c9c29972715a021c3cdd7f948e7644115131cdc6e5c066a51094fe0449",
+          "listfile_size": 2685,
+          "priority": [
+            1,
+            26,
+            "patch-enus-q.mpq"
+          ],
+          "size": 38886999
+        },
+        {
+          "archive": "enUS\\patch-enus-w.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "8ab0bbe261a1ee67552dfec1e93fc434166a4993d999b9bccadf6d33641878be",
+          "listfile_size": 17352,
+          "priority": [
+            1,
+            32,
+            "patch-enus-w.mpq"
+          ],
+          "size": 27646368
+        },
+        {
+          "archive": "enUS\\patch-enus-x.mpq",
+          "dbc_tables": [
+            "SpellVisual",
+            "SpellVisualEffectName",
+            "SpellVisualKit"
+          ],
+          "listfile_sha256": "263625d1737efbae5816fb59af668e65cbf96a3db697a37acaf1f3ffc9908f9c",
+          "listfile_size": 17403,
+          "priority": [
+            1,
+            33,
+            "patch-enus-x.mpq"
+          ],
+          "size": 75363965
+        },
+        {
+          "archive": "enUS\\patch-enus.mpq",
+          "dbc_tables": [
+            "AnimationData",
+            "CreatureDisplayInfo",
+            "CreatureModelData",
+            "CreatureSoundData",
+            "NPCSounds",
+            "SoundEntries",
+            "SpellIcon",
+            "SpellMissile",
+            "SpellVisual",
+            "SpellVisualEffectName",
+            "SpellVisualKit"
+          ],
+          "listfile_sha256": "4de171721dc8ee456511e554e824ba81663ef0a08ccc9da75a80fa532c24aad3",
+          "listfile_size": 267116,
+          "priority": [
+            1,
+            0,
+            "patch-enus.mpq"
+          ],
+          "size": 296616080
+        },
+        {
+          "archive": "enUS\\speech-enus.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "4399f8ec7e9ac592f35e76aeebf29c5ecb02127f3f2705da69091ad9a81f6f26",
+          "listfile_size": 345481,
+          "priority": [
+            0,
+            0,
+            "speech-enus.mpq"
+          ],
+          "size": 438856302
+        },
+        {
+          "archive": "expansion.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "3cb6230396137fce19e788bf9b915e3c78193d59e1514794a52abdde3eb65c1f",
+          "listfile_size": 725445,
+          "priority": [
+            0,
+            0,
+            "expansion.mpq"
+          ],
+          "size": 1921219945
+        },
+        {
+          "archive": "lichking.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "61d5d9bd5ecc4972c027582289ce05742142919f2fc6fd1e088d9ff50246be21",
+          "listfile_size": 956532,
+          "priority": [
+            0,
+            0,
+            "lichking.mpq"
+          ],
+          "size": 2577893261
+        },
+        {
+          "archive": "patch-2.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "9efc0a5ea13386cdab26cc90e0224526bc594f157d95485c36413f86e9ed63cc",
+          "listfile_size": 657822,
+          "priority": [
+            2,
+            2,
+            "patch-2.mpq"
+          ],
+          "size": 1401729059
+        },
+        {
+          "archive": "patch-3.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "4a2ab059270078e4d87a434fa91df36dde09a1b787c3c334488b4a94970ea9f1",
+          "listfile_size": 172487,
+          "priority": [
+            2,
+            3,
+            "patch-3.mpq"
+          ],
+          "size": 641126119
+        },
+        {
+          "archive": "patch-5.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "f81c506c67f822ddc33d6d22db6b3da638fce34537f1cd7fb1fbf60e5038f0d4",
+          "listfile_size": 25802,
+          "priority": [
+            2,
+            5,
+            "patch-5.mpq"
+          ],
+          "size": 15176150
+        },
+        {
+          "archive": "patch-6.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "ade86c2ffdda8975a4ddb4f23de7fd36c533fc281bef988fe03ebd33d414ab68",
+          "listfile_size": 824084,
+          "priority": [
+            2,
+            6,
+            "patch-6.mpq"
+          ],
+          "size": 2373133892
+        },
+        {
+          "archive": "patch-a.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "006de34a298c2e593e5519c3c14297e4ce6292d028a8ba580b57189b678b5ea5",
+          "listfile_size": 2350756,
+          "priority": [
+            2,
+            10,
+            "patch-a.mpq"
+          ],
+          "size": 2252223733
+        },
+        {
+          "archive": "patch-c.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "56c07dab48f83a4bf28788ae2d56d24c82faa2269dc33e1fd323e725c6945ca6",
+          "listfile_size": 144844,
+          "priority": [
+            2,
+            12,
+            "patch-c.mpq"
+          ],
+          "size": 482467019
+        },
+        {
+          "archive": "patch-e.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "c25492de82c5b3880ff8e67fbb2bf4b953ee3dc0adfa4ea09ceb6777e1e628de",
+          "listfile_size": 29303,
+          "priority": [
+            2,
+            14,
+            "patch-e.mpq"
+          ],
+          "size": 261871142
+        },
+        {
+          "archive": "patch-f.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "3975c01a8fa8811502bd8d5a29d1d4bcf56b0283b7564d42bb1e9049667077f9",
+          "listfile_size": 612068,
+          "priority": [
+            2,
+            15,
+            "patch-f.mpq"
+          ],
+          "size": 2221967166
+        },
+        {
+          "archive": "patch-k.mpq",
+          "dbc_tables": [
+            "CreatureDisplayInfo",
+            "CreatureModelData",
+            "SpellIcon",
+            "SpellVisual",
+            "SpellVisualEffectName",
+            "SpellVisualKit"
+          ],
+          "listfile_sha256": "a54711d3c88feb47419b4133e34d64df5dad754889454cb859b6a649936530f0",
+          "listfile_size": 885243,
+          "priority": [
+            2,
+            20,
+            "patch-k.mpq"
+          ],
+          "size": 454954031
+        },
+        {
+          "archive": "patch-s.mpq",
+          "dbc_tables": [
+            "SoundEntries",
+            "SpellMissile",
+            "SpellVisual",
+            "SpellVisualEffectName",
+            "SpellVisualKit"
+          ],
+          "listfile_sha256": "52f52ae9b6e4facb40fdeb990badf9b061b9ccfa958c94d1f1e9f65012f1409d",
+          "listfile_size": 79783,
+          "priority": [
+            2,
+            28,
+            "patch-s.mpq"
+          ],
+          "size": 166341703
+        },
+        {
+          "archive": "patch-w.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "8ab0bbe261a1ee67552dfec1e93fc434166a4993d999b9bccadf6d33641878be",
+          "listfile_size": 17352,
+          "priority": [
+            2,
+            32,
+            "patch-w.mpq"
+          ],
+          "size": 27646368
+        },
+        {
+          "archive": "patch-x.mpq",
+          "dbc_tables": [
+            "SpellVisual",
+            "SpellVisualEffectName",
+            "SpellVisualKit"
+          ],
+          "listfile_sha256": "5e43542bed0411048607752b6a1c8bcadfd60c3339d873602cc4472669869bc6",
+          "listfile_size": 17580,
+          "priority": [
+            2,
+            33,
+            "patch-x.mpq"
+          ],
+          "size": 172490810
+        },
+        {
+          "archive": "patch.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "e72a20c949944a087c2e0d4ec68ea5f7305b6d20aff8e016ed0efb366afdae68",
+          "listfile_size": 2315559,
+          "priority": [
+            2,
+            0,
+            "patch.mpq"
+          ],
+          "size": 4004713057
+        }
+      ],
+      "dbc_sources": {
+        "AnimationData": {
+          "archive": "enUS\\patch-enus-3.mpq",
+          "archive_sha256": "d61a60297af9044d926754d997cd5aa630500cd003d41983a9ccb5b324d61299",
+          "archive_size": 100373935,
+          "fields": 8,
+          "internal_path": "DBFilesClient\\AnimationData.dbc",
+          "internal_sha256": "5c694f178114b6e55e50ac9fa1045a69ff859ddf6dbd934e0334a4cda0172a3f",
+          "internal_size": 22578,
+          "record_size": 32,
+          "records": 506,
+          "string_size": 6366
+        },
+        "CreatureDisplayInfo": {
+          "archive": "patch-k.mpq",
+          "archive_sha256": "a3a00302040e0654a5cd975ef77499f0585e706b51bb2d9f67370ec261165445",
+          "archive_size": 454954031,
+          "fields": 16,
+          "internal_path": "DBFilesClient\\CreatureDisplayInfo.dbc",
+          "internal_sha256": "e71e1a60538cb95b454d0a7bf7a2f18d633a47919ce17b081d232846199ea4d9",
+          "internal_size": 1610267,
+          "record_size": 64,
+          "records": 24264,
+          "string_size": 57351
+        },
+        "CreatureModelData": {
+          "archive": "patch-k.mpq",
+          "archive_sha256": "a3a00302040e0654a5cd975ef77499f0585e706b51bb2d9f67370ec261165445",
+          "archive_size": 454954031,
+          "fields": 28,
+          "internal_path": "DBFilesClient\\CreatureModelData.dbc",
+          "internal_sha256": "f07375dfec9fc05db6fd2ceb1a91a7aba3752680a4475536f7fc0064d37d612b",
+          "internal_size": 197468,
+          "record_size": 112,
+          "records": 1333,
+          "string_size": 48152
+        },
+        "CreatureSoundData": {
+          "archive": "enUS\\patch-enus-3.mpq",
+          "archive_sha256": "d61a60297af9044d926754d997cd5aa630500cd003d41983a9ccb5b324d61299",
+          "archive_size": 100373935,
+          "fields": 38,
+          "internal_path": "DBFilesClient\\CreatureSoundData.dbc",
+          "internal_sha256": "c929b29d51245c6acdc4b70761a0785644c3bb0e342203d03e24094211552f32",
+          "internal_size": 198533,
+          "record_size": 152,
+          "records": 1306,
+          "string_size": 1
+        },
+        "NPCSounds": {
+          "archive": "enUS\\patch-enus-3.mpq",
+          "archive_sha256": "d61a60297af9044d926754d997cd5aa630500cd003d41983a9ccb5b324d61299",
+          "archive_size": 100373935,
+          "fields": 5,
+          "internal_path": "DBFilesClient\\NPCSounds.dbc",
+          "internal_sha256": "d8ccaebee4b73c15421856e0d052f8551f24a839086a0f64eef53b5ffc81aee7",
+          "internal_size": 6041,
+          "record_size": 20,
+          "records": 301,
+          "string_size": 1
+        },
+        "SoundEntries": {
+          "archive": "patch-s.mpq",
+          "archive_sha256": "ec6f91ceea7bdbc7e5d0b51d566a9f5d59ccc8387bf00ac2ab7069be16096eb5",
+          "archive_size": 166341703,
+          "fields": 30,
+          "internal_path": "DBFilesClient\\SoundEntries.dbc",
+          "internal_sha256": "e561e5a0d7724a5ba8d188392a42964ae001a1c37bd64c0bbf04d0e0d37c1eeb",
+          "internal_size": 2480804,
+          "record_size": 120,
+          "records": 13226,
+          "string_size": 893664
+        },
+        "SpellIcon": {
+          "archive": "patch-k.mpq",
+          "archive_sha256": "a3a00302040e0654a5cd975ef77499f0585e706b51bb2d9f67370ec261165445",
+          "archive_size": 454954031,
+          "fields": 2,
+          "internal_path": "DBFilesClient\\SpellIcon.dbc",
+          "internal_sha256": "9effbb127d06b5c5f9ec6e1def333e559f3634bacf7f1ceb18708b0eabde7a80",
+          "internal_size": 334052,
+          "record_size": 8,
+          "records": 6745,
+          "string_size": 280072
+        },
+        "SpellMissile": {
+          "archive": "patch-s.mpq",
+          "archive_sha256": "ec6f91ceea7bdbc7e5d0b51d566a9f5d59ccc8387bf00ac2ab7069be16096eb5",
+          "archive_size": 166341703,
+          "fields": 15,
+          "internal_path": "DBFilesClient\\SpellMissile.dbc",
+          "internal_sha256": "a049e09d4027e7b0c7992aca3a0b002d522a25b4fed11de9ef88ab22b9511495",
+          "internal_size": 6321,
+          "record_size": 60,
+          "records": 105,
+          "string_size": 1
+        },
+        "SpellVisual": {
+          "archive": "patch-x.mpq",
+          "archive_sha256": "50ca0633c3b9951840917bf1d0ea8d25500d54cb92bf53c9a8bee22e76aecbf7",
+          "archive_size": 172490810,
+          "fields": 32,
+          "internal_path": "DBFilesClient\\SpellVisual.dbc",
+          "internal_sha256": "5218f5641da33458e4bd340da79749e58dbfdf95f66bdb4928ac1924a7d23afd",
+          "internal_size": 2952725,
+          "record_size": 128,
+          "records": 23068,
+          "string_size": 1
+        },
+        "SpellVisualEffectName": {
+          "archive": "patch-x.mpq",
+          "archive_sha256": "50ca0633c3b9951840917bf1d0ea8d25500d54cb92bf53c9a8bee22e76aecbf7",
+          "archive_size": 172490810,
+          "fields": 7,
+          "internal_path": "DBFilesClient\\SpellVisualEffectName.dbc",
+          "internal_sha256": "4be2e8b13cbea2d96624512b3f963f74736ebfd5d6908a6ca1d72f2312c68bf4",
+          "internal_size": 1300363,
+          "record_size": 28,
+          "records": 18713,
+          "string_size": 776379
+        },
+        "SpellVisualKit": {
+          "archive": "patch-x.mpq",
+          "archive_sha256": "50ca0633c3b9951840917bf1d0ea8d25500d54cb92bf53c9a8bee22e76aecbf7",
+          "archive_size": 172490810,
+          "fields": 38,
+          "internal_path": "DBFilesClient\\SpellVisualKit.dbc",
+          "internal_sha256": "fdd2f3552b22a4d0b57157631c721628d8303416e433fa47658b3ef0d8afaa37",
+          "internal_size": 4486605,
+          "record_size": 152,
+          "records": 29517,
+          "string_size": 1
+        }
+      },
+      "root": "C:\\Games\\Gemstone-WoW"
+    },
+    "dependencies_lock": {
+      "path": "C:\\ByteCOA\\dependencies.lock.json",
+      "sha256": "35c09158d85df2489aeb52fd938217cdb7a5ff1e84ac01139a528ef66d5def50",
+      "size": 3426
+    },
+    "mpq_wrapper": {
+      "path": "C:\\CoA\\tools\\mpq.py",
+      "sha256": "7739f04d45266cc7c10eb8ad17830a1a88b838c165220210838c5b20d8042840",
+      "size": 8779
+    },
+    "stormlib": {
+      "path": "C:\\CoA\\tools\\stormlib\\StormLib.dll",
+      "sha256": "341e6c8e693840f23473ef73d79ea1c3f902946fb66cccb4313bcbf6760c73b7",
+      "size": 563712
+    },
+    "world_database": {
+      "host": "100.96.127.127",
+      "port": 3306,
+      "schema": "acore_world",
+      "server_version": "8.4.7",
+      "source_dump": {
+        "path": "C:\\ByteCOA\\.recovery\\2026-07-29\\database\\acore_world.sql",
+        "sha256": "ad01247a6500aa930db53600b7f2283f29f69562ba9f4ab7134ccb75b4ac4aec",
+        "size": 324367317
+      },
+      "summon_ids": 5269,
+      "resolved_creatures": 2537,
+      "unresolved_creatures": 2732
+    },
+    "wowdbdefs": {
+      "commit": "61db72dc2fcace61b086303cc2a2b95c7d42828a",
+      "definitions": {
+        "AnimationData": {
+          "path": "C:\\ByteCOA\\.work\\WoWDBDefs\\definitions\\AnimationData.dbd",
+          "sha256": "0be06e3dcb40ab6b8f00ed281afcc5ba5e2d4d1821dabf808b8be4d34b206807",
+          "size": 25830
+        },
+        "CreatureDisplayInfo": {
+          "path": "C:\\ByteCOA\\.work\\WoWDBDefs\\definitions\\CreatureDisplayInfo.dbd",
+          "sha256": "5a3ec13aaf234b17af79376dee7e66366a78930144bf5931d022c46e45a7b3e4",
+          "size": 38762
+        },
+        "CreatureModelData": {
+          "path": "C:\\ByteCOA\\.work\\WoWDBDefs\\definitions\\CreatureModelData.dbd",
+          "sha256": "583f34915b1e5249e4029e0bf4d7f54f2c808f78b4bd1c1dac327eede28c7678",
+          "size": 40428
+        },
+        "CreatureSoundData": {
+          "path": "C:\\ByteCOA\\.work\\WoWDBDefs\\definitions\\CreatureSoundData.dbd",
+          "sha256": "9e3e60bc0b67df7b55d1d5580ee4bd04b6181a13e896c799d6250b0bde9fc28d",
+          "size": 37186
+        },
+        "NPCSounds": {
+          "path": "C:\\ByteCOA\\.work\\WoWDBDefs\\definitions\\NPCSounds.dbd",
+          "sha256": "2594c99e6847fa6e86d09b64d7db58eb922c4d61842a3cd77485677db9fdad8f",
+          "size": 24160
+        },
+        "SoundEntries": {
+          "path": "C:\\ByteCOA\\.work\\WoWDBDefs\\definitions\\SoundEntries.dbd",
+          "sha256": "c190a5f467888c02e3ce4e8ec2959930a08302e1e1abd2647d2e84bd56ddd695",
+          "size": 3674
+        },
+        "SpellIcon": {
+          "path": "C:\\ByteCOA\\.work\\WoWDBDefs\\definitions\\SpellIcon.dbd",
+          "sha256": "c90e769014c97d51cd5ee60e78e35c964a8257cd9c684f1abea561fe9900a2b9",
+          "size": 309
+        },
+        "SpellMissile": {
+          "path": "C:\\ByteCOA\\.work\\WoWDBDefs\\definitions\\SpellMissile.dbd",
+          "sha256": "6b561f174e9a68ab1f5850f7c4dbdb1ac8bbed2d5ed4a16f4575cdb151feda12",
+          "size": 26236
+        },
+        "SpellVisual": {
+          "path": "C:\\ByteCOA\\.work\\WoWDBDefs\\definitions\\SpellVisual.dbd",
+          "sha256": "1fa7f4c836f00e915185b22d9e55e90659e1734c25a6b48ecad1f3b306c241e7",
+          "size": 41495
+        },
+        "SpellVisualEffectName": {
+          "path": "C:\\ByteCOA\\.work\\WoWDBDefs\\definitions\\SpellVisualEffectName.dbd",
+          "sha256": "49fa0356e430bf0cd20218ec5ec6811df0b34d54208b094edcd9a04fd7e037ac",
+          "size": 29437
+        },
+        "SpellVisualKit": {
+          "path": "C:\\ByteCOA\\.work\\WoWDBDefs\\definitions\\SpellVisualKit.dbd",
+          "sha256": "66c2a3b89e71969c91d8ff6a54b3cf677e1d5f6d36fc7bdf9d878855c7fc2537",
+          "size": 31791
+        }
+      },
+      "url": "https://github.com/wowdev/WoWDBDefs"
+    },
+    "ascension_client": {
+      "archives": [
+        {
+          "archive": "area-52\\patch-D.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "308599dba1ae58bf87dc4f2aee75759d82354d32384f29721c0bb38b1409cb65",
+          "listfile_size": 428,
+          "listfile_status": "indexed",
+          "size": 23201007
+        },
+        {
+          "archive": "common-2.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "ed67d6e518abea4aa9b4f760660acc08ce28e2443deec4f7aa6574a641c08a26",
+          "listfile_size": 2489192,
+          "listfile_status": "indexed",
+          "size": 1810430636
+        },
+        {
+          "archive": "common.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "ce29fb6ef4892f26cb8965542a1631ab4251848d024c1ff1402194c8c7cc7846",
+          "listfile_size": 4976088,
+          "listfile_status": "indexed",
+          "size": 2881154862
+        },
+        {
+          "archive": "enUS\\backup-enUS.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "7a768dbddd349b9a3d1e66aad248c17974f2c41c66864c055fa6f36ea1eb46c2",
+          "listfile_size": 9975,
+          "listfile_status": "indexed",
+          "size": 167245856
+        },
+        {
+          "archive": "enUS\\base-enUS.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "20da93ec15d5f855b54ecc45a94201f5ca52501f178a50ba1427954d56f458a0",
+          "listfile_size": 9832,
+          "listfile_status": "indexed",
+          "size": 29176975
+        },
+        {
+          "archive": "enUS\\expansion-locale-enUS.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "26629171fc3459febaef3008e46f56a73d0f05d6bb05db0ac9908a11ba629800",
+          "listfile_size": 18610,
+          "listfile_status": "indexed",
+          "size": 17389181
+        },
+        {
+          "archive": "enUS\\expansion-speech-enUS.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "eb4baddf2a10c79964d8c314ede24b0ac5d52b93489405df0f0f8e41f73cfc20",
+          "listfile_size": 80978,
+          "listfile_status": "indexed",
+          "size": 241033297
+        },
+        {
+          "archive": "enUS\\lichking-locale-enUS.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "5d73baeec1952d346e0d052d59f8d5e38b4475766be1ce54a01e93553de1f43a",
+          "listfile_size": 3259,
+          "listfile_status": "indexed",
+          "size": 12354378
+        },
+        {
+          "archive": "enUS\\lichking-speech-enUS.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "0eb5df7970053994507261a8a898b7b208d338d04348dcace824030522543915",
+          "listfile_size": 100683,
+          "listfile_status": "indexed",
+          "size": 354008839
+        },
+        {
+          "archive": "enUS\\locale-enUS.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "842279fa7504e7390ce8486cc44e7898f9deb1741bb01473579eb49aa53b66d8",
+          "listfile_size": 506146,
+          "listfile_status": "indexed",
+          "size": 204291376
+        },
+        {
+          "archive": "enUS\\patch-enUS-2.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "cfacacf384b17288cef4139c2f6b0c0e5e0137a3b25e0287cb396a56ba7d1ccc",
+          "listfile_size": 119935,
+          "listfile_status": "indexed",
+          "size": 225570171
+        },
+        {
+          "archive": "enUS\\patch-enUS-3.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "111138473aa71d8cf53ff02796dcae23347865a2f5df0742f3fbdb508dfa866d",
+          "listfile_size": 44391,
+          "listfile_status": "indexed",
+          "size": 100373935
+        },
+        {
+          "archive": "enUS\\patch-enUS.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "4de171721dc8ee456511e554e824ba81663ef0a08ccc9da75a80fa532c24aad3",
+          "listfile_size": 267116,
+          "listfile_status": "indexed",
+          "size": 296616080
+        },
+        {
+          "archive": "enUS\\speech-enUS.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "4399f8ec7e9ac592f35e76aeebf29c5ecb02127f3f2705da69091ad9a81f6f26",
+          "listfile_size": 345481,
+          "listfile_status": "indexed",
+          "size": 438430439
+        },
+        {
+          "archive": "expansion.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "3cb6230396137fce19e788bf9b915e3c78193d59e1514794a52abdde3eb65c1f",
+          "listfile_size": 725445,
+          "listfile_status": "indexed",
+          "size": 1921219911
+        },
+        {
+          "archive": "lichking.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "61d5d9bd5ecc4972c027582289ce05742142919f2fc6fd1e088d9ff50246be21",
+          "listfile_size": 956532,
+          "listfile_status": "indexed",
+          "size": 2553948549
+        },
+        {
+          "archive": "patch-2.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "9efc0a5ea13386cdab26cc90e0224526bc594f157d95485c36413f86e9ed63cc",
+          "listfile_size": 657822,
+          "listfile_status": "indexed",
+          "size": 1401729059
+        },
+        {
+          "archive": "patch-3.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "7580cd83896aadb7db71c832472973306f833e07c99d3d60817c9d97089ec2c4",
+          "listfile_size": 166702,
+          "listfile_status": "indexed",
+          "size": 605089137
+        },
+        {
+          "archive": "patch-4.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "listfile_size": 0,
+          "listfile_status": "indexed",
+          "size": 131165
+        },
+        {
+          "archive": "patch-5.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "listfile_size": 0,
+          "listfile_status": "indexed",
+          "size": 131165
+        },
+        {
+          "archive": "patch-A.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "f3802ba56d50884e017f713e18b9f71eeb21fc3afefa9d402853bbdb49e48a4d",
+          "listfile_size": 454842,
+          "listfile_status": "indexed",
+          "size": 2052353000
+        },
+        {
+          "archive": "patch-B.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "88df745eefc426af60835be3419e7d7a3e7bd77b2383386ea350278d2552dbe8",
+          "listfile_size": 72356,
+          "listfile_status": "indexed",
+          "size": 7122713
+        },
+        {
+          "archive": "patch-C.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "listfile_size": 0,
+          "listfile_status": "indexed",
+          "size": 131165
+        },
+        {
+          "archive": "patch-CA.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "9e152cdffe30cefc5d4a46d3e649f7b609bd575aa915883d7aff30be7eebcf97",
+          "listfile_size": 86958,
+          "listfile_status": "indexed",
+          "size": 227668813
+        },
+        {
+          "archive": "patch-CB.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "5d48be4fe8cfb00ce4594449a863e30af3c0eaaf4dedb3cf75f09656675af60f",
+          "listfile_size": 179522,
+          "listfile_status": "indexed",
+          "size": 286147219
+        },
+        {
+          "archive": "patch-CC.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "25e03b4b2090895e4206da7034706ac13ad8dc87fbf30a2acd15fe8487ab6fa3",
+          "listfile_size": 68995,
+          "listfile_status": "indexed",
+          "size": 192691266
+        },
+        {
+          "archive": "patch-CD.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "b94098b12b865d05eb3365f056ed8d21bda3787c0878d59bf9525d19105468bd",
+          "listfile_size": 200530,
+          "listfile_status": "indexed",
+          "size": 483264277
+        },
+        {
+          "archive": "patch-CE.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "8c45602f32a9e653578a99a768c30fd309743219adc092d3283ee2a9240c2415",
+          "listfile_size": 27186,
+          "listfile_status": "indexed",
+          "size": 88074428
+        },
+        {
+          "archive": "patch-CF.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "a9c7ed890f2d88f4b2d8937042900210cea322758f85989b83c60982611c1e51",
+          "listfile_size": 96645,
+          "listfile_status": "indexed",
+          "size": 237636763
+        },
+        {
+          "archive": "patch-CG.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "56758c2f0e8e5b8a2d97b8c635fcfb7ac131f040aa7a5cdb4013e884f648cb87",
+          "listfile_size": 87058,
+          "listfile_status": "indexed",
+          "size": 243218559
+        },
+        {
+          "archive": "patch-CH.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "d7259cd159d278e038b4114b561a48d00a8def142e190fa4e5367f6fbf2c6134",
+          "listfile_size": 50705,
+          "listfile_status": "indexed",
+          "size": 140721440
+        },
+        {
+          "archive": "patch-CHA.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "78092b95e17d80e87945fbbaa511398322a18ce9ce940e53590a47038bab9515",
+          "listfile_size": 2609946,
+          "listfile_status": "indexed",
+          "size": 1531403662
+        },
+        {
+          "archive": "patch-CI.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "09bb01e3011b366f8563ed9f9751cccf66add5c4abc2bfc873d7f62e0927898d",
+          "listfile_size": 22747,
+          "listfile_status": "indexed",
+          "size": 62090812
+        },
+        {
+          "archive": "patch-CJ.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "ae385dc770cae911dc16cecb426d85b63ad75edfbf579670c4098edfc74455c7",
+          "listfile_size": 3015,
+          "listfile_status": "indexed",
+          "size": 11808168
+        },
+        {
+          "archive": "patch-CK.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "779d91447c0d46aeac43aae5805d2951b13bf545d9a64028b491ef4ff7275aea",
+          "listfile_size": 35617,
+          "listfile_status": "indexed",
+          "size": 123425861
+        },
+        {
+          "archive": "patch-CL.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "098d6d53a407f7c08ec250b02ad8be6a51bb51a9ef690dd8d45818f56d324076",
+          "listfile_size": 37815,
+          "listfile_status": "indexed",
+          "size": 102902001
+        },
+        {
+          "archive": "patch-CM.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "d7c99d4b21a75f941c2c208f6bd8ad375b3294d2e9a93bdef1a94817cb8546ce",
+          "listfile_size": 116970,
+          "listfile_status": "indexed",
+          "size": 303740088
+        },
+        {
+          "archive": "patch-CN.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "d6d906a64b846a7cb7b40197fd9ff3e709e073741a955a505d6f1ee193876db4",
+          "listfile_size": 97896,
+          "listfile_status": "indexed",
+          "size": 188792954
+        },
+        {
+          "archive": "patch-CO.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "fefb98650e6036101573cf6951a18bde0de7f034a7929dfa9f1b4eb2e475bba3",
+          "listfile_size": 30528,
+          "listfile_status": "indexed",
+          "size": 64301831
+        },
+        {
+          "archive": "patch-CP.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "63c29f1f3f27f8470e5bf98eeb9788bca10cea25ddc252f8317dddb3ee738405",
+          "listfile_size": 54375,
+          "listfile_status": "indexed",
+          "size": 149506697
+        },
+        {
+          "archive": "patch-CQ.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "b88397e3cfe4a9df266141993f94ceb10390eac33236927e932a64e30b926a43",
+          "listfile_size": 1944,
+          "listfile_status": "indexed",
+          "size": 1844404
+        },
+        {
+          "archive": "patch-CR.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "05471db084251b9d56918ba4afcd1e253892fb5cf5e8ca0ee5795d3602660bf7",
+          "listfile_size": 70441,
+          "listfile_status": "indexed",
+          "size": 196201509
+        },
+        {
+          "archive": "patch-CS.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "76ed85a8c4ee59808f21940c9b01ba3dfb17fd7448bbc430ca533d0575743e6e",
+          "listfile_size": 195725,
+          "listfile_status": "indexed",
+          "size": 475953955
+        },
+        {
+          "archive": "patch-CT.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "ce787bc4943c990ff3f4dbda46cdbe00fe47e682425c7845ad614ee2c6e32de1",
+          "listfile_size": 71901,
+          "listfile_status": "indexed",
+          "size": 211283581
+        },
+        {
+          "archive": "patch-CU.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "3f2ee7a54518b974fcf59375bee0d362d8c3fe214df55faa2578d8cfdcfa56aa",
+          "listfile_size": 4407,
+          "listfile_status": "indexed",
+          "size": 3281188
+        },
+        {
+          "archive": "patch-CV.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "27d4ed3da3b29f1f2bfb3eeb7e7e75bebff54f006877e49dd0f27fbb28a832d9",
+          "listfile_size": 73187,
+          "listfile_status": "indexed",
+          "size": 184267349
+        },
+        {
+          "archive": "patch-CW.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "972527a19f68d4de2309037109eeb663813e79775246c201391098256dfa7b11",
+          "listfile_size": 82580,
+          "listfile_status": "indexed",
+          "size": 189248587
+        },
+        {
+          "archive": "patch-CX.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "1920ff55baa8a4142d806a083815de7483f4a383de516a1c96ea16a0612f3a00",
+          "listfile_size": 4935,
+          "listfile_status": "indexed",
+          "size": 10346226
+        },
+        {
+          "archive": "patch-CY.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "457bb70e7fc5366344e02ad62cc3c281eebdd8823fd10442cd1154801679804f",
+          "listfile_size": 7693,
+          "listfile_status": "indexed",
+          "size": 20812225
+        },
+        {
+          "archive": "patch-CZ.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "9724a21b1119a8a1526eaebe1f0554e8665c96484cfd2ac218a71dcbea05a201",
+          "listfile_size": 15488,
+          "listfile_status": "indexed",
+          "size": 40283785
+        },
+        {
+          "archive": "patch-CZZ.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "listfile_size": 0,
+          "listfile_status": "indexed",
+          "size": 131165
+        },
+        {
+          "archive": "patch-I.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "57753025048b3aa4ab3a51a0ea50b24a78353b7dde3a8d083c24cd3152a267de",
+          "listfile_size": 3680575,
+          "listfile_status": "indexed",
+          "size": 223183392
+        },
+        {
+          "archive": "patch-M.MPQ",
+          "dbc_tables": [
+            "SoundEntries"
+          ],
+          "listfile_sha256": "d445865347b35e8411a4fada9826800b81c5c9a1349f358d9edd1c60debba8b9",
+          "listfile_size": 10322,
+          "listfile_status": "indexed",
+          "size": 64526087
+        },
+        {
+          "archive": "patch-N.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "ddf27f5dd8746730d5af3e64a200e7081ee7073de466c033be06b3a49556fdb2",
+          "listfile_size": 1187736,
+          "listfile_status": "indexed",
+          "size": 1093438435
+        },
+        {
+          "archive": "patch-O.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "ee3f98b6bf15450d4943e2f112bd924466a7b30e053647fe00e53194c3130f51",
+          "listfile_size": 2681141,
+          "listfile_status": "indexed",
+          "size": 2801898312
+        },
+        {
+          "archive": "patch-P.mpq",
+          "dbc_tables": [],
+          "listfile_sha256": "bb35296570ca03497d99cccf4080e1ed1d499be77825aaed5643e8116c01c7ca",
+          "listfile_size": 12,
+          "listfile_status": "indexed",
+          "size": 131420
+        },
+        {
+          "archive": "patch-Q.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "2e6772b0fedc0465bdb6c8c65f80c0f72821a691002559497b55a2f37a4862f0",
+          "listfile_size": 1703169,
+          "listfile_status": "indexed",
+          "size": 936699486
+        },
+        {
+          "archive": "patch-R.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "83a196145238664c735f9ceefaa51aef8d1f5ee59be8d6a47f648b9a4e30a731",
+          "listfile_size": 922089,
+          "listfile_status": "indexed",
+          "size": 1601261478
+        },
+        {
+          "archive": "patch-S.MPQ",
+          "dbc_tables": [
+            "SpellIcon",
+            "SpellVisual",
+            "SpellVisualEffectName",
+            "SpellVisualKit"
+          ],
+          "listfile_sha256": "bae90905abee611fd4d52e37086b15c6e440b63fcb656bed8af299e0eac1b69b",
+          "listfile_size": 1790,
+          "listfile_status": "indexed",
+          "size": 14222305
+        },
+        {
+          "archive": "patch-T.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "594730ac9d698a2a28e249f5dacf35bf16c0a750b0154536478715c9ee336ac5",
+          "listfile_size": 25,
+          "listfile_status": "indexed",
+          "size": 19381541
+        },
+        {
+          "archive": "patch-TA.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "239edcd9a8abc03166f1ef54c0b61cfc51ff1518d74e908f372c8bebd2dfbcd8",
+          "listfile_size": 7470806,
+          "listfile_status": "indexed",
+          "size": 2186728604
+        },
+        {
+          "archive": "patch-TM.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "11fecdef3b8936524189eff23008105a0c800a3b24b9f6db35f5e6ffe27505ef",
+          "listfile_size": 26031,
+          "listfile_status": "indexed",
+          "size": 10903175
+        },
+        {
+          "archive": "patch-TW.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "71b3b29abf20eff9c0a99b106979b44968a6dace7eb99b71acf7d76510b81693",
+          "listfile_size": 717852,
+          "listfile_status": "indexed",
+          "size": 685167922
+        },
+        {
+          "archive": "patch-U.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "817b4638a4a15b8672cf1d03d5a3829217abc7b652e81d467bc779730fa2f110",
+          "listfile_size": 3008682,
+          "listfile_status": "indexed",
+          "size": 429631753
+        },
+        {
+          "archive": "patch-V.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "3811b270eecabe66bb99ef454254cf23b73c5868d14d8987ddbbe8cc8ad808e0",
+          "listfile_size": 295817,
+          "listfile_status": "indexed",
+          "size": 885843882
+        },
+        {
+          "archive": "patch-W.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "listfile_size": 0,
+          "listfile_status": "indexed",
+          "size": 131165
+        },
+        {
+          "archive": "patch-WA.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "0d6abbf2d19c9e5f1e2b5ebbfc39dd7046f92588a032539d03fb08e650a3931b",
+          "listfile_size": 470083,
+          "listfile_status": "indexed",
+          "size": 1379968884
+        },
+        {
+          "archive": "patch-WB.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "listfile_size": 0,
+          "listfile_status": "indexed",
+          "size": 131165
+        },
+        {
+          "archive": "patch-WB1.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "d67534c3904b70752fea84fa6692a4939e3e590907fed3bc9516220490441026",
+          "listfile_size": 175468,
+          "listfile_status": "indexed",
+          "size": 2140134409
+        },
+        {
+          "archive": "patch-WB2.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "a238c4331561bc214375a286a6e2b2f37b2e8c06a256535eccca9e9eee3d1a00",
+          "listfile_size": 167769,
+          "listfile_status": "indexed",
+          "size": 1661786613
+        },
+        {
+          "archive": "patch-WC.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "listfile_size": 0,
+          "listfile_status": "indexed",
+          "size": 131165
+        },
+        {
+          "archive": "patch-WC1.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "b4b3eddd3f46ab657cb45ff5a4f97480c3b7b619afa132417a85fd6e575e0a10",
+          "listfile_size": 589383,
+          "listfile_status": "indexed",
+          "size": 1293627244
+        },
+        {
+          "archive": "patch-WC2.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "83ebf56749fa9d2c79c750cc7f173a5b7c8a99877881d4f66588f53b58787bd3",
+          "listfile_size": 3335110,
+          "listfile_status": "indexed",
+          "size": 2158159344
+        },
+        {
+          "archive": "patch-WC3.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "a112d4c138ca59a66a16aba936ee632196d0c3c401e2adb4bbd7bd547b7f0b10",
+          "listfile_size": 524133,
+          "listfile_status": "indexed",
+          "size": 248291573
+        },
+        {
+          "archive": "patch-X.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "04105fbbe7800f68b8cabf521c742919e967f53f11d79a1229c293d59888a3b3",
+          "listfile_size": 15398,
+          "listfile_status": "indexed",
+          "size": 12147810
+        },
+        {
+          "archive": "patch-Z.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "87a93375d58c2eb9078ca1dd566abbaf1e0cbc0858b3d298c5d16702c7d35fb3",
+          "listfile_size": 272236,
+          "listfile_status": "indexed",
+          "size": 355430682
+        },
+        {
+          "archive": "patch.MPQ",
+          "dbc_tables": [],
+          "listfile_sha256": "e72a20c949944a087c2e0d4ec68ea5f7305b6d20aff8e016ed0efb366afdae68",
+          "listfile_size": 2315559,
+          "listfile_status": "indexed",
+          "size": 4004713057
+        }
+      ],
+      "archives_discovered": 77,
+      "archives_indexed": 77,
+      "dbc_sources": {
+        "SoundEntries": {
+          "archive": "patch-M.MPQ",
+          "archive_sha256": "663474768ad4de02546884e898b78888aaa0a5844e13dcf7aef388d9f0ec13f8",
+          "archive_size": 64526087,
+          "fields": 30,
+          "internal_path": "DBFilesClient\\SoundEntries.dbc",
+          "internal_sha256": "02c2254e40d97eb5d6cdad4ceeedc8330c9430b50320d246b535af70e787b75b",
+          "internal_size": 5583999,
+          "record_size": 120,
+          "records": 30123,
+          "string_size": 1969219
+        },
+        "SpellIcon": {
+          "archive": "patch-S.MPQ",
+          "archive_sha256": "a8a2bfb1ea8e37c30f5661544c67878a19bab40d87412c9f8c74e390be2e0830",
+          "archive_size": 14222305,
+          "fields": 2,
+          "internal_path": "DBFilesClient\\SpellIcon.dbc",
+          "internal_sha256": "14c60e7da6a536f5d31b89bf9861d56ce08bcdca7fde676ae727c5ae5a1f2977",
+          "internal_size": 785093,
+          "record_size": 8,
+          "records": 16354,
+          "string_size": 654241
+        },
+        "SpellVisual": {
+          "archive": "patch-S.MPQ",
+          "archive_sha256": "a8a2bfb1ea8e37c30f5661544c67878a19bab40d87412c9f8c74e390be2e0830",
+          "archive_size": 14222305,
+          "fields": 32,
+          "internal_path": "DBFilesClient\\SpellVisual.dbc",
+          "internal_sha256": "076b848358df156835104de6180c0654a30100e1b1229ce8eb4b8feeb41e8e69",
+          "internal_size": 2949780,
+          "record_size": 128,
+          "records": 23045,
+          "string_size": 0
+        },
+        "SpellVisualEffectName": {
+          "archive": "patch-S.MPQ",
+          "archive_sha256": "a8a2bfb1ea8e37c30f5661544c67878a19bab40d87412c9f8c74e390be2e0830",
+          "archive_size": 14222305,
+          "fields": 7,
+          "internal_path": "DBFilesClient\\SpellVisualEffectName.dbc",
+          "internal_sha256": "83eac49e78ed6cdd6586aa3a47c5c39ce57bee56fda8dae8a80d27db0c445bba",
+          "internal_size": 1296161,
+          "record_size": 28,
+          "records": 18681,
+          "string_size": 773073
+        },
+        "SpellVisualKit": {
+          "archive": "patch-S.MPQ",
+          "archive_sha256": "a8a2bfb1ea8e37c30f5661544c67878a19bab40d87412c9f8c74e390be2e0830",
+          "archive_size": 14222305,
+          "fields": 38,
+          "internal_path": "DBFilesClient\\SpellVisualKit.dbc",
+          "internal_sha256": "1ed4de7d94099fd01e2345d37586feb43dc900bbd17b66dc414e03e25c75647c",
+          "internal_size": 4474140,
+          "record_size": 152,
+          "records": 29435,
+          "string_size": 0
+        }
+      },
+      "root": "C:\\Program Files\\Ascension Launcher\\resources\\client"
+    }
+  },
+  "enriched_at": "2026-07-29T15:00:00Z",
+  "quality": {
+    "animation_binding": {
+      "confidence": "partial",
+      "note": "AnimationData IDs and all listed .anim assets are indexed; per-model external .anim binding requires M2 parsing in the content compiler."
+    },
+    "candidate_donor_references": {
+      "icon_ids": 40438,
+      "sound_ids": 49498
+    },
+    "candidate_donor_references_by_assignment": {
+      "assigned": {
+        "sound_ids": {
+          "occurrences": 1278,
+          "unique": 1065
+        }
+      },
+      "unassigned": {
+        "icon_ids": {
+          "occurrences": 40438,
+          "unique": 8073
+        },
+        "sound_ids": {
+          "occurrences": 48220,
+          "unique": 4315
+        }
+      }
+    },
+    "dependency_status": {
+      "empty": 4317,
+      "partial": 73660,
+      "resolved": 160911
+    },
+    "dependency_status_by_assignment": {
+      "assigned": {
+        "partial": 690,
+        "resolved": 1270
+      },
+      "unassigned": {
+        "empty": 4317,
+        "partial": 72970,
+        "resolved": 159641
+      }
+    },
+    "unresolved_references": {
+      "asset_paths": 1994,
+      "effect_name_ids": 877,
+      "icon_ids": 900,
+      "missile_ids": 26,
+      "sound_ids": 614,
+      "summon_creature_ids": 3450,
+      "trigger_spell_ids": 337,
+      "visual_ids": 4607,
+      "visual_kit_ids": 77
+    },
+    "unresolved_references_by_assignment": {
+      "assigned": {
+        "asset_paths": {
+          "occurrences": 29,
+          "unique": 25
+        },
+        "effect_name_ids": {
+          "occurrences": 5,
+          "unique": 5
+        },
+        "sound_ids": {
+          "occurrences": 7,
+          "unique": 4
+        },
+        "summon_creature_ids": {
+          "occurrences": 10,
+          "unique": 10
+        },
+        "trigger_spell_ids": {
+          "occurrences": 2,
+          "unique": 1
+        },
+        "visual_kit_ids": {
+          "occurrences": 1,
+          "unique": 1
+        }
+      },
+      "unassigned": {
+        "asset_paths": {
+          "occurrences": 1965,
+          "unique": 489
+        },
+        "effect_name_ids": {
+          "occurrences": 872,
+          "unique": 51
+        },
+        "icon_ids": {
+          "occurrences": 900,
+          "unique": 204
+        },
+        "missile_ids": {
+          "occurrences": 26,
+          "unique": 7
+        },
+        "sound_ids": {
+          "occurrences": 607,
+          "unique": 26
+        },
+        "summon_creature_ids": {
+          "occurrences": 3440,
+          "unique": 2725
+        },
+        "trigger_spell_ids": {
+          "occurrences": 335,
+          "unique": 205
+        },
+        "visual_ids": {
+          "occurrences": 4607,
+          "unique": 1262
+        },
+        "visual_kit_ids": {
+          "occurrences": 76,
+          "unique": 37
+        }
+      }
+    }
+  }
+}

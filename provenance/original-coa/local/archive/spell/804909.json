@@ -1,0 +1,8 @@
+{
+  "name_enus": "Quickness",
+  "icon": "ability_rogue_improvedrecuperate",
+  "tooltip_enus": "<table><tr><td><b>Quickness</b><br /><table width=\"100%\"><tr><td>Instant</td><th>40&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Instantly generates 3 Holy Runes and 30% maximum Energy, and increases your movement speed by 40% for 4&nbsp;sec.<br /><br />Usable while Stunned, and removes any Stun effects when activated.</span></td></tr></table><!--?804909:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,803 @@
+{
+ "build": {
+  "id": "9e756564-15a6-455e-a39f-59be9592f5a8",
+  "title": "Celestial Priest",
+  "description": "[overview]\nLive, laugh, love Lunar Eclipse -> Moonflow\n\nRotate Celestial Form and Starshatter between each pack depending on the tank to burst heal everyone, and get full mana with Eclipse -> Moonflow. \n\nAlternatively you can go Moonlit Lancer instead of Lunar Anomaly (the talent above Starshatter) that turns Lunar Lance into a DoT and tab target full stacks of that onto everything.",
+  "class_id": 26,
+  "spec_id": 68,
+  "author_id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+  "talent_string": "W1siMjYtODctMS0wIiwxXSxbIjI2LTg3LTMtMCIsMV0sWyIyNi04Ny01LTAiLDFdLFsiMjYtODctMi0xIiwxXSxbIjI2LTg3LTQtMSIsMV0sWyIyNi04Ny02LTEiLDJdLFsiMjYtODctMS0yIiwxXSxbIjI2LTg3LTQtMiIsMV0sWyIyNi04Ny03LTIiLDFdLFsiMjYtODctMC0zIiwxXSxbIjI2LTg3LTQtMyIsMl0sWyIyNi04Ny0wLTUiLDFdLFsiMjYtNjgtNC0wIiwxXSxbIjI2LTY4LTItMSIsMV0sWyIyNi02OC00LTEiLDJdLFsiMjYtNjgtNi0xIiwxXSxbIjI2LTY4LTQtMiIsMV0sWyIyNi02OC00LTMiLDFdLFsiMjYtNjgtNy0zIiwxXSxbIjI2LTY4LTYtNCIsMV0sWyIyNi02OC00LTQiLDFdLFsiMjYtNjgtNC01YiIsMV0sWyIyNi02OC03LTUiLDFdLFsiMjYtNjgtNi02IiwxXSxbIjI2LTY4LTEtMyIsMV0sWyIyNi02OC04LTQiLDFdLFsiMjYtNjgtMTAtMCIsMV0sWyIyNi02OC0xMC0yIiwxXSxbIjI2LTY4LTEwLTQiLDFdLFsiMjYtNjgtMTAtNiIsMV0sWyIyNi02OC0xMC04IiwxXSxbIjI2LTY4LTAtNCIsMV0sWyIyNi02OC0xLTUiLDFdLFsiMjYtNjgtMi02IiwxXSxbIjI2LTY4LTEtNyIsMV0sWyIyNi02OC0wLTYiLDFdLFsiMjYtNjgtMy03IiwxXSxbIjI2LTY4LTUtNyIsMV0sWyIyNi02OC0yLTUiLDFdLFsiMjYtNjgtNC04IiwxXSxbIjI2LTY4LTQtOSIsMV0sWyIyNi04Ny00LTRiIiwxXSxbIjI2LTg3LTItNSIsMV0sWyIyNi04Ny00LTUiLDFdLFsiMjYtODctNi01IiwxXSxbIjI2LTg3LTYtNiIsMV0sWyIyNi04Ny03LTdiIiwxXSxbIjI2LTg3LTQtNmEiLDFdLFsiMjYtODctNC03IiwxXSxbIjI2LTg3LTItNiIsMV0sWyIyNi04Ny0xLTciLDFdLFsiMjYtODctMS04IiwxXSxbIjI2LTg3LTEtOSIsMV1d",
+  "tags": [
+   "Dungeons"
+  ],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 2,
+  "created_at": "2026-07-16T10:00:01.848229+00:00",
+  "updated_at": "2026-07-27T23:45:55.111+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1481,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+   "username": "Iyob",
+   "avatar_url": null
+  }
+ },
+ "comments": [
+  {
+   "id": "7dcc86d9-d81b-4b18-bdce-6919760ca1cc",
+   "build_id": "9e756564-15a6-455e-a39f-59be9592f5a8",
+   "author_id": "84e28fac-314a-48fc-adf5-239b447530ad",
+   "parent_id": null,
+   "body": "I think Aeges will be better than Wardens Blade",
+   "upvotes": 0,
+   "created_at": "2026-07-25T17:04:42.420225+00:00",
+   "updated_at": "2026-07-25T17:04:42.420225+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "84e28fac-314a-48fc-adf5-239b447530ad",
+    "username": "manyafels",
+    "avatar_url": "https://cdn.discordapp.com/avatars/386601389071007744/77a76e4f3bf512269178d952c35db78d.png"
+   }
+  },
+  {
+   "id": "318d62ca-1907-4d56-890d-156485b1c377",
+   "build_id": "9e756564-15a6-455e-a39f-59be9592f5a8",
+   "author_id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+   "parent_id": "7dcc86d9-d81b-4b18-bdce-6919760ca1cc",
+   "body": "You could take it, but it's fairly niche. How often are you getting hit by mobs in melee ? \n\nCombining: Warden's Blade + Glaive Tossing + New Moon + Blessed by the Stars you can use Warden's Blade as a way to move and hopefully generate a Scattered Star stack.",
+   "upvotes": 0,
+   "created_at": "2026-07-27T23:42:47.600695+00:00",
+   "updated_at": "2026-07-27T23:42:47.600695+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+    "username": "Iyob",
+    "avatar_url": null
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "42369f7d-6a9b-45a2-a284-892ee8d5e70d",
+   "title": "Moon Guard Tank",
+   "class_id": 26,
+   "spec_id": 67,
+   "author_id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+   "tags": [
+    "Moon Guard",
+    "aoe",
+    "tank",
+    "m+",
+    "Starcaller",
+    "goon guard"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 2,
+   "view_count": 520,
+   "featured": false,
+   "created_at": "2026-07-26T05:11:14.943558+00:00",
+   "updated_at": "2026-07-26T05:11:14.943558+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+    "username": "Augusto R.A",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL-BwAqiaXC2HCf37ylOwfadsrOg1LOqGO1Ljzqd6AU0IBsMj_t=s96-c"
+   }
+  },
+  {
+   "id": "0186feb6-32f0-46d9-8914-26261bca5475",
+   "title": "Warden PvP Skirmisher GOD Build",
+   "class_id": 26,
+   "spec_id": 89,
+   "author_id": "d65c498f-7528-404d-9e6f-ceac1f8307d7",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1929,
+   "featured": false,
+   "created_at": "2026-07-20T06:23:30.006276+00:00",
+   "updated_at": "2026-07-21T05:12:05.586+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "d65c498f-7528-404d-9e6f-ceac1f8307d7",
+    "username": "B Hw",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKvaGXyQi4bWkOVw82KF7QS9CXSqUmjiuURDfqSnrRb4BvhEw=s96-c"
+   }
+  },
+  {
+   "id": "9bf37522-d3ec-40bb-9f59-fddc92bb15fd",
+   "title": "Warden test",
+   "class_id": 26,
+   "spec_id": 89,
+   "author_id": "236c0a03-2fc1-4acd-9277-2a59e98f0f9a",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 2577,
+   "featured": false,
+   "created_at": "2026-07-19T18:17:01.725041+00:00",
+   "updated_at": "2026-07-20T13:46:27.047+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "236c0a03-2fc1-4acd-9277-2a59e98f0f9a",
+    "username": "pikachu_no_acido",
+    "avatar_url": "https://cdn.discordapp.com/avatars/756154367698010173/ff89765c6225a6887caa210e3933cade.png"
+   }
+  }
+ ],
+ "class": "Starcaller",
+ "spec": "Moon Priest",
+ "allocations": [
+  [
+   "26-87-1-0",
+   1
+  ],
+  [
+   "26-87-3-0",
+   1
+  ],
+  [
+   "26-87-5-0",
+   1
+  ],
+  [
+   "26-87-2-1",
+   1
+  ],
+  [
+   "26-87-4-1",
+   1
+  ],
+  [
+   "26-87-6-1",
+   2
+  ],
+  [
+   "26-87-1-2",
+   1
+  ],
+  [
+   "26-87-4-2",
+   1
+  ],
+  [
+   "26-87-7-2",
+   1
+  ],
+  [
+   "26-87-0-3",
+   1
+  ],
+  [
+   "26-87-4-3",
+   2
+  ],
+  [
+   "26-87-0-5",
+   1
+  ],
+  [
+   "26-68-4-0",
+   1
+  ],
+  [
+   "26-68-2-1",
+   1
+  ],
+  [
+   "26-68-4-1",
+   2
+  ],
+  [
+   "26-68-6-1",
+   1
+  ],
+  [
+   "26-68-4-2",
+   1
+  ],
+  [
+   "26-68-4-3",
+   1
+  ],
+  [
+   "26-68-7-3",
+   1
+  ],
+  [
+   "26-68-6-4",
+   1
+  ],
+  [
+   "26-68-4-4",
+   1
+  ],
+  [
+   "26-68-4-5b",
+   1
+  ],
+  [
+   "26-68-7-5",
+   1
+  ],
+  [
+   "26-68-6-6",
+   1
+  ],
+  [
+   "26-68-1-3",
+   1
+  ],
+  [
+   "26-68-8-4",
+   1
+  ],
+  [
+   "26-68-10-0",
+   1
+  ],
+  [
+   "26-68-10-2",
+   1
+  ],
+  [
+   "26-68-10-4",
+   1
+  ],
+  [
+   "26-68-10-6",
+   1
+  ],
+  [
+   "26-68-10-8",
+   1
+  ],
+  [
+   "26-68-0-4",
+   1
+  ],
+  [
+   "26-68-1-5",
+   1
+  ],
+  [
+   "26-68-2-6",
+   1
+  ],
+  [
+   "26-68-1-7",
+   1
+  ],
+  [
+   "26-68-0-6",
+   1
+  ],
+  [
+   "26-68-3-7",
+   1
+  ],
+  [
+   "26-68-5-7",
+   1
+  ],
+  [
+   "26-68-2-5",
+   1
+  ],
+  [
+   "26-68-4-8",
+   1
+  ],
+  [
+   "26-68-4-9",
+   1
+  ],
+  [
+   "26-87-4-4b",
+   1
+  ],
+  [
+   "26-87-2-5",
+   1
+  ],
+  [
+   "26-87-4-5",
+   1
+  ],
+  [
+   "26-87-6-5",
+   1
+  ],
+  [
+   "26-87-6-6",
+   1
+  ],
+  [
+   "26-87-7-7b",
+   1
+  ],
+  [
+   "26-87-4-6a",
+   1
+  ],
+  [
+   "26-87-4-7",
+   1
+  ],
+  [
+   "26-87-2-6",
+   1
+  ],
+  [
+   "26-87-1-7",
+   1
+  ],
+  [
+   "26-87-1-8",
+   1
+  ],
+  [
+   "26-87-1-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "26-87-1-0",
+   "points": 1,
+   "name": "Touch of Moonlight",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 574328
+  },
+  {
+   "id": "26-87-3-0",
+   "points": 1,
+   "name": "Shooting Star",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 800505
+  },
+  {
+   "id": "26-87-5-0",
+   "points": 1,
+   "name": "Warden's Blade",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 805508
+  },
+  {
+   "id": "26-87-2-1",
+   "points": 1,
+   "name": "Astral Projection",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300994
+  },
+  {
+   "id": "26-87-4-1",
+   "points": 1,
+   "name": "Star Citizen",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704776
+  },
+  {
+   "id": "26-87-6-1",
+   "points": 2,
+   "name": "Flow of Mana",
+   "maxPoints": 2,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704604
+  },
+  {
+   "id": "26-87-1-2",
+   "points": 1,
+   "name": "Bright Moon",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801226
+  },
+  {
+   "id": "26-87-4-2",
+   "points": 1,
+   "name": "Galaxy",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 800508
+  },
+  {
+   "id": "26-87-7-2",
+   "points": 1,
+   "name": "Protected by the Stars",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300258
+  },
+  {
+   "id": "26-87-0-3",
+   "points": 1,
+   "name": "Enchanted Well",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 680820
+  },
+  {
+   "id": "26-87-4-3",
+   "points": 2,
+   "name": "Starbarian",
+   "maxPoints": 2,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704778
+  },
+  {
+   "id": "26-87-0-5",
+   "points": 1,
+   "name": "The Stars Align",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300251
+  },
+  {
+   "id": "26-68-4-0",
+   "points": 1,
+   "name": "Aspect of the Goddess",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 802203
+  },
+  {
+   "id": "26-68-2-1",
+   "points": 1,
+   "name": "Moonflow",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 575030
+  },
+  {
+   "id": "26-68-4-1",
+   "points": 2,
+   "name": "Lunar Blessing",
+   "maxPoints": 2,
+   "tree": "Moon Priest",
+   "spellId": 704756
+  },
+  {
+   "id": "26-68-6-1",
+   "points": 1,
+   "name": "Prayer of Elune",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 801987
+  },
+  {
+   "id": "26-68-4-2",
+   "points": 1,
+   "name": "Lunar Resplendence",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 801989
+  },
+  {
+   "id": "26-68-4-3",
+   "points": 1,
+   "name": "Eclipsing Arrows",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 800504
+  },
+  {
+   "id": "26-68-7-3",
+   "points": 1,
+   "name": "Enchanted Water",
+   "maxPoints": 2,
+   "tree": "Moon Priest",
+   "spellId": 704755
+  },
+  {
+   "id": "26-68-6-4",
+   "points": 1,
+   "name": "Goddess Watch Over",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 500582
+  },
+  {
+   "id": "26-68-4-4",
+   "points": 1,
+   "name": "Stellar Convergence",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 572784
+  },
+  {
+   "id": "26-68-4-5b",
+   "points": 1,
+   "name": "Mending Surge",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 704732
+  },
+  {
+   "id": "26-68-7-5",
+   "points": 1,
+   "name": "Teachings of Elune",
+   "maxPoints": 2,
+   "tree": "Moon Priest",
+   "spellId": 704759
+  },
+  {
+   "id": "26-68-6-6",
+   "points": 1,
+   "name": "Phase Guider",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 300995
+  },
+  {
+   "id": "26-68-1-3",
+   "points": 1,
+   "name": "Lunar Swiftness",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 503779
+  },
+  {
+   "id": "26-68-8-4",
+   "points": 1,
+   "name": "Cycle of the Moon",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 500206
+  },
+  {
+   "id": "26-68-10-0",
+   "points": 1,
+   "name": "Moon Priest",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 92134
+  },
+  {
+   "id": "26-68-10-2",
+   "points": 1,
+   "name": "Celestial Mind",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 707638
+  },
+  {
+   "id": "26-68-10-4",
+   "points": 1,
+   "name": "Moonwell Acuity",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 680809
+  },
+  {
+   "id": "26-68-10-6",
+   "points": 1,
+   "name": "Moon Gazing",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 504786
+  },
+  {
+   "id": "26-68-10-8",
+   "points": 1,
+   "name": "Elune's Blessing",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 681407
+  },
+  {
+   "id": "26-68-0-4",
+   "points": 1,
+   "name": "Moonlit Slumber",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 805546
+  },
+  {
+   "id": "26-68-1-5",
+   "points": 1,
+   "name": "Tear Drops",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 560896
+  },
+  {
+   "id": "26-68-2-6",
+   "points": 1,
+   "name": "Elune's Grace",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 504001
+  },
+  {
+   "id": "26-68-1-7",
+   "points": 1,
+   "name": "Elune's Favor",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 300237
+  },
+  {
+   "id": "26-68-0-6",
+   "points": 1,
+   "name": "Blessed By The Stars",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 704741
+  },
+  {
+   "id": "26-68-3-7",
+   "points": 1,
+   "name": "Enchanted Stream",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 504003
+  },
+  {
+   "id": "26-68-5-7",
+   "points": 1,
+   "name": "Flow of Waters",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 560539
+  },
+  {
+   "id": "26-68-2-5",
+   "points": 1,
+   "name": "Rapid Cycle",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 300249
+  },
+  {
+   "id": "26-68-4-8",
+   "points": 1,
+   "name": "Rampaging Waters",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 560956
+  },
+  {
+   "id": "26-68-4-9",
+   "points": 1,
+   "name": "Celestial Form",
+   "maxPoints": 1,
+   "tree": "Moon Priest",
+   "spellId": 801231
+  },
+  {
+   "id": "26-87-4-4b",
+   "points": 1,
+   "name": "Moonlit Lancer",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 560662
+  },
+  {
+   "id": "26-87-2-5",
+   "points": 1,
+   "name": "Vial of Moonwell Water",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 804652
+  },
+  {
+   "id": "26-87-4-5",
+   "points": 1,
+   "name": "Starshatter",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801135
+  },
+  {
+   "id": "26-87-6-5",
+   "points": 1,
+   "name": "Reverse Magic",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 570231
+  },
+  {
+   "id": "26-87-6-6",
+   "points": 1,
+   "name": "Constellation Barrier",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300259
+  },
+  {
+   "id": "26-87-7-7b",
+   "points": 1,
+   "name": "Glaive Tossing",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 680737
+  },
+  {
+   "id": "26-87-4-6a",
+   "points": 1,
+   "name": "Moonwalk",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300256
+  },
+  {
+   "id": "26-87-4-7",
+   "points": 1,
+   "name": "Way of the Goddess",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801976
+  },
+  {
+   "id": "26-87-2-6",
+   "points": 1,
+   "name": "Moonwell Tides",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 560951
+  },
+  {
+   "id": "26-87-1-7",
+   "points": 1,
+   "name": "Moonblessed Aspects",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 706232
+  },
+  {
+   "id": "26-87-1-8",
+   "points": 1,
+   "name": "Cosmic Duality",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 504628
+  },
+  {
+   "id": "26-87-1-9",
+   "points": 1,
+   "name": "Moonwell",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 804739
+  }
+ ]
+}

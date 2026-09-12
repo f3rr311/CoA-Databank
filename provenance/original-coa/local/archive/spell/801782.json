@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ancestral Combat",
+  "icon": "_d3calloftheancients",
+  "tooltip_enus": "<table><tr><td><b>Ancestral Combat</b><br />60 Energy<br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empower yourself, granting your Physical damage dealt a 25% chance to trigger an additional main hand attack as Frost damage on your target and grant a stack of <span style=\"color: #ffffff;\">Fill Level</span>.<br /><br />Lasts until triggered 20 times.</span></td></tr></table><!--?801782:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

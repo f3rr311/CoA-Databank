@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blood Trails",
+  "icon": "uico_blood_spell_07_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blood Trails</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Periodic damage and healing now causes targets to spill a pool of blood beneath them.<br /><br />Allies in a <span style=\"color: #a966f0;\">Cursed Form</span> who move through the pools of blood gain <span style=\"color: #ffffff;\">Trail of Blood</span> for 6&nbsp;sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/_scrollofspeed_fire.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804859'> Trail of Blood </a> <br />\n                            <span> Movement speed cannot be reduced below 80%. Movement speed increased by 20%. Damage dealt increased by 5%.</span><br /></span></td></tr></table><!--?804858:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

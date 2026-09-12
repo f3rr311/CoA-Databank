@@ -1,0 +1,8 @@
+{
+  "name_enus": "Soar",
+  "icon": "inv_icon_wing07a",
+  "tooltip_enus": "<table><tr><td><b>Soar</b><br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Launch yourself into the air where you will linger for 10&nbsp;sec. <br /><br />While Soar is active, <span style=\"color: #ffffff;\">Fel Fireball</span> is instant but deals 40% less damage.</span></td></tr></table><!--?804522:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

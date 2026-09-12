@@ -1,0 +1,541 @@
+[
+ {
+  "id": 12,
+  "name": "Barbarian",
+  "slug": "barbarian",
+  "color": "#C79C6E",
+  "specs": [
+   {
+    "id": 31,
+    "name": "Brutality",
+    "tabId": 31
+   },
+   {
+    "id": 32,
+    "name": "Headhunting",
+    "tabId": 32
+   },
+   {
+    "id": 33,
+    "name": "Ancestry",
+    "tabId": 33
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 13,
+  "name": "Witch Doctor",
+  "slug": "witch-doctor",
+  "color": "#00FF96",
+  "specs": [
+   {
+    "id": 34,
+    "name": "Voodoo",
+    "tabId": 34
+   },
+   {
+    "id": 35,
+    "name": "Brewing",
+    "tabId": 35
+   },
+   {
+    "id": 36,
+    "name": "Shadowhunting",
+    "tabId": 36
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 14,
+  "name": "Felsworn",
+  "slug": "felsworn",
+  "color": "#A330C9",
+  "specs": [
+   {
+    "id": 37,
+    "name": "Slayer",
+    "tabId": 37
+   },
+   {
+    "id": 38,
+    "name": "Infernal",
+    "tabId": 38
+   },
+   {
+    "id": 18,
+    "name": "Tyrant",
+    "tabId": 18
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 15,
+  "name": "Witch Hunter",
+  "slug": "witch-hunter",
+  "color": "#ABD473",
+  "specs": [
+   {
+    "id": 39,
+    "name": "Boltslinger",
+    "tabId": 39
+   },
+   {
+    "id": 40,
+    "name": "Houndmaster",
+    "tabId": 40
+   },
+   {
+    "id": 94,
+    "name": "Black Knight",
+    "tabId": 94
+   },
+   {
+    "id": 41,
+    "name": "Inquisition",
+    "tabId": 41
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 16,
+  "name": "Stormbringer",
+  "slug": "stormbringer",
+  "color": "#0070DE",
+  "specs": [
+   {
+    "id": 42,
+    "name": "Lightning",
+    "tabId": 42
+   },
+   {
+    "id": 43,
+    "name": "Wind",
+    "tabId": 43
+   },
+   {
+    "id": 44,
+    "name": "Maelstrom",
+    "tabId": 44
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 17,
+  "name": "Knight of Xoroth",
+  "slug": "knight-of-xoroth",
+  "color": "#C41E3A",
+  "specs": [
+   {
+    "id": 46,
+    "name": "Hellfire",
+    "tabId": 46
+   },
+   {
+    "id": 45,
+    "name": "War",
+    "tabId": 45
+   },
+   {
+    "id": 47,
+    "name": "Defiance",
+    "tabId": 47
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 18,
+  "name": "Guardian",
+  "slug": "guardian",
+  "color": "#FF7C0A",
+  "specs": [
+   {
+    "id": 7,
+    "name": "Vanguard",
+    "tabId": 7
+   },
+   {
+    "id": 48,
+    "name": "Inspiration",
+    "tabId": 48
+   },
+   {
+    "id": 49,
+    "name": "Gladiator",
+    "tabId": 49
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 19,
+  "name": "Templar",
+  "slug": "templar",
+  "color": "#F48CBA",
+  "specs": [
+   {
+    "id": 50,
+    "name": "Zealot",
+    "tabId": 50
+   },
+   {
+    "id": 16,
+    "name": "Oathkeeper",
+    "tabId": 16
+   },
+   {
+    "id": 51,
+    "name": "Crusader",
+    "tabId": 51
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 20,
+  "name": "Bloodmage",
+  "slug": "bloodmage",
+  "color": "#8788EE",
+  "specs": [
+   {
+    "id": 26,
+    "name": "Sanguine",
+    "tabId": 26
+   },
+   {
+    "id": 52,
+    "name": "Accursed",
+    "tabId": 52
+   },
+   {
+    "id": 53,
+    "name": "Eternal",
+    "tabId": 53
+   },
+   {
+    "id": 93,
+    "name": "Fleshweaver",
+    "tabId": 93
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 21,
+  "name": "Ranger",
+  "slug": "ranger",
+  "color": "#AAD372",
+  "specs": [
+   {
+    "id": 2,
+    "name": "Farstrider",
+    "tabId": 2
+   },
+   {
+    "id": 54,
+    "name": "Archery",
+    "tabId": 54
+   },
+   {
+    "id": 55,
+    "name": "Brigand",
+    "tabId": 55
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 22,
+  "name": "Chronomancer",
+  "slug": "chronomancer",
+  "color": "#3FC7EB",
+  "specs": [
+   {
+    "id": 56,
+    "name": "Infinite",
+    "tabId": 56
+   },
+   {
+    "id": 57,
+    "name": "Artificer",
+    "tabId": 57
+   },
+   {
+    "id": 58,
+    "name": "Time",
+    "tabId": 58
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 23,
+  "name": "Necromancer",
+  "slug": "necromancer",
+  "color": "#556B2F",
+  "specs": [
+   {
+    "id": 59,
+    "name": "Death",
+    "tabId": 59
+   },
+   {
+    "id": 60,
+    "name": "Rime",
+    "tabId": 60
+   },
+   {
+    "id": 61,
+    "name": "Animation",
+    "tabId": 61
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 24,
+  "name": "Pyromancer",
+  "slug": "pyromancer",
+  "color": "#FF4500",
+  "specs": [
+   {
+    "id": 19,
+    "name": "Flameweaving",
+    "tabId": 19
+   },
+   {
+    "id": 62,
+    "name": "Incineration",
+    "tabId": 62
+   },
+   {
+    "id": 63,
+    "name": "Draconic",
+    "tabId": 63
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 25,
+  "name": "Cultist",
+  "slug": "cultist",
+  "color": "#9B30FF",
+  "specs": [
+   {
+    "id": 64,
+    "name": "Godblade",
+    "tabId": 64
+   },
+   {
+    "id": 65,
+    "name": "Corruption",
+    "tabId": 65
+   },
+   {
+    "id": 66,
+    "name": "Heretic",
+    "tabId": 66
+   },
+   {
+    "id": 88,
+    "name": "Dreadnought",
+    "tabId": 88
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 26,
+  "name": "Starcaller",
+  "slug": "starcaller",
+  "color": "#FFFFFF",
+  "specs": [
+   {
+    "id": 67,
+    "name": "Moon Guard",
+    "tabId": 67
+   },
+   {
+    "id": 68,
+    "name": "Moon Priest",
+    "tabId": 68
+   },
+   {
+    "id": 69,
+    "name": "Sentinel",
+    "tabId": 69
+   },
+   {
+    "id": 89,
+    "name": "Warden",
+    "tabId": 89
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 27,
+  "name": "Sun Cleric",
+  "slug": "sun-cleric",
+  "color": "#FFD700",
+  "specs": [
+   {
+    "id": 70,
+    "name": "Piety",
+    "tabId": 70
+   },
+   {
+    "id": 71,
+    "name": "Blessings",
+    "tabId": 71
+   },
+   {
+    "id": 72,
+    "name": "Seraphim",
+    "tabId": 72
+   },
+   {
+    "id": 90,
+    "name": "Valkyrie",
+    "tabId": 90
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 28,
+  "name": "Tinker",
+  "slug": "tinker",
+  "color": "#B8860B",
+  "specs": [
+   {
+    "id": 73,
+    "name": "Demolition",
+    "tabId": 73
+   },
+   {
+    "id": 74,
+    "name": "Invention",
+    "tabId": 74
+   },
+   {
+    "id": 75,
+    "name": "Mechanics",
+    "tabId": 75
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 29,
+  "name": "Venomancer",
+  "slug": "venomancer",
+  "color": "#00FF00",
+  "specs": [
+   {
+    "id": 76,
+    "name": "Venom",
+    "tabId": 76
+   },
+   {
+    "id": 77,
+    "name": "Stalking",
+    "tabId": 77
+   },
+   {
+    "id": 78,
+    "name": "Fortitude",
+    "tabId": 78
+   },
+   {
+    "id": 92,
+    "name": "Vizier",
+    "tabId": 92
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 30,
+  "name": "Reaper",
+  "slug": "reaper",
+  "color": "#708090",
+  "specs": [
+   {
+    "id": 79,
+    "name": "Harvest",
+    "tabId": 79
+   },
+   {
+    "id": 80,
+    "name": "Soul",
+    "tabId": 80
+   },
+   {
+    "id": 81,
+    "name": "Domination",
+    "tabId": 81
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 31,
+  "name": "Primalist",
+  "slug": "primalist",
+  "color": "#8B4513",
+  "specs": [
+   {
+    "id": 82,
+    "name": "Primal",
+    "tabId": 82
+   },
+   {
+    "id": 83,
+    "name": "Geomancy",
+    "tabId": 83
+   },
+   {
+    "id": 84,
+    "name": "Life",
+    "tabId": 84
+   },
+   {
+    "id": 91,
+    "name": "Mountain King",
+    "tabId": 91
+   }
+  ],
+  "classTabId": 87
+ },
+ {
+  "id": 32,
+  "name": "Runemaster",
+  "slug": "runemaster",
+  "color": "#4169E1",
+  "specs": [
+   {
+    "id": 85,
+    "name": "Runic",
+    "tabId": 85
+   },
+   {
+    "id": 11,
+    "name": "Arcane",
+    "tabId": 11
+   },
+   {
+    "id": 86,
+    "name": "Riftblade",
+    "tabId": 86
+   }
+  ],
+  "classTabId": 87
+ }
+]

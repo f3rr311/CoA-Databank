@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Flux",
+  "icon": "spell_arcane_arcane04",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Improved Flux</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the effectiveness of <span style=\"color: #ffffff;\">Flux</span> by 30% and allows it to stack 2 additional times.</span></td></tr></table><!--?705642:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

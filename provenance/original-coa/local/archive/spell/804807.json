@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dark Blood",
+  "icon": "spell_shadow_demonicfortitude",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dark Blood</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cost of your abilities that require <span style=\"color: #a966f0;\">Cursed Form</span> and increases the healing done by <span style=\"color: #ffffff;\">Blood Rituals</span> by 25%.</span></td></tr></table><!--?804807:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

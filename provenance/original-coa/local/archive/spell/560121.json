@@ -1,0 +1,8 @@
+{
+  "name_enus": "On A Cloudy Day",
+  "icon": "achievement_dungeon_skywall",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>On A Cloudy Day</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the healing done by <span style=\"color: #ffffff;\">Shine</span> and <span style=\"color: #ffffff;\">Sunshine</span> by 4%.</span></td></tr></table><!--?560121:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

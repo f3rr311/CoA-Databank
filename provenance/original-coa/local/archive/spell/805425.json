@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shard of True Ice",
+  "icon": "custom_t_nhance_rpg_icons_iceprison_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Shard of True Ice</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases your damage against slowed enemies by 10% and increases the duration of <span style=\"color: #ffffff;\">Heartchill</span> by 1 sec.</span></td></tr></table><!--?805425:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

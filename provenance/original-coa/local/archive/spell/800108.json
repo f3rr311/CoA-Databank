@@ -1,0 +1,8 @@
+{
+  "name_enus": "Crypt Plague",
+  "icon": "_deathcoil_color_cyan",
+  "tooltip_enus": "<table><tr><td><b>Crypt Plague</b><br />15 Runic Power<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">You infect the enemy with 3 stacks of Crypt <span style=\"color: #feff9e;\">Plague</span>.<br /><br />When Crypt <span style=\"color: #feff9e;\">Plague</span> expires or the target dies, the host explodes, dealing <span style=\"color: #01cdfe;\">Plague Damage</span> to them and all other enemies around them. <br /><br />Subsequent applications of Crypt <span style=\"color: #feff9e;\">Plague</span> do not refresh its duration.</span></td></tr></table><!--?800108:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

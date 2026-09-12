@@ -1,0 +1,8 @@
+{
+  "name_enus": "Paradox Cannon",
+  "icon": "inv_staff_2h_artifactaegwynsstaff_d_06",
+  "tooltip_enus": "<table><tr><td><b>Paradox Cannon</b><br />7% of base mana, plus 14 per sec<br /><table width=\"100%\"><tr><td>Instant cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #C49A6C;\">Continuum Spell</span><br />Generate 1 <span style=\"color: #ffffff;\">Echo Fragment</span> every 2.5 sec for 5&nbsp;sec, plus an additional 5 sec per <span style=\"color: #ffffff;\">Echo Fragment</span> consumed.<br /><br />Can only have 1 <span style=\"color: #C49A6C;\">Continuum</span> spell active at a time.</span></td></tr></table><!--?806203:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

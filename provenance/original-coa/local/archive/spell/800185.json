@@ -1,0 +1,8 @@
+{
+  "name_enus": "Primal Shaman's Mask",
+  "icon": "inv_helm_mask_zulgurub_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Primal Shaman's Mask</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Direct damage dealt now has a 10% chance to launch a <span style=\"color: #ffffff;\">Geode</span> at the enemy.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/uico_nature_spell_01_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804002'> Geode </a> <br />\n                            <span> Hurl an enchanted stone at the target, dealing 173*$<scalingbp>+SP*0.349+AP*.085 Physical Damage and generating 5 Rage.</span><br /></span></td></tr></table><!--?800185:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

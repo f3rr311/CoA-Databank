@@ -1,0 +1,696 @@
+{
+ "build": {
+  "id": "34420169-e989-4c4d-8775-d964755620fe",
+  "title": "Moon Guard - Dungeon Farm",
+  "description": "[overview]\nThis is what I have been using while leveling in dungeons. Hope you find it useful!\n\n[rotation]\nYou will always use Aspect of the Cosmos for it´s insane Scattered Star generation. \n\nYour basic AoE rotation is to open with Starburst into Starsweep. At 30+ you should be able to pull pretty decent pack sizes of 10+ mobs then you can just go rotate between these 2 spells. However if there are smaller packs or you or your group is squishy. You might wanna cleave in between to make sure to have generated enough Scattered Stars to reset your Starsweep.\n\nST  prio Moonblade when it procs otherwise just spam Starsunder into Lunar Lance at max stars. \n\nFor survivability top yourself with Lunar Eclipse into Touch of Moonlight. \n\nBlanket of Stars and Infused Aegis into big melee packs for added damage and 10% dmg amp from Starlight Duelist talent.",
+  "class_id": 26,
+  "spec_id": 67,
+  "author_id": "775fde61-fffb-494b-a9cd-386dbb80505e",
+  "talent_string": "W1siMjYtODctMS0wIiwxXSxbIjI2LTg3LTMtMCIsMV0sWyIyNi04Ny03LTAiLDFdLFsiMjYtODctNi0xIiwyXSxbIjI2LTg3LTEtMiIsMV0sWyIyNi04Ny0yLTMiLDFdLFsiMjYtODctNC0yIiwxXSxbIjI2LTg3LTYtMyIsMV0sWyIyNi04Ny00LTMiLDJdLFsiMjYtODctNC00YSIsMV0sWyIyNi04Ny00LTUiLDFdLFsiMjYtODctNC02YiIsMV0sWyIyNi04Ny00LTciLDFdLFsiMjYtODctMi00IiwxXSxbIjI2LTg3LTItNSIsMV0sWyIyNi04Ny0yLTYiLDFdLFsiMjYtODctMC01IiwxXSxbIjI2LTg3LTYtNCIsMV0sWyIyNi04Ny02LTUiLDFdLFsiMjYtODctNi02IiwxXSxbIjI2LTg3LTctMiIsMV0sWyIyNi04Ny00LTEiLDFdLFsiMjYtODctMy04IiwxXSxbIjI2LTg3LTQtOSIsMV0sWyIyNi02Ny00LTAiLDFdLFsiMjYtNjctMy0xIiwxXSxbIjI2LTY3LTUtMSIsMV0sWyIyNi02Ny02LTIiLDFdLFsiMjYtNjctOC0zIiwxXSxbIjI2LTY3LTQtMiIsMl0sWyIyNi02Ny0yLTIiLDFdLFsiMjYtNjctMC0zIiwxXSxbIjI2LTY3LTQtMyIsMV0sWyIyNi02Ny04LTUiLDFdLFsiMjYtNjctNy02IiwxXSxbIjI2LTY3LTctNyIsMV0sWyIyNi02Ny0yLTQiLDFdLFsiMjYtNjctNi00IiwxXSxbIjI2LTY3LTYtNSIsMV0sWyIyNi02Ny01LTYiLDFdLFsiMjYtNjctNS03IiwxXSxbIjI2LTY3LTAtNSIsMV0sWyIyNi02Ny0yLTUiLDFdLFsiMjYtNjctMy02IiwyXSxbIjI2LTY3LTMtNyIsMV0sWyIyNi02Ny02LTgiLDFdLFsiMjYtNjctNC05IiwxXV0",
+  "tags": [
+   "Leveling"
+  ],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 3,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-14T16:33:28.467506+00:00",
+  "updated_at": "2026-07-14T16:33:28.467506+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 3693,
+  "net_score": 3,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "775fde61-fffb-494b-a9cd-386dbb80505e",
+   "username": "ghettogandhi.",
+   "avatar_url": "https://cdn.discordapp.com/avatars/112915489755283456/f66e47ac6ec091e65636fe0f4424b299.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "42369f7d-6a9b-45a2-a284-892ee8d5e70d",
+   "title": "Moon Guard Tank",
+   "class_id": 26,
+   "spec_id": 67,
+   "author_id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+   "tags": [
+    "Moon Guard",
+    "aoe",
+    "tank",
+    "m+",
+    "Starcaller",
+    "goon guard"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 2,
+   "view_count": 522,
+   "featured": false,
+   "created_at": "2026-07-26T05:11:14.943558+00:00",
+   "updated_at": "2026-07-26T05:11:14.943558+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+    "username": "Augusto R.A",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL-BwAqiaXC2HCf37ylOwfadsrOg1LOqGO1Ljzqd6AU0IBsMj_t=s96-c"
+   }
+  },
+  {
+   "id": "0186feb6-32f0-46d9-8914-26261bca5475",
+   "title": "Warden PvP Skirmisher GOD Build",
+   "class_id": 26,
+   "spec_id": 89,
+   "author_id": "d65c498f-7528-404d-9e6f-ceac1f8307d7",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1930,
+   "featured": false,
+   "created_at": "2026-07-20T06:23:30.006276+00:00",
+   "updated_at": "2026-07-21T05:12:05.586+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "d65c498f-7528-404d-9e6f-ceac1f8307d7",
+    "username": "B Hw",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKvaGXyQi4bWkOVw82KF7QS9CXSqUmjiuURDfqSnrRb4BvhEw=s96-c"
+   }
+  },
+  {
+   "id": "9bf37522-d3ec-40bb-9f59-fddc92bb15fd",
+   "title": "Warden test",
+   "class_id": 26,
+   "spec_id": 89,
+   "author_id": "236c0a03-2fc1-4acd-9277-2a59e98f0f9a",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 2579,
+   "featured": false,
+   "created_at": "2026-07-19T18:17:01.725041+00:00",
+   "updated_at": "2026-07-20T13:46:27.047+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "236c0a03-2fc1-4acd-9277-2a59e98f0f9a",
+    "username": "pikachu_no_acido",
+    "avatar_url": "https://cdn.discordapp.com/avatars/756154367698010173/ff89765c6225a6887caa210e3933cade.png"
+   }
+  }
+ ],
+ "class": "Starcaller",
+ "spec": "Moon Guard",
+ "allocations": [
+  [
+   "26-87-1-0",
+   1
+  ],
+  [
+   "26-87-3-0",
+   1
+  ],
+  [
+   "26-87-7-0",
+   1
+  ],
+  [
+   "26-87-6-1",
+   2
+  ],
+  [
+   "26-87-1-2",
+   1
+  ],
+  [
+   "26-87-2-3",
+   1
+  ],
+  [
+   "26-87-4-2",
+   1
+  ],
+  [
+   "26-87-6-3",
+   1
+  ],
+  [
+   "26-87-4-3",
+   2
+  ],
+  [
+   "26-87-4-4a",
+   1
+  ],
+  [
+   "26-87-4-5",
+   1
+  ],
+  [
+   "26-87-4-6b",
+   1
+  ],
+  [
+   "26-87-4-7",
+   1
+  ],
+  [
+   "26-87-2-4",
+   1
+  ],
+  [
+   "26-87-2-5",
+   1
+  ],
+  [
+   "26-87-2-6",
+   1
+  ],
+  [
+   "26-87-0-5",
+   1
+  ],
+  [
+   "26-87-6-4",
+   1
+  ],
+  [
+   "26-87-6-5",
+   1
+  ],
+  [
+   "26-87-6-6",
+   1
+  ],
+  [
+   "26-87-7-2",
+   1
+  ],
+  [
+   "26-87-4-1",
+   1
+  ],
+  [
+   "26-87-3-8",
+   1
+  ],
+  [
+   "26-87-4-9",
+   1
+  ],
+  [
+   "26-67-4-0",
+   1
+  ],
+  [
+   "26-67-3-1",
+   1
+  ],
+  [
+   "26-67-5-1",
+   1
+  ],
+  [
+   "26-67-6-2",
+   1
+  ],
+  [
+   "26-67-8-3",
+   1
+  ],
+  [
+   "26-67-4-2",
+   2
+  ],
+  [
+   "26-67-2-2",
+   1
+  ],
+  [
+   "26-67-0-3",
+   1
+  ],
+  [
+   "26-67-4-3",
+   1
+  ],
+  [
+   "26-67-8-5",
+   1
+  ],
+  [
+   "26-67-7-6",
+   1
+  ],
+  [
+   "26-67-7-7",
+   1
+  ],
+  [
+   "26-67-2-4",
+   1
+  ],
+  [
+   "26-67-6-4",
+   1
+  ],
+  [
+   "26-67-6-5",
+   1
+  ],
+  [
+   "26-67-5-6",
+   1
+  ],
+  [
+   "26-67-5-7",
+   1
+  ],
+  [
+   "26-67-0-5",
+   1
+  ],
+  [
+   "26-67-2-5",
+   1
+  ],
+  [
+   "26-67-3-6",
+   2
+  ],
+  [
+   "26-67-3-7",
+   1
+  ],
+  [
+   "26-67-6-8",
+   1
+  ],
+  [
+   "26-67-4-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "26-87-1-0",
+   "points": 1,
+   "name": "Touch of Moonlight",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 574328
+  },
+  {
+   "id": "26-87-3-0",
+   "points": 1,
+   "name": "Shooting Star",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 800505
+  },
+  {
+   "id": "26-87-7-0",
+   "points": 1,
+   "name": "Infused Aegis",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704777
+  },
+  {
+   "id": "26-87-6-1",
+   "points": 2,
+   "name": "Flow of Mana",
+   "maxPoints": 2,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704604
+  },
+  {
+   "id": "26-87-1-2",
+   "points": 1,
+   "name": "Bright Moon",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801226
+  },
+  {
+   "id": "26-87-2-3",
+   "points": 1,
+   "name": "Aspect of the Cosmos",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801123
+  },
+  {
+   "id": "26-87-4-2",
+   "points": 1,
+   "name": "Galaxy",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 800508
+  },
+  {
+   "id": "26-87-6-3",
+   "points": 1,
+   "name": "Astral Aegis",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 806155
+  },
+  {
+   "id": "26-87-4-3",
+   "points": 2,
+   "name": "Starbarian",
+   "maxPoints": 2,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704778
+  },
+  {
+   "id": "26-87-4-4a",
+   "points": 1,
+   "name": "Lunar Anomaly",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300989
+  },
+  {
+   "id": "26-87-4-5",
+   "points": 1,
+   "name": "Starshatter",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801135
+  },
+  {
+   "id": "26-87-4-6b",
+   "points": 1,
+   "name": "Twinkle Toes",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704775
+  },
+  {
+   "id": "26-87-4-7",
+   "points": 1,
+   "name": "Way of the Goddess",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 801976
+  },
+  {
+   "id": "26-87-2-4",
+   "points": 1,
+   "name": "Universal Power",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300262
+  },
+  {
+   "id": "26-87-2-5",
+   "points": 1,
+   "name": "Vial of Moonwell Water",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 804652
+  },
+  {
+   "id": "26-87-2-6",
+   "points": 1,
+   "name": "Moonwell Tides",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 560951
+  },
+  {
+   "id": "26-87-0-5",
+   "points": 1,
+   "name": "The Stars Align",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300251
+  },
+  {
+   "id": "26-87-6-4",
+   "points": 1,
+   "name": "Mu'sha's Resilience",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704774
+  },
+  {
+   "id": "26-87-6-5",
+   "points": 1,
+   "name": "Reverse Magic",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 570231
+  },
+  {
+   "id": "26-87-6-6",
+   "points": 1,
+   "name": "Constellation Barrier",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300259
+  },
+  {
+   "id": "26-87-7-2",
+   "points": 1,
+   "name": "Protected by the Stars",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300258
+  },
+  {
+   "id": "26-87-4-1",
+   "points": 1,
+   "name": "Star Citizen",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 704776
+  },
+  {
+   "id": "26-87-3-8",
+   "points": 1,
+   "name": "Pouch of Stardust",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 504694
+  },
+  {
+   "id": "26-87-4-9",
+   "points": 1,
+   "name": "Second Moon",
+   "maxPoints": 1,
+   "tree": "Starcaller (class tree)",
+   "spellId": 300252
+  },
+  {
+   "id": "26-67-4-0",
+   "points": 1,
+   "name": "Starburst",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 801996
+  },
+  {
+   "id": "26-67-3-1",
+   "points": 1,
+   "name": "Blanket of Stars",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 804381
+  },
+  {
+   "id": "26-67-5-1",
+   "points": 1,
+   "name": "Starsweep",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 805550
+  },
+  {
+   "id": "26-67-6-2",
+   "points": 1,
+   "name": "Nebula",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 300992
+  },
+  {
+   "id": "26-67-8-3",
+   "points": 1,
+   "name": "Celestial Divination",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 560319
+  },
+  {
+   "id": "26-67-4-2",
+   "points": 2,
+   "name": "Moonstone Hilt",
+   "maxPoints": 2,
+   "tree": "Moon Guard",
+   "spellId": 300250
+  },
+  {
+   "id": "26-67-2-2",
+   "points": 1,
+   "name": "Improved Eclipse of Fury",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 704793
+  },
+  {
+   "id": "26-67-0-3",
+   "points": 1,
+   "name": "Dance In The Starlight",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 503637
+  },
+  {
+   "id": "26-67-4-3",
+   "points": 1,
+   "name": "Starlit Finesse",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 574350
+  },
+  {
+   "id": "26-67-8-5",
+   "points": 1,
+   "name": "Blade of the Moon",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 802680
+  },
+  {
+   "id": "26-67-7-6",
+   "points": 1,
+   "name": "Vengeful Inspiration",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 680784
+  },
+  {
+   "id": "26-67-7-7",
+   "points": 1,
+   "name": "Starlight Duelist",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 805505
+  },
+  {
+   "id": "26-67-2-4",
+   "points": 1,
+   "name": "Tyrande's Guidance",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 704788
+  },
+  {
+   "id": "26-67-6-4",
+   "points": 1,
+   "name": "Moonflares",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 560501
+  },
+  {
+   "id": "26-67-6-5",
+   "points": 1,
+   "name": "Moonveil Screen",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 680779
+  },
+  {
+   "id": "26-67-5-6",
+   "points": 1,
+   "name": "Enduring Moon",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 560440
+  },
+  {
+   "id": "26-67-5-7",
+   "points": 1,
+   "name": "Enchanted Aegis",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 704795
+  },
+  {
+   "id": "26-67-0-5",
+   "points": 1,
+   "name": "Starcovered Night",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 503639
+  },
+  {
+   "id": "26-67-2-5",
+   "points": 1,
+   "name": "Pulsar Explosion",
+   "maxPoints": 2,
+   "tree": "Moon Guard",
+   "spellId": 704794
+  },
+  {
+   "id": "26-67-3-6",
+   "points": 2,
+   "name": "Cosmic Crown",
+   "maxPoints": 2,
+   "tree": "Moon Guard",
+   "spellId": 804385
+  },
+  {
+   "id": "26-67-3-7",
+   "points": 1,
+   "name": "Starbound",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 704787
+  },
+  {
+   "id": "26-67-6-8",
+   "points": 1,
+   "name": "Lunar Knight",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 680791
+  },
+  {
+   "id": "26-67-4-9",
+   "points": 1,
+   "name": "Moonlit Bulwark",
+   "maxPoints": 1,
+   "tree": "Moon Guard",
+   "spellId": 805433
+  }
+ ]
+}

@@ -1,0 +1,700 @@
+{
+ "build": {
+  "id": "96c001c3-21f3-432d-8028-e9a6cac7f103",
+  "title": "Lightning Stormbringer Leveling",
+  "description": "[overview]\nWe'll also showcase how the Lightning Stormbringer performs across different gear levels, and which talent tree combinations offer the best damage spikes, mana sustain, and crowd control. Even better, this video will help both new and veteran players looking to improve their gameplay with detailed tips on rotation execution, resource management, and combat pacing in real-world scenarios.",
+  "class_id": 16,
+  "spec_id": 42,
+  "author_id": "76125dd4-8668-4d09-a020-c8bf031ba017",
+  "talent_string": "W1siMTYtODctMi0wIiwxXSxbIjE2LTg3LTQtMCIsMV0sWyIxNi04Ny02LTAiLDFdLFsiMTYtODctMi0xIiwyXSxbIjE2LTg3LTQtMSIsMV0sWyIxNi04Ny00LTIiLDFdLFsiMTYtODctNi0xIiwxXSxbIjE2LTg3LTctMiIsMV0sWyIxNi04Ny02LTNhIiwxXSxbIjE2LTg3LTgtM2IiLDFdLFsiMTYtODctNy00IiwxXSxbIjE2LTg3LTctNSIsMV0sWyIxNi04Ny00LTUiLDFdLFsiMTYtODctMi02IiwyXSxbIjE2LTg3LTQtNiIsMV0sWyIxNi04Ny01LTciLDFdLFsiMTYtODctNC04IiwxXSxbIjE2LTQyLTQtMCIsMV0sWyIxNi00Mi00LTEiLDFdLFsiMTYtNDItMTAtMCIsMV0sWyIxNi00Mi0xMC0yIiwxXSxbIjE2LTQyLTItMiIsMV0sWyIxNi00Mi02LTIiLDFdLFsiMTYtNDItNy0zIiwyXSxbIjE2LTQyLTQtMyIsMl0sWyIxNi00Mi0xLTMiLDFdLFsiMTYtNDItNS00YSIsMV0sWyIxNi00Mi02LTQiLDFdLFsiMTYtNDItOC01IiwyXSxbIjE2LTQyLTItNSIsMl0sWyIxNi00Mi0xMC00IiwxXSxbIjE2LTQyLTEwLTYiLDFdLFsiMTYtNDItMy03IiwxXSxbIjE2LTQyLTYtNSIsMV0sWyIxNi00Mi03LTYiLDFdLFsiMTYtNDItMTAtOCIsMV0sWyIxNi00Mi0zLTQiLDFdLFsiMTYtNDItNC01IiwxXSxbIjE2LTQyLTItOCIsMV0sWyIxNi00Mi0yLTkiLDFdLFsiMTYtNDItNC02IiwxXSxbIjE2LTQyLTUtNyIsMV0sWyIxNi00Mi0yLTYiLDFdLFsiMTYtODctNS00IiwxXSxbIjE2LTg3LTEtMiIsMV0sWyIxNi04Ny0wLTMiLDFdLFsiMTYtODctNi02YSIsMV0sWyIxNi04Ny00LTkiLDFdLFsiMTYtODctNi05IiwxXSxbIjE2LTg3LTctOCIsMV1d",
+  "tags": [
+   "Insane AoE DPS"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 4,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-25T15:35:48.022755+00:00",
+  "updated_at": "2026-07-25T18:09:59.688+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1334,
+  "net_score": 4,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "76125dd4-8668-4d09-a020-c8bf031ba017",
+   "username": "nimfomanbl4",
+   "avatar_url": "https://cdn.discordapp.com/avatars/397368468971847691/80ac85a0a2accbac5cc593850dfdbd0a.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "c036bc4b-65a0-4982-8d65-6c7499f44813",
+   "title": "Maelstrom Leveling Stormbringer",
+   "class_id": 16,
+   "spec_id": 44,
+   "author_id": "22a28a18-ebff-4150-a10d-3c5f03c31624",
+   "tags": [
+    "Leveling"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 1,
+   "view_count": 2475,
+   "featured": false,
+   "created_at": "2026-07-16T17:17:30.76715+00:00",
+   "updated_at": "2026-07-29T06:08:01.209+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "22a28a18-ebff-4150-a10d-3c5f03c31624",
+    "username": "Ayaka Takahashi",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKXVJ70AaeXeDaJKkPqN39v3pk-bcjRSsM9NDKXbTQqznYpCw=s96-c"
+   }
+  },
+  {
+   "id": "5760b320-a94b-4219-8900-58c19e2721e1",
+   "title": "pve wind",
+   "class_id": 16,
+   "spec_id": 43,
+   "author_id": "a24da7ad-7a07-4ff9-8d45-6198815e4d85",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1365,
+   "featured": false,
+   "created_at": "2026-07-14T15:40:54.676822+00:00",
+   "updated_at": "2026-07-14T15:40:54.676822+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "a24da7ad-7a07-4ff9-8d45-6198815e4d85",
+    "username": "gullip",
+    "avatar_url": "https://cdn.discordapp.com/avatars/350195054838546433/a2cb19e5f098e4f1376822641fc30812.png"
+   }
+  }
+ ],
+ "class": "Stormbringer",
+ "spec": "Lightning",
+ "allocations": [
+  [
+   "16-87-2-0",
+   1
+  ],
+  [
+   "16-87-4-0",
+   1
+  ],
+  [
+   "16-87-6-0",
+   1
+  ],
+  [
+   "16-87-2-1",
+   2
+  ],
+  [
+   "16-87-4-1",
+   1
+  ],
+  [
+   "16-87-4-2",
+   1
+  ],
+  [
+   "16-87-6-1",
+   1
+  ],
+  [
+   "16-87-7-2",
+   1
+  ],
+  [
+   "16-87-6-3a",
+   1
+  ],
+  [
+   "16-87-8-3b",
+   1
+  ],
+  [
+   "16-87-7-4",
+   1
+  ],
+  [
+   "16-87-7-5",
+   1
+  ],
+  [
+   "16-87-4-5",
+   1
+  ],
+  [
+   "16-87-2-6",
+   2
+  ],
+  [
+   "16-87-4-6",
+   1
+  ],
+  [
+   "16-87-5-7",
+   1
+  ],
+  [
+   "16-87-4-8",
+   1
+  ],
+  [
+   "16-42-4-0",
+   1
+  ],
+  [
+   "16-42-4-1",
+   1
+  ],
+  [
+   "16-42-10-0",
+   1
+  ],
+  [
+   "16-42-10-2",
+   1
+  ],
+  [
+   "16-42-2-2",
+   1
+  ],
+  [
+   "16-42-6-2",
+   1
+  ],
+  [
+   "16-42-7-3",
+   2
+  ],
+  [
+   "16-42-4-3",
+   2
+  ],
+  [
+   "16-42-1-3",
+   1
+  ],
+  [
+   "16-42-5-4a",
+   1
+  ],
+  [
+   "16-42-6-4",
+   1
+  ],
+  [
+   "16-42-8-5",
+   2
+  ],
+  [
+   "16-42-2-5",
+   2
+  ],
+  [
+   "16-42-10-4",
+   1
+  ],
+  [
+   "16-42-10-6",
+   1
+  ],
+  [
+   "16-42-3-7",
+   1
+  ],
+  [
+   "16-42-6-5",
+   1
+  ],
+  [
+   "16-42-7-6",
+   1
+  ],
+  [
+   "16-42-10-8",
+   1
+  ],
+  [
+   "16-42-3-4",
+   1
+  ],
+  [
+   "16-42-4-5",
+   1
+  ],
+  [
+   "16-42-2-8",
+   1
+  ],
+  [
+   "16-42-2-9",
+   1
+  ],
+  [
+   "16-42-4-6",
+   1
+  ],
+  [
+   "16-42-5-7",
+   1
+  ],
+  [
+   "16-42-2-6",
+   1
+  ],
+  [
+   "16-87-5-4",
+   1
+  ],
+  [
+   "16-87-1-2",
+   1
+  ],
+  [
+   "16-87-0-3",
+   1
+  ],
+  [
+   "16-87-6-6a",
+   1
+  ],
+  [
+   "16-87-4-9",
+   1
+  ],
+  [
+   "16-87-6-9",
+   1
+  ],
+  [
+   "16-87-7-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "16-87-2-0",
+   "points": 1,
+   "name": "Cloudburst",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 801838
+  },
+  {
+   "id": "16-87-4-0",
+   "points": 1,
+   "name": "Charge",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 804826
+  },
+  {
+   "id": "16-87-6-0",
+   "points": 1,
+   "name": "Body of Lightning",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 500041
+  },
+  {
+   "id": "16-87-2-1",
+   "points": 2,
+   "name": "Wind Shift",
+   "maxPoints": 2,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 503596
+  },
+  {
+   "id": "16-87-4-1",
+   "points": 1,
+   "name": "Arcane Lightning",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 300618
+  },
+  {
+   "id": "16-87-4-2",
+   "points": 1,
+   "name": "Studious",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 705657
+  },
+  {
+   "id": "16-87-6-1",
+   "points": 1,
+   "name": "Conjuration Mastery",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 300595
+  },
+  {
+   "id": "16-87-7-2",
+   "points": 1,
+   "name": "Eye of the Storm",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 806307
+  },
+  {
+   "id": "16-87-6-3a",
+   "points": 1,
+   "name": "Concentrated Static",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 570722
+  },
+  {
+   "id": "16-87-8-3b",
+   "points": 1,
+   "name": "Improved Body of Lightning",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 705693
+  },
+  {
+   "id": "16-87-7-4",
+   "points": 1,
+   "name": "Storm Chaser",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 300612
+  },
+  {
+   "id": "16-87-7-5",
+   "points": 1,
+   "name": "Storm Ascendance",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 681110
+  },
+  {
+   "id": "16-87-4-5",
+   "points": 1,
+   "name": "Stormcloak",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 804833
+  },
+  {
+   "id": "16-87-2-6",
+   "points": 2,
+   "name": "Aether Mastery",
+   "maxPoints": 2,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 807462
+  },
+  {
+   "id": "16-87-4-6",
+   "points": 1,
+   "name": "Storm Channeling",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 804040
+  },
+  {
+   "id": "16-87-5-7",
+   "points": 1,
+   "name": "Residual Power",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 804605
+  },
+  {
+   "id": "16-87-4-8",
+   "points": 1,
+   "name": "Lingering Storm",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 705652
+  },
+  {
+   "id": "16-42-4-0",
+   "points": 1,
+   "name": "Arm of Thorim",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 801847
+  },
+  {
+   "id": "16-42-4-1",
+   "points": 1,
+   "name": "Superconductor",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 705646
+  },
+  {
+   "id": "16-42-10-0",
+   "points": 1,
+   "name": "Electrocutioner",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 92096
+  },
+  {
+   "id": "16-42-10-2",
+   "points": 1,
+   "name": "Thunderous",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 804827
+  },
+  {
+   "id": "16-42-2-2",
+   "points": 1,
+   "name": "Forked Lightning",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 801851
+  },
+  {
+   "id": "16-42-6-2",
+   "points": 1,
+   "name": "Volt",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 500928
+  },
+  {
+   "id": "16-42-7-3",
+   "points": 2,
+   "name": "Fulmination",
+   "maxPoints": 2,
+   "tree": "Lightning",
+   "spellId": 707055
+  },
+  {
+   "id": "16-42-4-3",
+   "points": 2,
+   "name": "Titanic Thunderbolt",
+   "maxPoints": 2,
+   "tree": "Lightning",
+   "spellId": 705653
+  },
+  {
+   "id": "16-42-1-3",
+   "points": 1,
+   "name": "Thorim's Gift",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 570173
+  },
+  {
+   "id": "16-42-5-4a",
+   "points": 1,
+   "name": "Electrifying Aura",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 560568
+  },
+  {
+   "id": "16-42-6-4",
+   "points": 1,
+   "name": "Wicked Storms",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 705650
+  },
+  {
+   "id": "16-42-8-5",
+   "points": 2,
+   "name": "Jolt",
+   "maxPoints": 2,
+   "tree": "Lightning",
+   "spellId": 707054
+  },
+  {
+   "id": "16-42-2-5",
+   "points": 2,
+   "name": "Invoking Storms",
+   "maxPoints": 2,
+   "tree": "Lightning",
+   "spellId": 705667
+  },
+  {
+   "id": "16-42-10-4",
+   "points": 1,
+   "name": "Fast as Lightning",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 570057
+  },
+  {
+   "id": "16-42-10-6",
+   "points": 1,
+   "name": "Piercing Lightning",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 578302
+  },
+  {
+   "id": "16-42-3-7",
+   "points": 1,
+   "name": "Voltaic Bursts",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 705639
+  },
+  {
+   "id": "16-42-6-5",
+   "points": 1,
+   "name": "Never Strikes Twice?",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 804828
+  },
+  {
+   "id": "16-42-7-6",
+   "points": 1,
+   "name": "Sparks",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 301298
+  },
+  {
+   "id": "16-42-10-8",
+   "points": 1,
+   "name": "Ascension",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 301260
+  },
+  {
+   "id": "16-42-3-4",
+   "points": 1,
+   "name": "Electric Energy",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 804278
+  },
+  {
+   "id": "16-42-4-5",
+   "points": 1,
+   "name": "Lightning Cage",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 560030
+  },
+  {
+   "id": "16-42-2-8",
+   "points": 1,
+   "name": "Flux Arc",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 705643
+  },
+  {
+   "id": "16-42-2-9",
+   "points": 1,
+   "name": "Lord of Lightning",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 707618
+  },
+  {
+   "id": "16-42-4-6",
+   "points": 1,
+   "name": "Storm Barrier",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 707204
+  },
+  {
+   "id": "16-42-5-7",
+   "points": 1,
+   "name": "Titanstorm",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 801869
+  },
+  {
+   "id": "16-42-2-6",
+   "points": 1,
+   "name": "Thundershocker",
+   "maxPoints": 1,
+   "tree": "Lightning",
+   "spellId": 300610
+  },
+  {
+   "id": "16-87-5-4",
+   "points": 1,
+   "name": "Eye of the Tornado",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 706297
+  },
+  {
+   "id": "16-87-1-2",
+   "points": 1,
+   "name": "Invigorating Winds",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 705661
+  },
+  {
+   "id": "16-87-0-3",
+   "points": 1,
+   "name": "Airing Out",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 705675
+  },
+  {
+   "id": "16-87-6-6a",
+   "points": 1,
+   "name": "Magic Elimination",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 705668
+  },
+  {
+   "id": "16-87-4-9",
+   "points": 1,
+   "name": "Waterfall",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 806412
+  },
+  {
+   "id": "16-87-6-9",
+   "points": 1,
+   "name": "Thunder King",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 804591
+  },
+  {
+   "id": "16-87-7-8",
+   "points": 1,
+   "name": "Power Surge",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 800699
+  }
+ ]
+}

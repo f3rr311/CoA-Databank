@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hourglass of Eternity",
+  "icon": "inv_relics_hourglass",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hourglass of Eternity</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Periodic damage dealt now has a 5% chance to grant you 25% increased haste for 5&nbsp;sec.</span></td></tr></table><!--?806337:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

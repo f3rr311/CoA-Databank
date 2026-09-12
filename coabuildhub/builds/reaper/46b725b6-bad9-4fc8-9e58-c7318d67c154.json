@@ -1,0 +1,817 @@
+{
+ "build": {
+  "id": "46b725b6-bad9-4fc8-9e58-c7318d67c154",
+  "title": "Harvest pve",
+  "description": "",
+  "class_id": 30,
+  "spec_id": 79,
+  "author_id": "ba8210af-259c-441e-b8b2-cad9ec91e102",
+  "talent_string": "W1siMzAtODctNC0wIiwxXSxbIjMwLTg3LTYtMCIsMV0sWyIzMC04Ny0yLTAiLDFdLFsiMzAtODctNS0xIiwxXSxbIjMwLTg3LTMtMSIsMV0sWyIzMC04Ny00LTIiLDJdLFsiMzAtODctMS0yIiwxXSxbIjMwLTg3LTEtMyIsMV0sWyIzMC04Ny0yLTQiLDFdLFsiMzAtODctMC00IiwxXSxbIjMwLTg3LTQtMyIsMV0sWyIzMC04Ny03LTIiLDFdLFsiMzAtODctNy0zIiwxXSxbIjMwLTg3LTYtNCIsMV0sWyIzMC04Ny03LTUiLDFdLFsiMzAtODctOC00IiwxXSxbIjMwLTg3LTQtNSIsMl0sWyIzMC04Ny00LTYiLDFdLFsiMzAtODctNi02IiwxXSxbIjMwLTg3LTYtNyIsMV0sWyIzMC04Ny00LTciLDFdLFsiMzAtODctMC0xIiwxXSxbIjMwLTg3LTQtOCIsMV0sWyIzMC04Ny00LTkiLDFdLFsiMzAtNzktNC0wIiwxXSxbIjMwLTc5LTItMSIsMl0sWyIzMC03OS02LTEiLDFdLFsiMzAtNzktNC0yIiwxXSxbIjMwLTc5LTctMiIsMV0sWyIzMC03OS02LTMiLDFdLFsiMzAtNzktMS0yIiwxXSxbIjMwLTc5LTAtMyIsMV0sWyIzMC03OS0yLTMiLDFdLFsiMzAtNzktNC00IiwxXSxbIjMwLTc5LTUtNCIsMV0sWyIzMC03OS0xLTQiLDFdLFsiMzAtNzktNC01IiwxXSxbIjMwLTc5LTEtNSIsMl0sWyIzMC03OS00LTZhIiwxXSxbIjMwLTc5LTItNiIsMV0sWyIzMC03OS0xLTdhIiwxXSxbIjMwLTc5LTMtNyIsMV0sWyIzMC03OS01LTciLDFdLFsiMzAtNzktNi02IiwxXSxbIjMwLTc5LTctNSIsMV0sWyIzMC03OS02LTgiLDFdLFsiMzAtNzktMi04IiwxXSxbIjMwLTc5LTEwLTAiLDFdLFsiMzAtNzktMTAtMiIsMV0sWyIzMC03OS0xMC00IiwxXSxbIjMwLTc5LTEwLTYiLDFdLFsiMzAtNzktMTAtOCIsMV1d",
+  "tags": [
+   "raid",
+   "leveling",
+   "aoe"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 3,
+  "downvotes": 1,
+  "comment_count": 3,
+  "created_at": "2026-07-18T17:55:41.425815+00:00",
+  "updated_at": "2026-07-18T17:55:41.425815+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 3461,
+  "net_score": 2,
+  "has_talents": true,
+  "guide_section_count": 0,
+  "author": {
+   "id": "ba8210af-259c-441e-b8b2-cad9ec91e102",
+   "username": "Khazer",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK8tcbkRb2wgNac2QYJGwBUu2wJlKRzRiViJHpJOjz4c_m5cPIizA=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "6ac3a769-31c0-4d9b-b524-b35c4187913d",
+   "build_id": "46b725b6-bad9-4fc8-9e58-c7318d67c154",
+   "author_id": "9a275781-a212-4a1a-ba78-9c40bd033825",
+   "parent_id": null,
+   "body": "Not taking 20% melee haste? it's literally the best talent",
+   "upvotes": 2,
+   "created_at": "2026-07-21T13:24:00.977509+00:00",
+   "updated_at": "2026-07-31T14:56:11.499682+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "9a275781-a212-4a1a-ba78-9c40bd033825",
+    "username": "wrayth",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "1d3a77e4-acbb-4d09-8f95-cd280324ada5",
+   "build_id": "46b725b6-bad9-4fc8-9e58-c7318d67c154",
+   "author_id": "ccad562e-3a13-479a-8b04-90743cba2dde",
+   "parent_id": null,
+   "body": "Wish you would write a guide as well and not only do talents though. Not a lot of DPS reapers so resources are hard to come by",
+   "upvotes": 0,
+   "created_at": "2026-07-25T21:02:42.818481+00:00",
+   "updated_at": "2026-07-25T21:02:42.818481+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ccad562e-3a13-479a-8b04-90743cba2dde",
+    "username": ".iso//J",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "c5d12d8b-6a15-40d6-a2d3-950554165046",
+   "build_id": "46b725b6-bad9-4fc8-9e58-c7318d67c154",
+   "author_id": "de39fcca-19db-42aa-926c-a5856332345b",
+   "parent_id": null,
+   "body": "Can you add an optimal PVE rotation guide?",
+   "upvotes": 0,
+   "created_at": "2026-07-28T04:28:01.214655+00:00",
+   "updated_at": "2026-07-28T04:28:01.214655+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "de39fcca-19db-42aa-926c-a5856332345b",
+    "username": "EspanioLiTo_L2",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL_yyUIyW1OAXDJkDVScSJe2g0j_-dZmy5R3cqsseSGdqjJ9xA=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "abdf893c-83d0-4c9e-990f-4630c8d854ac",
+   "title": "Harvest PvP King",
+   "class_id": 30,
+   "spec_id": 79,
+   "author_id": "fe93b8d9-5bb6-4b72-a1bb-29e62638a07a",
+   "tags": [
+    "PvP",
+    "BG"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 3060,
+   "featured": false,
+   "created_at": "2026-07-22T10:25:42.042729+00:00",
+   "updated_at": "2026-07-26T11:46:10.651+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "fe93b8d9-5bb6-4b72-a1bb-29e62638a07a",
+    "username": "NxSqq",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKrz-EmNorutr7-9j0uI0vcrbY282S24-Dy0V7XT3hl8M27sAZE=s96-c"
+   }
+  },
+  {
+   "id": "2c5d077a-6cec-4793-a39a-6b872ea55690",
+   "title": "Reaper PVP BIS",
+   "class_id": 30,
+   "spec_id": 80,
+   "author_id": "e877936a-f28e-45ed-ae43-af06520e0733",
+   "tags": [
+    "pvp"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1242,
+   "featured": false,
+   "created_at": "2026-07-23T06:35:07.072239+00:00",
+   "updated_at": "2026-07-28T02:43:33.674+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "e877936a-f28e-45ed-ae43-af06520e0733",
+    "username": "ataraxiex",
+    "avatar_url": "https://cdn.discordapp.com/avatars/263704149642706946/85e702a8a350831a54d9159438a40ad7.png"
+   }
+  },
+  {
+   "id": "88596de6-f880-4259-81d5-df050640d357",
+   "title": "Reaper Tank Dungs/Raid/Hit/Parry/ST",
+   "class_id": 30,
+   "spec_id": 81,
+   "author_id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+   "tags": [
+    "Tank",
+    "reaper",
+    "sustain",
+    "damage",
+    "aoe",
+    "shield",
+    "kazzak",
+    "raid"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 3,
+   "view_count": 3562,
+   "featured": false,
+   "created_at": "2026-07-18T20:36:27.817689+00:00",
+   "updated_at": "2026-07-21T22:44:52.863+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+    "username": "bvflowers.",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1445260398474432556/5f38aa6b11650a30cf3ddfe52dd91486.png"
+   }
+  }
+ ],
+ "class": "Reaper",
+ "spec": "Harvest",
+ "allocations": [
+  [
+   "30-87-4-0",
+   1
+  ],
+  [
+   "30-87-6-0",
+   1
+  ],
+  [
+   "30-87-2-0",
+   1
+  ],
+  [
+   "30-87-5-1",
+   1
+  ],
+  [
+   "30-87-3-1",
+   1
+  ],
+  [
+   "30-87-4-2",
+   2
+  ],
+  [
+   "30-87-1-2",
+   1
+  ],
+  [
+   "30-87-1-3",
+   1
+  ],
+  [
+   "30-87-2-4",
+   1
+  ],
+  [
+   "30-87-0-4",
+   1
+  ],
+  [
+   "30-87-4-3",
+   1
+  ],
+  [
+   "30-87-7-2",
+   1
+  ],
+  [
+   "30-87-7-3",
+   1
+  ],
+  [
+   "30-87-6-4",
+   1
+  ],
+  [
+   "30-87-7-5",
+   1
+  ],
+  [
+   "30-87-8-4",
+   1
+  ],
+  [
+   "30-87-4-5",
+   2
+  ],
+  [
+   "30-87-4-6",
+   1
+  ],
+  [
+   "30-87-6-6",
+   1
+  ],
+  [
+   "30-87-6-7",
+   1
+  ],
+  [
+   "30-87-4-7",
+   1
+  ],
+  [
+   "30-87-0-1",
+   1
+  ],
+  [
+   "30-87-4-8",
+   1
+  ],
+  [
+   "30-87-4-9",
+   1
+  ],
+  [
+   "30-79-4-0",
+   1
+  ],
+  [
+   "30-79-2-1",
+   2
+  ],
+  [
+   "30-79-6-1",
+   1
+  ],
+  [
+   "30-79-4-2",
+   1
+  ],
+  [
+   "30-79-7-2",
+   1
+  ],
+  [
+   "30-79-6-3",
+   1
+  ],
+  [
+   "30-79-1-2",
+   1
+  ],
+  [
+   "30-79-0-3",
+   1
+  ],
+  [
+   "30-79-2-3",
+   1
+  ],
+  [
+   "30-79-4-4",
+   1
+  ],
+  [
+   "30-79-5-4",
+   1
+  ],
+  [
+   "30-79-1-4",
+   1
+  ],
+  [
+   "30-79-4-5",
+   1
+  ],
+  [
+   "30-79-1-5",
+   2
+  ],
+  [
+   "30-79-4-6a",
+   1
+  ],
+  [
+   "30-79-2-6",
+   1
+  ],
+  [
+   "30-79-1-7a",
+   1
+  ],
+  [
+   "30-79-3-7",
+   1
+  ],
+  [
+   "30-79-5-7",
+   1
+  ],
+  [
+   "30-79-6-6",
+   1
+  ],
+  [
+   "30-79-7-5",
+   1
+  ],
+  [
+   "30-79-6-8",
+   1
+  ],
+  [
+   "30-79-2-8",
+   1
+  ],
+  [
+   "30-79-10-0",
+   1
+  ],
+  [
+   "30-79-10-2",
+   1
+  ],
+  [
+   "30-79-10-4",
+   1
+  ],
+  [
+   "30-79-10-6",
+   1
+  ],
+  [
+   "30-79-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "30-87-4-0",
+   "points": 1,
+   "name": "Scythe Rush",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 500359
+  },
+  {
+   "id": "30-87-6-0",
+   "points": 1,
+   "name": "Tormented Souls",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 500483
+  },
+  {
+   "id": "30-87-2-0",
+   "points": 1,
+   "name": "Wraithblade",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805258
+  },
+  {
+   "id": "30-87-5-1",
+   "points": 1,
+   "name": "Soul Harvester",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 804311
+  },
+  {
+   "id": "30-87-3-1",
+   "points": 1,
+   "name": "Backswing",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 706790
+  },
+  {
+   "id": "30-87-4-2",
+   "points": 2,
+   "name": "Soul Warden",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 560419
+  },
+  {
+   "id": "30-87-1-2",
+   "points": 1,
+   "name": "Veilwalk",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 803990
+  },
+  {
+   "id": "30-87-1-3",
+   "points": 1,
+   "name": "Ghastly Form",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 704357
+  },
+  {
+   "id": "30-87-2-4",
+   "points": 1,
+   "name": "From the Shadows",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 561099
+  },
+  {
+   "id": "30-87-0-4",
+   "points": 1,
+   "name": "Soulstrider",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 572340
+  },
+  {
+   "id": "30-87-4-3",
+   "points": 1,
+   "name": "Withering Touch",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 573071
+  },
+  {
+   "id": "30-87-7-2",
+   "points": 1,
+   "name": "Jailer's Bargain",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805718
+  },
+  {
+   "id": "30-87-7-3",
+   "points": 1,
+   "name": "Harvester's Scythe",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805188
+  },
+  {
+   "id": "30-87-6-4",
+   "points": 1,
+   "name": "Dominion",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 803999
+  },
+  {
+   "id": "30-87-7-5",
+   "points": 1,
+   "name": "Limbo",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 800845
+  },
+  {
+   "id": "30-87-8-4",
+   "points": 1,
+   "name": "Burial Rites",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 560422
+  },
+  {
+   "id": "30-87-4-5",
+   "points": 2,
+   "name": "Spectre Strength",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 804671
+  },
+  {
+   "id": "30-87-4-6",
+   "points": 1,
+   "name": "Soul Tap",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 807397
+  },
+  {
+   "id": "30-87-6-6",
+   "points": 1,
+   "name": "Soul Protector",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 300553
+  },
+  {
+   "id": "30-87-6-7",
+   "points": 1,
+   "name": "Essence Invigoration",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805186
+  },
+  {
+   "id": "30-87-4-7",
+   "points": 1,
+   "name": "Mawborn",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805203
+  },
+  {
+   "id": "30-87-0-1",
+   "points": 1,
+   "name": "Mysterious Omen",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 561108
+  },
+  {
+   "id": "30-87-4-8",
+   "points": 1,
+   "name": "Masochistic Rage",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 803030
+  },
+  {
+   "id": "30-87-4-9",
+   "points": 1,
+   "name": "Painbringer",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 680995
+  },
+  {
+   "id": "30-79-4-0",
+   "points": 1,
+   "name": "Doomrend",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 800172
+  },
+  {
+   "id": "30-79-2-1",
+   "points": 2,
+   "name": "Maw Knight",
+   "maxPoints": 2,
+   "tree": "Harvest",
+   "spellId": 805204
+  },
+  {
+   "id": "30-79-6-1",
+   "points": 1,
+   "name": "Bountiful Harvest",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 706576
+  },
+  {
+   "id": "30-79-4-2",
+   "points": 1,
+   "name": "Slaughter",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 500373
+  },
+  {
+   "id": "30-79-7-2",
+   "points": 1,
+   "name": "Haunter",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705410
+  },
+  {
+   "id": "30-79-6-3",
+   "points": 1,
+   "name": "Crimson Death",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705414
+  },
+  {
+   "id": "30-79-1-2",
+   "points": 1,
+   "name": "Crow's Harvest",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 504011
+  },
+  {
+   "id": "30-79-0-3",
+   "points": 1,
+   "name": "Dark Fate",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 504037
+  },
+  {
+   "id": "30-79-2-3",
+   "points": 1,
+   "name": "Red Wake",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 707707
+  },
+  {
+   "id": "30-79-4-4",
+   "points": 1,
+   "name": "Genocide",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 560924
+  },
+  {
+   "id": "30-79-5-4",
+   "points": 1,
+   "name": "Hemorrhage",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705432
+  },
+  {
+   "id": "30-79-1-4",
+   "points": 1,
+   "name": "Hungering Scythe",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 801335
+  },
+  {
+   "id": "30-79-4-5",
+   "points": 1,
+   "name": "Harvest Time",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 803995
+  },
+  {
+   "id": "30-79-1-5",
+   "points": 2,
+   "name": "Crimson Wraith",
+   "maxPoints": 2,
+   "tree": "Harvest",
+   "spellId": 504560
+  },
+  {
+   "id": "30-79-4-6a",
+   "points": 1,
+   "name": "Blood Harvester",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 300889
+  },
+  {
+   "id": "30-79-2-6",
+   "points": 1,
+   "name": "Harvesting Grounds",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705413
+  },
+  {
+   "id": "30-79-1-7a",
+   "points": 1,
+   "name": "Blood Knight",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 704552
+  },
+  {
+   "id": "30-79-3-7",
+   "points": 1,
+   "name": "Doomer",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 704556
+  },
+  {
+   "id": "30-79-5-7",
+   "points": 1,
+   "name": "Unbound",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 706785
+  },
+  {
+   "id": "30-79-6-6",
+   "points": 1,
+   "name": "Sever",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 806125
+  },
+  {
+   "id": "30-79-7-5",
+   "points": 1,
+   "name": "Souls for the Slaughter",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705428
+  },
+  {
+   "id": "30-79-6-8",
+   "points": 1,
+   "name": "Ruin",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 805198
+  },
+  {
+   "id": "30-79-2-8",
+   "points": 1,
+   "name": "Darkrend Scythe",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 805205
+  },
+  {
+   "id": "30-79-10-0",
+   "points": 1,
+   "name": "Harvester",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 92145
+  },
+  {
+   "id": "30-79-10-2",
+   "points": 1,
+   "name": "Extinction",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 573039
+  },
+  {
+   "id": "30-79-10-4",
+   "points": 1,
+   "name": "Mortal's End",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 705437
+  },
+  {
+   "id": "30-79-10-6",
+   "points": 1,
+   "name": "Executioner",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 500542
+  },
+  {
+   "id": "30-79-10-8",
+   "points": 1,
+   "name": "This Is My Domain",
+   "maxPoints": 1,
+   "tree": "Harvest",
+   "spellId": 500584
+  }
+ ]
+}

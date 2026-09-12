@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lichfrost",
+  "icon": "artifactability_frostmage_ebonbolt",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lichfrost</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>13% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Unleash a shard of frozen decay at an enemy, dealing 15+0+FroP*.86989416 Frost damage, slowing their movement speed by 35% for 3&nbsp;sec, and generating Runic Power.</span></td></tr></table><!--?801722:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

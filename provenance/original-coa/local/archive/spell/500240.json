@@ -1,0 +1,8 @@
+{
+  "name_enus": "Build: Power Foundry",
+  "icon": "inv_eng_interdimensionalcompanionrepository",
+  "tooltip_enus": "<table><tr><td><b>Build: Power Foundry</b><br />12% of base mana<br /><table width=\"100%\"><tr><td>1 sec cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">You build a <span style=\"color: #ffffff;\">Power Foundry</span> at the target location for 20&nbsp;sec. <br /><br />The <span style=\"color: #ffffff;\">Power Foundry</span> projects a small field that empowers all <span style=\"color: #ffffff;\">Sentry Turrets</span>, and <span style=\"color: #ffffff;\">Gatling Turrets</span> near it, increasing their damage by 25% and their attack rate by 40%. </span></td></tr></table><!--?500240:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

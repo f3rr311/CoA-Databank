@@ -1,0 +1,489 @@
+{
+ "piece": {
+  "Cloth": {
+   "armor": 209,
+   "sp": 104.0,
+   "str": 0.0
+  },
+  "Leather": {
+   "armor": 407,
+   "sp": 48.2,
+   "str": 0.0
+  },
+  "Mail": {
+   "armor": 922,
+   "sp": 53.5,
+   "str": 0.0
+  },
+  "Plate": {
+   "armor": 1660,
+   "sp": 22.5,
+   "str": 88.2
+  }
+ },
+ "slots": 8,
+ "branches": [
+  {
+   "branch": "necromancer",
+   "native": "Plate",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1338,
+     "eff_hp": 19662
+    },
+    "Leather": {
+     "dps": 1142,
+     "eff_hp": 21363
+    },
+    "Mail": {
+     "dps": 1161,
+     "eff_hp": 25788
+    },
+    "Plate": {
+     "dps": 1052,
+     "eff_hp": 32129
+    }
+   }
+  },
+  {
+   "branch": "reaper",
+   "native": "Plate",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1247,
+     "eff_hp": 19662
+    },
+    "Leather": {
+     "dps": 1239,
+     "eff_hp": 21363
+    },
+    "Mail": {
+     "dps": 1239,
+     "eff_hp": 25788
+    },
+    "Plate": {
+     "dps": 1947,
+     "eff_hp": 32129
+    }
+   }
+  },
+  {
+   "branch": "knight-of-xoroth",
+   "native": "Plate",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1216,
+     "eff_hp": 19662
+    },
+    "Leather": {
+     "dps": 1208,
+     "eff_hp": 21363
+    },
+    "Mail": {
+     "dps": 1208,
+     "eff_hp": 25788
+    },
+    "Plate": {
+     "dps": 1898,
+     "eff_hp": 32129
+    }
+   }
+  },
+  {
+   "branch": "pyromancer",
+   "native": "Cloth",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1843,
+     "eff_hp": 16858
+    },
+    "Leather": {
+     "dps": 1570,
+     "eff_hp": 18317
+    },
+    "Mail": {
+     "dps": 1596,
+     "eff_hp": 22111
+    },
+    "Plate": {
+     "dps": 1444,
+     "eff_hp": 27548
+    }
+   }
+  },
+  {
+   "branch": "chronomancer",
+   "native": "Cloth",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1772,
+     "eff_hp": 16858
+    },
+    "Leather": {
+     "dps": 1426,
+     "eff_hp": 18317
+    },
+    "Mail": {
+     "dps": 1459,
+     "eff_hp": 22111
+    },
+    "Plate": {
+     "dps": 1298,
+     "eff_hp": 27548
+    }
+   }
+  },
+  {
+   "branch": "bloodmage",
+   "native": "Cloth",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1604,
+     "eff_hp": 16858
+    },
+    "Leather": {
+     "dps": 1390,
+     "eff_hp": 18317
+    },
+    "Mail": {
+     "dps": 1410,
+     "eff_hp": 22111
+    },
+    "Plate": {
+     "dps": 1493,
+     "eff_hp": 27548
+    }
+   }
+  },
+  {
+   "branch": "felsworn",
+   "native": "Cloth",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1488,
+     "eff_hp": 17277
+    },
+    "Leather": {
+     "dps": 1324,
+     "eff_hp": 18772
+    },
+    "Mail": {
+     "dps": 1340,
+     "eff_hp": 22660
+    },
+    "Plate": {
+     "dps": 1359,
+     "eff_hp": 28232
+    }
+   }
+  },
+  {
+   "branch": "witch-doctor",
+   "native": "Cloth",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1077,
+     "eff_hp": 17277
+    },
+    "Leather": {
+     "dps": 940,
+     "eff_hp": 18772
+    },
+    "Mail": {
+     "dps": 953,
+     "eff_hp": 22660
+    },
+    "Plate": {
+     "dps": 1069,
+     "eff_hp": 28232
+    }
+   }
+  },
+  {
+   "branch": "cultist",
+   "native": "Cloth",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1841,
+     "eff_hp": 17277
+    },
+    "Leather": {
+     "dps": 1540,
+     "eff_hp": 18772
+    },
+    "Mail": {
+     "dps": 1569,
+     "eff_hp": 22660
+    },
+    "Plate": {
+     "dps": 1402,
+     "eff_hp": 28232
+    }
+   }
+  },
+  {
+   "branch": "sun-cleric",
+   "native": "Cloth",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1457,
+     "eff_hp": 16851
+    },
+    "Leather": {
+     "dps": 1308,
+     "eff_hp": 18309
+    },
+    "Mail": {
+     "dps": 1322,
+     "eff_hp": 22101
+    },
+    "Plate": {
+     "dps": 1239,
+     "eff_hp": 27536
+    }
+   }
+  },
+  {
+   "branch": "starcaller",
+   "native": "Cloth",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1807,
+     "eff_hp": 16851
+    },
+    "Leather": {
+     "dps": 1633,
+     "eff_hp": 18309
+    },
+    "Mail": {
+     "dps": 1649,
+     "eff_hp": 22101
+    },
+    "Plate": {
+     "dps": 1552,
+     "eff_hp": 27536
+    }
+   }
+  },
+  {
+   "branch": "venomancer",
+   "native": "Cloth",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1805,
+     "eff_hp": 16851
+    },
+    "Leather": {
+     "dps": 1563,
+     "eff_hp": 18309
+    },
+    "Mail": {
+     "dps": 1586,
+     "eff_hp": 22101
+    },
+    "Plate": {
+     "dps": 1452,
+     "eff_hp": 27536
+    }
+   }
+  },
+  {
+   "branch": "barbarian",
+   "native": "Plate",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1307,
+     "eff_hp": 19662
+    },
+    "Leather": {
+     "dps": 1307,
+     "eff_hp": 21363
+    },
+    "Mail": {
+     "dps": 1307,
+     "eff_hp": 25788
+    },
+    "Plate": {
+     "dps": 2055,
+     "eff_hp": 32129
+    }
+   }
+  },
+  {
+   "branch": "witch-hunter",
+   "native": "Plate",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1387,
+     "eff_hp": 19662
+    },
+    "Leather": {
+     "dps": 1337,
+     "eff_hp": 21363
+    },
+    "Mail": {
+     "dps": 1332,
+     "eff_hp": 25788
+    },
+    "Plate": {
+     "dps": 1801,
+     "eff_hp": 32129
+    }
+   }
+  },
+  {
+   "branch": "templar",
+   "native": "Plate",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1033,
+     "eff_hp": 19662
+    },
+    "Leather": {
+     "dps": 1033,
+     "eff_hp": 21363
+    },
+    "Mail": {
+     "dps": 1033,
+     "eff_hp": 25788
+    },
+    "Plate": {
+     "dps": 1608,
+     "eff_hp": 32129
+    }
+   }
+  },
+  {
+   "branch": "guardian",
+   "native": "Plate",
+   "by_armor": {
+    "Cloth": {
+     "dps": 962,
+     "eff_hp": 16788
+    },
+    "Leather": {
+     "dps": 951,
+     "eff_hp": 18241
+    },
+    "Mail": {
+     "dps": 952,
+     "eff_hp": 22019
+    },
+    "Plate": {
+     "dps": 1373,
+     "eff_hp": 27433
+    }
+   }
+  },
+  {
+   "branch": "primalist",
+   "native": "Plate",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1198,
+     "eff_hp": 16788
+    },
+    "Leather": {
+     "dps": 1122,
+     "eff_hp": 18241
+    },
+    "Mail": {
+     "dps": 1129,
+     "eff_hp": 22019
+    },
+    "Plate": {
+     "dps": 1451,
+     "eff_hp": 27433
+    }
+   }
+  },
+  {
+   "branch": "ranger",
+   "native": "Mail",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1179,
+     "eff_hp": 17732
+    },
+    "Leather": {
+     "dps": 1179,
+     "eff_hp": 19267
+    },
+    "Mail": {
+     "dps": 1179,
+     "eff_hp": 23257
+    },
+    "Plate": {
+     "dps": 1753,
+     "eff_hp": 28976
+    }
+   }
+  },
+  {
+   "branch": "tinker",
+   "native": "Mail",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1012,
+     "eff_hp": 17732
+    },
+    "Leather": {
+     "dps": 1012,
+     "eff_hp": 19267
+    },
+    "Mail": {
+     "dps": 1012,
+     "eff_hp": 23257
+    },
+    "Plate": {
+     "dps": 1417,
+     "eff_hp": 28976
+    }
+   }
+  },
+  {
+   "branch": "runemaster",
+   "native": "Leather",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1842,
+     "eff_hp": 18410
+    },
+    "Leather": {
+     "dps": 1600,
+     "eff_hp": 20003
+    },
+    "Mail": {
+     "dps": 1623,
+     "eff_hp": 24146
+    },
+    "Plate": {
+     "dps": 1527,
+     "eff_hp": 30084
+    }
+   }
+  },
+  {
+   "branch": "stormbringer",
+   "native": "Mail",
+   "by_armor": {
+    "Cloth": {
+     "dps": 1806,
+     "eff_hp": 16800
+    },
+    "Leather": {
+     "dps": 1564,
+     "eff_hp": 18254
+    },
+    "Mail": {
+     "dps": 1587,
+     "eff_hp": 22035
+    },
+    "Plate": {
+     "dps": 1454,
+     "eff_hp": 27453
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shudder Scythe",
+  "icon": "ability_xavius_crushingshadows",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Shudder Scythe</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Murder</span> is transformed into <span style=\"color: #ffffff;\">Shudder Scythe</span>, which costs additional Runic Power but deals increased damage and generates <span style=\"color: #FFFFFF;\">Soul Fragments</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_xavius_crushingshadows.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=572382'> Shudder Scythe </a> <br />\n                            <span> Strike an enemy 5 times, each dealing 30+1.0 Points Per Level% Weapon Damage, scaling with level, and granting you a <span style=\"color: #ffffff;\">Soul Fragment</span> with each strike.</span><br /></span></td></tr></table><!--?805708:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

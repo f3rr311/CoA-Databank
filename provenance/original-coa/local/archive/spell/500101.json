@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bringer of Darkness",
+  "icon": "uico_shadow_spell_04_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bringer of Darkness</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Repulse</span> now resets the cooldown of <span style=\"color: #ffffff;\">Vault</span> and makes your next <span style=\"color: #ffffff;\">Vault</span> within 6&nbsp;sec free of cost.</span></td></tr></table><!--?500101:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

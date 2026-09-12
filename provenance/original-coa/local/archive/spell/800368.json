@@ -1,0 +1,8 @@
+{
+  "name_enus": "Isolate",
+  "icon": "nhi_shadowsilence_border",
+  "tooltip_enus": "<table><tr><td><b>Isolate</b><br />16% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Isolate yourself or an ally, reducing all threat by 100% for 10&nbsp;sec.</span></td></tr></table><!--?800368:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

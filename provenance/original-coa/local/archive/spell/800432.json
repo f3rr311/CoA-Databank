@@ -1,0 +1,8 @@
+{
+  "name_enus": "Psychic Suppression",
+  "icon": "spell_priest_voidsear",
+  "tooltip_enus": "<table><tr><td><b>Psychic Suppression</b><br />17% of base mana<br /><table width=\"100%\"><tr><td>Channeled</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Lift an enemy into the air, stunning them and dealing 30+0+ShaP*.55+AP*.1 Shadow damage every 0.5 sec for 5&nbsp;sec. <br /><br />The target takes 15% more spell damage from all sources while you are channeling this spell.</span></td></tr></table><!--?800432:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

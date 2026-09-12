@@ -1,0 +1,8 @@
+{
+  "name_enus": "Smoking Gun",
+  "icon": "inv_weapon_rifle_44",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Smoking Gun</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Gunsling</span> and <span style=\"color: #ffffff;\">Handcannon</span> against enemies affected by <span style=\"color: #ffffff;\">Sticky Bomb</span> by 15%.</span></td></tr></table><!--?704108:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

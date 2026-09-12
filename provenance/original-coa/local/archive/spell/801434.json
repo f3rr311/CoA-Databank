@@ -1,0 +1,8 @@
+{
+  "name_enus": "Instinct",
+  "icon": "novart_physical_ability_%2827%29_border",
+  "tooltip_enus": "<table><tr><td><b>Instinct</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Your instinct kicks in, instantly restoring 40 Focus and increasing your attack power by 40% of your Agility for 15&nbsp;sec.<br /><br />Usable while stealthed.</span></td></tr></table><!--?801434:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

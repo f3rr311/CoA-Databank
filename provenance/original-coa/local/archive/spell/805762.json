@@ -1,0 +1,8 @@
+{
+  "name_enus": "Collection",
+  "icon": "timelesscoin_yellow",
+  "tooltip_enus": "<table><tr><td><b>Collection</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Dealing damage with <span style=\"color: #FFFFFF;\">Heartseeking Bolt</span> and <span style=\"color: #ffffff;\">Ricocheting Bolt</span> now has a 7% chance to allow the use of <span style=\"color: #ffffff;\">Collect Bounty</span> regardless of the target's health.</span></td></tr></table><!--?805762:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

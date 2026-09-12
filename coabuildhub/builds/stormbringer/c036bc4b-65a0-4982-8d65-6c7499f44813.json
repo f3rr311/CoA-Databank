@@ -1,0 +1,634 @@
+{
+ "build": {
+  "id": "c036bc4b-65a0-4982-8d65-6c7499f44813",
+  "title": "Maelstrom Leveling Stormbringer",
+  "description": "",
+  "class_id": 16,
+  "spec_id": 44,
+  "author_id": "22a28a18-ebff-4150-a10d-3c5f03c31624",
+  "talent_string": "W1siMTYtODctMi0wIiwxXSxbIjE2LTg3LTQtMCIsMV0sWyIxNi04Ny02LTAiLDFdLFsiMTYtNDQtNC0wIiwxXSxbIjE2LTQ0LTQtMSIsMV0sWyIxNi00NC0yLTIiLDJdLFsiMTYtNDQtNC0yIiwxXSxbIjE2LTQ0LTYtMiIsM10sWyIxNi00NC03LTMiLDFdLFsiMTYtNDQtNC0zIiwxXSxbIjE2LTQ0LTEtM2IiLDFdLFsiMTYtNDQtNS00IiwyXSxbIjE2LTQ0LTMtNCIsMV0sWyIxNi00NC0xLTQiLDFdLFsiMTYtNDQtMC01IiwxXSxbIjE2LTQ0LTItNSIsMl0sWyIxNi00NC00LTVhIiwxXSxbIjE2LTQ0LTYtNSIsMV0sWyIxNi00NC0yLTYiLDFdLFsiMTYtNDQtMy03IiwxXSxbIjE2LTQ0LTQtNiIsMV0sWyIxNi00NC01LTciLDFdLFsiMTYtNDQtNC04IiwxXSxbIjE2LTQ0LTQtOSIsMV0sWyIxNi04Ny0yLTEiLDJdLFsiMTYtODctNC0xIiwxXSxbIjE2LTg3LTQtMiIsMV0sWyIxNi04Ny02LTEiLDFdLFsiMTYtODctNy0yIiwxXSxbIjE2LTg3LTYtM2EiLDFdLFsiMTYtODctOC0zYiIsMV0sWyIxNi04Ny03LTQiLDFdLFsiMTYtODctNy01IiwxXSxbIjE2LTg3LTgtNiIsMl0sWyIxNi04Ny0yLTMiLDFdLFsiMTYtODctMS00YSIsMV0sWyIxNi04Ny0zLTQiLDJdLFsiMTYtODctNC01IiwxXSxbIjE2LTg3LTItNiIsMl0sWyIxNi04Ny00LTYiLDFdLFsiMTYtODctNS03IiwxXSxbIjE2LTg3LTQtOCIsMV0sWyIxNi04Ny00LTkiLDFdXQ",
+  "tags": [
+   "Leveling"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 1,
+  "created_at": "2026-07-16T17:17:30.76715+00:00",
+  "updated_at": "2026-07-29T06:08:01.209+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 2471,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 0,
+  "author": {
+   "id": "22a28a18-ebff-4150-a10d-3c5f03c31624",
+   "username": "Ayaka Takahashi",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKXVJ70AaeXeDaJKkPqN39v3pk-bcjRSsM9NDKXbTQqznYpCw=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "cca46087-d8e7-4ca0-abb2-0987e81fd783",
+   "build_id": "c036bc4b-65a0-4982-8d65-6c7499f44813",
+   "author_id": "e1b39c00-cc18-4d0d-9ac9-c62486abd683",
+   "parent_id": null,
+   "body": "Can you let me know what side I should start on first",
+   "upvotes": 0,
+   "created_at": "2026-07-21T04:07:48.087982+00:00",
+   "updated_at": "2026-07-21T04:07:48.087982+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "e1b39c00-cc18-4d0d-9ac9-c62486abd683",
+    "username": "poisonous1984",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1219057543700156446/4388708cd3b1c98d7a68b25f836bb159.png"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "96c001c3-21f3-432d-8028-e9a6cac7f103",
+   "title": "Lightning Stormbringer Leveling",
+   "class_id": 16,
+   "spec_id": 42,
+   "author_id": "76125dd4-8668-4d09-a020-c8bf031ba017",
+   "tags": [
+    "Insane AoE DPS"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1315,
+   "featured": false,
+   "created_at": "2026-07-25T15:35:48.022755+00:00",
+   "updated_at": "2026-07-25T18:09:59.688+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "76125dd4-8668-4d09-a020-c8bf031ba017",
+    "username": "nimfomanbl4",
+    "avatar_url": "https://cdn.discordapp.com/avatars/397368468971847691/80ac85a0a2accbac5cc593850dfdbd0a.png"
+   }
+  },
+  {
+   "id": "5760b320-a94b-4219-8900-58c19e2721e1",
+   "title": "pve wind",
+   "class_id": 16,
+   "spec_id": 43,
+   "author_id": "a24da7ad-7a07-4ff9-8d45-6198815e4d85",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1363,
+   "featured": false,
+   "created_at": "2026-07-14T15:40:54.676822+00:00",
+   "updated_at": "2026-07-14T15:40:54.676822+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "a24da7ad-7a07-4ff9-8d45-6198815e4d85",
+    "username": "gullip",
+    "avatar_url": "https://cdn.discordapp.com/avatars/350195054838546433/a2cb19e5f098e4f1376822641fc30812.png"
+   }
+  }
+ ],
+ "class": "Stormbringer",
+ "spec": "Maelstrom",
+ "allocations": [
+  [
+   "16-87-2-0",
+   1
+  ],
+  [
+   "16-87-4-0",
+   1
+  ],
+  [
+   "16-87-6-0",
+   1
+  ],
+  [
+   "16-44-4-0",
+   1
+  ],
+  [
+   "16-44-4-1",
+   1
+  ],
+  [
+   "16-44-2-2",
+   2
+  ],
+  [
+   "16-44-4-2",
+   1
+  ],
+  [
+   "16-44-6-2",
+   3
+  ],
+  [
+   "16-44-7-3",
+   1
+  ],
+  [
+   "16-44-4-3",
+   1
+  ],
+  [
+   "16-44-1-3b",
+   1
+  ],
+  [
+   "16-44-5-4",
+   2
+  ],
+  [
+   "16-44-3-4",
+   1
+  ],
+  [
+   "16-44-1-4",
+   1
+  ],
+  [
+   "16-44-0-5",
+   1
+  ],
+  [
+   "16-44-2-5",
+   2
+  ],
+  [
+   "16-44-4-5a",
+   1
+  ],
+  [
+   "16-44-6-5",
+   1
+  ],
+  [
+   "16-44-2-6",
+   1
+  ],
+  [
+   "16-44-3-7",
+   1
+  ],
+  [
+   "16-44-4-6",
+   1
+  ],
+  [
+   "16-44-5-7",
+   1
+  ],
+  [
+   "16-44-4-8",
+   1
+  ],
+  [
+   "16-44-4-9",
+   1
+  ],
+  [
+   "16-87-2-1",
+   2
+  ],
+  [
+   "16-87-4-1",
+   1
+  ],
+  [
+   "16-87-4-2",
+   1
+  ],
+  [
+   "16-87-6-1",
+   1
+  ],
+  [
+   "16-87-7-2",
+   1
+  ],
+  [
+   "16-87-6-3a",
+   1
+  ],
+  [
+   "16-87-8-3b",
+   1
+  ],
+  [
+   "16-87-7-4",
+   1
+  ],
+  [
+   "16-87-7-5",
+   1
+  ],
+  [
+   "16-87-8-6",
+   2
+  ],
+  [
+   "16-87-2-3",
+   1
+  ],
+  [
+   "16-87-1-4a",
+   1
+  ],
+  [
+   "16-87-3-4",
+   2
+  ],
+  [
+   "16-87-4-5",
+   1
+  ],
+  [
+   "16-87-2-6",
+   2
+  ],
+  [
+   "16-87-4-6",
+   1
+  ],
+  [
+   "16-87-5-7",
+   1
+  ],
+  [
+   "16-87-4-8",
+   1
+  ],
+  [
+   "16-87-4-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "16-87-2-0",
+   "points": 1,
+   "name": "Cloudburst",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 801838
+  },
+  {
+   "id": "16-87-4-0",
+   "points": 1,
+   "name": "Charge",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 804826
+  },
+  {
+   "id": "16-87-6-0",
+   "points": 1,
+   "name": "Body of Lightning",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 500041
+  },
+  {
+   "id": "16-44-4-0",
+   "points": 1,
+   "name": "Tempest Sovereign",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 560020
+  },
+  {
+   "id": "16-44-4-1",
+   "points": 1,
+   "name": "Stormflow",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 567555
+  },
+  {
+   "id": "16-44-2-2",
+   "points": 2,
+   "name": "Torrential Rage",
+   "maxPoints": 2,
+   "tree": "Maelstrom",
+   "spellId": 807196
+  },
+  {
+   "id": "16-44-4-2",
+   "points": 1,
+   "name": "Conduit",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 806374
+  },
+  {
+   "id": "16-44-6-2",
+   "points": 3,
+   "name": "Disciple of Thorim",
+   "maxPoints": 3,
+   "tree": "Maelstrom",
+   "spellId": 705727
+  },
+  {
+   "id": "16-44-7-3",
+   "points": 1,
+   "name": "Raining and Pouring",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 706660
+  },
+  {
+   "id": "16-44-4-3",
+   "points": 1,
+   "name": "Drown",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 806407
+  },
+  {
+   "id": "16-44-1-3b",
+   "points": 1,
+   "name": "Prodigy of Lei Shen",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 560023
+  },
+  {
+   "id": "16-44-5-4",
+   "points": 2,
+   "name": "Undertow",
+   "maxPoints": 2,
+   "tree": "Maelstrom",
+   "spellId": 705666
+  },
+  {
+   "id": "16-44-3-4",
+   "points": 1,
+   "name": "Flow of Wrath",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 801855
+  },
+  {
+   "id": "16-44-1-4",
+   "points": 1,
+   "name": "Deluge",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 806400
+  },
+  {
+   "id": "16-44-0-5",
+   "points": 1,
+   "name": "Voltaic Mastery",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 706661
+  },
+  {
+   "id": "16-44-2-5",
+   "points": 2,
+   "name": "Stormcaller",
+   "maxPoints": 2,
+   "tree": "Maelstrom",
+   "spellId": 300611
+  },
+  {
+   "id": "16-44-4-5a",
+   "points": 1,
+   "name": "Washed Away",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 807657
+  },
+  {
+   "id": "16-44-6-5",
+   "points": 1,
+   "name": "Cloudsurfer",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 806414
+  },
+  {
+   "id": "16-44-2-6",
+   "points": 1,
+   "name": "Unstable",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 705723
+  },
+  {
+   "id": "16-44-3-7",
+   "points": 1,
+   "name": "Static Electricity",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 524954
+  },
+  {
+   "id": "16-44-4-6",
+   "points": 1,
+   "name": "Thunder Ward",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 800098
+  },
+  {
+   "id": "16-44-5-7",
+   "points": 1,
+   "name": "Conductor In Charge",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 300961
+  },
+  {
+   "id": "16-44-4-8",
+   "points": 1,
+   "name": "Electrified Waters",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 573436
+  },
+  {
+   "id": "16-44-4-9",
+   "points": 1,
+   "name": "Stormcloud",
+   "maxPoints": 1,
+   "tree": "Maelstrom",
+   "spellId": 801859
+  },
+  {
+   "id": "16-87-2-1",
+   "points": 2,
+   "name": "Wind Shift",
+   "maxPoints": 2,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 503596
+  },
+  {
+   "id": "16-87-4-1",
+   "points": 1,
+   "name": "Arcane Lightning",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 300618
+  },
+  {
+   "id": "16-87-4-2",
+   "points": 1,
+   "name": "Studious",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 705657
+  },
+  {
+   "id": "16-87-6-1",
+   "points": 1,
+   "name": "Conjuration Mastery",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 300595
+  },
+  {
+   "id": "16-87-7-2",
+   "points": 1,
+   "name": "Eye of the Storm",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 806307
+  },
+  {
+   "id": "16-87-6-3a",
+   "points": 1,
+   "name": "Concentrated Static",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 570722
+  },
+  {
+   "id": "16-87-8-3b",
+   "points": 1,
+   "name": "Improved Body of Lightning",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 705693
+  },
+  {
+   "id": "16-87-7-4",
+   "points": 1,
+   "name": "Storm Chaser",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 300612
+  },
+  {
+   "id": "16-87-7-5",
+   "points": 1,
+   "name": "Storm Ascendance",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 681110
+  },
+  {
+   "id": "16-87-8-6",
+   "points": 2,
+   "name": "Spellstorm Mastery",
+   "maxPoints": 2,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 705659
+  },
+  {
+   "id": "16-87-2-3",
+   "points": 1,
+   "name": "Storm Warning",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 567533
+  },
+  {
+   "id": "16-87-1-4a",
+   "points": 1,
+   "name": "Ionic Aura",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 707652
+  },
+  {
+   "id": "16-87-3-4",
+   "points": 2,
+   "name": "Aethermancy",
+   "maxPoints": 2,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 705690
+  },
+  {
+   "id": "16-87-4-5",
+   "points": 1,
+   "name": "Stormcloak",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 804833
+  },
+  {
+   "id": "16-87-2-6",
+   "points": 2,
+   "name": "Aether Mastery",
+   "maxPoints": 2,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 807462
+  },
+  {
+   "id": "16-87-4-6",
+   "points": 1,
+   "name": "Storm Channeling",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 804040
+  },
+  {
+   "id": "16-87-5-7",
+   "points": 1,
+   "name": "Residual Power",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 804605
+  },
+  {
+   "id": "16-87-4-8",
+   "points": 1,
+   "name": "Lingering Storm",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 705652
+  },
+  {
+   "id": "16-87-4-9",
+   "points": 1,
+   "name": "Waterfall",
+   "maxPoints": 1,
+   "tree": "Stormbringer (class tree)",
+   "spellId": 806412
+  }
+ ]
+}

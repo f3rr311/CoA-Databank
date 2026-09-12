@@ -1,0 +1,1599 @@
+{
+  "spells": [
+    {
+      "aura_text": {
+        "not_applicable_reason": "No persistent aura is authored."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 60000,
+      "description": "Animate a Bone Wraith for 15 seconds.",
+      "dispel_type": null,
+      "duration_index": 8,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "not_applicable_reason": "No persistent aura is authored."
+          },
+          "base_points": 1,
+          "coefficient": 0,
+          "dependencies": [
+            {
+              "key": "summon.necromancer.bone-wraith",
+              "kind": "summon"
+            }
+          ],
+          "effect_type": "summon",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 61,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33,
+          37
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.animate-bone-wraith",
+      "learn_level": 1,
+      "name": "Animate: Bone Wraith",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.mana",
+        "percent_base": 28,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for the accepted Animation pilot."
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=805032"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Animate: Bone Wraith",
+        "source_spell_id": 805032
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "talent-active",
+        "summon"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-animate-bone-wraith",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.bone-wraith"
+    },
+    {
+      "aura_text": {
+        "not_applicable_reason": "No persistent aura is authored."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 30000,
+      "description": "Animate three Skeletal Archers for 15 seconds.",
+      "dispel_type": null,
+      "duration_index": 0,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "not_applicable_reason": "This effect applies no aura."
+          },
+          "base_points": 1,
+          "coefficient": 0,
+          "dependencies": [
+            {
+              "key": "spell.necromancer.animation.skeletal-archer-summon",
+              "kind": "spell"
+            }
+          ],
+          "effect_type": "trigger-spell",
+          "index": 0,
+          "misc_value": 524287,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33,
+          37
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.animate-skeletal-archer",
+      "learn_level": 30,
+      "name": "Animate: Skeletal Archer",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.mana",
+        "percent_base": 27,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for this Animation micro-slice."
+      },
+      "provenance": {
+        "authoring_rationale": "Joined to the accepted Task 1 Animation closure; no evidence-axis status is projected into production content.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=805040"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Animate: Skeletal Archer",
+        "source_spell_id": 805040
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "talent-active",
+        "summon",
+        "animation"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the exact recovered Animation micro-slice spell shape.",
+          "id": "spell-necromancer-animation-animate-skeletal-archer",
+          "kind": "dbc"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "not_applicable_reason": "No persistent aura is authored."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 60000,
+      "description": "Animate a Tomb King for 15 seconds.",
+      "dispel_type": null,
+      "duration_index": 8,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "not_applicable_reason": "No persistent aura is authored."
+          },
+          "base_points": 1,
+          "coefficient": 0,
+          "dependencies": [
+            {
+              "key": "summon.necromancer.tomb-king",
+              "kind": "summon"
+            }
+          ],
+          "effect_type": "summon",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 61,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33,
+          37
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.animate-tomb-king",
+      "learn_level": 1,
+      "name": "Animate: Tomb King",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.mana",
+        "percent_base": 28,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for the accepted Animation pilot."
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=805044"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Animate: Tomb King",
+        "source_spell_id": 805044
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "talent-active",
+        "summon"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-animate-tomb-king",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.tomb-king"
+    },
+    {
+      "aura_text": {
+        "text": "Activate ten 500 ms Bonestorm ticks over five seconds."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Activate ten 500 ms Bonestorm ticks over five seconds.",
+      "dispel_type": null,
+      "duration_index": 28,
+      "effects": [
+        {
+          "aura_period_ms": 500,
+          "aura_type": {
+            "text": "periodic-damage"
+          },
+          "base_points": 1,
+          "coefficient": 0,
+          "dependencies": [
+            {
+              "key": "spell.necromancer.animation.bone-wraith-bonestorm-tick",
+              "kind": "spell"
+            }
+          ],
+          "effect_type": "apply-aura",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.bone-wraith-bonestorm",
+      "learn_level": 1,
+      "name": "Bone Wraith Bonestorm",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for the accepted Animation pilot."
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=801412"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Bone Wraith Command: Bonestorm",
+        "source_spell_id": 801412
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "summon-aura",
+        "bonestorm"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-bone-wraith-bonestorm",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.bone-wraith"
+    },
+    {
+      "aura_text": {
+        "not_applicable_reason": "No persistent aura is authored."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Damage at most five nearby enemies every 500 ms.",
+      "dispel_type": null,
+      "duration_index": null,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "not_applicable_reason": "No persistent aura is authored."
+          },
+          "base_points": 12,
+          "coefficient": 0.25,
+          "dependencies": [],
+          "effect_type": "school-damage",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "target_radius": {
+            "dbc_index": 8,
+            "value_milliyards": 5000
+          },
+          "targets": [
+            "destination-area-enemy"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.bone-wraith-bonestorm-tick",
+      "learn_level": 1,
+      "name": "Bone Wraith Bonestorm Tick",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for the accepted Animation pilot."
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=801411"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "physical",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Bonestorm",
+        "source_spell_id": 801411
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "summon-damage",
+        "area",
+        "bonestorm"
+      ],
+      "targets": [
+        "destination-area-enemy"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-bone-wraith-bonestorm-tick",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.bone-wraith"
+    },
+    {
+      "aura_text": {
+        "not_applicable_reason": "No persistent aura is authored."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 10000,
+      "description": "Order each living owned Skeletal Archer to fire at the selected enemy.",
+      "dispel_type": null,
+      "duration_index": 0,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "not_applicable_reason": "The command dispatcher is script-bound."
+          },
+          "base_points": 0,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "dummy-effect",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "enemy"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          37,
+          70
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.command-skeletal-archers",
+      "learn_level": 30,
+      "name": "Command: Skeletal Archers",
+      "power_cost": {
+        "amount": 30,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for this Animation micro-slice."
+      },
+      "provenance": {
+        "authoring_rationale": "The accepted source rows do not provide the ByteCOA owned-batch adapter. Authored command costs 30 Runic Power, has a 10-second cooldown, and joins the named reconstruction contract.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=504319"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Command: Skeletal Archers",
+        "source_spell_id": 504319
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "command",
+        "runic-power-spender",
+        "script-bound"
+      ],
+      "targets": [
+        "enemy"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the exact recovered Animation micro-slice spell shape.",
+          "id": "spell-necromancer-animation-command-skeletal-archers",
+          "kind": "dbc"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "text": "Reduce the resource cost of authored Animate, Raise, and Command spells by 20%."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Reduce the resource cost of authored Animate, Raise, and Command spells by 20%.",
+      "dispel_type": null,
+      "duration_index": null,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "text": "add-percent-modifier"
+          },
+          "base_points": -20,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "apply-aura",
+          "index": 0,
+          "misc_value": 14,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.grave-mastery",
+      "learn_level": 1,
+      "name": "Grave Mastery",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for the accepted Animation pilot."
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=504439"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Grave Mastery",
+        "source_spell_id": 504439
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "essence",
+        "spell-mod"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-grave-mastery",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "text": "Casting Animate or Command spells increases your haste by 1% for 10 seconds, stacking 5 times."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Learn the recovered Mindless Fury behavior for supported Animate and Command spells.",
+      "dispel_type": null,
+      "duration_index": 21,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "text": "dummy"
+          },
+          "base_points": 0,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "apply-aura",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.mindless-fury",
+      "learn_level": 50,
+      "name": "Mindless Fury",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "Runtime uses the known passive as a semantic gate and dispatches only supported Animate and Command casts."
+      },
+      "provenance": {
+        "authoring_rationale": "Joined to the accepted Task 1 Animation closure; no evidence-axis status is projected into production content.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=805674"
+        ]
+      },
+      "range": {
+        "maximum": 0,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "physical",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Mindless Fury",
+        "source_spell_id": 805674
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "talent-passive",
+        "animation",
+        "haste-trigger"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Acts only as the semantic ownership gate for the recovered Mindless Fury trigger.",
+          "id": "spell-necromancer-animation-mindless-fury",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "text": "Increases melee, ranged, and spell haste by 1% for 10 seconds. Stacks up to 5 times."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Gain 1% melee, ranged, and spell haste for 10 seconds, stacking 5 times.",
+      "dispel_type": null,
+      "duration_index": 1,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "text": "melee-ranged-haste"
+          },
+          "base_points": 1,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "apply-aura",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        },
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "text": "spell-haste"
+          },
+          "base_points": 1,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "apply-aura",
+          "index": 1,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          70
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.mindless-fury-haste",
+      "learn_level": 50,
+      "name": "Mindless Fury Haste",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "The helper is applied deterministically by the supported semantic runtime triggers."
+      },
+      "provenance": {
+        "authoring_rationale": "Joined to the accepted Task 1 Animation closure; no evidence-axis status is projected into production content.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=805786"
+        ]
+      },
+      "range": {
+        "maximum": 0,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "physical",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Mindless Fury",
+        "source_spell_id": 805786
+      },
+      "stack_limit": 5,
+      "status": "compiles",
+      "tags": [
+        "helper",
+        "haste",
+        "stacking-buff"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits exactly two +1 self haste auras for 10 seconds with five stacks.",
+          "id": "spell-necromancer-animation-mindless-fury-haste",
+          "kind": "dbc"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "not_applicable_reason": "No persistent aura is authored."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Deal scaling Shadow damage followed by normalized ranged weapon damage.",
+      "dispel_type": null,
+      "duration_index": 0,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "not_applicable_reason": "Immediate damage has no aura."
+          },
+          "base_points": 10,
+          "coefficient": 0.35,
+          "dependencies": [],
+          "effect_type": "school-damage",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 1.25,
+          "targets": [
+            "enemy"
+          ]
+        },
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "not_applicable_reason": "Normalized weapon damage has no aura."
+          },
+          "base_points": 1,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "normalized-weapon-damage",
+          "index": 1,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "enemy"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          70
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.skeletal-archer-shot",
+      "learn_level": 30,
+      "name": "Skeletal Archer Necrotic Shot",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for this Animation micro-slice."
+      },
+      "provenance": {
+        "authoring_rationale": "Joined to the accepted Task 1 Animation closure; no evidence-axis status is projected into production content.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=801516"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Command: Skeletal Archer",
+        "source_spell_id": 801516
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "helper",
+        "shadow-damage",
+        "normalized-weapon-damage"
+      ],
+      "targets": [
+        "enemy"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the exact recovered Animation micro-slice spell shape.",
+          "id": "spell-necromancer-animation-skeletal-archer-shot",
+          "kind": "dbc"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "not_applicable_reason": "No persistent aura is authored."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Summon three Skeletal Archers behind the caster for 15 seconds.",
+      "dispel_type": null,
+      "duration_index": 8,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "not_applicable_reason": "The effect creates controlled guardians rather than an aura."
+          },
+          "base_points": 3,
+          "coefficient": 0,
+          "dependencies": [
+            {
+              "key": "summon.necromancer.skeletal-archer",
+              "kind": "summon"
+            }
+          ],
+          "effect_type": "summon",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 61,
+          "real_points_per_level": 0,
+          "targets": [
+            "caster-back-right",
+            "caster-back-left"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          70
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.skeletal-archer-summon",
+      "learn_level": 30,
+      "name": "Animate Skeletal Archer Formation",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for this Animation micro-slice."
+      },
+      "provenance": {
+        "authoring_rationale": "Joined to the accepted Task 1 Animation closure; no evidence-axis status is projected into production content.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=500330"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Animate: Skeletal Archer",
+        "source_spell_id": 500330
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "helper",
+        "summon",
+        "three-guardians"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the exact recovered Animation micro-slice spell shape.",
+          "id": "spell-necromancer-animation-skeletal-archer-summon",
+          "kind": "dbc"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "text": "Skeletal Archer shots deal increased damage."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Skeletal Archer shots deal increased damage.",
+      "dispel_type": null,
+      "duration_index": null,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "text": "dummy"
+          },
+          "base_points": 1,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "apply-aura",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.skeletal-artillery.rank-1",
+      "learn_level": 1,
+      "name": "Skeletal Artillery I",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for the accepted Animation pilot."
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=302518"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Skeletal Artillery",
+        "source_spell_id": 302518
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "talent-passive",
+        "archer"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-skeletal-artillery-rank-1",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "text": "Skeletal Archer shots deal further increased damage."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Skeletal Archer shots deal further increased damage.",
+      "dispel_type": null,
+      "duration_index": null,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "text": "dummy"
+          },
+          "base_points": 2,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "apply-aura",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.skeletal-artillery.rank-2",
+      "learn_level": 1,
+      "name": "Skeletal Artillery II",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for the accepted Animation pilot."
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=302518"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Skeletal Artillery",
+        "source_spell_id": 302518
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "talent-passive",
+        "archer"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-skeletal-artillery-rank-2",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "text": "Increase your maximum Life Force by 1."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Increase your maximum Life Force by 1.",
+      "dispel_type": null,
+      "duration_index": null,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "text": "dummy"
+          },
+          "base_points": 1,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "apply-aura",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.summoning-adept",
+      "learn_level": 1,
+      "name": "Summoning Adept",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for the accepted Animation pilot."
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=92123"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Summoning Adept",
+        "source_spell_id": 92123
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "essence",
+        "summon"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-summoning-adept",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "text": "Increase your maximum Life Force by 1 and increase the Stamina of your owned Undead minions by 10%."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Increase your maximum Life Force by 1 and increase the Stamina of your owned Undead minions by 10%.",
+      "dispel_type": null,
+      "duration_index": null,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "text": "dummy"
+          },
+          "base_points": 1,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "apply-aura",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.summoning-expert",
+      "learn_level": 1,
+      "name": "Summoning Expert",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for the accepted Animation pilot."
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=807494"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Summoning Expert",
+        "source_spell_id": 807494
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "essence",
+        "summon"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-summoning-expert",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "text": "Increase the target's Stamina by 10%."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Increase the target's Stamina by 10%.",
+      "dispel_type": null,
+      "duration_index": null,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "text": "mod-total-stat-percentage"
+          },
+          "base_points": 10,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "apply-aura",
+          "index": 0,
+          "misc_value": 3,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "ally"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.summoning-expert-stamina",
+      "learn_level": 1,
+      "name": "Summoning Expert Stamina",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for the accepted Animation pilot."
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=807494"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Summoning Expert",
+        "source_spell_id": 807494
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "helper",
+        "summon"
+      ],
+      "targets": [
+        "ally"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-summoning-expert-stamina",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.skeletal-archer"
+    },
+    {
+      "aura_text": {
+        "text": "Amplify plague damage around the Tomb King."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Amplify plague damage around the Tomb King.",
+      "dispel_type": null,
+      "duration_index": 18,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "text": "dummy"
+          },
+          "base_points": 1,
+          "coefficient": 0,
+          "dependencies": [],
+          "effect_type": "apply-aura",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "self"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.tomb-king-plague-aura",
+      "learn_level": 1,
+      "name": "Tomb King Plague Aura",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "chance_percent": 100,
+        "dependencies": [
+          {
+            "key": "spell.necromancer.animation.tomb-king-plague-damage",
+            "kind": "spell"
+          }
+        ],
+        "event": "direct-damage",
+        "internal_cooldown_ms": 0
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=800027"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Putrid Aura",
+        "source_spell_id": 800027
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "summon-aura",
+        "plague"
+      ],
+      "targets": [
+        "self"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-tomb-king-plague-aura",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.tomb-king"
+    },
+    {
+      "aura_text": {
+        "not_applicable_reason": "No persistent aura is authored."
+      },
+      "casting_time_index": 1,
+      "cooldown_ms": 0,
+      "description": "Deal bonus Plague damage equal to 10% of the triggering direct damage.",
+      "dispel_type": null,
+      "duration_index": null,
+      "effects": [
+        {
+          "aura_period_ms": 0,
+          "aura_type": {
+            "not_applicable_reason": "No persistent aura is authored."
+          },
+          "base_points": 10,
+          "coefficient": 0.2,
+          "dependencies": [],
+          "effect_type": "school-damage",
+          "index": 0,
+          "misc_value": 0,
+          "misc_value_b": 0,
+          "real_points_per_level": 0,
+          "targets": [
+            "enemy"
+          ]
+        }
+      ],
+      "family": {
+        "flag_bits": [
+          33
+        ],
+        "name": "bytecoa.necromancer"
+      },
+      "key": "spell.necromancer.animation.tomb-king-plague-damage",
+      "learn_level": 1,
+      "name": "Tomb King Plague Damage",
+      "power_cost": {
+        "amount": 0,
+        "engine_key": "resource.necromancer.runic-power",
+        "percent_base": 0,
+        "reservation": 0
+      },
+      "proc_data": {
+        "not_applicable_reason": "No random proc is authored for the accepted Animation pilot."
+      },
+      "provenance": {
+        "authoring_rationale": "Authored from the hash-bound M15.C13 closure without mutating donor or stock rows.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#spell-id=800049"
+        ]
+      },
+      "range": {
+        "maximum": 30,
+        "minimum": 0
+      },
+      "schema_version": "1.0.0",
+      "school": "shadow",
+      "source_template": {
+        "clone_required": true,
+        "source_kind": "recovered-ascension",
+        "source_name": "Foul Remnant",
+        "source_spell_id": 800049
+      },
+      "stack_limit": null,
+      "status": "compiles",
+      "tags": [
+        "summon-damage",
+        "plague"
+      ],
+      "targets": [
+        "enemy"
+      ],
+      "tests": [
+        {
+          "assertion": "Emits the accepted M15.C13 Animation semantic contract.",
+          "id": "necromancer-animation-tomb-king-plague-damage",
+          "kind": "content"
+        }
+      ],
+      "trigger_chain": [],
+      "visual_kit_key": "visual.necromancer.animation.tomb-king"
+    }
+  ]
+}

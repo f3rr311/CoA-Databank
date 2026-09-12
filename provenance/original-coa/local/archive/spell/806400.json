@@ -1,0 +1,8 @@
+{
+  "name_enus": "Deluge",
+  "icon": "spell_frost_summonwaterelemental",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Deluge</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cc99ff;\">Depletes 50 Static</span><br /><span style=\"color: #4fd1c5;\">Consumes Conductive</span><br />Envelop enemies in the target area in water, dealing COND(GT(FroP, NatP), 106+0+FroP*0.3, 106+0+NatP*0.3) Frost damage, triggering <span style=\"color: #ffffff;\">Conduction</span> and reducing their attack power by 24 for 10&nbsp;sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_shawaterelemental_reform.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=567560'> Conduction </a> <br />\n                            <span> Deals COND(GT(FroP, NatP), 202*$<scalingbp>+FroP*.585, 202*$<scalingbp>+NatP*.35) Frost Damage, increased by 25% for each stack of <span style=\"color: #4fd1c5;\">Conductive</span> consumed.</span><br /></span></td></tr></table><!--?806400:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

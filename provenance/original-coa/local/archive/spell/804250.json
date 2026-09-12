@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blessing of Triumph",
+  "icon": "ability_paladin_holyavenger",
+  "tooltip_enus": "<table><tr><td><b>Blessing of Triumph</b><br />13% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Redeem a <span style=\"color: #ffffff;\">Blessed</span> ally for 20&nbsp;sec, granting 25% increased haste and 10% increased damage.<br /><br />If the ally falls below 35% maximum health they are healed for 10% of their direct damage dealt for the remaining duration.<br /><br />Only usable on your ally with <span style=\"color: #ffffff;\">Bless</span> active.</span></td></tr></table><!--?804250:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

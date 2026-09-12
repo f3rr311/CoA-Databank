@@ -1,0 +1,8 @@
+{
+  "name_enus": "Upper Hand",
+  "icon": "inv_relics_totemofrage",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Upper Hand</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your melee auto attacks now have a 20% chance to strike 2 additional times.</span></td></tr></table><!--?802295:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rearmament",
+  "icon": "nhi_shadowbombs_border",
+  "tooltip_enus": "<table><tr><td><b>Rearmament</b><br />22% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Arm yourself against evil, resetting the cooldown of all <span style=\"color: #ffffff;\">Traps</span> and <span style=\"color: #FFFFFF;\">Decimate</span>.</span></td></tr></table><!--?805738:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

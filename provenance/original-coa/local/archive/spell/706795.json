@@ -1,0 +1,8 @@
+{
+  "name_enus": "Empyrean Fortitude",
+  "icon": "novart_magicspell_%2820%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Empyrean Fortitude</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your parry chance by 5% and parrying an attack now generates 2 Runic Power.</span></td></tr></table><!--?706795:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

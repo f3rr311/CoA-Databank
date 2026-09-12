@@ -1,0 +1,15 @@
+{
+  "name_enus": "Blood of Mannoroth",
+  "icon": "mannoroth",
+  "tooltip_enus": "<table><tr><td><b>Blood of Mannoroth</b><br />20% of base <br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #32cd32;\">Generates 6 Felfury</span><br />Soak in the blood of Mannoroth, increasing your Energy regeneration by 100%<!--sp803903:0--><!--sp803903--> for 20&nbsp;sec.</span></td></tr></table><!--?802075:1:1:80-->",
+  "spells_enus": {
+    "803903": [
+      [
+        "",
+        ", and causes you to ignore all enemy armor"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

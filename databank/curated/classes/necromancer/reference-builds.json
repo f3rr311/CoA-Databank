@@ -1,0 +1,178 @@
+{
+  "note": "Source-informed proof allocations only; Task15 semantic adjudication is not complete.",
+  "schema_version": 1,
+  "trees": {
+    "tree.necromancer.animation": [
+      {
+        "essences": [
+          "essence.necromancer.animation.summoning-adept",
+          "essence.necromancer.animation.summoning-expert",
+          "essence.necromancer.animation.grave-mastery"
+        ],
+        "essences_available": 3,
+        "essences_unspent": 0,
+        "expected_damage_tags": [
+          "archer-shot",
+          "plague-amplification",
+          "tomb-king"
+        ],
+        "key": "animation-archer-tomb-king",
+        "level": 80,
+        "points": {
+          "talent.necromancer.animation.animate-skeletal-archer": 1,
+          "talent.necromancer.animation.mindless-fury": 1,
+          "talent.necromancer.animation.skeletal-artillery": 2,
+          "talent.necromancer.animation.tomb-king": 1
+        },
+        "points_available": 36,
+        "points_unspent": 31,
+        "rotation_60s": [
+          "00.0:animate-skeletal-archer",
+          "10.0:command-skeletal-archers",
+          "20.0:command-skeletal-archers",
+          "30.0:animate-tomb-king",
+          "30.1:tomb-king-plague-aura",
+          "40.0:command-skeletal-archers",
+          "50.0:command-skeletal-archers"
+        ]
+      },
+      {
+        "essences": [
+          "essence.necromancer.animation.summoning-adept",
+          "essence.necromancer.animation.summoning-expert",
+          "essence.necromancer.animation.grave-mastery"
+        ],
+        "essences_available": 3,
+        "essences_unspent": 0,
+        "expected_damage_tags": [
+          "archer-shot",
+          "area-shadow",
+          "bonestorm"
+        ],
+        "key": "animation-archer-bone-wraith",
+        "level": 80,
+        "points": {
+          "talent.necromancer.animation.animate-skeletal-archer": 1,
+          "talent.necromancer.animation.bone-wraith": 1,
+          "talent.necromancer.animation.mindless-fury": 1,
+          "talent.necromancer.animation.skeletal-artillery": 2
+        },
+        "points_available": 36,
+        "points_unspent": 31,
+        "rotation_60s": [
+          "00.0:animate-skeletal-archer",
+          "10.0:command-skeletal-archers",
+          "20.0:command-skeletal-archers",
+          "30.0:animate-bone-wraith",
+          "30.0:bone-wraith-bonestorm",
+          "30.5:bone-wraith-bonestorm-tick",
+          "31.0:bone-wraith-bonestorm-tick",
+          "31.5:bone-wraith-bonestorm-tick",
+          "32.0:bone-wraith-bonestorm-tick",
+          "32.5:bone-wraith-bonestorm-tick",
+          "33.0:bone-wraith-bonestorm-tick",
+          "33.5:bone-wraith-bonestorm-tick",
+          "34.0:bone-wraith-bonestorm-tick",
+          "34.5:bone-wraith-bonestorm-tick",
+          "35.0:bone-wraith-bonestorm-tick",
+          "40.0:command-skeletal-archers",
+          "50.0:command-skeletal-archers"
+        ]
+      }
+    ],
+    "tree.necromancer.class": [
+      {
+        "essences": [
+          "talent.necromancer.class.colossus-covenant",
+          "talent.necromancer.class.banshee-covenant",
+          "talent.necromancer.class.wyrm-covenant"
+        ],
+        "essences_available": 3,
+        "essences_unspent": 0,
+        "key": "shared-command-and-disease",
+        "level": 80,
+        "points": {
+          "talent.necromancer.class.blackened-script": 5,
+          "talent.necromancer.class.carrion-lore": 5,
+          "talent.necromancer.class.deaths-conduit": 5,
+          "talent.necromancer.class.grave-orders": 5,
+          "talent.necromancer.class.gravecraft": 5,
+          "talent.necromancer.class.master-of-the-crypt": 5,
+          "talent.necromancer.class.ossuary-guard": 5
+        },
+        "points_available": 35,
+        "points_unspent": 0
+      },
+      {
+        "essences": [
+          "talent.necromancer.class.colossus-covenant",
+          "talent.necromancer.class.banshee-covenant",
+          "talent.necromancer.class.wyrm-covenant"
+        ],
+        "essences_available": 3,
+        "essences_unspent": 0,
+        "key": "shared-summon-and-survival",
+        "level": 80,
+        "points": {
+          "talent.necromancer.class.blackened-script": 5,
+          "talent.necromancer.class.cold-reliquary": 5,
+          "talent.necromancer.class.deaths-conduit": 5,
+          "talent.necromancer.class.grave-orders": 5,
+          "talent.necromancer.class.gravecraft": 5,
+          "talent.necromancer.class.master-of-the-crypt": 5,
+          "talent.necromancer.class.ossuary-guard": 5
+        },
+        "points_available": 35,
+        "points_unspent": 0
+      }
+    ],
+    "tree.necromancer.death": [
+      {
+        "essences": [
+          "talent.necromancer.death.plague-sovereign",
+          "talent.necromancer.death.mutagenic-apex",
+          "talent.necromancer.death.lichplague-crown"
+        ],
+        "essences_available": 3,
+        "essences_unspent": 0,
+        "key": "death-plague-relay",
+        "level": 80,
+        "points": {
+          "talent.necromancer.death.accelerated-decay": 5,
+          "talent.necromancer.death.crowning-pestilence": 5,
+          "talent.necromancer.death.executioners-fever": 5,
+          "talent.necromancer.death.final-reaping": 5,
+          "talent.necromancer.death.mortal-ledger": 5,
+          "talent.necromancer.death.plague-relay": 5,
+          "talent.necromancer.death.swarm-hunger": 5,
+          "talent.necromancer.death.wormrot": 1
+        },
+        "points_available": 36,
+        "points_unspent": 0
+      },
+      {
+        "essences": [
+          "talent.necromancer.death.plague-sovereign",
+          "talent.necromancer.death.mutagenic-apex",
+          "talent.necromancer.death.lichplague-crown"
+        ],
+        "essences_available": 3,
+        "essences_unspent": 0,
+        "key": "death-execution-fever",
+        "level": 80,
+        "points": {
+          "talent.necromancer.death.accelerated-decay": 1,
+          "talent.necromancer.death.crowning-pestilence": 5,
+          "talent.necromancer.death.executioners-fever": 5,
+          "talent.necromancer.death.final-reaping": 5,
+          "talent.necromancer.death.mortal-ledger": 5,
+          "talent.necromancer.death.plague-relay": 5,
+          "talent.necromancer.death.swarm-hunger": 5,
+          "talent.necromancer.death.wormrot": 5
+        },
+        "points_available": 36,
+        "points_unspent": 0
+      }
+    ]
+  }
+}

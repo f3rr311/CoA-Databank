@@ -1,0 +1,8 @@
+{
+  "name_enus": "Symbol of the Warspear",
+  "icon": "inv_banner_warspear",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Symbol of the Warspear</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">You are marked by the Warspear symbol, granting 10% increased attack power to party and raid members. Does not stack with similar effects.<br /><br />In addition, reduces the cooldown of <span style=\"color: #ffffff;\">Spears</span> by 2 sec.</span></td></tr></table><!--?804730:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

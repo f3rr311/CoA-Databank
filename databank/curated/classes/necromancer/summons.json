@@ -1,0 +1,170 @@
+{
+  "summons": [
+    {
+      "ai_mode": "controlled-undead-guardian",
+      "animations": [
+        {
+          "manifest_key": "asset.animation.animation.bone-wraith"
+        }
+      ],
+      "bounding_radius": 0.35,
+      "combat_reach": 1.5,
+      "control_mode": "specific-command-spell",
+      "corpse_rule": "Leave no persistent lootable corpse.",
+      "creature_template": {
+        "key": "system.creature.skeleton-template",
+        "kind": "system"
+      },
+      "despawn_rule": "Despawn at the exact 15-second temporary summon duration.",
+      "display": {
+        "manifest_key": "asset.display.animation.bone-wraith"
+      },
+      "duration_rule": "Temporary 15-second formation.",
+      "faction_rule": "Guardian ownership supplies faction and hostility.",
+      "key": "summon.necromancer.bone-wraith",
+      "level_formula": "owner_level",
+      "model": {
+        "manifest_key": "asset.model.animation.bone-wraith"
+      },
+      "movement_rule": "Follow the owner and execute only the authored owned-batch commands.",
+      "owner_rule": "The summoning player remains the authoritative owner.",
+      "pet_bar_spell_keys": [
+        "spell.necromancer.animation.bone-wraith-bonestorm"
+      ],
+      "provenance": {
+        "authoring_rationale": "Joined to the accepted playable presentation and runtime closure without copying evidence status fields.",
+        "kind": "recovered",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#accepted-creature-row:50309",
+          "content/classes/necromancer/sources/animation-c13-closure.json#accepted-creature-display-chain:50309->8782->144"
+        ]
+      },
+      "relog_rule": "Do not restore this temporary formation after logout.",
+      "reservation_rule": "No unbound Life Force reservation is claimed.",
+      "scale": 1.0,
+      "schema_version": "1.0.0",
+      "sounds": [
+        {
+          "not_applicable_reason": "The accepted presentation closure supplies model-family sounds without a separate authored sound asset."
+        }
+      ],
+      "spawn_rule": "Spawn only through the accepted semantic Animate spell.",
+      "stat_formula": "owner-scaled temporary undead",
+      "status": "compiles",
+      "texture": {
+        "manifest_key": "asset.texture.animation.bone-wraith"
+      }
+    },
+    {
+      "ai_mode": "controlled-undead-guardian",
+      "animations": [
+        {
+          "manifest_key": "asset.animation.animation.skeletal-archer"
+        }
+      ],
+      "bounding_radius": 0.35,
+      "combat_reach": 1.5,
+      "control_mode": "specific-command-spell",
+      "corpse_rule": "Leave no persistent lootable corpse.",
+      "creature_template": {
+        "key": "system.creature.skeleton-template",
+        "kind": "system"
+      },
+      "despawn_rule": "Despawn at the exact 15-second temporary summon duration.",
+      "display": {
+        "manifest_key": "asset.display.animation.skeletal-archer"
+      },
+      "duration_rule": "Temporary 15-second formation.",
+      "faction_rule": "Guardian ownership supplies faction and hostility.",
+      "key": "summon.necromancer.skeletal-archer",
+      "level_formula": "owner_level",
+      "model": {
+        "manifest_key": "asset.model.animation.skeletal-archer"
+      },
+      "movement_rule": "Follow the owner and execute only the authored owned-batch commands.",
+      "owner_rule": "The summoning player remains the authoritative owner.",
+      "pet_bar_spell_keys": [
+        "spell.necromancer.animation.command-skeletal-archers"
+      ],
+      "provenance": {
+        "authoring_rationale": "Uses the pinned stock Scourge Archer display and bow after the custom Maldraxxus skeleton failed real-client ranged-minion acceptance.",
+        "kind": "reconstructed",
+        "source_references": [
+          ".work/azerothcore/data/sql/base/db_world/creature_template.sql#entry=14489",
+          ".work/azerothcore/data/sql/base/db_world/creature_template_model.sql#creature=14489",
+          ".work/azerothcore/data/sql/base/db_world/creature_equip_template.sql#creature=14489;id=1"
+        ]
+      },
+      "relog_rule": "Do not restore this temporary formation after logout.",
+      "reservation_rule": "No unbound Life Force reservation is claimed.",
+      "scale": 1.0,
+      "schema_version": "1.0.0",
+      "sounds": [
+        {
+          "not_applicable_reason": "The accepted presentation closure supplies model-family sounds without a separate authored sound asset."
+        }
+      ],
+      "spawn_rule": "Spawn only through the accepted semantic Animate spell.",
+      "stat_formula": "owner-scaled temporary undead",
+      "status": "compiles",
+      "texture": {
+        "manifest_key": "asset.texture.animation.skeletal-archer"
+      }
+    },
+    {
+      "ai_mode": "controlled-undead-guardian",
+      "animations": [
+        {
+          "manifest_key": "asset.animation.animation.tomb-king"
+        }
+      ],
+      "bounding_radius": 0.35,
+      "combat_reach": 1.5,
+      "control_mode": "specific-command-spell",
+      "corpse_rule": "Leave no persistent lootable corpse.",
+      "creature_template": {
+        "key": "system.creature.skeleton-template",
+        "kind": "system"
+      },
+      "despawn_rule": "Despawn at the exact 15-second temporary summon duration.",
+      "display": {
+        "manifest_key": "asset.display.animation.tomb-king"
+      },
+      "duration_rule": "Temporary 15-second formation.",
+      "faction_rule": "Guardian ownership supplies faction and hostility.",
+      "key": "summon.necromancer.tomb-king",
+      "level_formula": "owner_level",
+      "model": {
+        "manifest_key": "asset.model.animation.tomb-king"
+      },
+      "movement_rule": "Follow the owner and execute only the authored owned-batch commands.",
+      "owner_rule": "The summoning player remains the authoritative owner.",
+      "pet_bar_spell_keys": [
+        "spell.necromancer.animation.tomb-king-plague-aura"
+      ],
+      "provenance": {
+        "authoring_rationale": "Joined to the accepted playable presentation and runtime closure without copying evidence status fields.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json#accepted-creature-row:50320",
+          "content/classes/necromancer/sources/animation-c13-closure.json#binding.bytecoa.necromancer.tomb-king"
+        ]
+      },
+      "relog_rule": "Do not restore this temporary formation after logout.",
+      "reservation_rule": "No unbound Life Force reservation is claimed.",
+      "scale": 0.35,
+      "schema_version": "1.0.0",
+      "sounds": [
+        {
+          "not_applicable_reason": "The accepted presentation closure supplies model-family sounds without a separate authored sound asset."
+        }
+      ],
+      "spawn_rule": "Spawn only through the accepted semantic Animate spell.",
+      "stat_formula": "owner-scaled temporary undead",
+      "status": "compiles",
+      "texture": {
+        "manifest_key": "asset.texture.animation.tomb-king"
+      }
+    }
+  ]
+}

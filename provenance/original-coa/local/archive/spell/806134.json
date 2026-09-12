@@ -1,0 +1,8 @@
+{
+  "name_enus": "Standard Bearer",
+  "icon": "inv_banner_02",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Standard Bearer</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the range of <span style=\"color: #FFFFFF;\">Standards</span> by 10 yds and increases the effectiveness of your <span style=\"color: #FFFFFF;\">Honor</span> by 20%.</span></td></tr></table><!--?806134:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

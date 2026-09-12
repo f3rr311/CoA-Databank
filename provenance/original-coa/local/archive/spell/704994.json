@@ -1,0 +1,8 @@
+{
+  "name_enus": "Xorothian Empowerment",
+  "icon": "achievement_firelands_raid_ragnaros",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Xorothian Empowerment</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the attack power of all party and raid members 5%. Does not stack with similar effects.</span></td></tr></table><!--?704994:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

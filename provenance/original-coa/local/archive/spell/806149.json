@@ -1,0 +1,8 @@
+{
+  "name_enus": "Damnation",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Damnation</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases your Shadow damage by 5%, doubled against enemies below 35% health.</span></td></tr></table><!--?806149:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

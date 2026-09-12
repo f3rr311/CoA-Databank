@@ -1,0 +1,52 @@
+Pyromancer Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Pyromancer Overview
+ Pyromancers deliver raw fire power through the Ignition mechanic. Incineration focuses on devastating burst and DoTs, Draconic transforms you into a mobile dragon-casting assassin, and Flameweaving introduces a rare fire-based healer path. Pyromancers shine in dungeons and PvP burst windows.
+ Master of flame who channels destructive fire magic — or phoenix healing — to incinerate foes or mend allies.
+ Class Mechanic — Ignition
+ Pyromancers build heat through spellcasting, unlocking empowered fire abilities at higher ignition levels.
+ Pyromancer uses Mana as its primary resource and wears Cloth armor.
+ Specializations
+ At level 10, Pyromancer players choose one of three specializations, each offering a distinct playstyle:
+ Incineration: Burn enemies to cinders with powerful direct damage spells, meteors, and fire DoTs like Ignite and Blaze.
+ Draconic: Embrace the Black Dragonflight as a mobile magical assassin with draconic breaths and a red dragon ascension form.
+ Flameweaving: DPS-healer hybrid leaving trails of flame that mend allies and damage enemies, summoning a Phoenix pet.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: High burst damage
+ Strength: Strong AoE potential
+ Strength: Flameweaving offers unique healing path
+ Weakness: Cloth armor vulnerability
+ Weakness: Mana management in long fights
+ Weakness: Draconic requires close-range positioning
+ Leveling Tips
+ Incineration simplifies early leveling with natural AoE. Keep Ignition stacked during pulls. Flameweaving becomes valuable once you join dungeon groups.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Incineration dominates arena burst windows. Draconic mobile assassin gameplay catches healers off guard in small arenas.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Pyromancer in Conquest of Azeroth? Pyromancer is a Ranged DPS / Healer class wearing Cloth armor with Mana as its resource.
+ What is the Ignition mechanic? Pyromancers build heat through spellcasting, unlocking empowered fire abilities at higher ignition levels.
+ When do Pyromancer specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Pyromancer good for beginners? Pyromancer has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Pyromancer have? Pyromancer has three specializations: Incineration, Draconic, Flameweaving.

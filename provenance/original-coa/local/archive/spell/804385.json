@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cosmic Crown",
+  "icon": "inv_jewelcrafting_70_cutgem03_blue",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Cosmic Crown</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td>Requires Armor<br /><span class=\"q\">Increases the duration of <span style=\"color: #ffffff;\">Aegis</span> spells by 3 sec.</span></td></tr></table><!--?804385:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

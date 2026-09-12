@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rage of Bethekk",
+  "icon": "ability_upgrademoonglaive",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Rage of Bethekk</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>2% of base mana<br />Instant</td></tr></table><table><tr><td>Requires Ranged Weapon<br /><span class=\"q\"><span style=\"color: #ffffff;\">Consumes Shadow Marks</span><br /><span style=\"color: #ffffff;\">Invokes Bethekk</span><br />Slash an enemy for 50% Weapon damage plus 7 to 8 Physical damage, increased by 0% for each <span style=\"color: #ffffff;\">Shadow Mark</span> consumed.</span></td></tr></table><!--?801672:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

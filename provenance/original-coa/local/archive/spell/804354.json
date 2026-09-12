@@ -1,0 +1,8 @@
+{
+  "name_enus": "Black Skull Shield",
+  "icon": "inv_shield_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Black Skull Shield</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the Rage cost of <span style=\"color: #ffffff;\">Shieldgore</span> by 5 and increases its damage by 25%.</span></td></tr></table><!--?804354:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

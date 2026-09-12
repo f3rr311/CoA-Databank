@@ -1,0 +1,823 @@
+{
+ "build": {
+  "id": "9c593168-2745-4972-aa1f-23266e0999f9",
+  "title": "THE runeGOD",
+  "description": "[overview]\nYo just blow dat sheit up mang\n\nwsp Zyzx ingame if you wanna discuss\n\n<Infamous> Is a small tight knit guild looking for more friends to do endgame raids and PvP! Looking to field a 15-25 man raid team for casual raids and progression. Whisper for an invite.\n\n[talents]\nThe riftblade capstones are worthless compared to taking both spellfire runes and elemental inscription and having near 24/7 upkeep on zenith as well as constant smolders.\n\n[rotation]\nsmash buttons until they ded, upkeep zenith\n\nweapon engraving air for single target\n\nweapon engraving earth + primordial fury for aoe\n\nWater tattoos to max mana, otherwise stay on fire tattoos (not weapon engraving)\n\n[stats]\nagi obviously\n\n[gear]\nthe biggest slowest fuckoffest twohander. Makes weapon engraving air go giga on single target.",
+  "class_id": 32,
+  "spec_id": 86,
+  "author_id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+  "talent_string": "W1siMzItODYtNC0wIiwxXSxbIjMyLTg2LTYtMSIsMl0sWyIzMi04Ni0yLTEiLDFdLFsiMzItODYtNy0yIiwxXSxbIjMyLTg2LTEtMiIsMV0sWyIzMi04Ni03LTMiLDFdLFsiMzItODYtMS0zIiwyXSxbIjMyLTg2LTAtNGEiLDFdLFsiMzItODYtNi00IiwyXSxbIjMyLTg2LTctNSIsMV0sWyIzMi04Ni02LTYiLDFdLFsiMzItODYtNS03IiwxXSxbIjMyLTg2LTQtNSIsMV0sWyIzMi04Ni00LTYiLDFdLFsiMzItODYtMi00IiwxXSxbIjMyLTg2LTItNmEiLDFdLFsiMzItODYtMS03IiwxXSxbIjMyLTg2LTMtNyIsMV0sWyIzMi04Ni04LTQiLDFdLFsiMzItODYtNC04IiwxXSxbIjMyLTg2LTYtOCIsMV0sWyIzMi04Ny02LTAiLDFdLFsiMzItODctNC0wIiwxXSxbIjMyLTg3LTItMCIsMV0sWyIzMi04Ny0xLTEiLDFdLFsiMzItODctNS0xIiwxXSxbIjMyLTg3LTMtMSIsMl0sWyIzMi04Ny0yLTIiLDFdLFsiMzItODctMC0zIiwxXSxbIjMyLTg3LTAtNCIsMV0sWyIzMi04Ny02LTIiLDFdLFsiMzItODctMS01IiwyXSxbIjMyLTg3LTItNiIsMV0sWyIzMi04Ny0zLTciLDFdLFsiMzItODctNi00IiwxXSxbIjMyLTg3LTUtNSIsMV0sWyIzMi04Ny00LTZiIiwxXSxbIjMyLTg3LTUtNyIsMV0sWyIzMi04Ny03LTUiLDFdLFsiMzItODctMi00YSIsMV0sWyIzMi04Ny0zLTUiLDFdLFsiMzItODctNy0xIiwxXSxbIjMyLTg3LTgtMyIsMV0sWyIzMi04Ny00LTgiLDFdLFsiMzItODctNC05IiwxXSxbIjMyLTg2LTQtMmIiLDFdXQ",
+  "tags": [
+   "raid",
+   "dps",
+   "pve",
+   "aoe",
+   "single-target"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 5,
+  "downvotes": 0,
+  "comment_count": 7,
+  "created_at": "2026-07-17T19:31:10.08268+00:00",
+  "updated_at": "2026-07-24T00:10:45.702+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 7716,
+  "net_score": 5,
+  "has_talents": true,
+  "guide_section_count": 5,
+  "author": {
+   "id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+   "username": "zyzx",
+   "avatar_url": "https://cdn.discordapp.com/avatars/160919726955036672/a701ead2d96f549ded297650a1b01624.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "7e11fa04-13ef-4821-9b81-afc96a11ec75",
+   "build_id": "9c593168-2745-4972-aa1f-23266e0999f9",
+   "author_id": "749812ff-343f-4f9e-9e10-d030c6346254",
+   "parent_id": null,
+   "body": "Is this build viable to leveling?",
+   "upvotes": 0,
+   "created_at": "2026-07-20T13:18:20.106595+00:00",
+   "updated_at": "2026-07-20T13:18:20.106595+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "749812ff-343f-4f9e-9e10-d030c6346254",
+    "username": "Davi Bezerra",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKSb9l1zxXOKAMC9x9tkUBb1m-RpSoPAfYWdEp_HA-yjW471oBI=s96-c"
+   }
+  },
+  {
+   "id": "f49263c7-2b44-42e0-be7d-96fb22b7f56f",
+   "build_id": "9c593168-2745-4972-aa1f-23266e0999f9",
+   "author_id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+   "parent_id": "7e11fa04-13ef-4821-9b81-afc96a11ec75",
+   "body": "Yeah ofc",
+   "upvotes": 0,
+   "created_at": "2026-07-21T17:20:21.798019+00:00",
+   "updated_at": "2026-07-21T17:20:21.798019+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "4186c2cf-d686-4ecf-8228-6820761324a5",
+    "username": "zyzx",
+    "avatar_url": "https://cdn.discordapp.com/avatars/160919726955036672/a701ead2d96f549ded297650a1b01624.png"
+   }
+  },
+  {
+   "id": "61e36eab-226b-4036-bc0b-555f34e5cd30",
+   "build_id": "9c593168-2745-4972-aa1f-23266e0999f9",
+   "author_id": "334820fb-da65-496d-8bb1-578115079232",
+   "parent_id": null,
+   "body": "Does this build actually do more DPS than Engraving and the Cheese Fracture version of the build?",
+   "upvotes": 0,
+   "created_at": "2026-07-21T22:13:10.521456+00:00",
+   "updated_at": "2026-07-21T22:13:10.521456+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "334820fb-da65-496d-8bb1-578115079232",
+    "username": "simz1997",
+    "avatar_url": "https://cdn.discordapp.com/avatars/198300953890390017/a_0811ff2344862b8d176ea4fc741ce7f0.gif"
+   }
+  },
+  {
+   "id": "513ebd21-91fd-4f2d-82b4-030abf8852c0",
+   "build_id": "9c593168-2745-4972-aa1f-23266e0999f9",
+   "author_id": "60714655-d75e-4785-b584-9a49a2da6537",
+   "parent_id": "61e36eab-226b-4036-bc0b-555f34e5cd30",
+   "body": "Try and find out. It's too early to say that. But finewise i enjoy this more.",
+   "upvotes": 0,
+   "created_at": "2026-07-21T22:27:47.417565+00:00",
+   "updated_at": "2026-07-21T22:27:47.417565+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "60714655-d75e-4785-b584-9a49a2da6537",
+    "username": ".ck93",
+    "avatar_url": "https://cdn.discordapp.com/avatars/557686735929344010/7d53adb3a377402101555abc8dd34d88.png"
+   }
+  },
+  {
+   "id": "f2c29975-a9ea-4884-b134-ec0701300a82",
+   "build_id": "9c593168-2745-4972-aa1f-23266e0999f9",
+   "author_id": "a8e876cd-ba1f-4001-8c66-a269133fd11a",
+   "parent_id": null,
+   "body": "Is it possible to know what skills and more details to use for Rotations? :) I just picked up this build today and looking forward to playing it \n\nThanks",
+   "upvotes": 0,
+   "created_at": "2026-07-22T13:29:37.386105+00:00",
+   "updated_at": "2026-07-22T13:29:37.386105+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "a8e876cd-ba1f-4001-8c66-a269133fd11a",
+    "username": "myakusan",
+    "avatar_url": "https://cdn.discordapp.com/avatars/170524726433808384/0ef02f5e55e430974011010862a7fc5a.png"
+   }
+  },
+  {
+   "id": "31944a58-2522-4b34-b5c8-068fd9d41a04",
+   "build_id": "9c593168-2745-4972-aa1f-23266e0999f9",
+   "author_id": "5b42d0bb-333b-4704-9c9e-a2f8b4e0a8b2",
+   "parent_id": null,
+   "body": "it's viable for pvp? I'm kinda suck at this job atm . witch doctor is one shooting me and cant take half life of mages at lvl 15",
+   "upvotes": 0,
+   "created_at": "2026-07-24T04:06:48.457852+00:00",
+   "updated_at": "2026-07-24T04:06:48.457852+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "5b42d0bb-333b-4704-9c9e-a2f8b4e0a8b2",
+    "username": "kumeno0963",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1427774330053591092/6d25f2e10937c2cea65b32aa55e72a46.png"
+   }
+  },
+  {
+   "id": "65b38b17-d131-4024-a184-df106c0a3892",
+   "build_id": "9c593168-2745-4972-aa1f-23266e0999f9",
+   "author_id": "34b70b01-d76a-4d54-9496-32b9ef0e6288",
+   "parent_id": null,
+   "body": "Zyzx, if you use bisbeard gear planner can you tell me what input values for stats you put into it to generate our bis gear? Thats something im confused with at the moment.",
+   "upvotes": 0,
+   "created_at": "2026-07-28T17:11:57.013102+00:00",
+   "updated_at": "2026-07-28T17:11:57.013102+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "34b70b01-d76a-4d54-9496-32b9ef0e6288",
+    "username": "Ty Maida",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLsqC9UfwPvpGyPJ-iJkWDC6639bkRf-EwCpLYWH25VnCzxJQ=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "8c73e1e4-17b0-4a02-aae9-db2be4d5a4ea",
+   "title": "Guia Glyphic Runemaster (pt-br)",
+   "class_id": 32,
+   "spec_id": 11,
+   "author_id": "717a468a-bcce-41c7-a390-348295709b31",
+   "tags": [
+    "raid",
+    "aoe",
+    "guide",
+    "leveling"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 1,
+   "view_count": 483,
+   "featured": false,
+   "created_at": "2026-07-25T00:49:31.78586+00:00",
+   "updated_at": "2026-07-25T01:46:06.08+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "717a468a-bcce-41c7-a390-348295709b31",
+    "username": "Caio Bruno Costa Loureiro",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLgihMFWtmef0VRGjvguZK5cZs-GXknb5FzvfaiU3aPyNk3bD8=s96-c"
+   }
+  },
+  {
+   "id": "dca788b3-5300-440f-92e9-f0f6d118956a",
+   "title": "Runemaster PvE Engravement - AoE + Single Target",
+   "class_id": 32,
+   "spec_id": 85,
+   "author_id": "1cd4413c-2d8a-430a-89ad-db77910934f4",
+   "tags": [
+    "aoe",
+    "single target",
+    "mythic",
+    "engravement",
+    "raid"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2108,
+   "featured": false,
+   "created_at": "2026-07-22T00:24:36.606922+00:00",
+   "updated_at": "2026-07-22T00:28:13.848+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "1cd4413c-2d8a-430a-89ad-db77910934f4",
+    "username": "Feels",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLJsjQZO-JSFXz2RBWlvwL6_cx6NU_l9K4f-AXDyRsFT3CePw=s96-c"
+   }
+  },
+  {
+   "id": "00510d7a-feaa-4afd-82da-72816ae85ecd",
+   "title": "Runemaster Riftblade PvP build",
+   "class_id": 32,
+   "spec_id": 86,
+   "author_id": "9614dba2-698f-41f8-9cfe-50164820f285",
+   "tags": [
+    "PvP",
+    "High Risk",
+    "War Mode",
+    "Open World",
+    "Battleground",
+    "Battlegrounds",
+    "BG",
+    "Arena",
+    "Riftblade",
+    "Runemaster"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 3353,
+   "featured": false,
+   "created_at": "2026-07-19T01:21:56.435678+00:00",
+   "updated_at": "2026-07-29T01:00:15.242+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "9614dba2-698f-41f8-9cfe-50164820f285",
+    "username": "hrup",
+    "avatar_url": "https://cdn.discordapp.com/avatars/92835265051136000/1edee95b14b29f70aa420a43dc716fa0.png"
+   }
+  }
+ ],
+ "class": "Runemaster",
+ "spec": "Riftblade",
+ "allocations": [
+  [
+   "32-86-4-0",
+   1
+  ],
+  [
+   "32-86-6-1",
+   2
+  ],
+  [
+   "32-86-2-1",
+   1
+  ],
+  [
+   "32-86-7-2",
+   1
+  ],
+  [
+   "32-86-1-2",
+   1
+  ],
+  [
+   "32-86-7-3",
+   1
+  ],
+  [
+   "32-86-1-3",
+   2
+  ],
+  [
+   "32-86-0-4a",
+   1
+  ],
+  [
+   "32-86-6-4",
+   2
+  ],
+  [
+   "32-86-7-5",
+   1
+  ],
+  [
+   "32-86-6-6",
+   1
+  ],
+  [
+   "32-86-5-7",
+   1
+  ],
+  [
+   "32-86-4-5",
+   1
+  ],
+  [
+   "32-86-4-6",
+   1
+  ],
+  [
+   "32-86-2-4",
+   1
+  ],
+  [
+   "32-86-2-6a",
+   1
+  ],
+  [
+   "32-86-1-7",
+   1
+  ],
+  [
+   "32-86-3-7",
+   1
+  ],
+  [
+   "32-86-8-4",
+   1
+  ],
+  [
+   "32-86-4-8",
+   1
+  ],
+  [
+   "32-86-6-8",
+   1
+  ],
+  [
+   "32-87-6-0",
+   1
+  ],
+  [
+   "32-87-4-0",
+   1
+  ],
+  [
+   "32-87-2-0",
+   1
+  ],
+  [
+   "32-87-1-1",
+   1
+  ],
+  [
+   "32-87-5-1",
+   1
+  ],
+  [
+   "32-87-3-1",
+   2
+  ],
+  [
+   "32-87-2-2",
+   1
+  ],
+  [
+   "32-87-0-3",
+   1
+  ],
+  [
+   "32-87-0-4",
+   1
+  ],
+  [
+   "32-87-6-2",
+   1
+  ],
+  [
+   "32-87-1-5",
+   2
+  ],
+  [
+   "32-87-2-6",
+   1
+  ],
+  [
+   "32-87-3-7",
+   1
+  ],
+  [
+   "32-87-6-4",
+   1
+  ],
+  [
+   "32-87-5-5",
+   1
+  ],
+  [
+   "32-87-4-6b",
+   1
+  ],
+  [
+   "32-87-5-7",
+   1
+  ],
+  [
+   "32-87-7-5",
+   1
+  ],
+  [
+   "32-87-2-4a",
+   1
+  ],
+  [
+   "32-87-3-5",
+   1
+  ],
+  [
+   "32-87-7-1",
+   1
+  ],
+  [
+   "32-87-8-3",
+   1
+  ],
+  [
+   "32-87-4-8",
+   1
+  ],
+  [
+   "32-87-4-9",
+   1
+  ],
+  [
+   "32-86-4-2b",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "32-86-4-0",
+   "points": 1,
+   "name": "Smolder",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 801087
+  },
+  {
+   "id": "32-86-6-1",
+   "points": 2,
+   "name": "Unbound Energy",
+   "maxPoints": 2,
+   "tree": "Riftblade",
+   "spellId": 705570
+  },
+  {
+   "id": "32-86-2-1",
+   "points": 1,
+   "name": "Runic Omen",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705580
+  },
+  {
+   "id": "32-86-7-2",
+   "points": 1,
+   "name": "Hoarfrost",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 801104
+  },
+  {
+   "id": "32-86-1-2",
+   "points": 1,
+   "name": "Hurricane",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 645435
+  },
+  {
+   "id": "32-86-7-3",
+   "points": 1,
+   "name": "Runic Invocation",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 807204
+  },
+  {
+   "id": "32-86-1-3",
+   "points": 2,
+   "name": "Spellblade",
+   "maxPoints": 2,
+   "tree": "Riftblade",
+   "spellId": 705540
+  },
+  {
+   "id": "32-86-0-4a",
+   "points": 1,
+   "name": "Wind Runes",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706672
+  },
+  {
+   "id": "32-86-6-4",
+   "points": 2,
+   "name": "Frost Spectre",
+   "maxPoints": 2,
+   "tree": "Riftblade",
+   "spellId": 560039
+  },
+  {
+   "id": "32-86-7-5",
+   "points": 1,
+   "name": "Elements, Heed My Call!",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706670
+  },
+  {
+   "id": "32-86-6-6",
+   "points": 1,
+   "name": "Primordial Echoes",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705572
+  },
+  {
+   "id": "32-86-5-7",
+   "points": 1,
+   "name": "Frostburn",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705594
+  },
+  {
+   "id": "32-86-4-5",
+   "points": 1,
+   "name": "Primordial Fury",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 806543
+  },
+  {
+   "id": "32-86-4-6",
+   "points": 1,
+   "name": "Elemental Acuity",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706671
+  },
+  {
+   "id": "32-86-2-4",
+   "points": 1,
+   "name": "Residual Power",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 560040
+  },
+  {
+   "id": "32-86-2-6a",
+   "points": 1,
+   "name": "Windbreaker",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 804094
+  },
+  {
+   "id": "32-86-1-7",
+   "points": 1,
+   "name": "Swift Etching",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 705600
+  },
+  {
+   "id": "32-86-3-7",
+   "points": 1,
+   "name": "Runic Power",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 300944
+  },
+  {
+   "id": "32-86-8-4",
+   "points": 1,
+   "name": "Leyfrost",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 712308
+  },
+  {
+   "id": "32-86-4-8",
+   "points": 1,
+   "name": "Spellfire Runes",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 801511
+  },
+  {
+   "id": "32-86-6-8",
+   "points": 1,
+   "name": "Elemental Inscription",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 806737
+  },
+  {
+   "id": "32-87-6-0",
+   "points": 1,
+   "name": "Warpdagger",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500287
+  },
+  {
+   "id": "32-87-4-0",
+   "points": 1,
+   "name": "Glacial Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 807842
+  },
+  {
+   "id": "32-87-2-0",
+   "points": 1,
+   "name": "Zenith",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 712325
+  },
+  {
+   "id": "32-87-1-1",
+   "points": 1,
+   "name": "Ley Constitution",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705562
+  },
+  {
+   "id": "32-87-5-1",
+   "points": 1,
+   "name": "Runic Tattoos",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 800736
+  },
+  {
+   "id": "32-87-3-1",
+   "points": 2,
+   "name": "Mystical Etchings",
+   "maxPoints": 2,
+   "tree": "Runemaster (class tree)",
+   "spellId": 806795
+  },
+  {
+   "id": "32-87-2-2",
+   "points": 1,
+   "name": "Speed Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 801103
+  },
+  {
+   "id": "32-87-0-3",
+   "points": 1,
+   "name": "Runic Affinity",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705621
+  },
+  {
+   "id": "32-87-0-4",
+   "points": 1,
+   "name": "Ancient Teachings",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 806797
+  },
+  {
+   "id": "32-87-6-2",
+   "points": 1,
+   "name": "Phase Out",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 500671
+  },
+  {
+   "id": "32-87-1-5",
+   "points": 2,
+   "name": "Speedy Attuner",
+   "maxPoints": 2,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705554
+  },
+  {
+   "id": "32-87-2-6",
+   "points": 1,
+   "name": "Master Engraver",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705605
+  },
+  {
+   "id": "32-87-3-7",
+   "points": 1,
+   "name": "Unbound",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 806718
+  },
+  {
+   "id": "32-87-6-4",
+   "points": 1,
+   "name": "Prismatic Flow",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 705581
+  },
+  {
+   "id": "32-87-5-5",
+   "points": 1,
+   "name": "Warding Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804232
+  },
+  {
+   "id": "32-87-4-6b",
+   "points": 1,
+   "name": "Master of Runes",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804531
+  },
+  {
+   "id": "32-87-5-7",
+   "points": 1,
+   "name": "Glyphs of Power",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520145
+  },
+  {
+   "id": "32-87-7-5",
+   "points": 1,
+   "name": "Primordialism",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520054
+  },
+  {
+   "id": "32-87-2-4a",
+   "points": 1,
+   "name": "Elemental Secrets",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 707149
+  },
+  {
+   "id": "32-87-3-5",
+   "points": 1,
+   "name": "Permafrost Rune",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 804060
+  },
+  {
+   "id": "32-87-7-1",
+   "points": 1,
+   "name": "Warpmaster",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 560992
+  },
+  {
+   "id": "32-87-8-3",
+   "points": 1,
+   "name": "Blade Rift",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 520237
+  },
+  {
+   "id": "32-87-4-8",
+   "points": 1,
+   "name": "Elements of Fury",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 707413
+  },
+  {
+   "id": "32-87-4-9",
+   "points": 1,
+   "name": "Convergence",
+   "maxPoints": 1,
+   "tree": "Runemaster (class tree)",
+   "spellId": 801086
+  },
+  {
+   "id": "32-86-4-2b",
+   "points": 1,
+   "name": "Cinderstorm Runes",
+   "maxPoints": 1,
+   "tree": "Riftblade",
+   "spellId": 706458
+  }
+ ]
+}

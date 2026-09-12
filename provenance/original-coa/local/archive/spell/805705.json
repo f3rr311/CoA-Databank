@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spite",
+  "icon": "spell_shadow_demonicfortitude",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spite</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the duration of <span style=\"color: #ffffff;\">Burning Scripture</span> by 5 sec.</span></td></tr></table><!--?805705:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

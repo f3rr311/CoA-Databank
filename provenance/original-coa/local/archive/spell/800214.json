@@ -1,0 +1,8 @@
+{
+  "name_enus": "Malice of Gul'dan",
+  "icon": "achievement_thenighthold_guldan",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Malice of Gul'dan</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Direct critical strikes now have a 60% chance to trigger a <span style=\"color: #ffffff;\">Felstrike</span> and generate a <span style=\"color: #ffffff;\">Fragment of Malice</span>.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/_soulfire_green.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=802678'> Felstrike </a> <br />\n                            <span> Burn an enemy for (6*1000/1)*(9+0+SP*.05) Shadowflame Damage over 6&nbsp;sec, stacking 3 times.</span><br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_misc_skullofguldanshattered.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=800239'> Fragment of Malice </a> <br />\n                            <span> Restores 5 Energy and increases your critical strike chance by 10% for 5&nbsp;sec.</span><br /></span></td></tr></table><!--?800214:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

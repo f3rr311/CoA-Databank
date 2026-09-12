@@ -1,0 +1,748 @@
+{
+ "build": {
+  "id": "e4e89e4c-e64d-41df-b93a-62e7a56fc887",
+  "title": "Houndmaster Deep Dive: Talents, Rotation, Macros, Tips.",
+  "description": "[overview]\n## **Witch Hunter - Houndmaster Guide**\n\n## The build planner website is currently outdated. Some skills, talents, and their descriptions are missing or don't match the current version of the game\n\nHoundmaster is a straightforward, pet-focused spec that excels at single-target damage. It's easy to pick up, has a smooth rotation, and performs very well in Heroic and Mythic dungeons, especially on bosses and other priority targets. Throughout Phase 0, it's been one of the specs I've enjoyed playing the most.\n\nOne of Houndmaster's biggest strengths is its excellent survivability. Between its Tonics, self-sustain, and durable pets, the spec is surprisingly resilient. It also brings a good amount of utility through Traps and Brands, giving it tools that can be useful in a variety of dungeon and raid encounters.\n\nThe recent change allowing Sixfold Shot to proc Shadowblast has been a huge improvement. It made the rotation feel much smoother and more engaging, giving the spec a much better overall flow than before.\n\nThat said, the specialization still has a few rough edges. [Quickdraw](coa-skill:witch-hunter:804193) currently feels underwhelming, dealing relatively low damage even with the 50% Critical Damage talent and Phase 0 gear. In addition, Lethal Pursuit is still bugged despite the recent fix—the stacks appear correctly, but they don't currently increase your Hounds' damage. Until it's properly fixed, I don't recommend taking the talent.\n\nOverall, if you're looking for a spec with strong boss damage, solid survivability, and a simple but satisfying playstyle, Houndmaster is an excellent choice. While its AoE damage is only average, its consistent single-target performance more than makes up for it in most PvE content.\n\nMy logs: [https://coa.ascensionlogs.gg/characters/Nearqum/Vol'Jin?phase=0&location=World+Bosses&spec=Houndmaster](https://coa.ascensionlogs.gg/characters/Nearqum/Vol'Jin?phase=0&location=World+Bosses&spec=Houndmaster)\n\n[talents]\nThe talent setup below is focused on Heroic and Mythic dungeon content, providing a good balance between survivability and damage.\n\n\n- Lethal Pursuit: Once this talent is fixed, I recommend taking it instead of Feast of Talons. However, keep in mind that you'll lose a significant amount of AoE damage.\n\n- Kennel Master: If you don't care about AoE damage at all and want to maximize your single-target performance, you can remove Anguish and Darkflock to invest those two points into Kennel Master instead.\n\n[rotation]\nI'm still experimenting with the optimal rotation, but so far I've found two different openers depending on how long the boss fight lasts.\n\n\n### Long Fights (2+ minutes and the debuff is need it)\n\nIf the encounter is expected to last more than one minute, start by applying 5 stacks of Pommel Smash while dropping a Death Trap at the same time, since Death Trap does not trigger the Global Cooldown (do this only if the raid need it).\n\nUnfortunately, the Pommel Smash buff only lasts 30 seconds (pls devs increase it to 60+), so keeping it active can be a little awkward since you'll need to briefly move into melee range before returning to your optimal positioning.\n\n\n### Short Fights (no need for debuff)\n\nIf the boss will die quickly, simply skip the Pommel Smash setup and go straight into the normal priority rotation\n\n\n### Priority System\n\nThe rotation is priority-based rather than a fixed sequence.\n\n1. Unleash Hounds — Always your highest priority. Keep this active as much as possible for the Shadow Damage, Haste, and pet buffs.\n2. Houndmaster's Call — Cast whenever it's available or whenever it procs from the 5% passive (remember to use Caltrops, for some reason proc a loot the pasive).\n3. Shadowblast until reaching 5 stacks.\n4. Cast Sixfold Shot, then immediately queue Quickdraw as Sixfold Shot finishes casting (see the macro section below).\n5. Repeat the priority.\n\n### Burst Cooldowns\n\nFor burst windows:\n\n- Use Surging Tonic together with Slayer's Mark.\n- Cast Decimate only after you've already used Unleash Hounds and Houndmaster's Call so your pets are fully buffed.\n\nIf the boss is Undead, use Holy Water Tonic together with Surging Tonic. The two effects stack, resulting in extremely high burst damage.\n\n\n### Resource Management\n\nUse Dark Regeneration whenever your Rage drops below roughly 50% or if you're starting to run low on mana (which generally shouldn't happen if you're mostly casting Shadowblast).\n\nDuring very long fights and if your gear is low, you may eventually run out of Rage. When that happens, you'll need to rely on Tonics or weave in a few Darkslayer casts between Shadowblast casts to recover resources.\n\n\n### Situational Abilities\n\n\n**Brand of the Profane**\n\n- Generates no threat, making it safe to keep on the boss whenever your raid benefits from the additional Hit Chance.\n\n**Brand of the Damned**\n\n\n- Intended for execute situations, but at the moment it simply not that good.\n- Personally, I think it should activate at 20% health instead of 10% to make it more useful (pls devs).\n\n**Scourge Trap**\n\n- Deals excellent damage against Undead enemies.\n- However, its long cooldown limits its overall impact.\n\n**Caltrops**\n\n- Recently nerfed, but still useful when tanks are kiting or repositioning adds.\n- have no GCD\n- Remains a strong PvP utility ability.\n\n\n\n### AoE Rotation\n\nI'm still testing different AoE rotations, so if you find something stronger, feel free to share it.\n\nFor now, this is what has produced the best results for me:\n\n1. Make sure you have plenty of Lesser Hounds active to maximize cleave damage.\n2. Cast Shadowblast once to activate your pets.\n3. Place Shadow Trap and Caltrops.\n4. Start casting Darkflock.\n5. If Darkflock procs during the first slow cast, immediately cast it again to enter the fast-casting loop.\n\nYour AoE damage improves significantly against 5 or more targets, since Feast of Talons becomes active.\n\nThat said, Houndmaster's AoE damage is currently nothing exceptional, and you should expect other specs to outperform you on large pulls.\n\n[stats]\nSince most of your damage comes from your Hounds, understanding how they scale is one of the most important aspects of optimizing the spec.\n\nUnfortunately, I don't know the exact pet scaling formula yet. From my testing, they definitely scale with Agility, and they also appear to benefit from a portion of your Attack Power, but I haven't been able to determine the exact coefficients.\n\n**If anyone knows the precise scaling formula (or has tested it thoroughly), please leave a comment. I'd love to update this guide with accurate information once it's confirmed.**\n\n[gear]\nFor your Best-in-Slot (BiS) gear, I recommend using the following planner:\n\nCoA BiS Planner:  [https://coa.bisbeard.com/](https://coa.bisbeard.com/)\n\nIt provides an up-to-date overview of the available gear and is much easier to browse than listing every item in this guide.\n\nIf the current Phase 0 gearing changes or new content is released, this planner will likely be updated before the guide, making it the best reference for optimizing your character.\n\n[macros]\n## Macros\n\n**Sixfold Shot + Quickdraw**\n\n#showtooltip Quickdraw\n/stopmacro [channeling:Sixfold Shot]\n/cast !Sixfold Shot\n/cast !Quickdraw\n\n\nThis lets you spam the same button whenever Sixfold Shot procs while automatically casting Quickdraw as soon as the channel finishes.\n\nNote: If you spam the macro too aggressively right as Sixfold Shot starts, the channel can still occasionally get interrupted. Be careful not to mash it too early.\n\n\n**Pommel Smash + Death Trap**\n\n#showtooltip Pommel Smash\n/cast Pommel Smash\n/cast Death Trap\n\nIf you decide to use Pommel Smash in your opener, this macro will automatically drop Death Trap at the same time since it doesn't trigger the Global Cooldown.\n\n\n**Vault + Caltrops**\n\n#showtooltip Vault\n/cast Vault\n/cast [@cursor] Caltrops\n\nIf you prefer, you can replace @cursor with @player depending on your preference, Caltrops don't use a GCD so u can use it at coldown.\n\n\n\n**Burst Macro**\n\n#showtooltip Surging Tonic\n/cast Surging Tonic\n/cast Slayer's Mark\n/use 14\n/use 13\n\nUses your full burst setup with a single keypress. Slayer's Mark does not trigger the Global Cooldown\n\n**Finally u can put /petattack wherever you want (I use it on shadowblast)**\n\n[tips]\n## Weakauras\n\nI didn't create this WeakAura from scratch. Instead, I modified an existing one, adding several features that I felt were missing to better fit the current Houndmaster playstyle.\n\nThe changes include additional visual and audio cues for the most important procs, improved tracking for cooldowns, talents, and key abilities, along with a few other quality-of-life improvements to make the rotation easier to follow and reduce the chances of missing important procs.\n\nIt's nothing particularly fancy or beautiful, but it's been very helpful for improving my consistency and overall DPS, so I figured I'd share it.\n\n\n!WA:2!TZ3cWTX11zR1ikYgsrwKsuVSInSSJSOCmdiibF4Avkcqccscsqba(qSQHybWsSRi4UR3DbPiDZJs7MWz(t6VnNMM)MMK6G642Mghhd3)0)MmTXL5rBCBN5(ZXnd6R4yLyNhnzCQsZJMojQNZ9U49ckki5efNSZS4XIDV7DVNVZ58Do3ZfCt0OEw3T4Q1wC5WJGbFJZ3yIgtSQd1gJRiBOPKkLqcVIsPsOji)(YC60sXNtxurXWJpLujwVV06Z5iIgF85e0wVp(fLZ)LyJKE5LtjKzS0AjfC0)csPu3Byr(ekl6iepCK8xJ3(0DCCDvH4n7W9gEv0ek8TletrlHGMh48sOPOQUhpPKwEzETeoIOOKYqsDd(0gIkAbvnKuK1TRTuWzNvxWW)ZCUtTT2(Mp)JKLxoo87JPijBeZB)JgP)qQ7rxKxtiHpn(5fciSGqQOzz3gVkPu0gIJJZg0XOnyhH0n41mS7rswYWESzH30fTVIHMuYKcA6h(yAMF8DKjHqS0ZoBKLuf083FGX8nEapgWxcXNwJ31kWZtQudMq3(f0thdUNYgHHZw68zNXBVHJmt4i9gkIN0WnjMAk(Le0cjdDoD7HONAm)c8PmelCPJPjaxAOWJ1FGaRLw2Sly)IWZOGMmFQjGUg07FI14LLMNhFq6G0KpYr8iRilSUaVUqydqsM0qChBKa6E4zmd2z10fabEc9vWZbFui3TN55LKHRLC3K34oi3dPfYBc(4bQ8izG(wiHKuHGNuk8j85rxAzH9hA(0GyYUhuEUFs72dfpfVUo(Pyg8PGNf8JBeZu(Yea2SzBmBoBXDi94WPylgt4iMH9E)jskO2q47pnidD4lDQuoMuuYqiJg9UJD6qj1usRAE6HHEX2xN9zg24MYyOeFb2q0nUWzpQuc1J6f7voIimpm6BaWpOjJlkMghpB2XcT2IZ2dXNsvK32fz4jk2bVxXc7nu)9p6A6cPMLcYin4kTuIS9oNZ57vp8KYckMGRbLH7TTyW47SsjTRDEtGApx6s)gFUpc)pjdoWlXqXzLKNvrJj52Fw4JXf6hL76rZolEJbPhVbVTgJ)OVXvV9yQWabCF9qUz)NkHYp(XLLhGShsdK9bc9j0sOmtYuklgDf4d6kPLtenl(9zyaCpGA8IHOhxTTbXh3z5JlC2EtKiOS(zNuGFUEb8H(zhriHe)zdJNN(zdlQyKmTClkjtUb9sNjUiVSSqQyJWRdnbz)2jhWo5G7(yKd99jhjef7Vg91rHE)b3vWpn52ioupqADHzKskdk8HXF0lOsd2gKfvBa)LKcYcAsXH72IbLJsUZn6L2LDmUoFSucKJrUlYTto6g4PwOTJsUv7RGhbvLIsUd7BuwRCbD6B5VrRHNPbAekk5WKBHCC7QnGJllieHPsnIscHp62in)eeFKganCDEduDrqCfnfdQ4HJ06H3p5iBaWFeeJip5eXefKskA4)uQp828n1N9oJrpBbrIlF0BjvhikXnI9jDCSy6sYjtjKDYbJ41V)XrBu4p0g(Zx0q48W9uysnEvS3OUpVb6DKXIe0tGE9oCV913GrgCI(JnVKMMIMi5KAMN)AWqKCc8kc5jq)J2hrrTJYKVkLjFhtzrbn6hzsA2rXxDt6J0pzy)pJTlPVnTN6sKEz6meBKDBN41wOfLsyi6)uA38Lg8xB4houCQkS)EUqJ0n)98Shg3UfB2idKnPw7JUKZoMWNxNAsYOoimOCcMXPYnW4CcYrIPQjaQi0VJhFXqQPtPlGNwv2FidzNe4WhluCrH4Z1rOf4tLwGBLf41KqWYgulJAPbVei05q20qeBsbWaoz5HqJnDHV0k9fBROcMIe0mwIyqgXojOTvDqFQjPiZdIqIurrh5CK5kiRQ9tczXIpeKZB9dGbmO9V9bWTpO)EE09q3GbTeIezru1w(5)jAb(VUBQQnmYRsUFYjjkKXafFq6SJFYlTTxmbhvP)yKXvV3RaHTPAnOByG60KqrlvdE1MUaIz5JPRao0bavusucpzMOzPqzWvkmogLmnQwRUhZVpdoaYBOOD0tEs4b91dAIxeo9(ppOEfM5km66ONrQMRuc9dhZTtND4SD0Wa5ovpuEvuhJPPKeGbabb611Cguf2BkWrMUOM5DRr3K3mQ5J2dO2foBusS8Q0K4GgSIAN1f6VT2qLFrru)hb9VgQ2qqBeD)Nk6LU0t7i7Dse4aKDGZTyy)tnWYk93lOuWmkqMLK0)PI)mB7V(dinfjGDemnK9v7mJoyYEUjr9MMwN(zMVGP4id)1YYN4CPbROjgrs(gi387Ndf4BqpRq5T5O2qzFhfkE6DCWMGe4erKj2(e0H9hmQgmiguo1sGbuYBGoabJt4G8DyNou9q4iF7D2ABLmCLbBNzIN3zSnym4cQMYbaSaUJoXr22nyc3bi8rmX2u4Evh5avEe19MuJpHe40kOg(k9HiJ)GHgC6GJgP3aReJ3KkM)E(k60n)98vFoC7Fe(W(OBOMrPdENbSeFV0bDtZXGBtbM54v3N6HqZIZqFH5zDgzZpaDNQ)r9c)4Af(TJ(g0v3d9B6ukSfjlEb2rlWa4Hv3l9ia1uf0jECQO2tVWxVi7UiDEHe0d(BUbJpXzypeCRt)Deain7sGI(r0GNe8yzO)qrrYAMDxzd194ttAzhNonFcKvGJiruBSKUPzlFKTTb9GlcCrqFjRmP5hy3XfK0rlJr3OqZIKB8mkYxK1dNrfF2Yo4OJ2FOzcn4a(Ju8Crownz(KmL5tszDcZdAJKuydthumCKRaHhH4Ac0KANvysLzILAy9cu5SN8E0CbU9u3dyoPxtvfqzH)8IRLh24cgHaPIGmA6FatOgvfMAEKAAB)2PGCwV4iBd0G1Nyi1G6J0XYJgSYgxsg9SIMRGBb1IREtRr1r0LahS0rdqR3ZYkkZZLL2z9tzaagOxjFelO5JTZqSrydbQhVOnjVaZjGfGhETZo(G3tXVDpHPA60ltK6fYS9LsKqqo0O9pbqwy3Otk0YeZYI3IkUGxXfelAsH)83qwLI6CQ7bU6id6T3aZm4OWhd3p1k1(jJg9IfzZuaOtjLVANK)xnrExC0HHN9giV7cgPi)2CK)3KhM8iMwGw9wOmXqnjr0Im61aT)ijsE7i1mWfczTOGjk0YZfOCIKMvkoTNzNA9cnt1j1XbG8NpMcfcQl6bBs7K7mJx4G8gocOKKzgRToC31gAqSsHZZhKJ5yG6QQaHd0S30hMdCrKHsaKghIyExf)o5n5rEpuRCiS53L8Ej)FgQeJq)Zmsn(75P3lDJ6N(3RutqK33Q7J87dg9E)W(hamEq(GuJfK)ayi6rjFisMFtYFih5XqLCYhM84S76Fe5pM8NaWXpc5pL8rJsEABKNK8XjpvtKSCKNG8Xa9hYFg5)7LxJH8ji)5K)FIK)cQQa5tkAI8z(1b8YNcUjFb298Vea3K)kYW33oOo3(0KNbrt)1CK1r(fFgYFd5VL8zjFoYNxSa3VxlcSa3C6nbkoAhV15m8nz7Do55aWwnibD5JGK83r(7la)i)dfbChJ2znyDwtexakIB94MSeWycJsEKOmG3lbT8zOGh0LgI8OKg6n1I8lPJaVNJSdtcd3j5DKpqcKXaqIX3y5bcLHaaXRPSD19sEAU6qQYLxO(KQnWSI6jyKibhHz94PoeveRfC8ibgC0(FPnWG08PjC)PfKJV0yVgNT4YnZBa(dRJV0NzK72wb)gAVEJyPnmuKdc48u8lLbpCaAy(nrJ5lVtM1WVu0ib9wfbc4DoGtLUT1bDIbYFcI0ZnmnoCABK38Uh8lSFnGeCDnqVBEyrQtsooX1cae9cfcoBozqmvdiBMINbD8NHGb0lfz(iMiIsmDJ2EU4CccQ9IPvWieomiIi2bYgAOthVVPdpA4iDvaTUdeQYmqs0hNAtmkz4u3uDtGbGPRKh6ff0MmHOGAvrSjjx0Y05o4TwgYC6dEJFQ1qSjIaPqYB0esgnlli1qc8jwQuWjJFg0kpoACKAvKLZjVSWjbJQ3P6(ghc81HxGxmW0gc8f8JexNC7XmqIYgzWWI7)8Wr1f3aOMarlPZImED2nTxA0Vi5(sA69htqwJh1WkHrnOD8TfVMRAq(NZRjq(xEjY)AECp5FJ8LSrEEYxM8cnrUah5RWU4xYg5RXr(Q2iVOi5Rls(gnq(MfXEK)98WTkdw7Brh7ReLnCIBI8Yrnv5nT2u32YOyX5p35M7m95TBDVElGfVrRWIMUsH4xjl5JCOTtEaYp4OkQyStlt(HK3cgLAuYBfZXwlT1cQOzQt8irxTl0DmI(WgbHFcw5l(7t9NIIpWrzxoBV1UDHoNJarqKsK89iFFw0bUuHWTndmaGIRfnl63f0VrAxuJObGqL0nOq4hmAmOjcjmFnDDw36xMUTqxUV440n)9SblHcSqIrhYv6U9wuV9QiYRoJH08cZOQjexcZ3NTcOtly9RA(Hq41KOeCR6Tw15AWAy234mb2w0M5)qo4XXuFaq)QnxREAILK5Nxk(mgIqWwIGjMLkvtbumq2baTatfgGtGfDo1Y7CpzgM)Ma97dD0yXn3Ow3ClgsnQAin5oRIuI15hHskjkYgPO7D0Q57c1wg39zgRT4XwQ)oo3f0NxrXqmFO)rZtrbT2O)q7QkkkOI1nvkhfkNLH5qDnurd0Ym56a8tE2J2QtGRX7TixJs8SSQBpaP3fHF9g(KBeoTwsGfUJikYsXZ0hWS2riHKcYB4rjLHdE5eo6JhSJoPeyhfpp)qWezgBjnf2vOUh)kPwYXK8GDy2r2imn3(3LUJrGgBJHLXyeGVfgOSML2mXsHhAfFPGMssxCL(GbzyqxGSlYRdhPU539f1v0m8VumnPerW4B(e542JyoUda7he2Bc2Be23hSFZWEdW(UH99c77xK0yuYEPOWvGNsi0I4c2k3lfyQ5qVdQHc0GHzQcqhq3HDQjc0YWXTdMfsLEEzwdedJWknixqlkbKMxYqmep8CitAqt3GhZJkOPAFnET4m2ip0(RFdRU8zILmry0xzyoWStxfM7aIaNgB2peeZmB6uP8kPfhcWL0TTmXfWWUqcthnqiY9ks(vi3h5KRBI(PtEaPNT7bhOH74G2cLcFO25AqiuQ9IzQ92aG1fGW)GNozdFGJwfTyH6TVbhp8kjr5c2YH6JCQBAn8R0a93zbpayoGY7byye438XhvNFqVn3C6zrt3ySEXf2o1EEbikG8njzaxIjh4TgnJDDYVgl4R)jkndanyn13cSlwGk5XJsDv4YvNDJHP99Gg4b)zodGqJjDEHuBfwaN8YZcahAQKfWltdJymqkzsbamYaYltHho6X8FR3lvaoq2ZTKV7Fe1PMO5jgbDLd6OmFFuN5DqDMhdzsbouw2g5TCcMRCYpkVKTE1eSmSOkGemYY1iMitaHAdfnSjWcOOwXgTJp0B9v8yJUYiaYe6maWMi6Rme5Vf9rX6WmQBolGI53wSs4YnJyfVLax6w2RUum1Mh1RFt4ca3a18xMc6QToE1X2cYJ)JVu5Q27zZuTlrNTUT(E9gv)TGsooizHsoIBrT8sTDwHSBpLsvVxq2zKOJbJ0BcdpoNgLDMQEMQ751NRmAW6qLe8AxIGm)CAqvbVXByNwjkRd46phQ0Ip8vkknfc5dhcvDqrBfIYgmvdlikLJNqCHGbgn1sYSaWStdaZEHialkeTst8wRL4dfuG8RXsKF3H9sYU0jFXA5KTZnZj7phiLZX9MUgjMXbPTskGQLl6gR0MB7U7O3tpLA3l4zzAMF4Q2fDoUwPUNpCE3ZM2i2kEzlzUslJ41PSxUs9E)LwNRMc2PSVjuW2Dv2K3BL0VgyIPd2N3b0gDYwlx2wnZzSfRTf5lNk9(QLkDFF18Q0)NrPA1SmS4SJUGt67wqLwZFVHgX34b(zj75RH6OWtDLYn2a)vjlktnnaaqtH2WU8psWHBFW7prSIGG9vUJzZ85YvifABIkDPEN3kuSShZv5kXn9lvIRsjghKQpkwnvPFzXo9kgA80cJ5mE5QZNGjxTrEa1MKK1XANmoopMHe0PtHREHORgYgN)Ew9G42bSbYDd7fU01zvHPCiS2FilZXah0liJz2fXlWedZGI1GnN1GLwkhSS)FjyXcWslvN6DUIzE)YGy2FLKYh3DcpDlhS55MF5siLxIPaBOPGtwWuWq283ZJVFCRjUsL2f9tC1qC)a1CEfh87D90mNu)g(HNJkfFOiJniccYhjAj0YgiRFpot6E(o8l0XyffIhOqvurlwkMb8N9Qy(c2YY6kO3d93RGmP1FSYf2h8YMjTYye0A3TdNYp(YqY)6ARavrGO(j(bdMvIJaOd1f9MWT)GLJCgiBhJ19On39P95FbDtqeQyTP0ayqvgmWDoUxhMS)h9GRrxvdj04xuTr)yzVmpTwMVlDhE5tLs9aEsXQjhhJPSycmH(S1UG6bgHpPuC(uoQ4euVn6kHaoAcbh068rtjjwrKomyx5fhlTM0Ss0Bbw)czIOOfxKM)Fp(tlBKj88sgSvnrOWg8ZjCrFWjVKJHsdN88GRp1dvYDWSrDCCdE55Ag7vqJ5qzwhgIc4PeFohddDUlmMY8ZlKQWkVyuL4gs6S2yT(e0fIJL3S6E9WByKsWXyAcQ8SKcQR2a0bX7RsXh(M8KsrjXsW3vufxk)HxJnvg8YcQn4xGxZqxqyoCKbN3e19eskUsCrbJ8hjlnbK(0eKxEP16JFEzwsiZpJhTLJ7qREWCCtjMJBuyVFyFqyFyyFay)mWEqy3pShc2Ja7Jd7td7Jb7EH9HG9(G9jG9rG9td7HH9jH9aWUVsMzKCChUUMtKCC3cCTh5H2voUxp0K3kPHCC3goXh54C8tPz8ih3Td35JItYroU7O0j3ih3Ds6z754Ed0j0ih3X2zoU7cNgJCChphxZ54obBclYXD3fNPIDw5mv0zIrNwD6(D6849JwmZXDp1EAk83ZlFPp5Zh879mulS()0FNT14J9dA50LYFsglsS9eIcD9Gflj1ylAOLNvgWGD1Ym46T8Y8Lw6)Ac4cubWsILz7DwZYFfpxn48WIbtemet(TkEotK)CmNxC3oD6UJUPT(XTNnHK(5sltRhcx8YlDn2q9(kyO2ZBOTwQdt1Q3svZml0ofQBvML8B)kHphyc)RwbHa)NQVTXDIGAV4wXGoVfed2zvLuXMWTZB(G79FQ(V0p(l(JEBFmZG8NkrKzB((dei2ilyM08NTSqcYX9RwcBE)98ySseM5ZVGNasKcXiSD4h(uv4qO0efSZQPf0bUsAaRDQIKXv)vUYRU(fvsnRBw51lUfjt2xnjtEYx46eYK(75F9S42Voec1))tJBJzZef9svqkyKTsM)EbRInOqYD3T96NIiLnQRyZlECjLfe8pxryxFLgeA(sYPK4iU3ReCgCwzukSaJkC2uGwjTJuHFPJmSLqfU878mwk(LiJNJljzsYuWLmELewrO5LD6FZx6)uMMOdkaovIxlZQ(hzK2vBLxvzNjpaepVNBDZssGTOUEZuKx)trHJXU8ZeCtBzqOzPIxw9J)U2gan93ZlqXuN2FpFZFeU9FxfufaOKNmBzvs59aa3YAsZ6ESP61k4wa5YL8VSg5XeWVvNgZ(ZNI6XnTW5kXXxQRj6uWpFxvp1s3lRSWSLVKWA0n5bIPBaEn1RcDT9QJa6Z9EWT3BbuQpkg8ccNxvIrTlI08cyRIT)9DYQPkF1mf1B3YmN0IvOuZ1MYdD4CCPYxeA5TlwdekWCdXL4zyIkN(G257UI5yznSY9PRN2dhRJUC6Q9UP3Z1IMJBMnbhp0vkoohNSjS9l)XXTNYFpFJZq3Sg2MJtHHwZXP20wkM9QmRU6HWE3hihx8CC3qoR6y5WUlyjN1)2jAW3FpFP3mDZFpV0Na3(ZzDVpOj)x1MYXLaEGX(k2r)OWa1oWYiJPMXkJS7jh3RDj8jQA1dls6dit20zU7Qzw3ln)mvON5RCt7dKDOr9MCu)sb0BVl28(rnNgyOY1WavinQAwDRDLJt3uBYQMzhfiJy(dQnIL2z7Tu6AXPmt)2SMuYLF2lqMezkgNynNx5pZ7KP08oYNZcql8ErTtQNIoD1HltDg6KAG6lB)NRNb66JGcxY)QAtqHzTMvrhu2gdCU0gUBlw3Jp9Plcjhipj3XZxAILZ2OiR2S0SvBUANllz1pw(LaxbAhVXTrEax9oAFXOR)v9tusUp4GpdmhEGvKKJtxVmBHj68kiPy33xPCsR(3sLxg(1hmA(P8MIX6O1UB1m2RRNkW8TcFalIgcgwQeOS7IvxacAU6QTCFZ3(e6Xd1FYodxeB536IlFNBA4s1epLJ7TKJ7TAfukh3BZYCQ9irRveu1EP5ua4mynl7SNu(vd18s9zXbF4VmwCklWAlDdoyL0nN68NBy1zNyW5Ckwsa1hERHq2Qwm2Ab5oundY9((I)IRyhF4TW(rHiHzZT6oRuqpev(YK0bX0JRjl7RVo8pBRNlLz6XbWtnf0verRfZwYvwfWCFpx5Y6HFv98HwVEkEUAwbm70IqhhUC(ddKTT2BnO7HwyAFZD(QdD8exH5Uih3VXMO4xzIYUQl(4CCbQL6V9yN5xCv)XhERlbowwWanrklG2MKFYoBn95wQVsyygWQ8zHGPssNW1mmr5NvTjwwJWxQLLJtE2YHjJSfTC8ZR0fHN3AeF8lNFw1R2uWivATFsLGJ6wlw7g(tv2mQxhwsFfXYbZzYDTjvzHjEaZp0Q7JgBGjgaL0iU4VNg(Wm04s7OlNUBR1c4bmhsqafaAzjt0cBvkA(VbZBpQfLEBhD1ABD7SQsVT0KnLpw58TlEgyNQK4MVg766kpJtwaDFI1J4FqVdBUEYnt2uZB5Knv3qz7FHF4MaLlX4tjzazhSPJzRhEILZRpQ7pmvdb0ta9Hc6jJwIEcZg4azpNI7PpteNtmRBxMQkGfkCo)W)(9gmUImkTRiQMAY)zR5QlynD1L4DE936QPoDCbpk10Xf6dO6LitWkdoPZ(dp79hF5PptW4MbNyIFUscqPEzlS5URkrq)5ZxzpU7YL7U6QKSy)DXuObY5hmAzzXgZN2R4(QCFTweBvb85T2HMuS8DZtrrO5yXMOv9WbAMVOmFmtxwM6LxJkaSJHgeOjO16SZUfINXQY6CxN8RxUI8P)LHXybdMVUvHXuQxDRJN50vgptCJfsgsT3atF8ETEQWUgZDT8uDvGjB1ZuROLflWvPtHq1o(hFxNvWO1BOm(2CpcwxOFHQ0RqFr634mTRinui9YxNTxBjQE176WQeIzD1IpCflXKWwUet(fAZk4G0MwvrLemCxt2viVkNV9wNAXI4OWicYmy4GL4PPudtVcNLKnnshC(u(If(ZolpjceqaKiEOpsSUC6S1oCfZTZwBR92zV5M9whS36K9wxS36M(MBNS3AL9MleurbuF38)HRXiJyzyoRvOmpRkAND5oZ1tuyQ7Q1aFo2k1QgdzvQzPivgY9PJeBOHB2zIooUIjYcxp3NWkxlfN5K8OOwTQ(GQAoM5kBDkCv()fWUTxVZICw2)C70YbQwtJSD(rSC9T6Ut35R5IRd(tK4Axw691(RmRcoemMFwKNkTlf1Kdm4s6LuZAJxU7XTCnRTLJMUgRNIkxPu0StTvSZ1sL)7N9zukNi0eB55ngJ5YLZUBZvjPTHnVXvSMlC3z7T5YzzRcZQcc7QYz6qx34mT4vbhPwRud2vHnlCLBDFWOOYAuEX5PWCn3pq2XNtZT7arg2ByVfrRtyvnpyUGnh6Noi1cfEtfxFgwH3uY)PALTS)SQElZxaBLfJ4WlxoCEYldCU06tpFnqaO6o60zn(N4XTZ2BVZUQPrulZAuXImphx86aysRsneCYYBycYD)kzeKWqOfrqw3kOf()yzGSdNEIrM6Cd5pL3qfbLtAvXsyrrQFLzl1kC4dB(N5(Lj)Lxj))H0YMhv5u1Yb9Uo9NUASvoUpCv4QQoLh)kW)9plWD1VtCyi5vCN4d2Aa38Nr0D627SicCQRLoXVkaEL6e)QTCootnlNJHx8vhC(GNdRIDiV27vvPSYIJDoNoNoISYP1ljJPNPgzmTKOnU2LbKk(hWzRpVT747S)YHdt)Q75TfFE30ajbzQ153A6YZlbqCY3WZnSG2aJxyHS(ir)P3C1F1fBzJl8AEl)pd",
+  "class_id": 15,
+  "spec_id": 40,
+  "author_id": "8c36ddd8-f036-49e0-ab3c-83c64f77036e",
+  "talent_string": "W1siMTUtODctNi0wIiwxXSxbIjE1LTg3LTctMSIsMl0sWyIxNS04Ny00LTAiLDFdLFsiMTUtODctMi0wIiwxXSxbIjE1LTg3LTMtMSIsMl0sWyIxNS04Ny0xLTEiLDFdLFsiMTUtODctMy0yIiwxXSxbIjE1LTg3LTItMyIsMV0sWyIxNS04Ny00LTMiLDFdLFsiMTUtODctNi0zIiwxXSxbIjE1LTg3LTctNGEiLDFdLFsiMTUtODctNS00IiwxXSxbIjE1LTg3LTEtNCIsMV0sWyIxNS04Ny00LTUiLDFdLFsiMTUtODctNi02IiwxXSxbIjE1LTg3LTUtNyIsMl0sWyIxNS04Ny03LTciLDFdLFsiMTUtNDAtNC0wIiwxXSxbIjE1LTQwLTEwLTAiLDFdLFsiMTUtNDAtNC0xIiwxXSxbIjE1LTQwLTItMiIsMl0sWyIxNS00MC02LTIiLDFdLFsiMTUtNDAtMTAtMiIsMV0sWyIxNS00MC0zLTMiLDFdLFsiMTUtNDAtMS0zIiwxXSxbIjE1LTQwLTctMyIsMl0sWyIxNS00MC02LTQiLDFdLFsiMTUtNDAtNC00IiwxXSxbIjE1LTQwLTItNCIsMV0sWyIxNS00MC0wLTQiLDFdLFsiMTUtNDAtMTAtNCIsMV0sWyIxNS00MC0yLTUiLDFdLFsiMTUtNDAtNi01IiwxXSxbIjE1LTQwLTctNiIsMV0sWyIxNS00MC0xMC02IiwxXSxbIjE1LTQwLTUtMyIsMV0sWyIxNS00MC03LTciLDFdLFsiMTUtNDAtNC02IiwxXSxbIjE1LTQwLTUtNyIsMV0sWyIxNS00MC02LTgiLDFdLFsiMTUtNDAtMTAtOCIsMV0sWyIxNS04Ny01LTgiLDFdLFsiMTUtODctNC05IiwxXSxbIjE1LTg3LTMtNCIsMV0sWyIxNS04Ny0xLTUiLDFdLFsiMTUtODctNC02IiwxXSxbIjE1LTg3LTMtNyIsMV0sWyIxNS00MC03LTkiLDFdLFsiMTUtNDAtOC00IiwxXSxbIjE1LTQwLTgtNSIsMV0sWyIxNS00MC00LTciLDFdXQ",
+  "tags": [
+   "leveling",
+   "aoe",
+   "dungeons"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 4,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-25T03:07:22.148958+00:00",
+  "updated_at": "2026-07-30T09:18:21.694+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1317,
+  "net_score": 4,
+  "has_talents": true,
+  "guide_section_count": 7,
+  "author": {
+   "id": "8c36ddd8-f036-49e0-ab3c-83c64f77036e",
+   "username": "brandonenjoyer.",
+   "avatar_url": "https://cdn.discordapp.com/avatars/202225650130485248/0fd82d4536714f7dd9249a5882d9835a.png"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "c2e715e7-955a-4ac2-8c63-b4a324bde5a4",
+   "title": "PvP Inquisition Witch Hunter - Flourish One Deeg",
+   "class_id": 15,
+   "spec_id": 41,
+   "author_id": "646d7b60-2024-4e0a-80bb-9d44bde93e7d",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 578,
+   "featured": false,
+   "created_at": "2026-07-27T03:50:02.290466+00:00",
+   "updated_at": "2026-07-27T03:50:02.290466+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "646d7b60-2024-4e0a-80bb-9d44bde93e7d",
+    "username": "Devin",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLlx1CcX8Kqv6IHa5gYMJ5gr_HuYND2dc8iiF4ptI7X3n3bt8c=s96-c"
+   }
+  },
+  {
+   "id": "d4a7ebc9-3096-4026-987a-ac8f072d7562",
+   "title": "\"..and stay down!\" vibe build",
+   "class_id": 15,
+   "spec_id": 41,
+   "author_id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+   "tags": [
+    "raid",
+    "testing"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 357,
+   "featured": false,
+   "created_at": "2026-07-26T11:58:04.498286+00:00",
+   "updated_at": "2026-07-28T15:59:21.56+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+    "username": "bruttus_",
+    "avatar_url": "https://cdn.discordapp.com/avatars/716955228729245781/98ec4037a0a68fd624f2a4ad6069555b.png"
+   }
+  },
+  {
+   "id": "be8e37d0-6d9b-4b14-a8d6-bd3e96360dc9",
+   "title": "Black Knight Tank",
+   "class_id": 15,
+   "spec_id": 94,
+   "author_id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+   "tags": [
+    "Tank",
+    "Black Knight",
+    "Witch Hunter",
+    "Pve",
+    "m+"
+   ],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 271,
+   "featured": false,
+   "created_at": "2026-07-26T04:15:26.139086+00:00",
+   "updated_at": "2026-07-26T04:15:26.139086+00:00",
+   "has_talents": true,
+   "guide_section_count": 3,
+   "author": {
+    "id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+    "username": "Augusto R.A",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL-BwAqiaXC2HCf37ylOwfadsrOg1LOqGO1Ljzqd6AU0IBsMj_t=s96-c"
+   }
+  }
+ ],
+ "class": "Witch Hunter",
+ "spec": "Houndmaster",
+ "allocations": [
+  [
+   "15-87-6-0",
+   1
+  ],
+  [
+   "15-87-7-1",
+   2
+  ],
+  [
+   "15-87-4-0",
+   1
+  ],
+  [
+   "15-87-2-0",
+   1
+  ],
+  [
+   "15-87-3-1",
+   2
+  ],
+  [
+   "15-87-1-1",
+   1
+  ],
+  [
+   "15-87-3-2",
+   1
+  ],
+  [
+   "15-87-2-3",
+   1
+  ],
+  [
+   "15-87-4-3",
+   1
+  ],
+  [
+   "15-87-6-3",
+   1
+  ],
+  [
+   "15-87-7-4a",
+   1
+  ],
+  [
+   "15-87-5-4",
+   1
+  ],
+  [
+   "15-87-1-4",
+   1
+  ],
+  [
+   "15-87-4-5",
+   1
+  ],
+  [
+   "15-87-6-6",
+   1
+  ],
+  [
+   "15-87-5-7",
+   2
+  ],
+  [
+   "15-87-7-7",
+   1
+  ],
+  [
+   "15-40-4-0",
+   1
+  ],
+  [
+   "15-40-10-0",
+   1
+  ],
+  [
+   "15-40-4-1",
+   1
+  ],
+  [
+   "15-40-2-2",
+   2
+  ],
+  [
+   "15-40-6-2",
+   1
+  ],
+  [
+   "15-40-10-2",
+   1
+  ],
+  [
+   "15-40-3-3",
+   1
+  ],
+  [
+   "15-40-1-3",
+   1
+  ],
+  [
+   "15-40-7-3",
+   2
+  ],
+  [
+   "15-40-6-4",
+   1
+  ],
+  [
+   "15-40-4-4",
+   1
+  ],
+  [
+   "15-40-2-4",
+   1
+  ],
+  [
+   "15-40-0-4",
+   1
+  ],
+  [
+   "15-40-10-4",
+   1
+  ],
+  [
+   "15-40-2-5",
+   1
+  ],
+  [
+   "15-40-6-5",
+   1
+  ],
+  [
+   "15-40-7-6",
+   1
+  ],
+  [
+   "15-40-10-6",
+   1
+  ],
+  [
+   "15-40-5-3",
+   1
+  ],
+  [
+   "15-40-7-7",
+   1
+  ],
+  [
+   "15-40-4-6",
+   1
+  ],
+  [
+   "15-40-5-7",
+   1
+  ],
+  [
+   "15-40-6-8",
+   1
+  ],
+  [
+   "15-40-10-8",
+   1
+  ],
+  [
+   "15-87-5-8",
+   1
+  ],
+  [
+   "15-87-4-9",
+   1
+  ],
+  [
+   "15-87-3-4",
+   1
+  ],
+  [
+   "15-87-1-5",
+   1
+  ],
+  [
+   "15-87-4-6",
+   1
+  ],
+  [
+   "15-87-3-7",
+   1
+  ],
+  [
+   "15-40-7-9",
+   1
+  ],
+  [
+   "15-40-8-4",
+   1
+  ],
+  [
+   "15-40-8-5",
+   1
+  ],
+  [
+   "15-40-4-7",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "15-87-6-0",
+   "points": 1,
+   "name": "Burrow Bolt",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802269
+  },
+  {
+   "id": "15-87-7-1",
+   "points": 2,
+   "name": "Combat Training",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680529
+  },
+  {
+   "id": "15-87-4-0",
+   "points": 1,
+   "name": "Shadow Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680238
+  },
+  {
+   "id": "15-87-2-0",
+   "points": 1,
+   "name": "Vault",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 500085
+  },
+  {
+   "id": "15-87-3-1",
+   "points": 2,
+   "name": "Night Stalker",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 300792
+  },
+  {
+   "id": "15-87-1-1",
+   "points": 1,
+   "name": "Night Walker",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 789256
+  },
+  {
+   "id": "15-87-3-2",
+   "points": 1,
+   "name": "Brimming Hatred",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705496
+  },
+  {
+   "id": "15-87-2-3",
+   "points": 1,
+   "name": "Inquisitor's Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681445
+  },
+  {
+   "id": "15-87-4-3",
+   "points": 1,
+   "name": "Evil Never Sleeps",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 804185
+  },
+  {
+   "id": "15-87-6-3",
+   "points": 1,
+   "name": "Witchblood Tonic",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802278
+  },
+  {
+   "id": "15-87-7-4a",
+   "points": 1,
+   "name": "Just A Sip",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705533
+  },
+  {
+   "id": "15-87-5-4",
+   "points": 1,
+   "name": "Vengeful Intent",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705534
+  },
+  {
+   "id": "15-87-1-4",
+   "points": 1,
+   "name": "Trap Card",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680253
+  },
+  {
+   "id": "15-87-4-5",
+   "points": 1,
+   "name": "Brand of the Unworthy",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 501380
+  },
+  {
+   "id": "15-87-6-6",
+   "points": 1,
+   "name": "Dark Intuition",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 806195
+  },
+  {
+   "id": "15-87-5-7",
+   "points": 2,
+   "name": "Alchemical Research",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705498
+  },
+  {
+   "id": "15-87-7-7",
+   "points": 1,
+   "name": "Dark Souls",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802011
+  },
+  {
+   "id": "15-40-4-0",
+   "points": 1,
+   "name": "Unleash the Hounds",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 807918
+  },
+  {
+   "id": "15-40-10-0",
+   "points": 1,
+   "name": "Houndmaster",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 92093
+  },
+  {
+   "id": "15-40-4-1",
+   "points": 1,
+   "name": "Houndmaster's Call",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 802273
+  },
+  {
+   "id": "15-40-2-2",
+   "points": 2,
+   "name": "Expert Shot",
+   "maxPoints": 2,
+   "tree": "Houndmaster",
+   "spellId": 705467
+  },
+  {
+   "id": "15-40-6-2",
+   "points": 1,
+   "name": "Shadow Rage",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705455
+  },
+  {
+   "id": "15-40-10-2",
+   "points": 1,
+   "name": "Sharpshooter ",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705456
+  },
+  {
+   "id": "15-40-3-3",
+   "points": 1,
+   "name": "Trapper",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 681180
+  },
+  {
+   "id": "15-40-1-3",
+   "points": 1,
+   "name": "Quickdraw",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 804193
+  },
+  {
+   "id": "15-40-7-3",
+   "points": 2,
+   "name": "Dark Ranger",
+   "maxPoints": 2,
+   "tree": "Houndmaster",
+   "spellId": 705465
+  },
+  {
+   "id": "15-40-6-4",
+   "points": 1,
+   "name": "Houndfeeder",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705477
+  },
+  {
+   "id": "15-40-4-4",
+   "points": 1,
+   "name": "Decimate",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 804194
+  },
+  {
+   "id": "15-40-2-4",
+   "points": 1,
+   "name": "Darkrider",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705453
+  },
+  {
+   "id": "15-40-0-4",
+   "points": 1,
+   "name": "Pure Agony",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 300789
+  },
+  {
+   "id": "15-40-10-4",
+   "points": 1,
+   "name": "Dark Mind",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 574148
+  },
+  {
+   "id": "15-40-2-5",
+   "points": 1,
+   "name": "Hail of Gunfire",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 804187
+  },
+  {
+   "id": "15-40-6-5",
+   "points": 1,
+   "name": "Defender of Darkshire",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705531
+  },
+  {
+   "id": "15-40-7-6",
+   "points": 1,
+   "name": "Loksey's Journal",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 504903
+  },
+  {
+   "id": "15-40-10-6",
+   "points": 1,
+   "name": "Daredevil",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 681173
+  },
+  {
+   "id": "15-40-5-3",
+   "points": 1,
+   "name": "Expulsion of Evil",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 139778
+  },
+  {
+   "id": "15-40-7-7",
+   "points": 1,
+   "name": "Rampaging Hounds",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 570726
+  },
+  {
+   "id": "15-40-4-6",
+   "points": 1,
+   "name": "Houndmaster",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705450
+  },
+  {
+   "id": "15-40-5-7",
+   "points": 1,
+   "name": "Scent of Magic",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 706260
+  },
+  {
+   "id": "15-40-6-8",
+   "points": 1,
+   "name": "Coordinated Killing",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 705463
+  },
+  {
+   "id": "15-40-10-8",
+   "points": 1,
+   "name": "Sixfold Shot",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 500567
+  },
+  {
+   "id": "15-87-5-8",
+   "points": 1,
+   "name": "Slayer of Darkness",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 804024
+  },
+  {
+   "id": "15-87-4-9",
+   "points": 1,
+   "name": "Slayer's Mark",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 804068
+  },
+  {
+   "id": "15-87-3-4",
+   "points": 1,
+   "name": "Follow The Edict",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 503698
+  },
+  {
+   "id": "15-87-1-5",
+   "points": 1,
+   "name": "Death Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681450
+  },
+  {
+   "id": "15-87-4-6",
+   "points": 1,
+   "name": "Vampire Hunter",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 803638
+  },
+  {
+   "id": "15-87-3-7",
+   "points": 1,
+   "name": "Renegade",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 524812
+  },
+  {
+   "id": "15-40-7-9",
+   "points": 1,
+   "name": "Feast of Talons",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 500056
+  },
+  {
+   "id": "15-40-8-4",
+   "points": 1,
+   "name": "Darkflock",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 520270
+  },
+  {
+   "id": "15-40-8-5",
+   "points": 1,
+   "name": "Anguish",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 504742
+  },
+  {
+   "id": "15-40-4-7",
+   "points": 1,
+   "name": "Veiled in Darkness",
+   "maxPoints": 1,
+   "tree": "Houndmaster",
+   "spellId": 524854
+  }
+ ]
+}

@@ -1,0 +1,701 @@
+{
+ "build": {
+  "id": "7d4fd6f5-4c69-4d25-8e94-322419b80281",
+  "title": "JHE - Just Heal Everything - Top Heal Build for Clerics",
+  "description": "",
+  "class_id": 27,
+  "spec_id": 71,
+  "author_id": "c8328f29-4234-45af-aa95-bba0d898c001",
+  "talent_string": "W1siMjctODctNC0wIiwxXSxbIjI3LTg3LTYtMCIsMV0sWyIyNy04Ny02LTEiLDJdLFsiMjctODctNy0yIiwxXSxbIjI3LTg3LTQtMiIsMV0sWyIyNy04Ny0yLTEiLDJdLFsiMjctODctMS0yIiwxXSxbIjI3LTg3LTItMyIsMV0sWyIyNy04Ny00LTMiLDFdLFsiMjctODctNS00IiwxXSxbIjI3LTg3LTMtNCIsMl0sWyIyNy04Ny00LTUiLDFdLFsiMjctODctMi01IiwxXSxbIjI3LTg3LTEtNCIsMV0sWyIyNy04Ny0wLTUiLDFdLFsiMjctODctNi01IiwxXSxbIjI3LTg3LTYtNmIiLDFdLFsiMjctODctNy02IiwxXSxbIjI3LTg3LTQtNiIsMl0sWyIyNy04Ny01LTciLDFdLFsiMjctODctNi04IiwxXSxbIjI3LTg3LTYtOSIsMV0sWyIyNy03MS0xMC0wIiwxXSxbIjI3LTcxLTEwLTIiLDFdLFsiMjctNzEtNC0wIiwxXSxbIjI3LTcxLTYtMSIsMl0sWyIyNy03MS0yLTEiLDJdLFsiMjctNzEtNC0yIiwxXSxbIjI3LTcxLTItMyIsMV0sWyIyNy03MS03LTIiLDFdLFsiMjctNzEtNi0zIiwyXSxbIjI3LTcxLTYtNCIsMV0sWyIyNy03MS03LTQiLDFdLFsiMjctNzEtOC02IiwxXSxbIjI3LTcxLTctNyIsMV0sWyIyNy03MS0yLTQiLDFdLFsiMjctNzEtMS00IiwxXSxbIjI3LTcxLTItNSIsM10sWyIyNy03MS0yLTYiLDFdLFsiMjctNzEtNC03YSIsMV0sWyIyNy03MS0xMC00IiwxXSxbIjI3LTcxLTEwLTYiLDFdLFsiMjctNzEtMC02YiIsMV0sWyIyNy03MS0xLTIiLDFdLFsiMjctNzEtMTAtOCIsMV0sWyIyNy03MS02LTgiLDFdLFsiMjctNzEtNi05IiwxXV0",
+  "tags": [
+   "Raid",
+   "Leveling & Dungeons"
+  ],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-21T20:12:00.416317+00:00",
+  "updated_at": "2026-07-26T17:58:26.42+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1740,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 0,
+  "author": {
+   "id": "c8328f29-4234-45af-aa95-bba0d898c001",
+   "username": "Lieni",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKO1kT0OsmoulrbXWRLpBSahBiFl5HiL5jzVtT6-dn_VdAX6w=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "7e9d9222-bd9b-46f8-b6fa-2012abfb8654",
+   "title": "Valkyrie DPS PvE Detailed Guide (Dungeons, Mythics, Raid)",
+   "class_id": 27,
+   "spec_id": 90,
+   "author_id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+   "tags": [
+    "Dungeon",
+    "Heroic",
+    "Mythic",
+    "Raid",
+    "Single Target",
+    "AoE",
+    "PvE",
+    "General",
+    "Sun Cleric",
+    "Valkyrie"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 8,
+   "downvotes": 0,
+   "comment_count": 4,
+   "view_count": 1843,
+   "featured": false,
+   "created_at": "2026-07-27T03:35:24.600234+00:00",
+   "updated_at": "2026-07-31T19:59:23.625+00:00",
+   "has_talents": true,
+   "guide_section_count": 10,
+   "author": {
+    "id": "8b53f890-4411-40b1-a9a5-2c53f1f08df1",
+    "username": "DarkGuardian",
+    "avatar_url": "https://cdn.discordapp.com/avatars/237645502051647488/687c5535110cac02fdc5d918d23e5e98.png"
+   }
+  },
+  {
+   "id": "e8ee75b8-8e51-4d3a-af1b-a47d6c4d13b7",
+   "title": "Blessings Sun Cleric - Dungeons",
+   "class_id": 27,
+   "spec_id": 71,
+   "author_id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+   "tags": [],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 1,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 564,
+   "featured": false,
+   "created_at": "2026-07-28T00:34:16.331076+00:00",
+   "updated_at": "2026-07-30T22:27:37.597+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "20d0cd1c-d8c2-4bc4-9de1-d02a3bafc106",
+    "username": "Iyob",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "70365f6d-e8d7-481e-9192-96bc94c2316e",
+   "title": "Sun Cleric - Seraphim - Dungeon",
+   "class_id": 27,
+   "spec_id": 72,
+   "author_id": "326a05bd-ae58-4722-ab9d-22a380d3fe22",
+   "tags": [],
+   "role": "tank",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 360,
+   "featured": false,
+   "created_at": "2026-07-25T18:41:27.856779+00:00",
+   "updated_at": "2026-07-25T18:41:27.856779+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "326a05bd-ae58-4722-ab9d-22a380d3fe22",
+    "username": "Sorri",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKZqD5dNL8hx9StOVXHsRYBHnTTEvAK9_JP3Qp2s1W-blgwzA=s96-c"
+   }
+  }
+ ],
+ "class": "Sun Cleric",
+ "spec": "Blessings",
+ "allocations": [
+  [
+   "27-87-4-0",
+   1
+  ],
+  [
+   "27-87-6-0",
+   1
+  ],
+  [
+   "27-87-6-1",
+   2
+  ],
+  [
+   "27-87-7-2",
+   1
+  ],
+  [
+   "27-87-4-2",
+   1
+  ],
+  [
+   "27-87-2-1",
+   2
+  ],
+  [
+   "27-87-1-2",
+   1
+  ],
+  [
+   "27-87-2-3",
+   1
+  ],
+  [
+   "27-87-4-3",
+   1
+  ],
+  [
+   "27-87-5-4",
+   1
+  ],
+  [
+   "27-87-3-4",
+   2
+  ],
+  [
+   "27-87-4-5",
+   1
+  ],
+  [
+   "27-87-2-5",
+   1
+  ],
+  [
+   "27-87-1-4",
+   1
+  ],
+  [
+   "27-87-0-5",
+   1
+  ],
+  [
+   "27-87-6-5",
+   1
+  ],
+  [
+   "27-87-6-6b",
+   1
+  ],
+  [
+   "27-87-7-6",
+   1
+  ],
+  [
+   "27-87-4-6",
+   2
+  ],
+  [
+   "27-87-5-7",
+   1
+  ],
+  [
+   "27-87-6-8",
+   1
+  ],
+  [
+   "27-87-6-9",
+   1
+  ],
+  [
+   "27-71-10-0",
+   1
+  ],
+  [
+   "27-71-10-2",
+   1
+  ],
+  [
+   "27-71-4-0",
+   1
+  ],
+  [
+   "27-71-6-1",
+   2
+  ],
+  [
+   "27-71-2-1",
+   2
+  ],
+  [
+   "27-71-4-2",
+   1
+  ],
+  [
+   "27-71-2-3",
+   1
+  ],
+  [
+   "27-71-7-2",
+   1
+  ],
+  [
+   "27-71-6-3",
+   2
+  ],
+  [
+   "27-71-6-4",
+   1
+  ],
+  [
+   "27-71-7-4",
+   1
+  ],
+  [
+   "27-71-8-6",
+   1
+  ],
+  [
+   "27-71-7-7",
+   1
+  ],
+  [
+   "27-71-2-4",
+   1
+  ],
+  [
+   "27-71-1-4",
+   1
+  ],
+  [
+   "27-71-2-5",
+   3
+  ],
+  [
+   "27-71-2-6",
+   1
+  ],
+  [
+   "27-71-4-7a",
+   1
+  ],
+  [
+   "27-71-10-4",
+   1
+  ],
+  [
+   "27-71-10-6",
+   1
+  ],
+  [
+   "27-71-0-6b",
+   1
+  ],
+  [
+   "27-71-1-2",
+   1
+  ],
+  [
+   "27-71-10-8",
+   1
+  ],
+  [
+   "27-71-6-8",
+   1
+  ],
+  [
+   "27-71-6-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "27-87-4-0",
+   "points": 1,
+   "name": "Solar Prayer",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 806479
+  },
+  {
+   "id": "27-87-6-0",
+   "points": 1,
+   "name": "Solar Invocation: Resplendence",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 806159
+  },
+  {
+   "id": "27-87-6-1",
+   "points": 2,
+   "name": "Solar Might",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704916
+  },
+  {
+   "id": "27-87-7-2",
+   "points": 1,
+   "name": "Devotee",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 707767
+  },
+  {
+   "id": "27-87-4-2",
+   "points": 1,
+   "name": "Sun Stride",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 680700
+  },
+  {
+   "id": "27-87-2-1",
+   "points": 2,
+   "name": "Swift Justice",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300322
+  },
+  {
+   "id": "27-87-1-2",
+   "points": 1,
+   "name": "Sintorcher",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704909
+  },
+  {
+   "id": "27-87-2-3",
+   "points": 1,
+   "name": "Solar Invocation: Conquest",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 800764
+  },
+  {
+   "id": "27-87-4-3",
+   "points": 1,
+   "name": "Blessed Armor",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300334
+  },
+  {
+   "id": "27-87-5-4",
+   "points": 1,
+   "name": "Solar Guardian",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704581
+  },
+  {
+   "id": "27-87-3-4",
+   "points": 2,
+   "name": "Enveloped in Light",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 680652
+  },
+  {
+   "id": "27-87-4-5",
+   "points": 1,
+   "name": "Pure Light",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300314
+  },
+  {
+   "id": "27-87-2-5",
+   "points": 1,
+   "name": "Glare",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 805583
+  },
+  {
+   "id": "27-87-1-4",
+   "points": 1,
+   "name": "Suncharged",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 804628
+  },
+  {
+   "id": "27-87-0-5",
+   "points": 1,
+   "name": "Holy Conquest",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 504248
+  },
+  {
+   "id": "27-87-6-5",
+   "points": 1,
+   "name": "Radiance",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 800054
+  },
+  {
+   "id": "27-87-6-6b",
+   "points": 1,
+   "name": "Hegemony",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 561204
+  },
+  {
+   "id": "27-87-7-6",
+   "points": 1,
+   "name": "Exorcism",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300341
+  },
+  {
+   "id": "27-87-4-6",
+   "points": 2,
+   "name": "Guiding Glow",
+   "maxPoints": 2,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300324
+  },
+  {
+   "id": "27-87-5-7",
+   "points": 1,
+   "name": "Light The Way",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 300336
+  },
+  {
+   "id": "27-87-6-8",
+   "points": 1,
+   "name": "Warmth",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 704563
+  },
+  {
+   "id": "27-87-6-9",
+   "points": 1,
+   "name": "Circle of Valor",
+   "maxPoints": 1,
+   "tree": "Sun Cleric (class tree)",
+   "spellId": 520647
+  },
+  {
+   "id": "27-71-10-0",
+   "points": 1,
+   "name": "Sunlight",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 92136
+  },
+  {
+   "id": "27-71-10-2",
+   "points": 1,
+   "name": "Sun Worship",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 704910
+  },
+  {
+   "id": "27-71-4-0",
+   "points": 1,
+   "name": "Bless",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 804247
+  },
+  {
+   "id": "27-71-6-1",
+   "points": 2,
+   "name": "Angelic",
+   "maxPoints": 2,
+   "tree": "Blessings",
+   "spellId": 704582
+  },
+  {
+   "id": "27-71-2-1",
+   "points": 2,
+   "name": "An'she's Guidance",
+   "maxPoints": 2,
+   "tree": "Blessings",
+   "spellId": 681064
+  },
+  {
+   "id": "27-71-4-2",
+   "points": 1,
+   "name": "Blessing of Absolution",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 804249
+  },
+  {
+   "id": "27-71-2-3",
+   "points": 1,
+   "name": "Daybreak",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 500147
+  },
+  {
+   "id": "27-71-7-2",
+   "points": 1,
+   "name": "Faith",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 707077
+  },
+  {
+   "id": "27-71-6-3",
+   "points": 2,
+   "name": "Divine Vision",
+   "maxPoints": 2,
+   "tree": "Blessings",
+   "spellId": 706735
+  },
+  {
+   "id": "27-71-6-4",
+   "points": 1,
+   "name": "Savior",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300343
+  },
+  {
+   "id": "27-71-7-4",
+   "points": 1,
+   "name": "Hope",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300349
+  },
+  {
+   "id": "27-71-8-6",
+   "points": 1,
+   "name": "Glaring Rays",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 804257
+  },
+  {
+   "id": "27-71-7-7",
+   "points": 1,
+   "name": "Touch of Light",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 572885
+  },
+  {
+   "id": "27-71-2-4",
+   "points": 1,
+   "name": "Gleaming Light",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 704568
+  },
+  {
+   "id": "27-71-1-4",
+   "points": 1,
+   "name": "Hot Spot",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 301256
+  },
+  {
+   "id": "27-71-2-5",
+   "points": 3,
+   "name": "Ancient Rites",
+   "maxPoints": 3,
+   "tree": "Blessings",
+   "spellId": 300351
+  },
+  {
+   "id": "27-71-2-6",
+   "points": 1,
+   "name": "Heat Wave",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 534267
+  },
+  {
+   "id": "27-71-4-7a",
+   "points": 1,
+   "name": "Blazing Chariot",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300350
+  },
+  {
+   "id": "27-71-10-4",
+   "points": 1,
+   "name": "Holy Form",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 805301
+  },
+  {
+   "id": "27-71-10-6",
+   "points": 1,
+   "name": "Heaven’s Appraisal",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300353
+  },
+  {
+   "id": "27-71-0-6b",
+   "points": 1,
+   "name": "Sun Strength",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 707517
+  },
+  {
+   "id": "27-71-1-2",
+   "points": 1,
+   "name": "Sanctified",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300344
+  },
+  {
+   "id": "27-71-10-8",
+   "points": 1,
+   "name": "The Redeemer",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 300339
+  },
+  {
+   "id": "27-71-6-8",
+   "points": 1,
+   "name": "Cultivate Divinity",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 704920
+  },
+  {
+   "id": "27-71-6-9",
+   "points": 1,
+   "name": "Empowered Holy Form",
+   "maxPoints": 1,
+   "tree": "Blessings",
+   "spellId": 800602
+  }
+ ]
+}

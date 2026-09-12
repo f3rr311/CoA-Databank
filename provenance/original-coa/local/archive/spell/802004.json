@@ -1,0 +1,8 @@
+{
+  "name_enus": "Smite Evil",
+  "icon": "spell_holy_blessedresillience",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Smite Evil</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>40 Rage<br />Instant</td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\">Strike an enemy with your blade, dealing Weapon Damage plus 25 as Holy damage to them and 5 nearby enemies.</span></td></tr></table><!--?802004:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Oblivion",
+  "icon": "inv_staff_2h_felfireraid_d_03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Oblivion</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>2500 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Obliterate an enemy with both weapons, dealing Weapon Damage plus 115+0+AP*0.35 Shadowflame Damage, absorbing 100+0+Agi*0.45 healing received by the target stacking 2 times.<br /><br />Only usable on enemies below 35% health.<br /><br /><span style=\"color: #ffffff;\">(Combo)</span> After using <span style=\"color: #ffffff;\">Doomscar</span>: Your next <span style=\"color: #ffffff;\">Oblivion</span> is usable regardless of target's health.<br /><br /><span style=\"color: #ffffff;\">(Combo)</span> After using <span style=\"color: #ffffff;\">Annihilan Strike</span>: Your next <span style=\"color: #ffffff;\">Oblivion</span> triggers no cooldown.</span></td></tr></table><!--?800215:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

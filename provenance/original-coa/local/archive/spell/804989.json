@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sporelord",
+  "icon": "inv_ascend_mushroom_02",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Sporelord</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Fungal Assailant</span> now spawns 3 <span style=\"color: #ffffff;\">Mushrooms</span> below the target.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/druid_ability_wildmushroom_b.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=504543'> Mushroom </a> <br />\n                            <span> Drop a <span style=\"color: #ffffff;\">Mushroom</span> near the target that explodes after 2 sec, dealing 303*$<scalingbp>+SP*.35 Plague Damage to all nearby enemies.</span><br /></span></td></tr></table><!--?804989:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

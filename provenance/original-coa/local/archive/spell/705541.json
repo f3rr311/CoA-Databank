@@ -1,0 +1,8 @@
+{
+  "name_enus": "Elemental Assassin",
+  "icon": "inv_smallazeritefragment",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Elemental Assassin</b></td><th><b class=\"q0\">Specialization</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 20 Passive</span><br />Increases your spell damage by 20% of your Agility, your spell critical strike chance by 10% of your Agility, and your hit rating by 5% of your Agility.</span></td></tr></table><!--?705541:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

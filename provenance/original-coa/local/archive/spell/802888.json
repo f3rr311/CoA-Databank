@@ -1,0 +1,8 @@
+{
+  "name_enus": "Eternally Chosen",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Eternally Chosen</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #FFFFFF;\">Spirit Charge</span> and <span style=\"color: #ffffff;\">Primal Rush</span> now summons 2 <span style=\"color: #ffffff;\">Spirits of Life</span> that immediately cast a lesser <span style=\"color: #ffffff;\">Spirit Charge</span> on the nearest ally, healing them for 55+30.0 Points Per Level+NatP*.2+AP*.2 and dealing 62+10.0 Points Per Level+NatP*.2+AP*.2 Nature damage to nearby enemies.</span></td></tr></table><!--?802888:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

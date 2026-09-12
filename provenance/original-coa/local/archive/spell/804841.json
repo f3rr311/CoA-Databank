@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fluxblast",
+  "icon": "inv_staff_19",
+  "tooltip_enus": "<table><tr><td><b>Fluxblast</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cc99ff;\">Depletes 20 Static</span><br />Blasts an enemy for 16 to 22 Arcane damage and adds 3 stacks of <span style=\"color: #ffffff;\">Flux</span> to them. </span></td></tr></table><!--?804841:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

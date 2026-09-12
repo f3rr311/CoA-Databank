@@ -1,0 +1,8 @@
+{
+  "name_enus": "Battle Vigor",
+  "icon": "ability_warrior_rampage",
+  "tooltip_enus": "<table><tr><td><b>Battle Vigor</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ec8201;\">Enrage Effect</span><br />Enrage for 15&nbsp;sec, gaining 40% increased maximum health. After the effect expires, the health is lost.</span></td></tr></table><!--?801768:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

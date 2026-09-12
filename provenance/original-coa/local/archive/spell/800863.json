@@ -1,0 +1,8 @@
+{
+  "name_enus": "Time Stretch",
+  "icon": "_d3slowtime",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Time Stretch</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Changing <span style=\"color: #FFFFFF;\">Aeons</span> now extends the duration of active buffs applied by <span style=\"color: #FFFFFF;\">Aeons</span> by 3 sec. <br /><br /><span style=\"color: #FFFFFF;\">Aeon</span> buffs cannot be extended beyond their maximum duration.</span></td></tr></table><!--?800863:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

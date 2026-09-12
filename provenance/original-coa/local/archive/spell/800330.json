@@ -1,0 +1,8 @@
+{
+  "name_enus": "War Golem",
+  "icon": "inv_misc_archaeology_trollgolem",
+  "tooltip_enus": "<table><tr><td><b>War Golem</b><br />35% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Summon a <span style=\"color: #ffffff;\">War Golem</span> for 10&nbsp;sec, absorbing damage dealt to you based on your Intellect, and redirecting harmful spells cast on nearby allies to itself.</span></td></tr></table><!--?800330:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

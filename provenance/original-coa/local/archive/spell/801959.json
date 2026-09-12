@@ -1,0 +1,8 @@
+{
+  "name_enus": "Eyes In The Night",
+  "icon": "sha_spell_shadow_shadesofdarkness_nightmare",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Eyes In The Night</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Allies within 20 yds are protected by <span style=\"color: #ffffff;\">Shadow Colony</span>, giving them a 40% chance to trigger a <span style=\"color: #ffffff;\">Call of the Darkwing</span> when they take direct damage. Can only occur once every 5 sec.<br /><br />If allies have less health than you when this occurs, generate a large amount of threat against the enemy that triggered it.</span></td></tr></table><!--?801959:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

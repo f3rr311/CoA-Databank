@@ -1,0 +1,15 @@
+{
+  "name_enus": "Templar Strike",
+  "icon": "nhi_hammerofjustice_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Templar Strike</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>40 Energy<br />Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Strike an enemy for 100% Weapon Damage<!--sp801443:0--><!--sp801443-->.</span></td></tr></table><!--?805406:1:1:80-->",
+  "spells_enus": {
+    "801443": [
+      [
+        "",
+        " plus 4 and gain <span style=\"color: #ffffff\">Follow Up</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

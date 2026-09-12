@@ -1,0 +1,8 @@
+{
+  "name_enus": "Pyro Tonic",
+  "icon": "trade_alchemy_potione6",
+  "tooltip_enus": "<table><tr><td><b>Pyro Tonic</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Drink a fiery tonic, increasing your Fire damage dealt by 20% and your critical damage by 10% for 15&nbsp;sec.<br /><br />Only 1 <span style=\"color: #ffffff;\">Tonic</span> can be active at a time.</span></td></tr></table><!--?802277:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

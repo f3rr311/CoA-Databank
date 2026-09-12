@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flamespiller",
+  "icon": "inv_misc_volatilefire",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flamespiller</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Critical strikes with <span style=\"color: #FFFFFF;\">Explode</span> or <span style=\"color: #FFFFFF;\">Flames of Neltharion</span> now extend the duration of <span style=\"color: #FFFFFF;\">Fired Up</span> by 0.5 sec.</span></td></tr></table><!--?805468:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

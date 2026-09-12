@@ -1,0 +1,15 @@
+{
+  "name_enus": "Agile",
+  "icon": "inv_sword_38",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Agile</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Wild Strike</span>, <span style=\"color: #ffffff;\">Whipvine Arrow</span><!--sp500024:0--><!--sp500024-->, and <span style=\"color: #ffffff;\">Ravage</span> by 5%.</span></td></tr></table><!--?705081:1:1:80-->",
+  "spells_enus": {
+    "500024": [
+      [
+        "",
+        ", <span style=\"color: #ffffff\">Assault</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

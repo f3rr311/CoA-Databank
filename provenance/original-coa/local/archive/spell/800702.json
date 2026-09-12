@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hellknight",
+  "icon": "inv_helm_mail_pvphuntergladiator_o_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hellknight</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">While above 75% health, all direct Physical damage dealt will grant a stack of <span style=\"color: #ffffff;\">Hellknight</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_helm_mail_pvphuntergladiator_o_01.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=800703'> Hellknight </a> <br />\n                            <span> Movement speed increased and global cooldowns reduced by 5%. Physical Damage and critical strike chance increased by 1%, stacking 5 times. Lasts 20&nbsp;sec.</span><br /></span></td></tr></table><!--?800702:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spirit of the Phoenix",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spirit of the Phoenix</b></td><th><b class=\"q0\">Spec Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 10 Passive</span><br />Upon taking damage that would otherwise kill you, you are instead transformed into the <span style=\"color: #FFFFFF;\">Spirit of the Phoenix</span> for 15&nbsp;sec.<br /><br />While transformed, your spells have no mana cost and your Spirit is increased by 100%. At the end of the duration, you will be reborn. Can only occur once every 5 min.</span></td></tr></table><!--?803955:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

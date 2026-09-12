@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ambush Predator",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ambush Predator</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Burrow</span> will now apply <span style=\"color: #ffffff;\">Tunnel Below</span> to you.<br /><br />While <span style=\"color: #ffffff;\">Skulk</span> is active every 1 sec you reduce the cooldown of <span style=\"color: #ffffff;\">Burrow</span> by 1 sec.</span></td></tr></table><!--?800878:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Unity",
+  "icon": "ability_druid_cyclone",
+  "tooltip_enus": "<table><tr><td><b>Unity</b><br />28% of base mana<br /><table width=\"100%\"><tr><td>1.5 sec cast</td><th>16&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Heals up to 8 allies within 12 yds of the targeted location for 279 and applies <span style=\"color: #ffffff;\">Shadra's Vigil</span> to them.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_hunter_onewithnature.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=800870'> Shadra's Prayer </a> <br />\n                            <span> Bring the glory of Shadra to an ally, healing them for 32+0+Heal*0.263078, plus 5+0+Heal*0.131086 every 3 sec for 21&nbsp;sec.</span><br /></span></td></tr></table><!--?800904:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

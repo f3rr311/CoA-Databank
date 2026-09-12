@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wraithblade",
+  "icon": "inv_archaeology_orcclans_tattooknife",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Wraithblade</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>40 Runic Power<br /><table width=\"100%\"><tr><td>Instant</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\"><span style=\"color: #5ee2ff;\">Generates 3 Reaped Souls</span><br />Strike for 150% Weapon Damage plus 36+0+SP*0.625+AP*0.18 Shadow damage, ignoring resistances, absorption, and invulnerability effects.</span></td></tr></table><!--?805258:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

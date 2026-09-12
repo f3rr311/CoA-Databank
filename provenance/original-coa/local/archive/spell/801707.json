@@ -1,0 +1,8 @@
+{
+  "name_enus": "Repair Shot",
+  "icon": "ability_siege_engineer_automatic_repair_beam",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Repair Shot</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>28% of base mana<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Fire a healing stimshot at an ally, healing them for 38+0+Heal*0.7.</span></td></tr></table><!--?801707:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

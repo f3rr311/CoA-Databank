@@ -1,0 +1,91 @@
+{
+  "specs": [
+    {
+      "class_key": "class.necromancer",
+      "display_name": "Animation",
+      "fantasy_statement": "Animation fields temporary undead formations and directs their attacks.",
+      "key": "spec.necromancer.animation",
+      "off_affinity_rules": [
+        {
+          "protection_multiplier": 1.08,
+          "rationale": "Plate remains usable but trades spell throughput for protection.",
+          "tag": "armor:plate",
+          "throughput_multiplier": 0.86
+        }
+      ],
+      "preferred_armor_tags": [
+        "armor:cloth"
+      ],
+      "preferred_weapon_tags": [
+        "weapon:staff",
+        "weapon:wand"
+      ],
+      "provenance": {
+        "authoring_rationale": "The accepted C13 pilot closes Archer, Tomb King, and Bone Wraith playability as a five-rank partial tree.",
+        "kind": "reconstructed",
+        "source_references": [
+          "content/classes/necromancer/sources/animation-c13-closure.json"
+        ]
+      },
+      "resource_modifiers": [
+        {
+          "engine_key": "resource.necromancer.runic-power",
+          "operation": "gain-multiplier",
+          "rationale": "This micro-slice changes no baseline Runic Power generation.",
+          "value": 1.0
+        }
+      ],
+      "role": "dps",
+      "rotation_tags": [
+        "summon",
+        "command",
+        "temporary-army"
+      ],
+      "schema_version": "1.0.0",
+      "slug": "animation",
+      "spell_grants": [
+        {
+          "level": 1,
+          "spell_key": "spell.necromancer.lich-bolt"
+        },
+        {
+          "level": 4,
+          "spell_key": "spell.necromancer.crypt-plague"
+        },
+        {
+          "level": 4,
+          "spell_key": "spell.necromancer.crypt-swarm"
+        },
+        {
+          "level": 6,
+          "spell_key": "spell.necromancer.lichfrost"
+        },
+        {
+          "level": 8,
+          "spell_key": "spell.necromancer.grave-silence"
+        },
+        {
+          "level": 10,
+          "spell_key": "spell.necromancer.raise-abomination"
+        },
+        {
+          "level": 10,
+          "spell_key": "spell.necromancer.command-undead"
+        },
+        {
+          "level": 30,
+          "spell_key": "spell.necromancer.animation.command-skeletal-archers"
+        }
+      ],
+      "stat_conversion_profile": [
+        {
+          "coefficient": 0.2,
+          "source_stat": "intellect",
+          "target_stat": "spell-power"
+        }
+      ],
+      "status": "compiles",
+      "tree_key": "tree.necromancer.animation"
+    }
+  ]
+}

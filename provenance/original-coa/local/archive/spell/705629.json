@@ -1,0 +1,8 @@
+{
+  "name_enus": "Arcane Imprisonment",
+  "icon": "spell_priest_void_blast",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Arcane Imprisonment</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Sorcerer's Cage</span> by 4 sec.</span></td></tr></table><!--?705629:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

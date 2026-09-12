@@ -1,0 +1,8 @@
+{
+  "name_enus": "High Tech Shots",
+  "icon": "nhi_poisongun_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>High Tech Shots</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of <span style=\"color: #ffffff;\">Repair Shot</span> and <span style=\"color: #ffffff;\">Scrap Shot</span> by 8%.</span></td></tr></table><!--?806608:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

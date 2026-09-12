@@ -1,0 +1,8 @@
+{
+  "name_enus": "Requiem",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Requiem</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\">Swing at enemies around you in a fury of souls, dealing 67+0+AP*0.4 Shadowfrost Damage, reducing their melee and ranged attack speed by 20% for 15&nbsp;sec, and generating Runic Power.</span></td></tr></table><!--?805717:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

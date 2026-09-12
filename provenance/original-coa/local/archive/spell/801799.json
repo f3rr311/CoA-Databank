@@ -1,0 +1,15 @@
+{
+  "name_enus": "Build: Shield Beacon",
+  "icon": "inv_essenceofwintergrasp",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Build: Shield Beacon</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>10% of base mana<br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">3 Charges, 15 sec recharge</span><br />Throw down a shield beacon for 15&nbsp;sec which projects a force field in a 10 yd radius, increasing the Armor of nearby allies by 220+1.0 Points Per Level.<!--sp524834:0--><!--sp524834--><br /><br />Shares a cooldown with other <span style=\"color: #ffffff;\">Beacons</span></span></td></tr></table><!--?801799:1:1:80-->",
+  "spells_enus": {
+    "524834": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #ffffff\">Overcharge</span>: Applies a shield to allies within 10 yds, absorbing 500+22.5 Points Per Level damage, scaling with the ally's Stamina."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

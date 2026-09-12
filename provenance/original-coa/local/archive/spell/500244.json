@@ -1,0 +1,8 @@
+{
+  "name_enus": "Explosives Expert",
+  "icon": "inv_misc_bomb_07",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Explosives Expert</b></td><th><b class=\"q0\">proc</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Blasts the enemy for 4 Nature damage and empowers your next Scrap Shot.</span></td></tr></table><!--?500244:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

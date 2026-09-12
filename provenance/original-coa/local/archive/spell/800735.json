@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chaos Engraving",
+  "icon": "_auracloak_fire",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Chaos Engraving</b></td><th><b class=\"q0\">Engraving</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases your spell damage by 15% of Intellect and 10% of Spirit and spell critical strike chance by 20% of Spirit.</span></td></tr></table><!--?800735:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

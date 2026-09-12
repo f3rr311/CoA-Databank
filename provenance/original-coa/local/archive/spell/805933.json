@@ -1,0 +1,8 @@
+{
+  "name_enus": "Black Widow",
+  "icon": "spell_shadow_deathsembrace",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Black Widow</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt to enemies below 35% health now reduces the cooldown of <span style=\"color: #ffffff;\">Noxious Empowerment</span> by 2 sec.<br /><br />In addition, your <span style=\"color: #ffffff;\">Widowmaker</span> now deals 20% increased damage to enemies below 35% health.</span></td></tr></table><!--?805933:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

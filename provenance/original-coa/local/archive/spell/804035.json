@@ -1,0 +1,8 @@
+{
+  "name_enus": "Tailwind",
+  "icon": "nhi_frozenarm_border",
+  "tooltip_enus": "<table><tr><td><b>Tailwind</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cc99ff;\">Depletes 20 Static</span><br />Tap into the swift winds, increasing your damage by 10% and granting all allied players 5% increased haste for 15&nbsp;sec.<br /><br />Does not stack with similar effects.</span></td></tr></table><!--?804035:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

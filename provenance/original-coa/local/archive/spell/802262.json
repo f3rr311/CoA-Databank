@@ -1,0 +1,8 @@
+{
+  "name_enus": "Voodoo Fire",
+  "icon": "spell_shaman_firenova",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Voodoo Fire</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Serpent Ward's</span> attacks now have a 20% chance to shoot <span style=\"color: #FFFFFF;\">Voodoo Fire</span>, dealing COND(GT(FireP, NatP), 73*$<scalingbp>+RAP*0.03+FireP*0.12, 73*$<scalingbp>+RAP*0.03+NatP*0.12) Fire damage to up to 3 nearby enemies.</span></td></tr></table><!--?802262:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

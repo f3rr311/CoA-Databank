@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ingredient: Bloodthistle",
+  "icon": "inv_misc_herb_11a",
+  "tooltip_enus": "<table><tr><td><b>Ingredient: Bloodthistle</b><br />5% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>0.5&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Brew <span style=\"color: #ffffff;\">Bloodthistle</span> into your <span style=\"color: #ffffff;\">Cauldron</span>.<br /><br /><span style=\"color: #ffffff;\">Cauldron</span>: Allies within 40 yds receive 8% increased healing.<br /><br /><span style=\"color: #ffffff;\">Potion</span>: Causes target ally to leech 5% of all damage they deal for 15&nbsp;sec. Can only occur once every 0.5 sec.</span></td></tr></table><!--?801664:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

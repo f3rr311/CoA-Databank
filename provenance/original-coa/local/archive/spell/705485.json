@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fiery Blade",
+  "icon": "epic_rpg_icon_pack_fire_0000s_0000_sword_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Fiery Blade</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Gives damage dealt by <span style=\"color: #ffffff;\">Saber Slash</span> a 100% chance to deal 2 additional Fire Damage.</span></td></tr></table><!--?705485:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

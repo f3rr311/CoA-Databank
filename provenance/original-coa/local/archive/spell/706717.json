@@ -1,0 +1,15 @@
+{
+  "name_enus": "Scorching Demeanor",
+  "icon": "achievement_firelands_raid_ragnaros",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Scorching Demeanor</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Flare Bolt</span> by 10%<!--sp500173:0--><!--sp500173-->.</span></td></tr></table><!--?706717:1:1:80-->",
+  "spells_enus": {
+    "500173": [
+      [
+        "",
+        " and <span style=\"color: #ffffff\">Breaths</span> by 5%"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

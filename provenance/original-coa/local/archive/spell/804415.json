@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hullbreaker",
+  "icon": "inv_archaeology_ogres_warmaul_chieftain",
+  "tooltip_enus": "<table><tr><td><b>Hullbreaker</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Smash an enemy target for 86+0+AP*0.152 Physical Damage and increase Physical Damage they take from you by 10% for 15&nbsp;sec.</span></td></tr></table><!--?804415:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fel Cannon",
+  "icon": "inv_gizmo_felironbomb",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Fel Cannon</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of <span style=\"color: #FFFFFF;\">Fel Fireball</span> and <span style=\"color: #FFFFFF;\">Ruin</span> by 15% on enemies above 75% health.</span></td></tr></table><!--?802180:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

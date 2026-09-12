@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cosmic Duality",
+  "icon": "spell_shaman_elementaloath",
+  "tooltip_enus": "<table><tr><td><b>Cosmic Duality</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Lunar Renewal</span> will increase the damage of your next <span style=\"color: #ffffff;\">Starfire Shot</span> by 25%.<br /><br />Inversely, your <span style=\"color: #ffffff;\">Starfire Shot</span> ability reduces the mana consumed by your next <span style=\"color: #ffffff;\">Lunar Renewal</span> by 40% without impacting its heal amount.</span></td></tr></table><!--?801998:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

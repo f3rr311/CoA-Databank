@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lethal Saw",
+  "icon": "inv_cooking_80_meatyhaunch",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lethal Saw</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the critical strike chance of <span style=\"color: #ffffff;\">Meatsaw</span> by 5%.</span></td></tr></table><!--?705010:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

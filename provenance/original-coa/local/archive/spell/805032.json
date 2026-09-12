@@ -1,0 +1,8 @@
+{
+  "name_enus": "Animate: Bone Wraith",
+  "icon": "achievement_boss_lordmarrowgar",
+  "tooltip_enus": "<table><tr><td><b>Animate: Bone Wraith</b><br />28% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Animate a <span style=\"color: #ffffff;\">Bone Wraith</span> to aid you in combat for 15&nbsp;sec.<br /><br />While active, it will periodically unleash a <span style=\"color: #ffffff;\">Bonestorm</span>, striking up to 5 nearby enemies for 30+1.0 Points Per Level+SP*.4 Physical damage every 0.5 sec for 5&nbsp;sec.</span></td></tr></table><!--?805032:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

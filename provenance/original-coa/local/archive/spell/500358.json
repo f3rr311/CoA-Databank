@@ -1,0 +1,15 @@
+{
+  "name_enus": "Crimson Harvest",
+  "icon": "ability_revendreth_rogue",
+  "tooltip_enus": "<table><tr><td><b>Crimson Harvest</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Deals 1 health every 0.5 sec to the target for 2&nbsp;sec, healing the caster for 80% of the value.<!--sp705416:0--><!--sp705416--><br /><br /><span style=\"color: #5ee2ff;\">Soul Infusion</span>: Has a % increased tick rate.</span></td></tr></table><!--?500358:1:1:80-->",
+  "spells_enus": {
+    "705416": [
+      [
+        "",
+        " While active, you take 0% increased healing."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

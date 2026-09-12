@@ -1,0 +1,8 @@
+{
+  "name_enus": "Gaze of the Black Knight",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Gaze of the Black Knight</b><br />27% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Apply a dark shield to yourself, absorbing 3255+0+Sta*7+AP*.41 damage and then gaze upon your party members, causing 25% of the damage they take to be transferred to you for 12&nbsp;sec.<br /><br />Damage which reduces your health below 20% will break the effect.<br /><br />Usable while stunned.</span></td></tr></table><!--?802138:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

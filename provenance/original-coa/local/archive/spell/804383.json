@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vanguard's Shield",
+  "icon": "inv_shield_32",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Vanguard's Shield</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Blocking an attack or landing an auto attack now grants a stack of <span style=\"color: #ffffff;\">Vanguard</span> for 1&nbsp;min, stacking 10 times.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_shield_32.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804384'> Vanguard's Shield </a> <br />\n                            <span> Magic Damage taken reduced by 2%. Whenever you are hit by a spell, you lose 1 stack of this effect.</span><br /></span></td></tr></table><!--?804383:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

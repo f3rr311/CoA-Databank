@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lorescribe",
+  "icon": "achievement_faction_lorewalkers",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lorescribe</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 40 Passive</span><br />Casting <span style=\"color: #ffffff;\">Oath Breaker</span> abilities now reduce the cooldown of <span style=\"color: #ffffff;\">Librams</span> by 4 sec.</span></td></tr></table><!--?804927:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

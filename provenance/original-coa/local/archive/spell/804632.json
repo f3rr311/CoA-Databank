@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flames of Absolution",
+  "icon": "nhi_holyrod_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flames of Absolution</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Horusath Blast</span> now launches a <span style=\"color: #ffffff;\">Solar Flare</span> at up to 5 enemies within 5 yds of your target.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_druid_sunfall.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=807175'> Solar Flare </a> <br />\n                            <span> Deals 51+<UNK: $ppl2>+SP*0.26 Holyflame Damage and reduces the target's chance to hit by 3% for 10&nbsp;sec.</span><br /></span></td></tr></table><!--?804632:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

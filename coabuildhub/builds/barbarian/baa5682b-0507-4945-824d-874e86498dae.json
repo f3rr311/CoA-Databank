@@ -1,0 +1,204 @@
+{
+ "build": {
+  "id": "baa5682b-0507-4945-824d-874e86498dae",
+  "title": "野蛮人",
+  "description": "",
+  "class_id": 12,
+  "spec_id": 31,
+  "author_id": "1325afd0-9a18-4c26-a750-c13b63984c15",
+  "talent_string": "W1siMTItODctMS0wIiwxXSxbIjEyLTg3LTQtMCIsMV0sWyIxMi04Ny03LTAiLDFdLFsiMTItODctNy0xIiwxXSxbIjEyLTg3LTYtMiIsMV0sWyIxMi04Ny03LTMiLDFdXQ",
+  "tags": [
+   "全能"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 1,
+  "comment_count": 0,
+  "created_at": "2026-07-14T17:14:04.889364+00:00",
+  "updated_at": "2026-07-14T17:14:04.889364+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 1574,
+  "net_score": -1,
+  "has_talents": true,
+  "guide_section_count": 0,
+  "author": {
+   "id": "1325afd0-9a18-4c26-a750-c13b63984c15",
+   "username": "王磊",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIFaDvBnlqvYSxMXMlbUj1qt_r716sDbQeuT8qbVwPjJLJhJ4I=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "8d73bb23-fea4-4028-ac58-b4a340425c58",
+   "title": "BigZuggs PVP Hybrid Spearthrower",
+   "class_id": 12,
+   "spec_id": 32,
+   "author_id": "6dbd1e52-e618-4ea7-94cb-2897a6c96d2e",
+   "tags": [
+    "pvp",
+    "survivability",
+    "dps",
+    "bleed"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 387,
+   "featured": false,
+   "created_at": "2026-07-27T01:28:02.035657+00:00",
+   "updated_at": "2026-07-27T01:33:09.953+00:00",
+   "has_talents": true,
+   "guide_section_count": 2,
+   "author": {
+    "id": "6dbd1e52-e618-4ea7-94cb-2897a6c96d2e",
+    "username": "bigzuggs",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "cd0b0cbc-76b4-4bb2-9ab4-fcdba4797f24",
+   "title": "Leveling",
+   "class_id": 12,
+   "spec_id": 31,
+   "author_id": "34851922-debc-4b61-a80f-4ca5adea497e",
+   "tags": [],
+   "role": "dps",
+   "content_type": "leveling",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 2,
+   "view_count": 1308,
+   "featured": false,
+   "created_at": "2026-07-23T12:39:29.831424+00:00",
+   "updated_at": "2026-07-23T12:43:53.913+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "34851922-debc-4b61-a80f-4ca5adea497e",
+    "username": "Nunya Bizness",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIjI299m8x9e5A021EV7SJu2p6G-V7UOuLmANPA-hANfPfz2Q=s96-c"
+   }
+  },
+  {
+   "id": "9c09cde8-a9e3-46cd-8e18-72bb319cba20",
+   "title": "Headhunter PvP build",
+   "class_id": 12,
+   "spec_id": 32,
+   "author_id": "11bb1186-b9e0-4aaf-8dcc-2290874521b7",
+   "tags": [
+    "BGs 3v3 2v2 build"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 704,
+   "featured": false,
+   "created_at": "2026-07-23T02:47:00.12283+00:00",
+   "updated_at": "2026-07-23T02:47:00.12283+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "11bb1186-b9e0-4aaf-8dcc-2290874521b7",
+    "username": "drozelol",
+    "avatar_url": "https://cdn.discordapp.com/avatars/106538134396743680/261f0a42efcddfd13b37cfa114cdbccf.png"
+   }
+  }
+ ],
+ "class": "Barbarian",
+ "spec": "Brutality",
+ "allocations": [
+  [
+   "12-87-1-0",
+   1
+  ],
+  [
+   "12-87-4-0",
+   1
+  ],
+  [
+   "12-87-7-0",
+   1
+  ],
+  [
+   "12-87-7-1",
+   1
+  ],
+  [
+   "12-87-6-2",
+   1
+  ],
+  [
+   "12-87-7-3",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "12-87-1-0",
+   "points": 1,
+   "name": "Maiming Spear",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 804139
+  },
+  {
+   "id": "12-87-4-0",
+   "points": 1,
+   "name": "Jawbreaker",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 802792
+  },
+  {
+   "id": "12-87-7-0",
+   "points": 1,
+   "name": "Ancestral Roar",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 500918
+  },
+  {
+   "id": "12-87-7-1",
+   "points": 1,
+   "name": "One With The Ancestors",
+   "maxPoints": 2,
+   "tree": "Barbarian (class tree)",
+   "spellId": 560452
+  },
+  {
+   "id": "12-87-6-2",
+   "points": 1,
+   "name": "Unstoppable Rage",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 706353
+  },
+  {
+   "id": "12-87-7-3",
+   "points": 1,
+   "name": "Warband",
+   "maxPoints": 1,
+   "tree": "Barbarian (class tree)",
+   "spellId": 560883
+  }
+ ]
+}

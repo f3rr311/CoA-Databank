@@ -1,0 +1,21 @@
+{
+  "name_enus": "Hasten",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Hasten</b><br />17% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Hasten time for an ally, increasing movement speed and haste by 20%<!--sp706107:0--><!--sp706107-->. Lasts 12&nbsp;sec.<!--sp706099:0--><!--sp706099--></span></td></tr></table><!--?801304:1:1:80-->",
+  "spells_enus": {
+    "706107": [
+      [
+        "",
+        " and granting them a 25% chance when they deal damage to strike the target an additional time equal to 30% of the damage dealt"
+      ]
+    ],
+    "706099": [
+      [
+        "",
+        "<br /><br />While active the cooldowns of <span style=\"color: #ffffff\">Dimensional Divergence</span>, <span style=\"color: #ffffff\">Backtrack</span>, and <span style=\"color: #ffffff\">Timeguard</span> are reduced by 10% every 2 sec."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

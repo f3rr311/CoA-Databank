@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spirit Eclipse",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spirit Eclipse</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>12% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Unleash your <span style=\"color: #ffffff;\">Spirits</span> on an enemy, dealing 8+0+RAP*.07+ShaP*.12 Shadow damage every 0.2 sec for each active <span style=\"color: #ffffff;\">Spirit</span>.<br /><br />Each <span style=\"color: #ffffff;\">Spirit</span> explodes on impact, dealing 71*$<scalingbp>+ShaP*.06+RAP*.035 Shadow damage to other nearby enemies within 5 yds of the target.</span></td></tr></table><!--?801607:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

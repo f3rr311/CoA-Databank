@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hastened Shots",
+  "icon": "_smallgun_red",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hastened Shots</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cast time of <span style=\"color: #ffffff;\">Repair Shots</span> and reduces the cooldown of <span style=\"color: #ffffff;\">Rounds</span> by 30%.</span></td></tr></table><!--?705813:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rune Master",
+  "icon": "inv_misc_rune_15",
+  "tooltip_enus": "<table><tr><td><b>Rune Master</b><br />0 Mana, plus 10 per sec<br /><table width=\"100%\"><tr><td>2 sec cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empowers your spellcasting while draining mana periodically for 15&nbsp;sec.<br /><br />Each time you deal Magic Damage you gain 3% increased spell haste, 3% increased Magic Damage, and 3% increased mana costs.<br /><br />While active you can not move, but <span style=\"color: #ffffff;\">Ley Walk</span> and <span style=\"color: #ffffff;\">Warp</span> are able to be cast to reposition.</span></td></tr></table><!--?800126:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

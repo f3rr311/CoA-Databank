@@ -1,0 +1,8 @@
+{
+  "name_enus": "Stoicism",
+  "icon": "inv_helmet_leather_pvprogue_c_01",
+  "tooltip_enus": "<table><tr><td><b>Stoicism</b><br />22% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Strengthen your mental resolve and enhance your reflexes, increasing your chance to parry and dodge attacks by 30% for 8&nbsp;sec. </span></td></tr></table><!--?804802:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

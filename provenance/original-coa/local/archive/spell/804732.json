@@ -1,0 +1,8 @@
+{
+  "name_enus": "Unstoppable",
+  "icon": "spell_warrior_dragoncharge",
+  "tooltip_enus": "<table><tr><td><b>Unstoppable</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the duration of Stun, Root and movement speed reduction effects used against you by 25%.</span></td></tr></table><!--?804732:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

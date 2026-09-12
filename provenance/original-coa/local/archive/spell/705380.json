@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bring Down The Hammer!",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Bring Down The Hammer!</b><br /></td></tr></table><table><tr><td><span class=\"q\">Increases the Armor provided by <span style=\"color: #ffffff;\">Shieldforge</span> by 0%.</span></td></tr></table><!--?705380:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

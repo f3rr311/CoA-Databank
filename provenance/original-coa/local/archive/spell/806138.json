@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spellcaster's Decree",
+  "icon": "inv_misc_scrollunrolled02d",
+  "tooltip_enus": "<table><tr><td><b>Spellcaster's Decree</b><br />25 Energy<br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empowers an ally for 15&nbsp;sec, increasing their spell haste by 10% and reducing the cost of their spells and abilities by 10% and granting <span style=\"color: #ffffff;\">Inspiration</span> to all nearby allies.<br /><br />Applies <span style=\"color: #ffffff;\">Confidence</span> to the target for 1&nbsp;min.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_misc_emotionhappy.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=806137'> Confidence </a> <br />\n                            <span> Damage taken reduced by 2%. <br /><br />Cannot benefit from <span style=\"color: #ffffff;\">Decree</span> spells.</span><br /></span></td></tr></table><!--?806138:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

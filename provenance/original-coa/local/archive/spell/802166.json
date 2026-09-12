@@ -1,0 +1,8 @@
+{
+  "name_enus": "Deep Breaths",
+  "icon": "ability_mount_reddrakemount",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Deep Breaths</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of your <span style=\"color: #ffffff;\">Breath of Alexstrasza</span> by 30 sec.</span></td></tr></table><!--?802166:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

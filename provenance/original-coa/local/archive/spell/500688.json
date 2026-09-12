@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spiritual Ascension",
+  "icon": "ability_paladin_selflesshealer",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spiritual Ascension</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>2 sec cast</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Call an ally's spirit back to their body, bringing them back to life.<br /><br />Usable while in combat.</span></td></tr></table><!--?500688:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

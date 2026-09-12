@@ -1,0 +1,8 @@
+{
+  "name_enus": "Web Wrap",
+  "icon": "nhi_natureweb_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Web Wrap</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>8% of base mana<br /><table width=\"100%\"><tr><td>Channeled</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Channels a beam of webbing at an enemy, slowing their movement speed by 60% and inflicting 20+0+NatP*0.2 Nature damage every 1 sec for 4&nbsp;sec.<br /><br />While active, the target takes 30% increased damage from your other periodic damage effects.<br /><br />Can be used in any form.</span></td></tr></table><!--?800876:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Eye of the Beholder",
+  "icon": "nhi_arcanevision_border",
+  "tooltip_enus": "<table><tr><td><b>Eye of the Beholder</b><br />38% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your spell critical strike chance by 25% for 15&nbsp;sec.<br /><br />While active, the damage of your <span style=\"color: #ffffff;\">Glyphic Ruin</span> and <span style=\"color: #ffffff;\">Primordial Blast</span> is increased by 25%.</span></td></tr></table><!--?500121:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

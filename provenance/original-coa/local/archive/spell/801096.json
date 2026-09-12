@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ley Power",
+  "icon": "inv_ascend_magicartifact_13",
+  "tooltip_enus": "<table><tr><td><b>Ley Power</b><br />14% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Divert ley energy into your weapons, drawing power from enemies within 20 yds of you. For each enemy in the radius, your damage dealt deals an additional 10% of the damage as Arcane damage, up to 100%, for 15&nbsp;sec.<br /><br />While active, melee attacks and abilities grant you <span style=\"color: #ffffff;\">Harnessed Leylines</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/novart_magicspell_(25)_border.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804316'> Harnessed Leylines </a> <br />\n                            <span> Increases the damage of your <span style=\"color: #FFFFFF;\">Runeblade</span> and <span style=\"color: #ffffff;\">Elemental Burst</span> by 3%, stacking up to 10 times.<br /><br />Additional applications do not refresh the effect.</span><br /></span></td></tr></table><!--?801096:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

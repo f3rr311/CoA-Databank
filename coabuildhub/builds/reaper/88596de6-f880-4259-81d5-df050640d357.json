@@ -1,0 +1,781 @@
+{
+ "build": {
+  "id": "88596de6-f880-4259-81d5-df050640d357",
+  "title": "Reaper Tank Dungs/Raid/Hit/Parry/ST",
+  "description": "[overview]\nHello, welcome to this Reaper Tank guide. Here you’ll learn how to play this class. My name is depletopaper. Ever since I started playing, I’ve focused solely on tanking. I love this class’s mobility and damage, as well as its high durability during big pulls and its self-healing ability. Starting at level 15, I leveled up exclusively by running random dungeons, and after nearly 482 dungeons, I can teach you a thing or two.\n\nIf you need help, feel free to add me on Discord.\n\nDiscord: bvflowers. \nHorde Gamenick: Bvflower\n\n[talents]\nIn our main build, we'll focus on mobility and endurance, as well as runic regeneration. We'll utilize several key cooldowns to maximize our survivability and damage.\n\n1: Tormented Soul\n2:Sytche Rush\n3: Wraithblade\n4: Vellwalk for speed\n5: Soultap for Fast Runic\n6: Limbo for Autoclean\n7: Jailer Shield\n\nDomination: \nHere in the Domination branch, we have a variation: some people play with Guardian and rely on its shield, but honestly, it has a pretty long cooldown (3 minutes) and the shield is mediocre. It’s better to have the damage mitigation from Life Harness and the constant reset from our Dreadwake.\n\n[rotation]\nFor single-target combat, we’ll rely solely on Reap; we’ll charge our souls and use Tormented Souls—this will be our primary defensive ability. Then we’ll proceed to spam Dreadwake and Soul Strike. In addition, if we aren’t taking too much damage, we can use the Scythe and Relic of the Lost to maximize damage.\n\nIt’s also very important to remember that during damage spikes, we’ll need to use Bolstered Form, Soul Strike, and Tormented Soul to survive. In addition, we can support ourselves by using Deathwing, as it will help us heal 10% more from all sources.\n\nBig Pull Dungeons:\nHere we’ll change our strategy. We’ll aim for a large pull, since the larger the pull, the more healing, resilience, and runic regeneration we’ll have. It’s very important that we always charge our Tormented Soul to the maximum before starting a pull to ensure safety. We’ll begin the pull with Sytche Rush, then return to a position to cast LOS with Vellwalk. (Spells are our worst enemy.) Then, once the pull is grouped together, we’ll use Soul Tap and cast Dreadwake until we have Tormented Souls. With our Tormented Souls buff, we’ll use 3 Dreadwakes to fully charge our souls, and then we’ll use Relic of the Lost. then we’ll use Reap and apply our Wraithblade to one target. With this, we’ll be able to cast Spectral Sytche; we’ll cast Reap and just spam Reap/Tormented Soul/Dreadwake until the pull dies. It’s important\n\n[stats]\nHit: 20/20 This increase a melee chance hit at level 60\nExpertise: 12\nParry: With parry, things change a bit. We can start at 18% just by using basic parry items, or we can boost it further by seeking out parry items and the upgraded Worldforged sword that grants parry. In any case, I recommend checking out Bisgearcoa to see the best weapon options that provide parry.\nArmor:8500\nStamina\nStrenght\n\n[gear]\nI'll post the current best team in this link \nhttps://imgur.com/a/7yK78I4\n\n[enchants]\nHit Rating\nExpertise\nHealth\nStats\n\n[tips]\nIt's best to practice rotating through Big Pulls to generate as much runic power as possible; if you do it right, you'll deal more damage than a DPS and last a long time.",
+  "class_id": 30,
+  "spec_id": 81,
+  "author_id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+  "talent_string": "W1siMzAtODctNi0wIiwxXSxbIjMwLTg3LTgtMSIsMV0sWyIzMC04Ny03LTIiLDFdLFsiMzAtODctNS0xIiwxXSxbIjMwLTg3LTQtMiIsMl0sWyIzMC04Ny00LTAiLDFdLFsiMzAtODctMy0xIiwxXSxbIjMwLTg3LTEtMiIsMV0sWyIzMC04Ny03LTMiLDFdLFsiMzAtODctNi00IiwxXSxbIjMwLTg3LTgtNCIsMV0sWyIzMC04Ny03LTUiLDFdLFsiMzAtODctOC02IiwxXSxbIjMwLTg3LTQtNSIsMl0sWyIzMC04Ny02LTYiLDFdLFsiMzAtODctNi03IiwxXSxbIjMwLTg3LTQtNiIsMV0sWyIzMC04Ny00LTciLDFdLFsiMzAtODctMi0wIiwxXSxbIjMwLTg3LTYtOCIsMV0sWyIzMC04Ny02LTkiLDFdLFsiMzAtODctMS0zIiwxXSxbIjMwLTg3LTAtNCIsMV0sWyIzMC04MS00LTAiLDFdLFsiMzAtODEtNi0xIiwyXSxbIjMwLTgxLTItMSIsMV0sWyIzMC04MS0xLTIiLDFdLFsiMzAtODEtMS0zIiwxXSxbIjMwLTgxLTctMmIiLDFdLFsiMzAtODEtNy0zIiwxXSxbIjMwLTgxLTAtNCIsMV0sWyIzMC04MS0xLTUiLDFdLFsiMzAtODEtMC03IiwxXSxbIjMwLTgxLTMtNCIsMV0sWyIzMC04MS00LTIiLDFdLFsiMzAtODEtNC0zIiwyXSxbIjMwLTgxLTUtNCIsMV0sWyIzMC04MS04LTRhIiwxXSxbIjMwLTgxLTctNSIsMV0sWyIzMC04MS01LTUiLDFdLFsiMzAtODEtNi02IiwxXSxbIjMwLTgxLTgtNyIsMV0sWyIzMC04MS0zLTUiLDFdLFsiMzAtODEtNC02IiwxXSxbIjMwLTgxLTYtOCIsMV0sWyIzMC04MS02LTkiLDFdLFsiMzAtODEtMTAtMCIsMV0sWyIzMC04MS0xMC0yIiwxXSxbIjMwLTgxLTEwLTQiLDFdXQ",
+  "tags": [
+   "Tank",
+   "reaper",
+   "sustain",
+   "damage",
+   "aoe",
+   "shield",
+   "kazzak",
+   "raid"
+  ],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 5,
+  "downvotes": 0,
+  "comment_count": 3,
+  "created_at": "2026-07-18T20:36:27.817689+00:00",
+  "updated_at": "2026-07-21T22:44:52.863+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 3563,
+  "net_score": 5,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+   "username": "bvflowers.",
+   "avatar_url": "https://cdn.discordapp.com/avatars/1445260398474432556/5f38aa6b11650a30cf3ddfe52dd91486.png"
+  }
+ },
+ "comments": [
+  {
+   "id": "84df4c35-f73e-4bd8-9eda-908c8bf1e0a6",
+   "build_id": "88596de6-f880-4259-81d5-df050640d357",
+   "author_id": "8ace222b-3250-4659-a0c9-1fa072fe25fc",
+   "parent_id": null,
+   "body": "no requiem in large pulls rotations ? btw W guide",
+   "upvotes": 0,
+   "created_at": "2026-07-19T16:57:50.553246+00:00",
+   "updated_at": "2026-07-19T16:57:50.553246+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "8ace222b-3250-4659-a0c9-1fa072fe25fc",
+    "username": "Uchiha ByFrik",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKONqwxaMx1nI_OSzt-p21rJOj0iRQDT93u6Nb5uMjzg8BgfcZl=s96-c"
+   }
+  },
+  {
+   "id": "618f26d0-a481-4708-a48d-0c3d4a23370b",
+   "build_id": "88596de6-f880-4259-81d5-df050640d357",
+   "author_id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+   "parent_id": "84df4c35-f73e-4bd8-9eda-908c8bf1e0a6",
+   "body": "actually requiem suck in large pull, u can use soulslam, or tormented soul, requiem is like 0.5% damage",
+   "upvotes": 0,
+   "created_at": "2026-07-20T03:47:52.997441+00:00",
+   "updated_at": "2026-07-20T03:47:52.997441+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "ba0790d1-3e16-4151-9550-6b8ebebfaf09",
+    "username": "bvflowers.",
+    "avatar_url": "https://cdn.discordapp.com/avatars/1445260398474432556/5f38aa6b11650a30cf3ddfe52dd91486.png"
+   }
+  },
+  {
+   "id": "47dbedba-f06b-48c1-a97a-b7e571085be0",
+   "build_id": "88596de6-f880-4259-81d5-df050640d357",
+   "author_id": "43b11227-0688-400b-b9bf-ea982914a028",
+   "parent_id": null,
+   "body": "Hi, is there a specific order for leveling up talents?",
+   "upvotes": 0,
+   "created_at": "2026-07-22T22:25:13.406706+00:00",
+   "updated_at": "2026-07-22T22:25:13.406706+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "43b11227-0688-400b-b9bf-ea982914a028",
+    "username": "Benjamin eduardo Ramirez pacheco",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIx_PicmpIXtMqgCF5K8suu2DyvlISc22pQ-O2fMuu3G6VwT78=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "abdf893c-83d0-4c9e-990f-4630c8d854ac",
+   "title": "Harvest PvP King",
+   "class_id": 30,
+   "spec_id": 79,
+   "author_id": "fe93b8d9-5bb6-4b72-a1bb-29e62638a07a",
+   "tags": [
+    "PvP",
+    "BG"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 3067,
+   "featured": false,
+   "created_at": "2026-07-22T10:25:42.042729+00:00",
+   "updated_at": "2026-07-26T11:46:10.651+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "fe93b8d9-5bb6-4b72-a1bb-29e62638a07a",
+    "username": "NxSqq",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKrz-EmNorutr7-9j0uI0vcrbY282S24-Dy0V7XT3hl8M27sAZE=s96-c"
+   }
+  },
+  {
+   "id": "2c5d077a-6cec-4793-a39a-6b872ea55690",
+   "title": "Reaper PVP BIS",
+   "class_id": 30,
+   "spec_id": 80,
+   "author_id": "e877936a-f28e-45ed-ae43-af06520e0733",
+   "tags": [
+    "pvp"
+   ],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1242,
+   "featured": false,
+   "created_at": "2026-07-23T06:35:07.072239+00:00",
+   "updated_at": "2026-07-28T02:43:33.674+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "e877936a-f28e-45ed-ae43-af06520e0733",
+    "username": "ataraxiex",
+    "avatar_url": "https://cdn.discordapp.com/avatars/263704149642706946/85e702a8a350831a54d9159438a40ad7.png"
+   }
+  },
+  {
+   "id": "46b725b6-bad9-4fc8-9e58-c7318d67c154",
+   "title": "Harvest pve",
+   "class_id": 30,
+   "spec_id": 79,
+   "author_id": "ba8210af-259c-441e-b8b2-cad9ec91e102",
+   "tags": [
+    "raid",
+    "leveling",
+    "aoe"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 1,
+   "comment_count": 3,
+   "view_count": 3462,
+   "featured": false,
+   "created_at": "2026-07-18T17:55:41.425815+00:00",
+   "updated_at": "2026-07-18T17:55:41.425815+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "ba8210af-259c-441e-b8b2-cad9ec91e102",
+    "username": "Khazer",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK8tcbkRb2wgNac2QYJGwBUu2wJlKRzRiViJHpJOjz4c_m5cPIizA=s96-c"
+   }
+  }
+ ],
+ "class": "Reaper",
+ "spec": "Domination",
+ "allocations": [
+  [
+   "30-87-6-0",
+   1
+  ],
+  [
+   "30-87-8-1",
+   1
+  ],
+  [
+   "30-87-7-2",
+   1
+  ],
+  [
+   "30-87-5-1",
+   1
+  ],
+  [
+   "30-87-4-2",
+   2
+  ],
+  [
+   "30-87-4-0",
+   1
+  ],
+  [
+   "30-87-3-1",
+   1
+  ],
+  [
+   "30-87-1-2",
+   1
+  ],
+  [
+   "30-87-7-3",
+   1
+  ],
+  [
+   "30-87-6-4",
+   1
+  ],
+  [
+   "30-87-8-4",
+   1
+  ],
+  [
+   "30-87-7-5",
+   1
+  ],
+  [
+   "30-87-8-6",
+   1
+  ],
+  [
+   "30-87-4-5",
+   2
+  ],
+  [
+   "30-87-6-6",
+   1
+  ],
+  [
+   "30-87-6-7",
+   1
+  ],
+  [
+   "30-87-4-6",
+   1
+  ],
+  [
+   "30-87-4-7",
+   1
+  ],
+  [
+   "30-87-2-0",
+   1
+  ],
+  [
+   "30-87-6-8",
+   1
+  ],
+  [
+   "30-87-6-9",
+   1
+  ],
+  [
+   "30-87-1-3",
+   1
+  ],
+  [
+   "30-87-0-4",
+   1
+  ],
+  [
+   "30-81-4-0",
+   1
+  ],
+  [
+   "30-81-6-1",
+   2
+  ],
+  [
+   "30-81-2-1",
+   1
+  ],
+  [
+   "30-81-1-2",
+   1
+  ],
+  [
+   "30-81-1-3",
+   1
+  ],
+  [
+   "30-81-7-2b",
+   1
+  ],
+  [
+   "30-81-7-3",
+   1
+  ],
+  [
+   "30-81-0-4",
+   1
+  ],
+  [
+   "30-81-1-5",
+   1
+  ],
+  [
+   "30-81-0-7",
+   1
+  ],
+  [
+   "30-81-3-4",
+   1
+  ],
+  [
+   "30-81-4-2",
+   1
+  ],
+  [
+   "30-81-4-3",
+   2
+  ],
+  [
+   "30-81-5-4",
+   1
+  ],
+  [
+   "30-81-8-4a",
+   1
+  ],
+  [
+   "30-81-7-5",
+   1
+  ],
+  [
+   "30-81-5-5",
+   1
+  ],
+  [
+   "30-81-6-6",
+   1
+  ],
+  [
+   "30-81-8-7",
+   1
+  ],
+  [
+   "30-81-3-5",
+   1
+  ],
+  [
+   "30-81-4-6",
+   1
+  ],
+  [
+   "30-81-6-8",
+   1
+  ],
+  [
+   "30-81-6-9",
+   1
+  ],
+  [
+   "30-81-10-0",
+   1
+  ],
+  [
+   "30-81-10-2",
+   1
+  ],
+  [
+   "30-81-10-4",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "30-87-6-0",
+   "points": 1,
+   "name": "Tormented Souls",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 500483
+  },
+  {
+   "id": "30-87-8-1",
+   "points": 1,
+   "name": "Soulfused Constitution",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 561100
+  },
+  {
+   "id": "30-87-7-2",
+   "points": 1,
+   "name": "Jailer's Bargain",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805718
+  },
+  {
+   "id": "30-87-5-1",
+   "points": 1,
+   "name": "Soul Harvester",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 804311
+  },
+  {
+   "id": "30-87-4-2",
+   "points": 2,
+   "name": "Soul Warden",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 560419
+  },
+  {
+   "id": "30-87-4-0",
+   "points": 1,
+   "name": "Scythe Rush",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 500359
+  },
+  {
+   "id": "30-87-3-1",
+   "points": 1,
+   "name": "Backswing",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 706790
+  },
+  {
+   "id": "30-87-1-2",
+   "points": 1,
+   "name": "Veilwalk",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 803990
+  },
+  {
+   "id": "30-87-7-3",
+   "points": 1,
+   "name": "Harvester's Scythe",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805188
+  },
+  {
+   "id": "30-87-6-4",
+   "points": 1,
+   "name": "Dominion",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 803999
+  },
+  {
+   "id": "30-87-8-4",
+   "points": 1,
+   "name": "Burial Rites",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 560422
+  },
+  {
+   "id": "30-87-7-5",
+   "points": 1,
+   "name": "Limbo",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 800845
+  },
+  {
+   "id": "30-87-8-6",
+   "points": 1,
+   "name": "Dark Passage",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 704558
+  },
+  {
+   "id": "30-87-4-5",
+   "points": 2,
+   "name": "Spectre Strength",
+   "maxPoints": 2,
+   "tree": "Reaper (class tree)",
+   "spellId": 804671
+  },
+  {
+   "id": "30-87-6-6",
+   "points": 1,
+   "name": "Soul Protector",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 300553
+  },
+  {
+   "id": "30-87-6-7",
+   "points": 1,
+   "name": "Essence Invigoration",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805186
+  },
+  {
+   "id": "30-87-4-6",
+   "points": 1,
+   "name": "Soul Tap",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 807397
+  },
+  {
+   "id": "30-87-4-7",
+   "points": 1,
+   "name": "Mawborn",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805203
+  },
+  {
+   "id": "30-87-2-0",
+   "points": 1,
+   "name": "Wraithblade",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805258
+  },
+  {
+   "id": "30-87-6-8",
+   "points": 1,
+   "name": "Soul Harvest",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 504012
+  },
+  {
+   "id": "30-87-6-9",
+   "points": 1,
+   "name": "Soul Furnace",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 805184
+  },
+  {
+   "id": "30-87-1-3",
+   "points": 1,
+   "name": "Ghastly Form",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 704357
+  },
+  {
+   "id": "30-87-0-4",
+   "points": 1,
+   "name": "Soulstrider",
+   "maxPoints": 1,
+   "tree": "Reaper (class tree)",
+   "spellId": 572340
+  },
+  {
+   "id": "30-81-4-0",
+   "points": 1,
+   "name": "Dreadwake",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 803992
+  },
+  {
+   "id": "30-81-6-1",
+   "points": 2,
+   "name": "Dark Soldier",
+   "maxPoints": 2,
+   "tree": "Domination",
+   "spellId": 560490
+  },
+  {
+   "id": "30-81-2-1",
+   "points": 1,
+   "name": "Empyrean Fortitude",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 706795
+  },
+  {
+   "id": "30-81-1-2",
+   "points": 1,
+   "name": "Soultaker",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 704356
+  },
+  {
+   "id": "30-81-1-3",
+   "points": 1,
+   "name": "Bolstered Form",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 680337
+  },
+  {
+   "id": "30-81-7-2b",
+   "points": 1,
+   "name": "Lifestealer",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 301366
+  },
+  {
+   "id": "30-81-7-3",
+   "points": 1,
+   "name": "Spectral Scythe",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 500484
+  },
+  {
+   "id": "30-81-0-4",
+   "points": 1,
+   "name": "Intimidating Presence",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 560478
+  },
+  {
+   "id": "30-81-1-5",
+   "points": 1,
+   "name": "Harnessed Life",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 705406
+  },
+  {
+   "id": "30-81-0-7",
+   "points": 1,
+   "name": "Hard Bargain",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 300569
+  },
+  {
+   "id": "30-81-3-4",
+   "points": 1,
+   "name": "Essence Binder",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 560919
+  },
+  {
+   "id": "30-81-4-2",
+   "points": 1,
+   "name": "Requiem",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 805717
+  },
+  {
+   "id": "30-81-4-3",
+   "points": 2,
+   "name": "Dreadknight",
+   "maxPoints": 2,
+   "tree": "Domination",
+   "spellId": 300560
+  },
+  {
+   "id": "30-81-5-4",
+   "points": 1,
+   "name": "Soulsight",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 300565
+  },
+  {
+   "id": "30-81-8-4a",
+   "points": 1,
+   "name": "Well of Eternity",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 706793
+  },
+  {
+   "id": "30-81-7-5",
+   "points": 1,
+   "name": "Jailer's Will",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 524939
+  },
+  {
+   "id": "30-81-5-5",
+   "points": 1,
+   "name": "Fatesealer",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 705442
+  },
+  {
+   "id": "30-81-6-6",
+   "points": 1,
+   "name": "Spectral Warden",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 805716
+  },
+  {
+   "id": "30-81-8-7",
+   "points": 1,
+   "name": "Soul Splinters",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 805719
+  },
+  {
+   "id": "30-81-3-5",
+   "points": 1,
+   "name": "Ethereal Guard",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 300969
+  },
+  {
+   "id": "30-81-4-6",
+   "points": 1,
+   "name": "Spirit Realm",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 705404
+  },
+  {
+   "id": "30-81-6-8",
+   "points": 1,
+   "name": "Siphon Anima",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 504309
+  },
+  {
+   "id": "30-81-6-9",
+   "points": 1,
+   "name": "Eater of Souls",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 805181
+  },
+  {
+   "id": "30-81-10-0",
+   "points": 1,
+   "name": "Tormentor",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 92147
+  },
+  {
+   "id": "30-81-10-2",
+   "points": 1,
+   "name": "Behemoth",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 573041
+  },
+  {
+   "id": "30-81-10-4",
+   "points": 1,
+   "name": "Soul Slip",
+   "maxPoints": 1,
+   "tree": "Domination",
+   "spellId": 500286
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Angel's Calling",
+  "icon": "ability_priest_angelicbulwark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Angel's Calling</b></td><th><b class=\"q0\">Damage</b></th></tr></table>25 Rage<br /><table width=\"100%\"><tr><td>Instant cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Instantly deals 12+0+SP*0.285+AP*0.255 Holyflame Damage to 5 nearby enemies.</span></td></tr></table><!--?805641:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

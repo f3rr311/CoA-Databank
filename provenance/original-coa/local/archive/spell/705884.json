@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bwonsamdi's Edge",
+  "icon": "warlock_siphonlife",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bwonsamdi's Edge</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Shadowflare</span> now has a 35% chance to apply <span style=\"color: #ffffff;\">Hex of Malice</span> to the enemy.</span></td></tr></table><!--?705884:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

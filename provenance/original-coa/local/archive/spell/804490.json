@@ -1,0 +1,8 @@
+{
+  "name_enus": "Roll Back",
+  "icon": "epic_rpg_icon_pack_general_icon_0003s_0000_clock_border",
+  "tooltip_enus": "<table><tr><td><b>Roll Back</b><br />22% of base mana<br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Roll back time, dispelling the last harmful effect placed on an ally.<br /><br />Subsequent uses increases the mana cost of this ability by 50% for 5&nbsp;sec.</span></td></tr></table><!--?804490:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

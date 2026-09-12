@@ -1,0 +1,406 @@
+{
+  "schema_version": 1,
+  "classes": [
+    {
+      "category_id": 12,
+      "class": "Barbarian",
+      "slug": "barbarian",
+      "declared_spells": 100,
+      "mapped_spells": 100,
+      "mapped_tooltips_present": 100,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Ancestry",
+        "Brutality",
+        "Headhunting"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 13,
+      "class": "Witch Doctor",
+      "slug": "witch-doctor",
+      "declared_spells": 98,
+      "mapped_spells": 98,
+      "mapped_tooltips_present": 98,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Brewing",
+        "Voodoo",
+        "Shadowhunting"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 14,
+      "class": "Felsworn",
+      "slug": "felsworn",
+      "declared_spells": 68,
+      "mapped_spells": 68,
+      "mapped_tooltips_present": 68,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Slaying",
+        "Infernal",
+        "Tyrant"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 15,
+      "class": "Witch Hunter",
+      "slug": "witch-hunter",
+      "declared_spells": 102,
+      "mapped_spells": 102,
+      "mapped_tooltips_present": 102,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Boltslinger",
+        "Inquisition",
+        "Darkness",
+        "Black Knight"
+      ],
+      "guide_spec_count_conflict": {
+        "claimed": 3,
+        "observed": 4
+      }
+    },
+    {
+      "category_id": 16,
+      "class": "Stormbringer",
+      "slug": "stormbringer",
+      "declared_spells": 88,
+      "mapped_spells": 88,
+      "mapped_tooltips_present": 87,
+      "missing_tooltip_ids": [
+        806307
+      ],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Lightning",
+        "Thunder",
+        "Winds"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 17,
+      "class": "Knight of Xoroth",
+      "slug": "knight-of-xoroth",
+      "declared_spells": 81,
+      "mapped_spells": 81,
+      "mapped_tooltips_present": 81,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "War",
+        "Hellfire",
+        "Defiance"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 18,
+      "class": "Guardian",
+      "slug": "guardian",
+      "declared_spells": 100,
+      "mapped_spells": 100,
+      "mapped_tooltips_present": 100,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Gladiator",
+        "Vanguard",
+        "Inspiration"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 19,
+      "class": "Templar",
+      "slug": "templar",
+      "declared_spells": 95,
+      "mapped_spells": 95,
+      "mapped_tooltips_present": 95,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Crusader",
+        "Martial",
+        "Discipline"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 20,
+      "class": "Bloodmage",
+      "slug": "bloodmage",
+      "declared_spells": 93,
+      "mapped_spells": 93,
+      "mapped_tooltips_present": 93,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Ferocity",
+        "Blood",
+        "Packleader",
+        "Fleshweaver"
+      ],
+      "guide_spec_count_conflict": {
+        "claimed": 3,
+        "observed": 4
+      }
+    },
+    {
+      "category_id": 21,
+      "class": "Ranger",
+      "slug": "ranger",
+      "declared_spells": 93,
+      "mapped_spells": 93,
+      "mapped_tooltips_present": 93,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Archery",
+        "Brigand",
+        "Farstrider"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 22,
+      "class": "Chronomancer",
+      "slug": "chronomancer",
+      "declared_spells": 100,
+      "mapped_spells": 100,
+      "mapped_tooltips_present": 100,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Duality",
+        "Artificer",
+        "Displacement"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 23,
+      "class": "Necromancer",
+      "slug": "necromancer",
+      "declared_spells": 91,
+      "mapped_spells": 90,
+      "mapped_tooltips_present": 90,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Death",
+        "Animation",
+        "Rime"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 24,
+      "class": "Pyromancer",
+      "slug": "pyromancer",
+      "declared_spells": 96,
+      "mapped_spells": 96,
+      "mapped_tooltips_present": 96,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Incineration",
+        "Draconic",
+        "Flameweaving"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 25,
+      "class": "Cultist",
+      "slug": "cultist",
+      "declared_spells": 89,
+      "mapped_spells": 89,
+      "mapped_tooltips_present": 89,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Godblade",
+        "Corruption",
+        "Influence",
+        "Dreadnought"
+      ],
+      "guide_spec_count_conflict": {
+        "claimed": 3,
+        "observed": 4
+      }
+    },
+    {
+      "category_id": 26,
+      "class": "Starcaller",
+      "slug": "starcaller",
+      "declared_spells": 95,
+      "mapped_spells": 95,
+      "mapped_tooltips_present": 95,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Warden",
+        "Sentinel",
+        "Moon Priest",
+        "Moon Guard"
+      ],
+      "guide_spec_count_conflict": {
+        "claimed": 3,
+        "observed": 4
+      }
+    },
+    {
+      "category_id": 27,
+      "class": "Sun Cleric",
+      "slug": "sun-cleric",
+      "declared_spells": 91,
+      "mapped_spells": 91,
+      "mapped_tooltips_present": 91,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Piety",
+        "Seraphim",
+        "Blessings",
+        "Valkyrie"
+      ],
+      "guide_spec_count_conflict": {
+        "claimed": 3,
+        "observed": 4
+      }
+    },
+    {
+      "category_id": 28,
+      "class": "Tinker",
+      "slug": "tinker",
+      "declared_spells": 97,
+      "mapped_spells": 97,
+      "mapped_tooltips_present": 97,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Demolition",
+        "Mechanics",
+        "Invention"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 29,
+      "class": "Venomancer",
+      "slug": "venomancer",
+      "declared_spells": 112,
+      "mapped_spells": 112,
+      "mapped_tooltips_present": 110,
+      "missing_tooltip_ids": [
+        800871,
+        804977
+      ],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Rot",
+        "Vizier",
+        "Stalking",
+        "Fortitude"
+      ],
+      "guide_spec_count_conflict": {
+        "claimed": 3,
+        "observed": 4
+      }
+    },
+    {
+      "category_id": 30,
+      "class": "Reaper",
+      "slug": "reaper",
+      "declared_spells": 89,
+      "mapped_spells": 89,
+      "mapped_tooltips_present": 89,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Harvest",
+        "Soul",
+        "Domination"
+      ],
+      "guide_spec_count_conflict": null
+    },
+    {
+      "category_id": 31,
+      "class": "Primalist",
+      "slug": "primalist",
+      "declared_spells": 95,
+      "mapped_spells": 95,
+      "mapped_tooltips_present": 95,
+      "missing_tooltip_ids": [],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Geomancy",
+        "Mountain King",
+        "Wildwalker",
+        "Life"
+      ],
+      "guide_spec_count_conflict": {
+        "claimed": 3,
+        "observed": 4
+      }
+    },
+    {
+      "category_id": 32,
+      "class": "Runemaster",
+      "slug": "runemaster",
+      "declared_spells": 95,
+      "mapped_spells": 95,
+      "mapped_tooltips_present": 94,
+      "missing_tooltip_ids": [
+        500118
+      ],
+      "guide_parsed": true,
+      "guide_specs": [
+        "Spellslinger",
+        "Riftblade",
+        "Conjuration"
+      ],
+      "guide_spec_count_conflict": null
+    }
+  ],
+  "missing_tooltips": [
+    {
+      "class": "Runemaster",
+      "id": 500118,
+      "name": "Frigid Blast"
+    },
+    {
+      "class": "Stormbringer",
+      "id": 806307,
+      "name": "Eye of the Storm"
+    },
+    {
+      "class": "Venomancer",
+      "id": 800871,
+      "name": "Facemelter"
+    },
+    {
+      "class": "Venomancer",
+      "id": 804977,
+      "name": "Rotfang"
+    }
+  ],
+  "totals": {
+    "classes": 21,
+    "declared_spells": 1968,
+    "mapped_spells": 1967,
+    "mapped_tooltips_present": 1963,
+    "mapped_tooltips_missing": 4,
+    "guide_specs": 70
+  }
+}

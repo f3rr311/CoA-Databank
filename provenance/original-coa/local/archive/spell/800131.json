@@ -1,0 +1,8 @@
+{
+  "name_enus": "Born Killer",
+  "icon": "inv_misc_trinket6oih_ironskull1",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Born Killer</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Killing an enemy that yields experience or honor now grants you 5% increased armor penetration and movement speed for 5&nbsp;sec, stacking 20 times.</span></td></tr></table><!--?800131:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

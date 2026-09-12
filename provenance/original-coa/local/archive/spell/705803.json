@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rapid Fire Healing",
+  "icon": "_ingenieurbelt",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Rapid Fire Healing</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Repair Shot</span> or <span style=\"color: #ffffff;\">Emergency Heal</span> now has a 15% chance to refresh a charge of <span style=\"color: #ffffff;\">Beacons</span>.</span></td></tr></table><!--?705803:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

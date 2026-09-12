@@ -1,0 +1,8 @@
+{
+  "name_enus": "Slayer of Darkness",
+  "icon": "spell_holy_retribution",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Slayer of Darkness</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases damage dealt by 5% when fighting Demons or Undead. <br /><br />Additionally, direct damage dealt with spells or abilities now has a 10% chance to deal 151*$<scalingbp> Holy damage.</span></td></tr></table><!--?804024:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

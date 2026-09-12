@@ -1,0 +1,21 @@
+{
+  "name_enus": "Seismic Spike",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Seismic Spike</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>23% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Bring forth a massive stalagmite from the ground beneath an enemy and up to <!--sp706173:0-->4<!--sp706173--> nearby enemies, dealing 58+0+NatP*.65+AP*0.065 Physical damage.<br /><br />Generates 4 Rage for each target struck.<!--sp92149:0--><!--sp92149--><br /><br />Shares a cooldown with other <span style=\"color: #ffffff;\">Seismic</span> spells.</span></td></tr></table><!--?804433:1:1:80-->",
+  "spells_enus": {
+    "706173": [
+      [
+        4,
+        6
+      ]
+    ],
+    "92149": [
+      [
+        "",
+        "<br /><br />Generates 1 <span style=\"color: #ffc6a3\">Earthshaping</span>."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

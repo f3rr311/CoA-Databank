@@ -1,0 +1,15 @@
+{
+  "name_enus": "Keg Smash",
+  "icon": "ability_monk_elusiveale",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Keg Smash</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Smash an enemy for 21+0+AP*0.15 Physical damage, plus an additional 17+0+AP*0.25 Frost damage to up to 5 nearby enemies.<!--sp500061:0--><!--sp500061--></span></td></tr></table><!--?805808:1:1:80-->",
+  "spells_enus": {
+    "500061": [
+      [
+        "",
+        "<br /><br />This ability empties your <span style=\"color: #ffffff\">Tankard</span>, consuming <span style=\"color: #ffffff\">Fill Level</span> stacks and triggering a reduced cooldown based on stacks consumed."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

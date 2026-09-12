@@ -1,0 +1,8 @@
+{
+  "name_enus": "Monstrous Hunger",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Monstrous Hunger</b><br />20% of base <br /><table width=\"100%\"><tr><td>Instant</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Enrage for 10&nbsp;sec, causing the next 6 <span style=\"color: #ffffff;\">Bloodfang Bites</span> to have a 50% reduced global cooldown and cost and to trigger <span style=\"color: #ffffff;\">Call of the Darkwing</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/achievement_halloween_bat_01.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=801958'> Call of the Darkwing </a> <br />\n                            <span> Calls 1 to 2 <span style=\"color: #FFFFFF;\">Shadow Bats</span> to appear from the shadows and strike the target for 5+1.6 Points Per Level+SP*.4+AP*.2 Physical Damage, healing you equal to the damage dealt.</span><br /></span></td></tr></table><!--?804811:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

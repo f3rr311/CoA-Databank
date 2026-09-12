@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ranger's Gambit",
+  "icon": "ability_rogue_sturdyrecuperate",
+  "tooltip_enus": "<table><tr><td><b>Ranger's Gambit</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">While in <span style=\"color: #ffffff;\">Elude</span>, gain 20% increased movement speed and enable the use of abilities as if you had recently parried an attack.</span></td></tr></table><!--?803103:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

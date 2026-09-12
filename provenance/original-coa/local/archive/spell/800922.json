@@ -1,0 +1,8 @@
+{
+  "name_enus": "Endbringer",
+  "icon": "nhi_frozenghost_border",
+  "tooltip_enus": "<table><tr><td><b>Endbringer</b><br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Become an <span style=\"color: #ffffff;\">Endbringer</span> for 15&nbsp;sec, increasing the damage of <span style=\"color: #ffffff;\">Dirge</span> by 30%, the range by 20 yds, and causes it to generate 3 <span style=\"color: #5ee2ff;\">Reaped Souls</span>.<br /><br />For the duration, <span style=\"color: #ffffff;\">Dirge</span> will heal you for 75% of its damage dealt.</span></td></tr></table><!--?800922:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

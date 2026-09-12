@@ -1,0 +1,8 @@
+{
+  "name_enus": "Megawatt Missile",
+  "icon": "nhi_lightning_bolt_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Megawatt Missile</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>19% of base mana<br /><table width=\"100%\"><tr><td>3 sec cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Inflicts 38 Nature Damage to an enemy target, consuming <span style=\"color: #ffffff;\">Orb Shock</span> stacks to deal 10% increased damage for each and generates 20 <span style=\"color: #cc99ff;\">Static</span>.<br /><br /><span style=\"color: #ffffff;\">Supercharged:</span> Cast time removed.</span></td></tr></table><!--?500045:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

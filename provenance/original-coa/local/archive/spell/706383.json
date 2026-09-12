@@ -1,0 +1,8 @@
+{
+  "name_enus": "Runesleeve",
+  "icon": "inv_inscription_tarot_6omeleecard",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Runesleeve</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Ace of Runes</span> makes <span style=\"color: #ffffff;\"><span style=\"color: #ffffff;\">Thaumaturgy</span></span> incur a 8 sec reduced cooldown.</span></td></tr></table><!--?706383:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Inspiring Speech",
+  "icon": "epic_rpg_icon_pack_brutal_icon_0010s_0000_light-1_border",
+  "tooltip_enus": "<table><tr><td><b>Inspiring Speech</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empowers you for until cancelled, causing your next 3 <span style=\"color: #ffffff;\">Valiant Strikes</span> and <span style=\"color: #ffffff;\">Rams</span> to deal 25% increased damage and grant you <span style=\"color: #ffffff;\">Tempo</span>.<!--sp704535:0--><!--sp704535--></span></td></tr></table><!--?803961:1:1:80-->",
+  "spells_enus": {
+    "704535": [
+      [
+        "",
+        "<br /><br />Upon expiration you become <span style=\"color: #ffffff\">Inspired</span>, resetting the cooldown of <span style=\"color: #ffffff\">Ram</span> and causing your next <span style=\"color: #ffffff\">Ram</span> to critically strike."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

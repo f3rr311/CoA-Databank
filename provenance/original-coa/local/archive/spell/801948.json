@@ -1,0 +1,8 @@
+{
+  "name_enus": "Improved Plaguewither",
+  "icon": "spell_necro_dischargenecroticcore",
+  "tooltip_enus": "<table><tr><td><b>Improved Plaguewither</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Plaguewither</span> by 25%.</span></td></tr></table><!--?801948:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

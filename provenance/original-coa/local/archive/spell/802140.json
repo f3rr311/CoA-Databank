@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fiery Judgement",
+  "icon": "novart_physical_ability_%2837%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Fiery Judgement</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>15% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Judge an enemy, dealing 361+0+AP*0.4+FireP*1 Fire damage to them and nearby enemies.<br /><br />Grants <span style=\"color: #ff7a24;\">Flames of Sin</span> or increases the duration by 3 sec.</span></td></tr></table><!--?802140:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

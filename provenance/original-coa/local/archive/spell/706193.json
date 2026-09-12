@@ -1,0 +1,8 @@
+{
+  "name_enus": "Perpetual Isolation",
+  "icon": "spell_shadow_shadowembrace",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Perpetual Isolation</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Isolate</span> by 30 sec and <span style=\"color: #ffffff;\">Hallucination</span> by 5 sec.</span></td></tr></table><!--?706193:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Harden",
+  "icon": "inv_skinning_80_armoredscale",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Harden</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Harden your carapace, reducing damage taken by 45%, decaying quickly over 10&nbsp;sec and healing for 1% maximum health each time a stack is removed.<br /><br />Taking Physical Damage during this time will cause it to decay faster.<br /><br />Leaving <span style=\"color: #ffffff;\">Beetle Form</span> will cancel this effect.</span></td></tr></table><!--?800892:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

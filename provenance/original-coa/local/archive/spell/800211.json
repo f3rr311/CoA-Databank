@@ -1,0 +1,15 @@
+{
+  "name_enus": "Chaos Storm",
+  "icon": "inv_glaive_1h_artifactaldrochi_d_03dual",
+  "tooltip_enus": "<table><tr><td><b>Chaos Storm</b><br />40 Energy<br /><table width=\"100%\"><tr><td>Channeled</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\"><!--sp574143:0--><!--sp574143-->Spin in a fury of chaos for 3&nbsp;sec, dealing 200% Weapon Damage every 1 sec with both weapons to up to 0 nearby enemies.<br /><br />You can move but cannot perform any other abilities, but are immune to roots and slows and loss of control effects. You cannot be stopped unless disarmed or killed.<br /><br /><span style=\"color: #FFFFFF;\">Fel Empowerment</span> transforms this spell into <span style=\"color: #FFFFFF;\">Fury Unleashed</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/inv_glaive_1h_artifactaldrochi_d_03dual.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=555738'> Fury Unleashed </a> <br />\n                            <span> Spin your glaives for 5&nbsp;sec, increasing movement speed by 30% and dealing 200% Weapon Damage every 1 sec with both weapons to all nearby enemies.<br /><br />You are immune to movement impairing and loss of control effects.</span><br /></span></td></tr></table><!--?800211:1:1:80-->",
+  "spells_enus": {
+    "574143": [
+      [
+        "",
+        "<span style=\"color: #ff32cd\">Fel Empowerment Ability</span><br />"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

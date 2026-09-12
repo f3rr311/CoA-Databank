@@ -1,0 +1,8 @@
+{
+  "name_enus": "Waves of Time",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Waves of Time</b><br />13% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Blast enemies in a frontal cone with time fractals, knocking them back slightly.<br /><br />The knockback repeats 1 additional time after 2 sec.</span></td></tr></table><!--?801277:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

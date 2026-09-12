@@ -1,0 +1,8 @@
+{
+  "name_enus": "Magmafury",
+  "icon": "nhi_fire_cataclysm_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Magmafury</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Gives Nature damage dealt a 25% chance to grant <span style=\"color: #ffffff;\">Magmafury</span>, stacking 20 times.<br /><br />Also teaches <span style=\"color: #ffffff;\">Eruption</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/6bf_blackrock_nova.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=802335'> Eruption </a> <br />\n                            <span> Launch 1 <span style=\"color: #FFFFFF;\">Magma Geode</span> at your target every 0.2 sec for 0.2&nbsp;sec, dealing COND(GT(FireP, NatP), 58+5.0 Points Per Level+FireP*0.2, 58+5.0 Points Per Level+NatP*0.2) Firestorm Damage. <br /><br />Duration increased by 0.2 sec for each stack of <span style=\"color: #c6a36a;\">Earthshaping</span>.</span><br /></span></td></tr></table><!--?706163:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

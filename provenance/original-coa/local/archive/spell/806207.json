@@ -1,0 +1,8 @@
+{
+  "name_enus": "Last Wish",
+  "icon": "spell_holy_impholyconcentration",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Last Wish</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage of your <span style=\"color: #FFFFFF;\">Pendant of Time</span> and <span style=\"color: #FFFFFF;\">Gravity Bomb</span> by 25% and causes them to grant you an <span style=\"color: #FFFFFF;\">Orb of Fate</span>.</span></td></tr></table><!--?806207:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

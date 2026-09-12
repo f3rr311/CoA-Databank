@@ -1,0 +1,8 @@
+{
+  "name_enus": "Runestone: Spellsnap",
+  "icon": "novart_magicspell_%2819%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Runestone: Spellsnap</b></td><th><b class=\"q0\">Passive - Runestone</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">2 Frost Sigils</span><br /><span style=\"color: #ffffff;\">1 Arcane Sigil</span><br />Allows <span style=\"color: #ffffff;\">Elemental Burst</span> to expend the above <span style=\"color: #ffffff;\">Sigil</span> combination to deal 0+1.0 Points Per Level+ArcP*0.4 Spellfrost Damage to up to 0 enemies within 0 yds, increasing Frost and Arcane Damage they take from you by 0% for 30&nbsp;sec.</span></td></tr></table><!--?803017:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

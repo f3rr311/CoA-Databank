@@ -1,0 +1,8 @@
+{
+  "name_enus": "Headhunter",
+  "icon": "inv_misc_head_tuskarr",
+  "tooltip_enus": "<table><tr><td><b>Headhunter</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the range of your Headhunting abilities by 10 yds.</span></td></tr></table><!--?805836:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

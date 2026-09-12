@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rexxar's Might",
+  "icon": "spell_druid_thrash",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Rexxar's Might</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your physical critical strikes now cause your pet's next attack to apply a bleed, dealing 92+1.7 Points Per Level+AP*0.15 Physical damage every 2 sec for 6&nbsp;sec.</span></td></tr></table><!--?806559:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Sins of the Father",
+  "icon": "5_priestskill45_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Sins of the Father</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #FFFFFF;\">Horusath Blast</span> and <span style=\"color: #ffffff;\">Rapture</span> now applies <span style=\"color: #FFFFFF;\">Sins of the Father</span> to the enemy for 8&nbsp;sec.<br /><br />Damage dealt by <span style=\"color: #FFFFFF;\">Radiant Flame</span> or <span style=\"color: #FFFFFF;\">Ascended Barrage</span> against targets affected by <span style=\"color: #FFFFFF;\">Sins of the Father</span> now deals COND(GT(FireP, HolP), 54+1.0 Points Per Level+FireP*.1, 54+1.0 Points Per Level+HolP*.1) Holyfire Damage to up to 5 enemies within 5 yds.</span></td></tr></table><!--?806061:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

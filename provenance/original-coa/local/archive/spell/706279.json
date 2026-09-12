@@ -1,0 +1,8 @@
+{
+  "name_enus": "Durable Quivers",
+  "icon": "inv_misc_quiver_09",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Durable Quivers</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the duration of <span style=\"color: #ffffff;\">Quivers</span> by 1.5 sec.</span></td></tr></table><!--?706279:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

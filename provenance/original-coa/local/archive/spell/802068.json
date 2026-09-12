@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wreath of Flames",
+  "icon": "spell_holy_innerfire",
+  "tooltip_enus": "<table><tr><td><b>Wreath of Flames</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Periodic Fire damage now has a 10% chance to grant a stack of <span style=\"color: #ffffff;\">Flamecasting</span>, or 2 stacks if they critically strike.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_fire_playingwithfire.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804301'> Flamecasting </a> <br />\n                            <span> Increases your spell haste by 5%<!--sp706859:0--><!--sp706859--> for 15&nbsp;sec. Stacks 5 times.<br /><br />Additional applications do not refresh duration.</span><br /></span></td></tr></table><!--?802068:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

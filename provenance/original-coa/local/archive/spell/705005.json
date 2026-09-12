@@ -1,0 +1,15 @@
+{
+  "name_enus": "Fiend",
+  "icon": "inv_mace_1h_pvppandarias1_d_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Fiend</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Casting <!--sp800710:0--><span style=\"color: #ffffff;\">Sever</span><!--sp800710--> now removes the cost of your next <span style=\"color: #ffffff;\">Infernal Strike</span>.</span></td></tr></table><!--?705005:1:1:80-->",
+  "spells_enus": {
+    "800710": [
+      [
+        "<span style=\"color: #ffffff\">Sever</span>",
+        "<span style=\"color: #ffffff\">Brimstone Bludgeon</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blood and Glory",
+  "icon": "achievement_boss_operator_thogar",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blood and Glory</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Taking damage while at or below 35% maximum health now grants you 20% increased healing received and 10% reduced damage taken.</span></td></tr></table><!--?805821:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

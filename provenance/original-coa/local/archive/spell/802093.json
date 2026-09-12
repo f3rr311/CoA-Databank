@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hexblade",
+  "icon": "inv_staff_2h_zuldazarraid_d_02",
+  "tooltip_enus": "<table><tr><td><b>Hexblade</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Your melee auto attacks have a 27% chance to deal additional 1+SP*0.255714+AP*0.22 Shadow damage to their target, scaling with how many <span style=\"color: #ffffff;\">Shadow Marks</span> are applied.</span></td></tr></table><!--?802093:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

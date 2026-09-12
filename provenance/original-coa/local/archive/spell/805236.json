@@ -1,0 +1,8 @@
+{
+  "name_enus": "Grommash's Folly",
+  "icon": "_orc_06",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Grommash's Folly</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">While <span style=\"color: #32cd32;\">Inner Demon</span> is active, your melee haste is now increased by 15% and you now heal equal to 50% of all damage dealt by critical strikes with auto attacks.<br /><br />In addition, critical strikes with <span style=\"color: #ffffff;\">Carve</span> deal 5% increased damage, increasing up to 60% with each strike based on how long you channel.</span></td></tr></table><!--?805236:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

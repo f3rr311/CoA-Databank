@@ -1,0 +1,8 @@
+{
+  "name_enus": "Runestone: Walking Flame",
+  "icon": "novart_magicspell_%2833%29_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Runestone: Walking Flame</b></td><th><b class=\"q0\">Passive - Runestone</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">2 Arcane Sigils</span><br /><span style=\"color: #ffffff;\">1 Fire Sigil</span><br />Allows <span style=\"color: #ffffff;\">Elemental Burst</span> to expend the above <span style=\"color: #ffffff;\">Sigil</span> combination to deal COND(GT(FireP, ArcP), 0+0+FireP*0.55, 0+0+ArcP*0.55) Spellfire Damage, plus an additional 0 over 0.1&nbsp;sec, to up to 8 enemies within 0 yds.</span></td></tr></table><!--?803012:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

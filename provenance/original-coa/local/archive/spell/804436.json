@@ -1,0 +1,8 @@
+{
+  "name_enus": "Aether Compression",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Aether Compression</b><br />20% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>15&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #C49A6C;\">Continuum Spell</span><br /><span style=\"color: #ffffff;\">Artificer's Wand</span> and <span style=\"color: #ffffff;\">Reverse Wound</span> can be cast while moving for 5&nbsp;sec.<br /><br />Duration increased by 5 sec per <span style=\"color: #ffffff;\">Echo Fragment</span>.<br /><br />Can only have 1 <span style=\"color: #C49A6C;\">Continuum</span> spell active at a time.</span></td></tr></table><!--?804436:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

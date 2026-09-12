@@ -1,0 +1,8 @@
+{
+  "name_enus": "Universal Donor",
+  "icon": "ability_animusdraw",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Universal Donor</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Infuse</span> or <span style=\"color: #ffffff;\">Vampyr's Kiss</span> now increases the healing received by all allies by 6% for 10&nbsp;sec.</span></td></tr></table><!--?806428:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

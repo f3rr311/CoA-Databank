@@ -1,0 +1,8 @@
+{
+  "name_enus": "Stand Your Ground!",
+  "icon": "spell_holy_heroism",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Stand Your Ground!</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">While standing in your <span style=\"color: #ffffff;\">Standard of Valiance</span>, your allies' Physical damage taken is reduced by 10%.</span></td></tr></table><!--?806142:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

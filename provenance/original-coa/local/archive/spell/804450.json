@@ -1,0 +1,8 @@
+{
+  "name_enus": "Erase",
+  "icon": "spell_animamaw_wave",
+  "tooltip_enus": "<table><tr><td><b>Erase</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Periodic damage taken from the Chronomancer's periodic effects increased by 0%.</span></td></tr></table><!--?804450:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

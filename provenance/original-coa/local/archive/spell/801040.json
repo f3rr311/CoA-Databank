@@ -1,0 +1,8 @@
+{
+  "name_enus": "Brimstone Bludgeon",
+  "icon": "inv_mace_1h_pvp410_c_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Brimstone Bludgeon</b></td><th><b class=\"q0\">DISABLED</b></th></tr></table>25 Rage<br /><table width=\"100%\"><tr><td>Instant</td><th>12&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\">Deals Weapon Damage plus 2 Physical Damage to an enemy, increasing based on their missing health.<br /><br />Generates 2 stacks of <span style=\"color: #ff9933;\">Demonfire</span>.</span></td></tr></table><!--?801040:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

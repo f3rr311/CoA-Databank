@@ -1,0 +1,8 @@
+{
+  "name_enus": "Soulless",
+  "icon": "_hole_red",
+  "tooltip_enus": "<table><tr><td><b>Soulless</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces all healing you receive by 70%, but reduces all damage you receive by 20% and increases all damage you deal by 15%.</span></td></tr></table><!--?805189:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

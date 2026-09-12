@@ -1,0 +1,8 @@
+{
+  "name_enus": "Earthsplitter",
+  "icon": "ability_kilruk_reave",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Earthsplitter</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Broad Sweep</span> now increases the amount of enemies struck by your next <span style=\"color: #ffffff;\">Broad Sweep</span> by 1 and reduces its Energy cost by 10% for 6&nbsp;sec, stacking 3 times.</span></td></tr></table><!--?805155:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

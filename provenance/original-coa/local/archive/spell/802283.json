@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bastion",
+  "icon": "shield_draenorcrafted_d_02_a_alliance",
+  "tooltip_enus": "<table><tr><td><b>Bastion</b><br />40 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Shields<br /><span class=\"q\">Raise your shield and lead your allies within 12 yds, reducing their damage taken by 40% for 10&nbsp;sec.</span></td></tr></table><!--?802283:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

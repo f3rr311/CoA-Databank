@@ -1,0 +1,8 @@
+{
+  "name_enus": "Regenerative Properties",
+  "icon": "inv_skinning_80_snakescales",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Regenerative Properties</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Reduces all damage taken by 5%, but damage taken now has a 10% chance to shatter your exoskeleton, removing this damage reduction effect.<br /><br />When your exoskeleton shatters you regenerate 8% of your maximum health over 12&nbsp;sec, after this duration your exoskeleton regenerates.</span></td></tr></table><!--?803210:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

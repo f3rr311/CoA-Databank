@@ -1,0 +1,15 @@
+{
+  "name_enus": "Ruin",
+  "icon": "ability_rogue_rupture",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ruin</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <!--sp805708:0--><span style=\"color: #ffffff;\">Murder</span><!--sp805708--> now applies <span style=\"color: #ffffff;\">Ruin</span> to enemies for 10&nbsp;sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_rogue_rupture.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=805199'> Ruin </a> <br />\n                            <span> Increases damage taken by <span style=\"color: #ffffff;\">Doomrend</span> and <span style=\"color: #FFFFFF;\">Slaughter</span> by 25% for 10&nbsp;sec.<br /><br />Using <span style=\"color: #ffffff;\">Doomrend</span> on a target afflicted by <span style=\"color: #ffffff;\">Ruin</span> will increase your haste by 15% for 5&nbsp;sec.</span><br /></span></td></tr></table><!--?805198:1:1:80-->",
+  "spells_enus": {
+    "805708": [
+      [
+        "<span style=\"color: #ffffff\">Murder</span>",
+        "<span style=\"color: #ffffff\">Shudder Scythe</span>"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

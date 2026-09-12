@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fury of the Elements",
+  "icon": "monk_ability_fistoffury",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Fury of the Elements</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #FFFFFF;\">Primal Rush</span> now generates 10 additional Rage.</span></td></tr></table><!--?706165:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

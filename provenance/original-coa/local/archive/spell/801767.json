@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bloodbound",
+  "icon": "_d3gargantuan",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bloodbound</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of your <span style=\"color: #FFFFFF;\">Warband</span> by 30 sec and <span style=\"color: #ffffff;\">Ancestral Roar</span> by 5 sec. </span></td></tr></table><!--?801767:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

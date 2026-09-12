@@ -1,0 +1,8 @@
+{
+  "name_enus": "Foul Expedition",
+  "icon": "_d3sacrifice",
+  "tooltip_enus": "<table><tr><td><b>Foul Expedition</b><br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Consumes all stacks of <span style=\"color: #ffffff;\">Crypt Plague</span>, instantly causing an explosion as if it had expired naturally.<br /><br />Spreads <span style=\"color: #ffffff;\">Flesh to Worms</span>, <span style=\"color: #ffffff;\">Harvest Plague</span>, and <span style=\"color: #ffffff;\">Spectral Decay</span> to all enemies within 8 yds of the target.</span></td></tr></table><!--?806327:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

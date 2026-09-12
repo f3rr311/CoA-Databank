@@ -1,0 +1,8 @@
+{
+  "name_enus": "Crashing Force",
+  "icon": "inv_mace_124",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Crashing Force</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of your <span style=\"color: #ffffff;\">Centurion Strike</span> and <span style=\"color: #ffffff;\">Reprisal</span> by 15%.</span></td></tr></table><!--?705329:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flaming Edge",
+  "icon": "inv_misc_volatilefire",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flaming Edge</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Causes enemies affected by <span style=\"color: #ffffff;\">Bladegrease</span> to take 10% increased damage from <span style=\"color: #ffffff;\">Burning Thrust</span>.<br /><br />Periodic damage of <span style=\"color: #ffffff;\">Flaming Blade of Lantresor</span> increased by 10%.</span></td></tr></table><!--?705257:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

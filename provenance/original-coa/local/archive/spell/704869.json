@@ -1,0 +1,8 @@
+{
+  "name_enus": "Hand of N'Zoth",
+  "icon": "spell_shadow_chilltouch",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Hand of N'Zoth</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Hammer of Twilight</span>, <span style=\"color: #ffffff;\">Entropic Slam</span>, and <span style=\"color: #ffffff;\">Gaze of C'Thun</span> now refreshes a charge of <span style=\"color: #ffffff;\">Blade of the Empire</span>.</span></td></tr></table><!--?704869:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

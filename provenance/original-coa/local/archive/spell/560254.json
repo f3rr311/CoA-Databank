@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blood Rush",
+  "icon": "ability_rogue_bloodyeye",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blood Rush</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Periodic damage dealt now has a 20% chance to grant you <span style=\"color: #ffffff;\">Blood Rush</span>. Can only occur once every 5 sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_rogue_bloodyeye.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=504551'> Blood Rush </a> <br />\n                            <span> Increases your haste by 20% for 5&nbsp;sec.</span><br /></span></td></tr></table><!--?560254:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

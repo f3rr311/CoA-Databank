@@ -1,0 +1,8 @@
+{
+  "name_enus": "Child of the Storm",
+  "icon": "spell_shaman_maelstromweapon",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Child of the Storm</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of your <span style=\"color: #FFFFFF;\">Cloudburst</span> and <span style=\"color: #FFFFFF;\">Windsurf</span> by 20%.</span></td></tr></table><!--?804038:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

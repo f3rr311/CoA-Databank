@@ -1,0 +1,317 @@
+{
+  "bulk": {
+    "bytes": 781861999,
+    "files": 20,
+    "sha256": "daa1147211d0ef75f6fdcc89015f967f003b5f3c5dd0fa27b71a2427ebd45a37"
+  },
+  "files": [
+    {
+      "authority": "curated",
+      "destination": "curated/adoption/task15/necromancer-animation.json",
+      "sha256": "2dbdb5460842f56ad3eab20b9df002df57d7d180ed00912788d95bffa66fff2e",
+      "size": 78146,
+      "source": "content/adoption/task15/necromancer-animation.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/adoption/task15/necromancer-class.json",
+      "sha256": "9da608df41ca02143c1a0361805731e4c8f013f6aaaa78861e112c47aee43660",
+      "size": 65148,
+      "source": "content/adoption/task15/necromancer-class.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/adoption/task15/necromancer-death.json",
+      "sha256": "1eaad9096bfe214fa5cc90263074a15e3be63852122244b0dc983e34ec823eed",
+      "size": 69481,
+      "source": "content/adoption/task15/necromancer-death.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/assets/animation.json",
+      "sha256": "6e1b70da0a76daf8d8e26aec5f58feccf87dd975cb7e527c95e3d4238210cf69",
+      "size": 7950,
+      "source": "content/classes/necromancer/assets/animation.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/ids.json",
+      "sha256": "3d73a37141fd85695a4792e292c47918eb45046ec717c361a9209f5cc87635bd",
+      "size": 29935,
+      "source": "content/classes/necromancer/ids.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/legacy/animation-pilot-scaffolds.json",
+      "sha256": "02fe99ca8fefa81f52cd982f32b388fb511a6207070e88d7945bdff61b5fa61e",
+      "size": 51166,
+      "source": "content/classes/necromancer/legacy/animation-pilot-scaffolds.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/reference-builds.json",
+      "sha256": "759cbbcc0ce5a1f4ad8a1cebd4f0487eb87f268e9fd6ce5b721a7ee1ba0a63fa",
+      "size": 6388,
+      "source": "content/classes/necromancer/reference-builds.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/sources/Spell.animation.closed.dbc.hex",
+      "sha256": "30583824d319ab71b9f7976c1a3ee502a158b90cff4a44c792e0a36295086cc2",
+      "size": 61374,
+      "source": "content/classes/necromancer/sources/Spell.animation.closed.dbc.hex"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/sources/Spell.dbc.hex",
+      "sha256": "567c7eab15eca5c50b50efb4b45b3a8ad4292f10a4f186babacfb46adcc0ce2d",
+      "size": 2634,
+      "source": "content/classes/necromancer/sources/Spell.dbc.hex"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/sources/Spell.selected.dbc.hex",
+      "sha256": "69e4ba36e51bd2b746c6043165b949ad1fd757bb169639b805588c52fa56affb",
+      "size": 39227,
+      "source": "content/classes/necromancer/sources/Spell.selected.dbc.hex"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/sources/animation-c13-closure.json",
+      "sha256": "cabfe2aba9d1edb5b75b10a6e75220dafa5eeb5fca07ff78ab3f17b58a6d20c9",
+      "size": 397274,
+      "source": "content/classes/necromancer/sources/animation-c13-closure.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/sources/animation-c13-selection.json",
+      "sha256": "0b930306fa20a2c43e8696c645d2a7728c119a904bf9aac216a287fe97a0c59a",
+      "size": 223156,
+      "source": "content/classes/necromancer/sources/animation-c13-selection.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/sources/creatures.json",
+      "sha256": "3390e98ccce7629b4017841bbfa810b3e6fa3e8495c423a0b9fe785e7c15e291",
+      "size": 1320,
+      "source": "content/classes/necromancer/sources/creatures.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/specs/animation.json",
+      "sha256": "4c11f7517ae947448cffeab95358a7793f57570fb3a1e1bfb64cc087f2768c10",
+      "size": 2531,
+      "source": "content/classes/necromancer/specs/animation.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/spells/animation-tree.json",
+      "sha256": "b27d79ea91c2d0193ec89cdc140db39678f0fc1ee525995d7d92da6e11abef88",
+      "size": 46097,
+      "source": "content/classes/necromancer/spells/animation-tree.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/summons.json",
+      "sha256": "243204d8264c99eef803c6f46e71bda6c58297d40a3acd1911383c75740c963b",
+      "size": 7078,
+      "source": "content/classes/necromancer/summons.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/trees/animation.json",
+      "sha256": "bd561da90d96231241fcdefa94bc27fc1cd72214456420f3bd3c67b36caed49f",
+      "size": 10023,
+      "source": "content/classes/necromancer/trees/animation.json"
+    },
+    {
+      "authority": "curated",
+      "destination": "curated/classes/necromancer/visual-kits.json",
+      "sha256": "ad06276c49578ca4b07369e05cfe787cc7fab9a762424fc4827dbecdd6ee4757",
+      "size": 6671,
+      "source": "content/classes/necromancer/visual-kits.json"
+    },
+    {
+      "authority": "inventory",
+      "destination": "inventory/SEMANTIC-ADJUDICATION.md",
+      "sha256": "8e1cd7e824bef90c5a1240c965e2af6115bfbabd0f13d2d477710702c09d080c",
+      "size": 219,
+      "source": "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/SEMANTIC-ADJUDICATION.md"
+    },
+    {
+      "authority": "inventory",
+      "destination": "inventory/attribution-counts.json",
+      "sha256": "794522fecbcc7ff0285117e24db53c20024f4515d741ccf652fbe9671405c000",
+      "size": 1103543,
+      "source": "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/attribution-counts.json"
+    },
+    {
+      "authority": "inventory",
+      "destination": "inventory/inventory-publication.json",
+      "sha256": "c62f1ba94b83bf94bb8d1aebc62126671b1a2ae77202087a6cf0e7416b186196",
+      "size": 2058,
+      "source": "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/inventory-publication.json"
+    },
+    {
+      "authority": "inventory",
+      "destination": "inventory/snapshot-manifest.json",
+      "sha256": "d8802fad358b786427d4b6c7880aad1dc64294b8fcfe4ec9132f64d8e0b4a2bc",
+      "size": 2946,
+      "source": "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/snapshot-manifest.json"
+    },
+    {
+      "authority": "inventory",
+      "destination": "inventory/source-consistency-attestation.json",
+      "sha256": "4bffb2aa56500226339f907ac8410844dce3fc73eeecb0e3a18f759b8c511c49",
+      "size": 10138,
+      "source": "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/source-consistency-attestation.json"
+    },
+    {
+      "authority": "inventory",
+      "destination": "inventory/table-counts.json",
+      "sha256": "8340c2ff71a6026c6cbbd594b26d07de24455b613f1e13c85a6c9e9f878ebdbb",
+      "size": 2241,
+      "source": "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/table-counts.json"
+    },
+    {
+      "authority": "inventory",
+      "destination": "inventory/transcript-inventory.json",
+      "sha256": "a5a61e3d388580b860fc26ef2ef3976ab07211ab7b41addda1e2be85e3fdc690",
+      "size": 25554,
+      "source": "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/transcript-inventory.json"
+    },
+    {
+      "authority": "inventory",
+      "destination": "inventory/unknown-register.json",
+      "sha256": "52c59ba237e08966681125d618eee0a116b94b8ceff7f92e0f57970831d4d49d",
+      "size": 44059,
+      "source": "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/unknown-register.json"
+    },
+    {
+      "authority": "inventory",
+      "destination": "inventory/zone-review-candidate.json",
+      "sha256": "7018d31181027ac05276d5c20a8f92323d9aa736509aa25e82e1a79270816d76",
+      "size": 17295,
+      "source": "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/zone-review-candidate.json"
+    },
+    {
+      "authority": "palette",
+      "destination": "palette/ascension-assets.jsonl.gz",
+      "sha256": "705b94e22fd6a1aa9bb4e19b493f1e9afc28e981d35a141f0b3e63664bee03f6",
+      "size": 3344144,
+      "source": "content/provenance/original-coa/palette/ascension-assets.jsonl.gz"
+    },
+    {
+      "authority": "palette",
+      "destination": "palette/assets.jsonl.gz",
+      "sha256": "a8f453dc6ea471a1f62c4bc8caa0ecef729063f3c483aeed5c60120b917ed788",
+      "size": 1533003,
+      "source": "content/provenance/original-coa/palette/assets.jsonl.gz"
+    },
+    {
+      "authority": "palette",
+      "destination": "palette/client-assets.jsonl.gz",
+      "sha256": "eb1613c924f143abe147a4352767b24c1d4bb6170fbf75e83218cbc8f7b545ce",
+      "size": 1632149,
+      "source": "content/provenance/original-coa/palette/client-assets.jsonl.gz"
+    },
+    {
+      "authority": "palette",
+      "destination": "palette/creatures.jsonl.gz",
+      "sha256": "375f46afa682e1511a3abc37a56f08fa4242d6795a31f6040e011b926744b157",
+      "size": 65842,
+      "source": "content/provenance/original-coa/palette/creatures.jsonl.gz"
+    },
+    {
+      "authority": "palette",
+      "destination": "palette/dbc-records.jsonl.gz",
+      "sha256": "5fb5d0e415ed17597a4d3cbed93d3b992ca81c2c2dd0f29600ac46a1b51ce52d",
+      "size": 1702954,
+      "source": "content/provenance/original-coa/palette/dbc-records.jsonl.gz"
+    },
+    {
+      "authority": "palette",
+      "destination": "palette/donor-dbc-records.jsonl.gz",
+      "sha256": "560c52152648cfd579488a84a6ae7d56d378dd611c8eb818b53995b24d356c61",
+      "size": 2047962,
+      "source": "content/provenance/original-coa/palette/donor-dbc-records.jsonl.gz"
+    },
+    {
+      "authority": "palette",
+      "destination": "palette/palette-manifest.json",
+      "sha256": "af766bd12ab36c8efd8e85be7e071dc3f066b67a11b8665f579790070daec684",
+      "size": 56188,
+      "source": "content/provenance/original-coa/palette/palette-manifest.json"
+    },
+    {
+      "authority": "palette",
+      "destination": "palette/spell-dependencies.jsonl.gz",
+      "sha256": "1e84f7f70c659028f33ec4cddb81168091b7ac9400953f9619fc03d1a118d4cd",
+      "size": 8783553,
+      "source": "content/provenance/original-coa/palette/spell-dependencies.jsonl.gz"
+    },
+    {
+      "authority": "palette",
+      "destination": "palette/spells.jsonl.gz",
+      "sha256": "24f8ec6ea839c106f2c832a3b84019a3815210e385ca8d524066ed38f0994bc4",
+      "size": 11412684,
+      "source": "content/provenance/original-coa/palette/spells.jsonl.gz"
+    },
+    {
+      "authority": "coa",
+      "destination": "roster.json",
+      "sha256": "b75b00e41466a7d65ae8da0e8aae1200fe7db2f54eb9cbcf943f7dc66f1da18f",
+      "size": 25615,
+      "source": "content/roster.json"
+    }
+  ],
+  "palette_counts": {
+    "ascension_assets": 621960,
+    "client_assets": 241850,
+    "creatures": 5269,
+    "donor_dbc_records": 117638,
+    "spell_dependencies": 238888,
+    "spells": 238888
+  },
+  "schema": "bytecoa-databank-manifest/1",
+  "source_commit": "7a8c735e860df074035a3b15c97dcf6c4adc9387",
+  "source_paths": [
+    "content/adoption/task15/necromancer-animation.json",
+    "content/adoption/task15/necromancer-class.json",
+    "content/adoption/task15/necromancer-death.json",
+    "content/classes/necromancer/assets/animation.json",
+    "content/classes/necromancer/ids.json",
+    "content/classes/necromancer/legacy/animation-pilot-scaffolds.json",
+    "content/classes/necromancer/reference-builds.json",
+    "content/classes/necromancer/sources/Spell.animation.closed.dbc.hex",
+    "content/classes/necromancer/sources/Spell.dbc.hex",
+    "content/classes/necromancer/sources/Spell.selected.dbc.hex",
+    "content/classes/necromancer/sources/animation-c13-closure.json",
+    "content/classes/necromancer/sources/animation-c13-selection.json",
+    "content/classes/necromancer/sources/creatures.json",
+    "content/classes/necromancer/specs/animation.json",
+    "content/classes/necromancer/spells/animation-tree.json",
+    "content/classes/necromancer/summons.json",
+    "content/classes/necromancer/trees/animation.json",
+    "content/classes/necromancer/visual-kits.json",
+    "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/SEMANTIC-ADJUDICATION.md",
+    "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/attribution-counts.json",
+    "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/inventory-publication.json",
+    "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/snapshot-manifest.json",
+    "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/source-consistency-attestation.json",
+    "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/table-counts.json",
+    "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/transcript-inventory.json",
+    "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/unknown-register.json",
+    "content/provenance/ascension/inventory/f1898f0bc3dc5c245904a948d77ec9d374defd48f03d2f85c0fc09c0e304604f/zone-review-candidate.json",
+    "content/provenance/original-coa/palette/ascension-assets.jsonl.gz",
+    "content/provenance/original-coa/palette/assets.jsonl.gz",
+    "content/provenance/original-coa/palette/client-assets.jsonl.gz",
+    "content/provenance/original-coa/palette/creatures.jsonl.gz",
+    "content/provenance/original-coa/palette/dbc-records.jsonl.gz",
+    "content/provenance/original-coa/palette/donor-dbc-records.jsonl.gz",
+    "content/provenance/original-coa/palette/palette-manifest.json",
+    "content/provenance/original-coa/palette/spell-dependencies.jsonl.gz",
+    "content/provenance/original-coa/palette/spells.jsonl.gz",
+    "content/roster.json"
+  ]
+}

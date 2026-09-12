@@ -1,0 +1,15 @@
+{
+  "name_enus": "Ingredient: Jungle Shrooms",
+  "icon": "inv_mushroom_07",
+  "tooltip_enus": "<table><tr><td><b>Ingredient: Jungle Shrooms</b><br />5% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>0.5&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Brew <span style=\"color: #ffffff;\">Jungle Shrooms</span> into your <span style=\"color: #ffffff;\">Cauldron</span>.<br /><br /><span style=\"color: #ffffff;\">Cauldron</span>: Heal up to <!--sp705859:0-->8<!--sp705859--> allies within 30 yds for 16+3.5 Points Per Level+Heal*.15 every 6 sec.<br /><br /><span style=\"color: #ffffff;\">Potion Toss</span>: Heal the target ally for 10 to 11 every 3 sec for 18&nbsp;sec.</span></td></tr></table><!--?801660:1:1:80-->",
+  "spells_enus": {
+    "705859": [
+      [
+        8,
+        5
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

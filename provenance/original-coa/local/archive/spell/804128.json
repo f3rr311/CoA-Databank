@@ -1,0 +1,8 @@
+{
+  "name_enus": "Runed Cascade",
+  "icon": "nhi_arcanebeam_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Runed Cascade</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>11% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>5&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Blast up to 10 enemies within 8 yds of the enemy target for 133 Spellfire Damage, and applies <span style=\"color: #ffffff;\">Spellwrath</span> to all affected enemies.<br /><br />Always applies the maximum amount of <span style=\"color: #ffffff;\">Spellwrath</span> stacks.</span></td></tr></table><!--?804128:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

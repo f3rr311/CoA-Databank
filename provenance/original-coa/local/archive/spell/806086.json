@@ -1,0 +1,8 @@
+{
+  "name_enus": "Muck Summoner",
+  "icon": "inv_fishing_lure_worm",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Muck Summoner</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Periodic damage dealt now has an 5% chance to summon 2 to 3 <span style=\"color: #ffffff;\">Rotlings</span> that will run towards the enemy and explode after 5 sec for 200+3.0 Points Per Level+SP*0.335 Plague damage.</span></td></tr></table><!--?806086:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

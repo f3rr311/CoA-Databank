@@ -1,0 +1,8 @@
+{
+  "name_enus": "Seraphim - Level 20 Passive",
+  "icon": "inv_inscription_weaponscroll03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Seraphim - Level 20 Passive</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 20 Passive</span><br />Reduces the cooldowns of <span style=\"color: #ffffff;\">Gavel of Light</span>, <span style=\"color: #ffffff;\">Horusath Blast</span>, and <span style=\"color: #ffffff;\">Dawnbreak</span> by 0%.</span></td></tr></table><!--?805631:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blanket of Stars",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Blanket of Stars</b><br /><table width=\"100%\"><tr><td>Instant</td><th>35&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Shields<br /><span class=\"q\">Cover your shield in a blanket of stars for 8&nbsp;sec, increasing your block chance and block value by 100%.</span></td></tr></table><!--?804413:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

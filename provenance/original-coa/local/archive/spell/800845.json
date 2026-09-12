@@ -1,0 +1,8 @@
+{
+  "name_enus": "Limbo",
+  "icon": "ability_rogue_shadowdance",
+  "tooltip_enus": "<table><tr><td><b>Limbo</b><br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Rip out of your mortal shell for 5&nbsp;sec, making you immune to all harmful spell effects and instantly restoring 30% of your maximum health and Runic Power.<br /><br />Usable while stunned, feared, or polymorphed.</span></td></tr></table><!--?800845:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

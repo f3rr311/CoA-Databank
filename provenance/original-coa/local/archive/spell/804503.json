@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shatter Echo",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Shatter Echo</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>19% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #d480ff;\">Distortion Spell</span><br />Launch a distorted echo from your wand at an enemy, dealing 90% Ranged Weapon damage plus COND(GT(ArcP, HolP), 4+0+ArcP*0.3, 4+0+HolP*0.3) Arcane damage.<br /><br />Damage increased by 40% for each <span style=\"color: #ffffff;\">Echo Fragment</span> consumed. </span></td></tr></table><!--?804503:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

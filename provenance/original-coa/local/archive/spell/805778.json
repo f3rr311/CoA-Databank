@@ -1,0 +1,8 @@
+{
+  "name_enus": "Weakening Venom",
+  "icon": "trade_alchemy_dpotion_a23",
+  "tooltip_enus": "<table><tr><td><b>Weakening Venom</b><br />20% of base mana<br />1 sec cast</td></tr></table><table><tr><td><span class=\"q\">Activate <span style=\"color: #ffffff;\">Weakening Venom</span> for 2&nbsp;hr, giving your casts a 35% chance to deal 18+4.8 Points Per Level+SP*.125 Shadow damage and reduce an enemy's attack power by -(-3.4 Points Per Level+ -23) for 8&nbsp;sec.<br /><br />You can have a maximum of 2 unique <span style=\"color: #ffffff;\">Venoms</span> active at a time.</span></td></tr></table><!--?805778:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Forestwood Key",
+  "icon": "_keygoldacid",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Forestwood Key</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>3 sec cast</td></tr></table><table><tr><td>Reagents:<br/><div class=\"indent q1\"><a href=\"?item=2000155\">Crude Leather</a>, <a href=\"?item=2840\">Copper Bar</a>, <a href=\"?item=2320\">Coarse Thread</a>, <a href=\"?item=8210210\">Forestwood Log</a><br /></div><br /><span class=\"q\">Creates a temporary magical grove key to open locks that require up to 25 lockpicking skill.</span></td></tr></table><!--?804759:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

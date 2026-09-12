@@ -1,0 +1,8 @@
+{
+  "name_enus": "Alertness",
+  "icon": "spell_holy_powerinfusion",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Alertness</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces Physical Damage taken by 4% and increases the range of <span style=\"color: #ffffff;\">Benediction</span> by 10 yds.</span></td></tr></table><!--?706322:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

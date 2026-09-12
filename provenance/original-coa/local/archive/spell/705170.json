@@ -1,0 +1,8 @@
+{
+  "name_enus": "Unrelenting",
+  "icon": "spell_deathknight_runetap",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Unrelenting</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Every 5 points of Energy now increases the critical strike chance of <span style=\"color: #ffffff;\">Piercing Javelin</span> and <span style=\"color: #ffffff;\">Crush</span> by 1%.</span></td></tr></table><!--?705170:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Emerald Will",
+  "icon": "spell_shaman_earthlivingweapon",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Emerald Will</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Successfully dispelling a poison or disease effect with <span style=\"color: #ffffff;\">Soothing Touch</span> now heals for 4% maximum health.</span></td></tr></table><!--?500302:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

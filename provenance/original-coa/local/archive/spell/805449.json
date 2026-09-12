@@ -1,0 +1,8 @@
+{
+  "name_enus": "Wildfire",
+  "icon": "ability_mage_worldinflames",
+  "tooltip_enus": "<table><tr><td><b>Wildfire</b><br />11% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>12&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Deals 9+(PL*0.8) Fire damage to an enemy, and all other enemies around them. <br /><br />If the primary target is affected by <span style=\"color: #ffffff;\">Ignite</span>, spread it to nearby enemies.</span></td></tr></table><!--?805449:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

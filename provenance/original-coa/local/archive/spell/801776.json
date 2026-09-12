@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ballad of the Conqueror",
+  "icon": "inv_misc_drum_06",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ballad of the Conqueror</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>40 Energy<br />Instant</td></tr></table><table><tr><td><span class=\"q\">Play the <span style=\"color: #ffffff;\">Ballad of the Conqueror</span>, instantly dealing 12+0+AP*.3 Magic damage to an enemy, ignoring resistances.</span></td></tr></table><!--?801776:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

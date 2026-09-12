@@ -1,0 +1,8 @@
+{
+  "name_enus": "Annihilan Strike",
+  "icon": "inv_glaive_1h_npc_d_02",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Annihilan Strike</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>40 Energy<br /><table width=\"100%\"><tr><td>Instant</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires One-Handed Melee Weapon<br /><span class=\"q\"><span style=\"color: #32cd32;\">Generates 2 Felfury</span><br />Unleash a devastating attack, dealing 145% Weapon Damage to your target with both weapons.<br /><br />This ability is guaranteed to critically strike against enemies above 75% health.</span></td></tr></table><!--?801903:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

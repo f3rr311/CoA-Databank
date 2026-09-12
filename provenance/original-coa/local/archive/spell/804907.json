@@ -1,0 +1,8 @@
+{
+  "name_enus": "Transcending Strikes",
+  "icon": "ability_paladin_beaconofinsight",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Transcending Strikes</b></td><th><b class=\"q0\">Trigger</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Divine Force</span> will now trigger a 1 min reduced cooldown when used on enemies affected by <span style=\"color: #ffffff;\">Blade of Faith</span>.</span></td></tr></table><!--?804907:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

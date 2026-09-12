@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rift",
+  "icon": "inv_chest_armor_voidelf_d_01",
+  "tooltip_enus": "<table><tr><td><b>Rift</b><br />8% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Apply a dark boon to yourself for 15&nbsp;sec, causing your next <span style=\"color: #ffffff;\">Hammer of Twilight</span> to deal an additional 80% of its damage dealt as Shadow damage.<br /><br />Creates a rift that absorbs the next 200+11.0 Points Per Level+AP*1.5 healing taken by enemies that step inside and reduces their periodic healing received by 50% for 10&nbsp;sec while inside.</span></td></tr></table><!--?806250:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Interrogator",
+  "icon": "spell_holy_retributionaura",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Interrogator</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 20 Passive</span><br />Damage dealt by <span style=\"color: #FFFFFF;\">Dawn Blade</span> now deals an additional 100% of the damage dealt over 10&nbsp;sec as Fire damage.</span></td></tr></table><!--?806188:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

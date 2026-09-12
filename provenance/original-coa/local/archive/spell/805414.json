@@ -1,0 +1,8 @@
+{
+  "name_enus": "Burn Wounds",
+  "icon": "nhi_holyring_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Burn Wounds</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Chastise</span> now reduces all healing received by an enemy by 50% for 8&nbsp;sec.</span></td></tr></table><!--?805414:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

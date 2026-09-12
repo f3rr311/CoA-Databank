@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lethal Wounds",
+  "icon": "uico_blood_spell_02_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lethal Wounds</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the tick rate of your periodic damage effects by 20%.</span></td></tr></table><!--?705056:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

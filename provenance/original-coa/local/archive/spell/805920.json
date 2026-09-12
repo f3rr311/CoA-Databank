@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bronzeheart",
+  "icon": "epic_rpg_icon_pack_earth_icon_0001s_0000_dust_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bronzeheart</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the chance for healing received to remove a stack of <span style=\"color: #ffffff;\">Tectonic Shift</span> by 20%.</span></td></tr></table><!--?805920:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

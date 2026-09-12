@@ -1,0 +1,8 @@
+{
+  "name_enus": "Weaver of Sorrow",
+  "icon": "_warlock_shadowboltvolley",
+  "tooltip_enus": "<table><tr><td><b>Weaver of Sorrow</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Flintlock Shot</span> spreads <span style=\"color: #ffffff;\">Anguish</span> to 4 nearby enemies and reduces the cooldown of <span style=\"color: #FFFFFF;\">Shadow Shot</span> by 1 sec.</span></td></tr></table><!--?804798:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

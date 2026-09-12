@@ -1,0 +1,767 @@
+{
+ "build": {
+  "id": "93151d79-0f14-43d1-90ad-6a44033f0eff",
+  "title": "Tinker Heal PVE DUNGEONS BUILD",
+  "description": "[overview]\nmy first language is not English, so if there are spelling mistakes I'm sorry, it is a basic guide to understand a little how I play tinker heal in dungeons and if I can help people with this guide then perfect, that is the intention.\n\n[rotation]\nReconstruction and Swarm Nanobots all the time active on tank. \nRecharger Nanobot all the time active on yourself.\nWhen enter in a pull use Replenishment and Shield beacon with the tank and after 4 secons use Overcharge, that is going to returnt to you the used mana. If in that pull is a lot of debuffs use Restorative beacon to to heal passively.\nCombat Symbiosis you can use all the time in the guy with the most dps, or you can use in bosses on the pet, because with his casts do a lot of dmg and healing.\nTry to use Zap! all the time in tank and yourself because because you two are going to have a nanobots and Zap! is garanteed critical with allies nanobots and that is going to creat a gas to heal 15% of the healing of Zap! in every allies within 8yards.\nTry to use Macro-Gravity Zone in a big pulls, and Noise Box in a big pull with a lot of casters.\nMedpack Can be used like dispell, or like a 5 target dot healing. \nAnd Air Strike and Deathball are just abilities to use in a big pulls when people are safe.\n\n[stats]\nIm playing more like Spell Power>Crit>Hast.\nThe principal healing abilities are nanobots, beacons, pet, and Zap! (instant healing abilitie), so you dont need to cast too much, so i prefer more crit than hast. But that doesn't mean you don't have to carry hast. The \"useless\" stat is spirit, We have 3 powerfull buffs to restore mana, Mana Module, Replenishment Beacon and Nanobot Recharger.\n\n[leveling]\nTo do quests use Mechano-Bear if you are alone, use nanobots in it and just do damage.\n\n[macros]\nMy principal macro por petattack is with dmg abilities like bomb or autoattack:\n\n#showtooltip\n/use Sticky Bomb\n/petattack\n\nAnd the other macro is for healing pet (ZIGGI-6K) he has a rescue abiltie, and i use normally on me so i just use this macro:\n\n#showtooltip\n/use Minicopter-Z\n\n[tips]\nWhen you start learning the class use Stim Augmentation to heal to the party, when you doing heroic and mytic dungeon, you will start using Explosive Augmentation in some pulls and Stim Augmentation in other.",
+  "class_id": 28,
+  "spec_id": 74,
+  "author_id": "bb2ee0a0-0e34-451c-93ca-f2f8aa5edd1a",
+  "talent_string": "W1siMjgtODctMi0wIiwxXSxbIjI4LTg3LTYtMCIsMV0sWyIyOC04Ny01LTEiLDJdLFsiMjgtODctMy0xIiwyXSxbIjI4LTg3LTQtMiIsMV0sWyIyOC04Ny0yLTMiLDFdLFsiMjgtODctNC0zIiwyXSxbIjI4LTg3LTYtMyIsMV0sWyIyOC04Ny03LTIiLDFdLFsiMjgtODctNy00YSIsMV0sWyIyOC04Ny04LTUiLDFdLFsiMjgtODctNS00IiwxXSxbIjI4LTg3LTQtNSIsMV0sWyIyOC04Ny0zLTQiLDFdLFsiMjgtODctMy02IiwxXSxbIjI4LTg3LTUtNmEiLDFdLFsiMjgtODctNy02IiwxXSxbIjI4LTg3LTYtNSIsMV0sWyIyOC04Ny02LTciLDFdLFsiMjgtODctMi03IiwxXSxbIjI4LTg3LTQtNyIsMV0sWyIyOC04Ny00LTgiLDFdLFsiMjgtODctMi05IiwxXSxbIjI4LTc0LTQtMCIsMV0sWyIyOC03NC02LTEiLDFdLFsiMjgtNzQtMi0xIiwyXSxbIjI4LTc0LTAtMiIsMV0sWyIyOC03NC0xLTMiLDFdLFsiMjgtNzQtNC0yIiwxXSxbIjI4LTc0LTctMyIsMV0sWyIyOC03NC00LTMiLDFdLFsiMjgtNzQtNS00YiIsMV0sWyIyOC03NC0wLTQiLDFdLFsiMjgtNzQtMS01IiwxXSxbIjI4LTc0LTQtNSIsMV0sWyIyOC03NC03LTUiLDFdLFsiMjgtNzQtOC02IiwxXSxbIjI4LTc0LTYtNiIsMV0sWyIyOC03NC03LTciLDFdLFsiMjgtNzQtMi02IiwxXSxbIjI4LTc0LTMtNyIsMV0sWyIyOC03NC01LTciLDJdLFsiMjgtNzQtMi04IiwxXSxbIjI4LTc0LTQtOSIsMV0sWyIyOC03NC0xMC0wIiwxXSxbIjI4LTc0LTEwLTIiLDFdLFsiMjgtNzQtMTAtNCIsMV0sWyIyOC03NC0xMC02IiwxXSxbIjI4LTc0LTEwLTgiLDFdLFsiMjgtNzQtOC0yIiwyXV0",
+  "tags": [
+   "Dungeons."
+  ],
+  "role": "healer",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 1,
+  "comment_count": 2,
+  "created_at": "2026-07-21T11:03:43.200903+00:00",
+  "updated_at": "2026-07-21T20:36:47.595+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 478,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 1,
+  "author": {
+   "id": "bb2ee0a0-0e34-451c-93ca-f2f8aa5edd1a",
+   "username": "Magik Wolf",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIyVNOyA89VZJ8YMtXuCzLorqm3k3Ra_bR1BcVbW_V3OEMp0Rg8=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "87d4dced-ef5a-4001-81a1-3d78baf511e8",
+   "build_id": "93151d79-0f14-43d1-90ad-6a44033f0eff",
+   "author_id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+   "parent_id": null,
+   "body": "Imho the duration on nanobots (J27 Upgrade) isn't that good to be taken over Technician (you crit a lot, Zap at 100%), 4% int from Flexible Thinking is huge, way better than niche anti bleed talent",
+   "upvotes": 0,
+   "created_at": "2026-07-21T14:54:50.66893+00:00",
+   "updated_at": "2026-07-21T14:54:50.66893+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "9c59d03e-acfc-4113-83a7-b13957cd846b",
+    "username": "barbastellus",
+    "avatar_url": "https://cdn.discordapp.com/avatars/303246343454064643/0aa82c673b4696bbcc0985a0e426cb37.png"
+   }
+  },
+  {
+   "id": "8b51a159-4fa7-485e-ad9e-83e0f25b8806",
+   "build_id": "93151d79-0f14-43d1-90ad-6a44033f0eff",
+   "author_id": "bb2ee0a0-0e34-451c-93ca-f2f8aa5edd1a",
+   "parent_id": "87d4dced-ef5a-4001-81a1-3d78baf511e8",
+   "body": "Yes you have right, the flexible thinking was bad copy in game i have two points there, the Tehcnician i change right now, ty for the tips.",
+   "upvotes": 1,
+   "created_at": "2026-07-21T20:37:52.393805+00:00",
+   "updated_at": "2026-07-21T21:52:11.134557+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "bb2ee0a0-0e34-451c-93ca-f2f8aa5edd1a",
+    "username": "Magik Wolf",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIyVNOyA89VZJ8YMtXuCzLorqm3k3Ra_bR1BcVbW_V3OEMp0Rg8=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "102d9cf7-095d-4fb4-80e7-c0949104d65c",
+   "title": "Noobheal Invention Tinker Build",
+   "class_id": 28,
+   "spec_id": 74,
+   "author_id": "e6249b90-f2c9-442a-90f7-58d358aa8964",
+   "tags": [
+    "raid",
+    "leveling",
+    "dungeon",
+    "beginner"
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 1,
+   "comment_count": 3,
+   "view_count": 1096,
+   "featured": false,
+   "created_at": "2026-07-21T13:59:40.426257+00:00",
+   "updated_at": "2026-07-25T15:06:45.1+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "e6249b90-f2c9-442a-90f7-58d358aa8964",
+    "username": "Noobheal",
+    "avatar_url": "https://cdn.discordapp.com/avatars/181744520944156672/e33261577c5b67d3b3bc03fa6f055541.png"
+   }
+  },
+  {
+   "id": "367f91fe-9108-4d77-9994-054ff4dd090c",
+   "title": "Tinker Demolition PvE",
+   "class_id": 28,
+   "spec_id": 73,
+   "author_id": "574155cb-df15-424b-bb48-2eb7cbb56521",
+   "tags": [
+    "PvE Dungeon Raid AoE Guide"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 5,
+   "downvotes": 0,
+   "comment_count": 3,
+   "view_count": 4960,
+   "featured": false,
+   "created_at": "2026-07-19T14:50:23.181203+00:00",
+   "updated_at": "2026-07-22T07:58:40.686+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "574155cb-df15-424b-bb48-2eb7cbb56521",
+    "username": "disturbedmirror",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJgW2sw_uPjGbkjQ9RXY9o-ak16pMDimJir4JeYoQF6MuYKHA=s96-c"
+   }
+  },
+  {
+   "id": "b5c3caf9-df2b-4629-9a35-e65f940069ed",
+   "title": "Tinker Demo PVP",
+   "class_id": 28,
+   "spec_id": 73,
+   "author_id": "247b79e3-0f93-4a8f-842e-c55c19c7f2da",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 966,
+   "featured": false,
+   "created_at": "2026-07-20T18:33:05.991506+00:00",
+   "updated_at": "2026-07-20T18:36:05.397+00:00",
+   "has_talents": true,
+   "guide_section_count": 0,
+   "author": {
+    "id": "247b79e3-0f93-4a8f-842e-c55c19c7f2da",
+    "username": "mang0782",
+    "avatar_url": "https://cdn.discordapp.com/avatars/233807059919962112/42ed0f48c6ae22ba1b51a3a08846af13.png"
+   }
+  }
+ ],
+ "class": "Tinker",
+ "spec": "Invention",
+ "allocations": [
+  [
+   "28-87-2-0",
+   1
+  ],
+  [
+   "28-87-6-0",
+   1
+  ],
+  [
+   "28-87-5-1",
+   2
+  ],
+  [
+   "28-87-3-1",
+   2
+  ],
+  [
+   "28-87-4-2",
+   1
+  ],
+  [
+   "28-87-2-3",
+   1
+  ],
+  [
+   "28-87-4-3",
+   2
+  ],
+  [
+   "28-87-6-3",
+   1
+  ],
+  [
+   "28-87-7-2",
+   1
+  ],
+  [
+   "28-87-7-4a",
+   1
+  ],
+  [
+   "28-87-8-5",
+   1
+  ],
+  [
+   "28-87-5-4",
+   1
+  ],
+  [
+   "28-87-4-5",
+   1
+  ],
+  [
+   "28-87-3-4",
+   1
+  ],
+  [
+   "28-87-3-6",
+   1
+  ],
+  [
+   "28-87-5-6a",
+   1
+  ],
+  [
+   "28-87-7-6",
+   1
+  ],
+  [
+   "28-87-6-5",
+   1
+  ],
+  [
+   "28-87-6-7",
+   1
+  ],
+  [
+   "28-87-2-7",
+   1
+  ],
+  [
+   "28-87-4-7",
+   1
+  ],
+  [
+   "28-87-4-8",
+   1
+  ],
+  [
+   "28-87-2-9",
+   1
+  ],
+  [
+   "28-74-4-0",
+   1
+  ],
+  [
+   "28-74-6-1",
+   1
+  ],
+  [
+   "28-74-2-1",
+   2
+  ],
+  [
+   "28-74-0-2",
+   1
+  ],
+  [
+   "28-74-1-3",
+   1
+  ],
+  [
+   "28-74-4-2",
+   1
+  ],
+  [
+   "28-74-7-3",
+   1
+  ],
+  [
+   "28-74-4-3",
+   1
+  ],
+  [
+   "28-74-5-4b",
+   1
+  ],
+  [
+   "28-74-0-4",
+   1
+  ],
+  [
+   "28-74-1-5",
+   1
+  ],
+  [
+   "28-74-4-5",
+   1
+  ],
+  [
+   "28-74-7-5",
+   1
+  ],
+  [
+   "28-74-8-6",
+   1
+  ],
+  [
+   "28-74-6-6",
+   1
+  ],
+  [
+   "28-74-7-7",
+   1
+  ],
+  [
+   "28-74-2-6",
+   1
+  ],
+  [
+   "28-74-3-7",
+   1
+  ],
+  [
+   "28-74-5-7",
+   2
+  ],
+  [
+   "28-74-2-8",
+   1
+  ],
+  [
+   "28-74-4-9",
+   1
+  ],
+  [
+   "28-74-10-0",
+   1
+  ],
+  [
+   "28-74-10-2",
+   1
+  ],
+  [
+   "28-74-10-4",
+   1
+  ],
+  [
+   "28-74-10-6",
+   1
+  ],
+  [
+   "28-74-10-8",
+   1
+  ],
+  [
+   "28-74-8-2",
+   2
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "28-87-2-0",
+   "points": 1,
+   "name": "Rocket Boots",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 500241
+  },
+  {
+   "id": "28-87-6-0",
+   "points": 1,
+   "name": "Nanobot Reconstruction",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 801809
+  },
+  {
+   "id": "28-87-5-1",
+   "points": 2,
+   "name": "Refined Gunpowder",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 705781
+  },
+  {
+   "id": "28-87-3-1",
+   "points": 2,
+   "name": "Explosive Personality",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 704111
+  },
+  {
+   "id": "28-87-4-2",
+   "points": 1,
+   "name": "Clockwork Ingenuity",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 505336
+  },
+  {
+   "id": "28-87-2-3",
+   "points": 1,
+   "name": "Macro-Gravity Zone",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 707104
+  },
+  {
+   "id": "28-87-4-3",
+   "points": 2,
+   "name": "Flexible Thinking",
+   "maxPoints": 2,
+   "tree": "Tinker (class tree)",
+   "spellId": 705825
+  },
+  {
+   "id": "28-87-6-3",
+   "points": 1,
+   "name": "Med Pack",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 800347
+  },
+  {
+   "id": "28-87-7-2",
+   "points": 1,
+   "name": "Hasty Tech",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705805
+  },
+  {
+   "id": "28-87-7-4a",
+   "points": 1,
+   "name": "Medical Degree",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 505327
+  },
+  {
+   "id": "28-87-8-5",
+   "points": 1,
+   "name": "Modulator",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 707832
+  },
+  {
+   "id": "28-87-5-4",
+   "points": 1,
+   "name": "Efficiency",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705806
+  },
+  {
+   "id": "28-87-4-5",
+   "points": 1,
+   "name": "Kinetic Shield",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 806224
+  },
+  {
+   "id": "28-87-3-4",
+   "points": 1,
+   "name": "Maniacal",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 706375
+  },
+  {
+   "id": "28-87-3-6",
+   "points": 1,
+   "name": "I'm The Creator Now",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 503534
+  },
+  {
+   "id": "28-87-5-6a",
+   "points": 1,
+   "name": "Rocket Bombardment",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 706695
+  },
+  {
+   "id": "28-87-7-6",
+   "points": 1,
+   "name": "Build: Alarm Beacon",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 560754
+  },
+  {
+   "id": "28-87-6-5",
+   "points": 1,
+   "name": "Mechaplating",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705831
+  },
+  {
+   "id": "28-87-6-7",
+   "points": 1,
+   "name": "Mechanical Enhancements",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 506632
+  },
+  {
+   "id": "28-87-2-7",
+   "points": 1,
+   "name": "Ventilation",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 572367
+  },
+  {
+   "id": "28-87-4-7",
+   "points": 1,
+   "name": "Mechanosoldier",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 705827
+  },
+  {
+   "id": "28-87-4-8",
+   "points": 1,
+   "name": "Air Strike",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 801744
+  },
+  {
+   "id": "28-87-2-9",
+   "points": 1,
+   "name": "Deathball",
+   "maxPoints": 1,
+   "tree": "Tinker (class tree)",
+   "spellId": 500236
+  },
+  {
+   "id": "28-74-4-0",
+   "points": 1,
+   "name": "Build: Restorative Beacon",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 801801
+  },
+  {
+   "id": "28-74-6-1",
+   "points": 1,
+   "name": "Field Medic",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560789
+  },
+  {
+   "id": "28-74-2-1",
+   "points": 2,
+   "name": "Over-Repaired",
+   "maxPoints": 2,
+   "tree": "Invention",
+   "spellId": 807498
+  },
+  {
+   "id": "28-74-0-2",
+   "points": 1,
+   "name": "Master Builder",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 807966
+  },
+  {
+   "id": "28-74-1-3",
+   "points": 1,
+   "name": "Macro Designer",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 505230
+  },
+  {
+   "id": "28-74-4-2",
+   "points": 1,
+   "name": "Stim Augmentation",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 653239
+  },
+  {
+   "id": "28-74-7-3",
+   "points": 1,
+   "name": "Eureka!",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 503552
+  },
+  {
+   "id": "28-74-4-3",
+   "points": 1,
+   "name": "Inventor's Tool Belt",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560742
+  },
+  {
+   "id": "28-74-5-4b",
+   "points": 1,
+   "name": "Bandage Gun",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705780
+  },
+  {
+   "id": "28-74-0-4",
+   "points": 1,
+   "name": "Nanobot Swarm",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 801709
+  },
+  {
+   "id": "28-74-1-5",
+   "points": 1,
+   "name": "Healing Radiator",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705846
+  },
+  {
+   "id": "28-74-4-5",
+   "points": 1,
+   "name": "Fine Tuning",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 300877
+  },
+  {
+   "id": "28-74-7-5",
+   "points": 1,
+   "name": "Zap!",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 680196
+  },
+  {
+   "id": "28-74-8-6",
+   "points": 1,
+   "name": "Trust the Science!",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 300653
+  },
+  {
+   "id": "28-74-6-6",
+   "points": 1,
+   "name": "Rejuvenating Gadget",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 805306
+  },
+  {
+   "id": "28-74-7-7",
+   "points": 1,
+   "name": "Resourceful Tech",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560791
+  },
+  {
+   "id": "28-74-2-6",
+   "points": 1,
+   "name": "Cybernetic Revivification",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705811
+  },
+  {
+   "id": "28-74-3-7",
+   "points": 1,
+   "name": "Rapid Fire Healing",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705803
+  },
+  {
+   "id": "28-74-5-7",
+   "points": 2,
+   "name": "Mana Capacitors",
+   "maxPoints": 2,
+   "tree": "Invention",
+   "spellId": 506818
+  },
+  {
+   "id": "28-74-2-8",
+   "points": 1,
+   "name": "My Greatest Invention!",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560744
+  },
+  {
+   "id": "28-74-4-9",
+   "points": 1,
+   "name": "Combat Symbiosis",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 805305
+  },
+  {
+   "id": "28-74-10-0",
+   "points": 1,
+   "name": "Build: ZIGGI-6K",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 92140
+  },
+  {
+   "id": "28-74-10-2",
+   "points": 1,
+   "name": "Scientific Nature",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 705802
+  },
+  {
+   "id": "28-74-10-4",
+   "points": 1,
+   "name": "Beacon Charging",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 524834
+  },
+  {
+   "id": "28-74-10-6",
+   "points": 1,
+   "name": "Graftbolts",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 560785
+  },
+  {
+   "id": "28-74-10-8",
+   "points": 1,
+   "name": "Improved Graftbolts",
+   "maxPoints": 1,
+   "tree": "Invention",
+   "spellId": 807748
+  },
+  {
+   "id": "28-74-8-2",
+   "points": 2,
+   "name": "Technician",
+   "maxPoints": 2,
+   "tree": "Invention",
+   "spellId": 560735
+  }
+ ]
+}

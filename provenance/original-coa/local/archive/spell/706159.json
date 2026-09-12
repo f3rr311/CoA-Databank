@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lithic Lance",
+  "icon": "ability_earthen_pillar",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lithic Lance</b></td><th><b class=\"q0\">Specialization</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 20 Passive</span><br />Generating <span style=\"color: #c6a36a;\">Earthshaping</span> now has a 20% chance to transform your next <span style=\"color: #ffffff;\">Geode Barrage</span> within 8&nbsp;sec into <span style=\"color: #ffffff;\">Lithic Lance</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_earthen_pillar.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=681251'> Lithic Lance </a> <br />\n                            <span> Launch a beam of earthen energy at an enemy, dealing 263+0+NatP*.8 Physical damage, generating 20 Rage and 2 stacks of <span style=\"color: #c6a36a;\">Earthshaping</span><!--sp706208:0--><!--sp706208-->.<br /><br />Scales with modifiers to <span style=\"color: #ffffff;\">Geode Barrage</span>.</span><br /></span></td></tr></table><!--?706159:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

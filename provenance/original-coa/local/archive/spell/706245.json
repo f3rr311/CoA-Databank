@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dark Revelation",
+  "icon": "spell_shadow_summonvoidwalker",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dark Revelation</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Grants your <span style=\"color: #ffffff;\">Horrorbolt</span> and <span style=\"color: #FFFFFF;\">Wrath of the Black Empire</span> a 20% chance to reset the cooldown of <span style=\"color: #ffffff;\">Gaze of C'thun</span>.</span></td></tr></table><!--?706245:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

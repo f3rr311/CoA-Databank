@@ -1,0 +1,8 @@
+$WowheadPower.registerSpell(804584, 0, {
+    "name_enus": "Dawn",
+    "icon": "inv_misc_questionmark",
+    "tooltip_enus": "<table><tr><td><b>Dawn</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Allows you to fulfill your <span style=\"color: #ffffff;\">Vows</span>.<br /><br />Your next 10 damaging or healing abilities will trigger the <span style=\"color: #ffffff;\">Fulfillment</span> effect of your <span style=\"color: #ffffff;\">Vow</span>. Can only occur once per sec. Lasts 1&nbsp;min.<br /><br /><span style=\"color: #FF9800;\">Solar Power</span> cannot be generated while <span style=\"color: #ffffff;\">Dawn</span> is active.</span></td></tr></table><!--?804584:1:1:80-->",
+    "spells_enus": [],
+    "buff_enus": "",
+    "buffspells_enus": []
+});

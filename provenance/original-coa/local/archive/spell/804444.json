@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shield of the Ages",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Shield of the Ages</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">When hit by a damaging critical strike, your damage taken is reduced by 3%, and healing received is increased by 5% for 3&nbsp;sec, stacking 3 times. </span></td></tr></table><!--?804444:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

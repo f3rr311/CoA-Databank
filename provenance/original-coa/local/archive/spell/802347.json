@@ -1,0 +1,15 @@
+{
+  "name_enus": "Pestilence of Famine",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Pestilence of Famine</b></td><th><b class=\"q0\">Slow</b></th></tr></table><table width=\"100%\"><tr><td>Instant</td><th>4&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Emanate a pestilence reducing the movement speed by 25% and attack speed of nearby enemies by 10%.<!--sp801002:0--><!--sp801002--></span></td></tr></table><!--?802347:1:1:80-->",
+  "spells_enus": {
+    "801002": [
+      [
+        "",
+        "<br /><br /><span style=\"color: #ffffff\">Unleash</span>: Reduces enemies' movement speed within 10 yds by 50% for 8&nbsp;sec."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

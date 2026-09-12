@@ -1,0 +1,8 @@
+{
+  "name_enus": "Discordant Blast",
+  "icon": "inv_enchant_voidsphere",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Discordant Blast</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>10% of base mana<br /><table width=\"100%\"><tr><td>5 sec cast</td><th>6&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Hurl a mass of chaotic magic an enemy target for <span style=\"color: #01cdfe;\">13 to 16 Time Damage</span>. Time Damage is a combination of Frost and Arcane.<br /><br />Grants 1 <span style=\"color: #feff9e;\">Chromatic</span>.<br /><br />While Chromatic Incarnate is active, this ability deals 100% increased damage.</span></td></tr></table><!--?801290:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

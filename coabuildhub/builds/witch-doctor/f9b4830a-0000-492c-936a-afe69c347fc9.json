@@ -1,0 +1,792 @@
+{
+ "build": {
+  "id": "f9b4830a-0000-492c-936a-afe69c347fc9",
+  "title": "Shadowhunter Witch Doctor build",
+  "description": "",
+  "class_id": 13,
+  "spec_id": 36,
+  "author_id": "c3e70a7c-69fb-47fa-8b2d-29b00f21c72f",
+  "talent_string": "W1siMTMtODctMS0wIiwxXSxbIjEzLTg3LTQtMCIsMV0sWyIxMy04Ny0yLTEiLDJdLFsiMTMtODctNC0xIiwxXSxbIjEzLTg3LTYtMSIsMV0sWyIxMy04Ny0wLTJiIiwxXSxbIjEzLTg3LTMtMiIsMV0sWyIxMy04Ny01LTIiLDJdLFsiMTMtODctMi0zIiwxXSxbIjEzLTg3LTEtNGIiLDFdLFsiMTMtODctMC01IiwxXSxbIjEzLTg3LTItNSIsMV0sWyIxMy04Ny00LTQiLDFdLFsiMTMtODctNC01YSIsMV0sWyIxMy04Ny02LTUiLDFdLFsiMTMtODctNy02IiwyXSxbIjEzLTg3LTUtNiIsMV0sWyIxMy04Ny00LTdhIiwxXSxbIjEzLTg3LTEtNiIsMV0sWyIxMy04Ny0xLTdiIiwxXSxbIjEzLTg3LTctNyIsMV0sWyIxMy04Ny0yLTgiLDFdLFsiMTMtODctMS05IiwxXSxbIjEzLTM2LTMtMCIsMV0sWyIxMy0zNi01LTAiLDFdLFsiMTMtMzYtNi0xIiwyXSxbIjEzLTM2LTItMSIsMl0sWyIxMy0zNi0yLTIiLDFdLFsiMTMtMzYtMS0zIiwxXSxbIjEzLTM2LTMtMyIsMV0sWyIxMy0zNi02LTIiLDFdLFsiMTMtMzYtNy0zIiwxXSxbIjEzLTM2LTUtMyIsMV0sWyIxMy0zNi0yLTQiLDFdLFsiMTMtMzYtNC00IiwxXSxbIjEzLTM2LTYtNCIsMV0sWyIxMy0zNi0wLTViIiwxXSxbIjEzLTM2LTItNSIsMV0sWyIxMy0zNi00LTUiLDJdLFsiMTMtMzYtNi02IiwxXSxbIjEzLTM2LTEtNiIsMV0sWyIxMy0zNi0yLTYiLDFdLFsiMTMtMzYtNC02YiIsMV0sWyIxMy0zNi0zLTciLDFdLFsiMTMtMzYtNS03IiwxXSxbIjEzLTM2LTYtOCIsMV0sWyIxMy0zNi02LTkiLDFdLFsiMTMtMzYtMTAtMCIsMV0sWyIxMy0zNi0xMC0yIiwxXSxbIjEzLTM2LTEwLTQiLDFdLFsiMTMtMzYtMTAtNiIsMV0sWyIxMy0zNi0xMC04IiwxXV0",
+  "tags": [],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 2,
+  "downvotes": 1,
+  "comment_count": 2,
+  "created_at": "2026-07-20T19:29:39.407948+00:00",
+  "updated_at": "2026-07-20T19:29:39.407948+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 3957,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 0,
+  "author": {
+   "id": "c3e70a7c-69fb-47fa-8b2d-29b00f21c72f",
+   "username": "azerty clavier",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKrXEf6258Sr5K9rzW8p_1E6zUZrMOGfRzqRSGto9KCzLQxrw=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "4b98ef4e-0b94-44d4-90fb-3fe77a873374",
+   "build_id": "f9b4830a-0000-492c-936a-afe69c347fc9",
+   "author_id": "b84101eb-ceb3-468e-894d-c46880dc5c52",
+   "parent_id": null,
+   "body": "the best stats for this build pls. and do you have a best in slot?",
+   "upvotes": 0,
+   "created_at": "2026-07-21T10:41:41.60808+00:00",
+   "updated_at": "2026-07-21T10:41:41.60808+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "b84101eb-ceb3-468e-894d-c46880dc5c52",
+    "username": "f.r.z.tsu",
+    "avatar_url": "https://cdn.discordapp.com/avatars/288549365516075018/15c01aa49abc570b669cad9561c07882.png"
+   }
+  },
+  {
+   "id": "f5d974c1-c365-4436-9bca-32546cbe473a",
+   "build_id": "f9b4830a-0000-492c-936a-afe69c347fc9",
+   "author_id": "c3e70a7c-69fb-47fa-8b2d-29b00f21c72f",
+   "parent_id": "4b98ef4e-0b94-44d4-90fb-3fe77a873374",
+   "body": "agility haste spirit and i don't have enough time in game for the bis sry",
+   "upvotes": 1,
+   "created_at": "2026-07-21T18:39:46.73549+00:00",
+   "updated_at": "2026-07-21T19:27:40.995467+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "c3e70a7c-69fb-47fa-8b2d-29b00f21c72f",
+    "username": "azerty clavier",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKrXEf6258Sr5K9rzW8p_1E6zUZrMOGfRzqRSGto9KCzLQxrw=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "a254757b-8afd-45a9-b6bd-93dd4bf49d9d",
+   "title": "WD Shadowhunter PvE",
+   "class_id": 13,
+   "spec_id": 36,
+   "author_id": "428f5bf2-8db9-42db-a655-0215916cb624",
+   "tags": [
+    "AoE",
+    "Dungeon",
+    "Single Target"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 425,
+   "featured": false,
+   "created_at": "2026-07-29T19:22:39.59715+00:00",
+   "updated_at": "2026-07-29T19:30:52.961+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "428f5bf2-8db9-42db-a655-0215916cb624",
+    "username": "Martin T. L. (Malleren)",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJOVHmFSEN6QzZdqvH_Lu6ce3wr7zGxdIaw5-n9kVyIElnHLGVW=s96-c"
+   }
+  },
+  {
+   "id": "05e9cd81-6697-4220-91c5-d1872fc44a29",
+   "title": "Who do your voodoo",
+   "class_id": 13,
+   "spec_id": 34,
+   "author_id": "8617fe92-c43b-44c7-9a4e-9e371d18f0fa",
+   "tags": [
+    "Aoe"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 2,
+   "downvotes": 0,
+   "comment_count": 1,
+   "view_count": 2503,
+   "featured": false,
+   "created_at": "2026-07-23T07:38:39.28031+00:00",
+   "updated_at": "2026-07-23T07:40:37.987+00:00",
+   "has_talents": true,
+   "guide_section_count": 5,
+   "author": {
+    "id": "8617fe92-c43b-44c7-9a4e-9e371d18f0fa",
+    "username": "skadi2552",
+    "avatar_url": "https://cdn.discordapp.com/avatars/169451519345819649/6890df9855fd7a4d11b292d1c61e0810.png"
+   }
+  },
+  {
+   "id": "00b41ac2-7b7f-4a28-87ad-1d5f78204ab9",
+   "title": "WD - Cocktail Cauldron Shenaningans",
+   "class_id": 13,
+   "spec_id": 35,
+   "author_id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+   "tags": [
+    "AOE",
+    "Raid",
+    "Mythic"
+   ],
+   "role": "healer",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 577,
+   "featured": false,
+   "created_at": "2026-07-23T16:26:12.939071+00:00",
+   "updated_at": "2026-07-28T16:01:48.181+00:00",
+   "has_talents": true,
+   "guide_section_count": 6,
+   "author": {
+    "id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+    "username": "bruttus_",
+    "avatar_url": "https://cdn.discordapp.com/avatars/716955228729245781/98ec4037a0a68fd624f2a4ad6069555b.png"
+   }
+  }
+ ],
+ "class": "Witch Doctor",
+ "spec": "Shadowhunting",
+ "allocations": [
+  [
+   "13-87-1-0",
+   1
+  ],
+  [
+   "13-87-4-0",
+   1
+  ],
+  [
+   "13-87-2-1",
+   2
+  ],
+  [
+   "13-87-4-1",
+   1
+  ],
+  [
+   "13-87-6-1",
+   1
+  ],
+  [
+   "13-87-0-2b",
+   1
+  ],
+  [
+   "13-87-3-2",
+   1
+  ],
+  [
+   "13-87-5-2",
+   2
+  ],
+  [
+   "13-87-2-3",
+   1
+  ],
+  [
+   "13-87-1-4b",
+   1
+  ],
+  [
+   "13-87-0-5",
+   1
+  ],
+  [
+   "13-87-2-5",
+   1
+  ],
+  [
+   "13-87-4-4",
+   1
+  ],
+  [
+   "13-87-4-5a",
+   1
+  ],
+  [
+   "13-87-6-5",
+   1
+  ],
+  [
+   "13-87-7-6",
+   2
+  ],
+  [
+   "13-87-5-6",
+   1
+  ],
+  [
+   "13-87-4-7a",
+   1
+  ],
+  [
+   "13-87-1-6",
+   1
+  ],
+  [
+   "13-87-1-7b",
+   1
+  ],
+  [
+   "13-87-7-7",
+   1
+  ],
+  [
+   "13-87-2-8",
+   1
+  ],
+  [
+   "13-87-1-9",
+   1
+  ],
+  [
+   "13-36-3-0",
+   1
+  ],
+  [
+   "13-36-5-0",
+   1
+  ],
+  [
+   "13-36-6-1",
+   2
+  ],
+  [
+   "13-36-2-1",
+   2
+  ],
+  [
+   "13-36-2-2",
+   1
+  ],
+  [
+   "13-36-1-3",
+   1
+  ],
+  [
+   "13-36-3-3",
+   1
+  ],
+  [
+   "13-36-6-2",
+   1
+  ],
+  [
+   "13-36-7-3",
+   1
+  ],
+  [
+   "13-36-5-3",
+   1
+  ],
+  [
+   "13-36-2-4",
+   1
+  ],
+  [
+   "13-36-4-4",
+   1
+  ],
+  [
+   "13-36-6-4",
+   1
+  ],
+  [
+   "13-36-0-5b",
+   1
+  ],
+  [
+   "13-36-2-5",
+   1
+  ],
+  [
+   "13-36-4-5",
+   2
+  ],
+  [
+   "13-36-6-6",
+   1
+  ],
+  [
+   "13-36-1-6",
+   1
+  ],
+  [
+   "13-36-2-6",
+   1
+  ],
+  [
+   "13-36-4-6b",
+   1
+  ],
+  [
+   "13-36-3-7",
+   1
+  ],
+  [
+   "13-36-5-7",
+   1
+  ],
+  [
+   "13-36-6-8",
+   1
+  ],
+  [
+   "13-36-6-9",
+   1
+  ],
+  [
+   "13-36-10-0",
+   1
+  ],
+  [
+   "13-36-10-2",
+   1
+  ],
+  [
+   "13-36-10-4",
+   1
+  ],
+  [
+   "13-36-10-6",
+   1
+  ],
+  [
+   "13-36-10-8",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "13-87-1-0",
+   "points": 1,
+   "name": "Mirage",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 501136
+  },
+  {
+   "id": "13-87-4-0",
+   "points": 1,
+   "name": "Mimic Ward",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 707162
+  },
+  {
+   "id": "13-87-2-1",
+   "points": 2,
+   "name": "Juju Injection",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503608
+  },
+  {
+   "id": "13-87-4-1",
+   "points": 1,
+   "name": "Chosen One",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503742
+  },
+  {
+   "id": "13-87-6-1",
+   "points": 1,
+   "name": "Spiritual Traditions",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705911
+  },
+  {
+   "id": "13-87-0-2b",
+   "points": 1,
+   "name": "Sen'jin's Swiftness",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504426
+  },
+  {
+   "id": "13-87-3-2",
+   "points": 1,
+   "name": "Mojo Madness",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705871
+  },
+  {
+   "id": "13-87-5-2",
+   "points": 2,
+   "name": "Wizened",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705903
+  },
+  {
+   "id": "13-87-2-3",
+   "points": 1,
+   "name": "Death Draught",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 602220
+  },
+  {
+   "id": "13-87-1-4b",
+   "points": 1,
+   "name": "Will of the Serpent",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 300663
+  },
+  {
+   "id": "13-87-0-5",
+   "points": 1,
+   "name": "Loa Empowerment",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 706368
+  },
+  {
+   "id": "13-87-2-5",
+   "points": 1,
+   "name": "Alchemical Enhancement",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705921
+  },
+  {
+   "id": "13-87-4-4",
+   "points": 1,
+   "name": "Amphibimorph",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 500952
+  },
+  {
+   "id": "13-87-4-5a",
+   "points": 1,
+   "name": "Krag'wa's Blessing",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 807855
+  },
+  {
+   "id": "13-87-6-5",
+   "points": 1,
+   "name": "Vol'jin's Vigil",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504465
+  },
+  {
+   "id": "13-87-7-6",
+   "points": 2,
+   "name": "Spirit Walker",
+   "maxPoints": 2,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 504459
+  },
+  {
+   "id": "13-87-5-6",
+   "points": 1,
+   "name": "Potent Mixes",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 503748
+  },
+  {
+   "id": "13-87-4-7a",
+   "points": 1,
+   "name": "Blatant Curse",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 301297
+  },
+  {
+   "id": "13-87-1-6",
+   "points": 1,
+   "name": "Slither",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 500947
+  },
+  {
+   "id": "13-87-1-7b",
+   "points": 1,
+   "name": "Dark Mojo",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 712396
+  },
+  {
+   "id": "13-87-7-7",
+   "points": 1,
+   "name": "Hastened",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705899
+  },
+  {
+   "id": "13-87-2-8",
+   "points": 1,
+   "name": "Veil of Darkness",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 802100
+  },
+  {
+   "id": "13-87-1-9",
+   "points": 1,
+   "name": "Loa Communion",
+   "maxPoints": 1,
+   "tree": "Witch Doctor (class tree)",
+   "spellId": 705907
+  },
+  {
+   "id": "13-36-3-0",
+   "points": 1,
+   "name": "Malefic Arrow",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 707854
+  },
+  {
+   "id": "13-36-5-0",
+   "points": 1,
+   "name": "Reclamation",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 806288
+  },
+  {
+   "id": "13-36-6-1",
+   "points": 2,
+   "name": "Loa's Strength",
+   "maxPoints": 2,
+   "tree": "Shadowhunting",
+   "spellId": 705936
+  },
+  {
+   "id": "13-36-2-1",
+   "points": 2,
+   "name": "Improved Malefic Arrow",
+   "maxPoints": 2,
+   "tree": "Shadowhunting",
+   "spellId": 707855
+  },
+  {
+   "id": "13-36-2-2",
+   "points": 1,
+   "name": "Spirit Glaive",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 806289
+  },
+  {
+   "id": "13-36-1-3",
+   "points": 1,
+   "name": "Soul Feeder",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 705894
+  },
+  {
+   "id": "13-36-3-3",
+   "points": 1,
+   "name": "Mojo High",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 706488
+  },
+  {
+   "id": "13-36-6-2",
+   "points": 1,
+   "name": "Spirit Eclipse",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 801607
+  },
+  {
+   "id": "13-36-7-3",
+   "points": 1,
+   "name": "Village Wisdom",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 680882
+  },
+  {
+   "id": "13-36-5-3",
+   "points": 1,
+   "name": "Spiritual Devotee",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 503727
+  },
+  {
+   "id": "13-36-2-4",
+   "points": 1,
+   "name": "Vol'jin's Blessing",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 706577
+  },
+  {
+   "id": "13-36-4-4",
+   "points": 1,
+   "name": "Call of Sseratus",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 681222
+  },
+  {
+   "id": "13-36-6-4",
+   "points": 1,
+   "name": "Shadowstalker",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 807040
+  },
+  {
+   "id": "13-36-0-5b",
+   "points": 1,
+   "name": "Godslayer",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 802714
+  },
+  {
+   "id": "13-36-2-5",
+   "points": 1,
+   "name": "Residual Energy",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 706543
+  },
+  {
+   "id": "13-36-4-5",
+   "points": 2,
+   "name": "Voodoo Fire",
+   "maxPoints": 2,
+   "tree": "Shadowhunting",
+   "spellId": 802262
+  },
+  {
+   "id": "13-36-6-6",
+   "points": 1,
+   "name": "Strength of Da Loa",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 300871
+  },
+  {
+   "id": "13-36-1-6",
+   "points": 1,
+   "name": "Dark Loa's Incantation",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 525377
+  },
+  {
+   "id": "13-36-2-6",
+   "points": 1,
+   "name": "Darkspear Traditionalist",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 503707
+  },
+  {
+   "id": "13-36-4-6b",
+   "points": 1,
+   "name": "Hexfire Mass",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 807450
+  },
+  {
+   "id": "13-36-3-7",
+   "points": 1,
+   "name": "Eye of Kimbul",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 503714
+  },
+  {
+   "id": "13-36-5-7",
+   "points": 1,
+   "name": "Berserking",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 705925
+  },
+  {
+   "id": "13-36-6-8",
+   "points": 1,
+   "name": "Serpent's Guile",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 705928
+  },
+  {
+   "id": "13-36-6-9",
+   "points": 1,
+   "name": "Bwonsamdi's Gift",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 707650
+  },
+  {
+   "id": "13-36-10-0",
+   "points": 1,
+   "name": "Shadowhunter",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 92086
+  },
+  {
+   "id": "13-36-10-2",
+   "points": 1,
+   "name": "Loa Spirits",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 705843
+  },
+  {
+   "id": "13-36-10-4",
+   "points": 1,
+   "name": "Umbral Glaive",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 681242
+  },
+  {
+   "id": "13-36-10-6",
+   "points": 1,
+   "name": "Sen'jin's Apprentice",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 681199
+  },
+  {
+   "id": "13-36-10-8",
+   "points": 1,
+   "name": "Spirit Volley",
+   "maxPoints": 1,
+   "tree": "Shadowhunting",
+   "spellId": 503712
+  }
+ ]
+}

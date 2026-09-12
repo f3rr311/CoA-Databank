@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lord of Torture",
+  "icon": "ability_rogue_deadliness",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lord of Torture</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Periodic damage dealt now has a 20% chance to increase your Shadow damage dealt against the target by 10% for 10&nbsp;sec.</span></td></tr></table><!--?500099:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

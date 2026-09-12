@@ -1,0 +1,8 @@
+{
+  "name_enus": "Eternity",
+  "icon": "inv_enchant_dreamshard_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Eternity</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Clasp of Infinity</span> now increases your damage dealt to the target by 15%.</span></td></tr></table><!--?805844:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

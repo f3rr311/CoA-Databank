@@ -1,0 +1,8 @@
+{
+  "name_enus": "Solar Invigoration",
+  "icon": "custom_element%28fire%29_b_01_border",
+  "tooltip_enus": "<table><tr><td><b>Solar Invigoration</b><br />20% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">For 15&nbsp;sec, your allies take 20% increased healing and their direct damage dealt now causes them to cast <span style=\"color: #ffffff;\">Shine</span>. Can only occur once every 2 sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_priest_spiritoftheredeemer.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=502455'> Shine </a> <br />\n                            <span> Shine holy light upon an ally, healing for 511+0+SP*0.294699.</span><br /></span></td></tr></table><!--?806123:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

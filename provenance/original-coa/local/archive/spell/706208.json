@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rupturer",
+  "icon": "inv_ascend_stone_03",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Rupturer</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Damage dealt by <span style=\"color: #ffffff;\">Seismic Spike</span> or <span style=\"color: #ffffff;\">Seismic Crash</span> now generates a stack of <span style=\"color: #ffffff;\">Geomolding</span>. <br /><br />Critically striking with <span style=\"color: #FFFFFF;\">Seismic Spike</span> or <span style=\"color: #ffffff;\">Seismic Crash</span> now generates an additional stack of <span style=\"color: #FFFFFF;\">Geomolding</span> plus a stack of <span style=\"color: #c6a36a;\">Earthshaping</span>.<br /><br />Casting <span style=\"color: #ffffff;\">Lithic Lance</span> now reduces the cooldown of <span style=\"color: #ffffff;\">Terrasurge</span> by 4 sec.</span></td></tr></table><!--?706208:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

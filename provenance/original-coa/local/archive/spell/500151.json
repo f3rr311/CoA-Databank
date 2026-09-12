@@ -1,0 +1,8 @@
+{
+  "name_enus": "Solar Embrace",
+  "icon": "ability_priest_rayofhope",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Solar Embrace</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>21% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>24&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Heals all friendly party or raid members within $a1yds of the target for 48 to 54. Can be used on an enemy or an ally.</span></td></tr></table><!--?500151:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

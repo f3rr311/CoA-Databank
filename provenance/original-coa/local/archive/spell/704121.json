@@ -1,0 +1,8 @@
+{
+  "name_enus": "Purified Blood",
+  "icon": "spell_animarevendreth_nova",
+  "tooltip_enus": "<table><tr><td><b>Purified Blood</b><br /></td></tr></table><table><tr><td><span class=\"q\">Increases the value of your next 5 instances of healing from <span style=\"color: #ffffff;\">Sanguine Mend</span>, <span style=\"color: #ffffff;\">Lifedrinker</span>, <span style=\"color: #ffffff;\">Dark Liturgy</span> and <span style=\"color: #ffffff;\">Fleshcraft</span> spells on an ally by 10% and heals them for 25+0+Heal*0.2 health every 1.5 sec.</span></td></tr></table><!--?704121:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

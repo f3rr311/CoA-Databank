@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ghostly Weapon",
+  "icon": "custom_66_spirit_sword_border",
+  "tooltip_enus": "<table><tr><td><b>Ghostly Weapon</b><br />20 Runic Power<br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">2 Charges, 40 sec recharge</span><br />Imbue your weapon with ghostly power for 15&nbsp;sec, causing melee attacks to deal 25% additional damage as Frost damage.</span></td></tr></table><!--?803997:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

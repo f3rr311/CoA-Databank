@@ -1,0 +1,8 @@
+{
+  "name_enus": "Quickburn",
+  "icon": "spell_burningbladeshaman_blazing_radiance",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Quickburn</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the tick rate of <span style=\"color: #ffffff;\">Ignite</span>, <span style=\"color: #ffffff;\">Blaze</span> and <span style=\"color: #ffffff;\">Scalding Brand</span> by 30% but reduces their durations by 30%.</span></td></tr></table><!--?704826:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

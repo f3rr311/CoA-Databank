@@ -1,0 +1,8 @@
+{
+  "name_enus": "Boon of the Turtle",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Boon of the Turtle</b><br />14% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces your damage taken by 10% and causes you to deal 3 Nature damage to melee attackers.<br /><br />Only 1 <span style=\"color: #ffffff;\">Boon</span> may be active at a time.</span></td></tr></table><!--?500935:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flame Glyph",
+  "icon": "70_inscription_vantus_rune_nightmare",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flame Glyph</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Using <span style=\"color: #ffffff;\">Elemental Burst</span> or <span style=\"color: #ffffff;\">Primordial Blast</span> while <span style=\"color: #ffffff;\">Frost Glyph</span> is active now grants you a <span style=\"color: #ffffff;\">Flame Glyph</span>.<br /><br /> Glyphs can be unleashed by <span style=\"color: #FFFFFF;\">Glyphic Ruin</span> or <span style=\"color: #FFFFFF;\">Thaumaturgy</span>.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/70_inscription_vantus_rune_nightmare.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=520091'> Flame Glyph </a> <br />\n                            <span> <span style=\"color: #FFFFFF;\">Unleash</span>: Deals 250*$<scalingbp>+FireP*0.65 Fire Damage and an additional (6*1000/2)*(250*$<scalingbp>+SP*.1) Fire Damage over 6&nbsp;sec.</span><br /></span></td></tr></table><!--?705625:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

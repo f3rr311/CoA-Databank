@@ -1,0 +1,8 @@
+{
+  "name_enus": "Underhanded Throws",
+  "icon": "ability_rogue_fanofknives",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Underhanded Throws</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Quills</span> now reduces the cost of subsequent <span style=\"color: #ffffff;\">Quills</span> by 20% for 6&nbsp;sec, stacking 3 times.<br /><br />At 3 stacks all stacks are instantly consumed to reset the cooldown of <span style=\"color: #ffffff;\">Ravage</span> and make your next <span style=\"color: #ffffff;\">Ravage</span> within 10&nbsp;sec free of cost and generate 50 Focus.</span></td></tr></table><!--?804942:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Primordial Earth",
+  "icon": "inv_ore_gold_nugget2",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Primordial Earth</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Critical strikes with melee attacks now summon 1 <span style=\"color: #ffffff;\">Spirit of Life</span> that immediately casts a lesser <span style=\"color: #ffffff;\">Spirit Charge</span> on a nearby ally, healing them for 55+30.0 Points Per Level+NatP*.2+AP*.2 and dealing 62+10.0 Points Per Level+NatP*.2+AP*.2 Nature damage to nearby enemies.</span></td></tr></table><!--?806536:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

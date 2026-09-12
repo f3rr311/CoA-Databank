@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ghostly Magic",
+  "icon": "ability_warlock_shadowfurytga",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ghostly Magic</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Reap</span>, <span style=\"color: #ffffff;\">Dirge</span>, and <span style=\"color: #ffffff;\">Reliquary of the Lost</span> by 10%.</span></td></tr></table><!--?803998:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

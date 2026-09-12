@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/builds
+Disallow: /api/votes
+Disallow: /api/comments
+Disallow: /api/bookmarks
+Disallow: /api/me
+Disallow: /api/feedback
+Disallow: /api/reports
+Disallow: /api/admin
+
+Sitemap: https://coabuildhub.com/sitemap.xml

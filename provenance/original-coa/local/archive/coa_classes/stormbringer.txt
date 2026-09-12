@@ -1,0 +1,52 @@
+Stormbringer Class Guide — Conquest of Azeroth | July 2026 
+ 
+ 
+ Stormbringer Overview
+ Stormbringers wield unbound lightning through the Static mechanic. Lightning delivers single-target burst, Thunder transforms the entire battlefield into a storm, and Winds supports allies with a growing Air Elemental that Unleashes for massive power spikes. Static stacking up to 100 creates dramatic burst windows.
+ Lightning mage electrifying the battlefield with crackling storms of wind, thunder, and lightning.
+ Class Mechanic — Static
+ Stormbringer abilities generate Static stacking up to 100 times, increasing proc chances and ability damage.
+ Stormbringer uses Static as its primary resource and wears Cloth armor.
+ Specializations
+ At level 10, Stormbringer players choose one of three specializations, each offering a distinct playstyle:
+ Lightning: Single-target burst caster building Static to unleash additional effects on powerful lightning spells.
+ Thunder: Ultimate AoE mage summoning lightning orbs, chain lightnings, and instant casts across the battlefield.
+ Winds: Support spec summoning an Air Elemental that grows stronger in combat, buffing allies while devastating foes.
+ Strengths and Weaknesses
+ Understanding where this class excels helps you decide if it fits your preferred content and playstyle.
+ Strength: Thunder exceptional AoE
+ Strength: Winds unique Support elemental
+ Strength: Static burst windows
+ Weakness: Static stack management to 100
+ Weakness: Cloth fragility
+ Weakness: Lightning weaker on multi-target without Thunder
+ Leveling Tips
+ Thunder provides smooth ranged leveling with natural AoE. Build Static before engaging elites for burst finishers. Winds becomes valuable in dungeon groups.
+ Refer to our leveling walkthrough for zone progression and the Builds section for recommended talent paths.
+ Levels 1–30 Walkthrough 
+ Leveling Builds Guide 
+ Talent System Explained 
+ PvP Notes
+ Thunder chain lightning punishes grouped arena teams. Lightning burst at high Static catches healers off guard.
+ See the PvP Rankings and Tier List for current meta placement.
+ PvP Class Rankings 
+ Class Tier List 
+ Best PvP Classes Guide 
+ Related Classes
+ Explore other classes in the same role or compare with similar mechanics:
+ All 21 Classes 
+ Tier List Rankings 
+ Class Picker Tool 
+ 
+ Related in This Section
+ All Classes Browse the full roster
+ Tier List Current meta rankings
+ Best for Beginners Starter class picks
+ PvP Rankings Arena and BG tiers
+ 
+ Frequently Asked Questions
+ What role is Stormbringer in Conquest of Azeroth? Stormbringer is a Ranged DPS / Support class wearing Cloth armor with Static as its resource.
+ What is the Static mechanic? Stormbringer abilities generate Static stacking up to 100 times, increasing proc chances and ability damage.
+ When do Stormbringer specializations unlock? You choose your primary specialization at level 10, unlocking both class and spec talent trees.
+ Is Stormbringer good for beginners? Stormbringer has a moderate learning curve. See our Best for Beginners guide for easier alternatives.
+ What specs does Stormbringer have? Stormbringer has three specializations: Lightning, Thunder, Winds.

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ancestral Spirit",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ancestral Spirit</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the Energy cost of your <span style=\"color: #FFFFFF;\">Spirit</span> spells and increases the duration of your <span style=\"color: #ffffff;\">Shouts</span> by 50%.</span></td></tr></table><!--?705153:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

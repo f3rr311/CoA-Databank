@@ -1,0 +1,8 @@
+{
+  "name_enus": "Blessing of Y'Shaarj",
+  "icon": "inv_inscription_80_vantusrune_nyalotha",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Blessing of Y'Shaarj</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 50 Passive</span><br />While transformed into a void monstrosity your damage dealt is now also increased by 20%.</span></td></tr></table><!--?801968:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

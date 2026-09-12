@@ -1,0 +1,8 @@
+{
+  "name_enus": "Grimclaw",
+  "icon": "ability_xavius_tormentingswipe",
+  "tooltip_enus": "<table><tr><td><b>Grimclaw</b><br />6553.5 Rage<br /><table width=\"100%\"><tr><td>Instant</td><th>16&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Deals an additional 1+0+AP*0.085 Physical Damage and reduces the enemy's healing received by 0% for until cancelled, stacking 6 times.</span></td></tr></table><!--?800158:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

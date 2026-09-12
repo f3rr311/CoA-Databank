@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bare Fangs",
+  "icon": "inv_misc_redsaberonfang",
+  "tooltip_enus": "<table><tr><td><b>Bare Fangs</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Taunts an enemy to attack you for 3&nbsp;sec.</span></td></tr></table><!--?801957:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

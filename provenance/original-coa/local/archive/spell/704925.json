@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bastion of Vengeance",
+  "icon": "inv_shield_1h_artifactnorgannon_d_06",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bastion of Vengeance</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases your block chance by 2% and gives successful blocks a 50% chance to reduce the remaining cooldown of <span style=\"color: #ffffff;\">Vengeful Slam</span> by 0.01 sec.</span></td></tr></table><!--?704925:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

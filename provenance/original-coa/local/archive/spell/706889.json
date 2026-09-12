@@ -1,0 +1,8 @@
+{
+  "name_enus": "Pyromantic Accelerants",
+  "icon": "spell_shadow_destructivesoul",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Pyromantic Accelerants</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #FFFFFF;\">Flames of Neltharion</span> and <span style=\"color: #FFFFFF;\">Explode</span> now deal 15% increased damage to <span style=\"color: #ff4500;\">Burning</span> targets.</span></td></tr></table><!--?706889:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flourish",
+  "icon": "ability_rogue_unfairadvantage",
+  "tooltip_enus": "<table><tr><td><b>Flourish</b><br />10% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Perform an advanced flourish, dealing 79+19.0 Points Per Level+AP*1 Fire damage to nearby enemies, repeating every 4 sec, and causing your <span style=\"color: #ff7a24;\">Flames of Sin</span> to cleave up to 3 additional enemies for 20&nbsp;sec.<br /><br />Grants you <span style=\"color: #ff7a24;\">Flames of Sin</span> and increases the duration by 10 sec. </span></td></tr></table><!--?805365:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Legacy of Rexxar",
+  "icon": "inv_rexxar",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Legacy of Rexxar</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Critical strikes with <span style=\"color: #ffffff;\">Primal Shred</span> grant you and your pet <span style=\"color: #ffffff;\">Misha's Rage</span> for 12&nbsp;sec, causing auto attacks to deal an additional 85+AP*0.125 Physical damage.<br /><br />Critical strikes with <span style=\"color: #ffffff;\">Rylak's Bite</span> grant you and your pet <span style=\"color: #FFFFFF;\">Leokk's Fury</span>, increasing melee haste by 2% for 12&nbsp;sec, stacking 3 times.<br /><br />Critical strikes with <span style=\"color: #ffffff;\">Wildclaw</span> grant you and your pet <span style=\"color: #ffffff;\">Huffer's Speed</span>, increasing movement speed by 8% for 12&nbsp;sec, stacking 3 times.</span></td></tr></table><!--?800184:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

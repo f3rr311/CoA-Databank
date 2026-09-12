@@ -1,0 +1,8 @@
+{
+  "name_enus": "Quick-Witted",
+  "icon": "inv_misc_quiver_05",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Quick-Witted</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Avoiding an attack now causes you to quickly stab an enemy with one of the arrows from your quiver, dealing 1+1.0 Points Per Level+AP*1 Physical damage and reducing their attack speed by 20% for 8&nbsp;sec.</span></td></tr></table><!--?704311:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

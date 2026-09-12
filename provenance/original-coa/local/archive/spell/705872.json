@@ -1,0 +1,8 @@
+{
+  "name_enus": "Vol'jin's Blessing",
+  "icon": "_troll_04",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Vol'jin's Blessing</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Become blessed by Vol'jin, son of Sen'jin. Increases spell haste by 0%.</span></td></tr></table><!--?705872:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

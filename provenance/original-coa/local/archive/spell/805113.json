@@ -1,0 +1,8 @@
+{
+  "name_enus": "Seething Void",
+  "icon": "spell_fire_twilighthellfire",
+  "tooltip_enus": "<table><tr><td><b>Seething Void</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Curse an enemy, inflicting AP*0.2+0+1 Eldritch Damage every 0 sec for until cancelled.<br /><br />Melee critical strikes refresh this effect's duration and spread it to a nearby enemy.</span></td></tr></table><!--?805113:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

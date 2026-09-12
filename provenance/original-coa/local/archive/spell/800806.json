@@ -1,0 +1,8 @@
+{
+  "name_enus": "Cinderheart",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Cinderheart</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30% of base mana<br />2 sec cast</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ff7f7f;\">Generates 30 Heat</span><br />Mend an ally with healing flames, healing for 45+0+SP*0.65+Spi*1, additionally scaling with your Spirit.</span></td></tr></table><!--?800806:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

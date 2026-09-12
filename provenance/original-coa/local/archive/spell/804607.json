@@ -1,0 +1,8 @@
+{
+  "name_enus": "Volcanic Flames",
+  "icon": "spell_shaman_lavaflow",
+  "tooltip_enus": "<table><tr><td><b>Volcanic Flames</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Allows the periodic damage effect from your <span style=\"color: #ffffff;\">Ignite</span>, <span style=\"color: #ffffff;\">Blaze</span> and <span style=\"color: #ffffff;\">Scalding Brand</span> spells to critically strike.</span></td></tr></table><!--?804607:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

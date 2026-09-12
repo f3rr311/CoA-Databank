@@ -1,0 +1,8 @@
+{
+  "name_enus": "Pulverizing Blade",
+  "icon": "_execution_lightblue",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Pulverizing Blade</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Warden's Blade</span> now grants you <span style=\"color: #ffffff;\">Pulverizing Blade</span>.<br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/_execution_lightblue.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=704171'> Pulverizing Blade </a> <br />\n                            <span> Next 5 <span style=\"color: #ffffff;\">Starsunders</span> within 20&nbsp;sec deal increasing damage, scaling with 10% of Intellect, with each subsequent use, stacking 5 times.</span><br /></span></td></tr></table><!--?805437:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

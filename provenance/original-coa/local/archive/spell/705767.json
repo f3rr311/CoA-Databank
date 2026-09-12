@@ -1,0 +1,8 @@
+{
+  "name_enus": "Modular Charges",
+  "icon": "inv_misc_ammo_bullet_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Modular Charges</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the effectiveness of the charge effects granted by <span style=\"color: #ffffff;\">Rounds</span> by 30%.</span></td></tr></table><!--?705767:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

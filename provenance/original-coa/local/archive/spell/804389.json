@@ -1,0 +1,8 @@
+{
+  "name_enus": "Starsweeper",
+  "icon": "spell_monk_ringofpeace",
+  "tooltip_enus": "<table><tr><td><b>Starsweeper</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces all damage you take by 10% for 20&nbsp;sec.<br /><br />While active, when you Parry an attack you will deal 1% Weapon Damage to all nearby enemies, and reduce the remaining cooldown of this ability by 3 sec.</span></td></tr></table><!--?804389:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

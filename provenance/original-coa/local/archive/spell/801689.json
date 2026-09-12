@@ -1,0 +1,8 @@
+{
+  "name_enus": "Arcane Brew",
+  "icon": "inv_ascend_potion_12",
+  "tooltip_enus": "<table><tr><td><b>Arcane Brew</b><br />8% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Throw your <span style=\"color: #ffffff;\">Arcane Brew</span> at an ally, increasing their spell power and Spirit by 30 for 10&nbsp;sec.<br /><br />Spell power scales with caster level.</span></td></tr></table><!--?801689:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

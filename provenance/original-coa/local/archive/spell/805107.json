@@ -1,0 +1,8 @@
+{
+  "name_enus": "Earthmother's Binding",
+  "icon": "spell_druid_symbiosis",
+  "tooltip_enus": "<table><tr><td><b>Earthmother's Binding</b><br />22% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Envelop a target in the Earthmother's love, healing them for 501+0+Heal*1+AP*1. <br /><br />If used on an ally, 30% of their damage taken is redirected to you for 6&nbsp;sec.</span></td></tr></table><!--?805107:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

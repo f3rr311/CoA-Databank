@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chakra of Wrath",
+  "icon": "achievement_reputation_argentchampion",
+  "tooltip_enus": "<table><tr><td><b>Chakra of Wrath</b><br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Exhaust 3 Holy Runes</span><br />Causes your next 3 <span style=\"color: #ffffff;\">Chakram</span> spells to cause a Damage over Time effect, dealing 3 Holy damage every 2 sec for 18&nbsp;sec, stacks up to 3 times.<br /><br />Lasts up to 30&nbsp;sec. Shares a 1 sec cooldown with other <span style=\"color: #ffffff;\">Chakra</span> spells.</span></td></tr></table><!--?803162:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

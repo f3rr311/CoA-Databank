@@ -1,0 +1,8 @@
+{
+  "name_enus": "Enhanced Remote",
+  "icon": "_hearthstonegizmo_rogue",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Enhanced Remote</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Bot: Hydraulic Strike</span> now increases the damage and critical strike chance of pet abilities by 10% for 10&nbsp;sec.</span></td></tr></table><!--?706372:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

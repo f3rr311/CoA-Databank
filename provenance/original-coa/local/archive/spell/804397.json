@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fetid Pawns",
+  "icon": "spell_deathknight_explode_ghoul",
+  "tooltip_enus": "<table><tr><td><b>Fetid Pawns</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Rotlings</span> now immediately charge at the target, exploding for 100% increased damage. Additionally <span style=\"color: #ffffff;\">Animate: Rotling</span> is now instant.</span></td></tr></table><!--?804397:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

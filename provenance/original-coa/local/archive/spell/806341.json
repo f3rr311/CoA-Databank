@@ -1,0 +1,8 @@
+{
+  "name_enus": "Falcon Dive",
+  "icon": "ability_skyreach_swarm",
+  "tooltip_enus": "<table><tr><td><b>Falcon Dive</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Call 2 <span style=\"color: #ffffff;\">War Falcons</span> to dive forward from your position, dealing Physical Damage to up to 3 enemies struck.<br /><br />The <span style=\"color: #ffffff;\">War Falcons</span> then remain to aid you in combat for 12&nbsp;sec.</span></td></tr></table><!--?806341:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

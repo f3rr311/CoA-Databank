@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dawnfall",
+  "icon": "spell_druid_sunfall",
+  "tooltip_enus": "<table><tr><td><b>Dawnfall</b><br />25% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Bring down the light of An'she down at the target location for 15&nbsp;sec.<br /><br />While inside, allies receive 15% increased healing from all sources and enemies take 15% increased damage from you and are struck by a <span style=\"color: #ffffff;\">Solar Flare</span> every 1 sec.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_druid_sunfall.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=807175'> Solar Flare </a> <br />\n                            <span> Deals 51+<UNK: $ppl2>+SP*0.26 Holyflame Damage and reduces the target's chance to hit by 3% for 10&nbsp;sec.</span><br /></span></td></tr></table><!--?806118:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

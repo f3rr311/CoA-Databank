@@ -1,0 +1,8 @@
+{
+  "name_enus": "Call To Arms",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Call To Arms</b><br />5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Summon a party or raid member to your location.</span></td></tr></table><!--?804723:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

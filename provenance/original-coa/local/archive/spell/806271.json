@@ -1,0 +1,8 @@
+{
+  "name_enus": "Snake Oil",
+  "icon": "inv_staff_2h_snakeman_c_01",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Snake Oil</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #FFFFFF;\">Potion Toss</span> now increases the healing of your <span style=\"color: #FFFFFF;\">Loa's Brew</span> by 10% for 5&nbsp;sec.</span></td></tr></table><!--?806271:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Defensive Utility",
+  "icon": "inv_plate_mechagnome_c_01shoulder",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Defensive Utility</b></td><th><b class=\"q0\">Passive</b></th></tr></table><table width=\"100%\"><tr><td>Instant</td><th>5&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Your <span style=\"color: #ffffff;\">Mechsuit</span> will now increase your armor by an additional 50%.</span></td></tr></table><!--?806631:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

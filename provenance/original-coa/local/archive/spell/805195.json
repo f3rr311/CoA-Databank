@@ -1,0 +1,8 @@
+{
+  "name_enus": "The Jailer's Call",
+  "icon": "inv_mawrat",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>The Jailer's Call</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Attacks against enemies below 20% health deal an additional 140*$<scalingbp>+AP*0.18 Shadow damage.</span></td></tr></table><!--?805195:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

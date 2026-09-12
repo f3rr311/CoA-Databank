@@ -1,0 +1,8 @@
+{
+  "name_enus": "Slither",
+  "icon": "spell_nature_poisoncleansingtotem",
+  "tooltip_enus": "<table><tr><td><b>Slither</b><br />19% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Transform into a serpent, removing all movement impairing effects and increasing movement speed by 80% for 5&nbsp;sec.<br /><br />You cannot attack or cast spells, but chance to be hit by ranged attacks and spells is reduced by 100% for the duration.</span></td></tr></table><!--?500947:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Build: Portable Sawmill",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Build: Portable Sawmill</b><br /><table width=\"100%\"><tr><td>10 sec cast</td><th>20&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Summons a compact <span style=\"color: #FFFFFF;\">Portable Sawmill</span> at your location.<br /><br />This object serves as a sawmill crafting station.<br /><br />The <span style=\"color: #FFFFFF;\">Portable Sawmill</span> will dissipate after 2&nbsp;min.</span></td></tr></table><!--?804707:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

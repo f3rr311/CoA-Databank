@@ -1,0 +1,8 @@
+{
+  "name_enus": "Embrace the Fire",
+  "icon": "5_dragonfirebreath_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Embrace the Fire</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Blaze</span> and <span style=\"color: #ffffff;\">Ignite</span> by 20%.</span></td></tr></table><!--?503636:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

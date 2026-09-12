@@ -1,0 +1,8 @@
+{
+  "name_enus": "Gorge",
+  "icon": "sha_ability_rogue_sturdyrecuperate_nightmare",
+  "tooltip_enus": "<table><tr><td><b>Gorge</b><br />20% of base <br /><table width=\"100%\"><tr><td>Instant</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Instantly gain 10 stacks of <span style=\"color: #E53935;\">Pooled Vitality</span> every 5 sec for 15&nbsp;sec.</span></td></tr></table><!--?804805:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

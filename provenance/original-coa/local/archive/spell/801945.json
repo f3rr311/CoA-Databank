@@ -1,0 +1,8 @@
+{
+  "name_enus": "Plague of Undeath",
+  "icon": "epic_rpg_icon_pack_death_icon_0000s_0000_spirits_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Plague of Undeath</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>30 Runic Power<br />1.5 sec cast</td></tr></table><table><tr><td><span class=\"q\">Disease an enemy dealing 32+0+ShaP*0.25 Plague damage every 2.5 sec and reduces the targets Holy healing received by 40% for 20&nbsp;sec.<br /><br />If <span style=\"color: #ffffff;\">Plague of Undeath</span> is dispelled, the enemy takes 80+9.0 Points Per Level+ShaP*1.25 Plague damage and is stunned for 5&nbsp;sec.<br /><br />Periodic damage dealt by this benefits from your spell haste.</span></td></tr></table><!--?801945:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Mutation",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><b>Mutation</b><br />10% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">For the next 15&nbsp;sec your diseases mutate causing them to act with accelerated lethality, allowing your freshly applied diseases to tick 50% faster.</span></td></tr></table><!--?500342:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

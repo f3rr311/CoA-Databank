@@ -1,0 +1,8 @@
+{
+  "name_enus": "Alertness",
+  "icon": "spell_nature_mentalquickness",
+  "tooltip_enus": "<table><tr><td><b>Alertness</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the duration of any stun or snare effects used on you by 20% and increases your dodge chance by 5%.</span></td></tr></table><!--?805769:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

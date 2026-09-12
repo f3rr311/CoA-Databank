@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ogre's Endurance",
+  "icon": "achievement_boss_highmaul_king",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ogre's Endurance</b></td><th><b class=\"q0\">Deprecated</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases maximum Energy by 0%.</span></td></tr></table><!--?705207:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

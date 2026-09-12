@@ -1,0 +1,15 @@
+{
+  "name_enus": "Serpent's Fang",
+  "icon": "inv_misc_questionmark",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Serpent's Fang</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>20% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Launch vile poison at an enemy, dealing 27+0+NatP*1 Nature damage and healing up to <!--sp706477:0-->5<!--sp706477--> allies near them for 32+3.4 Points Per Level+Heal*0.3.</span></td></tr></table><!--?800946:1:1:80-->",
+  "spells_enus": {
+    "706477": [
+      [
+        5,
+        10
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

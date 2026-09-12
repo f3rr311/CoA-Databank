@@ -1,0 +1,8 @@
+{
+  "name_enus": "Briar Veil",
+  "icon": "nhi_natureempower_border",
+  "tooltip_enus": "<table><tr><td><b>Briar Veil</b><br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Thorns and leaves swirl around you, masking your movements for 10&nbsp;sec, increasing your dodge chance by 50% and causing dodging attacks to restore 2% maximum health and 5 Focus.</span></td></tr></table><!--?800084:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

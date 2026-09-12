@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ogre's Might",
+  "icon": "inv_hammer_2h_horde_a_01_hd",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ogre's Might</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Brutal Swing</span> and <span style=\"color: #ffffff;\">Savage Smash</span> increase the damage of your next <span style=\"color: #ffffff;\">Wrecker</span> by 20% for 10&nbsp;sec.</span></td></tr></table><!--?805803:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

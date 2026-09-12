@@ -1,0 +1,598 @@
+{
+ "bosses": [
+  {
+   "name": "Patchwerk (T7)",
+   "melee_dps": 6198,
+   "swing_ms": 750
+  },
+  {
+   "name": "Deathbringer Saurfang (T10)",
+   "melee_dps": 8942,
+   "swing_ms": 1000
+  },
+  {
+   "name": "Festergut (T10)",
+   "melee_dps": 13281,
+   "swing_ms": 2000
+  },
+  {
+   "name": "Professor Putricide (T10)",
+   "melee_dps": 15405,
+   "swing_ms": 1500
+  },
+  {
+   "name": "Lord Marrowgar (T10)",
+   "melee_dps": 19832,
+   "swing_ms": 1000
+  }
+ ],
+ "branches": [
+  {
+   "branch": "necromancer",
+   "kind": "dps",
+   "armor_class": "Cloth",
+   "armor": 1672,
+   "reduction": 9.1,
+   "hp": 17866,
+   "eff_hp": 19662,
+   "avoid": 5.0,
+   "taken": 0.8632,
+   "dps": 1338,
+   "tps": 1338,
+   "ttl": {
+    "Patchwerk (T7)": 3.3,
+    "Deathbringer Saurfang (T10)": 2.3,
+    "Festergut (T10)": 1.6,
+    "Professor Putricide (T10)": 1.3,
+    "Lord Marrowgar (T10)": 1.0
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 2.11,
+    "Deathbringer Saurfang (T10)": 1.1,
+    "Festergut (T10)": 0.37,
+    "Professor Putricide (T10)": 0.43,
+    "Lord Marrowgar (T10)": 0.5
+   }
+  },
+  {
+   "branch": "reaper",
+   "kind": "dps",
+   "armor_class": "Plate",
+   "armor": 13280,
+   "reduction": 44.4,
+   "hp": 17866,
+   "eff_hp": 32129,
+   "avoid": 15.0,
+   "taken": 0.4727,
+   "dps": 1947,
+   "tps": 1947,
+   "ttl": {
+    "Patchwerk (T7)": 6.1,
+    "Deathbringer Saurfang (T10)": 4.2,
+    "Festergut (T10)": 2.8,
+    "Professor Putricide (T10)": 2.5,
+    "Lord Marrowgar (T10)": 1.9
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 3.46,
+    "Deathbringer Saurfang (T10)": 1.8,
+    "Festergut (T10)": 0.6,
+    "Professor Putricide (T10)": 0.7,
+    "Lord Marrowgar (T10)": 0.81
+   }
+  },
+  {
+   "branch": "knight-of-xoroth",
+   "kind": "dps",
+   "armor_class": "Plate",
+   "armor": 13280,
+   "reduction": 44.4,
+   "hp": 17866,
+   "eff_hp": 32129,
+   "avoid": 15.0,
+   "taken": 0.4727,
+   "dps": 1898,
+   "tps": 1898,
+   "ttl": {
+    "Patchwerk (T7)": 6.1,
+    "Deathbringer Saurfang (T10)": 4.2,
+    "Festergut (T10)": 2.8,
+    "Professor Putricide (T10)": 2.5,
+    "Lord Marrowgar (T10)": 1.9
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 3.46,
+    "Deathbringer Saurfang (T10)": 1.8,
+    "Festergut (T10)": 0.6,
+    "Professor Putricide (T10)": 0.7,
+    "Lord Marrowgar (T10)": 0.81
+   }
+  },
+  {
+   "branch": "pyromancer",
+   "kind": "dps",
+   "armor_class": "Cloth",
+   "armor": 1672,
+   "reduction": 9.1,
+   "hp": 15319,
+   "eff_hp": 16858,
+   "avoid": 5.0,
+   "taken": 0.8632,
+   "dps": 1843,
+   "tps": 1843,
+   "ttl": {
+    "Patchwerk (T7)": 2.9,
+    "Deathbringer Saurfang (T10)": 2.0,
+    "Festergut (T10)": 1.3,
+    "Professor Putricide (T10)": 1.2,
+    "Lord Marrowgar (T10)": 0.9
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 1.81,
+    "Deathbringer Saurfang (T10)": 0.94,
+    "Festergut (T10)": 0.32,
+    "Professor Putricide (T10)": 0.36,
+    "Lord Marrowgar (T10)": 0.43
+   }
+  },
+  {
+   "branch": "chronomancer",
+   "kind": "dps",
+   "armor_class": "Cloth",
+   "armor": 1672,
+   "reduction": 9.1,
+   "hp": 15319,
+   "eff_hp": 16858,
+   "avoid": 5.0,
+   "taken": 0.8632,
+   "dps": 1772,
+   "tps": 1772,
+   "ttl": {
+    "Patchwerk (T7)": 2.9,
+    "Deathbringer Saurfang (T10)": 2.0,
+    "Festergut (T10)": 1.3,
+    "Professor Putricide (T10)": 1.2,
+    "Lord Marrowgar (T10)": 0.9
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 1.81,
+    "Deathbringer Saurfang (T10)": 0.94,
+    "Festergut (T10)": 0.32,
+    "Professor Putricide (T10)": 0.36,
+    "Lord Marrowgar (T10)": 0.43
+   }
+  },
+  {
+   "branch": "bloodmage",
+   "kind": "dps",
+   "armor_class": "Leather",
+   "armor": 3256,
+   "reduction": 16.4,
+   "hp": 15319,
+   "eff_hp": 18317,
+   "avoid": 5.0,
+   "taken": 0.7945,
+   "dps": 1806,
+   "tps": 1806,
+   "ttl": {
+    "Patchwerk (T7)": 3.1,
+    "Deathbringer Saurfang (T10)": 2.2,
+    "Festergut (T10)": 1.5,
+    "Professor Putricide (T10)": 1.3,
+    "Lord Marrowgar (T10)": 1.0
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 1.97,
+    "Deathbringer Saurfang (T10)": 1.02,
+    "Festergut (T10)": 0.34,
+    "Professor Putricide (T10)": 0.4,
+    "Lord Marrowgar (T10)": 0.46
+   }
+  },
+  {
+   "branch": "felsworn",
+   "kind": "bruiser",
+   "armor_class": "Leather",
+   "armor": 3256,
+   "reduction": 16.4,
+   "hp": 15699,
+   "eff_hp": 18772,
+   "avoid": 20.0,
+   "taken": 0.669,
+   "dps": 1527,
+   "tps": 1527,
+   "ttl": {
+    "Patchwerk (T7)": 3.8,
+    "Deathbringer Saurfang (T10)": 2.6,
+    "Festergut (T10)": 1.8,
+    "Professor Putricide (T10)": 1.5,
+    "Lord Marrowgar (T10)": 1.2
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 2.02,
+    "Deathbringer Saurfang (T10)": 1.05,
+    "Festergut (T10)": 0.35,
+    "Professor Putricide (T10)": 0.41,
+    "Lord Marrowgar (T10)": 0.47
+   }
+  },
+  {
+   "branch": "witch-doctor",
+   "kind": "healer",
+   "armor_class": "Leather",
+   "armor": 3256,
+   "reduction": 16.4,
+   "hp": 15699,
+   "eff_hp": 18772,
+   "avoid": 5.0,
+   "taken": 0.7945,
+   "dps": 1270,
+   "tps": 1270,
+   "ttl": {
+    "Patchwerk (T7)": 3.2,
+    "Deathbringer Saurfang (T10)": 2.2,
+    "Festergut (T10)": 1.5,
+    "Professor Putricide (T10)": 1.3,
+    "Lord Marrowgar (T10)": 1.0
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 2.02,
+    "Deathbringer Saurfang (T10)": 1.05,
+    "Festergut (T10)": 0.35,
+    "Professor Putricide (T10)": 0.41,
+    "Lord Marrowgar (T10)": 0.47
+   }
+  },
+  {
+   "branch": "cultist",
+   "kind": "dps",
+   "armor_class": "Plate",
+   "armor": 13280,
+   "reduction": 44.4,
+   "hp": 15699,
+   "eff_hp": 28232,
+   "avoid": 15.0,
+   "taken": 0.4727,
+   "dps": 1841,
+   "tps": 1841,
+   "ttl": {
+    "Patchwerk (T7)": 5.4,
+    "Deathbringer Saurfang (T10)": 3.7,
+    "Festergut (T10)": 2.5,
+    "Professor Putricide (T10)": 2.2,
+    "Lord Marrowgar (T10)": 1.7
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 3.04,
+    "Deathbringer Saurfang (T10)": 1.58,
+    "Festergut (T10)": 0.53,
+    "Professor Putricide (T10)": 0.61,
+    "Lord Marrowgar (T10)": 0.71
+   }
+  },
+  {
+   "branch": "sun-cleric",
+   "kind": "healer",
+   "armor_class": "Plate",
+   "armor": 13280,
+   "reduction": 44.4,
+   "hp": 15312,
+   "eff_hp": 27536,
+   "avoid": 15.0,
+   "taken": 0.4727,
+   "dps": 1457,
+   "tps": 1457,
+   "ttl": {
+    "Patchwerk (T7)": 5.2,
+    "Deathbringer Saurfang (T10)": 3.6,
+    "Festergut (T10)": 2.4,
+    "Professor Putricide (T10)": 2.1,
+    "Lord Marrowgar (T10)": 1.6
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 2.96,
+    "Deathbringer Saurfang (T10)": 1.54,
+    "Festergut (T10)": 0.52,
+    "Professor Putricide (T10)": 0.6,
+    "Lord Marrowgar (T10)": 0.69
+   }
+  },
+  {
+   "branch": "starcaller",
+   "kind": "dps",
+   "armor_class": "Plate",
+   "armor": 13280,
+   "reduction": 44.4,
+   "hp": 15312,
+   "eff_hp": 27536,
+   "avoid": 15.0,
+   "taken": 0.4727,
+   "dps": 1807,
+   "tps": 1807,
+   "ttl": {
+    "Patchwerk (T7)": 5.2,
+    "Deathbringer Saurfang (T10)": 3.6,
+    "Festergut (T10)": 2.4,
+    "Professor Putricide (T10)": 2.1,
+    "Lord Marrowgar (T10)": 1.6
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 2.96,
+    "Deathbringer Saurfang (T10)": 1.54,
+    "Festergut (T10)": 0.52,
+    "Professor Putricide (T10)": 0.6,
+    "Lord Marrowgar (T10)": 0.69
+   }
+  },
+  {
+   "branch": "venomancer",
+   "kind": "dps",
+   "armor_class": "Mail",
+   "armor": 7376,
+   "reduction": 30.7,
+   "hp": 15312,
+   "eff_hp": 22101,
+   "avoid": 5.0,
+   "taken": 0.6582,
+   "dps": 1805,
+   "tps": 1805,
+   "ttl": {
+    "Patchwerk (T7)": 3.8,
+    "Deathbringer Saurfang (T10)": 2.6,
+    "Festergut (T10)": 1.8,
+    "Professor Putricide (T10)": 1.5,
+    "Lord Marrowgar (T10)": 1.2
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 2.38,
+    "Deathbringer Saurfang (T10)": 1.24,
+    "Festergut (T10)": 0.42,
+    "Professor Putricide (T10)": 0.48,
+    "Lord Marrowgar (T10)": 0.56
+   }
+  },
+  {
+   "branch": "barbarian",
+   "kind": "dps",
+   "armor_class": "Leather",
+   "armor": 3256,
+   "reduction": 16.4,
+   "hp": 17866,
+   "eff_hp": 21363,
+   "avoid": 5.0,
+   "taken": 0.7945,
+   "dps": 2055,
+   "tps": 2055,
+   "ttl": {
+    "Patchwerk (T7)": 3.6,
+    "Deathbringer Saurfang (T10)": 2.5,
+    "Festergut (T10)": 1.7,
+    "Professor Putricide (T10)": 1.5,
+    "Lord Marrowgar (T10)": 1.1
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 2.3,
+    "Deathbringer Saurfang (T10)": 1.19,
+    "Festergut (T10)": 0.4,
+    "Professor Putricide (T10)": 0.46,
+    "Lord Marrowgar (T10)": 0.54
+   }
+  },
+  {
+   "branch": "witch-hunter",
+   "kind": "dps",
+   "armor_class": "Mail",
+   "armor": 7376,
+   "reduction": 30.7,
+   "hp": 17866,
+   "eff_hp": 25788,
+   "avoid": 5.0,
+   "taken": 0.6582,
+   "dps": 1807,
+   "tps": 1807,
+   "ttl": {
+    "Patchwerk (T7)": 4.4,
+    "Deathbringer Saurfang (T10)": 3.0,
+    "Festergut (T10)": 2.0,
+    "Professor Putricide (T10)": 1.8,
+    "Lord Marrowgar (T10)": 1.4
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 2.77,
+    "Deathbringer Saurfang (T10)": 1.44,
+    "Festergut (T10)": 0.49,
+    "Professor Putricide (T10)": 0.56,
+    "Lord Marrowgar (T10)": 0.65
+   }
+  },
+  {
+   "branch": "templar",
+   "kind": "bruiser",
+   "armor_class": "Mail",
+   "armor": 7376,
+   "reduction": 30.7,
+   "hp": 17866,
+   "eff_hp": 25788,
+   "avoid": 20.0,
+   "taken": 0.5542,
+   "dps": 1608,
+   "tps": 1608,
+   "ttl": {
+    "Patchwerk (T7)": 5.2,
+    "Deathbringer Saurfang (T10)": 3.6,
+    "Festergut (T10)": 2.4,
+    "Professor Putricide (T10)": 2.1,
+    "Lord Marrowgar (T10)": 1.6
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 2.77,
+    "Deathbringer Saurfang (T10)": 1.44,
+    "Festergut (T10)": 0.49,
+    "Professor Putricide (T10)": 0.56,
+    "Lord Marrowgar (T10)": 0.65
+   }
+  },
+  {
+   "branch": "guardian",
+   "kind": "tank",
+   "armor_class": "Plate",
+   "armor": 22561,
+   "reduction": 57.6,
+   "hp": 15255,
+   "eff_hp": 35944,
+   "avoid": 47.0,
+   "taken": 0.2428,
+   "dps": 1389,
+   "tps": 1389,
+   "ttl": {
+    "Patchwerk (T7)": 10.1,
+    "Deathbringer Saurfang (T10)": 7.0,
+    "Festergut (T10)": 4.7,
+    "Professor Putricide (T10)": 4.1,
+    "Lord Marrowgar (T10)": 3.2
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 3.87,
+    "Deathbringer Saurfang (T10)": 2.01,
+    "Festergut (T10)": 0.68,
+    "Professor Putricide (T10)": 0.78,
+    "Lord Marrowgar (T10)": 0.91
+   }
+  },
+  {
+   "branch": "primalist",
+   "kind": "bruiser",
+   "armor_class": "Plate",
+   "armor": 21356,
+   "reduction": 56.2,
+   "hp": 15255,
+   "eff_hp": 34839,
+   "avoid": 32.0,
+   "taken": 0.3083,
+   "dps": 1563,
+   "tps": 1563,
+   "ttl": {
+    "Patchwerk (T7)": 8.0,
+    "Deathbringer Saurfang (T10)": 5.5,
+    "Festergut (T10)": 3.7,
+    "Professor Putricide (T10)": 3.2,
+    "Lord Marrowgar (T10)": 2.5
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 3.75,
+    "Deathbringer Saurfang (T10)": 1.95,
+    "Festergut (T10)": 0.66,
+    "Professor Putricide (T10)": 0.75,
+    "Lord Marrowgar (T10)": 0.88
+   }
+  },
+  {
+   "branch": "ranger",
+   "kind": "dps",
+   "armor_class": "Leather",
+   "armor": 3256,
+   "reduction": 16.4,
+   "hp": 16113,
+   "eff_hp": 19267,
+   "avoid": 5.0,
+   "taken": 0.7945,
+   "dps": 1753,
+   "tps": 1753,
+   "ttl": {
+    "Patchwerk (T7)": 3.3,
+    "Deathbringer Saurfang (T10)": 2.3,
+    "Festergut (T10)": 1.5,
+    "Professor Putricide (T10)": 1.3,
+    "Lord Marrowgar (T10)": 1.0
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 2.07,
+    "Deathbringer Saurfang (T10)": 1.08,
+    "Festergut (T10)": 0.36,
+    "Professor Putricide (T10)": 0.42,
+    "Lord Marrowgar (T10)": 0.49
+   }
+  },
+  {
+   "branch": "tinker",
+   "kind": "dps",
+   "armor_class": "Mail",
+   "armor": 7376,
+   "reduction": 30.7,
+   "hp": 16113,
+   "eff_hp": 23257,
+   "avoid": 5.0,
+   "taken": 0.6582,
+   "dps": 1417,
+   "tps": 1417,
+   "ttl": {
+    "Patchwerk (T7)": 3.9,
+    "Deathbringer Saurfang (T10)": 2.7,
+    "Festergut (T10)": 1.8,
+    "Professor Putricide (T10)": 1.6,
+    "Lord Marrowgar (T10)": 1.2
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 2.5,
+    "Deathbringer Saurfang (T10)": 1.3,
+    "Festergut (T10)": 0.44,
+    "Professor Putricide (T10)": 0.5,
+    "Lord Marrowgar (T10)": 0.59
+   }
+  },
+  {
+   "branch": "runemaster",
+   "kind": "dps",
+   "armor_class": "Cloth",
+   "armor": 1672,
+   "reduction": 9.1,
+   "hp": 16729,
+   "eff_hp": 18410,
+   "avoid": 5.0,
+   "taken": 0.8632,
+   "dps": 1842,
+   "tps": 1842,
+   "ttl": {
+    "Patchwerk (T7)": 3.1,
+    "Deathbringer Saurfang (T10)": 2.2,
+    "Festergut (T10)": 1.5,
+    "Professor Putricide (T10)": 1.3,
+    "Lord Marrowgar (T10)": 1.0
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 1.98,
+    "Deathbringer Saurfang (T10)": 1.03,
+    "Festergut (T10)": 0.35,
+    "Professor Putricide (T10)": 0.4,
+    "Lord Marrowgar (T10)": 0.46
+   }
+  },
+  {
+   "branch": "stormbringer",
+   "kind": "dps",
+   "armor_class": "Cloth",
+   "armor": 1672,
+   "reduction": 9.1,
+   "hp": 15266,
+   "eff_hp": 16800,
+   "avoid": 5.0,
+   "taken": 0.8632,
+   "dps": 1806,
+   "tps": 1806,
+   "ttl": {
+    "Patchwerk (T7)": 2.9,
+    "Deathbringer Saurfang (T10)": 2.0,
+    "Festergut (T10)": 1.3,
+    "Professor Putricide (T10)": 1.1,
+    "Lord Marrowgar (T10)": 0.9
+   },
+   "survives_swing": {
+    "Patchwerk (T7)": 1.81,
+    "Deathbringer Saurfang (T10)": 0.94,
+    "Festergut (T10)": 0.32,
+    "Professor Putricide (T10)": 0.36,
+    "Lord Marrowgar (T10)": 0.42
+   }
+  }
+ ]
+}

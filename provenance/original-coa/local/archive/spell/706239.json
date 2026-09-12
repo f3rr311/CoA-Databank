@@ -1,0 +1,8 @@
+{
+  "name_enus": "Earthwarder",
+  "icon": "inv_voiddredragonmount",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Earthwarder</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Being struck by a melee attack while <span style=\"color: #ffffff;\">Draconic Aspect</span> is active now has a 20% chance to make your next <span style=\"color: #ffffff;\">Flare Bolt</span> within 8&nbsp;sec instant cast.</span></td></tr></table><!--?706239:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

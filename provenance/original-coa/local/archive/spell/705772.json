@@ -1,0 +1,8 @@
+{
+  "name_enus": "Munition Expert",
+  "icon": "ability_vehicle_demolisherflamecatapult",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Munition Expert</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases Fire and Physical damage dealt by 3%.</span></td></tr></table><!--?705772:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

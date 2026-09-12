@@ -1,0 +1,15 @@
+{
+  "name_enus": "Deathchaser",
+  "icon": "nhi_spiritstab_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Deathchaser</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>Instant</td></tr></table><table><tr><td>Requires Melee Weapon<br /><span class=\"q\">Force death upon an enemy, dealing 13+0+AP*.08 Shadowfrost Damage, repeating every 0.25 sec for 1&nbsp;sec, and generates Runic Power.<!--sp707455:0--><!--sp707455--></span></td></tr></table><!--?805190:1:1:80-->",
+  "spells_enus": {
+    "707455": [
+      [
+        "",
+        "<br /><br />If the target is below 20% health this effect will persist until they die or until 5&nbsp;sec passes."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

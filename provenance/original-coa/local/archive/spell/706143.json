@@ -1,0 +1,8 @@
+{
+  "name_enus": "Spiritual Overflow",
+  "icon": "spell_nature_abolishmagic",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Spiritual Overflow</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces mana cost of <span style=\"color: #FFFFFF;\">Spirit Charge</span> by 15%.</span></td></tr></table><!--?706143:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Dragonfire",
+  "icon": "custom_t_nhance_rpg_icons_firebreath_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dragonfire</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table><table width=\"100%\"><tr><td>Instant cast</td><th>8&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Deals 9 to 10 Fire Damage to an enemy target, and restores 6% of your maximum Mana.<!--sp800809:0--><!--sp800809--></span></td></tr></table><!--?500129:1:1:80-->",
+  "spells_enus": {
+    "800809": [
+      [
+        "",
+        " Brands your target for 4 sec."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

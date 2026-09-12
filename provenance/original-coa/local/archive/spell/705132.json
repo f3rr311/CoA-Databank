@@ -1,0 +1,8 @@
+{
+  "name_enus": "Dancing Blades",
+  "icon": "inv_sword_1h_artifactfelomelorn_d_03dual",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Dancing Blades</b></td><th><b class=\"q0\">Spec Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Critical strikes with melee abilities now trigger <span style=\"color: #FFFFFF;\">Dancing Blades</span>, dealing off-hand Weapon Damage to up to 5 nearby enemies.</span></td></tr></table><!--?705132:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

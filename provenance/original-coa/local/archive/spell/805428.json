@@ -1,0 +1,8 @@
+{
+  "name_enus": "Animate: Frost Wyrm",
+  "icon": "5_dragoncoldbreath_border",
+  "tooltip_enus": "<table><tr><td><b>Animate: Frost Wyrm</b><br />31% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Animate a <span style=\"color: #ffffff;\">Frost Wyrm</span> that flies behind the Necromancer that blasts nearby enemies every 2 sec for 30&nbsp;sec, dealing 1500+((FroP*0.702)+(Int*0.702))*0.212 Frost damage.</span></td></tr></table><!--?805428:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

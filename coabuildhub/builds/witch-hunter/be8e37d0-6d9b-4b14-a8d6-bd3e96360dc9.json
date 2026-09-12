@@ -1,0 +1,700 @@
+{
+ "build": {
+  "id": "be8e37d0-6d9b-4b14-a8d6-bd3e96360dc9",
+  "title": "Black Knight Tank",
+  "description": "[overview]\nThis is meant to be a quick and simple guide, only highlighting the most important talents and skills\n\nKeep in mind the last talent point goes to Secret of raven hill (Coabuildhub seems to be missing 1 talent point)\n\n[talents]\nClass Tree:\n-Brand of the Unworthy: Not bad but it break with ANY sort of damage (including our Shadow Brand), not the worst but mainly just pathing.\n-Vampire Hunting: Dungeons tend to either have tons of curses or have non at all. When its good its really good. If you really want you can take this and Brand of the Unworthy´s Points and get anything else you want.\n-Witching Shroud: Only activates when we get hit by magic Crits... terrible, this is a pvp talent and even then its not something a tank would care about.\n-Vampiric Tonic: A bit mid on its own but synergises with many other Tonic talents.\n-Renegade: What you want to do is Get a bit of Rage then Vault in, this will help you aggro mobs so you can gather them.\n\nSpec Tree:\n-March of the Black King: ignore the damage part, this is a small rage generator and pathing talent nothing else\n-Dark Juggernaut: the bread and butter of the Spec, if you are leveling Rush to get this (min level 26)\n-Dark Riposte: If Dark Juggertnaut is the bread and butter of the spec this is the jelly on top. if leveling get this afterwards (min lvl 30, NOW you are playin a real spec)\n-Witchblight: i usually dont use this until i get dissarmed, on those cases this is a life savior, hardly worth using otherwise when compared to Desecrate.\n-Noctis Protection: our main counter to anti-healing, sometimes you will want to hold Noctis blade a bit so you get value from the shield.\n-Wicked Intent: Talent lie, it reduces de CD by 2s, if someone elses has Replenishment id take this point + Foresight and get Bulmark of Darkness and Guardbreaker\n-Guardbreaker: Giving your team damage against 2-3 targets at the same time is really good in some encounters, but this is way too out of the way and there are more important thing to get.\n-Witching Idol: Very situational, keep in mind the Idol needs to be recasted after 20s.\n-Secret of Raven Hill: The Upgraded Dawn Blades have no CD (they do cost varius amounts of rage tho)\n--Dark Tonic´s Dark Peril: you can spam big damage aoe stun.\n---Vampiric Tonic´s Vampiric Rage: Worst than Noctis Blade but is very spameable, great on Single target and elevated by the fact we need that ST healing.\n--Witchblood Tonic´s Witchblood Fever: Low Damage but increases magic damage recive and counters stealth. It has a nice use on big aoe situations, debuff enemies then spam Desecrate, your team will also enjoy the extra damage\n--Surging Tonic´s Surging Blade: Good Damage and very spameable at 21 Rage. Surging tonic already wants us to use it for ST damage, Surging Blade just help reinforcing this.\n-Shadowstorm: using pomel strike on aoe is not a very good idea, i woulnt take this without Guardbreaker 2/2 and even then the whole idea feels underdeveloped, you are losing tons of healing and since you are hiting less targets than Desecrate its easy for team to accidentally steal aggro.\n-Gaze of the Black Knight: The Shield is massive and shielding our team (mostly our healer) is very nice the problem is that we need to take Shadowstorm and we already have A LOT of buttoms, better take passives.\n-Blade of the Misbegotten: laughably bad: you get +15%hp OF THE DAMAGE DEALT... we are not a DPS this is shit\n\n[rotation]\nThis guide isnt concerned with rotations but i should probably mention some things\n\nMarch of the Black King´s damage occurs 3s AFTER you press the buttom, and even then is not good. This only works as a small rage generator.\nWitchblight is what saves you when you get dissarmed. Technically it is also uncapped aoe so if you know you wont get dissarmed AND you have more than 8 target then you should use it on CD.\nKnight´s Seal will not activate our Desecrete, make sure you have it active before using this skill.",
+  "class_id": 15,
+  "spec_id": 94,
+  "author_id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+  "talent_string": "W1siMTUtOTQtNC0wIiwxXSxbIjE1LTk0LTQtMSIsMV0sWyIxNS05NC0yLTIiLDFdLFsiMTUtOTQtNi0yIiwyXSxbIjE1LTk0LTctMyIsMV0sWyIxNS05NC01LTMiLDFdLFsiMTUtOTQtMy0zIiwyXSxbIjE1LTk0LTEtMyIsMV0sWyIxNS05NC00LTQiLDFdLFsiMTUtOTQtMS00IiwxXSxbIjE1LTk0LTctNCIsMV0sWyIxNS05NC02LTUiLDFdLFsiMTUtOTQtOC01IiwxXSxbIjE1LTk0LTMtNSIsMV0sWyIxNS05NC0yLTUiLDFdLFsiMTUtOTQtMC01IiwxXSxbIjE1LTk0LTEtNiIsMV0sWyIxNS05NC0yLTciLDFdLFsiMTUtOTQtNC02IiwxXSxbIjE1LTk0LTctNmIiLDFdLFsiMTUtOTQtNi03IiwxXSxbIjE1LTk0LTUtNyIsMV0sWyIxNS05NC0yLTgiLDFdLFsiMTUtODctNi0wIiwxXSxbIjE1LTg3LTQtMCIsMV0sWyIxNS04Ny0yLTAiLDFdLFsiMTUtODctMy0xIiwxXSxbIjE1LTg3LTMtMiIsMV0sWyIxNS04Ny0yLTMiLDFdLFsiMTUtODctNy0xIiwyXSxbIjE1LTg3LTYtMyIsMV0sWyIxNS04Ny00LTMiLDFdLFsiMTUtODctMS00IiwxXSxbIjE1LTg3LTEtNSIsMV0sWyIxNS04Ny0wLTYiLDFdLFsiMTUtODctNy00YiIsMV0sWyIxNS04Ny01LTQiLDFdLFsiMTUtODctMy00IiwxXSxbIjE1LTg3LTQtNSIsMV0sWyIxNS04Ny0xLTciLDFdLFsiMTUtODctNC02IiwxXSxbIjE1LTg3LTYtNiIsMV0sWyIxNS04Ny0zLTciLDFdLFsiMTUtODctNS03IiwyXSxbIjE1LTg3LTctNyIsMV0sWyIxNS04Ny03LTgiLDFdLFsiMTUtODctNy05IiwxXV0",
+  "tags": [
+   "Tank",
+   "Black Knight",
+   "Witch Hunter",
+   "Pve",
+   "m+"
+  ],
+  "role": "tank",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 0,
+  "downvotes": 0,
+  "comment_count": 0,
+  "created_at": "2026-07-26T04:15:26.139086+00:00",
+  "updated_at": "2026-07-26T04:15:26.139086+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 273,
+  "net_score": 0,
+  "has_talents": true,
+  "guide_section_count": 3,
+  "author": {
+   "id": "15b10a80-6846-4ddd-bdca-2e0e3a9db2ae",
+   "username": "Augusto R.A",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL-BwAqiaXC2HCf37ylOwfadsrOg1LOqGO1Ljzqd6AU0IBsMj_t=s96-c"
+  }
+ },
+ "comments": [],
+ "similar": [
+  {
+   "id": "c2e715e7-955a-4ac2-8c63-b4a324bde5a4",
+   "title": "PvP Inquisition Witch Hunter - Flourish One Deeg",
+   "class_id": 15,
+   "spec_id": 41,
+   "author_id": "646d7b60-2024-4e0a-80bb-9d44bde93e7d",
+   "tags": [],
+   "role": "dps",
+   "content_type": "pvp",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 579,
+   "featured": false,
+   "created_at": "2026-07-27T03:50:02.290466+00:00",
+   "updated_at": "2026-07-27T03:50:02.290466+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "646d7b60-2024-4e0a-80bb-9d44bde93e7d",
+    "username": "Devin",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLlx1CcX8Kqv6IHa5gYMJ5gr_HuYND2dc8iiF4ptI7X3n3bt8c=s96-c"
+   }
+  },
+  {
+   "id": "e4e89e4c-e64d-41df-b93a-62e7a56fc887",
+   "title": "Houndmaster Deep Dive: Talents, Rotation, Macros, Tips.",
+   "class_id": 15,
+   "spec_id": 40,
+   "author_id": "8c36ddd8-f036-49e0-ab3c-83c64f77036e",
+   "tags": [
+    "leveling",
+    "aoe",
+    "dungeons"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1317,
+   "featured": false,
+   "created_at": "2026-07-25T03:07:22.148958+00:00",
+   "updated_at": "2026-07-30T09:18:21.694+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "8c36ddd8-f036-49e0-ab3c-83c64f77036e",
+    "username": "brandonenjoyer.",
+    "avatar_url": "https://cdn.discordapp.com/avatars/202225650130485248/0fd82d4536714f7dd9249a5882d9835a.png"
+   }
+  },
+  {
+   "id": "d4a7ebc9-3096-4026-987a-ac8f072d7562",
+   "title": "\"..and stay down!\" vibe build",
+   "class_id": 15,
+   "spec_id": 41,
+   "author_id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+   "tags": [
+    "raid",
+    "testing"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 0,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 357,
+   "featured": false,
+   "created_at": "2026-07-26T11:58:04.498286+00:00",
+   "updated_at": "2026-07-28T15:59:21.56+00:00",
+   "has_talents": true,
+   "guide_section_count": 4,
+   "author": {
+    "id": "5a4aa654-e511-4f0c-aceb-0e0da3e843ff",
+    "username": "bruttus_",
+    "avatar_url": "https://cdn.discordapp.com/avatars/716955228729245781/98ec4037a0a68fd624f2a4ad6069555b.png"
+   }
+  }
+ ],
+ "class": "Witch Hunter",
+ "spec": "Black Knight",
+ "allocations": [
+  [
+   "15-94-4-0",
+   1
+  ],
+  [
+   "15-94-4-1",
+   1
+  ],
+  [
+   "15-94-2-2",
+   1
+  ],
+  [
+   "15-94-6-2",
+   2
+  ],
+  [
+   "15-94-7-3",
+   1
+  ],
+  [
+   "15-94-5-3",
+   1
+  ],
+  [
+   "15-94-3-3",
+   2
+  ],
+  [
+   "15-94-1-3",
+   1
+  ],
+  [
+   "15-94-4-4",
+   1
+  ],
+  [
+   "15-94-1-4",
+   1
+  ],
+  [
+   "15-94-7-4",
+   1
+  ],
+  [
+   "15-94-6-5",
+   1
+  ],
+  [
+   "15-94-8-5",
+   1
+  ],
+  [
+   "15-94-3-5",
+   1
+  ],
+  [
+   "15-94-2-5",
+   1
+  ],
+  [
+   "15-94-0-5",
+   1
+  ],
+  [
+   "15-94-1-6",
+   1
+  ],
+  [
+   "15-94-2-7",
+   1
+  ],
+  [
+   "15-94-4-6",
+   1
+  ],
+  [
+   "15-94-7-6b",
+   1
+  ],
+  [
+   "15-94-6-7",
+   1
+  ],
+  [
+   "15-94-5-7",
+   1
+  ],
+  [
+   "15-94-2-8",
+   1
+  ],
+  [
+   "15-87-6-0",
+   1
+  ],
+  [
+   "15-87-4-0",
+   1
+  ],
+  [
+   "15-87-2-0",
+   1
+  ],
+  [
+   "15-87-3-1",
+   1
+  ],
+  [
+   "15-87-3-2",
+   1
+  ],
+  [
+   "15-87-2-3",
+   1
+  ],
+  [
+   "15-87-7-1",
+   2
+  ],
+  [
+   "15-87-6-3",
+   1
+  ],
+  [
+   "15-87-4-3",
+   1
+  ],
+  [
+   "15-87-1-4",
+   1
+  ],
+  [
+   "15-87-1-5",
+   1
+  ],
+  [
+   "15-87-0-6",
+   1
+  ],
+  [
+   "15-87-7-4b",
+   1
+  ],
+  [
+   "15-87-5-4",
+   1
+  ],
+  [
+   "15-87-3-4",
+   1
+  ],
+  [
+   "15-87-4-5",
+   1
+  ],
+  [
+   "15-87-1-7",
+   1
+  ],
+  [
+   "15-87-4-6",
+   1
+  ],
+  [
+   "15-87-6-6",
+   1
+  ],
+  [
+   "15-87-3-7",
+   1
+  ],
+  [
+   "15-87-5-7",
+   2
+  ],
+  [
+   "15-87-7-7",
+   1
+  ],
+  [
+   "15-87-7-8",
+   1
+  ],
+  [
+   "15-87-7-9",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "15-94-4-0",
+   "points": 1,
+   "name": "Noctis Blade",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 802280
+  },
+  {
+   "id": "15-94-4-1",
+   "points": 1,
+   "name": "Shadow Brand",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 680516
+  },
+  {
+   "id": "15-94-2-2",
+   "points": 1,
+   "name": "Dark Chivalry",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 680525
+  },
+  {
+   "id": "15-94-6-2",
+   "points": 2,
+   "name": "Dark Penance",
+   "maxPoints": 2,
+   "tree": "Black Knight",
+   "spellId": 805533
+  },
+  {
+   "id": "15-94-7-3",
+   "points": 1,
+   "name": "Desecrate",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 680518
+  },
+  {
+   "id": "15-94-5-3",
+   "points": 1,
+   "name": "Wide Swings",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 681098
+  },
+  {
+   "id": "15-94-3-3",
+   "points": 2,
+   "name": "Shadow Order",
+   "maxPoints": 2,
+   "tree": "Black Knight",
+   "spellId": 680503
+  },
+  {
+   "id": "15-94-1-3",
+   "points": 1,
+   "name": "March of the Black King",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 681095
+  },
+  {
+   "id": "15-94-4-4",
+   "points": 1,
+   "name": "Witchblight",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 680494
+  },
+  {
+   "id": "15-94-1-4",
+   "points": 1,
+   "name": "No Regrets",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 681093
+  },
+  {
+   "id": "15-94-7-4",
+   "points": 1,
+   "name": "Knight's Seal",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 680498
+  },
+  {
+   "id": "15-94-6-5",
+   "points": 1,
+   "name": "Dark Juggernaut",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 560208
+  },
+  {
+   "id": "15-94-8-5",
+   "points": 1,
+   "name": "Wicked Intent",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 504645
+  },
+  {
+   "id": "15-94-3-5",
+   "points": 1,
+   "name": "Noctis Protection",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 681100
+  },
+  {
+   "id": "15-94-2-5",
+   "points": 1,
+   "name": "Guard Strike",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 804432
+  },
+  {
+   "id": "15-94-0-5",
+   "points": 1,
+   "name": "Dark Riposte",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 503659
+  },
+  {
+   "id": "15-94-1-6",
+   "points": 1,
+   "name": "Bulwark of Darkness",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 680496
+  },
+  {
+   "id": "15-94-2-7",
+   "points": 1,
+   "name": "Witching Idol",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 804051
+  },
+  {
+   "id": "15-94-4-6",
+   "points": 1,
+   "name": "Clinch Fighting",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 680492
+  },
+  {
+   "id": "15-94-7-6b",
+   "points": 1,
+   "name": "Calm Under Pressure",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 705519
+  },
+  {
+   "id": "15-94-6-7",
+   "points": 1,
+   "name": "Chains of Darkness",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 680521
+  },
+  {
+   "id": "15-94-5-7",
+   "points": 1,
+   "name": "Foresight",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 680599
+  },
+  {
+   "id": "15-94-2-8",
+   "points": 1,
+   "name": "Witch Knight",
+   "maxPoints": 1,
+   "tree": "Black Knight",
+   "spellId": 805346
+  },
+  {
+   "id": "15-87-6-0",
+   "points": 1,
+   "name": "Burrow Bolt",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802269
+  },
+  {
+   "id": "15-87-4-0",
+   "points": 1,
+   "name": "Shadow Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680238
+  },
+  {
+   "id": "15-87-2-0",
+   "points": 1,
+   "name": "Vault",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 500085
+  },
+  {
+   "id": "15-87-3-1",
+   "points": 1,
+   "name": "Night Stalker",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 300792
+  },
+  {
+   "id": "15-87-3-2",
+   "points": 1,
+   "name": "Brimming Hatred",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705496
+  },
+  {
+   "id": "15-87-2-3",
+   "points": 1,
+   "name": "Inquisitor's Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681445
+  },
+  {
+   "id": "15-87-7-1",
+   "points": 2,
+   "name": "Combat Training",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680529
+  },
+  {
+   "id": "15-87-6-3",
+   "points": 1,
+   "name": "Witchblood Tonic",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802278
+  },
+  {
+   "id": "15-87-4-3",
+   "points": 1,
+   "name": "Evil Never Sleeps",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 804185
+  },
+  {
+   "id": "15-87-1-4",
+   "points": 1,
+   "name": "Trap Card",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 680253
+  },
+  {
+   "id": "15-87-1-5",
+   "points": 1,
+   "name": "Death Trap",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681450
+  },
+  {
+   "id": "15-87-0-6",
+   "points": 1,
+   "name": "Three Sevens",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 300572
+  },
+  {
+   "id": "15-87-7-4b",
+   "points": 1,
+   "name": "Regenerative Elixirs",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705528
+  },
+  {
+   "id": "15-87-5-4",
+   "points": 1,
+   "name": "Vengeful Intent",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705534
+  },
+  {
+   "id": "15-87-3-4",
+   "points": 1,
+   "name": "Follow The Edict",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 503698
+  },
+  {
+   "id": "15-87-4-5",
+   "points": 1,
+   "name": "Brand of the Unworthy",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 501380
+  },
+  {
+   "id": "15-87-1-7",
+   "points": 1,
+   "name": "Resilient to Darkness",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 681092
+  },
+  {
+   "id": "15-87-4-6",
+   "points": 1,
+   "name": "Vampire Hunter",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 803638
+  },
+  {
+   "id": "15-87-6-6",
+   "points": 1,
+   "name": "Dark Intuition",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 806195
+  },
+  {
+   "id": "15-87-3-7",
+   "points": 1,
+   "name": "Renegade",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 524812
+  },
+  {
+   "id": "15-87-5-7",
+   "points": 2,
+   "name": "Alchemical Research",
+   "maxPoints": 2,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705498
+  },
+  {
+   "id": "15-87-7-7",
+   "points": 1,
+   "name": "Dark Souls",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802011
+  },
+  {
+   "id": "15-87-7-8",
+   "points": 1,
+   "name": "Vampiric Tonic",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 802276
+  },
+  {
+   "id": "15-87-7-9",
+   "points": 1,
+   "name": "Tonic Supply",
+   "maxPoints": 1,
+   "tree": "Witch Hunter (class tree)",
+   "spellId": 705497
+  }
+ ]
+}

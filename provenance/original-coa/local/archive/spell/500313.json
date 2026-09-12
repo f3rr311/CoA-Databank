@@ -1,0 +1,8 @@
+{
+  "name_enus": "Rage Demon",
+  "icon": "spell_fire_flameshock",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Rage Demon</b></td><th><b class=\"q0\">Specialization</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #66DDFF;\">Level 30 Passive</span><br />Your direct damage dealt with abilities now has a 10% chance to generate an additional stack of <span style=\"color: #ff9933;\">Demonfire</span> and <span style=\"color: #ffffff;\">Demon's Blood</span>.<br /><br />In addition, your spell hit rating is increased by 3% of your Strength.</span></td></tr></table><!--?500313:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Punisher",
+  "icon": "spell_deathknight_bladedarmor",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Punisher</b></td><th><b class=\"q0\">Rank 2</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases the damage of <span style=\"color: #ffffff;\">Javelin Toss</span><!--sp500059:0--><!--sp500059--> and <span style=\"color: #ffffff;\">Crush</span> by 20%.</span></td></tr></table><!--?705172:1:1:80-->",
+  "spells_enus": {
+    "500059": [
+      [
+        "",
+        ", <span style=\"color: #ffffff\">Decapitate</span>,"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

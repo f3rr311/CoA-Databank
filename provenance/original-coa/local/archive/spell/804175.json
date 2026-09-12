@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flamewrath",
+  "icon": "spell_warlock_calldreadstalkers",
+  "tooltip_enus": "<table><tr><td><b>Flamewrath</b><br /><table width=\"100%\"><tr><td>Instant</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td>Requires Polearms, Staves, Two-Handed Axes, Two-Handed Maces, Two-Handed Swords<br /><span class=\"q\">Strike an enemy for Weapon Damage plus 75 as Flamestrike Damage, and apply a shield for 15&nbsp;sec absorbing up to 97+PL*2+SP*0.65 damage.</span></td></tr></table><!--?804175:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

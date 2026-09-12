@@ -1,0 +1,8 @@
+{
+  "name_enus": "Shadow Strength",
+  "icon": "inv_icon_shadowcouncilorb_purple",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Shadow Strength</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Casting <span style=\"color: #ffffff;\">Howl</span> spells now deal 65+2.0 Points Per Level+Sta*.25+Agi*.25+AP*.1 Shadow damage to all nearby enemies and triggering <span style=\"color: #ffffff;\">Call of the Darkwing</span> now reduces the cooldown of all <span style=\"color: #ffffff;\">Howl</span> spells by 1 sec.<br /><br />Can only occur once per sec.</span></td></tr></table><!--?801960:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

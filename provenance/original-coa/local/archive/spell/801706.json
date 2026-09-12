@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bunker Operative",
+  "icon": "inv_engineering_sonicenvironmentenhancer",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Bunker Operative</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #FFFFFF;\">Kinetic Shield</span>, <span style=\"color: #ffffff;\">Discombobulate!</span>, and <span style=\"color: #ffffff;\">Repulsion Unit</span> by 20%.</span></td></tr></table><!--?801706:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

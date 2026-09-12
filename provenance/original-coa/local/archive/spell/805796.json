@@ -1,0 +1,8 @@
+{
+  "name_enus": "Fists of Power",
+  "icon": "inv_misc_trinket6oog_stonefist2",
+  "tooltip_enus": "<table><tr><td><b>Fists of Power</b><br />15% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>45&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Engrave your fists for 15&nbsp;sec, causing auto attacks to grant <span style=\"color: #FFFFFF;\">Earthen Fists</span> for 10&nbsp;sec, increasing melee haste by 3% and the chance to trigger <span style=\"color: #ffffff;\">Weapon Engraving: Earth</span> by 10%, stacking 5 times.</span></td></tr></table><!--?805796:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,849 @@
+{
+ "build": {
+  "id": "863b65de-958d-4395-b494-b9aa1351fb0f",
+  "title": "The Frozen soul by \" Exagelado\" The troll Litch",
+  "description": "[overview]\nIn this guide, you will learn where this subclass's damage comes from, as well as its different gameplay styles and the small choices that make a huge difference in your builds. I want to point out upfront that this guide is written entirely from my own perspective on the subclass and my personal gameplay experience—so feel free to share your thoughts, critiques, and suggestions!\n\n[talents]\n**Disclaimer**: \n## At level 30, the** \"Frozen Power\"** talent was replaced by the tree talent [Frigidness](coa-skill:necromancer:704669) which is no longer a 2-point talent, altering some aspects of the build path. Additionally, at level 50, the **\"Champion of Kel'Thuzad\"** talent was swapped for the tree talent[Permafrost](coa-skill:necromancer:704681) These updates, along with the change to the [Ice Barrage](coa-skill:necromancer:801760) skill proc, have significantly altered the gameplay style of this subclass, but I will do my best to share my opinion and experience.\n\n**Class Tree:**\nAs a Necro - Rime, your goal in a fight is clear: you are an artillery tower. You don't have good mobility and have nothing beyond the freezing from your [Raise: Skeletal Mage](coa-skill:necromancer:500331) and [Ice Barrage](coa-skill:necromancer:801760) to keep enemies from reaching you. Embody this role completely. Against open-world PvE mobs, control the fights by freezing them to avoid taking damage, and use Fetid Ward to maintain good health sustain for both yourself and your undead minions.\n\nSo your class talent tree reflects this gameplay style. Although [Bone Tithe](coa-skill:necromancer:802121) is a good skill in other subclasses, it’s fairly useless in this one—I consider it a wasted talent point. Let me explain: in PvE, you don't want the mob getting close to you, and your arsenal provides you with the tools to prevent that. Don't forget that your playstyle is very similar to a Demonology Warlock combined with a Frost Mage, but without Blink—**you are an artillery tower.**\n\nTalents focused on boosting the power of your **Lich Bolt** and your **undead minions**, as well as providing extra sustain during fights like using your reliquaries, are the way to go. Your Abomination will be your best friend because it’s your personal tank; it absorbs the damage while you lock enemies down from afar and deal damage. Your class tree essentially acts as a support tree for your subclass, and I won't lie: until level 40, you are very weak. Your gameplay is basically that of a Frost Mage with a personal tank.\n\nAdditionally, in dungeons, you don't need sustain—what you need is massive AoE damage and, above all, **single-target damage**, which is where this subclass truly shines and dominates.\n\n**Subclass Tree:** \nThe previously mentioned changes to both your [Ice Barrage](coa-skill:necromancer:801760) skill and your talents give you three available gameplay styles:\n\n1- [Raise: Skeletal Mage](coa-skill:necromancer:500331), focused on your undead minions' critical damage alongside your own massive damage.\n\n2- **AoE and Stacking Damage**, using your [Glacial Impact](coa-skill:necromancer:704355) and the **Frozen Bodies** talent paired with the undead horde from the Army of the North talent. It's important to mention that area damage isn't the strong suit of this subclass—Animator and especially Death do this much better—yet its AoE damage is still good, consistent, and useful.\n\n3- **Massive Single-Target Critical Damage**. There isn't much to say about this last one—it's very straightforward.\n\nYou can choose one of these options (1, 2, or 3) as your main path and take half of another to \"support\" your primary damage source. **(I say \"support\" because playstyle 3 can significantly boost the damage of the other two, making it virtually essential. However, it's fair to say that if you just want nonstop area damage, you can mix 1 and 2 and rely on crit RNG.)**\n\nOnce you've chosen your style—and to make this guide easier to follow—I'll share my own setup, which combines 1 and 3. This means continuous critical damage from my skeletal mages **(who deal AoE damage in dungeons when enemies are stacked together)** by using talents to boost their crit chance and frost projectile damage, paired with style 3 to deal absurd amounts of single-target damage yourself. It's worth noting that I chose to empower [Lichfrost](coa-skill:necromancer:801722), [Ice Barrage](coa-skill:necromancer:801760), and [Glacial Impact](coa-skill:necromancer:704355), turning them into more consistent damage sources throughout gameplay. Talents focused on increasing your maximum Runic Power are also extremely useful.\n\nChoice Talents and Why:\n\n**[Necrotic Chains](coa-skill:necromancer:801733) or [Ner'zhul's Blessing](coa-skill:necromancer:704729)\nA very simple question to answer. Do you prefer a guaranteed critical hit on a damage spell, or a snare that breaks on the very first hit of damage taken? The choice is clear.\n\n**Frigid Death or Freeze Dry?**\nHonestly, an extra 50% damage combined with the talent directly below it, Glacier Lord—which guarantees a 100% critical strike on Glacial Impact when the enemy is frozen—made me prefer the raw damage. But if you think getting 20 additional Runic Power after casting is worth it, feel free to take Freeze Dry.\n\n**Lastly, Blood and Ice or Death and Ice?**\nDeath and Ice grants a flat 10% critical chance to your [Raise: Skeletal Mage](coa-skill:necromancer:500331)—and I say \"yours\" in the plural because your goal is to reach the Grave Mages talent. This talent reduces the cost of mages from 2 Life Force down to 1, allowing you to field 3 of them at once, each with a guaranteed 10% critical chance for every Frostbolt they land on the target(s). The other option increases the damage of your [Ice Barrage](coa-skill:necromancer:801760)—which deals high, consistent damage—but to trigger the talent, you need to have [Command: Skeletal Warriors](coa-skill:necromancer:504334)or Rogues active. You could run 1 Mage and 1 Rogue, for example, since it only triggers one at a time. But again: you're looking at 3 units of one of the strongest undeads in the Necromancer's entire arsenal, so think carefully.\n\n[rotation]\nCast Lichfrost until your Runic Power bar is full. Whenever your Permafrost procs during the cast, make sure to use it! Once your Runic Power bar is full, use your mage's Undead Command, and when the instant cast for Ice Barrage procs, use it—freeze the enemy and follow up with Glacial Impact. Keep doing this until your bar is drained, then repeat.\n\nIf you are fighting more than 3 enemies (in a dungeon or raid), choose 2 targets and apply Blight, then resume the rotation mentioned earlier while holding back on Ice Barrage. Most of your AoE damage will come from your mages' Undead Command and Blight.\n\nIf you are facing a very strong enemy (like a boss), I recommend using a macro to activate all your temporary undeads at once. I'll leave the macro right here:\n\n/cast Unholy Frenzy\n\n/cast Berserking(Racial) (I'm a Troll)\n\n/cast Gravebound Champion\n\n/cast Icebound Champion\n\n/cast Spellbound Champion\n\nOnce you have this horde beating down on a single enemy, you can punish them with the initial rotation mentioned earlier. (Adding Animate: Frost Wyrm to this macro can be really good, but keep in mind that this dragon deals AoE damage, so saving it for the AoE rotation might be a better choice.)\n\n[stats]\nI'm still not entirely sure about stat priorities, but Critical Strike and Intellect don't have a soft or hard cap. As for Hit, you'll need 17% (though keep in mind we get a passive 4% from our class tree). Spell Power scales exceptionally well in this subclass, unlike Haste, which works much better in the other two subclasses but not as much here—we can deal massive damage since our SP scaling is significantly higher thanks to our talents. Plus, every time we land a critical strike, we restore a bit of mana, making our mana management very predictable.\n\nSo once you're Hit Capped, the stat priority is: SP > Crit > Intellect > Haste\n\n[leveling]\nIt's a great build for leveling, but I have to warn you that until level 40—when you get Lich Form—the gameplay feels quite slow, static, and repetitive.\n\n[macros]\nUse this macro to command your undeads to attack the target while you cast Lichfrost:\n\n/cast Grave March\n/cast Lichfrost\n\nI recommend using a macro to activate all your temporary undeads at once. I'll leave the macro right here:\n\n/cast Unholy Frenzy\n\n/cast Berserking(Racial) (I'm a Troll)\n\n/cast Gravebound Champion\n\n/cast Icebound Champion\n\n/cast Spellbound Champion",
+  "class_id": 23,
+  "spec_id": 60,
+  "author_id": "4bf49e05-9ce3-4749-b996-00b550215909",
+  "talent_string": "W1siMjMtODctNi0wIiwxXSxbIjIzLTg3LTUtMSIsMV0sWyIyMy04Ny00LTIiLDJdLFsiMjMtODctNi0yIiwxXSxbIjIzLTg3LTItMCIsMV0sWyIyMy04Ny00LTAiLDFdLFsiMjMtODctMy0xIiwyXSxbIjIzLTg3LTItMiIsMV0sWyIyMy04Ny0yLTMiLDFdLFsiMjMtODctNC00YiIsMV0sWyIyMy04Ny0yLTUiLDFdLFsiMjMtODctMS02IiwxXSxbIjIzLTg3LTYtMyIsMV0sWyIyMy04Ny03LTQiLDFdLFsiMjMtODctNi01IiwyXSxbIjIzLTg3LTgtNSIsMV0sWyIyMy04Ny03LTZiIiwxXSxbIjIzLTYwLTQtMCIsMV0sWyIyMy02MC00LTEiLDFdLFsiMjMtNjAtNi0yIiwxXSxbIjIzLTYwLTItMmEiLDFdLFsiMjMtNjAtNC0zIiwyXSxbIjIzLTYwLTEtMyIsMl0sWyIyMy02MC0wLTQiLDFdLFsiMjMtNjAtMS01IiwxXSxbIjIzLTYwLTItNGIiLDFdLFsiMjMtNjAtMC02IiwxXSxbIjIzLTYwLTEtNyIsMl0sWyIyMy02MC02LTMiLDFdLFsiMjMtNjAtNy0zYSIsMV0sWyIyMy02MC02LTQiLDFdLFsiMjMtNjAtNy01IiwxXSxbIjIzLTYwLTEwLTAiLDFdLFsiMjMtNjAtMTAtMiIsMV0sWyIyMy02MC0xMC00IiwxXSxbIjIzLTYwLTEwLTYiLDFdLFsiMjMtNjAtMi04IiwxXSxbIjIzLTYwLTItOSIsMV0sWyIyMy02MC0yLTZiIiwxXSxbIjIzLTYwLTEwLTgiLDFdLFsiMjMtNjAtNi02IiwxXSxbIjIzLTYwLTQtNCIsMV0sWyIyMy02MC01LTUiLDFdLFsiMjMtNjAtNy03IiwxXSxbIjIzLTg3LTQtNSIsMV0sWyIyMy04Ny0zLTZiIiwxXSxbIjIzLTg3LTYtNyIsMV0sWyIyMy04Ny03LTgiLDFdLFsiMjMtODctNy05IiwxXSxbIjIzLTg3LTItNyIsMV1d",
+  "tags": [
+   "Beginer",
+   "Leveling and some Tips"
+  ],
+  "role": "dps",
+  "content_type": "pve",
+  "patch_version": "1.0",
+  "upvotes": 1,
+  "downvotes": 0,
+  "comment_count": 6,
+  "created_at": "2026-07-23T17:54:54.266782+00:00",
+  "updated_at": "2026-07-28T06:18:19.303+00:00",
+  "status": "published",
+  "hidden": false,
+  "featured": false,
+  "featured_at": null,
+  "view_count": 895,
+  "net_score": 1,
+  "has_talents": true,
+  "guide_section_count": 6,
+  "author": {
+   "id": "4bf49e05-9ce3-4749-b996-00b550215909",
+   "username": "Gabriel Furtado",
+   "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIZ0L6nJm3FNaxshkZGznqVfIzN6pn6ZHsEsvJ84ZyAcRFjQda-=s96-c"
+  }
+ },
+ "comments": [
+  {
+   "id": "557d9c08-3f45-4a83-bcc4-560231220566",
+   "build_id": "863b65de-958d-4395-b494-b9aa1351fb0f",
+   "author_id": "3f4f5a34-7a14-485e-bc1b-25e50c71e057",
+   "parent_id": null,
+   "body": "I think the tree is bugged. I don't think you can take Lich Commander without taking Mass Grave. talent flow won't let me go up the tree in game.",
+   "upvotes": 2,
+   "created_at": "2026-07-24T16:41:13.575446+00:00",
+   "updated_at": "2026-07-28T06:18:41.614932+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "3f4f5a34-7a14-485e-bc1b-25e50c71e057",
+    "username": "Cinder Byte",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK6gBsL14wPGMfG1dI0oagonmpioMdWG00B4BwKqJcr2KLMZUw=s96-c"
+   }
+  },
+  {
+   "id": "83da213f-dadf-46c9-a25c-d1498ef9fe3c",
+   "build_id": "863b65de-958d-4395-b494-b9aa1351fb0f",
+   "author_id": "4bf49e05-9ce3-4749-b996-00b550215909",
+   "parent_id": "557d9c08-3f45-4a83-bcc4-560231220566",
+   "body": "The site tree is actually diferent from the game. I will do some gatering of info about the class and expand the guide.",
+   "upvotes": 2,
+   "created_at": "2026-07-26T02:04:50.591295+00:00",
+   "updated_at": "2026-07-28T06:18:42.822683+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "4bf49e05-9ce3-4749-b996-00b550215909",
+    "username": "Gabriel Furtado",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIZ0L6nJm3FNaxshkZGznqVfIzN6pn6ZHsEsvJ84ZyAcRFjQda-=s96-c"
+   }
+  },
+  {
+   "id": "305fdacd-ec69-45ad-99a2-8e3fbfad21de",
+   "build_id": "863b65de-958d-4395-b494-b9aa1351fb0f",
+   "author_id": "8353b038-6143-4f16-b295-f95293df1997",
+   "parent_id": null,
+   "body": "Can you execute this talent in gameplay? I tried but couldn't replicate such clicks",
+   "upvotes": 2,
+   "created_at": "2026-07-26T05:21:52.267443+00:00",
+   "updated_at": "2026-07-28T06:18:39.59553+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "8353b038-6143-4f16-b295-f95293df1997",
+    "username": "CaiJerry",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "853790f5-7610-4abe-b4ef-5bc1a7c0ffd3",
+   "build_id": "863b65de-958d-4395-b494-b9aa1351fb0f",
+   "author_id": "4bf49e05-9ce3-4749-b996-00b550215909",
+   "parent_id": "305fdacd-ec69-45ad-99a2-8e3fbfad21de",
+   "body": "The game has changed the skill tree, i need to update here",
+   "upvotes": 1,
+   "created_at": "2026-07-27T02:20:55.415431+00:00",
+   "updated_at": "2026-07-28T06:18:41.082521+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "4bf49e05-9ce3-4749-b996-00b550215909",
+    "username": "Gabriel Furtado",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIZ0L6nJm3FNaxshkZGznqVfIzN6pn6ZHsEsvJ84ZyAcRFjQda-=s96-c"
+   }
+  },
+  {
+   "id": "7ba165f7-a743-4f93-8a1d-94bbdbc45f86",
+   "build_id": "863b65de-958d-4395-b494-b9aa1351fb0f",
+   "author_id": "4bf49e05-9ce3-4749-b996-00b550215909",
+   "parent_id": "305fdacd-ec69-45ad-99a2-8e3fbfad21de",
+   "body": "Build Updated",
+   "upvotes": 1,
+   "created_at": "2026-07-28T06:19:03.703494+00:00",
+   "updated_at": "2026-07-28T06:19:22.985596+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "4bf49e05-9ce3-4749-b996-00b550215909",
+    "username": "Gabriel Furtado",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIZ0L6nJm3FNaxshkZGznqVfIzN6pn6ZHsEsvJ84ZyAcRFjQda-=s96-c"
+   }
+  },
+  {
+   "id": "a784bb4b-c044-4404-b12d-12c8b8bc60f7",
+   "build_id": "863b65de-958d-4395-b494-b9aa1351fb0f",
+   "author_id": "4bf49e05-9ce3-4749-b996-00b550215909",
+   "parent_id": "557d9c08-3f45-4a83-bcc4-560231220566",
+   "body": "Build updated",
+   "upvotes": 1,
+   "created_at": "2026-07-28T06:19:17.858709+00:00",
+   "updated_at": "2026-07-28T06:19:21.722405+00:00",
+   "downvotes": 0,
+   "hidden": false,
+   "author": {
+    "id": "4bf49e05-9ce3-4749-b996-00b550215909",
+    "username": "Gabriel Furtado",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIZ0L6nJm3FNaxshkZGznqVfIzN6pn6ZHsEsvJ84ZyAcRFjQda-=s96-c"
+   }
+  }
+ ],
+ "similar": [
+  {
+   "id": "8d9620a1-137b-41dc-8147-6e1a800b2682",
+   "title": "5 Ghoul Animation AoE Guide",
+   "class_id": 23,
+   "spec_id": 61,
+   "author_id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+   "tags": [
+    "AoE",
+    "Dungeons",
+    "Mythic+",
+    "Open World",
+    "Questing",
+    "Leveling"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 4,
+   "downvotes": 1,
+   "comment_count": 1,
+   "view_count": 2249,
+   "featured": false,
+   "created_at": "2026-07-22T13:02:06.678323+00:00",
+   "updated_at": "2026-07-23T05:20:38.57+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+    "username": "Miseral",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "f268b2a3-20e4-49df-bf9e-9c85ff7ae167",
+   "title": "3 Crypt Fiend Animation Single Target Guide",
+   "class_id": 23,
+   "spec_id": 61,
+   "author_id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+   "tags": [
+    "Single Target",
+    "Raid",
+    "2 Target Cleave",
+    "World Bosses",
+    "General Purpose",
+    "Guide",
+    "PvE",
+    "Dungeons",
+    "Bosses",
+    "Mythic+"
+   ],
+   "role": "dps",
+   "content_type": "pve",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 1337,
+   "featured": false,
+   "created_at": "2026-07-22T13:15:03.350058+00:00",
+   "updated_at": "2026-07-23T05:19:29.939+00:00",
+   "has_talents": true,
+   "guide_section_count": 7,
+   "author": {
+    "id": "6f7952eb-34b0-40df-9f16-f11dc1dcb034",
+    "username": "Miseral",
+    "avatar_url": null
+   }
+  },
+  {
+   "id": "b667b709-17ca-4de9-b5e8-0618c8b21396",
+   "title": "Animation Necromancer Leveling Guide",
+   "class_id": 23,
+   "spec_id": 61,
+   "author_id": "22a6fb33-9da9-4a50-bda0-c2eda22b9043",
+   "tags": [
+    "Leveling"
+   ],
+   "role": "dps",
+   "content_type": "leveling",
+   "status": "published",
+   "hidden": false,
+   "patch_version": "1.0",
+   "upvotes": 3,
+   "downvotes": 0,
+   "comment_count": 0,
+   "view_count": 2748,
+   "featured": false,
+   "created_at": "2026-07-20T17:21:46.043384+00:00",
+   "updated_at": "2026-07-20T17:24:07.574+00:00",
+   "has_talents": true,
+   "guide_section_count": 1,
+   "author": {
+    "id": "22a6fb33-9da9-4a50-bda0-c2eda22b9043",
+    "username": "RoachFM",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocK_xEeGYATHuZ4-7jWqe9-_ljTpFLxsug2SLwhSb6kteNT0utpC=s96-c"
+   }
+  }
+ ],
+ "class": "Necromancer",
+ "spec": "Rime",
+ "allocations": [
+  [
+   "23-87-6-0",
+   1
+  ],
+  [
+   "23-87-5-1",
+   1
+  ],
+  [
+   "23-87-4-2",
+   2
+  ],
+  [
+   "23-87-6-2",
+   1
+  ],
+  [
+   "23-87-2-0",
+   1
+  ],
+  [
+   "23-87-4-0",
+   1
+  ],
+  [
+   "23-87-3-1",
+   2
+  ],
+  [
+   "23-87-2-2",
+   1
+  ],
+  [
+   "23-87-2-3",
+   1
+  ],
+  [
+   "23-87-4-4b",
+   1
+  ],
+  [
+   "23-87-2-5",
+   1
+  ],
+  [
+   "23-87-1-6",
+   1
+  ],
+  [
+   "23-87-6-3",
+   1
+  ],
+  [
+   "23-87-7-4",
+   1
+  ],
+  [
+   "23-87-6-5",
+   2
+  ],
+  [
+   "23-87-8-5",
+   1
+  ],
+  [
+   "23-87-7-6b",
+   1
+  ],
+  [
+   "23-60-4-0",
+   1
+  ],
+  [
+   "23-60-4-1",
+   1
+  ],
+  [
+   "23-60-6-2",
+   1
+  ],
+  [
+   "23-60-2-2a",
+   1
+  ],
+  [
+   "23-60-4-3",
+   2
+  ],
+  [
+   "23-60-1-3",
+   2
+  ],
+  [
+   "23-60-0-4",
+   1
+  ],
+  [
+   "23-60-1-5",
+   1
+  ],
+  [
+   "23-60-2-4b",
+   1
+  ],
+  [
+   "23-60-0-6",
+   1
+  ],
+  [
+   "23-60-1-7",
+   2
+  ],
+  [
+   "23-60-6-3",
+   1
+  ],
+  [
+   "23-60-7-3a",
+   1
+  ],
+  [
+   "23-60-6-4",
+   1
+  ],
+  [
+   "23-60-7-5",
+   1
+  ],
+  [
+   "23-60-10-0",
+   1
+  ],
+  [
+   "23-60-10-2",
+   1
+  ],
+  [
+   "23-60-10-4",
+   1
+  ],
+  [
+   "23-60-10-6",
+   1
+  ],
+  [
+   "23-60-2-8",
+   1
+  ],
+  [
+   "23-60-2-9",
+   1
+  ],
+  [
+   "23-60-2-6b",
+   1
+  ],
+  [
+   "23-60-10-8",
+   1
+  ],
+  [
+   "23-60-6-6",
+   1
+  ],
+  [
+   "23-60-4-4",
+   1
+  ],
+  [
+   "23-60-5-5",
+   1
+  ],
+  [
+   "23-60-7-7",
+   1
+  ],
+  [
+   "23-87-4-5",
+   1
+  ],
+  [
+   "23-87-3-6b",
+   1
+  ],
+  [
+   "23-87-6-7",
+   1
+  ],
+  [
+   "23-87-7-8",
+   1
+  ],
+  [
+   "23-87-7-9",
+   1
+  ],
+  [
+   "23-87-2-7",
+   1
+  ]
+ ],
+ "allocationsResolved": [
+  {
+   "id": "23-87-6-0",
+   "points": 1,
+   "name": "Glacial Tap",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 805369
+  },
+  {
+   "id": "23-87-5-1",
+   "points": 1,
+   "name": "Lich Essence",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 802988
+  },
+  {
+   "id": "23-87-4-2",
+   "points": 2,
+   "name": "Living Dead",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 302888
+  },
+  {
+   "id": "23-87-6-2",
+   "points": 1,
+   "name": "Create Frozen Reliquary",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 803772
+  },
+  {
+   "id": "23-87-2-0",
+   "points": 1,
+   "name": "Raise: Abomination",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 500335
+  },
+  {
+   "id": "23-87-4-0",
+   "points": 1,
+   "name": "Fetid Ward",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 680388
+  },
+  {
+   "id": "23-87-3-1",
+   "points": 2,
+   "name": "Hulking Hordes",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300748
+  },
+  {
+   "id": "23-87-2-2",
+   "points": 1,
+   "name": "Vampiric Aura",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300241
+  },
+  {
+   "id": "23-87-2-3",
+   "points": 1,
+   "name": "Life For Power",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 705746
+  },
+  {
+   "id": "23-87-4-4b",
+   "points": 1,
+   "name": "Overwhelming Force",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 531128
+  },
+  {
+   "id": "23-87-2-5",
+   "points": 1,
+   "name": "Reclaimed Life",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 707670
+  },
+  {
+   "id": "23-87-1-6",
+   "points": 1,
+   "name": "Game of Bones",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 301198
+  },
+  {
+   "id": "23-87-6-3",
+   "points": 1,
+   "name": "Ner'zhul's Blessing",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 704729
+  },
+  {
+   "id": "23-87-7-4",
+   "points": 1,
+   "name": "Death's Due",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 807796
+  },
+  {
+   "id": "23-87-6-5",
+   "points": 2,
+   "name": "Disciple of Kel'thuzad",
+   "maxPoints": 2,
+   "tree": "Necromancer (class tree)",
+   "spellId": 560615
+  },
+  {
+   "id": "23-87-8-5",
+   "points": 1,
+   "name": "Improved Mandates",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 560613
+  },
+  {
+   "id": "23-87-7-6b",
+   "points": 1,
+   "name": "Cobalt-Plated Armor",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 300945
+  },
+  {
+   "id": "23-60-4-0",
+   "points": 1,
+   "name": "Ice Barrage",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 801760
+  },
+  {
+   "id": "23-60-4-1",
+   "points": 1,
+   "name": "Refreshing Chill",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 300940
+  },
+  {
+   "id": "23-60-6-2",
+   "points": 1,
+   "name": "Glacial Impact",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 704355
+  },
+  {
+   "id": "23-60-2-2a",
+   "points": 1,
+   "name": "Piercing Icicles",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 524687
+  },
+  {
+   "id": "23-60-4-3",
+   "points": 2,
+   "name": "Runic Reservoir",
+   "maxPoints": 2,
+   "tree": "Rime",
+   "spellId": 704670
+  },
+  {
+   "id": "23-60-1-3",
+   "points": 2,
+   "name": "Bone Legion",
+   "maxPoints": 2,
+   "tree": "Rime",
+   "spellId": 707006
+  },
+  {
+   "id": "23-60-0-4",
+   "points": 1,
+   "name": "Heartchill",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 801739
+  },
+  {
+   "id": "23-60-1-5",
+   "points": 1,
+   "name": "Raise: Skeletal Mage",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 500331
+  },
+  {
+   "id": "23-60-2-4b",
+   "points": 1,
+   "name": "Ner'zhul's Blessing",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 803797
+  },
+  {
+   "id": "23-60-0-6",
+   "points": 1,
+   "name": "Command: Bonefreeze",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 504489
+  },
+  {
+   "id": "23-60-1-7",
+   "points": 2,
+   "name": "Crown's Call",
+   "maxPoints": 2,
+   "tree": "Rime",
+   "spellId": 805429
+  },
+  {
+   "id": "23-60-6-3",
+   "points": 1,
+   "name": "Hoarfrost Hands",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 803291
+  },
+  {
+   "id": "23-60-7-3a",
+   "points": 1,
+   "name": "Frigid Death",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 560851
+  },
+  {
+   "id": "23-60-6-4",
+   "points": 1,
+   "name": "Glacier Lord",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 560852
+  },
+  {
+   "id": "23-60-7-5",
+   "points": 1,
+   "name": "Frigid Power",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 560620
+  },
+  {
+   "id": "23-60-10-0",
+   "points": 1,
+   "name": "Tundra Warriors",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 92122
+  },
+  {
+   "id": "23-60-10-2",
+   "points": 1,
+   "name": "Ice Mastery",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 560045
+  },
+  {
+   "id": "23-60-10-4",
+   "points": 1,
+   "name": "Frozen Power",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 301303
+  },
+  {
+   "id": "23-60-10-6",
+   "points": 1,
+   "name": "Lich Form",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 500981
+  },
+  {
+   "id": "23-60-2-8",
+   "points": 1,
+   "name": "Raising the Kirin Tor",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 805649
+  },
+  {
+   "id": "23-60-2-9",
+   "points": 1,
+   "name": "Champion of Kel'Thuzad",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 807937
+  },
+  {
+   "id": "23-60-2-6b",
+   "points": 1,
+   "name": "Death and Ice",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 560012
+  },
+  {
+   "id": "23-60-10-8",
+   "points": 1,
+   "name": "Champion of Kel'thuzad",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 704676
+  },
+  {
+   "id": "23-60-6-6",
+   "points": 1,
+   "name": "Permafrost",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 704681
+  },
+  {
+   "id": "23-60-4-4",
+   "points": 1,
+   "name": "Giant Bones",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 805427
+  },
+  {
+   "id": "23-60-5-5",
+   "points": 1,
+   "name": "Frigidness",
+   "maxPoints": 2,
+   "tree": "Rime",
+   "spellId": 704669
+  },
+  {
+   "id": "23-60-7-7",
+   "points": 1,
+   "name": "Arch Lich",
+   "maxPoints": 1,
+   "tree": "Rime",
+   "spellId": 707588
+  },
+  {
+   "id": "23-87-4-5",
+   "points": 1,
+   "name": "Mass Grave",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 803741
+  },
+  {
+   "id": "23-87-3-6b",
+   "points": 1,
+   "name": "Lich Commander",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 704713
+  },
+  {
+   "id": "23-87-6-7",
+   "points": 1,
+   "name": "Winds of Northrend",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 301333
+  },
+  {
+   "id": "23-87-7-8",
+   "points": 1,
+   "name": "Frost Runes",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 705750
+  },
+  {
+   "id": "23-87-7-9",
+   "points": 1,
+   "name": "Animate: Frost Wyrm",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 805428
+  },
+  {
+   "id": "23-87-2-7",
+   "points": 1,
+   "name": "Putrid Summoner",
+   "maxPoints": 1,
+   "tree": "Necromancer (class tree)",
+   "spellId": 560595
+  }
+ ]
+}

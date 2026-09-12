@@ -1,0 +1,8 @@
+{
+  "name_enus": "Celestial Form",
+  "icon": "achievement_boss_algalon_01",
+  "tooltip_enus": "<table><tr><td><b>Celestial Form</b><br />20% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Ascend into a celestial form for 15&nbsp;sec, increasing your critical strike chance by 10%.<br /><br />While active, critical strikes now reduce the remaining cooldown of all healing spells by 10% and apply a <span style=\"color: #66ccff;\">Scattered Star</span> to your target and up to 4 enemies within 5 yds of them.</span></td></tr></table><!--?801231:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

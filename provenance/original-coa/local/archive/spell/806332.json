@@ -1,0 +1,8 @@
+{
+  "name_enus": "Gift of the Timeways",
+  "icon": "spell_holy_persecution",
+  "tooltip_enus": "<table><tr><td><b>Gift of the Timeways</b><br />10% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Heals an ally for 19 to 25, scaling with your Spirit and Spell Power.<br /><br />If your Order is greater than your Chromatic, the target is Healed for an additional 8% of their Maximum Health and is granted a damage absorption shield based on your Spirit for up to 6&nbsp;sec. This effect cannot Critically Strike.<br /><br />If your Chromatic is greater than your Order, the target Enrages for 10&nbsp;sec, increasing all damage they deal by 5%, and increasing their Melee, Ranged and Spell Haste by 8%.</span></td></tr></table><!--?806332:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

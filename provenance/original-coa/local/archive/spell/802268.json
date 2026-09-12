@@ -1,0 +1,8 @@
+{
+  "name_enus": "The True Spirit",
+  "icon": "inv_alchemy_90_combat2_purple",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>The True Spirit</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant cast</td></tr></table><table><tr><td><span class=\"q\">Summoning a <span style=\"color: #ffffff;\">Serpent Ward</span> or <span style=\"color: #ffffff;\">Spirit</span> now increases the damage of your next <span style=\"color: #FFFFFF;\">Spirit Glaive</span> or <span style=\"color: #ffffff;\">Spirit Eclipse</span> by 6% for 10&nbsp;sec, stacking 5 times.</span></td></tr></table><!--?802268:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

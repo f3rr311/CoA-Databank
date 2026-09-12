@@ -1,0 +1,8 @@
+{
+  "name_enus": "Crushing Dissonance",
+  "icon": "ability_kaztik_dominatemind",
+  "tooltip_enus": "<table><tr><td><b>Crushing Dissonance</b><br />18% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>30&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Unleash a wave of maddening resonance, interrupting the current spell cast of all enemies around you and preventing any spell in that school from being cast for 2&nbsp;sec.</span></td></tr></table><!--?804056:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

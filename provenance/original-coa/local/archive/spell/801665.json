@@ -1,0 +1,8 @@
+{
+  "name_enus": "Big Bad Voodoo",
+  "icon": "bigbadvoodoo",
+  "tooltip_enus": "<table><tr><td><b>Big Bad Voodoo</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">Create a copy of yourself that channels voodoo Energy for 8&nbsp;sec on allies within 0 yds, reducing damage taken by 0%. <br /><br />In addition, you and your summons, while within 0 yds, are immune to damage, but deal 25% reduced damage and healing.</span></td></tr></table><!--?801665:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

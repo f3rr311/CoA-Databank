@@ -1,0 +1,8 @@
+{
+  "name_enus": "Lightward",
+  "icon": "ability_priest_soulwarding",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Lightward</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases the duration of <span style=\"color: #ffffff;\">Blessing of Purity</span> by 2 sec.</span></td></tr></table><!--?800233:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

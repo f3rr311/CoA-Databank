@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bitter Cold",
+  "icon": "custom_t_nhance_rpg_icons_icewave_border",
+  "tooltip_enus": "<table><tr><td><b>Bitter Cold</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Chill Touch</span> now reduces the target's melee and ranged attack speed by 35% for 15 sec, stacking 0 times.</span></td></tr></table><!--?801736:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

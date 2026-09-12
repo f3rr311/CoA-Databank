@@ -1,0 +1,8 @@
+{
+  "name_enus": "Medicine Man",
+  "icon": "spell_nature_wispsplodegreen",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Medicine Man</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Allows 50% of your mana regeneration to continue while casting.</span></td></tr></table><!--?705860:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

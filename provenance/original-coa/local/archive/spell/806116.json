@@ -1,0 +1,8 @@
+{
+  "name_enus": "Duality of Light",
+  "icon": "nhi_holy_hand_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Duality of Light</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">While in <span style=\"color: #ffffff;\">Sunset</span>, your Holy damage dealt grants <span style=\"color: #ffffff;\">Twin Flame</span>.<br /><br />While in <span style=\"color: #ffffff;\">Sunrise</span>, your Fire damage dealt grants <span style=\"color: #ffffff;\">Sun Power</span><br /><br />Only one aura can be active at a time.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_deathwing_fierygrip.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=807061'> Twin Flames </a> <br />\n                            <span> Your next <span style=\"color: #FFFFFF;\">Rapture</span> within 15&nbsp;sec strikes again for 8% of the damage dealt, stacking 10 times.</span><br /><br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/spell_holy_surgeoflight.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=807077'> Sun Power </a> <br />\n                            <span> Your next <span style=\"color: #ffffff;\">Horusath Blast</span> within 15&nbsp;sec strikes again for 8% of the damage dealt, stacking 10 times.</span><br /></span></td></tr></table><!--?806116:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Forceblast",
+  "icon": "ability_foundryraid_blastwave",
+  "tooltip_enus": "<table><tr><td><b>Forceblast</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ffffff;\">Slag Barrage</span> missiles also knock their target back a short distance.</span></td></tr></table><!--?804870:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

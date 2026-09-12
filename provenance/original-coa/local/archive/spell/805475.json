@@ -1,0 +1,8 @@
+{
+  "name_enus": "Eternal Flame",
+  "icon": "_magiceye_darkmoonfaire",
+  "tooltip_enus": "<table><tr><td><b>Eternal Flame</b><br />Instant</td></tr></table><table><tr><td><span class=\"q\">Reduces the cooldown of <span style=\"color: #ffffff;\">Phoenix Egg</span> by 30 sec and increases the duration of <span style=\"color: #ffffff;\">Path of Flames</span> by 8 sec.</span></td></tr></table><!--?805475:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

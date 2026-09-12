@@ -1,0 +1,8 @@
+{
+  "name_enus": "Icequake Trigger",
+  "icon": "epic_rpg_icon_pack_frost_0003s_0000_elemental_border",
+  "tooltip_enus": "<table><tr><td><b>Icequake Trigger</b><br />Instant cast</td></tr></table><table><tr><td><span class=\"q\">You strike all enemies within $a1yd that are affected by <span style=\"color: #ffffff;\">Deathchill</span> with an icy blast, dealing 53+(PL*4) Frost damage to them and their nearby allies, and consuming 1 stack of <span style=\"color: #ffffff;\">Deathchill</span>.</span></td></tr></table><!--?801751:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

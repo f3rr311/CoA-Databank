@@ -1,0 +1,8 @@
+{
+  "name_enus": "Glacial Tap",
+  "icon": "_skullcurse2_blue",
+  "tooltip_enus": "<table><tr><td><b>Glacial Tap</b><br />40% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>12&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Tap into necrotic energies, instantly regenerating 30 Runic Power.</span></td></tr></table><!--?805369:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

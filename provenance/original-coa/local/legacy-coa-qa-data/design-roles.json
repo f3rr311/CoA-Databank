@@ -1,0 +1,766 @@
+[
+ {
+  "slug": "barbarian",
+  "name": "Barbarian",
+  "declared_roles": [
+   "melee dps",
+   "support"
+  ],
+  "armor": "Leather",
+  "resource": "Rage",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Ancestry",
+    "desc": "Call on Vrykul divine ancestors to buff allies while carving foes with a frost axe and ale-fueled celebrations.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Brutality",
+    "desc": "Unstoppable savage fighter tearing through foes with massive cleave using 2H weapons or dual wield.",
+    "role": "melee dps"
+   },
+   {
+    "spec": "Headhunting",
+    "desc": "Throw axes and spears from distance, unleashing deadly bleeds before enemies reach you.",
+    "role": "dps (unclassified)"
+   }
+  ],
+  "spec_names": [
+   "Ancestry",
+   "Brutality",
+   "Headhunting"
+  ]
+ },
+ {
+  "slug": "chronomancer",
+  "name": "Chronomancer",
+  "declared_roles": [
+   "ranged dps",
+   "healer"
+  ],
+  "armor": "Cloth",
+  "resource": "Temporal Energy",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Duality",
+    "desc": "Balance Order direct/AoE damage with Chaos erosion and execution damage for devastating dual-magic combos.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Artificer",
+    "desc": "Bronze Flight wand specialist building attack speed for torrential auto-attack magic barrages.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Displacement",
+    "desc": "Support healer rewinding ally health with Aeon-modified heals and a Bronze Whelp pet assistant.",
+    "role": "healer"
+   }
+  ],
+  "spec_names": [
+   "Duality",
+   "Artificer",
+   "Displacement"
+  ]
+ },
+ {
+  "slug": "cultist",
+  "name": "Cultist",
+  "declared_roles": [
+   "tank",
+   "dps",
+   "healer"
+  ],
+  "armor": "Cloth / Plate",
+  "resource": "Insanity",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Corruption",
+    "desc": "Intellect caster inflicting shadow nightmares and DoTs, balancing Insanity for massive damage boosts.",
+    "role": "ranged/caster dps"
+   },
+   {
+    "spec": "Influence",
+    "desc": "Dark healer swaying allies with Yogg-Saron absorb shields, healing, and Edict spells sharing unique procs.",
+    "role": "healer"
+   },
+   {
+    "spec": "Dreadnought",
+    "desc": "Y'shaarj-powered tank absorbing insane punishment with heavy armor and powerful absorption effects.",
+    "role": "tank"
+   }
+  ],
+  "spec_names": [
+   "Godblade",
+   "Corruption",
+   "Influence",
+   "Dreadnought"
+  ],
+  "_specs_trimmed": "D9-H2 owner pick 2026-07-28: dropped 'Godblade' (no spells were ever built for it)"
+ },
+ {
+  "slug": "felsworn",
+  "name": "Felsworn",
+  "declared_roles": [
+   "tank",
+   "dps"
+  ],
+  "armor": "Leather",
+  "resource": "Felfury",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Slaying",
+    "desc": "Highly mobile melee combo fighter unleashing brutal attacks in specific orders for bonus effects and burst.",
+    "role": "melee dps"
+   },
+   {
+    "spec": "Infernal",
+    "desc": "Chaos Mage conjuring felfire storms and instant-cast DoTs, dashing around the battlefield bathing foes in felfire.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Tyrant",
+    "desc": "Permanent Demon-form tank wielding felfire and flames while evading and deflecting damage.",
+    "role": "tank"
+   }
+  ],
+  "spec_names": [
+   "Slaying",
+   "Infernal",
+   "Tyrant"
+  ]
+ },
+ {
+  "slug": "guardian",
+  "name": "Guardian",
+  "declared_roles": [
+   "tank",
+   "dps",
+   "support"
+  ],
+  "armor": "Plate",
+  "resource": "Resolve",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Gladiator",
+    "desc": "Savage fighter with nets, charges, and leaps sticking to foes \u2014 robust plate defenses with physical damage focus.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Vanguard",
+    "desc": "Ultimate shield tank leading the charge with ironclad protection and AoE threat generation.",
+    "role": "tank"
+   },
+   {
+    "spec": "Inspiration",
+    "desc": "Support bard placing empowering banners, singing battle songs, and bolstering group morale and power.",
+    "role": "dps (unclassified)"
+   }
+  ],
+  "spec_names": [
+   "Gladiator",
+   "Vanguard",
+   "Inspiration"
+  ]
+ },
+ {
+  "slug": "knight-of-xoroth",
+  "name": "Knight of Xoroth",
+  "declared_roles": [
+   "tank",
+   "dps"
+  ],
+  "armor": "Plate",
+  "resource": "Deathfire",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "War",
+    "desc": "Physical butcher flaying enemies with hooks and chains, dragging foes close for health-regenerating kills.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Hellfire",
+    "desc": "Hybrid hell knight channeling demonic fire through your blade with blazing demon transformation bursts.",
+    "role": "melee dps"
+   },
+   {
+    "spec": "Defiance",
+    "desc": "Hellgate tank summoning imps and abyssal infernals from the firelands as an unstoppable flaming juggernaut.",
+    "role": "tank"
+   }
+  ],
+  "spec_names": [
+   "War",
+   "Hellfire",
+   "Defiance"
+  ]
+ },
+ {
+  "slug": "necromancer",
+  "name": "Necromancer",
+  "declared_roles": [
+   "ranged dps"
+  ],
+  "armor": "Cloth",
+  "resource": "Mana",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Death",
+    "desc": "Spread devastating diseases with plague bombs and crypt plagues for sustained DoT damage while minions batter diseased foes.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Animation",
+    "desc": "Become a dark summoner, animating hordes of undead to swarm and overwhelm enemies.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Rime",
+    "desc": "Embrace the frosts of Northrend, transforming into a powerful Lich with icy magic and caster-focused minions.",
+    "role": "ranged/caster dps"
+   }
+  ],
+  "spec_names": [
+   "Death",
+   "Animation",
+   "Rime"
+  ]
+ },
+ {
+  "slug": "primalist",
+  "name": "Primalist",
+  "declared_roles": [
+   "healer",
+   "dps"
+  ],
+  "armor": "Plate",
+  "resource": "Primal Energy",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Geomancy",
+    "desc": "Embodiment of earthen fury shaping earth and bludgeoning enemies with shards of stone.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Wildwalker",
+    "desc": "Totem warrior communing with wild gods, summoning Spirit Animals and fighting with 2H or dual wield.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Life",
+    "desc": "Melee rage-based healer invoking the Earthmother with radiating AoE heals and animalistic boons.",
+    "role": "healer"
+   }
+  ],
+  "spec_names": [
+   "Geomancy",
+   "Mountain King",
+   "Wildwalker",
+   "Life"
+  ],
+  "_specs_trimmed": "D9-H 2026-07-28: dropped 'Mountain King' (tank spec on a non-tank branch)",
+  "_roles_trimmed": "D9-H: 'tank' removed - not on the 8-tank list"
+ },
+ {
+  "slug": "pyromancer",
+  "name": "Pyromancer",
+  "declared_roles": [
+   "ranged dps",
+   "healer"
+  ],
+  "armor": "Cloth",
+  "resource": "Mana",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Incineration",
+    "desc": "Burn enemies to cinders with powerful direct damage spells, meteors, and fire DoTs like Ignite and Blaze.",
+    "role": "ranged/caster dps"
+   },
+   {
+    "spec": "Draconic",
+    "desc": "Embrace the Black Dragonflight as a mobile magical assassin with draconic breaths and a red dragon ascension form.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Flameweaving",
+    "desc": "DPS-healer hybrid leaving trails of flame that mend allies and damage enemies, summoning a Phoenix pet.",
+    "role": "healer"
+   }
+  ],
+  "spec_names": [
+   "Incineration",
+   "Draconic",
+   "Flameweaving"
+  ]
+ },
+ {
+  "slug": "ranger",
+  "name": "Ranger",
+  "declared_roles": [
+   "ranged dps",
+   "support"
+  ],
+  "armor": "Leather",
+  "resource": "Focus",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Archery",
+    "desc": "Dedicated long-range archer using Quiver abilities to modify damage with excellent mobility.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Brigand",
+    "desc": "Ambush bandit assaulting with brutal melee, poisons, and dirty tricks from civilization's edge.",
+    "role": "melee dps"
+   },
+   {
+    "spec": "Farstrider",
+    "desc": "Support spec calling War Falcons and blowing hunting horns to buff allies \u2014 a CoA Support role.",
+    "role": "dps (unclassified)"
+   }
+  ],
+  "spec_names": [
+   "Archery",
+   "Brigand",
+   "Farstrider"
+  ]
+ },
+ {
+  "slug": "reaper",
+  "name": "Reaper",
+  "declared_roles": [
+   "tank",
+   "dps"
+  ],
+  "armor": "Plate",
+  "resource": "Souls",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Harvest",
+    "desc": "Melee bruiser draining enemy essence to restore HP and cleave foes into sanguine corpses.",
+    "role": "melee dps"
+   },
+   {
+    "spec": "Soul",
+    "desc": "Shadowlands caster combining shadow damage, spell power, and dual wield \u2014 fading invisible between realms.",
+    "role": "ranged/caster dps"
+   },
+   {
+    "spec": "Domination",
+    "desc": "Savage tank consuming health for threat and AoE damage with two-handed parry and sustain abilities.",
+    "role": "tank"
+   }
+  ],
+  "spec_names": [
+   "Harvest",
+   "Soul",
+   "Domination"
+  ]
+ },
+ {
+  "slug": "runemaster",
+  "name": "Runemaster",
+  "declared_roles": [
+   "ranged dps"
+  ],
+  "armor": "Cloth",
+  "resource": "Runes",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Spellslinger",
+    "desc": "Raw arcane caster using shifting wild magic to inscribe and unleash devastating Thaumaturgy spells.",
+    "role": "ranged/caster dps"
+   },
+   {
+    "spec": "Riftblade",
+    "desc": "Agile assassin cycling Fire, Frost, and Arcane blades within a Mana Shroud for combo spell devastation.",
+    "role": "melee dps"
+   },
+   {
+    "spec": "Conjuration",
+    "desc": "Pet-focused spec where all abilities radiate from your Runic Familiar with teleports and shockwaves.",
+    "role": "dps (unclassified)"
+   }
+  ],
+  "spec_names": [
+   "Spellslinger",
+   "Riftblade",
+   "Conjuration"
+  ]
+ },
+ {
+  "slug": "son-of-arugal",
+  "name": "Bloodmage",
+  "declared_roles": [
+   "healer",
+   "dps"
+  ],
+  "armor": "Leather",
+  "resource": "Rage / Vitality",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Blood",
+    "desc": "Embrace the San'layn gift using your own health to devastate enemies and transfuse life into allies.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Packleader",
+    "desc": "Permanently transform into Worgen commanding a Shadow Pack that summons shadow worgen in combat.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Fleshweaver",
+    "desc": "Blood Mage healer weaving rejuvenating spells, pooling Vitality for powerful blood rituals that mend mortal wounds.",
+    "role": "healer"
+   }
+  ],
+  "spec_names": [
+   "Ferocity",
+   "Blood",
+   "Packleader",
+   "Fleshweaver"
+  ],
+  "_roles_trimmed": "D9-H: 'tank' removed - not on the 8-tank list",
+  "_specs_trimmed": "D9-H2 owner pick 2026-07-28: dropped 'Ferocity' (no spells were ever built for it)"
+ },
+ {
+  "slug": "starcaller",
+  "name": "Starcaller",
+  "declared_roles": [
+   "dps",
+   "healer"
+  ],
+  "armor": "Mail / Plate",
+  "resource": "Starlight",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Sentinel",
+    "desc": "Priestess of the Moon enhancing bows with astral magic \u2014 ranged DPS or healer with warsaber mounted combat.",
+    "role": "healer"
+   },
+   {
+    "spec": "Moon Priest",
+    "desc": "Weave moonlight to restore allies, using enchanted arrows and lunar phases for mana and healing.",
+    "role": "healer"
+   },
+   {
+    "spec": "Moon Guard",
+    "desc": "Elite Kaldorei sorcerer using arcane barriers that gain strength from mana flow to protect allies.",
+    "role": "dps (unclassified)"
+   }
+  ],
+  "spec_names": [
+   "Warden",
+   "Sentinel",
+   "Moon Priest",
+   "Moon Guard"
+  ],
+  "_specs_trimmed": "D9-H 2026-07-28: dropped 'Warden' (tank spec on a non-tank branch)",
+  "_roles_trimmed": "D9-H: 'tank' removed - not on the 8-tank list"
+ },
+ {
+  "slug": "stormbringer",
+  "name": "Stormbringer",
+  "declared_roles": [
+   "ranged dps",
+   "support"
+  ],
+  "armor": "Cloth",
+  "resource": "Static",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Lightning",
+    "desc": "Single-target burst caster building Static to unleash additional effects on powerful lightning spells.",
+    "role": "ranged/caster dps"
+   },
+   {
+    "spec": "Thunder",
+    "desc": "Ultimate AoE mage summoning lightning orbs, chain lightnings, and instant casts across the battlefield.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Winds",
+    "desc": "Support spec summoning an Air Elemental that grows stronger in combat, buffing allies while devastating foes.",
+    "role": "dps (unclassified)"
+   }
+  ],
+  "spec_names": [
+   "Lightning",
+   "Thunder",
+   "Winds"
+  ]
+ },
+ {
+  "slug": "sun-cleric",
+  "name": "Sun Cleric",
+  "declared_roles": [
+   "dps",
+   "healer"
+  ],
+  "armor": "Cloth / Plate",
+  "resource": "Solar Power",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Piety",
+    "desc": "Solar priest weaving burning light into powerful holy and fire spells with Sunset burst windows.",
+    "role": "ranged/caster dps"
+   },
+   {
+    "spec": "Blessings",
+    "desc": "Healer using faith in flame to protect allies, building Solar Power for massive group healing.",
+    "role": "healer"
+   },
+   {
+    "spec": "Valkyrie",
+    "desc": "Val'kyr-imbued dual-wielding melee unleashing devastating flurries of flaming spear strikes.",
+    "role": "melee dps"
+   }
+  ],
+  "spec_names": [
+   "Piety",
+   "Seraphim",
+   "Blessings",
+   "Valkyrie"
+  ],
+  "_specs_trimmed": "D9-H 2026-07-28: dropped 'Seraphim' (tank spec on a non-tank branch)",
+  "_roles_trimmed": "D9-H: 'tank' removed - not on the 8-tank list"
+ },
+ {
+  "slug": "templar",
+  "name": "Templar",
+  "declared_roles": [
+   "tank",
+   "dps"
+  ],
+  "armor": "Mail",
+  "resource": "Conviction",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Crusader",
+    "desc": "Graceful holy fighter weaving in and out of range with spiritual blade vortexes and light-infused strikes.",
+    "role": "melee dps"
+   },
+   {
+    "spec": "Martial",
+    "desc": "Flurry striker utilizing powerful combos to unleash devastating effects in swift successive strikes.",
+    "role": "melee dps"
+   },
+   {
+    "spec": "Discipline",
+    "desc": "Staff-wielding monk tank deflecting blows and maintaining a stacking mitigation buff through woven strikes.",
+    "role": "tank"
+   }
+  ],
+  "spec_names": [
+   "Crusader",
+   "Martial",
+   "Discipline"
+  ]
+ },
+ {
+  "slug": "tinker",
+  "name": "Tinker",
+  "declared_roles": [
+   "ranged dps",
+   "healer"
+  ],
+  "armor": "Leather / Mail",
+  "resource": "Rounds",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Demolition",
+    "desc": "Explosive specialist wielding blackpowder \u2014 rocket launchers, handcannons, cannonballs, and sapper charges.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Mechanics",
+    "desc": "Master builder of turrets, land mines, and Shredder mechsuits with sawblades and flamethrowers.",
+    "role": "melee dps"
+   },
+   {
+    "spec": "Invention",
+    "desc": "Support healer placing effect beacons, deploying nanobots, and using a healing gun to purge and patch allies.",
+    "role": "healer"
+   }
+  ],
+  "spec_names": [
+   "Demolition",
+   "Mechanics",
+   "Invention"
+  ]
+ },
+ {
+  "slug": "venomancer",
+  "name": "Venomancer",
+  "declared_roles": [
+   "healer",
+   "dps"
+  ],
+  "armor": "Leather / Mail",
+  "resource": "Toxins",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Rot",
+    "desc": "Rotweaver spreading poisons and toxic mayhem that hinder and debilitate foes across the battlefield.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Vizier",
+    "desc": "Nerubian vizier healer mending allies through regenerative magic and Shadra's Vigil ritual chanting.",
+    "role": "healer"
+   },
+   {
+    "spec": "Stalking",
+    "desc": "Spider-form assassin burrowing underground, progressing to Serpent Lord, Nerubian, or Spider Lord forms.",
+    "role": "dps (unclassified)"
+   }
+  ],
+  "spec_names": [
+   "Rot",
+   "Vizier",
+   "Stalking",
+   "Fortitude"
+  ],
+  "_specs_trimmed": "D9-H 2026-07-28: dropped 'Fortitude' (tank spec on a non-tank branch)",
+  "_roles_trimmed": "D9-H: 'tank' removed - not on the 8-tank list"
+ },
+ {
+  "slug": "witch-doctor",
+  "name": "Witch Doctor",
+  "declared_roles": [
+   "ranged dps",
+   "healer"
+  ],
+  "armor": "Leather",
+  "resource": "Mana",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Brewing",
+    "desc": "Mix potions mid-combat for situational buffs, channel voodoo beams, and place Healing Wards for ally sustain.",
+    "role": "healer"
+   },
+   {
+    "spec": "Voodoo",
+    "desc": "Hex and jinx specialist stacking debuffs and DoTs to send foes to the Odda' Side as shallow husks.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Shadowhunting",
+    "desc": "Vol'jin-inspired ranged hunter with shadow-poisoned arrows, invoked dinosaurs, and Serpent Wards.",
+    "role": "ranged/caster dps"
+   }
+  ],
+  "spec_names": [
+   "Brewing",
+   "Voodoo",
+   "Shadowhunting"
+  ]
+ },
+ {
+  "slug": "witch-hunter",
+  "name": "Witch Hunter",
+  "declared_roles": [
+   "tank",
+   "dps"
+  ],
+  "armor": "Mail",
+  "resource": "Focus",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Boltslinger",
+    "desc": "Mobile mid-range repeater crossbow DPS comboing silver-coated bolts in a deadly hunt flurry.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Inquisition",
+    "desc": "Faith-driven purger alternating Purity and Wickedness to cauterize darkness in righteous or burning fire.",
+    "role": "dps (unclassified)"
+   },
+   {
+    "spec": "Black Knight",
+    "desc": "Witchmail tank wielding dark magic and two-handed weapon strikes to leech health from enemies.",
+    "role": "tank"
+   }
+  ],
+  "spec_names": [
+   "Boltslinger",
+   "Inquisition",
+   "Darkness",
+   "Black Knight"
+  ],
+  "_specs_trimmed": "D9-H2 owner pick 2026-07-28: dropped 'Darkness' (no spells were ever built for it)"
+ },
+ {
+  "slug": "tidecaller",
+  "name": "Tidecaller",
+  "declared_roles": [
+   "healer",
+   "dps"
+  ],
+  "armor": "Mail",
+  "resource": "Mana",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Tidecaller",
+    "desc": "Raid healer channelling the tides"
+   },
+   {
+    "spec": "Undertow",
+    "desc": "Frost-water damage"
+   },
+   {
+    "spec": "Deepwarden",
+    "desc": "Absorb and shield support"
+   }
+  ],
+  "_source": "D9-A2 design decision; added by FP-39 2026-07-28"
+ },
+ {
+  "slug": "shadowguard",
+  "name": "Shadowguard",
+  "declared_roles": [
+   "tank",
+   "dps"
+  ],
+  "armor": "Leather",
+  "resource": "Energy",
+  "spec_count_claimed": "three",
+  "specs": [
+   {
+    "spec": "Umbral",
+    "desc": "Shadow-ward evasion tank - defence by not being hit"
+   },
+   {
+    "spec": "Duelist",
+    "desc": "Parry-riposte melee"
+   },
+   {
+    "spec": "Nightblade",
+    "desc": "Poison and bleed melee"
+   }
+  ],
+  "_source": "D9-A2 design decision; added by FP-39 2026-07-28"
+ }
+]

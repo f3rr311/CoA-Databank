@@ -1,0 +1,8 @@
+{
+  "name_enus": "Bot: Flamespill",
+  "icon": "ability_siege_engineer_death_from_above",
+  "tooltip_enus": "<table><tr><td><b>Bot: Flamespill</b><br /><table width=\"100%\"><tr><td>Instant</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Teleports your <span style=\"color: #ffffff;\">Clockwork Assistant</span> to the targeted position and causes it to unleash a torrent of flames upon enemies within $800538a3yd, causing 27 Fire Damage.</span></td></tr></table><!--?800572:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ysera's Blessing",
+  "icon": "inv_misc_head_dragon_green",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Ysera's Blessing</b></td><th><b class=\"q0\">Passive</b></th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Reduces the cast time of <span style=\"color: #ffffff;\">Gaze of Ysera</span> by 0.5 sec and causes it to have a 10% reduced chance to break from damage.</span></td></tr></table><!--?704820:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

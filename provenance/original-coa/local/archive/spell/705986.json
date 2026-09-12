@@ -1,0 +1,8 @@
+{
+  "name_enus": "Chitinous Spikes",
+  "icon": "nhi_nature_spikes_border",
+  "tooltip_enus": "<table><tr><td><b>Chitinous Spikes</b><br /></td></tr></table><table><tr><td><span class=\"q\">Increases attack power by 1 for every 280 Armor value you have, and causes 2+0.2*PL Physical damage to melee attackers for 10&nbsp;sec.</span></td></tr></table><!--?705986:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

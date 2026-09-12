@@ -1,0 +1,8 @@
+{
+  "name_enus": "Obliteration Beam",
+  "icon": "nhi_shadoweye_border",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Obliteration Beam</b></td><th><b class=\"q0\">Rank 1</b></th></tr></table>19% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>20&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #cfa6ff;\">Generates 10 Insanity</span><br />Unleash a beam of eldritch energy, dealing 126+0+ShaP*.65 Shadow damage to an enemy and all nearby enemies.<br /><br />While above 60 <span style=\"color: #cfa6ff;\">Insanity</span>, deals 20% more damage.</span></td></tr></table><!--?805572:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

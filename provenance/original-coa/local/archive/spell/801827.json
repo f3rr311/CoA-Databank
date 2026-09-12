@@ -1,0 +1,15 @@
+{
+  "name_enus": "Rockadier",
+  "icon": "ability_mount_rocketmount4",
+  "tooltip_enus": "<table><tr><td><b>Rockadier</b><br />12% of base mana<br /><table width=\"100%\"><tr><td>Instant</td><th>3&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Empowers the next <!--sp805314:0-->6<!--sp805314--> <span style=\"color: #ffffff;\">Scrap Shots</span> or <span style=\"color: #ffffff;\">Rocket Launchers</span> within 30&nbsp;sec deal additional Fire damage equal to 100% of the damage dealt to up to 10 enemies around the target.</span></td></tr></table><!--?801827:1:1:80-->",
+  "spells_enus": {
+    "805314": [
+      [
+        6,
+        10
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

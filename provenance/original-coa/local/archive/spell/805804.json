@@ -1,0 +1,8 @@
+{
+  "name_enus": "Ramhorn Rage",
+  "icon": "inv_holiday_beerfest_maghar",
+  "tooltip_enus": "<table><tr><td><b>Ramhorn Rage</b><br /><table width=\"100%\"><tr><td>Instant</td><th>2&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\"><span style=\"color: #ec8201;\">Enrage Effect</span><br />Enrage party and raid members within 8 yds for 3&nbsp;sec, regenerating 2% of their maximum health every 1.5 sec. <br /><br />Melee auto attacks extend the duration of this effect by 2 sec, up to a maximum of 15&nbsp;sec.<br /><br />This ability empties your <span style=\"color: #ffffff;\">Tankard</span>, consuming <span style=\"color: #ffffff;\">Fill Level</span> stacks and triggering with a reduced cooldown based on stacks consumed.<br /><span class='iconsmall'><ins style='background-image: url(\"https://db.ascension.gg/static/images/wow/icons/small/ability_warrior_focusedrage.jpg\");'></ins><del></del></span>\n                            <a style='color: white !important' href='?spell=804337'> Barbaric Rage </a> <br />\n                            <span> While enraged, the global cooldown of Barbarian abilities is reduced by 30%.</span><br /></span></td></tr></table><!--?805804:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

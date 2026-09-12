@@ -1,0 +1,8 @@
+{
+  "name_enus": "Aeon of Protection",
+  "icon": "inv_trinket_80_kultiras02d",
+  "tooltip_enus": "<table><tr><td><b>Aeon of Protection</b><br />12% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>10&nbsp;sec cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Increases <span style=\"color: #ffffff;\">Epoch</span>'s cast time by 15%, healing done by 15%, and causes it to apply a damage absorption shield equal to 30% of the amount healed for 8&nbsp;sec.<br /><br />Shares a cooldown with other <span style=\"color: #ffffff;\">Aeon</span> spells.</span></td></tr></table><!--?806292:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

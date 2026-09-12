@@ -1,0 +1,15 @@
+{
+  "name_enus": "Survival Potion",
+  "icon": "nhi_naturecocktail_border",
+  "tooltip_enus": "<table><tr><td><b>Survival Potion</b><br /><table width=\"100%\"><tr><td>Instant cast</td><th>1&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Drink a survival potion, dispelling all poison and disease effects and removing 1 poison and disease effect every 3 sec for 9&nbsp;sec.<br /><!--sp504329:0--><!--sp504329--></span></td></tr></table><!--?802839:1:1:80-->",
+  "spells_enus": {
+    "504329": [
+      [
+        "",
+        "<br />In addition, restore 10% of your maximum health  with each tick."
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,15 @@
+{
+  "name_enus": "Gravebound Champion",
+  "icon": "spell_deathknight_bloodpresence",
+  "tooltip_enus": "<table><tr><td><b>Gravebound Champion</b><br />15% of base mana<br /><table width=\"100%\"><tr><td>Instant cast</td><th>5&nbsp;min cooldown</th></tr></table></td></tr></table><table><tr><td><span class=\"q\">Summon a <span style=\"color: #ffffff;\">Gravebound Champion</span> that redirects 50% of all damage the caster takes to themselves for 20&nbsp;sec.<br /><br />Shares a <!--sp301198:0-->3min<!--sp301198--> cooldown with other <span style=\"color: #ffffff;\">Champion</span> spells.</span></td></tr></table><!--?805049:1:1:80-->",
+  "spells_enus": {
+    "301198": [
+      [
+        "3min",
+        "2min"
+      ]
+    ]
+  },
+  "buff_enus": "",
+  "buffspells_enus": []
+}

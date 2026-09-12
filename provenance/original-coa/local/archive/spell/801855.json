@@ -1,0 +1,8 @@
+{
+  "name_enus": "Flow of Wrath",
+  "icon": "priest_icon_chakra_blue",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Flow of Wrath</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Increases your critical strike chance by 15% against enemies affected by <span style=\"color: #ffffff;\">Drown</span>.</span></td></tr></table><!--?801855:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}

@@ -1,0 +1,8 @@
+{
+  "name_enus": "Draconic Rage",
+  "icon": "achievement_boss_drakkisath",
+  "tooltip_enus": "<table><tr><td><table width=\"100%\"><tr><td><b>Draconic Rage</b></td><th><b class=\"q0\">Passive</b></th></tr></table>Instant</td></tr></table><table><tr><td><span class=\"q\">Consuming <span style=\"color: #ff7f7f;\">Embers</span> now has a 25% chance to trigger <span style=\"color: #ffffff;\">Dragon's Wrath</span> on all enemies affected by <span style=\"color: #ffffff;\">Blaze</span>.</span></td></tr></table><!--?802164:1:1:80-->",
+  "spells_enus": [],
+  "buff_enus": "",
+  "buffspells_enus": []
+}
